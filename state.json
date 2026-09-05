@@ -816,6 +816,27 @@
       "sequence": 0
     },
     {
+      "uid": "college-football-401856704@football-watchlist",
+      "gameId": "401856704",
+      "title": "CFB: Texas at Tennessee",
+      "start": "2026-09-26T16:00:00.000Z",
+      "end": "2026-09-26T19:30:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#5 vs #20) at selection.\n\nTeams: Texas Longhorns at Tennessee Volunteers\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856704/texas-tennessee",
+      "location": "Neyland Stadium, Knoxville, TN, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856704/texas-tennessee",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#5 vs #20) at selection.",
+      "hash": "a2b2e32e75e08291b422240104d05e668aab584356fc1c774457c8173b41b6c6",
+      "created": "2026-09-05T22:05:29.344Z",
+      "modified": "2026-09-05T22:05:29.344Z",
+      "sequence": 0
+    },
+    {
       "uid": "redzone-2026-09-27@football-watchlist",
       "title": "NFL RedZone",
       "start": "2026-09-27T17:00:00.000Z",

@@ -852,6 +852,27 @@ STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:college-football-401856704@football-watchlist
+DTSTAMP:20260905T220529Z
+CREATED:20260905T220529Z
+LAST-MODIFIED:20260905T220529Z
+SEQUENCE:0
+DTSTART:20260926T160000Z
+DTEND:20260926T193000Z
+SUMMARY:CFB: Texas at Tennessee
+DESCRIPTION:National pick: ranked matchup (#5 vs #20) at selection.\n\nTeam
+ s: Texas Longhorns at Tennessee Volunteers\n\nBroadcast to be announced.\n
+ \nViewing window: 3.5 hours (4 hours for championships)\; finish is approx
+ imate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/40
+ 1856704/texas-tennessee
+LOCATION:Neyland Stadium\, Knoxville\, TN\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856704/texas-ten
+ nessee
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:redzone-2026-09-27@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
