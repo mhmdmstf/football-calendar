@@ -1,0 +1,26 @@
+{
+  "name": "Football Worth Watching",
+  "favoriteCollegeTeamIds": ["333"],
+  "nationalGamesPerWeek": 6,
+  "selectionHorizonDays": 21,
+  "includeGameIds": [],
+  "excludeGameIds": [],
+  "rivalries": [
+    {"teams": ["333", "2"], "name": "Iron Bowl"},
+    {"teams": ["194", "130"], "name": "The Game"},
+    {"teams": ["251", "201"], "name": "Red River Rivalry"},
+    {"teams": ["349", "2426"], "name": "Army-Navy"},
+    {"teams": ["57", "52"], "name": "Florida-Florida State"},
+    {"teams": ["61", "59"], "name": "Clean, Old-Fashioned Hate"},
+    {"teams": ["228", "2579"], "name": "Clemson-South Carolina"},
+    {"teams": ["145", "344"], "name": "Egg Bowl"},
+    {"teams": ["333", "2633"], "name": "Third Saturday in October"},
+    {"teams": ["30", "26"], "name": "USC-UCLA"},
+    {"teams": ["30", "87"], "name": "USC-Notre Dame"},
+    {"teams": ["2483", "264"], "name": "Oregon-Washington"},
+    {"teams": ["265", "264"], "name": "Apple Cup"},
+    {"teams": ["57", "61"], "name": "Florida-Georgia"},
+    {"teams": ["52", "2390"], "name": "Florida State-Miami"},
+    {"teams": ["251", "245"], "name": "Texas-Texas A&M"}
+  ]
+}

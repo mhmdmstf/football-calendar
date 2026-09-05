@@ -1,0 +1,3766 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Football Worth Watching//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Football Worth Watching
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:show-gameday-2026-09-05@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20260905T130000Z
+DTEND:20260905T160000Z
+SUMMARY:College GameDay: Baton Rouge\, Louisiana
+DESCRIPTION:College GameDay on ESPN. Featured game: LSU vs. Clemson. Broadc
+ ast window: 9:00 a.m. to noon Eastern. Broadcast schedules can change.\nSo
+ urce: https://espnpressroom.com/press-release/college-gameday-hits-the-roa
+ d-for-the-500th-time-as-season-40-kicks-off-in-baton-rouge/
+LOCATION:Baton Rouge\, Louisiana
+URL:https://espnpressroom.com/press-release/college-gameday-hits-the-road-f
+ or-the-500th-time-as-season-40-kicks-off-in-baton-rouge/
+CATEGORIES:College,Pregame
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:show-bignoon-2026-09-05@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20260905T140000Z
+DTEND:20260905T160000Z
+SUMMARY:Big Noon Kickoff: Bloomington\, Indiana
+DESCRIPTION:Big Noon Kickoff on FOX. Featured game: Indiana vs. North Texas
+ . Broadcast window: 10:00 a.m. to noon Eastern. Broadcast schedules can ch
+ ange.\nSource: https://www.foxsports.com/big-noon-kickoff-experience
+LOCATION:Bloomington\, Indiana
+URL:https://www.foxsports.com/big-noon-kickoff-experience
+CATEGORIES:College,Pregame
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856634@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20260905T160000Z
+DTEND:20260905T193000Z
+SUMMARY:CFB: East Carolina at Alabama
+DESCRIPTION:Following Alabama: every game.\n\nTeams: East Carolina Pirates 
+ at Alabama Crimson Tide\n\nUS broadcast: ABC. Availability elsewhere varie
+ s.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish is ap
+ proximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameI
+ d/401856634/east-carolina-alabama
+LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856634/east-caro
+ lina-alabama
+CATEGORIES:College,Alabama
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858425@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20260905T160000Z
+DTEND:20260905T193000Z
+SUMMARY:CFB: North Texas at Indiana
+DESCRIPTION:Confirmed College GameDay or Big Noon featured matchup.\n\nTeam
+ s: North Texas Mean Green at Indiana Hoosiers\n\nUS broadcast: FOX. Availa
+ bility elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champio
+ nships)\; finish is approximate.\n\nSchedule: https://www.espn.com/college
+ -football/game/_/gameId/401858425/north-texas-indiana
+LOCATION:Memorial Stadium (Bloomington\, IN)\, Bloomington\, IN\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858425/north-tex
+ as-indiana
+CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856660@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20260905T233000Z
+DTEND:20260906T030000Z
+SUMMARY:CFB: Clemson at LSU
+DESCRIPTION:Confirmed College GameDay or Big Noon featured matchup.\n\nTeam
+ s: Clemson Tigers at LSU Tigers\n\nUS broadcast: ABC / ERADM. Availability
+  elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships
+ )\; finish is approximate.\n\nSchedule: https://www.espn.com/college-footb
+ all/game/_/gameId/401856660/clemson-lsu
+LOCATION:Tiger Stadium (LA)\, Baton Rouge\, LA\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856660/clemson-l
+ su
+CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858437@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T145208Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:0
+DTSTART:20260906T200000Z
+DTEND:20260906T233000Z
+SUMMARY:CFB: Washington State at Washington
+DESCRIPTION:Major rivalry: Apple Cup.\n\nTeams: Washington State Cougars at
+  Washington Huskies\n\nUS broadcast: NBC. Availability elsewhere varies.\n
+ \nViewing window: 3.5 hours (4 hours for championships)\; finish is approx
+ imate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/40
+ 1858437/washington-st-washington
+LOCATION:Husky Stadium\, Seattle\, WA\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858437/washingto
+ n-st-washington
+CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856661@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T145208Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:0
+DTSTART:20260906T233000Z
+DTEND:20260907T030000Z
+SUMMARY:CFB: Louisville at Ole Miss
+DESCRIPTION:National pick: ranked matchup (#9 vs #24) at selection.\n\nLibe
+ rty Mutual Music City Kickoff\n\nTeams: Louisville Cardinals at Ole Miss R
+ ebels\n\nUS broadcast: ABC / ERADM. Availability elsewhere varies.\n\nView
+ ing window: 3.5 hours (4 hours for championships)\; finish is approximate.
+ \n\nSchedule: https://www.espn.com/college-football/game/_/gameId/40185666
+ 1/louisville-ole-miss
+LOCATION:Nissan Stadium\, Nashville\, TN\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856661/louisvill
+ e-ole-miss
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858438@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T145208Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:0
+DTSTART:20260906T233000Z
+DTEND:20260907T030000Z
+SUMMARY:CFB: Wisconsin at Notre Dame
+DESCRIPTION:National pick: Sunday or Monday national broadcast featuring a 
+ ranked team.\n\nTeams: Wisconsin Badgers at Notre Dame Fighting Irish\n\nU
+ S broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 ho
+ urs (4 hours for championships)\; finish is approximate.\n\nSchedule: http
+ s://www.espn.com/college-football/game/_/gameId/401858438/wisconsin-notre-
+ dame
+LOCATION:Lambeau Field\, Green Bay\, WI\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858438/wisconsin
+ -notre-dame
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858212@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T145208Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:0
+DTSTART:20260907T233000Z
+DTEND:20260908T030000Z
+SUMMARY:CFB: SMU at Florida State
+DESCRIPTION:National pick: a ranked team in a potentially competitive game 
+ (market spread 3 points at selection). Upset possibility is an estimate.\n
+ \nTeams: SMU Mustangs at Florida State Seminoles\n\nUS broadcast: ESPN. Av
+ ailability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for cha
+ mpionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/col
+ lege-football/game/_/gameId/401858212/smu-florida-st
+LOCATION:Doak Campbell Stadium\, Tallahassee\, FL\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858212/smu-flori
+ da-st
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401872656@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20260910T002000Z
+DTEND:20260910T035000Z
+SUMMARY:NFL: New England Patriots at Seattle Seahawks
+DESCRIPTION:Standalone NFL game outside the regular Sunday afternoon slate.
+ \n\nTeams: New England Patriots at Seattle Seahawks\n\nUS broadcast: NBC. 
+ Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for c
+ hampionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/n
+ fl/game/_/gameId/401872656/patriots-seahawks
+LOCATION:Lumen Field\, Seattle\, WA\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401872656/patriots-seahawks
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401872657@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20260911T003500Z
+DTEND:20260911T040500Z
+SUMMARY:NFL: San Francisco 49ers at Los Angeles Rams
+DESCRIPTION:International game: Australia.\nThursday football\, including T
+ hanksgiving.\n\nNFL Melbourne Game\n\nTeams: San Francisco 49ers at Los An
+ geles Rams\n\nUS broadcast: Netflix. Availability elsewhere varies.\n\nVie
+ wing window: 3.5 hours (4 hours for championships)\; finish is approximate
+ .\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872657/49ers-rams
+LOCATION:Melbourne Cricket Ground\, Melbourne\, VIC\, Australia
+URL:https://www.espn.com/nfl/game/_/gameId/401872657/49ers-rams
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856678@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20260912T000000Z
+DTEND:20260912T033000Z
+SUMMARY:CFB: Missouri at Kansas
+DESCRIPTION:National pick: a ranked team in a potentially competitive game 
+ (market spread 6.5 points at selection). Upset possibility is an estimate.
+ \n\nTeams: Missouri Tigers at Kansas Jayhawks\n\nUS broadcast: FOX. Availa
+ bility elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champio
+ nships)\; finish is approximate.\n\nSchedule: https://www.espn.com/college
+ -football/game/_/gameId/401856678/missouri-kansas
+LOCATION:David Booth Kansas Memorial Stadium\, Lawrence\, KS\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856678/missouri-
+ kansas
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:show-gameday-2026-09-12@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20260912T130000Z
+DTEND:20260912T160000Z
+SUMMARY:College GameDay: Austin\, Texas
+DESCRIPTION:College GameDay on ESPN. Featured game: Texas vs. Ohio State. B
+ roadcast window: 9:00 a.m. to noon Eastern. Broadcast schedules can change
+ .\nSource: https://espnpressroom.com/press-release/espns-college-gameday-b
+ uilt-by-the-home-depot-kicks-off-40th-season-in-baton-rouge-with-500th-sho
+ w-on-the-road/
+LOCATION:Austin\, Texas
+URL:https://espnpressroom.com/press-release/espns-college-gameday-built-by-
+ the-home-depot-kicks-off-40th-season-in-baton-rouge-with-500th-show-on-the
+ -road/
+CATEGORIES:College,Pregame
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:show-bignoon-2026-09-12@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20260912T140000Z
+DTEND:20260912T160000Z
+SUMMARY:Big Noon Kickoff: Ann Arbor\, Michigan
+DESCRIPTION:Big Noon Kickoff on FOX. Featured game: Michigan vs. Oklahoma. 
+ Broadcast window: 10:00 a.m. to noon Eastern. Broadcast schedules can chan
+ ge.\nSource: https://www.foxsports.com/stories/presspass/fox-sports-unveil
+ s-star-studded-2026-college-football-roster
+LOCATION:Ann Arbor\, Michigan
+URL:https://www.foxsports.com/stories/presspass/fox-sports-unveils-star-stu
+ dded-2026-college-football-roster
+CATEGORIES:College,Pregame
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856679@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20260912T160000Z
+DTEND:20260912T193000Z
+SUMMARY:CFB: Oklahoma at Michigan
+DESCRIPTION:Confirmed College GameDay or Big Noon featured matchup.\n\nTeam
+ s: Oklahoma Sooners at Michigan Wolverines\n\nUS broadcast: FOX. Availabil
+ ity elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championsh
+ ips)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-fo
+ otball/game/_/gameId/401856679/oklahoma-michigan
+LOCATION:Michigan Stadium\, Ann Arbor\, MI\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856679/oklahoma-
+ michigan
+CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856674@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20260912T193000Z
+DTEND:20260912T230000Z
+SUMMARY:CFB: Alabama at Kentucky
+DESCRIPTION:Following Alabama: every game.\n\nTeams: Alabama Crimson Tide a
+ t Kentucky Wildcats\n\nUS broadcast: ABC / Disney+. Availability elsewhere
+  varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish
+  is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_
+ /gameId/401856674/alabama-kentucky
+LOCATION:Kroger Field\, Lexington\, KY\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856674/alabama-k
+ entucky
+CATEGORIES:College,Alabama
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856810@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20260912T193000Z
+DTEND:20260912T230000Z
+SUMMARY:CFB: Arizona at BYU
+DESCRIPTION:National pick: a ranked team in a potentially competitive game 
+ (market spread 7 points at selection). Upset possibility is an estimate.\n
+ \nTeams: Arizona Wildcats at BYU Cougars\n\nUS broadcast: FOX. Availabilit
+ y elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championship
+ s)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-foot
+ ball/game/_/gameId/401856810/arizona-byu
+LOCATION:LaVell Edwards Stadium\, Provo\, UT\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856810/arizona-b
+ yu
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856682@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20260912T233000Z
+DTEND:20260913T030000Z
+SUMMARY:CFB: Ohio State at Texas
+DESCRIPTION:Confirmed College GameDay or Big Noon featured matchup.\n\nTeam
+ s: Ohio State Buckeyes at Texas Longhorns\n\nUS broadcast: ABC. Availabili
+ ty elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championshi
+ ps)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-foo
+ tball/game/_/gameId/401856682/ohio-state-texas
+LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856682/ohio-stat
+ e-texas
+CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856670@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20260913T021500Z
+DTEND:20260913T054500Z
+SUMMARY:CFB: Arkansas at Utah
+DESCRIPTION:National pick: a ranked team in a potentially competitive game 
+ (market spread 9.5 points at selection). Upset possibility is an estimate.
+ \n\nTeams: Arkansas Razorbacks at Utah Utes\n\nUS broadcast: ESPN. Availab
+ ility elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champion
+ ships)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-
+ football/game/_/gameId/401856670/arkansas-utah
+LOCATION:Rice-Eccles Stadium\, Salt Lake City\, UT\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856670/arkansas-
+ utah
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:redzone-2026-09-13@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20260913T170000Z
+DTEND:20260914T000000Z
+SUMMARY:NFL RedZone
+DESCRIPTION:Sunday afternoon NFL whip-around coverage. Seven-hour viewing b
+ lock\, 1-8 p.m. US Eastern\; the actual finish depends on the late games. 
+ International and Sunday night games appear separately.
+LOCATION:NFL RedZone
+URL:https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-Re
+ dZone
+CATEGORIES:NFL,RedZone
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401872930@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20260914T002000Z
+DTEND:20260914T035000Z
+SUMMARY:NFL: Dallas Cowboys at New York Giants
+DESCRIPTION:Sunday Night Football.\n\nTeams: Dallas Cowboys at New York Gia
+ nts\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window
+ : 3.5 hours (4 hours for championships)\; finish is approximate.\n\nSchedu
+ le: https://www.espn.com/nfl/game/_/gameId/401872930/cowboys-giants
+LOCATION:MetLife Stadium\, East Rutherford\, NJ\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401872930/cowboys-giants
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401872931@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20260915T001500Z
+DTEND:20260915T034500Z
+SUMMARY:NFL: Denver Broncos at Kansas City Chiefs
+DESCRIPTION:Monday Night Football.\n\nTeams: Denver Broncos at Kansas City 
+ Chiefs\n\nUS broadcast: ESPN / ABC. Availability elsewhere varies.\n\nView
+ ing window: 3.5 hours (4 hours for championships)\; finish is approximate.
+ \n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872931/broncos-chi
+ efs
+LOCATION:Arrowhead Stadium\, Kansas City\, MO\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401872931/broncos-chiefs
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401872932@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20260918T001500Z
+DTEND:20260918T034500Z
+SUMMARY:NFL: Detroit Lions at Buffalo Bills
+DESCRIPTION:Thursday football\, including Thanksgiving.\n\nTeams: Detroit L
+ ions at Buffalo Bills\n\nUS broadcast: Prime Video. Availability elsewhere
+  varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish
+  is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/40187
+ 2932/lions-bills
+LOCATION:Highmark Stadium\, Orchard Park\, NY\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401872932/lions-bills
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856811@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20260919T000000Z
+DTEND:20260919T033000Z
+SUMMARY:CFB: Houston at Texas Tech
+DESCRIPTION:National pick: ranked matchup (#12 vs #23) at selection.\n\nTea
+ ms: Houston Cougars at Texas Tech Red Raiders\n\nUS broadcast: FOX. Availa
+ bility elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champio
+ nships)\; finish is approximate.\n\nSchedule: https://www.espn.com/college
+ -football/game/_/gameId/401856811/houston-texas-tech
+LOCATION:Galaxy Stadium\, Lubbock\, TX\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856811/houston-t
+ exas-tech
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:show-gameday-2026-09-19@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20260919T130000Z
+DTEND:20260919T160000Z
+SUMMARY:College GameDay: The Grove\, Oxford\, Mississippi
+DESCRIPTION:College GameDay on ESPN. Featured game: Ole Miss vs. LSU. Broad
+ cast window: 9:00 a.m. to noon Eastern. Broadcast schedules can change.\nS
+ ource: https://olemisssports.com/news/2026/8/21/football-espn-college-game
+ day-coming-to-ole-miss-on-september-19
+LOCATION:The Grove\, Oxford\, Mississippi
+URL:https://olemisssports.com/news/2026/8/21/football-espn-college-gameday-
+ coming-to-ole-miss-on-september-19
+CATEGORIES:College,Pregame
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:show-bignoon-2026-09-19@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20260919T140000Z
+DTEND:20260919T160000Z
+SUMMARY:Big Noon Kickoff: Wembley Stadium\, London\, United Kingdom
+DESCRIPTION:Big Noon Kickoff on FOX. Featured game: Kansas vs. Arizona Stat
+ e. Broadcast window: 10:00 a.m. to noon Eastern. Broadcast schedules can c
+ hange.\nSource: https://www.foxsports.com/stories/presspass/fox-sports-big
+ -noon-kickoff-heads-across-pond-inaugural-union-jack-classic-from-wembley-
+ stadium
+LOCATION:Wembley Stadium\, London\, United Kingdom
+URL:https://www.foxsports.com/stories/presspass/fox-sports-big-noon-kickoff
+ -heads-across-pond-inaugural-union-jack-classic-from-wembley-stadium
+CATEGORIES:College,Pregame
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856812@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20260919T160000Z
+DTEND:20260919T193000Z
+SUMMARY:CFB: Arizona State at Kansas
+DESCRIPTION:Confirmed College GameDay or Big Noon featured matchup.\n\nTeam
+ s: Arizona State Sun Devils at Kansas Jayhawks\n\nUS broadcast: FS1. Avail
+ ability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champi
+ onships)\; finish is approximate.\n\nSchedule: https://www.espn.com/colleg
+ e-football/game/_/gameId/401856812/arizona-st-kansas
+LOCATION:Wembley Stadium\, London\, England
+URL:https://www.espn.com/college-football/game/_/gameId/401856812/arizona-s
+ t-kansas
+CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856685@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20260919T193000Z
+DTEND:20260919T230000Z
+SUMMARY:CFB: Florida State at Alabama
+DESCRIPTION:Following Alabama: every game.\n\nTeams: Florida State Seminole
+ s at Alabama Crimson Tide\n\nUS broadcast: ABC. Availability elsewhere var
+ ies.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish is 
+ approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gam
+ eId/401856685/florida-st-alabama
+LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856685/florida-s
+ t-alabama
+CATEGORIES:College,Alabama
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858230@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20260919T193000Z
+DTEND:20260919T230000Z
+SUMMARY:CFB: SMU at Louisville
+DESCRIPTION:National pick: ranked matchup (#19 vs #24) at selection.\n\nTea
+ ms: SMU Mustangs at Louisville Cardinals\n\nBroadcast to be announced.\n\n
+ Viewing window: 3.5 hours (4 hours for championships)\; finish is approxim
+ ate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/4018
+ 58230/smu-louisville
+LOCATION:L&N Federal Credit Union Stadium\, Louisville\, KY\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858230/smu-louis
+ ville
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856688@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20260919T233000Z
+DTEND:20260920T030000Z
+SUMMARY:CFB: LSU at Ole Miss
+DESCRIPTION:Confirmed College GameDay or Big Noon featured matchup.\n\nTeam
+ s: LSU Tigers at Ole Miss Rebels\n\nUS broadcast: ABC. Availability elsewh
+ ere varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; fin
+ ish is approximate.\n\nSchedule: https://www.espn.com/college-football/gam
+ e/_/gameId/401856688/lsu-ole-miss
+LOCATION:Vaught-Hemingway Stadium\, Oxford\, MS\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856688/lsu-ole-m
+ iss
+CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:redzone-2026-09-20@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20260920T170000Z
+DTEND:20260921T000000Z
+SUMMARY:NFL RedZone
+DESCRIPTION:Sunday afternoon NFL whip-around coverage. Seven-hour viewing b
+ lock\, 1-8 p.m. US Eastern\; the actual finish depends on the late games. 
+ International and Sunday night games appear separately.
+LOCATION:NFL RedZone
+URL:https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-Re
+ dZone
+CATEGORIES:NFL,RedZone
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401872945@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20260921T002000Z
+DTEND:20260921T035000Z
+SUMMARY:NFL: Indianapolis Colts at Kansas City Chiefs
+DESCRIPTION:Sunday Night Football.\n\nTeams: Indianapolis Colts at Kansas C
+ ity Chiefs\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing
+  window: 3.5 hours (4 hours for championships)\; finish is approximate.\n\
+ nSchedule: https://www.espn.com/nfl/game/_/gameId/401872945/colts-chiefs
+LOCATION:Arrowhead Stadium\, Kansas City\, MO\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401872945/colts-chiefs
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401872947@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20260922T001500Z
+DTEND:20260922T034500Z
+SUMMARY:NFL: New York Giants at Los Angeles Rams
+DESCRIPTION:Monday Night Football.\n\nTeams: New York Giants at Los Angeles
+  Rams\n\nUS broadcast: ESPN / ABC. Availability elsewhere varies.\n\nViewi
+ ng window: 3.5 hours (4 hours for championships)\; finish is approximate.\
+ n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872947/giants-rams
+LOCATION:SoFi Stadium\, Inglewood\, CA\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401872947/giants-rams
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401872948@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20260925T001500Z
+DTEND:20260925T034500Z
+SUMMARY:NFL: Atlanta Falcons at Green Bay Packers
+DESCRIPTION:Thursday football\, including Thanksgiving.\n\nTeams: Atlanta F
+ alcons at Green Bay Packers\n\nUS broadcast: Prime Video. Availability els
+ ewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; 
+ finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId
+ /401872948/falcons-packers
+LOCATION:Lambeau Field\, Green Bay\, WI\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401872948/falcons-packers
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856696@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:CFB: South Carolina at Alabama [time TBA]
+DESCRIPTION:Following Alabama: every game.\n\nNIGHT: 6 - 8pm ET start\n\nTe
+ ams: South Carolina Gamecocks at Alabama Crimson Tide\n\nBroadcast to be a
+ nnounced.\n\nKickoff has not been announced. This all-day marker will beco
+ me a timed event when confirmed.\n\nSchedule: https://www.espn.com/college
+ -football/game/_/gameId/401856696/south-carolina-alabama
+LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856696/south-car
+ olina-alabama
+CATEGORIES:College,Alabama
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856700@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:CFB: Oklahoma at Georgia [time TBA]
+DESCRIPTION:National pick: ranked matchup (#3 vs #10) at selection.\n\nFLEX
+ : 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Oklahoma Sooners at Georgia 
+ Bulldogs\n\nBroadcast to be announced.\n\nKickoff has not been announced. 
+ This all-day marker will become a timed event when confirmed.\n\nSchedule:
+  https://www.espn.com/college-football/game/_/gameId/401856700/oklahoma-ge
+ orgia
+LOCATION:Sanford Stadium\, Athens\, GA\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856700/oklahoma-
+ georgia
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856702@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:CFB: Texas A&M at LSU [time TBA]
+DESCRIPTION:National pick: ranked matchup (#8 vs #11) at selection.\n\nFLEX
+ : 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Texas A&M Aggies at LSU Tige
+ rs\n\nBroadcast to be announced.\n\nKickoff has not been announced. This a
+ ll-day marker will become a timed event when confirmed.\n\nSchedule: https
+ ://www.espn.com/college-football/game/_/gameId/401856702/texas-am-lsu
+LOCATION:Tiger Stadium (LA)\, Baton Rouge\, LA\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856702/texas-am-
+ lsu
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858463@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:CFB: Iowa at Michigan [time TBA]
+DESCRIPTION:National pick: ranked matchup (#16 vs #22) at selection.\n\nTea
+ ms: Iowa Hawkeyes at Michigan Wolverines\n\nBroadcast to be announced.\n\n
+ Kickoff has not been announced. This all-day marker will become a timed ev
+ ent when confirmed.\n\nSchedule: https://www.espn.com/college-football/gam
+ e/_/gameId/401858463/iowa-michigan
+LOCATION:Michigan Stadium\, Ann Arbor\, MI\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858463/iowa-mich
+ igan
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858469@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:CFB: Oregon at USC [time TBA]
+DESCRIPTION:National pick: ranked matchup (#2 vs #14) at selection.\n\nTeam
+ s: Oregon Ducks at USC Trojans\n\nBroadcast to be announced.\n\nKickoff ha
+ s not been announced. This all-day marker will become a timed event when c
+ onfirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId
+ /401858469/oregon-usc
+LOCATION:Los Angeles Memorial Coliseum\, Los Angeles\, CA\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858469/oregon-us
+ c
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:show-gameday-2026-09-26@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20260926T130000Z
+DTEND:20260926T160000Z
+SUMMARY:College GameDay: location TBA
+DESCRIPTION:Usual Saturday broadcast window: 9:00 a.m. to noon Eastern on E
+ SPN. Location and this week's broadcast hours have not been confirmed. Ten
+ tative placeholder\, subject to broadcast changes.\nSource: https://espnpr
+ essroom.com/?s=College+GameDay&feed=rss2
+LOCATION:
+URL:https://espnpressroom.com/?s=College+GameDay&feed=rss2
+CATEGORIES:College,Pregame
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:show-bignoon-2026-09-26@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20260926T140000Z
+DTEND:20260926T160000Z
+SUMMARY:Big Noon Kickoff: location TBA
+DESCRIPTION:Usual Saturday broadcast window: 10:00 a.m. to noon Eastern on 
+ FOX. Location and this week's broadcast hours have not been confirmed. Ten
+ tative placeholder\, subject to broadcast changes.\nSource: https://www.fo
+ xsports.com/big-noon-kickoff-experience
+LOCATION:
+URL:https://www.foxsports.com/big-noon-kickoff-experience
+CATEGORIES:College,Pregame
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:redzone-2026-09-27@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20260927T170000Z
+DTEND:20260928T000000Z
+SUMMARY:NFL RedZone
+DESCRIPTION:Sunday afternoon NFL whip-around coverage. Seven-hour viewing b
+ lock\, 1-8 p.m. US Eastern\; the actual finish depends on the late games. 
+ International and Sunday night games appear separately.
+LOCATION:NFL RedZone
+URL:https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-Re
+ dZone
+CATEGORIES:NFL,RedZone
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401872960@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20260927T202500Z
+DTEND:20260927T235500Z
+SUMMARY:NFL: Baltimore Ravens at Dallas Cowboys
+DESCRIPTION:International game: Brazil.\n\nNFL Rio Game\n\nTeams: Baltimore
+  Ravens at Dallas Cowboys\n\nUS broadcast: CBS. Availability elsewhere var
+ ies.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish is 
+ approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872960
+ /ravens-cowboys
+LOCATION:Maracanã Stadium\, Rio De Janeiro\, Brazil
+URL:https://www.espn.com/nfl/game/_/gameId/401872960/ravens-cowboys
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401872962@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20260928T002000Z
+DTEND:20260928T035000Z
+SUMMARY:NFL: Los Angeles Rams at Denver Broncos
+DESCRIPTION:Sunday Night Football.\n\nTeams: Los Angeles Rams at Denver Bro
+ ncos\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing windo
+ w: 3.5 hours (4 hours for championships)\; finish is approximate.\n\nSched
+ ule: https://www.espn.com/nfl/game/_/gameId/401872962/rams-broncos
+LOCATION:Empower Field at Mile High\, Denver\, CO\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401872962/rams-broncos
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401872963@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20260929T001500Z
+DTEND:20260929T034500Z
+SUMMARY:NFL: Philadelphia Eagles at Chicago Bears
+DESCRIPTION:Monday Night Football.\n\nTeams: Philadelphia Eagles at Chicago
+  Bears\n\nUS broadcast: ESPN / ABC. Availability elsewhere varies.\n\nView
+ ing window: 3.5 hours (4 hours for championships)\; finish is approximate.
+ \n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872963/eagles-bear
+ s
+LOCATION:Soldier Field\, Chicago\, IL\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401872963/eagles-bears
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401872964@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261002T001500Z
+DTEND:20261002T034500Z
+SUMMARY:NFL: Pittsburgh Steelers at Cleveland Browns
+DESCRIPTION:Thursday football\, including Thanksgiving.\n\nTeams: Pittsburg
+ h Steelers at Cleveland Browns\n\nUS broadcast: Prime Video. Availability 
+ elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)
+ \; finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gam
+ eId/401872964/steelers-browns
+LOCATION:Huntington Bank Field\, Cleveland\, OH\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401872964/steelers-browns
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856707@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:CFB: Alabama at Mississippi State [time TBA]
+DESCRIPTION:Following Alabama: every game.\n\nEARLY: Noon - 1pm ET start\n\
+ nTeams: Alabama Crimson Tide at Mississippi State Bulldogs\n\nBroadcast to
+  be announced.\n\nKickoff has not been announced. This all-day marker will
+  become a timed event when confirmed.\n\nSchedule: https://www.espn.com/co
+ llege-football/game/_/gameId/401856707/alabama-mississippi-st
+LOCATION:Davis Wade Stadium\, Starkville\, MS\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856707/alabama-m
+ ississippi-st
+CATEGORIES:College,Alabama
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:show-gameday-2026-10-03@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261003T130000Z
+DTEND:20261003T160000Z
+SUMMARY:College GameDay: location TBA
+DESCRIPTION:Usual Saturday broadcast window: 9:00 a.m. to noon Eastern on E
+ SPN. Location and this week's broadcast hours have not been confirmed. Ten
+ tative placeholder\, subject to broadcast changes.\nSource: https://espnpr
+ essroom.com/?s=College+GameDay&feed=rss2
+LOCATION:
+URL:https://espnpressroom.com/?s=College+GameDay&feed=rss2
+CATEGORIES:College,Pregame
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:show-bignoon-2026-10-03@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261003T140000Z
+DTEND:20261003T160000Z
+SUMMARY:Big Noon Kickoff: location TBA
+DESCRIPTION:Usual Saturday broadcast window: 10:00 a.m. to noon Eastern on 
+ FOX. Location and this week's broadcast hours have not been confirmed. Ten
+ tative placeholder\, subject to broadcast changes.\nSource: https://www.fo
+ xsports.com/big-noon-kickoff-experience
+LOCATION:
+URL:https://www.foxsports.com/big-noon-kickoff-experience
+CATEGORIES:College,Pregame
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401872965@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261004T133000Z
+DTEND:20261004T170000Z
+SUMMARY:NFL: Indianapolis Colts at Washington Commanders
+DESCRIPTION:International game: England.\n\nNFL London Games\n\nTeams: Indi
+ anapolis Colts at Washington Commanders\n\nUS broadcast: NFL Net. Availabi
+ lity elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champions
+ hips)\; finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/
+ _/gameId/401872965/colts-commanders
+LOCATION:Tottenham Hotspur Stadium\, London\, England
+URL:https://www.espn.com/nfl/game/_/gameId/401872965/colts-commanders
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:redzone-2026-10-04@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261004T170000Z
+DTEND:20261005T000000Z
+SUMMARY:NFL RedZone
+DESCRIPTION:Sunday afternoon NFL whip-around coverage. Seven-hour viewing b
+ lock\, 1-8 p.m. US Eastern\; the actual finish depends on the late games. 
+ International and Sunday night games appear separately.
+LOCATION:NFL RedZone
+URL:https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-Re
+ dZone
+CATEGORIES:NFL,RedZone
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401872978@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261005T002000Z
+DTEND:20261005T035000Z
+SUMMARY:NFL: Detroit Lions at Carolina Panthers
+DESCRIPTION:Sunday Night Football.\n\nTeams: Detroit Lions at Carolina Pant
+ hers\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing windo
+ w: 3.5 hours (4 hours for championships)\; finish is approximate.\n\nSched
+ ule: https://www.espn.com/nfl/game/_/gameId/401872978/lions-panthers
+LOCATION:Bank of America Stadium\, Charlotte\, NC\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401872978/lions-panthers
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401872979@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261006T001500Z
+DTEND:20261006T034500Z
+SUMMARY:NFL: Atlanta Falcons at New Orleans Saints
+DESCRIPTION:Monday Night Football.\n\nTeams: Atlanta Falcons at New Orleans
+  Saints\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing w
+ indow: 3.5 hours (4 hours for championships)\; finish is approximate.\n\nS
+ chedule: https://www.espn.com/nfl/game/_/gameId/401872979/falcons-saints
+LOCATION:Caesars Superdome\, New Orleans\, LA\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401872979/falcons-saints
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401872980@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261009T001500Z
+DTEND:20261009T034500Z
+SUMMARY:NFL: Tampa Bay Buccaneers at Dallas Cowboys
+DESCRIPTION:Thursday football\, including Thanksgiving.\n\nTeams: Tampa Bay
+  Buccaneers at Dallas Cowboys\n\nUS broadcast: Prime Video. Availability e
+ lsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)\
+ ; finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/game
+ Id/401872980/buccaneers-cowboys
+LOCATION:AT&T Stadium\, Arlington\, TX\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401872980/buccaneers-cowboys
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856712@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:CFB: Georgia at Alabama [time TBA]
+DESCRIPTION:Following Alabama: every game.\n\nNIGHT: 6 - 8pm ET start\n\nTe
+ ams: Georgia Bulldogs at Alabama Crimson Tide\n\nBroadcast to be announced
+ .\n\nKickoff has not been announced. This all-day marker will become a tim
+ ed event when confirmed.\n\nSchedule: https://www.espn.com/college-footbal
+ l/game/_/gameId/401856712/georgia-alabama
+LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856712/georgia-a
+ labama
+CATEGORIES:College,Alabama
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:show-gameday-2026-10-10@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261010T130000Z
+DTEND:20261010T160000Z
+SUMMARY:College GameDay: location TBA
+DESCRIPTION:Usual Saturday broadcast window: 9:00 a.m. to noon Eastern on E
+ SPN. Location and this week's broadcast hours have not been confirmed. Ten
+ tative placeholder\, subject to broadcast changes.\nSource: https://espnpr
+ essroom.com/?s=College+GameDay&feed=rss2
+LOCATION:
+URL:https://espnpressroom.com/?s=College+GameDay&feed=rss2
+CATEGORIES:College,Pregame
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:show-bignoon-2026-10-10@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261010T140000Z
+DTEND:20261010T160000Z
+SUMMARY:Big Noon Kickoff: location TBA
+DESCRIPTION:Usual Saturday broadcast window: 10:00 a.m. to noon Eastern on 
+ FOX. Location and this week's broadcast hours have not been confirmed. Ten
+ tative placeholder\, subject to broadcast changes.\nSource: https://www.fo
+ xsports.com/big-noon-kickoff-experience
+LOCATION:
+URL:https://www.foxsports.com/big-noon-kickoff-experience
+CATEGORIES:College,Pregame
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856717@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261010T193000Z
+DTEND:20261010T230000Z
+SUMMARY:CFB: Texas at Oklahoma
+DESCRIPTION:Major rivalry: Red River Rivalry.\n\nTeams: Texas Longhorns at 
+ Oklahoma Sooners\n\nBroadcast to be announced.\n\nViewing window: 3.5 hour
+ s (4 hours for championships)\; finish is approximate.\n\nSchedule: https:
+ //www.espn.com/college-football/game/_/gameId/401856717/texas-oklahoma
+LOCATION:Cotton Bowl\, Dallas\, TX\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856717/texas-okl
+ ahoma
+CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401872981@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261011T133000Z
+DTEND:20261011T170000Z
+SUMMARY:NFL: Philadelphia Eagles at Jacksonville Jaguars
+DESCRIPTION:International game: England.\n\nNFL London Games\n\nTeams: Phil
+ adelphia Eagles at Jacksonville Jaguars\n\nUS broadcast: NFL Net. Availabi
+ lity elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champions
+ hips)\; finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/
+ _/gameId/401872981/eagles-jaguars
+LOCATION:Tottenham Hotspur Stadium\, London\, England
+URL:https://www.espn.com/nfl/game/_/gameId/401872981/eagles-jaguars
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:redzone-2026-10-11@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261011T170000Z
+DTEND:20261012T000000Z
+SUMMARY:NFL RedZone
+DESCRIPTION:Sunday afternoon NFL whip-around coverage. Seven-hour viewing b
+ lock\, 1-8 p.m. US Eastern\; the actual finish depends on the late games. 
+ International and Sunday night games appear separately.
+LOCATION:NFL RedZone
+URL:https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-Re
+ dZone
+CATEGORIES:NFL,RedZone
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401872993@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261012T002000Z
+DTEND:20261012T035000Z
+SUMMARY:NFL: Baltimore Ravens at Atlanta Falcons
+DESCRIPTION:Sunday Night Football.\n\nTeams: Baltimore Ravens at Atlanta Fa
+ lcons\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing wind
+ ow: 3.5 hours (4 hours for championships)\; finish is approximate.\n\nSche
+ dule: https://www.espn.com/nfl/game/_/gameId/401872993/ravens-falcons
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401872993/ravens-falcons
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401872994@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261013T001500Z
+DTEND:20261013T034500Z
+SUMMARY:NFL: Buffalo Bills at Los Angeles Rams
+DESCRIPTION:Monday Night Football.\n\nTeams: Buffalo Bills at Los Angeles R
+ ams\n\nUS broadcast: ESPN / ABC. Availability elsewhere varies.\n\nViewing
+  window: 3.5 hours (4 hours for championships)\; finish is approximate.\n\
+ nSchedule: https://www.espn.com/nfl/game/_/gameId/401872994/bills-rams
+LOCATION:SoFi Stadium\, Inglewood\, CA\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401872994/bills-rams
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401872995@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261016T001500Z
+DTEND:20261016T034500Z
+SUMMARY:NFL: Seattle Seahawks at Denver Broncos
+DESCRIPTION:Thursday football\, including Thanksgiving.\n\nTeams: Seattle S
+ eahawks at Denver Broncos\n\nUS broadcast: Prime Video. Availability elsew
+ here varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; fi
+ nish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/4
+ 01872995/seahawks-broncos
+LOCATION:Empower Field at Mile High\, Denver\, CO\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401872995/seahawks-broncos
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856723@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:CFB: Alabama at Tennessee [time TBA]
+DESCRIPTION:Following Alabama: every game.\nMajor rivalry: Third Saturday i
+ n October.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Alabama Cr
+ imson Tide at Tennessee Volunteers\n\nBroadcast to be announced.\n\nKickof
+ f has not been announced. This all-day marker will become a timed event wh
+ en confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/ga
+ meId/401856723/alabama-tennessee
+LOCATION:Neyland Stadium\, Knoxville\, TN\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856723/alabama-t
+ ennessee
+CATEGORIES:College,Alabama
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858263@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T145208Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:CFB: Florida State at Miami [time TBA]
+DESCRIPTION:Major rivalry: Florida State-Miami.\n\nTeams: Florida State Sem
+ inoles at Miami Hurricanes\n\nBroadcast to be announced.\n\nKickoff has no
+ t been announced. This all-day marker will become a timed event when confi
+ rmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401
+ 858263/florida-st-miami
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858263/florida-s
+ t-miami
+CATEGORIES:College
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:show-gameday-2026-10-17@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261017T130000Z
+DTEND:20261017T160000Z
+SUMMARY:College GameDay: location TBA
+DESCRIPTION:Usual Saturday broadcast window: 9:00 a.m. to noon Eastern on E
+ SPN. Location and this week's broadcast hours have not been confirmed. Ten
+ tative placeholder\, subject to broadcast changes.\nSource: https://espnpr
+ essroom.com/?s=College+GameDay&feed=rss2
+LOCATION:
+URL:https://espnpressroom.com/?s=College+GameDay&feed=rss2
+CATEGORIES:College,Pregame
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:show-bignoon-2026-10-17@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261017T140000Z
+DTEND:20261017T160000Z
+SUMMARY:Big Noon Kickoff: location TBA
+DESCRIPTION:Usual Saturday broadcast window: 10:00 a.m. to noon Eastern on 
+ FOX. Location and this week's broadcast hours have not been confirmed. Ten
+ tative placeholder\, subject to broadcast changes.\nSource: https://www.fo
+ xsports.com/big-noon-kickoff-experience
+LOCATION:
+URL:https://www.foxsports.com/big-noon-kickoff-experience
+CATEGORIES:College,Pregame
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401872996@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261018T133000Z
+DTEND:20261018T170000Z
+SUMMARY:NFL: Houston Texans at Jacksonville Jaguars
+DESCRIPTION:International game: England.\n\nNFL London Games\n\nTeams: Hous
+ ton Texans at Jacksonville Jaguars\n\nUS broadcast: NFL Net. Availability 
+ elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)
+ \; finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gam
+ eId/401872996/texans-jaguars
+LOCATION:Wembley Stadium\, London\, England
+URL:https://www.espn.com/nfl/game/_/gameId/401872996/texans-jaguars
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:redzone-2026-10-18@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261018T170000Z
+DTEND:20261019T000000Z
+SUMMARY:NFL RedZone
+DESCRIPTION:Sunday afternoon NFL whip-around coverage. Seven-hour viewing b
+ lock\, 1-8 p.m. US Eastern\; the actual finish depends on the late games. 
+ International and Sunday night games appear separately.
+LOCATION:NFL RedZone
+URL:https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-Re
+ dZone
+CATEGORIES:NFL,RedZone
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873007@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261019T002000Z
+DTEND:20261019T035000Z
+SUMMARY:NFL: Dallas Cowboys at Green Bay Packers
+DESCRIPTION:Sunday Night Football.\n\nTeams: Dallas Cowboys at Green Bay Pa
+ ckers\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing wind
+ ow: 3.5 hours (4 hours for championships)\; finish is approximate.\n\nSche
+ dule: https://www.espn.com/nfl/game/_/gameId/401873007/cowboys-packers
+LOCATION:Lambeau Field\, Green Bay\, WI\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873007/cowboys-packers
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873008@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261020T001500Z
+DTEND:20261020T034500Z
+SUMMARY:NFL: Washington Commanders at San Francisco 49ers
+DESCRIPTION:Monday Night Football.\n\nTeams: Washington Commanders at San F
+ rancisco 49ers\n\nUS broadcast: ESPN / ABC. Availability elsewhere varies.
+ \n\nViewing window: 3.5 hours (4 hours for championships)\; finish is appr
+ oximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873008/com
+ manders-49ers
+LOCATION:Levi's Stadium\, Santa Clara\, CA\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873008/commanders-49ers
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873010@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261023T001500Z
+DTEND:20261023T034500Z
+SUMMARY:NFL: New England Patriots at Chicago Bears
+DESCRIPTION:Thursday football\, including Thanksgiving.\n\nTeams: New Engla
+ nd Patriots at Chicago Bears\n\nUS broadcast: Prime Video. Availability el
+ sewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)\;
+  finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameI
+ d/401873010/patriots-bears
+LOCATION:Soldier Field\, Chicago\, IL\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873010/patriots-bears
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856727@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:CFB: Texas A&M at Alabama [time TBA]
+DESCRIPTION:Following Alabama: every game.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8p
+ m ET start\n\nTeams: Texas A&M Aggies at Alabama Crimson Tide\n\nBroadcast
+  to be announced.\n\nKickoff has not been announced. This all-day marker w
+ ill become a timed event when confirmed.\n\nSchedule: https://www.espn.com
+ /college-football/game/_/gameId/401856727/texas-am-alabama
+LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856727/texas-am-
+ alabama
+CATEGORIES:College,Alabama
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:show-gameday-2026-10-24@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261024T130000Z
+DTEND:20261024T160000Z
+SUMMARY:College GameDay: location TBA
+DESCRIPTION:Usual Saturday broadcast window: 9:00 a.m. to noon Eastern on E
+ SPN. Location and this week's broadcast hours have not been confirmed. Ten
+ tative placeholder\, subject to broadcast changes.\nSource: https://espnpr
+ essroom.com/?s=College+GameDay&feed=rss2
+LOCATION:
+URL:https://espnpressroom.com/?s=College+GameDay&feed=rss2
+CATEGORIES:College,Pregame
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:show-bignoon-2026-10-24@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
+SUMMARY:Big Noon Kickoff: location TBA
+DESCRIPTION:Usual Saturday broadcast window: 10:00 a.m. to noon Eastern on 
+ FOX. Location and this week's broadcast hours have not been confirmed. Ten
+ tative placeholder\, subject to broadcast changes.\nSource: https://www.fo
+ xsports.com/big-noon-kickoff-experience
+LOCATION:
+URL:https://www.foxsports.com/big-noon-kickoff-experience
+CATEGORIES:College,Pregame
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873011@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261025T133000Z
+DTEND:20261025T170000Z
+SUMMARY:NFL: Pittsburgh Steelers at New Orleans Saints
+DESCRIPTION:International game: France.\n\nNFL Paris Game\n\nTeams: Pittsbu
+ rgh Steelers at New Orleans Saints\n\nUS broadcast: NFL Net. Availability 
+ elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)
+ \; finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gam
+ eId/401873011/steelers-saints
+LOCATION:Stade de France\, Saint-Denis\, France
+URL:https://www.espn.com/nfl/game/_/gameId/401873011/steelers-saints
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:redzone-2026-10-25@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261025T170000Z
+DTEND:20261026T000000Z
+SUMMARY:NFL RedZone
+DESCRIPTION:Sunday afternoon NFL whip-around coverage. Seven-hour viewing b
+ lock\, 1-8 p.m. US Eastern\; the actual finish depends on the late games. 
+ International and Sunday night games appear separately.
+LOCATION:NFL RedZone
+URL:https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-Re
+ dZone
+CATEGORIES:NFL,RedZone
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873022@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261026T002000Z
+DTEND:20261026T035000Z
+SUMMARY:NFL: Kansas City Chiefs at Seattle Seahawks
+DESCRIPTION:Sunday Night Football.\n\nTeams: Kansas City Chiefs at Seattle 
+ Seahawks\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing w
+ indow: 3.5 hours (4 hours for championships)\; finish is approximate.\n\nS
+ chedule: https://www.espn.com/nfl/game/_/gameId/401873022/chiefs-seahawks
+LOCATION:Lumen Field\, Seattle\, WA\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873022/chiefs-seahawks
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873009@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261027T001500Z
+DTEND:20261027T034500Z
+SUMMARY:NFL: Dallas Cowboys at Philadelphia Eagles
+DESCRIPTION:Monday Night Football.\n\nTeams: Dallas Cowboys at Philadelphia
+  Eagles\n\nUS broadcast: ESPN / ABC. Availability elsewhere varies.\n\nVie
+ wing window: 3.5 hours (4 hours for championships)\; finish is approximate
+ .\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873009/cowboys-ea
+ gles
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873009/cowboys-eagles
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873023@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261030T001500Z
+DTEND:20261030T034500Z
+SUMMARY:NFL: Carolina Panthers at Green Bay Packers
+DESCRIPTION:Thursday football\, including Thanksgiving.\n\nTeams: Carolina 
+ Panthers at Green Bay Packers\n\nUS broadcast: Prime Video. Availability e
+ lsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)\
+ ; finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/game
+ Id/401873023/panthers-packers
+LOCATION:Lambeau Field\, Green Bay\, WI\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873023/panthers-packers
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:show-gameday-2026-10-31@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261031T130000Z
+DTEND:20261031T160000Z
+SUMMARY:College GameDay: location TBA
+DESCRIPTION:Usual Saturday broadcast window: 9:00 a.m. to noon Eastern on E
+ SPN. Location and this week's broadcast hours have not been confirmed. Ten
+ tative placeholder\, subject to broadcast changes.\nSource: https://espnpr
+ essroom.com/?s=College+GameDay&feed=rss2
+LOCATION:
+URL:https://espnpressroom.com/?s=College+GameDay&feed=rss2
+CATEGORIES:College,Pregame
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:show-bignoon-2026-10-31@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261031T140000Z
+DTEND:20261031T160000Z
+SUMMARY:Big Noon Kickoff: location TBA
+DESCRIPTION:Usual Saturday broadcast window: 10:00 a.m. to noon Eastern on 
+ FOX. Location and this week's broadcast hours have not been confirmed. Ten
+ tative placeholder\, subject to broadcast changes.\nSource: https://www.fo
+ xsports.com/big-noon-kickoff-experience
+LOCATION:
+URL:https://www.foxsports.com/big-noon-kickoff-experience
+CATEGORIES:College,Pregame
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856734@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T145208Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:0
+DTSTART:20261031T193000Z
+DTEND:20261031T230000Z
+SUMMARY:CFB: Florida at Georgia
+DESCRIPTION:Major rivalry: Florida-Georgia.\n\nTeams: Florida Gators at Geo
+ rgia Bulldogs\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nView
+ ing window: 3.5 hours (4 hours for championships)\; finish is approximate.
+ \n\nSchedule: https://www.espn.com/college-football/game/_/gameId/40185673
+ 4/florida-georgia
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856734/florida-g
+ eorgia
+CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:redzone-2026-11-01@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261101T180000Z
+DTEND:20261102T010000Z
+SUMMARY:NFL RedZone
+DESCRIPTION:Sunday afternoon NFL whip-around coverage. Seven-hour viewing b
+ lock\, 1-8 p.m. US Eastern\; the actual finish depends on the late games. 
+ International and Sunday night games appear separately.
+LOCATION:NFL RedZone
+URL:https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-Re
+ dZone
+CATEGORIES:NFL,RedZone
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873035@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261102T012000Z
+DTEND:20261102T045000Z
+SUMMARY:NFL: Philadelphia Eagles at Washington Commanders
+DESCRIPTION:Sunday Night Football.\n\nTeams: Philadelphia Eagles at Washing
+ ton Commanders\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nVie
+ wing window: 3.5 hours (4 hours for championships)\; finish is approximate
+ .\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873035/eagles-com
+ manders
+LOCATION:Northwest Stadium\, Landover\, MD\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873035/eagles-commanders
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873036@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261103T011500Z
+DTEND:20261103T044500Z
+SUMMARY:NFL: Chicago Bears at Seattle Seahawks
+DESCRIPTION:Monday Night Football.\n\nTeams: Chicago Bears at Seattle Seaha
+ wks\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing windo
+ w: 3.5 hours (4 hours for championships)\; finish is approximate.\n\nSched
+ ule: https://www.espn.com/nfl/game/_/gameId/401873036/bears-seahawks
+LOCATION:Lumen Field\, Seattle\, WA\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873036/bears-seahawks
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873037@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261106T011500Z
+DTEND:20261106T044500Z
+SUMMARY:NFL: Jacksonville Jaguars at Baltimore Ravens
+DESCRIPTION:Thursday football\, including Thanksgiving.\n\nTeams: Jacksonvi
+ lle Jaguars at Baltimore Ravens\n\nUS broadcast: Prime Video. Availability
+  elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships
+ )\; finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/ga
+ meId/401873037/jaguars-ravens
+LOCATION:M&T Bank Stadium\, Baltimore\, MD\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873037/jaguars-ravens
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856740@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:CFB: Alabama at LSU [time TBA]
+DESCRIPTION:Following Alabama: every game.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8p
+ m ET start\n\nTeams: Alabama Crimson Tide at LSU Tigers\n\nBroadcast to be
+  announced.\n\nKickoff has not been announced. This all-day marker will be
+ come a timed event when confirmed.\n\nSchedule: https://www.espn.com/colle
+ ge-football/game/_/gameId/401856740/alabama-lsu
+LOCATION:Tiger Stadium (LA)\, Baton Rouge\, LA\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856740/alabama-l
+ su
+CATEGORIES:College,Alabama
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:show-gameday-2026-11-07@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261107T140000Z
+DTEND:20261107T170000Z
+SUMMARY:College GameDay: location TBA
+DESCRIPTION:Usual Saturday broadcast window: 9:00 a.m. to noon Eastern on E
+ SPN. Location and this week's broadcast hours have not been confirmed. Ten
+ tative placeholder\, subject to broadcast changes.\nSource: https://espnpr
+ essroom.com/?s=College+GameDay&feed=rss2
+LOCATION:
+URL:https://espnpressroom.com/?s=College+GameDay&feed=rss2
+CATEGORIES:College,Pregame
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:show-bignoon-2026-11-07@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Big Noon Kickoff: location TBA
+DESCRIPTION:Usual Saturday broadcast window: 10:00 a.m. to noon Eastern on 
+ FOX. Location and this week's broadcast hours have not been confirmed. Ten
+ tative placeholder\, subject to broadcast changes.\nSource: https://www.fo
+ xsports.com/big-noon-kickoff-experience
+LOCATION:
+URL:https://www.foxsports.com/big-noon-kickoff-experience
+CATEGORIES:College,Pregame
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873038@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261108T143000Z
+DTEND:20261108T180000Z
+SUMMARY:NFL: Cincinnati Bengals at Atlanta Falcons
+DESCRIPTION:International game: Spain.\n\nNFL Madrid Game\n\nTeams: Cincinn
+ ati Bengals at Atlanta Falcons\n\nUS broadcast: NFL Net. Availability else
+ where varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; f
+ inish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/
+ 401873038/bengals-falcons
+LOCATION:Santiago Bernabéu\, Madrid\, Spain
+URL:https://www.espn.com/nfl/game/_/gameId/401873038/bengals-falcons
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:redzone-2026-11-08@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261108T180000Z
+DTEND:20261109T010000Z
+SUMMARY:NFL RedZone
+DESCRIPTION:Sunday afternoon NFL whip-around coverage. Seven-hour viewing b
+ lock\, 1-8 p.m. US Eastern\; the actual finish depends on the late games. 
+ International and Sunday night games appear separately.
+LOCATION:NFL RedZone
+URL:https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-Re
+ dZone
+CATEGORIES:NFL,RedZone
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873050@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261109T012000Z
+DTEND:20261109T045000Z
+SUMMARY:NFL: Tampa Bay Buccaneers at Chicago Bears
+DESCRIPTION:Sunday Night Football.\n\nTeams: Tampa Bay Buccaneers at Chicag
+ o Bears\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing wi
+ ndow: 3.5 hours (4 hours for championships)\; finish is approximate.\n\nSc
+ hedule: https://www.espn.com/nfl/game/_/gameId/401873050/buccaneers-bears
+LOCATION:Soldier Field\, Chicago\, IL\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873050/buccaneers-bears
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873051@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261110T011500Z
+DTEND:20261110T044500Z
+SUMMARY:NFL: Buffalo Bills at Minnesota Vikings
+DESCRIPTION:Monday Night Football.\n\nTeams: Buffalo Bills at Minnesota Vik
+ ings\n\nUS broadcast: ESPN / ABC. Availability elsewhere varies.\n\nViewin
+ g window: 3.5 hours (4 hours for championships)\; finish is approximate.\n
+ \nSchedule: https://www.espn.com/nfl/game/_/gameId/401873051/bills-vikings
+LOCATION:U.S. Bank Stadium\, Minneapolis\, MN\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873051/bills-vikings
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873052@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261113T011500Z
+DTEND:20261113T044500Z
+SUMMARY:NFL: Washington Commanders at New York Giants
+DESCRIPTION:Thursday football\, including Thanksgiving.\n\nTeams: Washingto
+ n Commanders at New York Giants\n\nUS broadcast: Prime Video. Availability
+  elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships
+ )\; finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/ga
+ meId/401873052/commanders-giants
+LOCATION:MetLife Stadium\, East Rutherford\, NJ\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873052/commanders-giants
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856889@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:CFB: Alabama at Vanderbilt [time TBA]
+DESCRIPTION:Following Alabama: every game.\n\nEARLY: Noon - 1pm ET start\n\
+ nTeams: Alabama Crimson Tide at Vanderbilt Commodores\n\nBroadcast to be a
+ nnounced.\n\nKickoff has not been announced. This all-day marker will beco
+ me a timed event when confirmed.\n\nSchedule: https://www.espn.com/college
+ -football/game/_/gameId/401856889/alabama-vanderbilt
+LOCATION:FirstBank Stadium\, Nashville\, TN\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856889/alabama-v
+ anderbilt
+CATEGORIES:College,Alabama
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:show-gameday-2026-11-14@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261114T140000Z
+DTEND:20261114T170000Z
+SUMMARY:College GameDay: location TBA
+DESCRIPTION:Usual Saturday broadcast window: 9:00 a.m. to noon Eastern on E
+ SPN. Location and this week's broadcast hours have not been confirmed. Ten
+ tative placeholder\, subject to broadcast changes.\nSource: https://espnpr
+ essroom.com/?s=College+GameDay&feed=rss2
+LOCATION:
+URL:https://espnpressroom.com/?s=College+GameDay&feed=rss2
+CATEGORIES:College,Pregame
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:show-bignoon-2026-11-14@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261114T150000Z
+DTEND:20261114T170000Z
+SUMMARY:Big Noon Kickoff: location TBA
+DESCRIPTION:Usual Saturday broadcast window: 10:00 a.m. to noon Eastern on 
+ FOX. Location and this week's broadcast hours have not been confirmed. Ten
+ tative placeholder\, subject to broadcast changes.\nSource: https://www.fo
+ xsports.com/big-noon-kickoff-experience
+LOCATION:
+URL:https://www.foxsports.com/big-noon-kickoff-experience
+CATEGORIES:College,Pregame
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873053@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261115T143000Z
+DTEND:20261115T180000Z
+SUMMARY:NFL: New England Patriots at Detroit Lions
+DESCRIPTION:International game: Germany.\n\nNFL Munich Game\n\nTeams: New E
+ ngland Patriots at Detroit Lions\n\nUS broadcast: FOX. Availability elsewh
+ ere varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; fin
+ ish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/40
+ 1873053/patriots-lions
+LOCATION:FC Bayern Munich Stadium\, Munich\, Germany
+URL:https://www.espn.com/nfl/game/_/gameId/401873053/patriots-lions
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:redzone-2026-11-15@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261115T180000Z
+DTEND:20261116T010000Z
+SUMMARY:NFL RedZone
+DESCRIPTION:Sunday afternoon NFL whip-around coverage. Seven-hour viewing b
+ lock\, 1-8 p.m. US Eastern\; the actual finish depends on the late games. 
+ International and Sunday night games appear separately.
+LOCATION:NFL RedZone
+URL:https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-Re
+ dZone
+CATEGORIES:NFL,RedZone
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873064@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261116T012000Z
+DTEND:20261116T045000Z
+SUMMARY:NFL: Pittsburgh Steelers at Cincinnati Bengals
+DESCRIPTION:Sunday Night Football.\n\nTeams: Pittsburgh Steelers at Cincinn
+ ati Bengals\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewin
+ g window: 3.5 hours (4 hours for championships)\; finish is approximate.\n
+ \nSchedule: https://www.espn.com/nfl/game/_/gameId/401873064/steelers-beng
+ als
+LOCATION:Paycor Stadium\, Cincinnati\, OH\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873064/steelers-bengals
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873065@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261117T011500Z
+DTEND:20261117T044500Z
+SUMMARY:NFL: Los Angeles Chargers at Baltimore Ravens
+DESCRIPTION:Monday Night Football.\n\nTeams: Los Angeles Chargers at Baltim
+ ore Ravens\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewin
+ g window: 3.5 hours (4 hours for championships)\; finish is approximate.\n
+ \nSchedule: https://www.espn.com/nfl/game/_/gameId/401873065/chargers-rave
+ ns
+LOCATION:M&T Bank Stadium\, Baltimore\, MD\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873065/chargers-ravens
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873066@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261120T011500Z
+DTEND:20261120T044500Z
+SUMMARY:NFL: Indianapolis Colts at Houston Texans
+DESCRIPTION:Thursday football\, including Thanksgiving.\n\nTeams: Indianapo
+ lis Colts at Houston Texans\n\nUS broadcast: Prime Video. Availability els
+ ewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; 
+ finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId
+ /401873066/colts-texans
+LOCATION:Reliant Stadium\, Houston\, TX\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873066/colts-texans
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:show-gameday-2026-11-21@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261121T140000Z
+DTEND:20261121T170000Z
+SUMMARY:College GameDay: location TBA
+DESCRIPTION:Usual Saturday broadcast window: 9:00 a.m. to noon Eastern on E
+ SPN. Location and this week's broadcast hours have not been confirmed. Ten
+ tative placeholder\, subject to broadcast changes.\nSource: https://espnpr
+ essroom.com/?s=College+GameDay&feed=rss2
+LOCATION:
+URL:https://espnpressroom.com/?s=College+GameDay&feed=rss2
+CATEGORIES:College,Pregame
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:show-bignoon-2026-11-21@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261121T150000Z
+DTEND:20261121T170000Z
+SUMMARY:Big Noon Kickoff: location TBA
+DESCRIPTION:Usual Saturday broadcast window: 10:00 a.m. to noon Eastern on 
+ FOX. Location and this week's broadcast hours have not been confirmed. Ten
+ tative placeholder\, subject to broadcast changes.\nSource: https://www.fo
+ xsports.com/big-noon-kickoff-experience
+LOCATION:
+URL:https://www.foxsports.com/big-noon-kickoff-experience
+CATEGORIES:College,Pregame
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856746@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261121T190000Z
+DTEND:20261121T223000Z
+SUMMARY:CFB: Chattanooga at Alabama
+DESCRIPTION:Following Alabama: every game.\n\nTeams: Chattanooga Mocs at Al
+ abama Crimson Tide\n\nUS broadcast: SECN+. Availability elsewhere varies.\
+ n\nViewing window: 3.5 hours (4 hours for championships)\; finish is appro
+ ximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/4
+ 01856746/chattanooga-alabama
+LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856746/chattanoo
+ ga-alabama
+CATEGORIES:College,Alabama
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:redzone-2026-11-22@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261122T180000Z
+DTEND:20261123T010000Z
+SUMMARY:NFL RedZone
+DESCRIPTION:Sunday afternoon NFL whip-around coverage. Seven-hour viewing b
+ lock\, 1-8 p.m. US Eastern\; the actual finish depends on the late games. 
+ International and Sunday night games appear separately.
+LOCATION:NFL RedZone
+URL:https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-Re
+ dZone
+CATEGORIES:NFL,RedZone
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873077@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261123T012000Z
+DTEND:20261123T045000Z
+SUMMARY:NFL: Minnesota Vikings at San Francisco 49ers
+DESCRIPTION:International game: Mexico.\nSunday Night Football.\n\nNFL Mexi
+ co City Game\n\nTeams: Minnesota Vikings at San Francisco 49ers\n\nUS broa
+ dcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4
+  hours for championships)\; finish is approximate.\n\nSchedule: https://ww
+ w.espn.com/nfl/game/_/gameId/401873077/vikings-49ers
+LOCATION:Estadio Banorte\, Mexico City\, Mexico
+URL:https://www.espn.com/nfl/game/_/gameId/401873077/vikings-49ers
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873078@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261124T011500Z
+DTEND:20261124T044500Z
+SUMMARY:NFL: Cincinnati Bengals at Washington Commanders
+DESCRIPTION:Monday Night Football.\n\nTeams: Cincinnati Bengals at Washingt
+ on Commanders\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nVie
+ wing window: 3.5 hours (4 hours for championships)\; finish is approximate
+ .\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873078/bengals-co
+ mmanders
+LOCATION:Northwest Stadium\, Landover\, MD\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873078/bengals-commanders
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873079@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261126T010000Z
+DTEND:20261126T043000Z
+SUMMARY:NFL: Green Bay Packers at Los Angeles Rams
+DESCRIPTION:Standalone NFL game outside the regular Sunday afternoon slate.
+ \n\nTeams: Green Bay Packers at Los Angeles Rams\n\nUS broadcast: Netflix.
+  Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for 
+ championships)\; finish is approximate.\n\nSchedule: https://www.espn.com/
+ nfl/game/_/gameId/401873079/packers-rams
+LOCATION:SoFi Stadium\, Inglewood\, CA\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873079/packers-rams
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873081@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261126T180000Z
+DTEND:20261126T213000Z
+SUMMARY:NFL: Chicago Bears at Detroit Lions
+DESCRIPTION:Thursday football\, including Thanksgiving.\n\nTeams: Chicago B
+ ears at Detroit Lions\n\nUS broadcast: CBS. Availability elsewhere varies.
+ \n\nViewing window: 3.5 hours (4 hours for championships)\; finish is appr
+ oximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873081/bea
+ rs-lions
+LOCATION:Ford Field\, Detroit\, MI\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873081/bears-lions
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873080@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261126T213000Z
+DTEND:20261127T010000Z
+SUMMARY:NFL: Philadelphia Eagles at Dallas Cowboys
+DESCRIPTION:Thursday football\, including Thanksgiving.\n\nTeams: Philadelp
+ hia Eagles at Dallas Cowboys\n\nUS broadcast: FOX. Availability elsewhere 
+ varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish 
+ is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873
+ 080/eagles-cowboys
+LOCATION:AT&T Stadium\, Arlington\, TX\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873080/eagles-cowboys
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873082@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261127T012000Z
+DTEND:20261127T045000Z
+SUMMARY:NFL: Kansas City Chiefs at Buffalo Bills
+DESCRIPTION:Thursday football\, including Thanksgiving.\n\nTeams: Kansas Ci
+ ty Chiefs at Buffalo Bills\n\nUS broadcast: NBC. Availability elsewhere va
+ ries.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish is
+  approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/40187308
+ 2/chiefs-bills
+LOCATION:Highmark Stadium\, Orchard Park\, NY\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873082/chiefs-bills
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856762@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261127T170000Z
+DTEND:20261127T203000Z
+SUMMARY:CFB: Mississippi State at Ole Miss
+DESCRIPTION:Major rivalry: Egg Bowl.\n\nTeams: Mississippi State Bulldogs a
+ t Ole Miss Rebels\n\nUS broadcast: ABC. Availability elsewhere varies.\n\n
+ Viewing window: 3.5 hours (4 hours for championships)\; finish is approxim
+ ate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/4018
+ 56762/mississippi-st-ole-miss
+LOCATION:Vaught-Hemingway Stadium\, Oxford\, MS\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856762/mississip
+ pi-st-ole-miss
+CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873083@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261127T200000Z
+DTEND:20261127T233000Z
+SUMMARY:NFL: Denver Broncos at Pittsburgh Steelers
+DESCRIPTION:Standalone NFL game outside the regular Sunday afternoon slate.
+ \n\nTeams: Denver Broncos at Pittsburgh Steelers\n\nUS broadcast: Prime Vi
+ deo. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours 
+ for championships)\; finish is approximate.\n\nSchedule: https://www.espn.
+ com/nfl/game/_/gameId/401873083/broncos-steelers
+LOCATION:Acrisure Stadium\, Pittsburgh\, PA\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873083/broncos-steelers
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856759@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261127T203000Z
+DTEND:20261128T000000Z
+SUMMARY:CFB: Florida at Florida State
+DESCRIPTION:Major rivalry: Florida-Florida State.\n\nTeams: Florida Gators 
+ at Florida State Seminoles\n\nUS broadcast: ABC. Availability elsewhere va
+ ries.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish is
+  approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/ga
+ meId/401856759/florida-florida-st
+LOCATION:Doak Campbell Stadium\, Tallahassee\, FL\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856759/florida-f
+ lorida-st
+CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856757@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:CFB: Auburn at Alabama [time TBA]
+DESCRIPTION:Following Alabama: every game.\nMajor rivalry: Iron Bowl.\n\nFL
+ EX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Auburn Tigers at Alabama C
+ rimson Tide\n\nBroadcast to be announced.\n\nKickoff has not been announce
+ d. This all-day marker will become a timed event when confirmed.\n\nSchedu
+ le: https://www.espn.com/college-football/game/_/gameId/401856757/auburn-a
+ labama
+LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856757/auburn-al
+ abama
+CATEGORIES:College,Alabama
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856760@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:CFB: Georgia Tech at Georgia [time TBA]
+DESCRIPTION:Major rivalry: Clean\, Old-Fashioned Hate.\n\nFLEX: 3:30 - 4:30
+ pm OR 6 - 8pm ET start\n\nTeams: Georgia Tech Yellow Jackets at Georgia Bu
+ lldogs\n\nBroadcast to be announced.\n\nKickoff has not been announced. Th
+ is all-day marker will become a timed event when confirmed.\n\nSchedule: h
+ ttps://www.espn.com/college-football/game/_/gameId/401856760/georgia-tech-
+ georgia
+LOCATION:Sanford Stadium\, Athens\, GA\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856760/georgia-t
+ ech-georgia
+CATEGORIES:College
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856764@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T145208Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:CFB: South Carolina at Clemson [time TBA]
+DESCRIPTION:Major rivalry: Clemson-South Carolina.\n\nTeams: South Carolina
+  Gamecocks at Clemson Tigers\n\nBroadcast to be announced.\n\nKickoff has 
+ not been announced. This all-day marker will become a timed event when con
+ firmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/4
+ 01856764/south-carolina-clemson
+LOCATION:Memorial Stadium (Clemson\, SC)\, Clemson\, SC\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856764/south-car
+ olina-clemson
+CATEGORIES:College
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858541@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T145208Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:CFB: Washington at Oregon [time TBA]
+DESCRIPTION:Major rivalry: Oregon-Washington.\n\nTeams: Washington Huskies 
+ at Oregon Ducks\n\nBroadcast to be announced.\n\nKickoff has not been anno
+ unced. This all-day marker will become a timed event when confirmed.\n\nSc
+ hedule: https://www.espn.com/college-football/game/_/gameId/401858541/wash
+ ington-oregon
+LOCATION:Autzen Stadium\, Eugene\, OR\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858541/washingto
+ n-oregon
+CATEGORIES:College
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858543@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:CFB: USC at UCLA [time TBA]
+DESCRIPTION:Major rivalry: USC-UCLA.\n\nTeams: USC Trojans at UCLA Bruins\n
+ \nBroadcast to be announced.\n\nKickoff has not been announced. This all-d
+ ay marker will become a timed event when confirmed.\n\nSchedule: https://w
+ ww.espn.com/college-football/game/_/gameId/401858543/usc-ucla
+LOCATION:Rose Bowl\, Pasadena\, CA\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858543/usc-ucla
+CATEGORIES:College
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856756@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T145208Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:0
+DTSTART:20261128T003000Z
+DTEND:20261128T040000Z
+SUMMARY:CFB: Texas at Texas A&M
+DESCRIPTION:Major rivalry: Texas-Texas A&M.\n\nTeams: Texas Longhorns at Te
+ xas A&M Aggies\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nVie
+ wing window: 3.5 hours (4 hours for championships)\; finish is approximate
+ .\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/4018567
+ 56/texas-texas-am
+LOCATION:Kyle Field\, College Station\, TX\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856756/texas-tex
+ as-am
+CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:show-bignoon-2026-11-28@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261128T140000Z
+DTEND:20261128T170000Z
+SUMMARY:Big Noon Kickoff: Columbus\, Ohio
+DESCRIPTION:Big Noon Kickoff on FOX. Featured game: Ohio State vs. Michigan
+ . Broadcast window: 9:00 a.m. to noon Eastern. Broadcast schedules can cha
+ nge.\nSource: https://www.foxsports.com/stories/presspass/fox-sports-unvei
+ ls-powerhouse-2026-college-football-schedule
+LOCATION:Columbus\, Ohio
+URL:https://www.foxsports.com/stories/presspass/fox-sports-unveils-powerhou
+ se-2026-college-football-schedule
+CATEGORIES:College,Pregame
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:show-gameday-2026-11-28@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261128T140000Z
+DTEND:20261128T170000Z
+SUMMARY:College GameDay: location TBA
+DESCRIPTION:Usual Saturday broadcast window: 9:00 a.m. to noon Eastern on E
+ SPN. Location and this week's broadcast hours have not been confirmed. Ten
+ tative placeholder\, subject to broadcast changes.\nSource: https://espnpr
+ essroom.com/?s=College+GameDay&feed=rss2
+LOCATION:
+URL:https://espnpressroom.com/?s=College+GameDay&feed=rss2
+CATEGORIES:College,Pregame
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858540@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261128T170000Z
+DTEND:20261128T203000Z
+SUMMARY:CFB: Michigan at Ohio State
+DESCRIPTION:Major rivalry: The Game.\nConfirmed College GameDay or Big Noon
+  featured matchup.\n\nTeams: Michigan Wolverines at Ohio State Buckeyes\n\
+ nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 
+ hours (4 hours for championships)\; finish is approximate.\n\nSchedule: ht
+ tps://www.espn.com/college-football/game/_/gameId/401858540/michigan-ohio-
+ state
+LOCATION:Ohio Stadium\, Columbus\, OH\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858540/michigan-
+ ohio-state
+CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:redzone-2026-11-29@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261129T180000Z
+DTEND:20261130T010000Z
+SUMMARY:NFL RedZone
+DESCRIPTION:Sunday afternoon NFL whip-around coverage. Seven-hour viewing b
+ lock\, 1-8 p.m. US Eastern\; the actual finish depends on the late games. 
+ International and Sunday night games appear separately.
+LOCATION:NFL RedZone
+URL:https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-Re
+ dZone
+CATEGORIES:NFL,RedZone
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873093@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261130T012000Z
+DTEND:20261130T045000Z
+SUMMARY:NFL: New England Patriots at Los Angeles Chargers
+DESCRIPTION:Sunday Night Football.\n\nTeams: New England Patriots at Los An
+ geles Chargers\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nVie
+ wing window: 3.5 hours (4 hours for championships)\; finish is approximate
+ .\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873093/patriots-c
+ hargers
+LOCATION:SoFi Stadium\, Inglewood\, CA\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873093/patriots-chargers
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873094@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261201T011500Z
+DTEND:20261201T044500Z
+SUMMARY:NFL: Carolina Panthers at Tampa Bay Buccaneers
+DESCRIPTION:Monday Night Football.\n\nTeams: Carolina Panthers at Tampa Bay
+  Buccaneers\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewi
+ ng window: 3.5 hours (4 hours for championships)\; finish is approximate.\
+ n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873094/panthers-buc
+ caneers
+LOCATION:Raymond James Stadium\, Tampa\, FL\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873094/panthers-buccaneers
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401869535@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:CFB: TBD at TBD [time TBA]
+DESCRIPTION:Conference championship.\n\nConference USA Championship\n\nTeam
+ s: TBD at TBD\n\nBroadcast to be announced.\n\nKickoff has not been announ
+ ced. This all-day marker will become a timed event when confirmed.\n\nSche
+ dule: https://www.espn.com/college-football/game/_/gameId/401869535/tbd-tb
+ d
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401869535/tbd-tbd
+CATEGORIES:College
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873096@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261204T011500Z
+DTEND:20261204T044500Z
+SUMMARY:NFL: Kansas City Chiefs at Los Angeles Rams
+DESCRIPTION:Thursday football\, including Thanksgiving.\n\nTeams: Kansas Ci
+ ty Chiefs at Los Angeles Rams\n\nUS broadcast: Prime Video. Availability e
+ lsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)\
+ ; finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/game
+ Id/401873096/chiefs-rams
+LOCATION:SoFi Stadium\, Inglewood\, CA\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873096/chiefs-rams
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401869546@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261205T000000Z
+DTEND:20261205T040000Z
+SUMMARY:CFB: TBD at TBD
+DESCRIPTION:Conference championship.\n\nSun Belt Championship\n\nTeams: TBD
+  at TBD\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing w
+ indow: 3.5 hours (4 hours for championships)\; finish is approximate.\n\nS
+ chedule: https://www.espn.com/college-football/game/_/gameId/401869546/tbd
+ -tbd
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401869546/tbd-tbd
+CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401869533@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261205T010000Z
+DTEND:20261205T050000Z
+SUMMARY:CFB: TBD at TBD
+DESCRIPTION:Conference championship.\n\nBig 12 Championship\n\nTeams: TBD a
+ t TBD\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing wind
+ ow: 3.5 hours (4 hours for championships)\; finish is approximate.\n\nSche
+ dule: https://www.espn.com/college-football/game/_/gameId/401869533/tbd-tb
+ d
+LOCATION:AT&T Stadium\, Arlington\, TX\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401869533/tbd-tbd
+CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401869542@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261205T010000Z
+DTEND:20261205T050000Z
+SUMMARY:CFB: TBD at TBD
+DESCRIPTION:Conference championship.\n\nPac-12 Championship\n\nTeams: TBD a
+ t TBD\n\nUS broadcast: CBS. Availability elsewhere varies.\n\nViewing wind
+ ow: 3.5 hours (4 hours for championships)\; finish is approximate.\n\nSche
+ dule: https://www.espn.com/college-football/game/_/gameId/401869542/tbd-tb
+ d
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401869542/tbd-tbd
+CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401874049@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261205T020000Z
+DTEND:20261205T060000Z
+SUMMARY:CFB: TBD at TBD
+DESCRIPTION:Conference championship.\n\nMountain West Championship\n\nTeams
+ : TBD at TBD\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewi
+ ng window: 3.5 hours (4 hours for championships)\; finish is approximate.\
+ n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401874049
+ /tbd-tbd
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401874049/tbd-tbd
+CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858318@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261205T170000Z
+DTEND:20261205T210000Z
+SUMMARY:CFB: TBD at TBD
+DESCRIPTION:Conference championship.\n\nACC Championship\n\nTeams: TBD at T
+ BD\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window:
+  3.5 hours (4 hours for championships)\; finish is approximate.\n\nSchedul
+ e: https://www.espn.com/college-football/game/_/gameId/401858318/tbd-tbd
+LOCATION:Bank of America Stadium\, Charlotte\, NC\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858318/tbd-tbd
+CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401869536@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261205T170000Z
+DTEND:20261205T210000Z
+SUMMARY:CFB: TBD at TBD
+DESCRIPTION:Conference championship.\n\nMAC Championship\n\nTeams: TBD at T
+ BD\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window
+ : 3.5 hours (4 hours for championships)\; finish is approximate.\n\nSchedu
+ le: https://www.espn.com/college-football/game/_/gameId/401869536/tbd-tbd
+LOCATION:Ford Field\, Detroit\, MI\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401869536/tbd-tbd
+CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401869545@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261205T210000Z
+DTEND:20261206T010000Z
+SUMMARY:CFB: TBD at TBD
+DESCRIPTION:Conference championship.\n\nSEC Championship\n\nTeams: TBD at T
+ BD\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window:
+  3.5 hours (4 hours for championships)\; finish is approximate.\n\nSchedul
+ e: https://www.espn.com/college-football/game/_/gameId/401869545/tbd-tbd
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401869545/tbd-tbd
+CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401869532@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261206T010000Z
+DTEND:20261206T050000Z
+SUMMARY:CFB: TBD at TBD
+DESCRIPTION:Conference championship.\n\nAmerican Championship\n\nTeams: TBD
+  at TBD\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing wi
+ ndow: 3.5 hours (4 hours for championships)\; finish is approximate.\n\nSc
+ hedule: https://www.espn.com/college-football/game/_/gameId/401869532/tbd-
+ tbd
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401869532/tbd-tbd
+CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401869534@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261206T010000Z
+DTEND:20261206T050000Z
+SUMMARY:CFB: TBD at TBD
+DESCRIPTION:Conference championship.\n\nBig Ten Championship\n\nTeams: TBD 
+ at TBD\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing win
+ dow: 3.5 hours (4 hours for championships)\; finish is approximate.\n\nSch
+ edule: https://www.espn.com/college-football/game/_/gameId/401869534/tbd-t
+ bd
+LOCATION:Lucas Oil Stadium\, Indianapolis\, IN\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401869534/tbd-tbd
+CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:redzone-2026-12-06@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261206T180000Z
+DTEND:20261207T010000Z
+SUMMARY:NFL RedZone
+DESCRIPTION:Sunday afternoon NFL whip-around coverage. Seven-hour viewing b
+ lock\, 1-8 p.m. US Eastern\; the actual finish depends on the late games. 
+ International and Sunday night games appear separately.
+LOCATION:NFL RedZone
+URL:https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-Re
+ dZone
+CATEGORIES:NFL,RedZone
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873107@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261207T012000Z
+DTEND:20261207T045000Z
+SUMMARY:NFL: Houston Texans at Pittsburgh Steelers
+DESCRIPTION:Sunday Night Football.\n\nTeams: Houston Texans at Pittsburgh S
+ teelers\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing wi
+ ndow: 3.5 hours (4 hours for championships)\; finish is approximate.\n\nSc
+ hedule: https://www.espn.com/nfl/game/_/gameId/401873107/texans-steelers
+LOCATION:Acrisure Stadium\, Pittsburgh\, PA\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873107/texans-steelers
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873108@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261208T011500Z
+DTEND:20261208T044500Z
+SUMMARY:NFL: Dallas Cowboys at Seattle Seahawks
+DESCRIPTION:Monday Night Football.\n\nTeams: Dallas Cowboys at Seattle Seah
+ awks\n\nUS broadcast: ESPN / ABC. Availability elsewhere varies.\n\nViewin
+ g window: 3.5 hours (4 hours for championships)\; finish is approximate.\n
+ \nSchedule: https://www.espn.com/nfl/game/_/gameId/401873108/cowboys-seaha
+ wks
+LOCATION:Lumen Field\, Seattle\, WA\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873108/cowboys-seahawks
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873109@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261211T011500Z
+DTEND:20261211T044500Z
+SUMMARY:NFL: Minnesota Vikings at New England Patriots
+DESCRIPTION:Thursday football\, including Thanksgiving.\n\nTeams: Minnesota
+  Vikings at New England Patriots\n\nUS broadcast: Prime Video. Availabilit
+ y elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championship
+ s)\; finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/g
+ ameId/401873109/vikings-patriots
+LOCATION:Gillette Stadium\, Foxborough\, MA\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873109/vikings-patriots
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401862844@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261212T200000Z
+DTEND:20261212T233000Z
+SUMMARY:CFB: Navy at Army
+DESCRIPTION:Major rivalry: Army-Navy.\n\nTeams: Navy Midshipmen at Army Bla
+ ck Knights\n\nUS broadcast: CBS. Availability elsewhere varies.\n\nViewing
+  window: 3.5 hours (4 hours for championships)\; finish is approximate.\n\
+ nSchedule: https://www.espn.com/college-football/game/_/gameId/401862844/n
+ avy-army
+LOCATION:MetLife Stadium\, East Rutherford\, NJ\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401862844/navy-army
+CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:redzone-2026-12-13@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261213T180000Z
+DTEND:20261214T010000Z
+SUMMARY:NFL RedZone
+DESCRIPTION:Sunday afternoon NFL whip-around coverage. Seven-hour viewing b
+ lock\, 1-8 p.m. US Eastern\; the actual finish depends on the late games. 
+ International and Sunday night games appear separately.
+LOCATION:NFL RedZone
+URL:https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-Re
+ dZone
+CATEGORIES:NFL,RedZone
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873122@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261214T012000Z
+DTEND:20261214T045000Z
+SUMMARY:NFL: Buffalo Bills at Green Bay Packers
+DESCRIPTION:Sunday Night Football.\n\nTeams: Buffalo Bills at Green Bay Pac
+ kers\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing windo
+ w: 3.5 hours (4 hours for championships)\; finish is approximate.\n\nSched
+ ule: https://www.espn.com/nfl/game/_/gameId/401873122/bills-packers
+LOCATION:Lambeau Field\, Green Bay\, WI\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873122/bills-packers
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873123@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261215T011500Z
+DTEND:20261215T044500Z
+SUMMARY:NFL: Pittsburgh Steelers at Jacksonville Jaguars
+DESCRIPTION:Monday Night Football.\n\nTeams: Pittsburgh Steelers at Jackson
+ ville Jaguars\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nVie
+ wing window: 3.5 hours (4 hours for championships)\; finish is approximate
+ .\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873123/steelers-j
+ aguars
+LOCATION:EverBank Stadium\, Jacksonville\, FL\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873123/steelers-jaguars
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873124@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261218T011500Z
+DTEND:20261218T044500Z
+SUMMARY:NFL: San Francisco 49ers at Los Angeles Chargers
+DESCRIPTION:Thursday football\, including Thanksgiving.\n\nTeams: San Franc
+ isco 49ers at Los Angeles Chargers\n\nUS broadcast: Prime Video. Availabil
+ ity elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championsh
+ ips)\; finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_
+ /gameId/401873124/49ers-chargers
+LOCATION:SoFi Stadium\, Inglewood\, CA\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873124/49ers-chargers
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401874295@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261219T010000Z
+DTEND:20261219T043000Z
+SUMMARY:CFP First Round Game - teams TBA
+DESCRIPTION:College Football Playoff: every round.\n\nCollege Football Play
+ off First Round Game\n\nTeams: TBD at TBD\n\nUS broadcast: ESPN. Availabil
+ ity elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championsh
+ ips)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-fo
+ otball/game/_/gameId/401874295/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401874295/tbd-tbd
+CATEGORIES:College,Playoffs
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401874296@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261219T170000Z
+DTEND:20261219T203000Z
+SUMMARY:CFP First Round Game - teams TBA
+DESCRIPTION:College Football Playoff: every round.\n\nCollege Football Play
+ off First Round Game\n\nTeams: TBD at TBD\n\nUS broadcast: ABC / ESPN. Ava
+ ilability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for cham
+ pionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/coll
+ ege-football/game/_/gameId/401874296/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401874296/tbd-tbd
+CATEGORIES:College,Playoffs
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401874297@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261219T203000Z
+DTEND:20261220T000000Z
+SUMMARY:CFP First Round Game - teams TBA
+DESCRIPTION:College Football Playoff: every round.\n\nCollege Football Play
+ off First Round Game\n\nTeams: TBD at TBD\n\nUS broadcast: TNT / truTV. Av
+ ailability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for cha
+ mpionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/col
+ lege-football/game/_/gameId/401874297/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401874297/tbd-tbd
+CATEGORIES:College,Playoffs
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873125@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261220T013000Z
+SUMMARY:NFL: Seattle Seahawks at Philadelphia Eagles
+DESCRIPTION:Standalone NFL game outside the regular Sunday afternoon slate.
+ \n\nTeams: Seattle Seahawks at Philadelphia Eagles\n\nUS broadcast: FOX. A
+ vailability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for ch
+ ampionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/nf
+ l/game/_/gameId/401873125/seahawks-eagles
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873125/seahawks-eagles
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401874298@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261220T003000Z
+DTEND:20261220T040000Z
+SUMMARY:CFP First Round Game - teams TBA
+DESCRIPTION:College Football Playoff: every round.\n\nCollege Football Play
+ off First Round Game\n\nTeams: TBD at TBD\n\nUS broadcast: TNT / truTV. Av
+ ailability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for cha
+ mpionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/col
+ lege-football/game/_/gameId/401874298/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401874298/tbd-tbd
+CATEGORIES:College,Playoffs
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873126@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261220T012000Z
+DTEND:20261220T045000Z
+SUMMARY:NFL: Chicago Bears at Buffalo Bills
+DESCRIPTION:Standalone NFL game outside the regular Sunday afternoon slate.
+ \n\nTeams: Chicago Bears at Buffalo Bills\n\nUS broadcast: CBS. Availabili
+ ty elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championshi
+ ps)\; finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/
+ gameId/401873126/bears-bills
+LOCATION:Highmark Stadium\, Orchard Park\, NY\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873126/bears-bills
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:redzone-2026-12-20@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261220T180000Z
+DTEND:20261221T010000Z
+SUMMARY:NFL RedZone
+DESCRIPTION:Sunday afternoon NFL whip-around coverage. Seven-hour viewing b
+ lock\, 1-8 p.m. US Eastern\; the actual finish depends on the late games. 
+ International and Sunday night games appear separately.
+LOCATION:NFL RedZone
+URL:https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-Re
+ dZone
+CATEGORIES:NFL,RedZone
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873138@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261221T012000Z
+DTEND:20261221T045000Z
+SUMMARY:NFL: Detroit Lions at Minnesota Vikings
+DESCRIPTION:Sunday Night Football.\n\nTeams: Detroit Lions at Minnesota Vik
+ ings\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing windo
+ w: 3.5 hours (4 hours for championships)\; finish is approximate.\n\nSched
+ ule: https://www.espn.com/nfl/game/_/gameId/401873138/lions-vikings
+LOCATION:U.S. Bank Stadium\, Minneapolis\, MN\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873138/lions-vikings
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873139@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261222T011500Z
+DTEND:20261222T044500Z
+SUMMARY:NFL: New England Patriots at Kansas City Chiefs
+DESCRIPTION:Monday Night Football.\n\nTeams: New England Patriots at Kansas
+  City Chiefs\n\nUS broadcast: ESPN / ABC. Availability elsewhere varies.\n
+ \nViewing window: 3.5 hours (4 hours for championships)\; finish is approx
+ imate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873139/patri
+ ots-chiefs
+LOCATION:Arrowhead Stadium\, Kansas City\, MO\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873139/patriots-chiefs
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873140@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261225T011500Z
+DTEND:20261225T044500Z
+SUMMARY:NFL: Houston Texans at Philadelphia Eagles
+DESCRIPTION:Thursday football\, including Thanksgiving.\n\nTeams: Houston T
+ exans at Philadelphia Eagles\n\nUS broadcast: Prime Video. Availability el
+ sewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)\;
+  finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameI
+ d/401873140/texans-eagles
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873140/texans-eagles
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873141@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261225T180000Z
+DTEND:20261225T213000Z
+SUMMARY:NFL: Green Bay Packers at Chicago Bears
+DESCRIPTION:Standalone NFL game outside the regular Sunday afternoon slate.
+ \n\nTeams: Green Bay Packers at Chicago Bears\n\nUS broadcast: Netflix. Av
+ ailability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for cha
+ mpionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/nfl
+ /game/_/gameId/401873141/packers-bears
+LOCATION:Soldier Field\, Chicago\, IL\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873141/packers-bears
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873142@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261225T213000Z
+DTEND:20261226T010000Z
+SUMMARY:NFL: Buffalo Bills at Denver Broncos
+DESCRIPTION:Standalone NFL game outside the regular Sunday afternoon slate.
+ \n\nTeams: Buffalo Bills at Denver Broncos\n\nUS broadcast: Netflix. Avail
+ ability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champi
+ onships)\; finish is approximate.\n\nSchedule: https://www.espn.com/nfl/ga
+ me/_/gameId/401873142/bills-broncos
+LOCATION:Empower Field at Mile High\, Denver\, CO\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873142/bills-broncos
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873143@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261226T011500Z
+DTEND:20261226T044500Z
+SUMMARY:NFL: Los Angeles Rams at Seattle Seahawks
+DESCRIPTION:Standalone NFL game outside the regular Sunday afternoon slate.
+ \n\nTeams: Los Angeles Rams at Seattle Seahawks\n\nUS broadcast: FOX. Avai
+ lability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champ
+ ionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/nfl/g
+ ame/_/gameId/401873143/rams-seahawks
+LOCATION:Lumen Field\, Seattle\, WA\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873143/rams-seahawks
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:redzone-2026-12-27@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261227T180000Z
+DTEND:20261228T010000Z
+SUMMARY:NFL RedZone
+DESCRIPTION:Sunday afternoon NFL whip-around coverage. Seven-hour viewing b
+ lock\, 1-8 p.m. US Eastern\; the actual finish depends on the late games. 
+ International and Sunday night games appear separately.
+LOCATION:NFL RedZone
+URL:https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-Re
+ dZone
+CATEGORIES:NFL,RedZone
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873154@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261228T012000Z
+DTEND:20261228T045000Z
+SUMMARY:NFL: Jacksonville Jaguars at Dallas Cowboys
+DESCRIPTION:Sunday Night Football.\n\nTeams: Jacksonville Jaguars at Dallas
+  Cowboys\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing w
+ indow: 3.5 hours (4 hours for championships)\; finish is approximate.\n\nS
+ chedule: https://www.espn.com/nfl/game/_/gameId/401873154/jaguars-cowboys
+LOCATION:AT&T Stadium\, Arlington\, TX\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873154/jaguars-cowboys
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873155@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20261229T011500Z
+DTEND:20261229T044500Z
+SUMMARY:NFL: New York Giants at Detroit Lions
+DESCRIPTION:Monday Night Football.\n\nTeams: New York Giants at Detroit Lio
+ ns\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window
+ : 3.5 hours (4 hours for championships)\; finish is approximate.\n\nSchedu
+ le: https://www.espn.com/nfl/game/_/gameId/401873155/giants-lions
+LOCATION:Ford Field\, Detroit\, MI\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873155/giants-lions
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401874299@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20261231T003000Z
+DTEND:20261231T040000Z
+SUMMARY:CFP Quarterfinal at the Vrbo Fiesta Bowl - teams TBA
+DESCRIPTION:College Football Playoff: every round.\n\nCollege Football Play
+ off Quarterfinal at the Vrbo Fiesta Bowl\n\nTeams: TBD at TBD\n\nUS broadc
+ ast: TNT / truTV. Availability elsewhere varies.\n\nViewing window: 3.5 ho
+ urs (4 hours for championships)\; finish is approximate.\n\nSchedule: http
+ s://www.espn.com/college-football/game/_/gameId/401874299/tbd-tbd
+LOCATION:State Farm Stadium\, Glendale\, AZ\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401874299/tbd-tbd
+CATEGORIES:College,Playoffs
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873156@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20270101T011500Z
+DTEND:20270101T044500Z
+SUMMARY:NFL: Baltimore Ravens at Cincinnati Bengals
+DESCRIPTION:Thursday football\, including Thanksgiving.\n\nTeams: Baltimore
+  Ravens at Cincinnati Bengals\n\nUS broadcast: Prime Video. Availability e
+ lsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)\
+ ; finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/game
+ Id/401873156/ravens-bengals
+LOCATION:Paycor Stadium\, Cincinnati\, OH\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873156/ravens-bengals
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cfp-2026-jan1-slot-1@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20270101T170000Z
+DTEND:20270101T203000Z
+SUMMARY:CFP quarterfinal 1 - bowl and teams TBA
+DESCRIPTION:Confirmed CFP quarterfinal broadcast window. Cotton\, Peach and
+  Rose Bowl assignments will be announced December 6. This event updates wi
+ th the bowl and teams when ESPN confirms the assignment. Finish is approxi
+ mate.
+LOCATION:Venue to be announced
+URL:https://collegefootballplayoff.com/news/2026/6/1/26-27-broadcast-sked
+CATEGORIES:College,Playoffs
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cfp-2026-jan1-slot-2@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20270101T210000Z
+DTEND:20270102T003000Z
+SUMMARY:CFP quarterfinal 2 - bowl and teams TBA
+DESCRIPTION:Confirmed CFP quarterfinal broadcast window. Cotton\, Peach and
+  Rose Bowl assignments will be announced December 6. This event updates wi
+ th the bowl and teams when ESPN confirms the assignment. Finish is approxi
+ mate.
+LOCATION:Venue to be announced
+URL:https://collegefootballplayoff.com/news/2026/6/1/26-27-broadcast-sked
+CATEGORIES:College,Playoffs
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cfp-2026-jan1-slot-3@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20270102T010000Z
+DTEND:20270102T043000Z
+SUMMARY:CFP quarterfinal 3 - bowl and teams TBA
+DESCRIPTION:Confirmed CFP quarterfinal broadcast window. Cotton\, Peach and
+  Rose Bowl assignments will be announced December 6. This event updates wi
+ th the bowl and teams when ESPN confirms the assignment. Finish is approxi
+ mate.
+LOCATION:Venue to be announced
+URL:https://collegefootballplayoff.com/news/2026/6/1/26-27-broadcast-sked
+CATEGORIES:College,Playoffs
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:redzone-2027-01-03@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20270103T180000Z
+DTEND:20270104T010000Z
+SUMMARY:NFL RedZone
+DESCRIPTION:Sunday afternoon NFL whip-around coverage. Seven-hour viewing b
+ lock\, 1-8 p.m. US Eastern\; the actual finish depends on the late games. 
+ International and Sunday night games appear separately.
+LOCATION:NFL RedZone
+URL:https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-Re
+ dZone
+CATEGORIES:NFL,RedZone
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873170@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20270104T012000Z
+DTEND:20270104T045000Z
+SUMMARY:NFL: Philadelphia Eagles at San Francisco 49ers
+DESCRIPTION:Sunday Night Football.\n\nTeams: Philadelphia Eagles at San Fra
+ ncisco 49ers\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewi
+ ng window: 3.5 hours (4 hours for championships)\; finish is approximate.\
+ n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873170/eagles-49ers
+LOCATION:Levi's Stadium\, Santa Clara\, CA\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873170/eagles-49ers
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873171@football-watchlist
+DTSTAMP:20260905T145208Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T145208Z
+SEQUENCE:1
+DTSTART:20270105T011500Z
+DTEND:20270105T044500Z
+SUMMARY:NFL: Houston Texans at Green Bay Packers
+DESCRIPTION:Monday Night Football.\n\nTeams: Houston Texans at Green Bay Pa
+ ckers\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing win
+ dow: 3.5 hours (4 hours for championships)\; finish is approximate.\n\nSch
+ edule: https://www.espn.com/nfl/game/_/gameId/401873171/texans-packers
+LOCATION:Lambeau Field\, Green Bay\, WI\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873171/texans-packers
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:redzone-2027-01-10@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20270110T180000Z
+DTEND:20270111T010000Z
+SUMMARY:NFL RedZone
+DESCRIPTION:Sunday afternoon NFL whip-around coverage. Seven-hour viewing b
+ lock\, 1-8 p.m. US Eastern\; the actual finish depends on the late games. 
+ International and Sunday night games appear separately.
+LOCATION:NFL RedZone
+URL:https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-Re
+ dZone
+CATEGORIES:NFL,RedZone
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401874300@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20270115T003000Z
+DTEND:20270115T040000Z
+SUMMARY:CFP Semifinal at the Capital One Orange Bowl - teams TBA
+DESCRIPTION:College Football Playoff: every round.\n\nCollege Football Play
+ off Semifinal at the Capital One Orange Bowl\n\nTeams: TBD at TBD\n\nUS br
+ oadcast: TNT / truTV. Availability elsewhere varies.\n\nViewing window: 3.
+ 5 hours (4 hours for championships)\; finish is approximate.\n\nSchedule: 
+ https://www.espn.com/college-football/game/_/gameId/401874300/tbd-tbd
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401874300/tbd-tbd
+CATEGORIES:College,Playoffs
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401872910@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Wild Card Playoffs - teams TBA [time TBA]
+DESCRIPTION:NFL playoffs: every postseason game.\n\nWild Card Playoffs\n\nT
+ eams: TBD at TBD\n\nBroadcast to be announced.\n\nKickoff has not been ann
+ ounced. This all-day marker will become a timed event when confirmed.\n\nS
+ chedule: https://www.espn.com/nfl/game/_/gameId/401872910/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/nfl/game/_/gameId/401872910/tbd-tbd
+CATEGORIES:NFL,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401872911@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Wild Card Playoffs - teams TBA [time TBA]
+DESCRIPTION:NFL playoffs: every postseason game.\n\nWild Card Playoffs\n\nT
+ eams: TBD at TBD\n\nBroadcast to be announced.\n\nKickoff has not been ann
+ ounced. This all-day marker will become a timed event when confirmed.\n\nS
+ chedule: https://www.espn.com/nfl/game/_/gameId/401872911/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/nfl/game/_/gameId/401872911/tbd-tbd
+CATEGORIES:NFL,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401874301@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20270116T003000Z
+DTEND:20270116T040000Z
+SUMMARY:CFP Semifinal at the Allstate Sugar Bowl - teams TBA
+DESCRIPTION:College Football Playoff: every round.\n\nCollege Football Play
+ off Semifinal at the Allstate Sugar Bowl\n\nTeams: TBD at TBD\n\nUS broadc
+ ast: ABC / ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hou
+ rs (4 hours for championships)\; finish is approximate.\n\nSchedule: https
+ ://www.espn.com/college-football/game/_/gameId/401874301/tbd-tbd
+LOCATION:Caesars Superdome\, New Orleans\, LA\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401874301/tbd-tbd
+CATEGORIES:College,Playoffs
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401872912@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Wild Card Playoffs - teams TBA [time TBA]
+DESCRIPTION:NFL playoffs: every postseason game.\n\nWild Card Playoffs\n\nT
+ eams: TBD at TBD\n\nBroadcast to be announced.\n\nKickoff has not been ann
+ ounced. This all-day marker will become a timed event when confirmed.\n\nS
+ chedule: https://www.espn.com/nfl/game/_/gameId/401872912/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/nfl/game/_/gameId/401872912/tbd-tbd
+CATEGORIES:NFL,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401872913@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Wild Card Playoffs - teams TBA [time TBA]
+DESCRIPTION:NFL playoffs: every postseason game.\n\nWild Card Playoffs\n\nT
+ eams: TBD at TBD\n\nBroadcast to be announced.\n\nKickoff has not been ann
+ ounced. This all-day marker will become a timed event when confirmed.\n\nS
+ chedule: https://www.espn.com/nfl/game/_/gameId/401872913/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/nfl/game/_/gameId/401872913/tbd-tbd
+CATEGORIES:NFL,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401872914@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Wild Card Playoffs - teams TBA [time TBA]
+DESCRIPTION:NFL playoffs: every postseason game.\n\nWild Card Playoffs\n\nT
+ eams: TBD at TBD\n\nBroadcast to be announced.\n\nKickoff has not been ann
+ ounced. This all-day marker will become a timed event when confirmed.\n\nS
+ chedule: https://www.espn.com/nfl/game/_/gameId/401872914/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/nfl/game/_/gameId/401872914/tbd-tbd
+CATEGORIES:NFL,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401872915@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:Wild Card Playoffs - teams TBA [time TBA]
+DESCRIPTION:NFL playoffs: every postseason game.\n\nWild Card Playoffs\n\nT
+ eams: TBD at TBD\n\nBroadcast to be announced.\n\nKickoff has not been ann
+ ounced. This all-day marker will become a timed event when confirmed.\n\nS
+ chedule: https://www.espn.com/nfl/game/_/gameId/401872915/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/nfl/game/_/gameId/401872915/tbd-tbd
+CATEGORIES:NFL,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401872916@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Divisional Playoffs - teams TBA [time TBA]
+DESCRIPTION:NFL playoffs: every postseason game.\n\nDivisional Playoffs\n\n
+ Teams: TBD at TBD\n\nBroadcast to be announced.\n\nKickoff has not been an
+ nounced. This all-day marker will become a timed event when confirmed.\n\n
+ Schedule: https://www.espn.com/nfl/game/_/gameId/401872916/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/nfl/game/_/gameId/401872916/tbd-tbd
+CATEGORIES:NFL,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401872917@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Divisional Playoffs - teams TBA [time TBA]
+DESCRIPTION:NFL playoffs: every postseason game.\n\nDivisional Playoffs\n\n
+ Teams: TBD at TBD\n\nBroadcast to be announced.\n\nKickoff has not been an
+ nounced. This all-day marker will become a timed event when confirmed.\n\n
+ Schedule: https://www.espn.com/nfl/game/_/gameId/401872917/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/nfl/game/_/gameId/401872917/tbd-tbd
+CATEGORIES:NFL,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401872918@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Divisional Playoffs - teams TBA [time TBA]
+DESCRIPTION:NFL playoffs: every postseason game.\n\nDivisional Playoffs\n\n
+ Teams: TBD at TBD\n\nBroadcast to be announced.\n\nKickoff has not been an
+ nounced. This all-day marker will become a timed event when confirmed.\n\n
+ Schedule: https://www.espn.com/nfl/game/_/gameId/401872918/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/nfl/game/_/gameId/401872918/tbd-tbd
+CATEGORIES:NFL,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401872919@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Divisional Playoffs - teams TBA [time TBA]
+DESCRIPTION:NFL playoffs: every postseason game.\n\nDivisional Playoffs\n\n
+ Teams: TBD at TBD\n\nBroadcast to be announced.\n\nKickoff has not been an
+ nounced. This all-day marker will become a timed event when confirmed.\n\n
+ Schedule: https://www.espn.com/nfl/game/_/gameId/401872919/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/nfl/game/_/gameId/401872919/tbd-tbd
+CATEGORIES:NFL,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401874322@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20270126T003000Z
+DTEND:20270126T043000Z
+SUMMARY:CFP National Championship - teams TBA
+DESCRIPTION:College Football Playoff: every round.\n\nCollege Football Play
+ off National Championship Presented by AT&T\n\nTeams: TBD at TBD\n\nUS bro
+ adcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (
+ 4 hours for championships)\; finish is approximate.\n\nSchedule: https://w
+ ww.espn.com/college-football/game/_/gameId/401874322/tbd-tbd
+LOCATION:Allegiant Stadium\, Las Vegas\, NV\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401874322/tbd-tbd
+CATEGORIES:College,Playoffs
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401872920@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:NFC Championship - teams TBA [time TBA]
+DESCRIPTION:NFL playoffs: every postseason game.\n\nNFC Championship\n\nTea
+ ms: TBD at TBD\n\nBroadcast to be announced.\n\nKickoff has not been annou
+ nced. This all-day marker will become a timed event when confirmed.\n\nSch
+ edule: https://www.espn.com/nfl/game/_/gameId/401872920/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/nfl/game/_/gameId/401872920/tbd-tbd
+CATEGORIES:NFL,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401872921@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:AFC Championship - teams TBA [time TBA]
+DESCRIPTION:NFL playoffs: every postseason game.\n\nAFC Championship\n\nTea
+ ms: TBD at TBD\n\nBroadcast to be announced.\n\nKickoff has not been annou
+ nced. This all-day marker will become a timed event when confirmed.\n\nSch
+ edule: https://www.espn.com/nfl/game/_/gameId/401872921/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/nfl/game/_/gameId/401872921/tbd-tbd
+CATEGORIES:NFL,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-401873270@football-watchlist
+DTSTAMP:20260905T144637Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260905T144637Z
+SEQUENCE:0
+DTSTART:20270214T233000Z
+DTEND:20270215T033000Z
+SUMMARY:Super Bowl LXI - teams TBA
+DESCRIPTION:NFL playoffs: every postseason game.\n\nSuper Bowl LXI\n\nTeams
+ : TBD at TBD\n\nUS broadcast: ESPN / ABC. Availability elsewhere varies.\n
+ \nViewing window: 3.5 hours (4 hours for championships)\; finish is approx
+ imate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873270/tbd-t
+ bd
+LOCATION:SoFi Stadium\, Inglewood\, CA\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873270/tbd-tbd
+CATEGORIES:NFL,Playoffs
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

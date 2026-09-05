@@ -1,0 +1,3664 @@
+{
+  "checkedOn": "2026-09-05",
+  "season": 2026,
+  "events": [
+    {
+      "uid": "show-gameday-2026-09-05@football-watchlist",
+      "title": "College GameDay: Baton Rouge, Louisiana",
+      "gameId": "401856660",
+      "start": "2026-09-05T13:00:00.000Z",
+      "end": "2026-09-05T16:00:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "College GameDay on ESPN. Featured game: LSU vs. Clemson. Broadcast window: 9:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://espnpressroom.com/press-release/college-gameday-hits-the-road-for-the-500th-time-as-season-40-kicks-off-in-baton-rouge/",
+      "location": "Baton Rouge, Louisiana",
+      "url": "https://espnpressroom.com/press-release/college-gameday-hits-the-road-for-the-500th-time-as-season-40-kicks-off-in-baton-rouge/",
+      "categories": [
+        "College",
+        "Pregame"
+      ],
+      "hash": "fdc44cf7a345e26561e92bf2c0dbe46aebe1246d58ae53a664bec6b280c9ad86",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "show-bignoon-2026-09-05@football-watchlist",
+      "title": "Big Noon Kickoff: Bloomington, Indiana",
+      "gameId": "401858425",
+      "start": "2026-09-05T14:00:00.000Z",
+      "end": "2026-09-05T16:00:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Big Noon Kickoff on FOX. Featured game: Indiana vs. North Texas. Broadcast window: 10:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://www.foxsports.com/big-noon-kickoff-experience",
+      "location": "Bloomington, Indiana",
+      "url": "https://www.foxsports.com/big-noon-kickoff-experience",
+      "categories": [
+        "College",
+        "Pregame"
+      ],
+      "hash": "a5307684f47c16c976dd0cb255bb668e3bf8e825ab2265b83c7d392421468a21",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401856634@football-watchlist",
+      "gameId": "401856634",
+      "title": "CFB: East Carolina at Alabama",
+      "start": "2026-09-05T16:00:00.000Z",
+      "end": "2026-09-05T19:30:00.000Z",
+      "allDay": false,
+      "description": "Following Alabama: every game.\n\nTeams: East Carolina Pirates at Alabama Crimson Tide\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856634/east-carolina-alabama",
+      "location": "Bryant-Denny Stadium, Tuscaloosa, AL, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856634/east-carolina-alabama",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "Alabama"
+      ],
+      "hash": "cd16f7f7ec8d9c0ba2e8ad1886d7691fbe83067248df8a234c2470be60cee490",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401858425@football-watchlist",
+      "gameId": "401858425",
+      "title": "CFB: North Texas at Indiana",
+      "start": "2026-09-05T16:00:00.000Z",
+      "end": "2026-09-05T19:30:00.000Z",
+      "allDay": false,
+      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: North Texas Mean Green at Indiana Hoosiers\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858425/north-texas-indiana",
+      "location": "Memorial Stadium (Bloomington, IN), Bloomington, IN, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858425/north-texas-indiana",
+      "status": "CONFIRMED",
+      "categories": [
+        "College"
+      ],
+      "hash": "720d5909e477213cefa0dc8c52bed777374779f5f334dfc1dfc9eb9d14c8478f",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856660@football-watchlist",
+      "gameId": "401856660",
+      "title": "CFB: Clemson at LSU",
+      "start": "2026-09-05T23:30:00.000Z",
+      "end": "2026-09-06T03:00:00.000Z",
+      "allDay": false,
+      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: Clemson Tigers at LSU Tigers\n\nUS broadcast: ABC / ERADM. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856660/clemson-lsu",
+      "location": "Tiger Stadium (LA), Baton Rouge, LA, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856660/clemson-lsu",
+      "status": "CONFIRMED",
+      "categories": [
+        "College"
+      ],
+      "hash": "aa31120094024eecdf44f3620e3cf3dc246d1b8de6a50482bda47dd1e7931f23",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401858437@football-watchlist",
+      "gameId": "401858437",
+      "title": "CFB: Washington State at Washington",
+      "start": "2026-09-06T20:00:00.000Z",
+      "end": "2026-09-06T23:30:00.000Z",
+      "allDay": false,
+      "description": "Major rivalry: Apple Cup.\n\nTeams: Washington State Cougars at Washington Huskies\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858437/washington-st-washington",
+      "location": "Husky Stadium, Seattle, WA, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858437/washington-st-washington",
+      "status": "CONFIRMED",
+      "categories": [
+        "College"
+      ],
+      "hash": "225bd128128f972f8a696f8de05e5b85923af8ed5cf65f86e14c679975a40ed7",
+      "created": "2026-09-05T14:52:08.096Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856661@football-watchlist",
+      "gameId": "401856661",
+      "title": "CFB: Louisville at Ole Miss",
+      "start": "2026-09-06T23:30:00.000Z",
+      "end": "2026-09-07T03:00:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#9 vs #24) at selection.\n\nLiberty Mutual Music City Kickoff\n\nTeams: Louisville Cardinals at Ole Miss Rebels\n\nUS broadcast: ABC / ERADM. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856661/louisville-ole-miss",
+      "location": "Nissan Stadium, Nashville, TN, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856661/louisville-ole-miss",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#9 vs #24) at selection.",
+      "hash": "ca93ffce592d3b88937c1ad2269477f61cab4963d35c641a0243e37f7e9888a1",
+      "created": "2026-09-05T14:52:08.096Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401858438@football-watchlist",
+      "gameId": "401858438",
+      "title": "CFB: Wisconsin at Notre Dame",
+      "start": "2026-09-06T23:30:00.000Z",
+      "end": "2026-09-07T03:00:00.000Z",
+      "allDay": false,
+      "description": "National pick: Sunday or Monday national broadcast featuring a ranked team.\n\nTeams: Wisconsin Badgers at Notre Dame Fighting Irish\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858438/wisconsin-notre-dame",
+      "location": "Lambeau Field, Green Bay, WI, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858438/wisconsin-notre-dame",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: Sunday or Monday national broadcast featuring a ranked team.",
+      "hash": "b41b3812d30946150554d3036967d3b1e994065c8ef68ac0ff9365f0333314f0",
+      "created": "2026-09-05T14:52:08.096Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401858212@football-watchlist",
+      "gameId": "401858212",
+      "title": "CFB: SMU at Florida State",
+      "start": "2026-09-07T23:30:00.000Z",
+      "end": "2026-09-08T03:00:00.000Z",
+      "allDay": false,
+      "description": "National pick: a ranked team in a potentially competitive game (market spread 3 points at selection). Upset possibility is an estimate.\n\nTeams: SMU Mustangs at Florida State Seminoles\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858212/smu-florida-st",
+      "location": "Doak Campbell Stadium, Tallahassee, FL, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858212/smu-florida-st",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 3 points at selection). Upset possibility is an estimate.",
+      "hash": "7a6f4d5dfb12346a8ad3c9e2c61ce0b4b79d30e689c975bbabac53ef57871069",
+      "created": "2026-09-05T14:52:08.096Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401872656@football-watchlist",
+      "gameId": "401872656",
+      "title": "NFL: New England Patriots at Seattle Seahawks",
+      "start": "2026-09-10T00:20:00.000Z",
+      "end": "2026-09-10T03:50:00.000Z",
+      "allDay": false,
+      "description": "Standalone NFL game outside the regular Sunday afternoon slate.\n\nTeams: New England Patriots at Seattle Seahawks\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872656/patriots-seahawks",
+      "location": "Lumen Field, Seattle, WA, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872656/patriots-seahawks",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "771bba6bdc2bd822cdb33c19290187beaec171c1a038ac78835ae13a1427740d",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401872657@football-watchlist",
+      "gameId": "401872657",
+      "title": "NFL: San Francisco 49ers at Los Angeles Rams",
+      "start": "2026-09-11T00:35:00.000Z",
+      "end": "2026-09-11T04:05:00.000Z",
+      "allDay": false,
+      "description": "International game: Australia.\nThursday football, including Thanksgiving.\n\nNFL Melbourne Game\n\nTeams: San Francisco 49ers at Los Angeles Rams\n\nUS broadcast: Netflix. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872657/49ers-rams",
+      "location": "Melbourne Cricket Ground, Melbourne, VIC, Australia",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872657/49ers-rams",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "f66ff54fed4af1c0955a25ffe26bb123c877dcf393b92f696b99dd556711d411",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401856678@football-watchlist",
+      "gameId": "401856678",
+      "title": "CFB: Missouri at Kansas",
+      "start": "2026-09-12T00:00:00.000Z",
+      "end": "2026-09-12T03:30:00.000Z",
+      "allDay": false,
+      "description": "National pick: a ranked team in a potentially competitive game (market spread 6.5 points at selection). Upset possibility is an estimate.\n\nTeams: Missouri Tigers at Kansas Jayhawks\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856678/missouri-kansas",
+      "location": "David Booth Kansas Memorial Stadium, Lawrence, KS, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856678/missouri-kansas",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 6.5 points at selection). Upset possibility is an estimate.",
+      "hash": "c20ac4eb90295cc139be95dd95c97516a50a481dc55e8315e4b2f8ee8a1b4466",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "show-gameday-2026-09-12@football-watchlist",
+      "title": "College GameDay: Austin, Texas",
+      "gameId": "401856682",
+      "start": "2026-09-12T13:00:00.000Z",
+      "end": "2026-09-12T16:00:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "College GameDay on ESPN. Featured game: Texas vs. Ohio State. Broadcast window: 9:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://espnpressroom.com/press-release/espns-college-gameday-built-by-the-home-depot-kicks-off-40th-season-in-baton-rouge-with-500th-show-on-the-road/",
+      "location": "Austin, Texas",
+      "url": "https://espnpressroom.com/press-release/espns-college-gameday-built-by-the-home-depot-kicks-off-40th-season-in-baton-rouge-with-500th-show-on-the-road/",
+      "categories": [
+        "College",
+        "Pregame"
+      ],
+      "hash": "e32d8d27a6a417f20fa0b0dcf51bab5e9c173840a3cd479ecd64ee18b23a5ab9",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "show-bignoon-2026-09-12@football-watchlist",
+      "title": "Big Noon Kickoff: Ann Arbor, Michigan",
+      "gameId": "401856679",
+      "start": "2026-09-12T14:00:00.000Z",
+      "end": "2026-09-12T16:00:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Big Noon Kickoff on FOX. Featured game: Michigan vs. Oklahoma. Broadcast window: 10:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://www.foxsports.com/stories/presspass/fox-sports-unveils-star-studded-2026-college-football-roster",
+      "location": "Ann Arbor, Michigan",
+      "url": "https://www.foxsports.com/stories/presspass/fox-sports-unveils-star-studded-2026-college-football-roster",
+      "categories": [
+        "College",
+        "Pregame"
+      ],
+      "hash": "7abe2f75907620123f2944bfdf61b22bf095b2582c8bbaba9400332d95bee26b",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401856679@football-watchlist",
+      "gameId": "401856679",
+      "title": "CFB: Oklahoma at Michigan",
+      "start": "2026-09-12T16:00:00.000Z",
+      "end": "2026-09-12T19:30:00.000Z",
+      "allDay": false,
+      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: Oklahoma Sooners at Michigan Wolverines\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856679/oklahoma-michigan",
+      "location": "Michigan Stadium, Ann Arbor, MI, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856679/oklahoma-michigan",
+      "status": "CONFIRMED",
+      "categories": [
+        "College"
+      ],
+      "hash": "57f243f735810df33c9d39cd8eaced679d01a09a25a7e23f6e9670917af91085",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856674@football-watchlist",
+      "gameId": "401856674",
+      "title": "CFB: Alabama at Kentucky",
+      "start": "2026-09-12T19:30:00.000Z",
+      "end": "2026-09-12T23:00:00.000Z",
+      "allDay": false,
+      "description": "Following Alabama: every game.\n\nTeams: Alabama Crimson Tide at Kentucky Wildcats\n\nUS broadcast: ABC / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856674/alabama-kentucky",
+      "location": "Kroger Field, Lexington, KY, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856674/alabama-kentucky",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "Alabama"
+      ],
+      "hash": "ff8cf3ad7f63c2b7799979a896adc9fe6846d29fefdc308256a0a332c09275c8",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856810@football-watchlist",
+      "gameId": "401856810",
+      "title": "CFB: Arizona at BYU",
+      "start": "2026-09-12T19:30:00.000Z",
+      "end": "2026-09-12T23:00:00.000Z",
+      "allDay": false,
+      "description": "National pick: a ranked team in a potentially competitive game (market spread 7 points at selection). Upset possibility is an estimate.\n\nTeams: Arizona Wildcats at BYU Cougars\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856810/arizona-byu",
+      "location": "LaVell Edwards Stadium, Provo, UT, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856810/arizona-byu",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 7 points at selection). Upset possibility is an estimate.",
+      "hash": "b8ddc8d17e16c56bffe7eac406fcdf48caee8ddaafc8add19f76f28f2eeab885",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856682@football-watchlist",
+      "gameId": "401856682",
+      "title": "CFB: Ohio State at Texas",
+      "start": "2026-09-12T23:30:00.000Z",
+      "end": "2026-09-13T03:00:00.000Z",
+      "allDay": false,
+      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: Ohio State Buckeyes at Texas Longhorns\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856682/ohio-state-texas",
+      "location": "DKR-Texas Memorial Stadium, Austin, TX, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856682/ohio-state-texas",
+      "status": "CONFIRMED",
+      "categories": [
+        "College"
+      ],
+      "hash": "07da359b96c105f3b56c3839b1484b596a55f7fb24bfadad10177989cbd60715",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856670@football-watchlist",
+      "gameId": "401856670",
+      "title": "CFB: Arkansas at Utah",
+      "start": "2026-09-13T02:15:00.000Z",
+      "end": "2026-09-13T05:45:00.000Z",
+      "allDay": false,
+      "description": "National pick: a ranked team in a potentially competitive game (market spread 9.5 points at selection). Upset possibility is an estimate.\n\nTeams: Arkansas Razorbacks at Utah Utes\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856670/arkansas-utah",
+      "location": "Rice-Eccles Stadium, Salt Lake City, UT, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856670/arkansas-utah",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 9.5 points at selection). Upset possibility is an estimate.",
+      "hash": "bfc06cea41e5e781b448642542fd68d8de56c025effe8ac75cb9c453c9f84f19",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "redzone-2026-09-13@football-watchlist",
+      "title": "NFL RedZone",
+      "start": "2026-09-13T17:00:00.000Z",
+      "end": "2026-09-14T00:00:00.000Z",
+      "allDay": false,
+      "description": "Sunday afternoon NFL whip-around coverage. Seven-hour viewing block, 1-8 p.m. US Eastern; the actual finish depends on the late games. International and Sunday night games appear separately.",
+      "location": "NFL RedZone",
+      "url": "https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-RedZone",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL",
+        "RedZone"
+      ],
+      "hash": "6585ba74fa5544481bfd902e10556931a361005ba72f0feb1fa73274bd27005e",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401872930@football-watchlist",
+      "gameId": "401872930",
+      "title": "NFL: Dallas Cowboys at New York Giants",
+      "start": "2026-09-14T00:20:00.000Z",
+      "end": "2026-09-14T03:50:00.000Z",
+      "allDay": false,
+      "description": "Sunday Night Football.\n\nTeams: Dallas Cowboys at New York Giants\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872930/cowboys-giants",
+      "location": "MetLife Stadium, East Rutherford, NJ, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872930/cowboys-giants",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "728aa04ab37c32770d5640a23f0dab2be2ad36b7701365b85e9f05407e82f209",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401872931@football-watchlist",
+      "gameId": "401872931",
+      "title": "NFL: Denver Broncos at Kansas City Chiefs",
+      "start": "2026-09-15T00:15:00.000Z",
+      "end": "2026-09-15T03:45:00.000Z",
+      "allDay": false,
+      "description": "Monday Night Football.\n\nTeams: Denver Broncos at Kansas City Chiefs\n\nUS broadcast: ESPN / ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872931/broncos-chiefs",
+      "location": "Arrowhead Stadium, Kansas City, MO, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872931/broncos-chiefs",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "82b61e2920e5d8552e2fea0a426d6f2a2d80e5322df26009d082cbfce35773d9",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401872932@football-watchlist",
+      "gameId": "401872932",
+      "title": "NFL: Detroit Lions at Buffalo Bills",
+      "start": "2026-09-18T00:15:00.000Z",
+      "end": "2026-09-18T03:45:00.000Z",
+      "allDay": false,
+      "description": "Thursday football, including Thanksgiving.\n\nTeams: Detroit Lions at Buffalo Bills\n\nUS broadcast: Prime Video. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872932/lions-bills",
+      "location": "Highmark Stadium, Orchard Park, NY, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872932/lions-bills",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "1dc53b8064c7db69926e6467a0bc000c788241433e3c6b0f9027aa2d82cb8574",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401856811@football-watchlist",
+      "gameId": "401856811",
+      "title": "CFB: Houston at Texas Tech",
+      "start": "2026-09-19T00:00:00.000Z",
+      "end": "2026-09-19T03:30:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#12 vs #23) at selection.\n\nTeams: Houston Cougars at Texas Tech Red Raiders\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856811/houston-texas-tech",
+      "location": "Galaxy Stadium, Lubbock, TX, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856811/houston-texas-tech",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#12 vs #23) at selection.",
+      "hash": "cbb034e0a266ed5d09735b07bbcf6665ab4f79d9e5ac6c7fb492a9531a90e9c6",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "show-gameday-2026-09-19@football-watchlist",
+      "title": "College GameDay: The Grove, Oxford, Mississippi",
+      "gameId": "401856688",
+      "start": "2026-09-19T13:00:00.000Z",
+      "end": "2026-09-19T16:00:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "College GameDay on ESPN. Featured game: Ole Miss vs. LSU. Broadcast window: 9:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://olemisssports.com/news/2026/8/21/football-espn-college-gameday-coming-to-ole-miss-on-september-19",
+      "location": "The Grove, Oxford, Mississippi",
+      "url": "https://olemisssports.com/news/2026/8/21/football-espn-college-gameday-coming-to-ole-miss-on-september-19",
+      "categories": [
+        "College",
+        "Pregame"
+      ],
+      "hash": "72d8273e471073166f9b0976bff9dbfed3361a9ef95af5d616b69cb25ed6059d",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "show-bignoon-2026-09-19@football-watchlist",
+      "title": "Big Noon Kickoff: Wembley Stadium, London, United Kingdom",
+      "gameId": "401856812",
+      "start": "2026-09-19T14:00:00.000Z",
+      "end": "2026-09-19T16:00:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Big Noon Kickoff on FOX. Featured game: Kansas vs. Arizona State. Broadcast window: 10:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://www.foxsports.com/stories/presspass/fox-sports-big-noon-kickoff-heads-across-pond-inaugural-union-jack-classic-from-wembley-stadium",
+      "location": "Wembley Stadium, London, United Kingdom",
+      "url": "https://www.foxsports.com/stories/presspass/fox-sports-big-noon-kickoff-heads-across-pond-inaugural-union-jack-classic-from-wembley-stadium",
+      "categories": [
+        "College",
+        "Pregame"
+      ],
+      "hash": "c255b3843a4a6eb97f34295e2efa856b05c230109f6899fe276105458e859233",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401856812@football-watchlist",
+      "gameId": "401856812",
+      "title": "CFB: Arizona State at Kansas",
+      "start": "2026-09-19T16:00:00.000Z",
+      "end": "2026-09-19T19:30:00.000Z",
+      "allDay": false,
+      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: Arizona State Sun Devils at Kansas Jayhawks\n\nUS broadcast: FS1. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856812/arizona-st-kansas",
+      "location": "Wembley Stadium, London, England",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856812/arizona-st-kansas",
+      "status": "CONFIRMED",
+      "categories": [
+        "College"
+      ],
+      "hash": "e04825b8d23b9dedfb867feccd9e5e5ccb215e5221bb225c16e895618270f6d4",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856685@football-watchlist",
+      "gameId": "401856685",
+      "title": "CFB: Florida State at Alabama",
+      "start": "2026-09-19T19:30:00.000Z",
+      "end": "2026-09-19T23:00:00.000Z",
+      "allDay": false,
+      "description": "Following Alabama: every game.\n\nTeams: Florida State Seminoles at Alabama Crimson Tide\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856685/florida-st-alabama",
+      "location": "Bryant-Denny Stadium, Tuscaloosa, AL, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856685/florida-st-alabama",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "Alabama"
+      ],
+      "hash": "cb212dd4ac1cf48044991d8d8acbbbdb6bcb69047c1c49650a95c83f3821d7b7",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401858230@football-watchlist",
+      "gameId": "401858230",
+      "title": "CFB: SMU at Louisville",
+      "start": "2026-09-19T19:30:00.000Z",
+      "end": "2026-09-19T23:00:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#19 vs #24) at selection.\n\nTeams: SMU Mustangs at Louisville Cardinals\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858230/smu-louisville",
+      "location": "L&N Federal Credit Union Stadium, Louisville, KY, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858230/smu-louisville",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#19 vs #24) at selection.",
+      "hash": "d2dbe636230a64c44440aed15a40fb7478b1bad4253202de060b71a42bf60eac",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856688@football-watchlist",
+      "gameId": "401856688",
+      "title": "CFB: LSU at Ole Miss",
+      "start": "2026-09-19T23:30:00.000Z",
+      "end": "2026-09-20T03:00:00.000Z",
+      "allDay": false,
+      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: LSU Tigers at Ole Miss Rebels\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856688/lsu-ole-miss",
+      "location": "Vaught-Hemingway Stadium, Oxford, MS, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856688/lsu-ole-miss",
+      "status": "CONFIRMED",
+      "categories": [
+        "College"
+      ],
+      "hash": "154051d39c35bd97d3a02fb170ec3342e7c98a71b43aa912defa442868572761",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "redzone-2026-09-20@football-watchlist",
+      "title": "NFL RedZone",
+      "start": "2026-09-20T17:00:00.000Z",
+      "end": "2026-09-21T00:00:00.000Z",
+      "allDay": false,
+      "description": "Sunday afternoon NFL whip-around coverage. Seven-hour viewing block, 1-8 p.m. US Eastern; the actual finish depends on the late games. International and Sunday night games appear separately.",
+      "location": "NFL RedZone",
+      "url": "https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-RedZone",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL",
+        "RedZone"
+      ],
+      "hash": "7bdda4eda30a22c7e1b3ea43f707d5beeee85191e4d8d37b50048a35aa665ca0",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401872945@football-watchlist",
+      "gameId": "401872945",
+      "title": "NFL: Indianapolis Colts at Kansas City Chiefs",
+      "start": "2026-09-21T00:20:00.000Z",
+      "end": "2026-09-21T03:50:00.000Z",
+      "allDay": false,
+      "description": "Sunday Night Football.\n\nTeams: Indianapolis Colts at Kansas City Chiefs\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872945/colts-chiefs",
+      "location": "Arrowhead Stadium, Kansas City, MO, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872945/colts-chiefs",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "863e4068a38ecd945abe9182bd10c7d94749c3d66b74247752c899ddb928ad47",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401872947@football-watchlist",
+      "gameId": "401872947",
+      "title": "NFL: New York Giants at Los Angeles Rams",
+      "start": "2026-09-22T00:15:00.000Z",
+      "end": "2026-09-22T03:45:00.000Z",
+      "allDay": false,
+      "description": "Monday Night Football.\n\nTeams: New York Giants at Los Angeles Rams\n\nUS broadcast: ESPN / ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872947/giants-rams",
+      "location": "SoFi Stadium, Inglewood, CA, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872947/giants-rams",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "774880efc4f678e64b08ebbefa2546d31993e3b3c9f15d28fddc8499414bafb7",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401872948@football-watchlist",
+      "gameId": "401872948",
+      "title": "NFL: Atlanta Falcons at Green Bay Packers",
+      "start": "2026-09-25T00:15:00.000Z",
+      "end": "2026-09-25T03:45:00.000Z",
+      "allDay": false,
+      "description": "Thursday football, including Thanksgiving.\n\nTeams: Atlanta Falcons at Green Bay Packers\n\nUS broadcast: Prime Video. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872948/falcons-packers",
+      "location": "Lambeau Field, Green Bay, WI, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872948/falcons-packers",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "1becc564dd27875267ba1bc0b79cd15c3cbb996b9dc1364746941077e38f7bcf",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401856696@football-watchlist",
+      "gameId": "401856696",
+      "title": "CFB: South Carolina at Alabama [time TBA]",
+      "start": "2026-09-26",
+      "end": "2026-09-27",
+      "allDay": true,
+      "description": "Following Alabama: every game.\n\nNIGHT: 6 - 8pm ET start\n\nTeams: South Carolina Gamecocks at Alabama Crimson Tide\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856696/south-carolina-alabama",
+      "location": "Bryant-Denny Stadium, Tuscaloosa, AL, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856696/south-carolina-alabama",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "Alabama"
+      ],
+      "hash": "502a519fce5b043a7e6dbda8229611afa1a05fc7b8f91da4ba4c9565770559af",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856700@football-watchlist",
+      "gameId": "401856700",
+      "title": "CFB: Oklahoma at Georgia [time TBA]",
+      "start": "2026-09-26",
+      "end": "2026-09-27",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#3 vs #10) at selection.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Oklahoma Sooners at Georgia Bulldogs\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856700/oklahoma-georgia",
+      "location": "Sanford Stadium, Athens, GA, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856700/oklahoma-georgia",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#3 vs #10) at selection.",
+      "hash": "b72f8d7c649efb13e0f8354112e11798ff520d2f73fb8f3c1a80e43de10ff9be",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856702@football-watchlist",
+      "gameId": "401856702",
+      "title": "CFB: Texas A&M at LSU [time TBA]",
+      "start": "2026-09-26",
+      "end": "2026-09-27",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#8 vs #11) at selection.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Texas A&M Aggies at LSU Tigers\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856702/texas-am-lsu",
+      "location": "Tiger Stadium (LA), Baton Rouge, LA, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856702/texas-am-lsu",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#8 vs #11) at selection.",
+      "hash": "8d16677087d66ccc523a9c6530a03a74739933041a5076dbe1ca513ff00e0249",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401858463@football-watchlist",
+      "gameId": "401858463",
+      "title": "CFB: Iowa at Michigan [time TBA]",
+      "start": "2026-09-26",
+      "end": "2026-09-27",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#16 vs #22) at selection.\n\nTeams: Iowa Hawkeyes at Michigan Wolverines\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858463/iowa-michigan",
+      "location": "Michigan Stadium, Ann Arbor, MI, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858463/iowa-michigan",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#16 vs #22) at selection.",
+      "hash": "5c6baf8ae14f3a6fc93465919b2a5a3a79ae8d89b9b4b30f7e247343a15363d8",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401858469@football-watchlist",
+      "gameId": "401858469",
+      "title": "CFB: Oregon at USC [time TBA]",
+      "start": "2026-09-26",
+      "end": "2026-09-27",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#2 vs #14) at selection.\n\nTeams: Oregon Ducks at USC Trojans\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858469/oregon-usc",
+      "location": "Los Angeles Memorial Coliseum, Los Angeles, CA, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858469/oregon-usc",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#2 vs #14) at selection.",
+      "hash": "796f598ad74985ba94df970222b2747ff4b2ef1078cf3a2edcc7c322c4e67835",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "show-gameday-2026-09-26@football-watchlist",
+      "title": "College GameDay: location TBA",
+      "start": "2026-09-26T13:00:00.000Z",
+      "end": "2026-09-26T16:00:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Usual Saturday broadcast window: 9:00 a.m. to noon Eastern on ESPN. Location and this week's broadcast hours have not been confirmed. Tentative placeholder, subject to broadcast changes.\nSource: https://espnpressroom.com/?s=College+GameDay&feed=rss2",
+      "location": "",
+      "url": "https://espnpressroom.com/?s=College+GameDay&feed=rss2",
+      "categories": [
+        "College",
+        "Pregame"
+      ],
+      "hash": "f6fe05588b869a227417a763b175ec656a01b161f487a9d7ba209a7679949156",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "show-bignoon-2026-09-26@football-watchlist",
+      "title": "Big Noon Kickoff: location TBA",
+      "start": "2026-09-26T14:00:00.000Z",
+      "end": "2026-09-26T16:00:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Usual Saturday broadcast window: 10:00 a.m. to noon Eastern on FOX. Location and this week's broadcast hours have not been confirmed. Tentative placeholder, subject to broadcast changes.\nSource: https://www.foxsports.com/big-noon-kickoff-experience",
+      "location": "",
+      "url": "https://www.foxsports.com/big-noon-kickoff-experience",
+      "categories": [
+        "College",
+        "Pregame"
+      ],
+      "hash": "2267fdbfd1e07186530e26596b01c78eb82fc3fa5ddb7e81f0a38ac0423f88da",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "redzone-2026-09-27@football-watchlist",
+      "title": "NFL RedZone",
+      "start": "2026-09-27T17:00:00.000Z",
+      "end": "2026-09-28T00:00:00.000Z",
+      "allDay": false,
+      "description": "Sunday afternoon NFL whip-around coverage. Seven-hour viewing block, 1-8 p.m. US Eastern; the actual finish depends on the late games. International and Sunday night games appear separately.",
+      "location": "NFL RedZone",
+      "url": "https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-RedZone",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL",
+        "RedZone"
+      ],
+      "hash": "e062aa44136c5663113ae422db82a3f20708b15bed0c7226ed6a9d76fa7d6ef3",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401872960@football-watchlist",
+      "gameId": "401872960",
+      "title": "NFL: Baltimore Ravens at Dallas Cowboys",
+      "start": "2026-09-27T20:25:00.000Z",
+      "end": "2026-09-27T23:55:00.000Z",
+      "allDay": false,
+      "description": "International game: Brazil.\n\nNFL Rio Game\n\nTeams: Baltimore Ravens at Dallas Cowboys\n\nUS broadcast: CBS. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872960/ravens-cowboys",
+      "location": "Maracanã Stadium, Rio De Janeiro, Brazil",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872960/ravens-cowboys",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "ffdfba083f36cca6be44dc9b791ad3bed1cb6580be4a1ffe2719570ea8a5c2fa",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401872962@football-watchlist",
+      "gameId": "401872962",
+      "title": "NFL: Los Angeles Rams at Denver Broncos",
+      "start": "2026-09-28T00:20:00.000Z",
+      "end": "2026-09-28T03:50:00.000Z",
+      "allDay": false,
+      "description": "Sunday Night Football.\n\nTeams: Los Angeles Rams at Denver Broncos\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872962/rams-broncos",
+      "location": "Empower Field at Mile High, Denver, CO, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872962/rams-broncos",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "04c6f52fc515de48c9b43df5f1faf5be2f237dd9ff9a5dfcb999b7bfb062bc5b",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401872963@football-watchlist",
+      "gameId": "401872963",
+      "title": "NFL: Philadelphia Eagles at Chicago Bears",
+      "start": "2026-09-29T00:15:00.000Z",
+      "end": "2026-09-29T03:45:00.000Z",
+      "allDay": false,
+      "description": "Monday Night Football.\n\nTeams: Philadelphia Eagles at Chicago Bears\n\nUS broadcast: ESPN / ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872963/eagles-bears",
+      "location": "Soldier Field, Chicago, IL, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872963/eagles-bears",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "da2fd1a1f7751a2af1fa860d2ff441fa1ed3349ef5c9e56b3fea8bca41aa08d6",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401872964@football-watchlist",
+      "gameId": "401872964",
+      "title": "NFL: Pittsburgh Steelers at Cleveland Browns",
+      "start": "2026-10-02T00:15:00.000Z",
+      "end": "2026-10-02T03:45:00.000Z",
+      "allDay": false,
+      "description": "Thursday football, including Thanksgiving.\n\nTeams: Pittsburgh Steelers at Cleveland Browns\n\nUS broadcast: Prime Video. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872964/steelers-browns",
+      "location": "Huntington Bank Field, Cleveland, OH, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872964/steelers-browns",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "d10da9e4a9e3fe491fe72f472a53097c936db84d18298775ec58b93ee320031e",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401856707@football-watchlist",
+      "gameId": "401856707",
+      "title": "CFB: Alabama at Mississippi State [time TBA]",
+      "start": "2026-10-03",
+      "end": "2026-10-04",
+      "allDay": true,
+      "description": "Following Alabama: every game.\n\nEARLY: Noon - 1pm ET start\n\nTeams: Alabama Crimson Tide at Mississippi State Bulldogs\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856707/alabama-mississippi-st",
+      "location": "Davis Wade Stadium, Starkville, MS, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856707/alabama-mississippi-st",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "Alabama"
+      ],
+      "hash": "1cb39ecf45b3f91d210447a4b9cffd8ad73b6a41a193435b520fed19b4b54312",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "show-gameday-2026-10-03@football-watchlist",
+      "title": "College GameDay: location TBA",
+      "start": "2026-10-03T13:00:00.000Z",
+      "end": "2026-10-03T16:00:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Usual Saturday broadcast window: 9:00 a.m. to noon Eastern on ESPN. Location and this week's broadcast hours have not been confirmed. Tentative placeholder, subject to broadcast changes.\nSource: https://espnpressroom.com/?s=College+GameDay&feed=rss2",
+      "location": "",
+      "url": "https://espnpressroom.com/?s=College+GameDay&feed=rss2",
+      "categories": [
+        "College",
+        "Pregame"
+      ],
+      "hash": "d57a84e0199afb54a9c5bcf421c7a0cd8421c90d32423be035ee4e3a90ba37ae",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "show-bignoon-2026-10-03@football-watchlist",
+      "title": "Big Noon Kickoff: location TBA",
+      "start": "2026-10-03T14:00:00.000Z",
+      "end": "2026-10-03T16:00:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Usual Saturday broadcast window: 10:00 a.m. to noon Eastern on FOX. Location and this week's broadcast hours have not been confirmed. Tentative placeholder, subject to broadcast changes.\nSource: https://www.foxsports.com/big-noon-kickoff-experience",
+      "location": "",
+      "url": "https://www.foxsports.com/big-noon-kickoff-experience",
+      "categories": [
+        "College",
+        "Pregame"
+      ],
+      "hash": "b25641c8718b1a626f17468bd4ace24482ce930983a25a24f442ab5fe85c987b",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401872965@football-watchlist",
+      "gameId": "401872965",
+      "title": "NFL: Indianapolis Colts at Washington Commanders",
+      "start": "2026-10-04T13:30:00.000Z",
+      "end": "2026-10-04T17:00:00.000Z",
+      "allDay": false,
+      "description": "International game: England.\n\nNFL London Games\n\nTeams: Indianapolis Colts at Washington Commanders\n\nUS broadcast: NFL Net. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872965/colts-commanders",
+      "location": "Tottenham Hotspur Stadium, London, England",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872965/colts-commanders",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "28313843645abbdad57ddd7c461c67c7f50262b337e9de2deedff35ccf155ecf",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "redzone-2026-10-04@football-watchlist",
+      "title": "NFL RedZone",
+      "start": "2026-10-04T17:00:00.000Z",
+      "end": "2026-10-05T00:00:00.000Z",
+      "allDay": false,
+      "description": "Sunday afternoon NFL whip-around coverage. Seven-hour viewing block, 1-8 p.m. US Eastern; the actual finish depends on the late games. International and Sunday night games appear separately.",
+      "location": "NFL RedZone",
+      "url": "https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-RedZone",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL",
+        "RedZone"
+      ],
+      "hash": "9a68304cb08d6b70281f4a6704b8a9543fba857eb60e9ab837383a13b7782343",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401872978@football-watchlist",
+      "gameId": "401872978",
+      "title": "NFL: Detroit Lions at Carolina Panthers",
+      "start": "2026-10-05T00:20:00.000Z",
+      "end": "2026-10-05T03:50:00.000Z",
+      "allDay": false,
+      "description": "Sunday Night Football.\n\nTeams: Detroit Lions at Carolina Panthers\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872978/lions-panthers",
+      "location": "Bank of America Stadium, Charlotte, NC, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872978/lions-panthers",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "a50ec6c47830b4152514435537eb159c12d4a39aee141f3d7941deb664590eaa",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401872979@football-watchlist",
+      "gameId": "401872979",
+      "title": "NFL: Atlanta Falcons at New Orleans Saints",
+      "start": "2026-10-06T00:15:00.000Z",
+      "end": "2026-10-06T03:45:00.000Z",
+      "allDay": false,
+      "description": "Monday Night Football.\n\nTeams: Atlanta Falcons at New Orleans Saints\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872979/falcons-saints",
+      "location": "Caesars Superdome, New Orleans, LA, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872979/falcons-saints",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "072af143d12cc39bc57723eef4a1c4cdf9137dfd842db9e0e039f262413cec31",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401872980@football-watchlist",
+      "gameId": "401872980",
+      "title": "NFL: Tampa Bay Buccaneers at Dallas Cowboys",
+      "start": "2026-10-09T00:15:00.000Z",
+      "end": "2026-10-09T03:45:00.000Z",
+      "allDay": false,
+      "description": "Thursday football, including Thanksgiving.\n\nTeams: Tampa Bay Buccaneers at Dallas Cowboys\n\nUS broadcast: Prime Video. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872980/buccaneers-cowboys",
+      "location": "AT&T Stadium, Arlington, TX, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872980/buccaneers-cowboys",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "742f4459dc2516bf95ecc1e23501b267a46f44396b9f32de4d3ab0bf41f7caf3",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401856712@football-watchlist",
+      "gameId": "401856712",
+      "title": "CFB: Georgia at Alabama [time TBA]",
+      "start": "2026-10-10",
+      "end": "2026-10-11",
+      "allDay": true,
+      "description": "Following Alabama: every game.\n\nNIGHT: 6 - 8pm ET start\n\nTeams: Georgia Bulldogs at Alabama Crimson Tide\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856712/georgia-alabama",
+      "location": "Bryant-Denny Stadium, Tuscaloosa, AL, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856712/georgia-alabama",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "Alabama"
+      ],
+      "hash": "915cef6cfaf147dda640b905b343f9dd7164943c4efc96c7c6579f2675db60c4",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "show-gameday-2026-10-10@football-watchlist",
+      "title": "College GameDay: location TBA",
+      "start": "2026-10-10T13:00:00.000Z",
+      "end": "2026-10-10T16:00:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Usual Saturday broadcast window: 9:00 a.m. to noon Eastern on ESPN. Location and this week's broadcast hours have not been confirmed. Tentative placeholder, subject to broadcast changes.\nSource: https://espnpressroom.com/?s=College+GameDay&feed=rss2",
+      "location": "",
+      "url": "https://espnpressroom.com/?s=College+GameDay&feed=rss2",
+      "categories": [
+        "College",
+        "Pregame"
+      ],
+      "hash": "bdd7cc3635c83616fc3c37ccdf330f38e982e4922b82f66a92e7c087ea3e11f9",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "show-bignoon-2026-10-10@football-watchlist",
+      "title": "Big Noon Kickoff: location TBA",
+      "start": "2026-10-10T14:00:00.000Z",
+      "end": "2026-10-10T16:00:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Usual Saturday broadcast window: 10:00 a.m. to noon Eastern on FOX. Location and this week's broadcast hours have not been confirmed. Tentative placeholder, subject to broadcast changes.\nSource: https://www.foxsports.com/big-noon-kickoff-experience",
+      "location": "",
+      "url": "https://www.foxsports.com/big-noon-kickoff-experience",
+      "categories": [
+        "College",
+        "Pregame"
+      ],
+      "hash": "314d1278d6fc65e713586163034c74a49ac017ad54cf1e0eae07466e24ad2760",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856717@football-watchlist",
+      "gameId": "401856717",
+      "title": "CFB: Texas at Oklahoma",
+      "start": "2026-10-10T19:30:00.000Z",
+      "end": "2026-10-10T23:00:00.000Z",
+      "allDay": false,
+      "description": "Major rivalry: Red River Rivalry.\n\nTeams: Texas Longhorns at Oklahoma Sooners\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856717/texas-oklahoma",
+      "location": "Cotton Bowl, Dallas, TX, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856717/texas-oklahoma",
+      "status": "CONFIRMED",
+      "categories": [
+        "College"
+      ],
+      "hash": "4e23b992e5474a600c5a6b0ff755f7bbd8f2b2a99b600ea0cc08f374c59893c4",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401872981@football-watchlist",
+      "gameId": "401872981",
+      "title": "NFL: Philadelphia Eagles at Jacksonville Jaguars",
+      "start": "2026-10-11T13:30:00.000Z",
+      "end": "2026-10-11T17:00:00.000Z",
+      "allDay": false,
+      "description": "International game: England.\n\nNFL London Games\n\nTeams: Philadelphia Eagles at Jacksonville Jaguars\n\nUS broadcast: NFL Net. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872981/eagles-jaguars",
+      "location": "Tottenham Hotspur Stadium, London, England",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872981/eagles-jaguars",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "3a83f1f75e365ff1e91398aab3bb2a82c138b90cb8431f12a40de9e21ecb76b4",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "redzone-2026-10-11@football-watchlist",
+      "title": "NFL RedZone",
+      "start": "2026-10-11T17:00:00.000Z",
+      "end": "2026-10-12T00:00:00.000Z",
+      "allDay": false,
+      "description": "Sunday afternoon NFL whip-around coverage. Seven-hour viewing block, 1-8 p.m. US Eastern; the actual finish depends on the late games. International and Sunday night games appear separately.",
+      "location": "NFL RedZone",
+      "url": "https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-RedZone",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL",
+        "RedZone"
+      ],
+      "hash": "dcfa94cdc9c9ffbc971c345cc73a7f06e7835785d433b013630b9814ea21411a",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401872993@football-watchlist",
+      "gameId": "401872993",
+      "title": "NFL: Baltimore Ravens at Atlanta Falcons",
+      "start": "2026-10-12T00:20:00.000Z",
+      "end": "2026-10-12T03:50:00.000Z",
+      "allDay": false,
+      "description": "Sunday Night Football.\n\nTeams: Baltimore Ravens at Atlanta Falcons\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872993/ravens-falcons",
+      "location": "Mercedes-Benz Stadium, Atlanta, GA, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872993/ravens-falcons",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "abaecc706df52f9acf89ea05f3acdc113b444c29f06c3762110812b12aeeb791",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401872994@football-watchlist",
+      "gameId": "401872994",
+      "title": "NFL: Buffalo Bills at Los Angeles Rams",
+      "start": "2026-10-13T00:15:00.000Z",
+      "end": "2026-10-13T03:45:00.000Z",
+      "allDay": false,
+      "description": "Monday Night Football.\n\nTeams: Buffalo Bills at Los Angeles Rams\n\nUS broadcast: ESPN / ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872994/bills-rams",
+      "location": "SoFi Stadium, Inglewood, CA, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872994/bills-rams",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "f3cb7c403c1f287c41caa9b2843c8d5ddfe25d8bcd45e5fa910f5a886f9ed521",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401872995@football-watchlist",
+      "gameId": "401872995",
+      "title": "NFL: Seattle Seahawks at Denver Broncos",
+      "start": "2026-10-16T00:15:00.000Z",
+      "end": "2026-10-16T03:45:00.000Z",
+      "allDay": false,
+      "description": "Thursday football, including Thanksgiving.\n\nTeams: Seattle Seahawks at Denver Broncos\n\nUS broadcast: Prime Video. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872995/seahawks-broncos",
+      "location": "Empower Field at Mile High, Denver, CO, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872995/seahawks-broncos",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "ae6a8eb7571073160aa9016dd406b7dc2d1506773f6c2503396c56d2b7f47025",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401856723@football-watchlist",
+      "gameId": "401856723",
+      "title": "CFB: Alabama at Tennessee [time TBA]",
+      "start": "2026-10-17",
+      "end": "2026-10-18",
+      "allDay": true,
+      "description": "Following Alabama: every game.\nMajor rivalry: Third Saturday in October.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Alabama Crimson Tide at Tennessee Volunteers\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856723/alabama-tennessee",
+      "location": "Neyland Stadium, Knoxville, TN, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856723/alabama-tennessee",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "Alabama"
+      ],
+      "hash": "676199248aaec16c4c862586b51cd919ec0afc029e3a8540692caee3c3f18940",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401858263@football-watchlist",
+      "gameId": "401858263",
+      "title": "CFB: Florida State at Miami [time TBA]",
+      "start": "2026-10-17",
+      "end": "2026-10-18",
+      "allDay": true,
+      "description": "Major rivalry: Florida State-Miami.\n\nTeams: Florida State Seminoles at Miami Hurricanes\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858263/florida-st-miami",
+      "location": "Hard Rock Stadium, Miami Gardens, FL, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858263/florida-st-miami",
+      "status": "TENTATIVE",
+      "categories": [
+        "College"
+      ],
+      "hash": "8c435d913026ad94b8579780eb7250d4c761bb25f86938a93d6f86bd1c090883",
+      "created": "2026-09-05T14:52:08.096Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 0
+    },
+    {
+      "uid": "show-gameday-2026-10-17@football-watchlist",
+      "title": "College GameDay: location TBA",
+      "start": "2026-10-17T13:00:00.000Z",
+      "end": "2026-10-17T16:00:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Usual Saturday broadcast window: 9:00 a.m. to noon Eastern on ESPN. Location and this week's broadcast hours have not been confirmed. Tentative placeholder, subject to broadcast changes.\nSource: https://espnpressroom.com/?s=College+GameDay&feed=rss2",
+      "location": "",
+      "url": "https://espnpressroom.com/?s=College+GameDay&feed=rss2",
+      "categories": [
+        "College",
+        "Pregame"
+      ],
+      "hash": "f70d625917b54aeb870d7d0858f0d0db60b8c7f99b832af07913d48d2ff602aa",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "show-bignoon-2026-10-17@football-watchlist",
+      "title": "Big Noon Kickoff: location TBA",
+      "start": "2026-10-17T14:00:00.000Z",
+      "end": "2026-10-17T16:00:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Usual Saturday broadcast window: 10:00 a.m. to noon Eastern on FOX. Location and this week's broadcast hours have not been confirmed. Tentative placeholder, subject to broadcast changes.\nSource: https://www.foxsports.com/big-noon-kickoff-experience",
+      "location": "",
+      "url": "https://www.foxsports.com/big-noon-kickoff-experience",
+      "categories": [
+        "College",
+        "Pregame"
+      ],
+      "hash": "32961136e10e4003ed68ec48d368ad782c1c7e1a7ac358b3aa9c880b4008cada",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401872996@football-watchlist",
+      "gameId": "401872996",
+      "title": "NFL: Houston Texans at Jacksonville Jaguars",
+      "start": "2026-10-18T13:30:00.000Z",
+      "end": "2026-10-18T17:00:00.000Z",
+      "allDay": false,
+      "description": "International game: England.\n\nNFL London Games\n\nTeams: Houston Texans at Jacksonville Jaguars\n\nUS broadcast: NFL Net. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872996/texans-jaguars",
+      "location": "Wembley Stadium, London, England",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872996/texans-jaguars",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "388a7dc466f6ae879cd390982952495ae8ebab7f3dfe43fda27a7286cfec8497",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "redzone-2026-10-18@football-watchlist",
+      "title": "NFL RedZone",
+      "start": "2026-10-18T17:00:00.000Z",
+      "end": "2026-10-19T00:00:00.000Z",
+      "allDay": false,
+      "description": "Sunday afternoon NFL whip-around coverage. Seven-hour viewing block, 1-8 p.m. US Eastern; the actual finish depends on the late games. International and Sunday night games appear separately.",
+      "location": "NFL RedZone",
+      "url": "https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-RedZone",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL",
+        "RedZone"
+      ],
+      "hash": "047e70f130dfdb74bba3d34b2ca2cc690d5cf28ce1fc8fdb9e2e8eb46f583b67",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401873007@football-watchlist",
+      "gameId": "401873007",
+      "title": "NFL: Dallas Cowboys at Green Bay Packers",
+      "start": "2026-10-19T00:20:00.000Z",
+      "end": "2026-10-19T03:50:00.000Z",
+      "allDay": false,
+      "description": "Sunday Night Football.\n\nTeams: Dallas Cowboys at Green Bay Packers\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873007/cowboys-packers",
+      "location": "Lambeau Field, Green Bay, WI, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873007/cowboys-packers",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "a5b8a536c61ac510b6de0fb10acaf6e5f448a74e2f16bcb45c7137c4ddffa3b7",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401873008@football-watchlist",
+      "gameId": "401873008",
+      "title": "NFL: Washington Commanders at San Francisco 49ers",
+      "start": "2026-10-20T00:15:00.000Z",
+      "end": "2026-10-20T03:45:00.000Z",
+      "allDay": false,
+      "description": "Monday Night Football.\n\nTeams: Washington Commanders at San Francisco 49ers\n\nUS broadcast: ESPN / ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873008/commanders-49ers",
+      "location": "Levi's Stadium, Santa Clara, CA, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873008/commanders-49ers",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "baac63befbe7b7f39fffbaf23c06801bda06d6e9d1a7e428bf6c3202cabd495f",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401873010@football-watchlist",
+      "gameId": "401873010",
+      "title": "NFL: New England Patriots at Chicago Bears",
+      "start": "2026-10-23T00:15:00.000Z",
+      "end": "2026-10-23T03:45:00.000Z",
+      "allDay": false,
+      "description": "Thursday football, including Thanksgiving.\n\nTeams: New England Patriots at Chicago Bears\n\nUS broadcast: Prime Video. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873010/patriots-bears",
+      "location": "Soldier Field, Chicago, IL, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873010/patriots-bears",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "2f2e2e08039f7f431f20dceef7ac6e79460949c383a222538c97732ceba779ef",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401856727@football-watchlist",
+      "gameId": "401856727",
+      "title": "CFB: Texas A&M at Alabama [time TBA]",
+      "start": "2026-10-24",
+      "end": "2026-10-25",
+      "allDay": true,
+      "description": "Following Alabama: every game.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Texas A&M Aggies at Alabama Crimson Tide\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856727/texas-am-alabama",
+      "location": "Bryant-Denny Stadium, Tuscaloosa, AL, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856727/texas-am-alabama",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "Alabama"
+      ],
+      "hash": "b6a9ad01e5daed60397fd5c8616746dd03add373227127f524a398c5360d97d5",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "show-gameday-2026-10-24@football-watchlist",
+      "title": "College GameDay: location TBA",
+      "start": "2026-10-24T13:00:00.000Z",
+      "end": "2026-10-24T16:00:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Usual Saturday broadcast window: 9:00 a.m. to noon Eastern on ESPN. Location and this week's broadcast hours have not been confirmed. Tentative placeholder, subject to broadcast changes.\nSource: https://espnpressroom.com/?s=College+GameDay&feed=rss2",
+      "location": "",
+      "url": "https://espnpressroom.com/?s=College+GameDay&feed=rss2",
+      "categories": [
+        "College",
+        "Pregame"
+      ],
+      "hash": "ef2958c9433fc37a33da0c8cf1675901865d2ecb73317cfbc8f8e7e67f71bcbe",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "show-bignoon-2026-10-24@football-watchlist",
+      "title": "Big Noon Kickoff: location TBA",
+      "start": "2026-10-24T14:00:00.000Z",
+      "end": "2026-10-24T16:00:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Usual Saturday broadcast window: 10:00 a.m. to noon Eastern on FOX. Location and this week's broadcast hours have not been confirmed. Tentative placeholder, subject to broadcast changes.\nSource: https://www.foxsports.com/big-noon-kickoff-experience",
+      "location": "",
+      "url": "https://www.foxsports.com/big-noon-kickoff-experience",
+      "categories": [
+        "College",
+        "Pregame"
+      ],
+      "hash": "0f260abe2977807c9dfb5c695d3a90863e379ca79471f88d84430ee7cbd2a09d",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401873011@football-watchlist",
+      "gameId": "401873011",
+      "title": "NFL: Pittsburgh Steelers at New Orleans Saints",
+      "start": "2026-10-25T13:30:00.000Z",
+      "end": "2026-10-25T17:00:00.000Z",
+      "allDay": false,
+      "description": "International game: France.\n\nNFL Paris Game\n\nTeams: Pittsburgh Steelers at New Orleans Saints\n\nUS broadcast: NFL Net. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873011/steelers-saints",
+      "location": "Stade de France, Saint-Denis, France",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873011/steelers-saints",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "68bcfc5fdb41f097515d285a7d6d8ae55f15a5c8a93687f4de5c9847ef8b0241",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "redzone-2026-10-25@football-watchlist",
+      "title": "NFL RedZone",
+      "start": "2026-10-25T17:00:00.000Z",
+      "end": "2026-10-26T00:00:00.000Z",
+      "allDay": false,
+      "description": "Sunday afternoon NFL whip-around coverage. Seven-hour viewing block, 1-8 p.m. US Eastern; the actual finish depends on the late games. International and Sunday night games appear separately.",
+      "location": "NFL RedZone",
+      "url": "https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-RedZone",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL",
+        "RedZone"
+      ],
+      "hash": "a8f00ec9787476c41d10690aca2af7231c04514357a61f986af63ec36be2f5f8",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401873022@football-watchlist",
+      "gameId": "401873022",
+      "title": "NFL: Kansas City Chiefs at Seattle Seahawks",
+      "start": "2026-10-26T00:20:00.000Z",
+      "end": "2026-10-26T03:50:00.000Z",
+      "allDay": false,
+      "description": "Sunday Night Football.\n\nTeams: Kansas City Chiefs at Seattle Seahawks\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873022/chiefs-seahawks",
+      "location": "Lumen Field, Seattle, WA, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873022/chiefs-seahawks",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "a374feb69d16cafd894387dc1260e20d416b3bd36f8e4fd2d7a058575192bcc8",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401873009@football-watchlist",
+      "gameId": "401873009",
+      "title": "NFL: Dallas Cowboys at Philadelphia Eagles",
+      "start": "2026-10-27T00:15:00.000Z",
+      "end": "2026-10-27T03:45:00.000Z",
+      "allDay": false,
+      "description": "Monday Night Football.\n\nTeams: Dallas Cowboys at Philadelphia Eagles\n\nUS broadcast: ESPN / ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873009/cowboys-eagles",
+      "location": "Lincoln Financial Field, Philadelphia, PA, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873009/cowboys-eagles",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "589a6128aa75bcb79ed1bf4ea7dfa9b996db05b72d777bd516d57ec8da1136b2",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401873023@football-watchlist",
+      "gameId": "401873023",
+      "title": "NFL: Carolina Panthers at Green Bay Packers",
+      "start": "2026-10-30T00:15:00.000Z",
+      "end": "2026-10-30T03:45:00.000Z",
+      "allDay": false,
+      "description": "Thursday football, including Thanksgiving.\n\nTeams: Carolina Panthers at Green Bay Packers\n\nUS broadcast: Prime Video. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873023/panthers-packers",
+      "location": "Lambeau Field, Green Bay, WI, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873023/panthers-packers",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "fb15af8689c6d90184ef5430b8739ca6b7153f84ea42a5f8b03715d8102a7236",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "show-gameday-2026-10-31@football-watchlist",
+      "title": "College GameDay: location TBA",
+      "start": "2026-10-31T13:00:00.000Z",
+      "end": "2026-10-31T16:00:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Usual Saturday broadcast window: 9:00 a.m. to noon Eastern on ESPN. Location and this week's broadcast hours have not been confirmed. Tentative placeholder, subject to broadcast changes.\nSource: https://espnpressroom.com/?s=College+GameDay&feed=rss2",
+      "location": "",
+      "url": "https://espnpressroom.com/?s=College+GameDay&feed=rss2",
+      "categories": [
+        "College",
+        "Pregame"
+      ],
+      "hash": "a470659856fe74721411c59c9ed1cabe0f667743bd3e9378b4bba152b5012579",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "show-bignoon-2026-10-31@football-watchlist",
+      "title": "Big Noon Kickoff: location TBA",
+      "start": "2026-10-31T14:00:00.000Z",
+      "end": "2026-10-31T16:00:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Usual Saturday broadcast window: 10:00 a.m. to noon Eastern on FOX. Location and this week's broadcast hours have not been confirmed. Tentative placeholder, subject to broadcast changes.\nSource: https://www.foxsports.com/big-noon-kickoff-experience",
+      "location": "",
+      "url": "https://www.foxsports.com/big-noon-kickoff-experience",
+      "categories": [
+        "College",
+        "Pregame"
+      ],
+      "hash": "023a951cacb7a881f16aece0a3e4c983c78c346050554dce8b59096e16a5ea06",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856734@football-watchlist",
+      "gameId": "401856734",
+      "title": "CFB: Florida at Georgia",
+      "start": "2026-10-31T19:30:00.000Z",
+      "end": "2026-10-31T23:00:00.000Z",
+      "allDay": false,
+      "description": "Major rivalry: Florida-Georgia.\n\nTeams: Florida Gators at Georgia Bulldogs\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856734/florida-georgia",
+      "location": "Mercedes-Benz Stadium, Atlanta, GA, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856734/florida-georgia",
+      "status": "CONFIRMED",
+      "categories": [
+        "College"
+      ],
+      "hash": "dcde8d6c44beb4f9e17929e5aba7d3ecc120b4aa720c9c17c96af26c19ef2463",
+      "created": "2026-09-05T14:52:08.096Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 0
+    },
+    {
+      "uid": "redzone-2026-11-01@football-watchlist",
+      "title": "NFL RedZone",
+      "start": "2026-11-01T18:00:00.000Z",
+      "end": "2026-11-02T01:00:00.000Z",
+      "allDay": false,
+      "description": "Sunday afternoon NFL whip-around coverage. Seven-hour viewing block, 1-8 p.m. US Eastern; the actual finish depends on the late games. International and Sunday night games appear separately.",
+      "location": "NFL RedZone",
+      "url": "https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-RedZone",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL",
+        "RedZone"
+      ],
+      "hash": "9cbebbeea380dc80d5cb56a4082e22be05ed2fdbe0dbac8fc93ac5da46978015",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401873035@football-watchlist",
+      "gameId": "401873035",
+      "title": "NFL: Philadelphia Eagles at Washington Commanders",
+      "start": "2026-11-02T01:20:00.000Z",
+      "end": "2026-11-02T04:50:00.000Z",
+      "allDay": false,
+      "description": "Sunday Night Football.\n\nTeams: Philadelphia Eagles at Washington Commanders\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873035/eagles-commanders",
+      "location": "Northwest Stadium, Landover, MD, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873035/eagles-commanders",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "383cc18af60525be2e2fd4deb7aff7e020ed7c2ce10d5a6874235b922bf8424e",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401873036@football-watchlist",
+      "gameId": "401873036",
+      "title": "NFL: Chicago Bears at Seattle Seahawks",
+      "start": "2026-11-03T01:15:00.000Z",
+      "end": "2026-11-03T04:45:00.000Z",
+      "allDay": false,
+      "description": "Monday Night Football.\n\nTeams: Chicago Bears at Seattle Seahawks\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873036/bears-seahawks",
+      "location": "Lumen Field, Seattle, WA, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873036/bears-seahawks",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "e4c9c273914e6fb3fc3a9df5dc17460689735c2906b8b6bf7977de24a70954b2",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401873037@football-watchlist",
+      "gameId": "401873037",
+      "title": "NFL: Jacksonville Jaguars at Baltimore Ravens",
+      "start": "2026-11-06T01:15:00.000Z",
+      "end": "2026-11-06T04:45:00.000Z",
+      "allDay": false,
+      "description": "Thursday football, including Thanksgiving.\n\nTeams: Jacksonville Jaguars at Baltimore Ravens\n\nUS broadcast: Prime Video. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873037/jaguars-ravens",
+      "location": "M&T Bank Stadium, Baltimore, MD, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873037/jaguars-ravens",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "bad5fc6666e63eb149d40d3f98821afa6a2fda1adb7e3b1b19b0b2503e9c23d5",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401856740@football-watchlist",
+      "gameId": "401856740",
+      "title": "CFB: Alabama at LSU [time TBA]",
+      "start": "2026-11-07",
+      "end": "2026-11-08",
+      "allDay": true,
+      "description": "Following Alabama: every game.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Alabama Crimson Tide at LSU Tigers\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856740/alabama-lsu",
+      "location": "Tiger Stadium (LA), Baton Rouge, LA, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856740/alabama-lsu",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "Alabama"
+      ],
+      "hash": "bd907c03cbf9b45e589ff938e99e5ec136db6dee942f62c3358076bf9de08333",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "show-gameday-2026-11-07@football-watchlist",
+      "title": "College GameDay: location TBA",
+      "start": "2026-11-07T14:00:00.000Z",
+      "end": "2026-11-07T17:00:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Usual Saturday broadcast window: 9:00 a.m. to noon Eastern on ESPN. Location and this week's broadcast hours have not been confirmed. Tentative placeholder, subject to broadcast changes.\nSource: https://espnpressroom.com/?s=College+GameDay&feed=rss2",
+      "location": "",
+      "url": "https://espnpressroom.com/?s=College+GameDay&feed=rss2",
+      "categories": [
+        "College",
+        "Pregame"
+      ],
+      "hash": "49ef1632cb4f36f711c10e878c6c7ed411170b3528171012c93c370158d9bd99",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "show-bignoon-2026-11-07@football-watchlist",
+      "title": "Big Noon Kickoff: location TBA",
+      "start": "2026-11-07T15:00:00.000Z",
+      "end": "2026-11-07T17:00:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Usual Saturday broadcast window: 10:00 a.m. to noon Eastern on FOX. Location and this week's broadcast hours have not been confirmed. Tentative placeholder, subject to broadcast changes.\nSource: https://www.foxsports.com/big-noon-kickoff-experience",
+      "location": "",
+      "url": "https://www.foxsports.com/big-noon-kickoff-experience",
+      "categories": [
+        "College",
+        "Pregame"
+      ],
+      "hash": "bf9f9de7171f8377f4cd72a1fb3e46d8d129386cda2b97b1ac7a8ef72216cb7b",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401873038@football-watchlist",
+      "gameId": "401873038",
+      "title": "NFL: Cincinnati Bengals at Atlanta Falcons",
+      "start": "2026-11-08T14:30:00.000Z",
+      "end": "2026-11-08T18:00:00.000Z",
+      "allDay": false,
+      "description": "International game: Spain.\n\nNFL Madrid Game\n\nTeams: Cincinnati Bengals at Atlanta Falcons\n\nUS broadcast: NFL Net. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873038/bengals-falcons",
+      "location": "Santiago Bernabéu, Madrid, Spain",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873038/bengals-falcons",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "b51f8704e9819f47039ef6ca341d89a5196575e3d80b749813f1c9e270fdb3ed",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "redzone-2026-11-08@football-watchlist",
+      "title": "NFL RedZone",
+      "start": "2026-11-08T18:00:00.000Z",
+      "end": "2026-11-09T01:00:00.000Z",
+      "allDay": false,
+      "description": "Sunday afternoon NFL whip-around coverage. Seven-hour viewing block, 1-8 p.m. US Eastern; the actual finish depends on the late games. International and Sunday night games appear separately.",
+      "location": "NFL RedZone",
+      "url": "https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-RedZone",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL",
+        "RedZone"
+      ],
+      "hash": "05d9155b384ee9ec2f61efb3dd52b6e49b09a33f27a04c3a3b08e421ec9122e7",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401873050@football-watchlist",
+      "gameId": "401873050",
+      "title": "NFL: Tampa Bay Buccaneers at Chicago Bears",
+      "start": "2026-11-09T01:20:00.000Z",
+      "end": "2026-11-09T04:50:00.000Z",
+      "allDay": false,
+      "description": "Sunday Night Football.\n\nTeams: Tampa Bay Buccaneers at Chicago Bears\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873050/buccaneers-bears",
+      "location": "Soldier Field, Chicago, IL, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873050/buccaneers-bears",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "76f01acb42f1e167b4247ac6c6f968bae057300577f9a7a08d7c01a17287c60a",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401873051@football-watchlist",
+      "gameId": "401873051",
+      "title": "NFL: Buffalo Bills at Minnesota Vikings",
+      "start": "2026-11-10T01:15:00.000Z",
+      "end": "2026-11-10T04:45:00.000Z",
+      "allDay": false,
+      "description": "Monday Night Football.\n\nTeams: Buffalo Bills at Minnesota Vikings\n\nUS broadcast: ESPN / ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873051/bills-vikings",
+      "location": "U.S. Bank Stadium, Minneapolis, MN, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873051/bills-vikings",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "ac72984b779abe622fce3914a8f4a74d6d35bda0b9b15aee99e52c5f4bdf0a1f",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401873052@football-watchlist",
+      "gameId": "401873052",
+      "title": "NFL: Washington Commanders at New York Giants",
+      "start": "2026-11-13T01:15:00.000Z",
+      "end": "2026-11-13T04:45:00.000Z",
+      "allDay": false,
+      "description": "Thursday football, including Thanksgiving.\n\nTeams: Washington Commanders at New York Giants\n\nUS broadcast: Prime Video. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873052/commanders-giants",
+      "location": "MetLife Stadium, East Rutherford, NJ, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873052/commanders-giants",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "6b8091f3e61d323c74577e03140a86e0895137032f3a89ca0a6897c4613baedc",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401856889@football-watchlist",
+      "gameId": "401856889",
+      "title": "CFB: Alabama at Vanderbilt [time TBA]",
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "allDay": true,
+      "description": "Following Alabama: every game.\n\nEARLY: Noon - 1pm ET start\n\nTeams: Alabama Crimson Tide at Vanderbilt Commodores\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856889/alabama-vanderbilt",
+      "location": "FirstBank Stadium, Nashville, TN, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856889/alabama-vanderbilt",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "Alabama"
+      ],
+      "hash": "33860a85f41b05b4269ecb13e05057dcf61689d0a2b5ebef20207955c04d97e6",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "show-gameday-2026-11-14@football-watchlist",
+      "title": "College GameDay: location TBA",
+      "start": "2026-11-14T14:00:00.000Z",
+      "end": "2026-11-14T17:00:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Usual Saturday broadcast window: 9:00 a.m. to noon Eastern on ESPN. Location and this week's broadcast hours have not been confirmed. Tentative placeholder, subject to broadcast changes.\nSource: https://espnpressroom.com/?s=College+GameDay&feed=rss2",
+      "location": "",
+      "url": "https://espnpressroom.com/?s=College+GameDay&feed=rss2",
+      "categories": [
+        "College",
+        "Pregame"
+      ],
+      "hash": "ffed4074640bf173f436d6f319a918f86fe78285054f207a6a488957513ba53f",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "show-bignoon-2026-11-14@football-watchlist",
+      "title": "Big Noon Kickoff: location TBA",
+      "start": "2026-11-14T15:00:00.000Z",
+      "end": "2026-11-14T17:00:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Usual Saturday broadcast window: 10:00 a.m. to noon Eastern on FOX. Location and this week's broadcast hours have not been confirmed. Tentative placeholder, subject to broadcast changes.\nSource: https://www.foxsports.com/big-noon-kickoff-experience",
+      "location": "",
+      "url": "https://www.foxsports.com/big-noon-kickoff-experience",
+      "categories": [
+        "College",
+        "Pregame"
+      ],
+      "hash": "c256514ea1b8a0df09cecfbe47f45814957200fd702a798b6772bb208fc9b075",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401873053@football-watchlist",
+      "gameId": "401873053",
+      "title": "NFL: New England Patriots at Detroit Lions",
+      "start": "2026-11-15T14:30:00.000Z",
+      "end": "2026-11-15T18:00:00.000Z",
+      "allDay": false,
+      "description": "International game: Germany.\n\nNFL Munich Game\n\nTeams: New England Patriots at Detroit Lions\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873053/patriots-lions",
+      "location": "FC Bayern Munich Stadium, Munich, Germany",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873053/patriots-lions",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "268ac95b6745179c3fc815d12ad9cf2bc5acc1d735358aeba849a99d9999660b",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "redzone-2026-11-15@football-watchlist",
+      "title": "NFL RedZone",
+      "start": "2026-11-15T18:00:00.000Z",
+      "end": "2026-11-16T01:00:00.000Z",
+      "allDay": false,
+      "description": "Sunday afternoon NFL whip-around coverage. Seven-hour viewing block, 1-8 p.m. US Eastern; the actual finish depends on the late games. International and Sunday night games appear separately.",
+      "location": "NFL RedZone",
+      "url": "https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-RedZone",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL",
+        "RedZone"
+      ],
+      "hash": "d2643ec6aa525c726372df96c564e3e30815080e5a86e9fb98e0fe0ee8b39bc5",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401873064@football-watchlist",
+      "gameId": "401873064",
+      "title": "NFL: Pittsburgh Steelers at Cincinnati Bengals",
+      "start": "2026-11-16T01:20:00.000Z",
+      "end": "2026-11-16T04:50:00.000Z",
+      "allDay": false,
+      "description": "Sunday Night Football.\n\nTeams: Pittsburgh Steelers at Cincinnati Bengals\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873064/steelers-bengals",
+      "location": "Paycor Stadium, Cincinnati, OH, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873064/steelers-bengals",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "88eaf245e94f02cbb2ac176df35b27f48621d3d51e043c4040f8aab3da76155e",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401873065@football-watchlist",
+      "gameId": "401873065",
+      "title": "NFL: Los Angeles Chargers at Baltimore Ravens",
+      "start": "2026-11-17T01:15:00.000Z",
+      "end": "2026-11-17T04:45:00.000Z",
+      "allDay": false,
+      "description": "Monday Night Football.\n\nTeams: Los Angeles Chargers at Baltimore Ravens\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873065/chargers-ravens",
+      "location": "M&T Bank Stadium, Baltimore, MD, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873065/chargers-ravens",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "ea35ddc5a4a358b478e20b728124dfaea106952cb67da4cb1ab03c53df0f6281",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401873066@football-watchlist",
+      "gameId": "401873066",
+      "title": "NFL: Indianapolis Colts at Houston Texans",
+      "start": "2026-11-20T01:15:00.000Z",
+      "end": "2026-11-20T04:45:00.000Z",
+      "allDay": false,
+      "description": "Thursday football, including Thanksgiving.\n\nTeams: Indianapolis Colts at Houston Texans\n\nUS broadcast: Prime Video. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873066/colts-texans",
+      "location": "Reliant Stadium, Houston, TX, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873066/colts-texans",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "411607bea226730b2a3ccd6f9dc767983cf04735af13e4c9167b9daf1772033a",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "show-gameday-2026-11-21@football-watchlist",
+      "title": "College GameDay: location TBA",
+      "start": "2026-11-21T14:00:00.000Z",
+      "end": "2026-11-21T17:00:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Usual Saturday broadcast window: 9:00 a.m. to noon Eastern on ESPN. Location and this week's broadcast hours have not been confirmed. Tentative placeholder, subject to broadcast changes.\nSource: https://espnpressroom.com/?s=College+GameDay&feed=rss2",
+      "location": "",
+      "url": "https://espnpressroom.com/?s=College+GameDay&feed=rss2",
+      "categories": [
+        "College",
+        "Pregame"
+      ],
+      "hash": "4ddec7d9250358a3ff74efae75b741f323909e482e0c7304777701178ed6dca3",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "show-bignoon-2026-11-21@football-watchlist",
+      "title": "Big Noon Kickoff: location TBA",
+      "start": "2026-11-21T15:00:00.000Z",
+      "end": "2026-11-21T17:00:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Usual Saturday broadcast window: 10:00 a.m. to noon Eastern on FOX. Location and this week's broadcast hours have not been confirmed. Tentative placeholder, subject to broadcast changes.\nSource: https://www.foxsports.com/big-noon-kickoff-experience",
+      "location": "",
+      "url": "https://www.foxsports.com/big-noon-kickoff-experience",
+      "categories": [
+        "College",
+        "Pregame"
+      ],
+      "hash": "326d29b24c97f5fecdcb7876e2db86ea491c005b99c7e80db09d81b0cd5321bf",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856746@football-watchlist",
+      "gameId": "401856746",
+      "title": "CFB: Chattanooga at Alabama",
+      "start": "2026-11-21T19:00:00.000Z",
+      "end": "2026-11-21T22:30:00.000Z",
+      "allDay": false,
+      "description": "Following Alabama: every game.\n\nTeams: Chattanooga Mocs at Alabama Crimson Tide\n\nUS broadcast: SECN+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856746/chattanooga-alabama",
+      "location": "Bryant-Denny Stadium, Tuscaloosa, AL, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856746/chattanooga-alabama",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "Alabama"
+      ],
+      "hash": "56464af681c6be7102228e3960cd61a0778ebacd1dbe7fa5fff2be80894f4723",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "redzone-2026-11-22@football-watchlist",
+      "title": "NFL RedZone",
+      "start": "2026-11-22T18:00:00.000Z",
+      "end": "2026-11-23T01:00:00.000Z",
+      "allDay": false,
+      "description": "Sunday afternoon NFL whip-around coverage. Seven-hour viewing block, 1-8 p.m. US Eastern; the actual finish depends on the late games. International and Sunday night games appear separately.",
+      "location": "NFL RedZone",
+      "url": "https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-RedZone",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL",
+        "RedZone"
+      ],
+      "hash": "7fae60b8b76621a6fad727cf35ed7ae111f76d985a6f2203e9b5ede375091879",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401873077@football-watchlist",
+      "gameId": "401873077",
+      "title": "NFL: Minnesota Vikings at San Francisco 49ers",
+      "start": "2026-11-23T01:20:00.000Z",
+      "end": "2026-11-23T04:50:00.000Z",
+      "allDay": false,
+      "description": "International game: Mexico.\nSunday Night Football.\n\nNFL Mexico City Game\n\nTeams: Minnesota Vikings at San Francisco 49ers\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873077/vikings-49ers",
+      "location": "Estadio Banorte, Mexico City, Mexico",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873077/vikings-49ers",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "a038a664d12bb488b0a0121f6045dc72da0eb408ff11bcacbb4a13bf27eff622",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401873078@football-watchlist",
+      "gameId": "401873078",
+      "title": "NFL: Cincinnati Bengals at Washington Commanders",
+      "start": "2026-11-24T01:15:00.000Z",
+      "end": "2026-11-24T04:45:00.000Z",
+      "allDay": false,
+      "description": "Monday Night Football.\n\nTeams: Cincinnati Bengals at Washington Commanders\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873078/bengals-commanders",
+      "location": "Northwest Stadium, Landover, MD, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873078/bengals-commanders",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "c431dc3c2155727f91aad83be2480364030a92a195a027d107169676bc083ae5",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401873079@football-watchlist",
+      "gameId": "401873079",
+      "title": "NFL: Green Bay Packers at Los Angeles Rams",
+      "start": "2026-11-26T01:00:00.000Z",
+      "end": "2026-11-26T04:30:00.000Z",
+      "allDay": false,
+      "description": "Standalone NFL game outside the regular Sunday afternoon slate.\n\nTeams: Green Bay Packers at Los Angeles Rams\n\nUS broadcast: Netflix. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873079/packers-rams",
+      "location": "SoFi Stadium, Inglewood, CA, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873079/packers-rams",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "2d1b2b681be2a16d0c6fe0353ea1e3153e47e2ef13a41d04ffe087ec27e6bd10",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401873081@football-watchlist",
+      "gameId": "401873081",
+      "title": "NFL: Chicago Bears at Detroit Lions",
+      "start": "2026-11-26T18:00:00.000Z",
+      "end": "2026-11-26T21:30:00.000Z",
+      "allDay": false,
+      "description": "Thursday football, including Thanksgiving.\n\nTeams: Chicago Bears at Detroit Lions\n\nUS broadcast: CBS. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873081/bears-lions",
+      "location": "Ford Field, Detroit, MI, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873081/bears-lions",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "d1ce673c71848e067637d1a6470c5e80ba98fc792646a512ce0fbffa0f9bb103",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401873080@football-watchlist",
+      "gameId": "401873080",
+      "title": "NFL: Philadelphia Eagles at Dallas Cowboys",
+      "start": "2026-11-26T21:30:00.000Z",
+      "end": "2026-11-27T01:00:00.000Z",
+      "allDay": false,
+      "description": "Thursday football, including Thanksgiving.\n\nTeams: Philadelphia Eagles at Dallas Cowboys\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873080/eagles-cowboys",
+      "location": "AT&T Stadium, Arlington, TX, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873080/eagles-cowboys",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "dddbbb7498afb01aa097f851d13edeb428dbc3bb8cea82e85da5d172e09f66c7",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401873082@football-watchlist",
+      "gameId": "401873082",
+      "title": "NFL: Kansas City Chiefs at Buffalo Bills",
+      "start": "2026-11-27T01:20:00.000Z",
+      "end": "2026-11-27T04:50:00.000Z",
+      "allDay": false,
+      "description": "Thursday football, including Thanksgiving.\n\nTeams: Kansas City Chiefs at Buffalo Bills\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873082/chiefs-bills",
+      "location": "Highmark Stadium, Orchard Park, NY, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873082/chiefs-bills",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "a3f7a7abe63b934ef82cefeffccc528687a39c36e80d2a3f80e82035d3e91a06",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401856762@football-watchlist",
+      "gameId": "401856762",
+      "title": "CFB: Mississippi State at Ole Miss",
+      "start": "2026-11-27T17:00:00.000Z",
+      "end": "2026-11-27T20:30:00.000Z",
+      "allDay": false,
+      "description": "Major rivalry: Egg Bowl.\n\nTeams: Mississippi State Bulldogs at Ole Miss Rebels\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856762/mississippi-st-ole-miss",
+      "location": "Vaught-Hemingway Stadium, Oxford, MS, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856762/mississippi-st-ole-miss",
+      "status": "CONFIRMED",
+      "categories": [
+        "College"
+      ],
+      "hash": "8455c41728b5154043e23ebc8ce9a6a7785c3ba0e3e0cb65aa388839f01acf79",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401873083@football-watchlist",
+      "gameId": "401873083",
+      "title": "NFL: Denver Broncos at Pittsburgh Steelers",
+      "start": "2026-11-27T20:00:00.000Z",
+      "end": "2026-11-27T23:30:00.000Z",
+      "allDay": false,
+      "description": "Standalone NFL game outside the regular Sunday afternoon slate.\n\nTeams: Denver Broncos at Pittsburgh Steelers\n\nUS broadcast: Prime Video. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873083/broncos-steelers",
+      "location": "Acrisure Stadium, Pittsburgh, PA, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873083/broncos-steelers",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "1c125582738bdf8a212079ff53ed33bf9577746e18b0f41159e4b53487182e3d",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401856759@football-watchlist",
+      "gameId": "401856759",
+      "title": "CFB: Florida at Florida State",
+      "start": "2026-11-27T20:30:00.000Z",
+      "end": "2026-11-28T00:00:00.000Z",
+      "allDay": false,
+      "description": "Major rivalry: Florida-Florida State.\n\nTeams: Florida Gators at Florida State Seminoles\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856759/florida-florida-st",
+      "location": "Doak Campbell Stadium, Tallahassee, FL, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856759/florida-florida-st",
+      "status": "CONFIRMED",
+      "categories": [
+        "College"
+      ],
+      "hash": "7c4887cb873144ebb315cec9706fcb0f8ca3ae36b1f201e35626466752997087",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856757@football-watchlist",
+      "gameId": "401856757",
+      "title": "CFB: Auburn at Alabama [time TBA]",
+      "start": "2026-11-28",
+      "end": "2026-11-29",
+      "allDay": true,
+      "description": "Following Alabama: every game.\nMajor rivalry: Iron Bowl.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Auburn Tigers at Alabama Crimson Tide\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856757/auburn-alabama",
+      "location": "Bryant-Denny Stadium, Tuscaloosa, AL, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856757/auburn-alabama",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "Alabama"
+      ],
+      "hash": "f39d0dc077778f13774700df8380c0d1296967c8b8c92292cf13ce890a73a11e",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856760@football-watchlist",
+      "gameId": "401856760",
+      "title": "CFB: Georgia Tech at Georgia [time TBA]",
+      "start": "2026-11-28",
+      "end": "2026-11-29",
+      "allDay": true,
+      "description": "Major rivalry: Clean, Old-Fashioned Hate.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Georgia Tech Yellow Jackets at Georgia Bulldogs\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856760/georgia-tech-georgia",
+      "location": "Sanford Stadium, Athens, GA, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856760/georgia-tech-georgia",
+      "status": "TENTATIVE",
+      "categories": [
+        "College"
+      ],
+      "hash": "4654370ce493d88cc7e868137fbeed4021c096999c6d3d4f81571a7d4bebdbd1",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856764@football-watchlist",
+      "gameId": "401856764",
+      "title": "CFB: South Carolina at Clemson [time TBA]",
+      "start": "2026-11-28",
+      "end": "2026-11-29",
+      "allDay": true,
+      "description": "Major rivalry: Clemson-South Carolina.\n\nTeams: South Carolina Gamecocks at Clemson Tigers\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856764/south-carolina-clemson",
+      "location": "Memorial Stadium (Clemson, SC), Clemson, SC, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856764/south-carolina-clemson",
+      "status": "TENTATIVE",
+      "categories": [
+        "College"
+      ],
+      "hash": "cbc1effcbf8bfa39fd550d3628ce16282dd7cb227a6cc93d73436f3032007a06",
+      "created": "2026-09-05T14:52:08.096Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401858541@football-watchlist",
+      "gameId": "401858541",
+      "title": "CFB: Washington at Oregon [time TBA]",
+      "start": "2026-11-28",
+      "end": "2026-11-29",
+      "allDay": true,
+      "description": "Major rivalry: Oregon-Washington.\n\nTeams: Washington Huskies at Oregon Ducks\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858541/washington-oregon",
+      "location": "Autzen Stadium, Eugene, OR, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858541/washington-oregon",
+      "status": "TENTATIVE",
+      "categories": [
+        "College"
+      ],
+      "hash": "6c14f66c555bc993f13dd6d1f05a89ac01c90f19ddbb9621eded3864c401fbb4",
+      "created": "2026-09-05T14:52:08.096Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401858543@football-watchlist",
+      "gameId": "401858543",
+      "title": "CFB: USC at UCLA [time TBA]",
+      "start": "2026-11-28",
+      "end": "2026-11-29",
+      "allDay": true,
+      "description": "Major rivalry: USC-UCLA.\n\nTeams: USC Trojans at UCLA Bruins\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858543/usc-ucla",
+      "location": "Rose Bowl, Pasadena, CA, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858543/usc-ucla",
+      "status": "TENTATIVE",
+      "categories": [
+        "College"
+      ],
+      "hash": "bfb650ddd947dc8b3f92b46dee40ad17ee154035a5e8376b9d49518a5d01aa52",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856756@football-watchlist",
+      "gameId": "401856756",
+      "title": "CFB: Texas at Texas A&M",
+      "start": "2026-11-28T00:30:00.000Z",
+      "end": "2026-11-28T04:00:00.000Z",
+      "allDay": false,
+      "description": "Major rivalry: Texas-Texas A&M.\n\nTeams: Texas Longhorns at Texas A&M Aggies\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856756/texas-texas-am",
+      "location": "Kyle Field, College Station, TX, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856756/texas-texas-am",
+      "status": "CONFIRMED",
+      "categories": [
+        "College"
+      ],
+      "hash": "b7d0d4e250bdb232c8fe82a9a818219d63eb8ba2cfd6937d66a8bafe314f40ab",
+      "created": "2026-09-05T14:52:08.096Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 0
+    },
+    {
+      "uid": "show-bignoon-2026-11-28@football-watchlist",
+      "title": "Big Noon Kickoff: Columbus, Ohio",
+      "gameId": "401858540",
+      "start": "2026-11-28T14:00:00.000Z",
+      "end": "2026-11-28T17:00:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Big Noon Kickoff on FOX. Featured game: Ohio State vs. Michigan. Broadcast window: 9:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://www.foxsports.com/stories/presspass/fox-sports-unveils-powerhouse-2026-college-football-schedule",
+      "location": "Columbus, Ohio",
+      "url": "https://www.foxsports.com/stories/presspass/fox-sports-unveils-powerhouse-2026-college-football-schedule",
+      "categories": [
+        "College",
+        "Pregame"
+      ],
+      "hash": "3382d8acac7ed9b9295e7540448505b22b60b3be59fd9222b5d5c00b66426bf3",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "show-gameday-2026-11-28@football-watchlist",
+      "title": "College GameDay: location TBA",
+      "start": "2026-11-28T14:00:00.000Z",
+      "end": "2026-11-28T17:00:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Usual Saturday broadcast window: 9:00 a.m. to noon Eastern on ESPN. Location and this week's broadcast hours have not been confirmed. Tentative placeholder, subject to broadcast changes.\nSource: https://espnpressroom.com/?s=College+GameDay&feed=rss2",
+      "location": "",
+      "url": "https://espnpressroom.com/?s=College+GameDay&feed=rss2",
+      "categories": [
+        "College",
+        "Pregame"
+      ],
+      "hash": "15e7fa9cd553ac10a21790e44daa00d0d974e252fdeeb46f14e1c9cab4f156f4",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401858540@football-watchlist",
+      "gameId": "401858540",
+      "title": "CFB: Michigan at Ohio State",
+      "start": "2026-11-28T17:00:00.000Z",
+      "end": "2026-11-28T20:30:00.000Z",
+      "allDay": false,
+      "description": "Major rivalry: The Game.\nConfirmed College GameDay or Big Noon featured matchup.\n\nTeams: Michigan Wolverines at Ohio State Buckeyes\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858540/michigan-ohio-state",
+      "location": "Ohio Stadium, Columbus, OH, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858540/michigan-ohio-state",
+      "status": "CONFIRMED",
+      "categories": [
+        "College"
+      ],
+      "hash": "7e2c91c8bed786cc2993c84f675a4daab046a1549378f7d868dbdbd04992c836",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "redzone-2026-11-29@football-watchlist",
+      "title": "NFL RedZone",
+      "start": "2026-11-29T18:00:00.000Z",
+      "end": "2026-11-30T01:00:00.000Z",
+      "allDay": false,
+      "description": "Sunday afternoon NFL whip-around coverage. Seven-hour viewing block, 1-8 p.m. US Eastern; the actual finish depends on the late games. International and Sunday night games appear separately.",
+      "location": "NFL RedZone",
+      "url": "https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-RedZone",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL",
+        "RedZone"
+      ],
+      "hash": "2695bd8083f5b7f2fc4c46c0c730507ecfc40e6502b8e7a8b6abfbabf5ec91a6",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401873093@football-watchlist",
+      "gameId": "401873093",
+      "title": "NFL: New England Patriots at Los Angeles Chargers",
+      "start": "2026-11-30T01:20:00.000Z",
+      "end": "2026-11-30T04:50:00.000Z",
+      "allDay": false,
+      "description": "Sunday Night Football.\n\nTeams: New England Patriots at Los Angeles Chargers\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873093/patriots-chargers",
+      "location": "SoFi Stadium, Inglewood, CA, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873093/patriots-chargers",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "aac95998479098a8ed62c11a6c552b7acffb59595b05a5480ea193521f2bbf09",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401873094@football-watchlist",
+      "gameId": "401873094",
+      "title": "NFL: Carolina Panthers at Tampa Bay Buccaneers",
+      "start": "2026-12-01T01:15:00.000Z",
+      "end": "2026-12-01T04:45:00.000Z",
+      "allDay": false,
+      "description": "Monday Night Football.\n\nTeams: Carolina Panthers at Tampa Bay Buccaneers\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873094/panthers-buccaneers",
+      "location": "Raymond James Stadium, Tampa, FL, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873094/panthers-buccaneers",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "0d23ccf7771c2ed3b68e66532b8f5acb4de8c674a55f8fa52b605270b4724424",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401869535@football-watchlist",
+      "gameId": "401869535",
+      "title": "CFB: TBD at TBD [time TBA]",
+      "start": "2026-12-04",
+      "end": "2026-12-05",
+      "allDay": true,
+      "description": "Conference championship.\n\nConference USA Championship\n\nTeams: TBD at TBD\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401869535/tbd-tbd",
+      "location": "",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401869535/tbd-tbd",
+      "status": "TENTATIVE",
+      "categories": [
+        "College"
+      ],
+      "hash": "73ef1a93bb4b5cb2702c82448d3f8f5914e39b8f069b58c3d21c7ab1e70203ee",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401873096@football-watchlist",
+      "gameId": "401873096",
+      "title": "NFL: Kansas City Chiefs at Los Angeles Rams",
+      "start": "2026-12-04T01:15:00.000Z",
+      "end": "2026-12-04T04:45:00.000Z",
+      "allDay": false,
+      "description": "Thursday football, including Thanksgiving.\n\nTeams: Kansas City Chiefs at Los Angeles Rams\n\nUS broadcast: Prime Video. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873096/chiefs-rams",
+      "location": "SoFi Stadium, Inglewood, CA, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873096/chiefs-rams",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "0e9ad4abcd9c81a7933d2244dc0d68ba2b320a21abccec42122167b128c76eff",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401869546@football-watchlist",
+      "gameId": "401869546",
+      "title": "CFB: TBD at TBD",
+      "start": "2026-12-05T00:00:00.000Z",
+      "end": "2026-12-05T04:00:00.000Z",
+      "allDay": false,
+      "description": "Conference championship.\n\nSun Belt Championship\n\nTeams: TBD at TBD\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401869546/tbd-tbd",
+      "location": "",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401869546/tbd-tbd",
+      "status": "CONFIRMED",
+      "categories": [
+        "College"
+      ],
+      "hash": "67dd3c6b2766362d71d33dcb96ccd9ff215fc0d3b28cadf4977994c96df526fa",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401869533@football-watchlist",
+      "gameId": "401869533",
+      "title": "CFB: TBD at TBD",
+      "start": "2026-12-05T01:00:00.000Z",
+      "end": "2026-12-05T05:00:00.000Z",
+      "allDay": false,
+      "description": "Conference championship.\n\nBig 12 Championship\n\nTeams: TBD at TBD\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401869533/tbd-tbd",
+      "location": "AT&T Stadium, Arlington, TX, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401869533/tbd-tbd",
+      "status": "CONFIRMED",
+      "categories": [
+        "College"
+      ],
+      "hash": "ecfee70b7c4c5926de3d36b5d1085f43efb173283d344e6762a2c0ada2bd6264",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401869542@football-watchlist",
+      "gameId": "401869542",
+      "title": "CFB: TBD at TBD",
+      "start": "2026-12-05T01:00:00.000Z",
+      "end": "2026-12-05T05:00:00.000Z",
+      "allDay": false,
+      "description": "Conference championship.\n\nPac-12 Championship\n\nTeams: TBD at TBD\n\nUS broadcast: CBS. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401869542/tbd-tbd",
+      "location": "",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401869542/tbd-tbd",
+      "status": "CONFIRMED",
+      "categories": [
+        "College"
+      ],
+      "hash": "c7429c52c28d89dd0d6535149f74bd9e1db8c7ae55b440eaa60628e5bfb31e63",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401874049@football-watchlist",
+      "gameId": "401874049",
+      "title": "CFB: TBD at TBD",
+      "start": "2026-12-05T02:00:00.000Z",
+      "end": "2026-12-05T06:00:00.000Z",
+      "allDay": false,
+      "description": "Conference championship.\n\nMountain West Championship\n\nTeams: TBD at TBD\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401874049/tbd-tbd",
+      "location": "",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401874049/tbd-tbd",
+      "status": "CONFIRMED",
+      "categories": [
+        "College"
+      ],
+      "hash": "0971a92684aa75f7e6f218aab2448a190534ef35ca23dfa5cd7f5c28f2432006",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401858318@football-watchlist",
+      "gameId": "401858318",
+      "title": "CFB: TBD at TBD",
+      "start": "2026-12-05T17:00:00.000Z",
+      "end": "2026-12-05T21:00:00.000Z",
+      "allDay": false,
+      "description": "Conference championship.\n\nACC Championship\n\nTeams: TBD at TBD\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858318/tbd-tbd",
+      "location": "Bank of America Stadium, Charlotte, NC, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858318/tbd-tbd",
+      "status": "CONFIRMED",
+      "categories": [
+        "College"
+      ],
+      "hash": "c2231392d9532911f5e1ca2ebfd7bc0fc1e3a413228b87c4dfb3b845ecdfaf99",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401869536@football-watchlist",
+      "gameId": "401869536",
+      "title": "CFB: TBD at TBD",
+      "start": "2026-12-05T17:00:00.000Z",
+      "end": "2026-12-05T21:00:00.000Z",
+      "allDay": false,
+      "description": "Conference championship.\n\nMAC Championship\n\nTeams: TBD at TBD\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401869536/tbd-tbd",
+      "location": "Ford Field, Detroit, MI, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401869536/tbd-tbd",
+      "status": "CONFIRMED",
+      "categories": [
+        "College"
+      ],
+      "hash": "b026164ca1c5a33504af05c4a005c4bb090121d8f95182d45810311242a3eef1",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401869545@football-watchlist",
+      "gameId": "401869545",
+      "title": "CFB: TBD at TBD",
+      "start": "2026-12-05T21:00:00.000Z",
+      "end": "2026-12-06T01:00:00.000Z",
+      "allDay": false,
+      "description": "Conference championship.\n\nSEC Championship\n\nTeams: TBD at TBD\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401869545/tbd-tbd",
+      "location": "Mercedes-Benz Stadium, Atlanta, GA, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401869545/tbd-tbd",
+      "status": "CONFIRMED",
+      "categories": [
+        "College"
+      ],
+      "hash": "7cc6981fde24a589668de2d2f04a2e3fa44d2924529cb90dd81051d37b050ad7",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401869532@football-watchlist",
+      "gameId": "401869532",
+      "title": "CFB: TBD at TBD",
+      "start": "2026-12-06T01:00:00.000Z",
+      "end": "2026-12-06T05:00:00.000Z",
+      "allDay": false,
+      "description": "Conference championship.\n\nAmerican Championship\n\nTeams: TBD at TBD\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401869532/tbd-tbd",
+      "location": "",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401869532/tbd-tbd",
+      "status": "CONFIRMED",
+      "categories": [
+        "College"
+      ],
+      "hash": "9146393b905ca20b368727206fccd9abefc4ecdf10876e946f08acb931bc115e",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401869534@football-watchlist",
+      "gameId": "401869534",
+      "title": "CFB: TBD at TBD",
+      "start": "2026-12-06T01:00:00.000Z",
+      "end": "2026-12-06T05:00:00.000Z",
+      "allDay": false,
+      "description": "Conference championship.\n\nBig Ten Championship\n\nTeams: TBD at TBD\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401869534/tbd-tbd",
+      "location": "Lucas Oil Stadium, Indianapolis, IN, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401869534/tbd-tbd",
+      "status": "CONFIRMED",
+      "categories": [
+        "College"
+      ],
+      "hash": "ca167ae9d3ebd70f86f5bd5dfeca539a93b7d0c31f0e700004b8ed718dc2646d",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "redzone-2026-12-06@football-watchlist",
+      "title": "NFL RedZone",
+      "start": "2026-12-06T18:00:00.000Z",
+      "end": "2026-12-07T01:00:00.000Z",
+      "allDay": false,
+      "description": "Sunday afternoon NFL whip-around coverage. Seven-hour viewing block, 1-8 p.m. US Eastern; the actual finish depends on the late games. International and Sunday night games appear separately.",
+      "location": "NFL RedZone",
+      "url": "https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-RedZone",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL",
+        "RedZone"
+      ],
+      "hash": "0aa16e009a0ac951276fb2c6045e59f1cb091b59bdd5604ca2cffddea65915e6",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401873107@football-watchlist",
+      "gameId": "401873107",
+      "title": "NFL: Houston Texans at Pittsburgh Steelers",
+      "start": "2026-12-07T01:20:00.000Z",
+      "end": "2026-12-07T04:50:00.000Z",
+      "allDay": false,
+      "description": "Sunday Night Football.\n\nTeams: Houston Texans at Pittsburgh Steelers\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873107/texans-steelers",
+      "location": "Acrisure Stadium, Pittsburgh, PA, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873107/texans-steelers",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "249e1cef2ce9a310f6d95db03bec23e3afb85a2414bb67aeeb294c91f65e1541",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401873108@football-watchlist",
+      "gameId": "401873108",
+      "title": "NFL: Dallas Cowboys at Seattle Seahawks",
+      "start": "2026-12-08T01:15:00.000Z",
+      "end": "2026-12-08T04:45:00.000Z",
+      "allDay": false,
+      "description": "Monday Night Football.\n\nTeams: Dallas Cowboys at Seattle Seahawks\n\nUS broadcast: ESPN / ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873108/cowboys-seahawks",
+      "location": "Lumen Field, Seattle, WA, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873108/cowboys-seahawks",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "e5c48ad2314ec8f60e8b9fdb2d6e7efe307a20a75becab71145a3cad2ae0059d",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401873109@football-watchlist",
+      "gameId": "401873109",
+      "title": "NFL: Minnesota Vikings at New England Patriots",
+      "start": "2026-12-11T01:15:00.000Z",
+      "end": "2026-12-11T04:45:00.000Z",
+      "allDay": false,
+      "description": "Thursday football, including Thanksgiving.\n\nTeams: Minnesota Vikings at New England Patriots\n\nUS broadcast: Prime Video. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873109/vikings-patriots",
+      "location": "Gillette Stadium, Foxborough, MA, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873109/vikings-patriots",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "d4c143eb0e0e83dd57b15b00bd6db8a4ea21226d692a9af020ce147c7b13e112",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401862844@football-watchlist",
+      "gameId": "401862844",
+      "title": "CFB: Navy at Army",
+      "start": "2026-12-12T20:00:00.000Z",
+      "end": "2026-12-12T23:30:00.000Z",
+      "allDay": false,
+      "description": "Major rivalry: Army-Navy.\n\nTeams: Navy Midshipmen at Army Black Knights\n\nUS broadcast: CBS. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401862844/navy-army",
+      "location": "MetLife Stadium, East Rutherford, NJ, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401862844/navy-army",
+      "status": "CONFIRMED",
+      "categories": [
+        "College"
+      ],
+      "hash": "61b79c8bde8c9736bdf757401fca4e4361de98ec9bf26ebb0dcdf017551836bf",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "redzone-2026-12-13@football-watchlist",
+      "title": "NFL RedZone",
+      "start": "2026-12-13T18:00:00.000Z",
+      "end": "2026-12-14T01:00:00.000Z",
+      "allDay": false,
+      "description": "Sunday afternoon NFL whip-around coverage. Seven-hour viewing block, 1-8 p.m. US Eastern; the actual finish depends on the late games. International and Sunday night games appear separately.",
+      "location": "NFL RedZone",
+      "url": "https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-RedZone",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL",
+        "RedZone"
+      ],
+      "hash": "3ae553f6a7413c5c9edf7959af7e2a8cd40e6391a4e68d3077a9e6c4757ad703",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401873122@football-watchlist",
+      "gameId": "401873122",
+      "title": "NFL: Buffalo Bills at Green Bay Packers",
+      "start": "2026-12-14T01:20:00.000Z",
+      "end": "2026-12-14T04:50:00.000Z",
+      "allDay": false,
+      "description": "Sunday Night Football.\n\nTeams: Buffalo Bills at Green Bay Packers\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873122/bills-packers",
+      "location": "Lambeau Field, Green Bay, WI, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873122/bills-packers",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "ce24b5ac6824dc7658e33b7e38e8440ba261a88155d60b54da89f1da0456739d",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401873123@football-watchlist",
+      "gameId": "401873123",
+      "title": "NFL: Pittsburgh Steelers at Jacksonville Jaguars",
+      "start": "2026-12-15T01:15:00.000Z",
+      "end": "2026-12-15T04:45:00.000Z",
+      "allDay": false,
+      "description": "Monday Night Football.\n\nTeams: Pittsburgh Steelers at Jacksonville Jaguars\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873123/steelers-jaguars",
+      "location": "EverBank Stadium, Jacksonville, FL, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873123/steelers-jaguars",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "e13323bc4469b0f1632f19d8703f64c8ce7f35e0e6ba7b873c6ac2d345d51665",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401873124@football-watchlist",
+      "gameId": "401873124",
+      "title": "NFL: San Francisco 49ers at Los Angeles Chargers",
+      "start": "2026-12-18T01:15:00.000Z",
+      "end": "2026-12-18T04:45:00.000Z",
+      "allDay": false,
+      "description": "Thursday football, including Thanksgiving.\n\nTeams: San Francisco 49ers at Los Angeles Chargers\n\nUS broadcast: Prime Video. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873124/49ers-chargers",
+      "location": "SoFi Stadium, Inglewood, CA, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873124/49ers-chargers",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "ddf4574de57875a9d047b3b6a24eb3efbc917a97944ec17bcbbc52979827e472",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401874295@football-watchlist",
+      "gameId": "401874295",
+      "title": "CFP First Round Game - teams TBA",
+      "start": "2026-12-19T01:00:00.000Z",
+      "end": "2026-12-19T04:30:00.000Z",
+      "allDay": false,
+      "description": "College Football Playoff: every round.\n\nCollege Football Playoff First Round Game\n\nTeams: TBD at TBD\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401874295/tbd-tbd",
+      "location": "",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401874295/tbd-tbd",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "Playoffs"
+      ],
+      "hash": "b27afc8d690c89ed4e9ccb4c7b01d7391a8e53664adc3b0f93123dc8b6bf19f0",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401874296@football-watchlist",
+      "gameId": "401874296",
+      "title": "CFP First Round Game - teams TBA",
+      "start": "2026-12-19T17:00:00.000Z",
+      "end": "2026-12-19T20:30:00.000Z",
+      "allDay": false,
+      "description": "College Football Playoff: every round.\n\nCollege Football Playoff First Round Game\n\nTeams: TBD at TBD\n\nUS broadcast: ABC / ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401874296/tbd-tbd",
+      "location": "",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401874296/tbd-tbd",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "Playoffs"
+      ],
+      "hash": "02397e9227d8ab4c79794e768e03c38e9fa1c2d08e708bea6f82881d2746d23a",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401874297@football-watchlist",
+      "gameId": "401874297",
+      "title": "CFP First Round Game - teams TBA",
+      "start": "2026-12-19T20:30:00.000Z",
+      "end": "2026-12-20T00:00:00.000Z",
+      "allDay": false,
+      "description": "College Football Playoff: every round.\n\nCollege Football Playoff First Round Game\n\nTeams: TBD at TBD\n\nUS broadcast: TNT / truTV. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401874297/tbd-tbd",
+      "location": "",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401874297/tbd-tbd",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "Playoffs"
+      ],
+      "hash": "0fce757993cf94317ab015c89b9c1f4d0d74b189a0bb692e19da619c6d097675",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401873125@football-watchlist",
+      "gameId": "401873125",
+      "title": "NFL: Seattle Seahawks at Philadelphia Eagles",
+      "start": "2026-12-19T22:00:00.000Z",
+      "end": "2026-12-20T01:30:00.000Z",
+      "allDay": false,
+      "description": "Standalone NFL game outside the regular Sunday afternoon slate.\n\nTeams: Seattle Seahawks at Philadelphia Eagles\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873125/seahawks-eagles",
+      "location": "Lincoln Financial Field, Philadelphia, PA, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873125/seahawks-eagles",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "bf7cf31dcf6e416a90883b5cd96d0523241723854c62a94b9c0c9f2fdd37f321",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401874298@football-watchlist",
+      "gameId": "401874298",
+      "title": "CFP First Round Game - teams TBA",
+      "start": "2026-12-20T00:30:00.000Z",
+      "end": "2026-12-20T04:00:00.000Z",
+      "allDay": false,
+      "description": "College Football Playoff: every round.\n\nCollege Football Playoff First Round Game\n\nTeams: TBD at TBD\n\nUS broadcast: TNT / truTV. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401874298/tbd-tbd",
+      "location": "",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401874298/tbd-tbd",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "Playoffs"
+      ],
+      "hash": "28eb4ad6db5246f60d51465f4951816efeb6bcd58bd4b848461bc6d74cfbe5d4",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401873126@football-watchlist",
+      "gameId": "401873126",
+      "title": "NFL: Chicago Bears at Buffalo Bills",
+      "start": "2026-12-20T01:20:00.000Z",
+      "end": "2026-12-20T04:50:00.000Z",
+      "allDay": false,
+      "description": "Standalone NFL game outside the regular Sunday afternoon slate.\n\nTeams: Chicago Bears at Buffalo Bills\n\nUS broadcast: CBS. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873126/bears-bills",
+      "location": "Highmark Stadium, Orchard Park, NY, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873126/bears-bills",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "82775a15271d3673a18461d995bdab670c2825f5a86bd218656a7031c3523641",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "redzone-2026-12-20@football-watchlist",
+      "title": "NFL RedZone",
+      "start": "2026-12-20T18:00:00.000Z",
+      "end": "2026-12-21T01:00:00.000Z",
+      "allDay": false,
+      "description": "Sunday afternoon NFL whip-around coverage. Seven-hour viewing block, 1-8 p.m. US Eastern; the actual finish depends on the late games. International and Sunday night games appear separately.",
+      "location": "NFL RedZone",
+      "url": "https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-RedZone",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL",
+        "RedZone"
+      ],
+      "hash": "242c76b197c071e42bf52e0133f51b3b8348249cc120fb9f7ea42b1855713afc",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401873138@football-watchlist",
+      "gameId": "401873138",
+      "title": "NFL: Detroit Lions at Minnesota Vikings",
+      "start": "2026-12-21T01:20:00.000Z",
+      "end": "2026-12-21T04:50:00.000Z",
+      "allDay": false,
+      "description": "Sunday Night Football.\n\nTeams: Detroit Lions at Minnesota Vikings\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873138/lions-vikings",
+      "location": "U.S. Bank Stadium, Minneapolis, MN, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873138/lions-vikings",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "e2fecbe036ee7cfedd2773762b00509b41329ddb3421ae9b1210667d2c6f4848",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401873139@football-watchlist",
+      "gameId": "401873139",
+      "title": "NFL: New England Patriots at Kansas City Chiefs",
+      "start": "2026-12-22T01:15:00.000Z",
+      "end": "2026-12-22T04:45:00.000Z",
+      "allDay": false,
+      "description": "Monday Night Football.\n\nTeams: New England Patriots at Kansas City Chiefs\n\nUS broadcast: ESPN / ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873139/patriots-chiefs",
+      "location": "Arrowhead Stadium, Kansas City, MO, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873139/patriots-chiefs",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "1afe717293b0bb11cd5696413bf889d699abe0fd4259ae97bee15c980b7fee82",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401873140@football-watchlist",
+      "gameId": "401873140",
+      "title": "NFL: Houston Texans at Philadelphia Eagles",
+      "start": "2026-12-25T01:15:00.000Z",
+      "end": "2026-12-25T04:45:00.000Z",
+      "allDay": false,
+      "description": "Thursday football, including Thanksgiving.\n\nTeams: Houston Texans at Philadelphia Eagles\n\nUS broadcast: Prime Video. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873140/texans-eagles",
+      "location": "Lincoln Financial Field, Philadelphia, PA, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873140/texans-eagles",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "df04f5efa183a7f125aae786075fa445dba5fb7c4460c9adf811b44b9985636d",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401873141@football-watchlist",
+      "gameId": "401873141",
+      "title": "NFL: Green Bay Packers at Chicago Bears",
+      "start": "2026-12-25T18:00:00.000Z",
+      "end": "2026-12-25T21:30:00.000Z",
+      "allDay": false,
+      "description": "Standalone NFL game outside the regular Sunday afternoon slate.\n\nTeams: Green Bay Packers at Chicago Bears\n\nUS broadcast: Netflix. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873141/packers-bears",
+      "location": "Soldier Field, Chicago, IL, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873141/packers-bears",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "a7386aa68bc171972dcd275efb0286aa7c3a110bf2cf5d38b17db3455cb147cb",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401873142@football-watchlist",
+      "gameId": "401873142",
+      "title": "NFL: Buffalo Bills at Denver Broncos",
+      "start": "2026-12-25T21:30:00.000Z",
+      "end": "2026-12-26T01:00:00.000Z",
+      "allDay": false,
+      "description": "Standalone NFL game outside the regular Sunday afternoon slate.\n\nTeams: Buffalo Bills at Denver Broncos\n\nUS broadcast: Netflix. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873142/bills-broncos",
+      "location": "Empower Field at Mile High, Denver, CO, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873142/bills-broncos",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "08720bcd0f25e018cd8df778cce757fa799985a023bca0e99c91d993e8851e2a",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401873143@football-watchlist",
+      "gameId": "401873143",
+      "title": "NFL: Los Angeles Rams at Seattle Seahawks",
+      "start": "2026-12-26T01:15:00.000Z",
+      "end": "2026-12-26T04:45:00.000Z",
+      "allDay": false,
+      "description": "Standalone NFL game outside the regular Sunday afternoon slate.\n\nTeams: Los Angeles Rams at Seattle Seahawks\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873143/rams-seahawks",
+      "location": "Lumen Field, Seattle, WA, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873143/rams-seahawks",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "37410ef6c7be2077f902a5271d8e708087a57e7ce222fb0ee708b8fcd6ef0744",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "redzone-2026-12-27@football-watchlist",
+      "title": "NFL RedZone",
+      "start": "2026-12-27T18:00:00.000Z",
+      "end": "2026-12-28T01:00:00.000Z",
+      "allDay": false,
+      "description": "Sunday afternoon NFL whip-around coverage. Seven-hour viewing block, 1-8 p.m. US Eastern; the actual finish depends on the late games. International and Sunday night games appear separately.",
+      "location": "NFL RedZone",
+      "url": "https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-RedZone",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL",
+        "RedZone"
+      ],
+      "hash": "45105b505992f3428e878ff63695925133a79b5c9ecb858376f7abd80b587635",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401873154@football-watchlist",
+      "gameId": "401873154",
+      "title": "NFL: Jacksonville Jaguars at Dallas Cowboys",
+      "start": "2026-12-28T01:20:00.000Z",
+      "end": "2026-12-28T04:50:00.000Z",
+      "allDay": false,
+      "description": "Sunday Night Football.\n\nTeams: Jacksonville Jaguars at Dallas Cowboys\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873154/jaguars-cowboys",
+      "location": "AT&T Stadium, Arlington, TX, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873154/jaguars-cowboys",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "f4622cd60ff54da27695be99b8ad4097aeedae1dc70a2901b1fee09b66c91c36",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401873155@football-watchlist",
+      "gameId": "401873155",
+      "title": "NFL: New York Giants at Detroit Lions",
+      "start": "2026-12-29T01:15:00.000Z",
+      "end": "2026-12-29T04:45:00.000Z",
+      "allDay": false,
+      "description": "Monday Night Football.\n\nTeams: New York Giants at Detroit Lions\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873155/giants-lions",
+      "location": "Ford Field, Detroit, MI, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873155/giants-lions",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "fdfff2cdaac3c544dc36f8b6e0510f8ac089c9b4352de75e73e60c0c2135d3cb",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401874299@football-watchlist",
+      "gameId": "401874299",
+      "title": "CFP Quarterfinal at the Vrbo Fiesta Bowl - teams TBA",
+      "start": "2026-12-31T00:30:00.000Z",
+      "end": "2026-12-31T04:00:00.000Z",
+      "allDay": false,
+      "description": "College Football Playoff: every round.\n\nCollege Football Playoff Quarterfinal at the Vrbo Fiesta Bowl\n\nTeams: TBD at TBD\n\nUS broadcast: TNT / truTV. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401874299/tbd-tbd",
+      "location": "State Farm Stadium, Glendale, AZ, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401874299/tbd-tbd",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "Playoffs"
+      ],
+      "hash": "118d1f56182a292a8cfa8248a0dc188c0072cf6836818a5a8c25249920912a57",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401873156@football-watchlist",
+      "gameId": "401873156",
+      "title": "NFL: Baltimore Ravens at Cincinnati Bengals",
+      "start": "2027-01-01T01:15:00.000Z",
+      "end": "2027-01-01T04:45:00.000Z",
+      "allDay": false,
+      "description": "Thursday football, including Thanksgiving.\n\nTeams: Baltimore Ravens at Cincinnati Bengals\n\nUS broadcast: Prime Video. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873156/ravens-bengals",
+      "location": "Paycor Stadium, Cincinnati, OH, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873156/ravens-bengals",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "fbb4e742c67a7ab7aaa9439c8784e663b4f17474615f163bc71d7a40382756d6",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "title": "CFP quarterfinal 1 - bowl and teams TBA",
+      "start": "2027-01-01T17:00:00.000Z",
+      "end": "2027-01-01T20:30:00.000Z",
+      "allDay": false,
+      "description": "Confirmed CFP quarterfinal broadcast window. Cotton, Peach and Rose Bowl assignments will be announced December 6. This event updates with the bowl and teams when ESPN confirms the assignment. Finish is approximate.",
+      "location": "Venue to be announced",
+      "url": "https://collegefootballplayoff.com/news/2026/6/1/26-27-broadcast-sked",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "Playoffs"
+      ],
+      "uid": "cfp-2026-jan1-slot-1@football-watchlist",
+      "hash": "e5ec2aa988bb1207d927a720ffded4eae840e329148a737342ddf10ec6a76117",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "title": "CFP quarterfinal 2 - bowl and teams TBA",
+      "start": "2027-01-01T21:00:00.000Z",
+      "end": "2027-01-02T00:30:00.000Z",
+      "allDay": false,
+      "description": "Confirmed CFP quarterfinal broadcast window. Cotton, Peach and Rose Bowl assignments will be announced December 6. This event updates with the bowl and teams when ESPN confirms the assignment. Finish is approximate.",
+      "location": "Venue to be announced",
+      "url": "https://collegefootballplayoff.com/news/2026/6/1/26-27-broadcast-sked",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "Playoffs"
+      ],
+      "uid": "cfp-2026-jan1-slot-2@football-watchlist",
+      "hash": "2a1210470f666f8a44d87fb0df9854f21dc422c861c31d36914b7cc063ccd099",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "title": "CFP quarterfinal 3 - bowl and teams TBA",
+      "start": "2027-01-02T01:00:00.000Z",
+      "end": "2027-01-02T04:30:00.000Z",
+      "allDay": false,
+      "description": "Confirmed CFP quarterfinal broadcast window. Cotton, Peach and Rose Bowl assignments will be announced December 6. This event updates with the bowl and teams when ESPN confirms the assignment. Finish is approximate.",
+      "location": "Venue to be announced",
+      "url": "https://collegefootballplayoff.com/news/2026/6/1/26-27-broadcast-sked",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "Playoffs"
+      ],
+      "uid": "cfp-2026-jan1-slot-3@football-watchlist",
+      "hash": "e9faa0dc197506884b3c028663071040370f30f667b6225f0b5e9ff12bcef226",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "redzone-2027-01-03@football-watchlist",
+      "title": "NFL RedZone",
+      "start": "2027-01-03T18:00:00.000Z",
+      "end": "2027-01-04T01:00:00.000Z",
+      "allDay": false,
+      "description": "Sunday afternoon NFL whip-around coverage. Seven-hour viewing block, 1-8 p.m. US Eastern; the actual finish depends on the late games. International and Sunday night games appear separately.",
+      "location": "NFL RedZone",
+      "url": "https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-RedZone",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL",
+        "RedZone"
+      ],
+      "hash": "d7a13ef7f8da23f2c1395ee7fd78fa72cf5ae505ae72e9eaeb519462a739f03e",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401873170@football-watchlist",
+      "gameId": "401873170",
+      "title": "NFL: Philadelphia Eagles at San Francisco 49ers",
+      "start": "2027-01-04T01:20:00.000Z",
+      "end": "2027-01-04T04:50:00.000Z",
+      "allDay": false,
+      "description": "Sunday Night Football.\n\nTeams: Philadelphia Eagles at San Francisco 49ers\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873170/eagles-49ers",
+      "location": "Levi's Stadium, Santa Clara, CA, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873170/eagles-49ers",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "3c95dd0ce6aefe8e75e14355308892f20b2f47442b2af7ec845eb477b24b8c28",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "nfl-401873171@football-watchlist",
+      "gameId": "401873171",
+      "title": "NFL: Houston Texans at Green Bay Packers",
+      "start": "2027-01-05T01:15:00.000Z",
+      "end": "2027-01-05T04:45:00.000Z",
+      "allDay": false,
+      "description": "Monday Night Football.\n\nTeams: Houston Texans at Green Bay Packers\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873171/texans-packers",
+      "location": "Lambeau Field, Green Bay, WI, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873171/texans-packers",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL"
+      ],
+      "hash": "e28a43f1ea0f93df7dbbf44d249deb35b20b6c14e73e1a2604d9cf3643e6143f",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "redzone-2027-01-10@football-watchlist",
+      "title": "NFL RedZone",
+      "start": "2027-01-10T18:00:00.000Z",
+      "end": "2027-01-11T01:00:00.000Z",
+      "allDay": false,
+      "description": "Sunday afternoon NFL whip-around coverage. Seven-hour viewing block, 1-8 p.m. US Eastern; the actual finish depends on the late games. International and Sunday night games appear separately.",
+      "location": "NFL RedZone",
+      "url": "https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-RedZone",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL",
+        "RedZone"
+      ],
+      "hash": "61923598a54fb16bd2aa4015c5c82904108283d55fafc8ddabf4c7da0c37ed64",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401874300@football-watchlist",
+      "gameId": "401874300",
+      "title": "CFP Semifinal at the Capital One Orange Bowl - teams TBA",
+      "start": "2027-01-15T00:30:00.000Z",
+      "end": "2027-01-15T04:00:00.000Z",
+      "allDay": false,
+      "description": "College Football Playoff: every round.\n\nCollege Football Playoff Semifinal at the Capital One Orange Bowl\n\nTeams: TBD at TBD\n\nUS broadcast: TNT / truTV. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401874300/tbd-tbd",
+      "location": "Hard Rock Stadium, Miami Gardens, FL, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401874300/tbd-tbd",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "Playoffs"
+      ],
+      "hash": "6f18594daadf1ec4f4ff75d54ec54e683eec7dbcab1f9114976fda95032aba5a",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401872910@football-watchlist",
+      "gameId": "401872910",
+      "title": "Wild Card Playoffs - teams TBA [time TBA]",
+      "start": "2027-01-16",
+      "end": "2027-01-17",
+      "allDay": true,
+      "description": "NFL playoffs: every postseason game.\n\nWild Card Playoffs\n\nTeams: TBD at TBD\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872910/tbd-tbd",
+      "location": "",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872910/tbd-tbd",
+      "status": "TENTATIVE",
+      "categories": [
+        "NFL",
+        "Playoffs"
+      ],
+      "hash": "b83c3135a7125ed515d2947e6c1656bae3a7f98269cce45de4c740740aef08a5",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401872911@football-watchlist",
+      "gameId": "401872911",
+      "title": "Wild Card Playoffs - teams TBA [time TBA]",
+      "start": "2027-01-16",
+      "end": "2027-01-17",
+      "allDay": true,
+      "description": "NFL playoffs: every postseason game.\n\nWild Card Playoffs\n\nTeams: TBD at TBD\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872911/tbd-tbd",
+      "location": "",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872911/tbd-tbd",
+      "status": "TENTATIVE",
+      "categories": [
+        "NFL",
+        "Playoffs"
+      ],
+      "hash": "449f2ed4d5542163ca56df3231e655b9a814a4f9e2ca5a9188d7a69ad6afa979",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401874301@football-watchlist",
+      "gameId": "401874301",
+      "title": "CFP Semifinal at the Allstate Sugar Bowl - teams TBA",
+      "start": "2027-01-16T00:30:00.000Z",
+      "end": "2027-01-16T04:00:00.000Z",
+      "allDay": false,
+      "description": "College Football Playoff: every round.\n\nCollege Football Playoff Semifinal at the Allstate Sugar Bowl\n\nTeams: TBD at TBD\n\nUS broadcast: ABC / ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401874301/tbd-tbd",
+      "location": "Caesars Superdome, New Orleans, LA, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401874301/tbd-tbd",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "Playoffs"
+      ],
+      "hash": "4691fd7eca1ec917f2dc43cfc01d08ca1fdb9caabc88f5998cf86217bed47896",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401872912@football-watchlist",
+      "gameId": "401872912",
+      "title": "Wild Card Playoffs - teams TBA [time TBA]",
+      "start": "2027-01-17",
+      "end": "2027-01-18",
+      "allDay": true,
+      "description": "NFL playoffs: every postseason game.\n\nWild Card Playoffs\n\nTeams: TBD at TBD\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872912/tbd-tbd",
+      "location": "",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872912/tbd-tbd",
+      "status": "TENTATIVE",
+      "categories": [
+        "NFL",
+        "Playoffs"
+      ],
+      "hash": "5a9fc1444d902a6240684a2c7b6a55946fad200b3aaec707f0053289e8550be3",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401872913@football-watchlist",
+      "gameId": "401872913",
+      "title": "Wild Card Playoffs - teams TBA [time TBA]",
+      "start": "2027-01-17",
+      "end": "2027-01-18",
+      "allDay": true,
+      "description": "NFL playoffs: every postseason game.\n\nWild Card Playoffs\n\nTeams: TBD at TBD\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872913/tbd-tbd",
+      "location": "",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872913/tbd-tbd",
+      "status": "TENTATIVE",
+      "categories": [
+        "NFL",
+        "Playoffs"
+      ],
+      "hash": "77124dd26a6730246e381f862d06db2518b5fdcb75e2ada1dbcad928cca305b8",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401872914@football-watchlist",
+      "gameId": "401872914",
+      "title": "Wild Card Playoffs - teams TBA [time TBA]",
+      "start": "2027-01-17",
+      "end": "2027-01-18",
+      "allDay": true,
+      "description": "NFL playoffs: every postseason game.\n\nWild Card Playoffs\n\nTeams: TBD at TBD\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872914/tbd-tbd",
+      "location": "",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872914/tbd-tbd",
+      "status": "TENTATIVE",
+      "categories": [
+        "NFL",
+        "Playoffs"
+      ],
+      "hash": "5b7524f5e67a9ec407c7306989deef6503ee16c9b8bbbfcb3baf86900298eeb9",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401872915@football-watchlist",
+      "gameId": "401872915",
+      "title": "Wild Card Playoffs - teams TBA [time TBA]",
+      "start": "2027-01-18",
+      "end": "2027-01-19",
+      "allDay": true,
+      "description": "NFL playoffs: every postseason game.\n\nWild Card Playoffs\n\nTeams: TBD at TBD\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872915/tbd-tbd",
+      "location": "",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872915/tbd-tbd",
+      "status": "TENTATIVE",
+      "categories": [
+        "NFL",
+        "Playoffs"
+      ],
+      "hash": "624697e074260c08e10573138a338dd69687cf5645c1402aa5a12f46cc75310b",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401872916@football-watchlist",
+      "gameId": "401872916",
+      "title": "Divisional Playoffs - teams TBA [time TBA]",
+      "start": "2027-01-23",
+      "end": "2027-01-24",
+      "allDay": true,
+      "description": "NFL playoffs: every postseason game.\n\nDivisional Playoffs\n\nTeams: TBD at TBD\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872916/tbd-tbd",
+      "location": "",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872916/tbd-tbd",
+      "status": "TENTATIVE",
+      "categories": [
+        "NFL",
+        "Playoffs"
+      ],
+      "hash": "97af566e74074c7014571d8a2d452dcd4c9fa116cbc642ee51c950087ddad63b",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401872917@football-watchlist",
+      "gameId": "401872917",
+      "title": "Divisional Playoffs - teams TBA [time TBA]",
+      "start": "2027-01-23",
+      "end": "2027-01-24",
+      "allDay": true,
+      "description": "NFL playoffs: every postseason game.\n\nDivisional Playoffs\n\nTeams: TBD at TBD\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872917/tbd-tbd",
+      "location": "",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872917/tbd-tbd",
+      "status": "TENTATIVE",
+      "categories": [
+        "NFL",
+        "Playoffs"
+      ],
+      "hash": "bfe54b93c91914b5421a91e8ddfdcbafae05514a7520d882bf04ee44a1dd25e2",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401872918@football-watchlist",
+      "gameId": "401872918",
+      "title": "Divisional Playoffs - teams TBA [time TBA]",
+      "start": "2027-01-24",
+      "end": "2027-01-25",
+      "allDay": true,
+      "description": "NFL playoffs: every postseason game.\n\nDivisional Playoffs\n\nTeams: TBD at TBD\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872918/tbd-tbd",
+      "location": "",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872918/tbd-tbd",
+      "status": "TENTATIVE",
+      "categories": [
+        "NFL",
+        "Playoffs"
+      ],
+      "hash": "d6dd2368370d36c1899a0e99a1175ad171311dabde348314012735ab692f6b71",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401872919@football-watchlist",
+      "gameId": "401872919",
+      "title": "Divisional Playoffs - teams TBA [time TBA]",
+      "start": "2027-01-24",
+      "end": "2027-01-25",
+      "allDay": true,
+      "description": "NFL playoffs: every postseason game.\n\nDivisional Playoffs\n\nTeams: TBD at TBD\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872919/tbd-tbd",
+      "location": "",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872919/tbd-tbd",
+      "status": "TENTATIVE",
+      "categories": [
+        "NFL",
+        "Playoffs"
+      ],
+      "hash": "0bdbc804a7bce93cf4f662bcad72b929ff4bb9eb226f78725f9e312d2fb54381",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401874322@football-watchlist",
+      "gameId": "401874322",
+      "title": "CFP National Championship - teams TBA",
+      "start": "2027-01-26T00:30:00.000Z",
+      "end": "2027-01-26T04:30:00.000Z",
+      "allDay": false,
+      "description": "College Football Playoff: every round.\n\nCollege Football Playoff National Championship Presented by AT&T\n\nTeams: TBD at TBD\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401874322/tbd-tbd",
+      "location": "Allegiant Stadium, Las Vegas, NV, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401874322/tbd-tbd",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "Playoffs"
+      ],
+      "hash": "e232af5127db6232b30258c2ec69c9fd8f1dec13c22512f6d0f82968683e4a08",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401872920@football-watchlist",
+      "gameId": "401872920",
+      "title": "NFC Championship - teams TBA [time TBA]",
+      "start": "2027-01-31",
+      "end": "2027-02-01",
+      "allDay": true,
+      "description": "NFL playoffs: every postseason game.\n\nNFC Championship\n\nTeams: TBD at TBD\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872920/tbd-tbd",
+      "location": "",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872920/tbd-tbd",
+      "status": "TENTATIVE",
+      "categories": [
+        "NFL",
+        "Playoffs"
+      ],
+      "hash": "0da2f2c8a1e9d2389f87bfc8baacd68bdeb0068ddf40fe782f8c990f15656d04",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401872921@football-watchlist",
+      "gameId": "401872921",
+      "title": "AFC Championship - teams TBA [time TBA]",
+      "start": "2027-01-31",
+      "end": "2027-02-01",
+      "allDay": true,
+      "description": "NFL playoffs: every postseason game.\n\nAFC Championship\n\nTeams: TBD at TBD\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872921/tbd-tbd",
+      "location": "",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872921/tbd-tbd",
+      "status": "TENTATIVE",
+      "categories": [
+        "NFL",
+        "Playoffs"
+      ],
+      "hash": "3662f67e369a8dd8055ee70ac2dba91cd69d1a2d63aeff32c80aef46c94cb22c",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "nfl-401873270@football-watchlist",
+      "gameId": "401873270",
+      "title": "Super Bowl LXI - teams TBA",
+      "start": "2027-02-14T23:30:00.000Z",
+      "end": "2027-02-15T03:30:00.000Z",
+      "allDay": false,
+      "description": "NFL playoffs: every postseason game.\n\nSuper Bowl LXI\n\nTeams: TBD at TBD\n\nUS broadcast: ESPN / ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873270/tbd-tbd",
+      "location": "SoFi Stadium, Inglewood, CA, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873270/tbd-tbd",
+      "status": "CONFIRMED",
+      "categories": [
+        "NFL",
+        "Playoffs"
+      ],
+      "hash": "c6ee93326283d1771fb70da70fffd53e6f4cf6864b8cdd8cade9d7db72b1b47d",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    }
+  ],
+  "nflGames": 285,
+  "collegeGames": 948,
+  "warnings": []
+}

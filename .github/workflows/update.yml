@@ -1,0 +1,35 @@
+name: Update football calendar
+on:
+  schedule:
+    - cron: '23 2,8,14,20 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['*.mjs', 'config.json', '.github/workflows/update.yml']
+permissions:
+  contents: write
+concurrency:
+  group: football-calendar
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Check calendar logic
+        run: node --test
+      - name: Refresh schedules and calendar
+        run: node generate.mjs
+      - name: Publish feed when changed
+        run: |
+          git config user.name 'Football calendar'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add football.ics state.json status.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh football calendar'
+            git push
+          fi
