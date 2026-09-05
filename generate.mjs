@@ -1,6 +1,7 @@
 import fs from 'node:fs/promises';
-import { etDay, etParts, atEastern, addDays, normalize, gameEvent, nflReasons, selectCollege, stabilize, renderCalendar, newYearCfpSlots } from './calendar.mjs';
+import { etDay, etParts, atEastern, addDays, gameEvent, nflReasons, selectCollege, stabilize, renderCalendar, newYearCfpSlots } from './calendar.mjs';
 import { getShows } from './shows.mjs';
+import { fetchSchedule, validateSchedule } from './schedules.mjs';
 
 const offline = process.argv.includes('--offline');
 const now = process.env.CALENDAR_NOW || new Date().toISOString();
@@ -11,22 +12,12 @@ const previous = await fs.readFile('state.json', 'utf8').then(JSON.parse).catch(
 await fs.mkdir('.cache', {recursive:true});
 async function schedules(league) {
   const url = `https://site.api.espn.com/apis/site/v2/sports/football/${league}/scoreboard?dates=${season}0801-${season+1}0228&limit=1000${league === 'college-football' ? '&groups=80' : ''}`;
-  let data;
-  if (offline) data = JSON.parse(await fs.readFile(`.cache/${league}.json`, 'utf8'));
-  else {
-    for(let attempt=0; attempt<3; attempt++) {
-      try {
-        const r = await fetch(url, {signal:AbortSignal.timeout(45000),headers:{'User-Agent':'FootballWatchlist/1.0 (+https://github.com/mhmdmstf/football-calendar)'}});
-        if (!r.ok) throw new Error(`${league}: HTTP ${r.status}`);
-        data = await r.json(); break;
-      } catch(e) { if(attempt === 2) throw e; await new Promise(r=>setTimeout(r,1500*(attempt+1))); }
-    }
-    await fs.writeFile(`.cache/${league}.json`,JSON.stringify(data));
+  if (offline) {
+    const data=JSON.parse(await fs.readFile(`.cache/${league}.json`, 'utf8'));
+    return validateSchedule(data,league,season,now);
   }
-  if (!Array.isArray(data.events) || data.events.length >= 1000) throw new Error(`${league}: missing or possibly truncated schedule. Keeping published calendar unchanged.`);
-  const games = data.events.map(e=>normalize(e,league)).filter(g=>g.season === season && [2,3].includes(g.seasonType));
-  // A disappearing schedule is a source failure, not a reason to erase subscribers' events.
-  if (new Date(now).getUTCMonth() >= 7 && games.length < (league === 'nfl' ? 250 : 650)) throw new Error(`${league}: unexpectedly incomplete in-season schedule (${games.length}).`);
+  const {data,games}=await fetchSchedule(url,league,season,now);
+  await fs.writeFile(`.cache/${league}.json`,JSON.stringify(data));
   return games;
 }
 const [nfl,college] = await Promise.all([schedules('nfl'),schedules('college-football')]);

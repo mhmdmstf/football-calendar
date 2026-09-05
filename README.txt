@@ -26,6 +26,8 @@ need to be on. The feed is public and contains sports events only.
 ESPN's public schedule data supplies games, current rankings, venue, US networks,
 market spreads and kickoff status. This endpoint is unofficial and has no uptime
 guarantee. A failed or incomplete game fetch leaves the last good feed published.
+The updater retries temporary HTTP, JSON, event-data and incomplete-schedule
+failures up to three times before reporting a failed run.
 GitHub reports failed runs in its Actions tab and through account notifications.
 
 Picks use transparent rules, not live human editorial review. Each event explains
