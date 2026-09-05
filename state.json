@@ -122,7 +122,7 @@
     {
       "uid": "college-football-401856661@football-watchlist",
       "gameId": "401856661",
-      "title": "CFB: Louisville at Ole Miss",
+      "title": "CFB: Louisville vs Ole Miss",
       "start": "2026-09-06T23:30:00.000Z",
       "end": "2026-09-07T03:00:00.000Z",
       "allDay": false,
@@ -135,15 +135,15 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#9 vs #24) at selection.",
-      "hash": "ca93ffce592d3b88937c1ad2269477f61cab4963d35c641a0243e37f7e9888a1",
+      "hash": "a7d3c3b202bc23c557e65ab68d59f614c214096b975f91da867f63df59071221",
       "created": "2026-09-05T14:52:08.096Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 0
+      "modified": "2026-09-05T14:54:57.145Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401858438@football-watchlist",
       "gameId": "401858438",
-      "title": "CFB: Wisconsin at Notre Dame",
+      "title": "CFB: Wisconsin vs Notre Dame",
       "start": "2026-09-06T23:30:00.000Z",
       "end": "2026-09-07T03:00:00.000Z",
       "allDay": false,
@@ -156,10 +156,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: Sunday or Monday national broadcast featuring a ranked team.",
-      "hash": "b41b3812d30946150554d3036967d3b1e994065c8ef68ac0ff9365f0333314f0",
+      "hash": "7cdc1945a7b52f2d20d7f05f59069630fda25b6b49681c1cb4d1af75b480f54a",
       "created": "2026-09-05T14:52:08.096Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 0
+      "modified": "2026-09-05T14:54:57.145Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401858212@football-watchlist",
@@ -204,7 +204,7 @@
     {
       "uid": "nfl-401872657@football-watchlist",
       "gameId": "401872657",
-      "title": "NFL: San Francisco 49ers at Los Angeles Rams",
+      "title": "NFL: San Francisco 49ers vs Los Angeles Rams",
       "start": "2026-09-11T00:35:00.000Z",
       "end": "2026-09-11T04:05:00.000Z",
       "allDay": false,
@@ -215,10 +215,10 @@
       "categories": [
         "NFL"
       ],
-      "hash": "f66ff54fed4af1c0955a25ffe26bb123c877dcf393b92f696b99dd556711d411",
+      "hash": "820ea5fb9dfc12b91b866f69f881bf6795c7dbfe68fb1b957cccd419d65a32dc",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 1
+      "modified": "2026-09-05T14:54:57.145Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401856678@football-watchlist",
@@ -521,7 +521,7 @@
     {
       "uid": "college-football-401856812@football-watchlist",
       "gameId": "401856812",
-      "title": "CFB: Arizona State at Kansas",
+      "title": "CFB: Arizona State vs Kansas",
       "start": "2026-09-19T16:00:00.000Z",
       "end": "2026-09-19T19:30:00.000Z",
       "allDay": false,
@@ -532,10 +532,10 @@
       "categories": [
         "College"
       ],
-      "hash": "e04825b8d23b9dedfb867feccd9e5e5ccb215e5221bb225c16e895618270f6d4",
+      "hash": "264b528c4b4c8bbd0d1fcc7cd34fd4ee868fd8af4308c89dc19048aa74025ff2",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
+      "modified": "2026-09-05T14:54:57.145Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401856685@football-watchlist",
@@ -837,7 +837,7 @@
     {
       "uid": "nfl-401872960@football-watchlist",
       "gameId": "401872960",
-      "title": "NFL: Baltimore Ravens at Dallas Cowboys",
+      "title": "NFL: Baltimore Ravens vs Dallas Cowboys",
       "start": "2026-09-27T20:25:00.000Z",
       "end": "2026-09-27T23:55:00.000Z",
       "allDay": false,
@@ -848,10 +848,10 @@
       "categories": [
         "NFL"
       ],
-      "hash": "ffdfba083f36cca6be44dc9b791ad3bed1cb6580be4a1ffe2719570ea8a5c2fa",
+      "hash": "91f75143679c987d00e9349217c5e84d5d81937ff7d57fc2cbb1fb4f54706d66",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 1
+      "modified": "2026-09-05T14:54:57.145Z",
+      "sequence": 2
     },
     {
       "uid": "nfl-401872962@football-watchlist",
@@ -971,7 +971,7 @@
     {
       "uid": "nfl-401872965@football-watchlist",
       "gameId": "401872965",
-      "title": "NFL: Indianapolis Colts at Washington Commanders",
+      "title": "NFL: Indianapolis Colts vs Washington Commanders",
       "start": "2026-10-04T13:30:00.000Z",
       "end": "2026-10-04T17:00:00.000Z",
       "allDay": false,
@@ -982,10 +982,10 @@
       "categories": [
         "NFL"
       ],
-      "hash": "28313843645abbdad57ddd7c461c67c7f50262b337e9de2deedff35ccf155ecf",
+      "hash": "ca3389210c6e347e39b96142db95f3012465e5404d49a0435c88304e19f33c00",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 1
+      "modified": "2026-09-05T14:54:57.145Z",
+      "sequence": 2
     },
     {
       "uid": "redzone-2026-10-04@football-watchlist",
@@ -1124,7 +1124,7 @@
     {
       "uid": "college-football-401856717@football-watchlist",
       "gameId": "401856717",
-      "title": "CFB: Texas at Oklahoma",
+      "title": "CFB: Texas vs Oklahoma",
       "start": "2026-10-10T19:30:00.000Z",
       "end": "2026-10-10T23:00:00.000Z",
       "allDay": false,
@@ -1135,15 +1135,15 @@
       "categories": [
         "College"
       ],
-      "hash": "4e23b992e5474a600c5a6b0ff755f7bbd8f2b2a99b600ea0cc08f374c59893c4",
+      "hash": "8ed0a9380d322f3a0098296aec191f14c841bf37b6eafc678093d5182c001f3c",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
+      "modified": "2026-09-05T14:54:57.145Z",
+      "sequence": 1
     },
     {
       "uid": "nfl-401872981@football-watchlist",
       "gameId": "401872981",
-      "title": "NFL: Philadelphia Eagles at Jacksonville Jaguars",
+      "title": "NFL: Philadelphia Eagles vs Jacksonville Jaguars",
       "start": "2026-10-11T13:30:00.000Z",
       "end": "2026-10-11T17:00:00.000Z",
       "allDay": false,
@@ -1154,10 +1154,10 @@
       "categories": [
         "NFL"
       ],
-      "hash": "3a83f1f75e365ff1e91398aab3bb2a82c138b90cb8431f12a40de9e21ecb76b4",
+      "hash": "f61149c8bd3fbdf2fdfe9dd9e3e9b09a52c7432eff3145447ec1ff146e36495b",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 1
+      "modified": "2026-09-05T14:54:57.145Z",
+      "sequence": 2
     },
     {
       "uid": "redzone-2026-10-11@football-watchlist",
@@ -1315,7 +1315,7 @@
     {
       "uid": "nfl-401872996@football-watchlist",
       "gameId": "401872996",
-      "title": "NFL: Houston Texans at Jacksonville Jaguars",
+      "title": "NFL: Houston Texans vs Jacksonville Jaguars",
       "start": "2026-10-18T13:30:00.000Z",
       "end": "2026-10-18T17:00:00.000Z",
       "allDay": false,
@@ -1326,10 +1326,10 @@
       "categories": [
         "NFL"
       ],
-      "hash": "388a7dc466f6ae879cd390982952495ae8ebab7f3dfe43fda27a7286cfec8497",
+      "hash": "7d611c32971a5fe411689885ebb5beee8acc5b2d9b5af4f3d79af9e17e1aae05",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 1
+      "modified": "2026-09-05T14:54:57.145Z",
+      "sequence": 2
     },
     {
       "uid": "redzone-2026-10-18@football-watchlist",
@@ -1468,7 +1468,7 @@
     {
       "uid": "nfl-401873011@football-watchlist",
       "gameId": "401873011",
-      "title": "NFL: Pittsburgh Steelers at New Orleans Saints",
+      "title": "NFL: Pittsburgh Steelers vs New Orleans Saints",
       "start": "2026-10-25T13:30:00.000Z",
       "end": "2026-10-25T17:00:00.000Z",
       "allDay": false,
@@ -1479,10 +1479,10 @@
       "categories": [
         "NFL"
       ],
-      "hash": "68bcfc5fdb41f097515d285a7d6d8ae55f15a5c8a93687f4de5c9847ef8b0241",
+      "hash": "6d42ca34471457884aefb890f0c8811c8f646bd6377fe318833b65137c6b9ccd",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 1
+      "modified": "2026-09-05T14:54:57.145Z",
+      "sequence": 2
     },
     {
       "uid": "redzone-2026-10-25@football-watchlist",
@@ -1601,7 +1601,7 @@
     {
       "uid": "college-football-401856734@football-watchlist",
       "gameId": "401856734",
-      "title": "CFB: Florida at Georgia",
+      "title": "CFB: Florida vs Georgia",
       "start": "2026-10-31T19:30:00.000Z",
       "end": "2026-10-31T23:00:00.000Z",
       "allDay": false,
@@ -1612,10 +1612,10 @@
       "categories": [
         "College"
       ],
-      "hash": "dcde8d6c44beb4f9e17929e5aba7d3ecc120b4aa720c9c17c96af26c19ef2463",
+      "hash": "dd929068813210b3acc9dd825cbb22ddf9a14b27c100da097aadd4126d951a3d",
       "created": "2026-09-05T14:52:08.096Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 0
+      "modified": "2026-09-05T14:54:57.145Z",
+      "sequence": 1
     },
     {
       "uid": "redzone-2026-11-01@football-watchlist",
@@ -1754,7 +1754,7 @@
     {
       "uid": "nfl-401873038@football-watchlist",
       "gameId": "401873038",
-      "title": "NFL: Cincinnati Bengals at Atlanta Falcons",
+      "title": "NFL: Cincinnati Bengals vs Atlanta Falcons",
       "start": "2026-11-08T14:30:00.000Z",
       "end": "2026-11-08T18:00:00.000Z",
       "allDay": false,
@@ -1765,10 +1765,10 @@
       "categories": [
         "NFL"
       ],
-      "hash": "b51f8704e9819f47039ef6ca341d89a5196575e3d80b749813f1c9e270fdb3ed",
+      "hash": "5c48275e94971408132fab5b6e537452cde6e69693d94551ec2fec592915d55a",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 1
+      "modified": "2026-09-05T14:54:57.145Z",
+      "sequence": 2
     },
     {
       "uid": "redzone-2026-11-08@football-watchlist",
@@ -1907,7 +1907,7 @@
     {
       "uid": "nfl-401873053@football-watchlist",
       "gameId": "401873053",
-      "title": "NFL: New England Patriots at Detroit Lions",
+      "title": "NFL: New England Patriots vs Detroit Lions",
       "start": "2026-11-15T14:30:00.000Z",
       "end": "2026-11-15T18:00:00.000Z",
       "allDay": false,
@@ -1918,10 +1918,10 @@
       "categories": [
         "NFL"
       ],
-      "hash": "268ac95b6745179c3fc815d12ad9cf2bc5acc1d735358aeba849a99d9999660b",
+      "hash": "9b0a8480d101af216c1a6709cd0307ddee75c1c199cca0741beee17818480a04",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 1
+      "modified": "2026-09-05T14:54:57.145Z",
+      "sequence": 2
     },
     {
       "uid": "redzone-2026-11-15@football-watchlist",
@@ -2079,7 +2079,7 @@
     {
       "uid": "nfl-401873077@football-watchlist",
       "gameId": "401873077",
-      "title": "NFL: Minnesota Vikings at San Francisco 49ers",
+      "title": "NFL: Minnesota Vikings vs San Francisco 49ers",
       "start": "2026-11-23T01:20:00.000Z",
       "end": "2026-11-23T04:50:00.000Z",
       "allDay": false,
@@ -2090,10 +2090,10 @@
       "categories": [
         "NFL"
       ],
-      "hash": "a038a664d12bb488b0a0121f6045dc72da0eb408ff11bcacbb4a13bf27eff622",
+      "hash": "8a517a78b303117ffb65a728c0f2de551bbabff741879661932bbffe0abe49ce",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 1
+      "modified": "2026-09-05T14:54:57.145Z",
+      "sequence": 2
     },
     {
       "uid": "nfl-401873078@football-watchlist",
@@ -2537,7 +2537,7 @@
     {
       "uid": "college-football-401869533@football-watchlist",
       "gameId": "401869533",
-      "title": "CFB: TBD at TBD",
+      "title": "CFB: TBD vs TBD",
       "start": "2026-12-05T01:00:00.000Z",
       "end": "2026-12-05T05:00:00.000Z",
       "allDay": false,
@@ -2548,10 +2548,10 @@
       "categories": [
         "College"
       ],
-      "hash": "ecfee70b7c4c5926de3d36b5d1085f43efb173283d344e6762a2c0ada2bd6264",
+      "hash": "aca563a70821702b74a1cc06a3d16d06d5d7b1496d4f3b196532482c986e4d03",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
+      "modified": "2026-09-05T14:54:57.145Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401869542@football-watchlist",
@@ -2594,7 +2594,7 @@
     {
       "uid": "college-football-401858318@football-watchlist",
       "gameId": "401858318",
-      "title": "CFB: TBD at TBD",
+      "title": "CFB: TBD vs TBD",
       "start": "2026-12-05T17:00:00.000Z",
       "end": "2026-12-05T21:00:00.000Z",
       "allDay": false,
@@ -2605,15 +2605,15 @@
       "categories": [
         "College"
       ],
-      "hash": "c2231392d9532911f5e1ca2ebfd7bc0fc1e3a413228b87c4dfb3b845ecdfaf99",
+      "hash": "92cead24473e97006e32e32337a263ce551e669c036f752751cf63f13240b3b4",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
+      "modified": "2026-09-05T14:54:57.145Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401869536@football-watchlist",
       "gameId": "401869536",
-      "title": "CFB: TBD at TBD",
+      "title": "CFB: TBD vs TBD",
       "start": "2026-12-05T17:00:00.000Z",
       "end": "2026-12-05T21:00:00.000Z",
       "allDay": false,
@@ -2624,15 +2624,15 @@
       "categories": [
         "College"
       ],
-      "hash": "b026164ca1c5a33504af05c4a005c4bb090121d8f95182d45810311242a3eef1",
+      "hash": "7c4c5ee4acc318a0324c814f2038d01ec277983c4b06500be52a5e5d305e56e3",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
+      "modified": "2026-09-05T14:54:57.145Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401869545@football-watchlist",
       "gameId": "401869545",
-      "title": "CFB: TBD at TBD",
+      "title": "CFB: TBD vs TBD",
       "start": "2026-12-05T21:00:00.000Z",
       "end": "2026-12-06T01:00:00.000Z",
       "allDay": false,
@@ -2643,10 +2643,10 @@
       "categories": [
         "College"
       ],
-      "hash": "7cc6981fde24a589668de2d2f04a2e3fa44d2924529cb90dd81051d37b050ad7",
+      "hash": "63d679b8865ae20f53e7b1cd79153d691ad2b63047b041237d644d8afd5b7cbf",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
+      "modified": "2026-09-05T14:54:57.145Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401869532@football-watchlist",
@@ -2670,7 +2670,7 @@
     {
       "uid": "college-football-401869534@football-watchlist",
       "gameId": "401869534",
-      "title": "CFB: TBD at TBD",
+      "title": "CFB: TBD vs TBD",
       "start": "2026-12-06T01:00:00.000Z",
       "end": "2026-12-06T05:00:00.000Z",
       "allDay": false,
@@ -2681,10 +2681,10 @@
       "categories": [
         "College"
       ],
-      "hash": "ca167ae9d3ebd70f86f5bd5dfeca539a93b7d0c31f0e700004b8ed718dc2646d",
+      "hash": "c1b92ecbcb3ec0ad2add1be95cf22b66c041445391486ce2c4fee9190c2c5328",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
+      "modified": "2026-09-05T14:54:57.145Z",
+      "sequence": 1
     },
     {
       "uid": "redzone-2026-12-06@football-watchlist",
@@ -2765,7 +2765,7 @@
     {
       "uid": "college-football-401862844@football-watchlist",
       "gameId": "401862844",
-      "title": "CFB: Navy at Army",
+      "title": "CFB: Navy vs Army",
       "start": "2026-12-12T20:00:00.000Z",
       "end": "2026-12-12T23:30:00.000Z",
       "allDay": false,
@@ -2776,10 +2776,10 @@
       "categories": [
         "College"
       ],
-      "hash": "61b79c8bde8c9736bdf757401fca4e4361de98ec9bf26ebb0dcdf017551836bf",
+      "hash": "0960aa61b1a8f3597e1dd181aa5bce0411187c13ed6115bfccd796cd3ccad779",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
+      "modified": "2026-09-05T14:54:57.145Z",
+      "sequence": 1
     },
     {
       "uid": "redzone-2026-12-13@football-watchlist",

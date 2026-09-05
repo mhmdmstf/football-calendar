@@ -41,6 +41,13 @@ shows.events = shows.events.map(e => {
   }
   return e;
 });
+for(const old of previous.events.filter(e=>e.categories.includes('Pregame') && e.status==='CONFIRMED' && e.start.startsWith(String(season)))) {
+  if(!shows.events.some(e=>e.uid===old.uid)) {
+    const {hash,created,modified,sequence,...retained}=old;
+    shows.events.push(retained);
+    if(retained.gameId) shows.featuredIds.push(retained.gameId);
+  }
+}
 const picks = selectCollege(college, config, shows.featuredIds, now, previous.events);
 const generated=[];
 for(const g of nfl) { const reasons=nflReasons(g); if(reasons.length && !config.excludeGameIds.includes(g.id)) generated.push(gameEvent(g,reasons)); }

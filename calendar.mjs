@@ -62,7 +62,7 @@ export function normalize(e, league) {
   const venue = c.venue || {};
   return { id: String(e.id), league, season: e.season.year, seasonType: e.season.type,
     week: e.week?.number || 0, date: e.date, day: etDay(e.date),
-    timeKnown: c.timeValid === true && !c.status?.isTBDFlex,
+    timeKnown: c.timeValid === true && !c.status?.isTBDFlex, neutralSite: c.neutralSite === true,
     teams, home: teams.find(t => t.side === 'home'), away: teams.find(t => t.side === 'away'),
     venue: [venue.fullName, venue.address?.city, venue.address?.state, venue.address?.country].filter(Boolean).join(', '),
     country: venue.address?.country || '',
@@ -75,7 +75,8 @@ export function normalize(e, league) {
 }
 export function gameEvent(g, reasons) {
   const playoff = g.seasonType === 3 && (g.league === 'nfl' || /college football playoff/i.test(g.notes));
-  const matchup = g.league === 'nfl' ? `${g.away?.name || 'TBD'} at ${g.home?.name || 'TBD'}` : `${g.away?.short || 'TBD'} at ${g.home?.short || 'TBD'}`;
+  const connector = g.neutralSite ? ' vs ' : ' at ';
+  const matchup = g.league === 'nfl' ? `${g.away?.name || 'TBD'}${connector}${g.home?.name || 'TBD'}` : `${g.away?.short || 'TBD'}${connector}${g.home?.short || 'TBD'}`;
   const unknownTeams = g.teams.every(t => t.name === 'TBD');
   const prefix = g.league === 'nfl' ? 'NFL' : 'CFB';
   const stage = playoff ? g.notes.replace(/College Football Playoff/g, 'CFP').replace(/ Presented by .*/i, '') : '';

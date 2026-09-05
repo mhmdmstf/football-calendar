@@ -131,13 +131,13 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856661@football-watchlist
-DTSTAMP:20260905T145208Z
+DTSTAMP:20260905T145457Z
 CREATED:20260905T145208Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:0
+LAST-MODIFIED:20260905T145457Z
+SEQUENCE:1
 DTSTART:20260906T233000Z
 DTEND:20260907T030000Z
-SUMMARY:CFB: Louisville at Ole Miss
+SUMMARY:CFB: Louisville vs Ole Miss
 DESCRIPTION:National pick: ranked matchup (#9 vs #24) at selection.\n\nLibe
  rty Mutual Music City Kickoff\n\nTeams: Louisville Cardinals at Ole Miss R
  ebels\n\nUS broadcast: ABC / ERADM. Availability elsewhere varies.\n\nView
@@ -153,13 +153,13 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858438@football-watchlist
-DTSTAMP:20260905T145208Z
+DTSTAMP:20260905T145457Z
 CREATED:20260905T145208Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:0
+LAST-MODIFIED:20260905T145457Z
+SEQUENCE:1
 DTSTART:20260906T233000Z
 DTEND:20260907T030000Z
-SUMMARY:CFB: Wisconsin at Notre Dame
+SUMMARY:CFB: Wisconsin vs Notre Dame
 DESCRIPTION:National pick: Sunday or Monday national broadcast featuring a 
  ranked team.\n\nTeams: Wisconsin Badgers at Notre Dame Fighting Irish\n\nU
  S broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 ho
@@ -217,13 +217,13 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401872657@football-watchlist
-DTSTAMP:20260905T145208Z
+DTSTAMP:20260905T145457Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:1
+LAST-MODIFIED:20260905T145457Z
+SEQUENCE:2
 DTSTART:20260911T003500Z
 DTEND:20260911T040500Z
-SUMMARY:NFL: San Francisco 49ers at Los Angeles Rams
+SUMMARY:NFL: San Francisco 49ers vs Los Angeles Rams
 DESCRIPTION:International game: Australia.\nThursday football\, including T
  hanksgiving.\n\nNFL Melbourne Game\n\nTeams: San Francisco 49ers at Los An
  geles Rams\n\nUS broadcast: Netflix. Availability elsewhere varies.\n\nVie
@@ -548,13 +548,13 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856812@football-watchlist
-DTSTAMP:20260905T144637Z
+DTSTAMP:20260905T145457Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
+LAST-MODIFIED:20260905T145457Z
+SEQUENCE:1
 DTSTART:20260919T160000Z
 DTEND:20260919T193000Z
-SUMMARY:CFB: Arizona State at Kansas
+SUMMARY:CFB: Arizona State vs Kansas
 DESCRIPTION:Confirmed College GameDay or Big Noon featured matchup.\n\nTeam
  s: Arizona State Sun Devils at Kansas Jayhawks\n\nUS broadcast: FS1. Avail
  ability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champi
@@ -872,13 +872,13 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401872960@football-watchlist
-DTSTAMP:20260905T145208Z
+DTSTAMP:20260905T145457Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:1
+LAST-MODIFIED:20260905T145457Z
+SEQUENCE:2
 DTSTART:20260927T202500Z
 DTEND:20260927T235500Z
-SUMMARY:NFL: Baltimore Ravens at Dallas Cowboys
+SUMMARY:NFL: Baltimore Ravens vs Dallas Cowboys
 DESCRIPTION:International game: Brazil.\n\nNFL Rio Game\n\nTeams: Baltimore
   Ravens at Dallas Cowboys\n\nUS broadcast: CBS. Availability elsewhere var
  ies.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish is 
@@ -1010,13 +1010,13 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401872965@football-watchlist
-DTSTAMP:20260905T145208Z
+DTSTAMP:20260905T145457Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:1
+LAST-MODIFIED:20260905T145457Z
+SEQUENCE:2
 DTSTART:20261004T133000Z
 DTEND:20261004T170000Z
-SUMMARY:NFL: Indianapolis Colts at Washington Commanders
+SUMMARY:NFL: Indianapolis Colts vs Washington Commanders
 DESCRIPTION:International game: England.\n\nNFL London Games\n\nTeams: Indi
  anapolis Colts at Washington Commanders\n\nUS broadcast: NFL Net. Availabi
  lity elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champions
@@ -1166,13 +1166,13 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856717@football-watchlist
-DTSTAMP:20260905T144637Z
+DTSTAMP:20260905T145457Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
+LAST-MODIFIED:20260905T145457Z
+SEQUENCE:1
 DTSTART:20261010T193000Z
 DTEND:20261010T230000Z
-SUMMARY:CFB: Texas at Oklahoma
+SUMMARY:CFB: Texas vs Oklahoma
 DESCRIPTION:Major rivalry: Red River Rivalry.\n\nTeams: Texas Longhorns at 
  Oklahoma Sooners\n\nBroadcast to be announced.\n\nViewing window: 3.5 hour
  s (4 hours for championships)\; finish is approximate.\n\nSchedule: https:
@@ -1186,13 +1186,13 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401872981@football-watchlist
-DTSTAMP:20260905T145208Z
+DTSTAMP:20260905T145457Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:1
+LAST-MODIFIED:20260905T145457Z
+SEQUENCE:2
 DTSTART:20261011T133000Z
 DTEND:20261011T170000Z
-SUMMARY:NFL: Philadelphia Eagles at Jacksonville Jaguars
+SUMMARY:NFL: Philadelphia Eagles vs Jacksonville Jaguars
 DESCRIPTION:International game: England.\n\nNFL London Games\n\nTeams: Phil
  adelphia Eagles at Jacksonville Jaguars\n\nUS broadcast: NFL Net. Availabi
  lity elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champions
@@ -1364,13 +1364,13 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401872996@football-watchlist
-DTSTAMP:20260905T145208Z
+DTSTAMP:20260905T145457Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:1
+LAST-MODIFIED:20260905T145457Z
+SEQUENCE:2
 DTSTART:20261018T133000Z
 DTEND:20261018T170000Z
-SUMMARY:NFL: Houston Texans at Jacksonville Jaguars
+SUMMARY:NFL: Houston Texans vs Jacksonville Jaguars
 DESCRIPTION:International game: England.\n\nNFL London Games\n\nTeams: Hous
  ton Texans at Jacksonville Jaguars\n\nUS broadcast: NFL Net. Availability 
  elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)
@@ -1521,13 +1521,13 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401873011@football-watchlist
-DTSTAMP:20260905T145208Z
+DTSTAMP:20260905T145457Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:1
+LAST-MODIFIED:20260905T145457Z
+SEQUENCE:2
 DTSTART:20261025T133000Z
 DTEND:20261025T170000Z
-SUMMARY:NFL: Pittsburgh Steelers at New Orleans Saints
+SUMMARY:NFL: Pittsburgh Steelers vs New Orleans Saints
 DESCRIPTION:International game: France.\n\nNFL Paris Game\n\nTeams: Pittsbu
  rgh Steelers at New Orleans Saints\n\nUS broadcast: NFL Net. Availability 
  elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)
@@ -1657,13 +1657,13 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856734@football-watchlist
-DTSTAMP:20260905T145208Z
+DTSTAMP:20260905T145457Z
 CREATED:20260905T145208Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:0
+LAST-MODIFIED:20260905T145457Z
+SEQUENCE:1
 DTSTART:20261031T193000Z
 DTEND:20261031T230000Z
-SUMMARY:CFB: Florida at Georgia
+SUMMARY:CFB: Florida vs Georgia
 DESCRIPTION:Major rivalry: Florida-Georgia.\n\nTeams: Florida Gators at Geo
  rgia Bulldogs\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nView
  ing window: 3.5 hours (4 hours for championships)\; finish is approximate.
@@ -1815,13 +1815,13 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401873038@football-watchlist
-DTSTAMP:20260905T145208Z
+DTSTAMP:20260905T145457Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:1
+LAST-MODIFIED:20260905T145457Z
+SEQUENCE:2
 DTSTART:20261108T143000Z
 DTEND:20261108T180000Z
-SUMMARY:NFL: Cincinnati Bengals at Atlanta Falcons
+SUMMARY:NFL: Cincinnati Bengals vs Atlanta Falcons
 DESCRIPTION:International game: Spain.\n\nNFL Madrid Game\n\nTeams: Cincinn
  ati Bengals at Atlanta Falcons\n\nUS broadcast: NFL Net. Availability else
  where varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; f
@@ -1971,13 +1971,13 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401873053@football-watchlist
-DTSTAMP:20260905T145208Z
+DTSTAMP:20260905T145457Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:1
+LAST-MODIFIED:20260905T145457Z
+SEQUENCE:2
 DTSTART:20261115T143000Z
 DTEND:20261115T180000Z
-SUMMARY:NFL: New England Patriots at Detroit Lions
+SUMMARY:NFL: New England Patriots vs Detroit Lions
 DESCRIPTION:International game: Germany.\n\nNFL Munich Game\n\nTeams: New E
  ngland Patriots at Detroit Lions\n\nUS broadcast: FOX. Availability elsewh
  ere varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; fin
@@ -2148,13 +2148,13 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401873077@football-watchlist
-DTSTAMP:20260905T145208Z
+DTSTAMP:20260905T145457Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:1
+LAST-MODIFIED:20260905T145457Z
+SEQUENCE:2
 DTSTART:20261123T012000Z
 DTEND:20261123T045000Z
-SUMMARY:NFL: Minnesota Vikings at San Francisco 49ers
+SUMMARY:NFL: Minnesota Vikings vs San Francisco 49ers
 DESCRIPTION:International game: Mexico.\nSunday Night Football.\n\nNFL Mexi
  co City Game\n\nTeams: Minnesota Vikings at San Francisco 49ers\n\nUS broa
  dcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4
@@ -2636,13 +2636,13 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401869533@football-watchlist
-DTSTAMP:20260905T144637Z
+DTSTAMP:20260905T145457Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
+LAST-MODIFIED:20260905T145457Z
+SEQUENCE:1
 DTSTART:20261205T010000Z
 DTEND:20261205T050000Z
-SUMMARY:CFB: TBD at TBD
+SUMMARY:CFB: TBD vs TBD
 DESCRIPTION:Conference championship.\n\nBig 12 Championship\n\nTeams: TBD a
  t TBD\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing wind
  ow: 3.5 hours (4 hours for championships)\; finish is approximate.\n\nSche
@@ -2696,13 +2696,13 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858318@football-watchlist
-DTSTAMP:20260905T144637Z
+DTSTAMP:20260905T145457Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
+LAST-MODIFIED:20260905T145457Z
+SEQUENCE:1
 DTSTART:20261205T170000Z
 DTEND:20261205T210000Z
-SUMMARY:CFB: TBD at TBD
+SUMMARY:CFB: TBD vs TBD
 DESCRIPTION:Conference championship.\n\nACC Championship\n\nTeams: TBD at T
  BD\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window:
   3.5 hours (4 hours for championships)\; finish is approximate.\n\nSchedul
@@ -2715,13 +2715,13 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401869536@football-watchlist
-DTSTAMP:20260905T144637Z
+DTSTAMP:20260905T145457Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
+LAST-MODIFIED:20260905T145457Z
+SEQUENCE:1
 DTSTART:20261205T170000Z
 DTEND:20261205T210000Z
-SUMMARY:CFB: TBD at TBD
+SUMMARY:CFB: TBD vs TBD
 DESCRIPTION:Conference championship.\n\nMAC Championship\n\nTeams: TBD at T
  BD\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window
  : 3.5 hours (4 hours for championships)\; finish is approximate.\n\nSchedu
@@ -2734,13 +2734,13 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401869545@football-watchlist
-DTSTAMP:20260905T144637Z
+DTSTAMP:20260905T145457Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
+LAST-MODIFIED:20260905T145457Z
+SEQUENCE:1
 DTSTART:20261205T210000Z
 DTEND:20261206T010000Z
-SUMMARY:CFB: TBD at TBD
+SUMMARY:CFB: TBD vs TBD
 DESCRIPTION:Conference championship.\n\nSEC Championship\n\nTeams: TBD at T
  BD\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window:
   3.5 hours (4 hours for championships)\; finish is approximate.\n\nSchedul
@@ -2773,13 +2773,13 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401869534@football-watchlist
-DTSTAMP:20260905T144637Z
+DTSTAMP:20260905T145457Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
+LAST-MODIFIED:20260905T145457Z
+SEQUENCE:1
 DTSTART:20261206T010000Z
 DTEND:20261206T050000Z
-SUMMARY:CFB: TBD at TBD
+SUMMARY:CFB: TBD vs TBD
 DESCRIPTION:Conference championship.\n\nBig Ten Championship\n\nTeams: TBD 
  at TBD\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing win
  dow: 3.5 hours (4 hours for championships)\; finish is approximate.\n\nSch
@@ -2871,13 +2871,13 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401862844@football-watchlist
-DTSTAMP:20260905T144637Z
+DTSTAMP:20260905T145457Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
+LAST-MODIFIED:20260905T145457Z
+SEQUENCE:1
 DTSTART:20261212T200000Z
 DTEND:20261212T233000Z
-SUMMARY:CFB: Navy at Army
+SUMMARY:CFB: Navy vs Army
 DESCRIPTION:Major rivalry: Army-Navy.\n\nTeams: Navy Midshipmen at Army Bla
  ck Knights\n\nUS broadcast: CBS. Availability elsewhere varies.\n\nViewing
   window: 3.5 hours (4 hours for championships)\; finish is approximate.\n\
