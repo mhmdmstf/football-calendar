@@ -1,5 +1,5 @@
 import fs from 'node:fs/promises';
-import { etDay, etParts, atEastern, addDays, normalize, gameEvent, nflReasons, selectCollege, stabilize, renderCalendar } from './calendar.mjs';
+import { etDay, etParts, atEastern, addDays, normalize, gameEvent, nflReasons, selectCollege, stabilize, renderCalendar, newYearCfpSlots } from './calendar.mjs';
 import { getShows } from './shows.mjs';
 
 const offline = process.argv.includes('--offline');
@@ -49,12 +49,13 @@ for(const old of previous.events.filter(e=>e.categories.includes('Pregame') && e
   }
 }
 const picks = selectCollege(college, config, shows.featuredIds, now, previous.events);
+const cfpSlots=season===2026 ? newYearCfpSlots(college,previous.events) : [];
 const generated=[];
 for(const g of nfl) { const reasons=nflReasons(g); if(reasons.length && !config.excludeGameIds.includes(g.id)) generated.push(gameEvent(g,reasons)); }
 for(const g of college) {
   const reasons=picks.get(g.id); if(!reasons) continue;
   // The Jan 1 bowl-to-time assignments are still TBA. Timed CFP slot events below replace these placeholders.
-  if(g.season===2026 && g.day==='2027-01-01' && /playoff quarterfinal/i.test(g.notes)) continue;
+  if((g.season===2026 && g.day==='2027-01-01' && /playoff quarterfinal/i.test(g.notes)) || cfpSlots.some(s=>s.assigned?.id===g.id)) continue;
   const event=gameEvent(g,reasons);
   const selectionReason=reasons.find(r=>r.startsWith('National pick:') || r==='Retained national watchlist selection.');
   if(selectionReason) {event.categories.push('National pick'); event.selectionReason=selectionReason;}
@@ -62,14 +63,12 @@ for(const g of college) {
   generated.push(event);
 }
 if(season===2026) {
-  for(const [slot,hour] of [[1,12],[2,16],[3,20]]) {
-    const start=atEastern('2027-01-01',hour);
-    const assigned=college.find(g=>g.day==='2027-01-01' && /playoff quarterfinal/i.test(g.notes) && g.timeKnown && new Date(g.date).getTime()===new Date(start).getTime());
+  for(const {uid,slot,start,assigned} of cfpSlots) {
     const event=assigned ? gameEvent(assigned,['College Football Playoff quarterfinal.']) : {
       title:`CFP quarterfinal ${slot} - bowl and teams TBA`,start,end:new Date(Date.parse(start)+3.5*3600000).toISOString(),allDay:false,
       description:'Confirmed CFP quarterfinal broadcast window. Cotton, Peach and Rose Bowl assignments will be announced December 6. This event updates with the bowl and teams when ESPN confirms the assignment. Finish is approximate.',
       location:'Venue to be announced',url:'https://collegefootballplayoff.com/news/2026/6/1/26-27-broadcast-sked',status:'CONFIRMED',categories:['College','Playoffs']};
-    generated.push({...event,uid:`cfp-2026-jan1-slot-${slot}@football-watchlist`});
+    generated.push({...event,uid});
   }
 }
 // RedZone follows each actual regular-season Sunday and uses Eastern time across DST changes.

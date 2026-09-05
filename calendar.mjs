@@ -145,3 +145,17 @@ export function stabilize(events, previous, now) {
     return {...e, hash, created: prior?.created || now, modified: same ? prior.modified : now, sequence: prior ? prior.sequence + (same ? 0 : 1) : 0};
   });
 }
+
+export function newYearCfpSlots(games, previous) {
+  const candidates = games.filter(g=>g.season===2026 && g.day==='2027-01-01' && /playoff quarterfinal/i.test(g.notes));
+  const complete = candidates.length===3 && candidates.every(g=>g.timeKnown);
+  const ordered = [...candidates].sort((a,b)=>a.date.localeCompare(b.date));
+  return [12,16,20].map((hour,i)=>{
+    const uid=`cfp-2026-jan1-slot-${i+1}@football-watchlist`;
+    const start=atEastern('2027-01-01',hour);
+    const previousId=previous.find(e=>e.uid===uid)?.gameId;
+    const assigned=(previousId && games.find(g=>g.id===previousId)) ||
+      (complete ? ordered[i] : candidates.find(g=>g.timeKnown && Date.parse(g.date)===Date.parse(start)));
+    return {uid,start,assigned,slot:i+1};
+  });
+}
