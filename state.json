@@ -107,17 +107,17 @@
       "start": "2026-09-06T20:00:00.000Z",
       "end": "2026-09-06T23:30:00.000Z",
       "allDay": false,
-      "description": "Major rivalry: Apple Cup.\n\nTeams: Washington State Cougars at Washington Huskies\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858437/washington-st-washington",
+      "description": "Major rivalry: Apple Cup.\n\nTeams: Washington State Cougars at Washington Huskies\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858437",
       "location": "Husky Stadium, Seattle, WA, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858437/washington-st-washington",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858437",
       "status": "CONFIRMED",
       "categories": [
         "College"
       ],
-      "hash": "225bd128128f972f8a696f8de05e5b85923af8ed5cf65f86e14c679975a40ed7",
+      "hash": "17a6b9168a5d7a7d5a417624fe5c1450b566793be687a471e9f9f8dd22bdbf5c",
       "created": "2026-09-05T14:52:08.096Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 0
+      "modified": "2026-09-06T22:10:02.799Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401856661@football-watchlist",

@@ -110,10 +110,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858437@football-watchlist
-DTSTAMP:20260905T145208Z
+DTSTAMP:20260906T221002Z
 CREATED:20260905T145208Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:0
+LAST-MODIFIED:20260906T221002Z
+SEQUENCE:1
 DTSTART:20260906T200000Z
 DTEND:20260906T233000Z
 SUMMARY:CFB: Washington State at Washington
@@ -121,10 +121,9 @@ DESCRIPTION:Major rivalry: Apple Cup.\n\nTeams: Washington State Cougars at
   Washington Huskies\n\nUS broadcast: NBC. Availability elsewhere varies.\n
  \nViewing window: 3.5 hours (4 hours for championships)\; finish is approx
  imate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/40
- 1858437/washington-st-washington
+ 1858437
 LOCATION:Husky Stadium\, Seattle\, WA\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858437/washingto
- n-st-washington
+URL:https://www.espn.com/college-football/game/_/gameId/401858437
 CATEGORIES:College
 STATUS:CONFIRMED
 TRANSP:OPAQUE
