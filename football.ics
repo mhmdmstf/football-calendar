@@ -281,20 +281,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:show-bignoon-2026-09-12@football-watchlist
-DTSTAMP:20260905T145208Z
+DTSTAMP:20260908T224446Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:1
+LAST-MODIFIED:20260908T224446Z
+SEQUENCE:2
 DTSTART:20260912T140000Z
 DTEND:20260912T160000Z
 SUMMARY:Big Noon Kickoff: Ann Arbor\, Michigan
 DESCRIPTION:Big Noon Kickoff on FOX. Featured game: Michigan vs. Oklahoma. 
  Broadcast window: 10:00 a.m. to noon Eastern. Broadcast schedules can chan
- ge.\nSource: https://www.foxsports.com/stories/presspass/fox-sports-unveil
- s-star-studded-2026-college-football-roster
+ ge.\nSource: https://www.foxsports.com/big-noon-kickoff-experience
 LOCATION:Ann Arbor\, Michigan
-URL:https://www.foxsports.com/stories/presspass/fox-sports-unveils-star-stu
- dded-2026-college-football-roster
+URL:https://www.foxsports.com/big-noon-kickoff-experience
 CATEGORIES:College,Pregame
 STATUS:CONFIRMED
 TRANSP:OPAQUE
