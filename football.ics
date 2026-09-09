@@ -299,18 +299,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856679@football-watchlist
-DTSTAMP:20260905T144637Z
+DTSTAMP:20260909T175156Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
+LAST-MODIFIED:20260909T175156Z
+SEQUENCE:1
 DTSTART:20260912T160000Z
 DTEND:20260912T193000Z
 SUMMARY:CFB: Oklahoma at Michigan
 DESCRIPTION:Confirmed College GameDay or Big Noon featured matchup.\n\nTeam
- s: Oklahoma Sooners at Michigan Wolverines\n\nUS broadcast: FOX. Availabil
- ity elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championsh
- ips)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-fo
- otball/game/_/gameId/401856679/oklahoma-michigan
+ s: Oklahoma Sooners at Michigan Wolverines\n\nUS broadcast: FOX / ERADM. A
+ vailability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for ch
+ ampionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/co
+ llege-football/game/_/gameId/401856679/oklahoma-michigan
 LOCATION:Michigan Stadium\, Ann Arbor\, MI\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856679/oklahoma-
  michigan
