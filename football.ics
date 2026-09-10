@@ -629,6 +629,29 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:college-football-401856802@football-watchlist
+DTSTAMP:20260910T072224Z
+CREATED:20260910T072224Z
+LAST-MODIFIED:20260910T072224Z
+SEQUENCE:0
+DTSTART:20260919T233000Z
+DTEND:20260920T030000Z
+SUMMARY:CFB: West Virginia vs Virginia
+DESCRIPTION:National pick: a ranked team in a potentially competitive game 
+ (market spread 8.5 points at selection). Upset possibility is an estimate.
+ \n\nDuke’s Mayo Classic\n\nTeams: West Virginia Mountaineers at Virginia
+  Cavaliers\n\nUS broadcast: ACC Network. Availability elsewhere varies.\n\
+ nViewing window: 3.5 hours (4 hours for championships)\; finish is approxi
+ mate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401
+ 856802/west-virginia-virginia
+LOCATION:Bank of America Stadium\, Charlotte\, NC\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856802/west-virg
+ inia-virginia
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:redzone-2026-09-20@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z

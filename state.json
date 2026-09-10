@@ -1,5 +1,5 @@
 {
-  "checkedOn": "2026-09-09",
+  "checkedOn": "2026-09-10",
   "season": 2026,
   "events": [
     {
@@ -595,6 +595,27 @@
       "hash": "154051d39c35bd97d3a02fb170ec3342e7c98a71b43aa912defa442868572761",
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856802@football-watchlist",
+      "gameId": "401856802",
+      "title": "CFB: West Virginia vs Virginia",
+      "start": "2026-09-19T23:30:00.000Z",
+      "end": "2026-09-20T03:00:00.000Z",
+      "allDay": false,
+      "description": "National pick: a ranked team in a potentially competitive game (market spread 8.5 points at selection). Upset possibility is an estimate.\n\nDuke’s Mayo Classic\n\nTeams: West Virginia Mountaineers at Virginia Cavaliers\n\nUS broadcast: ACC Network. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856802/west-virginia-virginia",
+      "location": "Bank of America Stadium, Charlotte, NC, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856802/west-virginia-virginia",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 8.5 points at selection). Upset possibility is an estimate.",
+      "hash": "bc29a36fe75c9206dd0aef6b3c794a169136ad8ae54728c80eb9c9c3536c2c85",
+      "created": "2026-09-10T07:22:24.107Z",
+      "modified": "2026-09-10T07:22:24.107Z",
       "sequence": 0
     },
     {
