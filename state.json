@@ -288,17 +288,17 @@
       "start": "2026-09-12T16:00:00.000Z",
       "end": "2026-09-12T19:30:00.000Z",
       "allDay": false,
-      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: Oklahoma Sooners at Michigan Wolverines\n\nUS broadcast: FOX / ERADM. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856679/oklahoma-michigan",
+      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: Oklahoma Sooners at Michigan Wolverines\n\nUS broadcast: FOX / ERADM. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856679",
       "location": "Michigan Stadium, Ann Arbor, MI, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856679/oklahoma-michigan",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856679",
       "status": "CONFIRMED",
       "categories": [
         "College"
       ],
-      "hash": "8bb763417a287b30e51028a5d828487241502ab6d13a69aae06457c64bbc6975",
+      "hash": "8aa6c878a99a68aa027930d12cbec8be5aafbd8df7426db3bb8ed40160029414",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-09T17:51:56.693Z",
-      "sequence": 1
+      "modified": "2026-09-12T17:16:17.397Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401856674@football-watchlist",
