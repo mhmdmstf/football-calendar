@@ -1,5 +1,5 @@
 {
-  "checkedOn": "2026-09-11",
+  "checkedOn": "2026-09-12",
   "season": 2026,
   "events": [
     {
@@ -970,6 +970,69 @@
       "hash": "1cb39ecf45b3f91d210447a4b9cffd8ad73b6a41a193435b520fed19b4b54312",
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401858249@football-watchlist",
+      "gameId": "401858249",
+      "title": "CFB: Miami at Clemson [time TBA]",
+      "start": "2026-10-03",
+      "end": "2026-10-04",
+      "allDay": true,
+      "description": "National pick: a ranked team in a potentially competitive game (market spread 7 points at selection). Upset possibility is an estimate.\n\nTeams: Miami Hurricanes at Clemson Tigers\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858249/miami-clemson",
+      "location": "Memorial Stadium (Clemson, SC), Clemson, SC, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858249/miami-clemson",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 7 points at selection). Upset possibility is an estimate.",
+      "hash": "bcde04f47b4b009424c2e11baaf705f628160381478464c01438c8160a469148",
+      "created": "2026-09-12T07:13:28.934Z",
+      "modified": "2026-09-12T07:13:28.934Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401858473@football-watchlist",
+      "gameId": "401858473",
+      "title": "CFB: Ohio State at Iowa [time TBA]",
+      "start": "2026-10-03",
+      "end": "2026-10-04",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#1 vs #21) at selection.\n\nTeams: Ohio State Buckeyes at Iowa Hawkeyes\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858473/ohio-state-iowa",
+      "location": "Kinnick Stadium, Iowa City, IA, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858473/ohio-state-iowa",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#1 vs #21) at selection.",
+      "hash": "02b85cd21f4936b70d4baf59e05f3057e2a360209e17c3a9c8f6575c3400dc59",
+      "created": "2026-09-12T07:13:28.934Z",
+      "modified": "2026-09-12T07:13:28.934Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401858478@football-watchlist",
+      "gameId": "401858478",
+      "title": "CFB: Washington at USC [time TBA]",
+      "start": "2026-10-03",
+      "end": "2026-10-04",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#14 vs #19) at selection.\n\nTeams: Washington Huskies at USC Trojans\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858478/washington-usc",
+      "location": "Los Angeles Memorial Coliseum, Los Angeles, CA, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858478/washington-usc",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#14 vs #19) at selection.",
+      "hash": "bf565f005293babc3bd970d7d93136c2eff23d877fd259cb58e478aa9c7164bc",
+      "created": "2026-09-12T07:13:28.934Z",
+      "modified": "2026-09-12T07:13:28.934Z",
       "sequence": 0
     },
     {

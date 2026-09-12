@@ -1013,6 +1013,70 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:college-football-401858249@football-watchlist
+DTSTAMP:20260912T071328Z
+CREATED:20260912T071328Z
+LAST-MODIFIED:20260912T071328Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:CFB: Miami at Clemson [time TBA]
+DESCRIPTION:National pick: a ranked team in a potentially competitive game 
+ (market spread 7 points at selection). Upset possibility is an estimate.\n
+ \nTeams: Miami Hurricanes at Clemson Tigers\n\nBroadcast to be announced.\
+ n\nKickoff has not been announced. This all-day marker will become a timed
+  event when confirmed.\n\nSchedule: https://www.espn.com/college-football/
+ game/_/gameId/401858249/miami-clemson
+LOCATION:Memorial Stadium (Clemson\, SC)\, Clemson\, SC\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858249/miami-cle
+ mson
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858473@football-watchlist
+DTSTAMP:20260912T071328Z
+CREATED:20260912T071328Z
+LAST-MODIFIED:20260912T071328Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:CFB: Ohio State at Iowa [time TBA]
+DESCRIPTION:National pick: ranked matchup (#1 vs #21) at selection.\n\nTeam
+ s: Ohio State Buckeyes at Iowa Hawkeyes\n\nBroadcast to be announced.\n\nK
+ ickoff has not been announced. This all-day marker will become a timed eve
+ nt when confirmed.\n\nSchedule: https://www.espn.com/college-football/game
+ /_/gameId/401858473/ohio-state-iowa
+LOCATION:Kinnick Stadium\, Iowa City\, IA\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858473/ohio-stat
+ e-iowa
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858478@football-watchlist
+DTSTAMP:20260912T071328Z
+CREATED:20260912T071328Z
+LAST-MODIFIED:20260912T071328Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:CFB: Washington at USC [time TBA]
+DESCRIPTION:National pick: ranked matchup (#14 vs #19) at selection.\n\nTea
+ ms: Washington Huskies at USC Trojans\n\nBroadcast to be announced.\n\nKic
+ koff has not been announced. This all-day marker will become a timed event
+  when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_
+ /gameId/401858478/washington-usc
+LOCATION:Los Angeles Memorial Coliseum\, Los Angeles\, CA\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858478/washingto
+ n-usc
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:show-gameday-2026-10-03@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
