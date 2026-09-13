@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['*.mjs', 'config.json', '.github/workflows/update.yml']
+    paths: ['*.mjs', 'config.json', '.github/workflows/update.yml', '.github/publish.sh']
 permissions:
   contents: write
 concurrency:
@@ -17,6 +17,9 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Queued runs must use the current branch, not their old event SHA.
+          ref: main
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
@@ -28,8 +31,4 @@ jobs:
         run: |
           git config user.name 'Football calendar'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add football.ics state.json status.json
-          if ! git diff --cached --quiet; then
-            git commit -m 'Refresh football calendar'
-            git push
-          fi
+          bash .github/publish.sh

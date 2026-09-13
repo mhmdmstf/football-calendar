@@ -28,6 +28,9 @@ market spreads and kickoff status. This endpoint is unofficial and has no uptime
 guarantee. A failed or incomplete game fetch leaves the last good feed published.
 The updater retries temporary HTTP, JSON, event-data and incomplete-schedule
 failures up to three times before reporting a failed run.
+Queued runs start from the latest main branch. If main changes while a run is
+publishing, it regenerates against the newer source and saved calendar state,
+then retries a normal push (up to three attempts). It never force-pushes.
 GitHub reports failed runs in its Actions tab and through account notifications.
 
 Picks use transparent rules, not live human editorial review. Each event explains
