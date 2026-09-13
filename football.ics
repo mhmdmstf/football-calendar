@@ -299,10 +299,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856679@football-watchlist
-DTSTAMP:20260912T171617Z
+DTSTAMP:20260913T110827Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260912T171617Z
-SEQUENCE:2
+LAST-MODIFIED:20260913T110827Z
+SEQUENCE:3
 DTSTART:20260912T160000Z
 DTEND:20260912T193000Z
 SUMMARY:CFB: Oklahoma at Michigan
@@ -310,9 +310,10 @@ DESCRIPTION:Confirmed College GameDay or Big Noon featured matchup.\n\nTeam
  s: Oklahoma Sooners at Michigan Wolverines\n\nUS broadcast: FOX / ERADM. A
  vailability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for ch
  ampionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/co
- llege-football/game/_/gameId/401856679
+ llege-football/game/_/gameId/401856679/oklahoma-michigan
 LOCATION:Michigan Stadium\, Ann Arbor\, MI\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856679
+URL:https://www.espn.com/college-football/game/_/gameId/401856679/oklahoma-
+ michigan
 CATEGORIES:College
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -383,12 +384,12 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856670@football-watchlist
-DTSTAMP:20260905T144637Z
+DTSTAMP:20260913T110827Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
-DTSTART:20260913T021500Z
-DTEND:20260913T054500Z
+LAST-MODIFIED:20260913T110827Z
+SEQUENCE:1
+DTSTART:20260913T023000Z
+DTEND:20260913T060000Z
 SUMMARY:CFB: Arkansas at Utah
 DESCRIPTION:National pick: a ranked team in a potentially competitive game 
  (market spread 9.5 points at selection). Upset possibility is an estimate.
@@ -587,18 +588,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858230@football-watchlist
-DTSTAMP:20260905T144637Z
+DTSTAMP:20260913T110827Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
+LAST-MODIFIED:20260913T110827Z
+SEQUENCE:1
 DTSTART:20260919T193000Z
 DTEND:20260919T230000Z
 SUMMARY:CFB: SMU at Louisville
 DESCRIPTION:National pick: ranked matchup (#19 vs #24) at selection.\n\nTea
- ms: SMU Mustangs at Louisville Cardinals\n\nBroadcast to be announced.\n\n
- Viewing window: 3.5 hours (4 hours for championships)\; finish is approxim
- ate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/4018
- 58230/smu-louisville
+ ms: SMU Mustangs at Louisville Cardinals\n\nUS broadcast: ESPN2. Availabil
+ ity elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championsh
+ ips)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-fo
+ otball/game/_/gameId/401858230/smu-louisville
 LOCATION:L&N Federal Credit Union Stadium\, Louisville\, KY\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401858230/smu-louis
  ville
