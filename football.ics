@@ -729,112 +729,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:college-football-401856696@football-watchlist
-DTSTAMP:20260905T144637Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-SUMMARY:CFB: South Carolina at Alabama [time TBA]
-DESCRIPTION:Following Alabama: every game.\n\nNIGHT: 6 - 8pm ET start\n\nTe
- ams: South Carolina Gamecocks at Alabama Crimson Tide\n\nBroadcast to be a
- nnounced.\n\nKickoff has not been announced. This all-day marker will beco
- me a timed event when confirmed.\n\nSchedule: https://www.espn.com/college
- -football/game/_/gameId/401856696/south-carolina-alabama
-LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856696/south-car
- olina-alabama
-CATEGORIES:College,Alabama
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401856700@football-watchlist
-DTSTAMP:20260905T144637Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-SUMMARY:CFB: Oklahoma at Georgia [time TBA]
-DESCRIPTION:National pick: ranked matchup (#3 vs #10) at selection.\n\nFLEX
- : 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Oklahoma Sooners at Georgia 
- Bulldogs\n\nBroadcast to be announced.\n\nKickoff has not been announced. 
- This all-day marker will become a timed event when confirmed.\n\nSchedule:
-  https://www.espn.com/college-football/game/_/gameId/401856700/oklahoma-ge
- orgia
-LOCATION:Sanford Stadium\, Athens\, GA\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856700/oklahoma-
- georgia
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401856702@football-watchlist
-DTSTAMP:20260905T144637Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-SUMMARY:CFB: Texas A&M at LSU [time TBA]
-DESCRIPTION:National pick: ranked matchup (#8 vs #11) at selection.\n\nFLEX
- : 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Texas A&M Aggies at LSU Tige
- rs\n\nBroadcast to be announced.\n\nKickoff has not been announced. This a
- ll-day marker will become a timed event when confirmed.\n\nSchedule: https
- ://www.espn.com/college-football/game/_/gameId/401856702/texas-am-lsu
-LOCATION:Tiger Stadium (LA)\, Baton Rouge\, LA\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856702/texas-am-
- lsu
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401858463@football-watchlist
-DTSTAMP:20260905T144637Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-SUMMARY:CFB: Iowa at Michigan [time TBA]
-DESCRIPTION:National pick: ranked matchup (#16 vs #22) at selection.\n\nTea
- ms: Iowa Hawkeyes at Michigan Wolverines\n\nBroadcast to be announced.\n\n
- Kickoff has not been announced. This all-day marker will become a timed ev
- ent when confirmed.\n\nSchedule: https://www.espn.com/college-football/gam
- e/_/gameId/401858463/iowa-michigan
-LOCATION:Michigan Stadium\, Ann Arbor\, MI\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858463/iowa-mich
- igan
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401858469@football-watchlist
-DTSTAMP:20260905T144637Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-SUMMARY:CFB: Oregon at USC [time TBA]
-DESCRIPTION:National pick: ranked matchup (#2 vs #14) at selection.\n\nTeam
- s: Oregon Ducks at USC Trojans\n\nBroadcast to be announced.\n\nKickoff ha
- s not been announced. This all-day marker will become a timed event when c
- onfirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId
- /401858469/oregon-usc
-LOCATION:Los Angeles Memorial Coliseum\, Los Angeles\, CA\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858469/oregon-us
- c
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:show-gameday-2026-09-26@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -874,21 +768,126 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856704@football-watchlist
-DTSTAMP:20260905T220529Z
+DTSTAMP:20260914T231237Z
 CREATED:20260905T220529Z
-LAST-MODIFIED:20260905T220529Z
-SEQUENCE:0
+LAST-MODIFIED:20260914T231237Z
+SEQUENCE:1
 DTSTART:20260926T160000Z
 DTEND:20260926T193000Z
 SUMMARY:CFB: Texas at Tennessee
 DESCRIPTION:National pick: ranked matchup (#5 vs #20) at selection.\n\nTeam
- s: Texas Longhorns at Tennessee Volunteers\n\nBroadcast to be announced.\n
- \nViewing window: 3.5 hours (4 hours for championships)\; finish is approx
- imate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/40
- 1856704/texas-tennessee
+ s: Texas Longhorns at Tennessee Volunteers\n\nUS broadcast: ABC. Availabil
+ ity elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championsh
+ ips)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-fo
+ otball/game/_/gameId/401856704/texas-tennessee
 LOCATION:Neyland Stadium\, Knoxville\, TN\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856704/texas-ten
  nessee
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856700@football-watchlist
+DTSTAMP:20260914T231237Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260914T231237Z
+SEQUENCE:1
+DTSTART:20260926T193000Z
+DTEND:20260926T230000Z
+SUMMARY:CFB: Oklahoma at Georgia
+DESCRIPTION:National pick: ranked matchup (#3 vs #10) at selection.\n\nFLEX
+ : 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Oklahoma Sooners at Georgia 
+ Bulldogs\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hou
+ rs for championships)\; finish is approximate.\n\nSchedule: https://www.es
+ pn.com/college-football/game/_/gameId/401856700/oklahoma-georgia
+LOCATION:Sanford Stadium\, Athens\, GA\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856700/oklahoma-
+ georgia
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858463@football-watchlist
+DTSTAMP:20260914T231237Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260914T231237Z
+SEQUENCE:1
+DTSTART:20260926T193000Z
+DTEND:20260926T230000Z
+SUMMARY:CFB: Iowa at Michigan
+DESCRIPTION:National pick: ranked matchup (#16 vs #22) at selection.\n\nTea
+ ms: Iowa Hawkeyes at Michigan Wolverines\n\nBroadcast to be announced.\n\n
+ Viewing window: 3.5 hours (4 hours for championships)\; finish is approxim
+ ate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/4018
+ 58463/iowa-michigan
+LOCATION:Michigan Stadium\, Ann Arbor\, MI\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858463/iowa-mich
+ igan
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856696@football-watchlist
+DTSTAMP:20260914T231237Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260914T231237Z
+SEQUENCE:1
+DTSTART:20260926T230000Z
+DTEND:20260927T023000Z
+SUMMARY:CFB: South Carolina at Alabama
+DESCRIPTION:Following Alabama: every game.\n\nTeams: South Carolina Gamecoc
+ ks at Alabama Crimson Tide\n\nUS broadcast: ESPN. Availability elsewhere v
+ aries.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish i
+ s approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/g
+ ameId/401856696/south-carolina-alabama
+LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856696/south-car
+ olina-alabama
+CATEGORIES:College,Alabama
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856702@football-watchlist
+DTSTAMP:20260914T231237Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260914T231237Z
+SEQUENCE:1
+DTSTART:20260926T233000Z
+DTEND:20260927T030000Z
+SUMMARY:CFB: Texas A&M at LSU
+DESCRIPTION:National pick: ranked matchup (#8 vs #11) at selection.\n\nTeam
+ s: Texas A&M Aggies at LSU Tigers\n\nUS broadcast: ABC. Availability elsew
+ here varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; fi
+ nish is approximate.\n\nSchedule: https://www.espn.com/college-football/ga
+ me/_/gameId/401856702/texas-am-lsu
+LOCATION:Tiger Stadium (LA)\, Baton Rouge\, LA\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856702/texas-am-
+ lsu
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858469@football-watchlist
+DTSTAMP:20260914T231237Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260914T231237Z
+SEQUENCE:1
+DTSTART:20260926T233000Z
+DTEND:20260927T030000Z
+SUMMARY:CFB: Oregon at USC
+DESCRIPTION:National pick: ranked matchup (#2 vs #14) at selection.\n\nTeam
+ s: Oregon Ducks at USC Trojans\n\nBroadcast to be announced.\n\nViewing wi
+ ndow: 3.5 hours (4 hours for championships)\; finish is approximate.\n\nSc
+ hedule: https://www.espn.com/college-football/game/_/gameId/401858469/oreg
+ on-usc
+LOCATION:Los Angeles Memorial Coliseum\, Los Angeles\, CA\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858469/oregon-us
+ c
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE

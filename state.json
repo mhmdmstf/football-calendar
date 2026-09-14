@@ -695,110 +695,6 @@
       "sequence": 1
     },
     {
-      "uid": "college-football-401856696@football-watchlist",
-      "gameId": "401856696",
-      "title": "CFB: South Carolina at Alabama [time TBA]",
-      "start": "2026-09-26",
-      "end": "2026-09-27",
-      "allDay": true,
-      "description": "Following Alabama: every game.\n\nNIGHT: 6 - 8pm ET start\n\nTeams: South Carolina Gamecocks at Alabama Crimson Tide\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856696/south-carolina-alabama",
-      "location": "Bryant-Denny Stadium, Tuscaloosa, AL, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856696/south-carolina-alabama",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "Alabama"
-      ],
-      "hash": "502a519fce5b043a7e6dbda8229611afa1a05fc7b8f91da4ba4c9565770559af",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401856700@football-watchlist",
-      "gameId": "401856700",
-      "title": "CFB: Oklahoma at Georgia [time TBA]",
-      "start": "2026-09-26",
-      "end": "2026-09-27",
-      "allDay": true,
-      "description": "National pick: ranked matchup (#3 vs #10) at selection.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Oklahoma Sooners at Georgia Bulldogs\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856700/oklahoma-georgia",
-      "location": "Sanford Stadium, Athens, GA, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856700/oklahoma-georgia",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#3 vs #10) at selection.",
-      "hash": "b72f8d7c649efb13e0f8354112e11798ff520d2f73fb8f3c1a80e43de10ff9be",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401856702@football-watchlist",
-      "gameId": "401856702",
-      "title": "CFB: Texas A&M at LSU [time TBA]",
-      "start": "2026-09-26",
-      "end": "2026-09-27",
-      "allDay": true,
-      "description": "National pick: ranked matchup (#8 vs #11) at selection.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Texas A&M Aggies at LSU Tigers\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856702/texas-am-lsu",
-      "location": "Tiger Stadium (LA), Baton Rouge, LA, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856702/texas-am-lsu",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#8 vs #11) at selection.",
-      "hash": "8d16677087d66ccc523a9c6530a03a74739933041a5076dbe1ca513ff00e0249",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401858463@football-watchlist",
-      "gameId": "401858463",
-      "title": "CFB: Iowa at Michigan [time TBA]",
-      "start": "2026-09-26",
-      "end": "2026-09-27",
-      "allDay": true,
-      "description": "National pick: ranked matchup (#16 vs #22) at selection.\n\nTeams: Iowa Hawkeyes at Michigan Wolverines\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858463/iowa-michigan",
-      "location": "Michigan Stadium, Ann Arbor, MI, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858463/iowa-michigan",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#16 vs #22) at selection.",
-      "hash": "5c6baf8ae14f3a6fc93465919b2a5a3a79ae8d89b9b4b30f7e247343a15363d8",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401858469@football-watchlist",
-      "gameId": "401858469",
-      "title": "CFB: Oregon at USC [time TBA]",
-      "start": "2026-09-26",
-      "end": "2026-09-27",
-      "allDay": true,
-      "description": "National pick: ranked matchup (#2 vs #14) at selection.\n\nTeams: Oregon Ducks at USC Trojans\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858469/oregon-usc",
-      "location": "Los Angeles Memorial Coliseum, Los Angeles, CA, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858469/oregon-usc",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#2 vs #14) at selection.",
-      "hash": "796f598ad74985ba94df970222b2747ff4b2ef1078cf3a2edcc7c322c4e67835",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
-    },
-    {
       "uid": "show-gameday-2026-09-26@football-watchlist",
       "title": "College GameDay: location TBA",
       "start": "2026-09-26T13:00:00.000Z",
@@ -843,7 +739,7 @@
       "start": "2026-09-26T16:00:00.000Z",
       "end": "2026-09-26T19:30:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#5 vs #20) at selection.\n\nTeams: Texas Longhorns at Tennessee Volunteers\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856704/texas-tennessee",
+      "description": "National pick: ranked matchup (#5 vs #20) at selection.\n\nTeams: Texas Longhorns at Tennessee Volunteers\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856704/texas-tennessee",
       "location": "Neyland Stadium, Knoxville, TN, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856704/texas-tennessee",
       "status": "CONFIRMED",
@@ -852,10 +748,114 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#5 vs #20) at selection.",
-      "hash": "a2b2e32e75e08291b422240104d05e668aab584356fc1c774457c8173b41b6c6",
+      "hash": "68bf402586ddd8bda9d7f59e21506dd31ea0a1615ff98d38b8af35fdb10aa1d2",
       "created": "2026-09-05T22:05:29.344Z",
-      "modified": "2026-09-05T22:05:29.344Z",
-      "sequence": 0
+      "modified": "2026-09-14T23:12:37.826Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401856700@football-watchlist",
+      "gameId": "401856700",
+      "title": "CFB: Oklahoma at Georgia",
+      "start": "2026-09-26T19:30:00.000Z",
+      "end": "2026-09-26T23:00:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#3 vs #10) at selection.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Oklahoma Sooners at Georgia Bulldogs\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856700/oklahoma-georgia",
+      "location": "Sanford Stadium, Athens, GA, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856700/oklahoma-georgia",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#3 vs #10) at selection.",
+      "hash": "b04b3d987125b5b3cc9c51b32223e5ca4231a8b65f0edeff5bcb34dfee925969",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-14T23:12:37.826Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401858463@football-watchlist",
+      "gameId": "401858463",
+      "title": "CFB: Iowa at Michigan",
+      "start": "2026-09-26T19:30:00.000Z",
+      "end": "2026-09-26T23:00:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#16 vs #22) at selection.\n\nTeams: Iowa Hawkeyes at Michigan Wolverines\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858463/iowa-michigan",
+      "location": "Michigan Stadium, Ann Arbor, MI, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858463/iowa-michigan",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#16 vs #22) at selection.",
+      "hash": "1b05bb2b915904dfa02289f6066ad252573bc00eda7b3ba807722d651e8f7e21",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-14T23:12:37.826Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401856696@football-watchlist",
+      "gameId": "401856696",
+      "title": "CFB: South Carolina at Alabama",
+      "start": "2026-09-26T23:00:00.000Z",
+      "end": "2026-09-27T02:30:00.000Z",
+      "allDay": false,
+      "description": "Following Alabama: every game.\n\nTeams: South Carolina Gamecocks at Alabama Crimson Tide\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856696/south-carolina-alabama",
+      "location": "Bryant-Denny Stadium, Tuscaloosa, AL, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856696/south-carolina-alabama",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "Alabama"
+      ],
+      "hash": "a8e23eaedf7cfda78f2875d64edd6635e3d3d0751fa80b9c8b29883885e6dabe",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-14T23:12:37.826Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401856702@football-watchlist",
+      "gameId": "401856702",
+      "title": "CFB: Texas A&M at LSU",
+      "start": "2026-09-26T23:30:00.000Z",
+      "end": "2026-09-27T03:00:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#8 vs #11) at selection.\n\nTeams: Texas A&M Aggies at LSU Tigers\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856702/texas-am-lsu",
+      "location": "Tiger Stadium (LA), Baton Rouge, LA, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856702/texas-am-lsu",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#8 vs #11) at selection.",
+      "hash": "a14657838d5cb706747fea708a1d123a7ef6339bda90455d812ad234ba7c171a",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-14T23:12:37.826Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401858469@football-watchlist",
+      "gameId": "401858469",
+      "title": "CFB: Oregon at USC",
+      "start": "2026-09-26T23:30:00.000Z",
+      "end": "2026-09-27T03:00:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#2 vs #14) at selection.\n\nTeams: Oregon Ducks at USC Trojans\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858469/oregon-usc",
+      "location": "Los Angeles Memorial Coliseum, Los Angeles, CA, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858469/oregon-usc",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#2 vs #14) at selection.",
+      "hash": "5b11792ba3e4de8d8bc420ad603f9059d0ff8295deb884ee48b39ff928fb9608",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-14T23:12:37.826Z",
+      "sequence": 1
     },
     {
       "uid": "redzone-2026-09-27@football-watchlist",
