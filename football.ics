@@ -788,18 +788,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856700@football-watchlist
-DTSTAMP:20260914T231237Z
+DTSTAMP:20260915T181702Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260914T231237Z
-SEQUENCE:1
+LAST-MODIFIED:20260915T181702Z
+SEQUENCE:2
 DTSTART:20260926T193000Z
 DTEND:20260926T230000Z
 SUMMARY:CFB: Oklahoma at Georgia
-DESCRIPTION:National pick: ranked matchup (#3 vs #10) at selection.\n\nFLEX
- : 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Oklahoma Sooners at Georgia 
- Bulldogs\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hou
- rs for championships)\; finish is approximate.\n\nSchedule: https://www.es
- pn.com/college-football/game/_/gameId/401856700/oklahoma-georgia
+DESCRIPTION:National pick: ranked matchup (#3 vs #10) at selection.\n\nTeam
+ s: Oklahoma Sooners at Georgia Bulldogs\n\nBroadcast to be announced.\n\nV
+ iewing window: 3.5 hours (4 hours for championships)\; finish is approxima
+ te.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/40185
+ 6700/oklahoma-georgia
 LOCATION:Sanford Stadium\, Athens\, GA\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856700/oklahoma-
  georgia

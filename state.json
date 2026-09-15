@@ -760,7 +760,7 @@
       "start": "2026-09-26T19:30:00.000Z",
       "end": "2026-09-26T23:00:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#3 vs #10) at selection.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Oklahoma Sooners at Georgia Bulldogs\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856700/oklahoma-georgia",
+      "description": "National pick: ranked matchup (#3 vs #10) at selection.\n\nTeams: Oklahoma Sooners at Georgia Bulldogs\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856700/oklahoma-georgia",
       "location": "Sanford Stadium, Athens, GA, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856700/oklahoma-georgia",
       "status": "CONFIRMED",
@@ -769,10 +769,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#3 vs #10) at selection.",
-      "hash": "b04b3d987125b5b3cc9c51b32223e5ca4231a8b65f0edeff5bcb34dfee925969",
+      "hash": "a962eddbec79dd3e0a91585270374d5e7bc8befb26ceb1493342f2c1ccc509d8",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-14T23:12:37.826Z",
-      "sequence": 1
+      "modified": "2026-09-15T18:17:02.674Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401858463@football-watchlist",
