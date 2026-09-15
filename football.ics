@@ -281,18 +281,20 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:show-bignoon-2026-09-12@football-watchlist
-DTSTAMP:20260908T224446Z
+DTSTAMP:20260915T134023Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260908T224446Z
-SEQUENCE:2
+LAST-MODIFIED:20260915T134023Z
+SEQUENCE:3
 DTSTART:20260912T140000Z
 DTEND:20260912T160000Z
 SUMMARY:Big Noon Kickoff: Ann Arbor\, Michigan
 DESCRIPTION:Big Noon Kickoff on FOX. Featured game: Michigan vs. Oklahoma. 
  Broadcast window: 10:00 a.m. to noon Eastern. Broadcast schedules can chan
- ge.\nSource: https://www.foxsports.com/big-noon-kickoff-experience
+ ge.\nSource: https://www.foxsports.com/stories/presspass/fox-sports-unveil
+ s-star-studded-2026-college-football-roster
 LOCATION:Ann Arbor\, Michigan
-URL:https://www.foxsports.com/big-noon-kickoff-experience
+URL:https://www.foxsports.com/stories/presspass/fox-sports-unveils-star-stu
+ dded-2026-college-football-roster
 CATEGORIES:College,Pregame
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -525,21 +527,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:show-bignoon-2026-09-19@football-watchlist
-DTSTAMP:20260905T145208Z
+DTSTAMP:20260915T134023Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:1
+LAST-MODIFIED:20260915T134023Z
+SEQUENCE:2
 DTSTART:20260919T140000Z
 DTEND:20260919T160000Z
 SUMMARY:Big Noon Kickoff: Wembley Stadium\, London\, United Kingdom
 DESCRIPTION:Big Noon Kickoff on FOX. Featured game: Kansas vs. Arizona Stat
  e. Broadcast window: 10:00 a.m. to noon Eastern. Broadcast schedules can c
- hange.\nSource: https://www.foxsports.com/stories/presspass/fox-sports-big
- -noon-kickoff-heads-across-pond-inaugural-union-jack-classic-from-wembley-
- stadium
+ hange.\nSource: https://www.foxsports.com/big-noon-kickoff-experience
 LOCATION:Wembley Stadium\, London\, United Kingdom
-URL:https://www.foxsports.com/stories/presspass/fox-sports-big-noon-kickoff
- -heads-across-pond-inaugural-union-jack-classic-from-wembley-stadium
+URL:https://www.foxsports.com/big-noon-kickoff-experience
 CATEGORIES:College,Pregame
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -269,17 +269,17 @@
       "end": "2026-09-12T16:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Big Noon Kickoff on FOX. Featured game: Michigan vs. Oklahoma. Broadcast window: 10:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://www.foxsports.com/big-noon-kickoff-experience",
+      "description": "Big Noon Kickoff on FOX. Featured game: Michigan vs. Oklahoma. Broadcast window: 10:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://www.foxsports.com/stories/presspass/fox-sports-unveils-star-studded-2026-college-football-roster",
       "location": "Ann Arbor, Michigan",
-      "url": "https://www.foxsports.com/big-noon-kickoff-experience",
+      "url": "https://www.foxsports.com/stories/presspass/fox-sports-unveils-star-studded-2026-college-football-roster",
       "categories": [
         "College",
         "Pregame"
       ],
-      "hash": "665068124243fd7a02451aa08693027bf6d8a494bec5ac85357837744aa032ac",
+      "hash": "7abe2f75907620123f2944bfdf61b22bf095b2582c8bbaba9400332d95bee26b",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-08T22:44:46.261Z",
-      "sequence": 2
+      "modified": "2026-09-15T13:40:23.791Z",
+      "sequence": 3
     },
     {
       "uid": "college-football-401856679@football-watchlist",
@@ -506,17 +506,17 @@
       "end": "2026-09-19T16:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Big Noon Kickoff on FOX. Featured game: Kansas vs. Arizona State. Broadcast window: 10:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://www.foxsports.com/stories/presspass/fox-sports-big-noon-kickoff-heads-across-pond-inaugural-union-jack-classic-from-wembley-stadium",
+      "description": "Big Noon Kickoff on FOX. Featured game: Kansas vs. Arizona State. Broadcast window: 10:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://www.foxsports.com/big-noon-kickoff-experience",
       "location": "Wembley Stadium, London, United Kingdom",
-      "url": "https://www.foxsports.com/stories/presspass/fox-sports-big-noon-kickoff-heads-across-pond-inaugural-union-jack-classic-from-wembley-stadium",
+      "url": "https://www.foxsports.com/big-noon-kickoff-experience",
       "categories": [
         "College",
         "Pregame"
       ],
-      "hash": "c255b3843a4a6eb97f34295e2efa856b05c230109f6899fe276105458e859233",
+      "hash": "c9cbcf49475d42c1b44a9319e6f91cbb9c1f8fd023833cd0ea36b791df233e80",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 1
+      "modified": "2026-09-15T13:40:23.791Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401856812@football-watchlist",
