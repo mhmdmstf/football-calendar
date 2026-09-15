@@ -1,5 +1,5 @@
 {
-  "checkedOn": "2026-09-14",
+  "checkedOn": "2026-09-15",
   "season": 2026,
   "events": [
     {
@@ -781,7 +781,7 @@
       "start": "2026-09-26T19:30:00.000Z",
       "end": "2026-09-26T23:00:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#16 vs #22) at selection.\n\nTeams: Iowa Hawkeyes at Michigan Wolverines\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858463/iowa-michigan",
+      "description": "National pick: ranked matchup (#16 vs #22) at selection.\n\nTeams: Iowa Hawkeyes at Michigan Wolverines\n\nUS broadcast: CBS. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858463/iowa-michigan",
       "location": "Michigan Stadium, Ann Arbor, MI, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401858463/iowa-michigan",
       "status": "CONFIRMED",
@@ -790,10 +790,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#16 vs #22) at selection.",
-      "hash": "1b05bb2b915904dfa02289f6066ad252573bc00eda7b3ba807722d651e8f7e21",
+      "hash": "e3f520182b673ad58d791f5df26e41ac0e24a30f8ee8584c63340f8604e78cd9",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-14T23:12:37.826Z",
-      "sequence": 1
+      "modified": "2026-09-15T07:52:18.364Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401856696@football-watchlist",
@@ -843,7 +843,7 @@
       "start": "2026-09-26T23:30:00.000Z",
       "end": "2026-09-27T03:00:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#2 vs #14) at selection.\n\nTeams: Oregon Ducks at USC Trojans\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858469/oregon-usc",
+      "description": "National pick: ranked matchup (#2 vs #14) at selection.\n\nTeams: Oregon Ducks at USC Trojans\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858469/oregon-usc",
       "location": "Los Angeles Memorial Coliseum, Los Angeles, CA, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401858469/oregon-usc",
       "status": "CONFIRMED",
@@ -852,10 +852,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#2 vs #14) at selection.",
-      "hash": "5b11792ba3e4de8d8bc420ad603f9059d0ff8295deb884ee48b39ff928fb9608",
+      "hash": "1d2d85ef5bcb3f7f8c197495e5d02048b1d29d083d6f208144a25e0e2c399aa6",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-14T23:12:37.826Z",
-      "sequence": 1
+      "modified": "2026-09-15T07:52:18.364Z",
+      "sequence": 2
     },
     {
       "uid": "redzone-2026-09-27@football-watchlist",

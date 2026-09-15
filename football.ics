@@ -810,18 +810,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858463@football-watchlist
-DTSTAMP:20260914T231237Z
+DTSTAMP:20260915T075218Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260914T231237Z
-SEQUENCE:1
+LAST-MODIFIED:20260915T075218Z
+SEQUENCE:2
 DTSTART:20260926T193000Z
 DTEND:20260926T230000Z
 SUMMARY:CFB: Iowa at Michigan
 DESCRIPTION:National pick: ranked matchup (#16 vs #22) at selection.\n\nTea
- ms: Iowa Hawkeyes at Michigan Wolverines\n\nBroadcast to be announced.\n\n
- Viewing window: 3.5 hours (4 hours for championships)\; finish is approxim
- ate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/4018
- 58463/iowa-michigan
+ ms: Iowa Hawkeyes at Michigan Wolverines\n\nUS broadcast: CBS. Availabilit
+ y elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championship
+ s)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-foot
+ ball/game/_/gameId/401858463/iowa-michigan
 LOCATION:Michigan Stadium\, Ann Arbor\, MI\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401858463/iowa-mich
  igan
@@ -873,18 +873,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858469@football-watchlist
-DTSTAMP:20260914T231237Z
+DTSTAMP:20260915T075218Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260914T231237Z
-SEQUENCE:1
+LAST-MODIFIED:20260915T075218Z
+SEQUENCE:2
 DTSTART:20260926T233000Z
 DTEND:20260927T030000Z
 SUMMARY:CFB: Oregon at USC
 DESCRIPTION:National pick: ranked matchup (#2 vs #14) at selection.\n\nTeam
- s: Oregon Ducks at USC Trojans\n\nBroadcast to be announced.\n\nViewing wi
- ndow: 3.5 hours (4 hours for championships)\; finish is approximate.\n\nSc
- hedule: https://www.espn.com/college-football/game/_/gameId/401858469/oreg
- on-usc
+ s: Oregon Ducks at USC Trojans\n\nUS broadcast: NBC. Availability elsewher
+ e varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; finis
+ h is approximate.\n\nSchedule: https://www.espn.com/college-football/game/
+ _/gameId/401858469/oregon-usc
 LOCATION:Los Angeles Memorial Coliseum\, Los Angeles\, CA\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401858469/oregon-us
  c
