@@ -26,6 +26,10 @@ need to be on. The feed is public and contains sports events only.
 ESPN's public schedule data supplies games, current rankings, venue, US networks,
 market spreads and kickoff status. This endpoint is unofficial and has no uptime
 guarantee. A failed or incomplete game fetch leaves the last good feed published.
+The updater reads ESPN's season calendar, fetches each regular/postseason week
+with a supported result limit, and deduplicates overlapping bowl/CFP entries.
+Every week must validate before a new feed is published. Date-range requests are
+not used because ESPN began rejecting them on September 15, 2026.
 The updater retries temporary HTTP, JSON, event-data and incomplete-schedule
 failures up to three times before reporting a failed run.
 Queued runs start from the latest main branch. If main changes while a run is

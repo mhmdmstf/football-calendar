@@ -587,18 +587,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858230@football-watchlist
-DTSTAMP:20260913T110827Z
+DTSTAMP:20260916T143845Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260913T110827Z
-SEQUENCE:1
+LAST-MODIFIED:20260916T143845Z
+SEQUENCE:2
 DTSTART:20260919T193000Z
 DTEND:20260919T230000Z
 SUMMARY:CFB: SMU at Louisville
 DESCRIPTION:National pick: ranked matchup (#19 vs #24) at selection.\n\nTea
- ms: SMU Mustangs at Louisville Cardinals\n\nUS broadcast: ESPN2. Availabil
- ity elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championsh
- ips)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-fo
- otball/game/_/gameId/401858230/smu-louisville
+ ms: SMU Mustangs at Louisville Cardinals\n\nUS broadcast: ESPN2 / ERADM. A
+ vailability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for ch
+ ampionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/co
+ llege-football/game/_/gameId/401858230/smu-louisville
 LOCATION:L&N Federal Credit Union Stadium\, Louisville\, KY\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401858230/smu-louis
  ville

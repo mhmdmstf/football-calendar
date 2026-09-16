@@ -1,5 +1,5 @@
 {
-  "checkedOn": "2026-09-15",
+  "checkedOn": "2026-09-16",
   "season": 2026,
   "events": [
     {
@@ -564,7 +564,7 @@
       "start": "2026-09-19T19:30:00.000Z",
       "end": "2026-09-19T23:00:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#19 vs #24) at selection.\n\nTeams: SMU Mustangs at Louisville Cardinals\n\nUS broadcast: ESPN2. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858230/smu-louisville",
+      "description": "National pick: ranked matchup (#19 vs #24) at selection.\n\nTeams: SMU Mustangs at Louisville Cardinals\n\nUS broadcast: ESPN2 / ERADM. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858230/smu-louisville",
       "location": "L&N Federal Credit Union Stadium, Louisville, KY, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401858230/smu-louisville",
       "status": "CONFIRMED",
@@ -573,10 +573,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#19 vs #24) at selection.",
-      "hash": "a1fb2fbcb157b2eaf909922cad63b925521b534d8b9e2929343b6e5daeb27bb3",
+      "hash": "569cc78e092b74c74377c0a4fb6efa10109b97c73568d4e4c444d20ea03d2003",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-13T11:08:27.873Z",
-      "sequence": 1
+      "modified": "2026-09-16T14:38:45.926Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401856688@football-watchlist",

@@ -1,7 +1,7 @@
 import fs from 'node:fs/promises';
 import { etDay, etParts, atEastern, addDays, gameEvent, nflReasons, selectCollege, stabilize, renderCalendar, newYearCfpSlots } from './calendar.mjs';
 import { getShows } from './shows.mjs';
-import { fetchSchedule, validateSchedule } from './schedules.mjs';
+import { fetchSeasonSchedule, validateSchedule } from './schedules.mjs';
 
 const offline = process.argv.includes('--offline');
 const now = process.env.CALENDAR_NOW || new Date().toISOString();
@@ -11,12 +11,11 @@ const config = JSON.parse(await fs.readFile('config.json', 'utf8'));
 const previous = await fs.readFile('state.json', 'utf8').then(JSON.parse).catch(e => { if(e.code === 'ENOENT') return {events:[]}; throw e; });
 await fs.mkdir('.cache', {recursive:true});
 async function schedules(league) {
-  const url = `https://site.api.espn.com/apis/site/v2/sports/football/${league}/scoreboard?dates=${season}0801-${season+1}0228&limit=1000${league === 'college-football' ? '&groups=80' : ''}`;
   if (offline) {
     const data=JSON.parse(await fs.readFile(`.cache/${league}.json`, 'utf8'));
     return validateSchedule(data,league,season,now);
   }
-  const {data,games}=await fetchSchedule(url,league,season,now);
+  const {data,games}=await fetchSeasonSchedule(league,season,now);
   await fs.writeFile(`.cache/${league}.json`,JSON.stringify(data));
   return games;
 }
