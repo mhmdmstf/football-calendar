@@ -787,6 +787,28 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:college-football-401856699@football-watchlist
+DTSTAMP:20260916T230150Z
+CREATED:20260916T230150Z
+LAST-MODIFIED:20260916T230150Z
+SEQUENCE:0
+DTSTART:20260926T193000Z
+DTEND:20260926T230000Z
+SUMMARY:CFB: Ole Miss at Florida
+DESCRIPTION:National pick: a ranked team in a potentially competitive game 
+ (market spread 1.5 points at selection). Upset possibility is an estimate.
+ \n\nTeams: Ole Miss Rebels at Florida Gators\n\nBroadcast to be announced.
+ \n\nViewing window: 3.5 hours (4 hours for championships)\; finish is appr
+ oximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/
+ 401856699/ole-miss-florida
+LOCATION:Ben Hill Griffin Stadium\, Gainesville\, FL\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856699/ole-miss-
+ florida
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:college-football-401856700@football-watchlist
 DTSTAMP:20260915T181702Z
 CREATED:20260905T144637Z
