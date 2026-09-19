@@ -525,17 +525,17 @@
       "start": "2026-09-19T16:00:00.000Z",
       "end": "2026-09-19T19:30:00.000Z",
       "allDay": false,
-      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: Arizona State Sun Devils at Kansas Jayhawks\n\nUS broadcast: FS1. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856812/arizona-st-kansas",
+      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: Arizona State Sun Devils at Kansas Jayhawks\n\nUS broadcast: FS1. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856812",
       "location": "Wembley Stadium, London, England",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856812/arizona-st-kansas",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856812",
       "status": "CONFIRMED",
       "categories": [
         "College"
       ],
-      "hash": "264b528c4b4c8bbd0d1fcc7cd34fd4ee868fd8af4308c89dc19048aa74025ff2",
+      "hash": "d1a2bc9094d070e90f6baeef9667a6c080da24be82c5d010fb4d9bbfd0743c45",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:54:57.145Z",
-      "sequence": 1
+      "modified": "2026-09-19T17:19:22.305Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401856685@football-watchlist",

@@ -545,10 +545,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856812@football-watchlist
-DTSTAMP:20260905T145457Z
+DTSTAMP:20260919T171922Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145457Z
-SEQUENCE:1
+LAST-MODIFIED:20260919T171922Z
+SEQUENCE:2
 DTSTART:20260919T160000Z
 DTEND:20260919T193000Z
 SUMMARY:CFB: Arizona State vs Kansas
@@ -556,10 +556,9 @@ DESCRIPTION:Confirmed College GameDay or Big Noon featured matchup.\n\nTeam
  s: Arizona State Sun Devils at Kansas Jayhawks\n\nUS broadcast: FS1. Avail
  ability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champi
  onships)\; finish is approximate.\n\nSchedule: https://www.espn.com/colleg
- e-football/game/_/gameId/401856812/arizona-st-kansas
+ e-football/game/_/gameId/401856812
 LOCATION:Wembley Stadium\, London\, England
-URL:https://www.espn.com/college-football/game/_/gameId/401856812/arizona-s
- t-kansas
+URL:https://www.espn.com/college-football/game/_/gameId/401856812
 CATEGORIES:College
 STATUS:CONFIRMED
 TRANSP:OPAQUE
