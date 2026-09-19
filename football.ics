@@ -545,10 +545,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856812@football-watchlist
-DTSTAMP:20260919T171922Z
+DTSTAMP:20260919T222100Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260919T171922Z
-SEQUENCE:2
+LAST-MODIFIED:20260919T222100Z
+SEQUENCE:3
 DTSTART:20260919T160000Z
 DTEND:20260919T193000Z
 SUMMARY:CFB: Arizona State vs Kansas
@@ -556,40 +556,20 @@ DESCRIPTION:Confirmed College GameDay or Big Noon featured matchup.\n\nTeam
  s: Arizona State Sun Devils at Kansas Jayhawks\n\nUS broadcast: FS1. Avail
  ability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champi
  onships)\; finish is approximate.\n\nSchedule: https://www.espn.com/colleg
- e-football/game/_/gameId/401856812
+ e-football/game/_/gameId/401856812/arizona-st-kansas
 LOCATION:Wembley Stadium\, London\, England
-URL:https://www.espn.com/college-football/game/_/gameId/401856812
+URL:https://www.espn.com/college-football/game/_/gameId/401856812/arizona-s
+ t-kansas
 CATEGORIES:College
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:college-football-401856685@football-watchlist
-DTSTAMP:20260905T144637Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
-DTSTART:20260919T193000Z
-DTEND:20260919T230000Z
-SUMMARY:CFB: Florida State at Alabama
-DESCRIPTION:Following Alabama: every game.\n\nTeams: Florida State Seminole
- s at Alabama Crimson Tide\n\nUS broadcast: ABC. Availability elsewhere var
- ies.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish is 
- approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gam
- eId/401856685/florida-st-alabama
-LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856685/florida-s
- t-alabama
-CATEGORIES:College,Alabama
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:college-football-401858230@football-watchlist
-DTSTAMP:20260916T143845Z
+DTSTAMP:20260919T222100Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260916T143845Z
-SEQUENCE:2
+LAST-MODIFIED:20260919T222100Z
+SEQUENCE:3
 DTSTART:20260919T193000Z
 DTEND:20260919T230000Z
 SUMMARY:CFB: SMU at Louisville
@@ -597,31 +577,50 @@ DESCRIPTION:National pick: ranked matchup (#19 vs #24) at selection.\n\nTea
  ms: SMU Mustangs at Louisville Cardinals\n\nUS broadcast: ESPN2 / ERADM. A
  vailability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for ch
  ampionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/co
- llege-football/game/_/gameId/401858230/smu-louisville
+ llege-football/game/_/gameId/401858230
 LOCATION:L&N Federal Credit Union Stadium\, Louisville\, KY\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858230/smu-louis
- ville
+URL:https://www.espn.com/college-football/game/_/gameId/401858230
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-822843@football-watchlist
-DTSTAMP:20260919T112059Z
-CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
+UID:college-football-401856685@football-watchlist
+DTSTAMP:20260919T222100Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260919T222100Z
 SEQUENCE:1
+DTSTART:20260919T211500Z
+DTEND:20260920T004500Z
+SUMMARY:CFB: Florida State at Alabama
+DESCRIPTION:Following Alabama: every game.\n\nTeams: Florida State Seminole
+ s at Alabama Crimson Tide\n\nUS broadcast: ABC. Availability elsewhere var
+ ies.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish is 
+ approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gam
+ eId/401856685
+LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856685
+CATEGORIES:College,Alabama
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-822843@football-watchlist
+DTSTAMP:20260919T222100Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T222100Z
+SEQUENCE:2
 DTSTART:20260919T230500Z
 DTEND:20260920T020500Z
 SUMMARY:MLB: Toronto Blue Jays at Texas Rangers
 DESCRIPTION:Two teams with live postseason stakes meet directly.\nToronto B
- lue Jays: 2 games behind the final wild-card spot.\nTexas Rangers: tied fo
- r the division lead.\nTexas Rangers: 1 game behind the final wild-card spo
- t.\nStandings snapshot: 2026-09-19.\n\nViewing window: 3 hours\; finish is
-  approximate.\n\nProbable pitchers (subject to change): José Soriano / Ca
- l Quantrill.\n\nListed broadcasts: Sportsnet / Rangers Sports Network\, pr
- esented by Progressive / TVA Sports. Availability varies by country and pr
- ovider.\n\nOfficial schedule: https://www.mlb.com/gameday/822843
+ lue Jays: 2.5 games behind the final wild-card spot.\nTexas Rangers: tied 
+ for the division lead.\nTexas Rangers: 1.5 games behind the final wild-car
+ d spot.\nStandings snapshot: 2026-09-19.\n\nViewing window: 3 hours\; fini
+ sh is approximate.\n\nProbable pitchers (subject to change): José Soriano
+  / Cal Quantrill.\n\nListed broadcasts: Sportsnet / Rangers Sports Network
+ \, presented by Progressive / TVA Sports. Availability varies by country a
+ nd provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822843
 LOCATION:Globe Life Field
 URL:https://www.mlb.com/gameday/822843
 CATEGORIES:MLB,Pennant race
@@ -692,25 +691,23 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-824546@football-watchlist
-DTSTAMP:20260919T112059Z
-CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
-DTSTART:20260920T181000Z
-DTEND:20260920T211000Z
-SUMMARY:MLB: Detroit Tigers at Chicago White Sox
-DESCRIPTION:Two teams with live postseason stakes meet directly.\nDetroit T
- igers: 5 games behind the final wild-card spot.\nChicago White Sox: 1 game
-  behind the division lead.\nChicago White Sox: 1 game ahead of the first t
- eam outside the wild cards.\nStandings snapshot: 2026-09-19.\n\nViewing wi
- ndow: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to ch
- ange): Troy Melton / Davis Martin.\n\nListed broadcasts: Chicago Sports Ne
- twork / Detroit SportsNet. Availability varies by country and provider.\n\
- nOfficial schedule: https://www.mlb.com/gameday/824546
-LOCATION:Rate Field
-URL:https://www.mlb.com/gameday/824546
-CATEGORIES:MLB,Pennant race
+UID:mlb-824381@football-watchlist
+DTSTAMP:20260919T222100Z
+CREATED:20260919T222100Z
+LAST-MODIFIED:20260919T222100Z
+SEQUENCE:0
+DTSTART:20260920T174000Z
+DTEND:20260920T204000Z
+SUMMARY:MLB: Athletics at Cleveland Guardians
+DESCRIPTION:Cleveland Guardians: lead their division by 0.5 games.\nFollowi
+ ng Cleveland Guardians.\nStandings snapshot: 2026-09-19.\n\nViewing window
+ : 3 hours\; finish is approximate.\n\nProbable pitchers (subject to change
+ ): Jack Perkins / Gavin Williams.\n\nListed broadcasts: NBCSCA / Guardians
+ .TV Presented by Progressive. Availability varies by country and provider.
+ \n\nOfficial schedule: https://www.mlb.com/gameday/824381
+LOCATION:Progressive Field
+URL:https://www.mlb.com/gameday/824381
+CATEGORIES:MLB,Pennant race,Cleveland Guardians
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -735,19 +732,20 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-824787@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260919T222100Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260919T222100Z
+SEQUENCE:2
 DTSTART:20260921T223500Z
 DTEND:20260922T013500Z
 SUMMARY:MLB: Toronto Blue Jays at Baltimore Orioles
 DESCRIPTION:Two teams with live postseason stakes meet directly.\nToronto B
- lue Jays: 2 games behind the final wild-card spot.\nBaltimore Orioles: 3 g
- ames behind the final wild-card spot.\nStandings snapshot: 2026-09-19.\n\n
- Viewing window: 3 hours\; finish is approximate.\n\nListed broadcasts: Spo
- rtsnet / TVA Sports / MASN. Availability varies by country and provider.\n
- \nOfficial schedule: https://www.mlb.com/gameday/824787
+ lue Jays: 2.5 games behind the final wild-card spot.\nBaltimore Orioles: 3
+ .5 games behind the final wild-card spot.\nStandings snapshot: 2026-09-19.
+ \n\nViewing window: 3 hours\; finish is approximate.\n\nProbable pitchers 
+ (subject to change): Trey Yesavage.\n\nListed broadcasts: Sportsnet / TVA 
+ Sports / MASN. Availability varies by country and provider.\n\nOfficial sc
+ hedule: https://www.mlb.com/gameday/824787
 LOCATION:Oriole Park at Camden Yards
 URL:https://www.mlb.com/gameday/824787
 CATEGORIES:MLB,Pennant race
@@ -817,19 +815,20 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-822842@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260919T222100Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260919T222100Z
+SEQUENCE:2
 DTSTART:20260924T183500Z
 DTEND:20260924T213500Z
 SUMMARY:MLB: New York Mets at Texas Rangers
-DESCRIPTION:Texas Rangers: tied for the division lead.\nTexas Rangers: 1 ga
- me behind the final wild-card spot.\nFollowing New York Mets.\nStandings s
- napshot: 2026-09-19.\n\nViewing window: 3 hours\; finish is approximate.\n
- \nListed broadcasts: SNY / Rangers Sports Network\, presented by Progressi
- ve. Availability varies by country and provider.\n\nOfficial schedule: htt
- ps://www.mlb.com/gameday/822842
+DESCRIPTION:Texas Rangers: tied for the division lead.\nTexas Rangers: 1.5 
+ games behind the final wild-card spot.\nFollowing New York Mets.\nStanding
+ s snapshot: 2026-09-19.\n\nViewing window: 3 hours\; finish is approximate
+ .\n\nProbable pitchers (subject to change): Zac Thornton.\n\nListed broadc
+ asts: SNY / Rangers Sports Network\, presented by Progressive. Availabilit
+ y varies by country and provider.\n\nOfficial schedule: https://www.mlb.co
+ m/gameday/822842
 LOCATION:Globe Life Field
 URL:https://www.mlb.com/gameday/822842
 CATEGORIES:MLB,Pennant race,New York Mets
@@ -857,23 +856,22 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-823491@football-watchlist
-DTSTAMP:20260919T112059Z
-CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
-DTSTART:20260925T230500Z
-DTEND:20260926T020500Z
-SUMMARY:MLB: Baltimore Orioles at New York Yankees
-DESCRIPTION:Two teams with live postseason stakes meet directly.\nBaltimore
-  Orioles: 3 games behind the final wild-card spot.\nNew York Yankees: 4 ga
- mes behind the division lead.\nStandings snapshot: 2026-09-19.\n\nViewing 
- window: 3 hours\; finish is approximate.\n\nListed broadcasts: YES / MASN.
-  Availability varies by country and provider.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/823491
-LOCATION:Yankee Stadium
-URL:https://www.mlb.com/gameday/823491
-CATEGORIES:MLB,Pennant race
+UID:mlb-824058@football-watchlist
+DTSTAMP:20260919T222100Z
+CREATED:20260919T222100Z
+LAST-MODIFIED:20260919T222100Z
+SEQUENCE:0
+DTSTART:20260925T234000Z
+DTEND:20260926T024000Z
+SUMMARY:MLB: Cleveland Guardians at Kansas City Royals
+DESCRIPTION:Cleveland Guardians: lead their division by 0.5 games.\nFollowi
+ ng Cleveland Guardians.\nStandings snapshot: 2026-09-19.\n\nViewing window
+ : 3 hours\; finish is approximate.\n\nListed broadcasts: Guardians.TV Pres
+ ented by Progressive / Royals.TV. Availability varies by country and provi
+ der.\n\nOfficial schedule: https://www.mlb.com/gameday/824058
+LOCATION:Kauffman Stadium
+URL:https://www.mlb.com/gameday/824058
+CATEGORIES:MLB,Pennant race,Cleveland Guardians
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1022,26 +1020,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-824057@football-watchlist
-DTSTAMP:20260919T112059Z
-CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
-DTSTART:20260926T231000Z
-DTEND:20260927T021000Z
-SUMMARY:MLB: Cleveland Guardians at Kansas City Royals
-DESCRIPTION:Cleveland Guardians: lead their division by 1 game.\nFollowing 
- Cleveland Guardians.\nStandings snapshot: 2026-09-19.\n\nViewing window: 3
-  hours\; finish is approximate.\n\nListed broadcasts: Guardians.TV Present
- ed by Progressive / Royals.TV. Availability varies by country and provider
- .\n\nOfficial schedule: https://www.mlb.com/gameday/824057
-LOCATION:Kauffman Stadium
-URL:https://www.mlb.com/gameday/824057
-CATEGORIES:MLB,Pennant race,Cleveland Guardians
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:college-football-401856702@football-watchlist
 DTSTAMP:20260914T231237Z
 CREATED:20260905T144637Z
@@ -1084,6 +1062,28 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-823245@football-watchlist
+DTSTAMP:20260919T222100Z
+CREATED:20260919T222100Z
+LAST-MODIFIED:20260919T222100Z
+SEQUENCE:0
+DTSTART:20260927T004000Z
+DTEND:20260927T034000Z
+SUMMARY:MLB: Arizona Diamondbacks at San Diego Padres
+DESCRIPTION:Two teams with live postseason stakes meet directly.\nArizona D
+ iamondbacks: 5 games behind the final wild-card spot.\nSan Diego Padres: 5
+  games ahead of the first team outside the wild cards.\nFollowing San Dieg
+ o Padres.\nStandings snapshot: 2026-09-19.\n\nViewing window: 3 hours\; fi
+ nish is approximate.\n\nListed broadcasts: Padres.TV Presented by UC San D
+ iego Health / DBACKS.TV. Availability varies by country and provider.\n\nO
+ fficial schedule: https://www.mlb.com/gameday/823245
+LOCATION:Petco Park
+URL:https://www.mlb.com/gameday/823245
+CATEGORIES:MLB,Pennant race,San Diego Padres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:redzone-2026-09-27@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -1103,24 +1103,23 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-823246@football-watchlist
-DTSTAMP:20260919T112059Z
-CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
-DTSTART:20260927T191000Z
-DTEND:20260927T221000Z
-SUMMARY:MLB: Arizona Diamondbacks at San Diego Padres
-DESCRIPTION:Two teams with live postseason stakes meet directly.\nArizona D
- iamondbacks: 5 games behind the final wild-card spot.\nSan Diego Padres: 5
-  games ahead of the first team outside the wild cards.\nFollowing San Dieg
- o Padres.\nStandings snapshot: 2026-09-19.\n\nViewing window: 3 hours\; fi
- nish is approximate.\n\nListed broadcasts: Padres.TV Presented by UC San D
- iego Health / DBACKS.TV. Availability varies by country and provider.\n\nO
- fficial schedule: https://www.mlb.com/gameday/823246
-LOCATION:Petco Park
-URL:https://www.mlb.com/gameday/823246
-CATEGORIES:MLB,Pennant race,San Diego Padres
+UID:mlb-823490@football-watchlist
+DTSTAMP:20260919T222100Z
+CREATED:20260919T222100Z
+LAST-MODIFIED:20260919T222100Z
+SEQUENCE:0
+DTSTART:20260927T192000Z
+DTEND:20260927T222000Z
+SUMMARY:MLB: Baltimore Orioles at New York Yankees
+DESCRIPTION:Two teams with live postseason stakes meet directly.\nBaltimore
+  Orioles: 3.5 games behind the final wild-card spot.\nNew York Yankees: 4 
+ games behind the division lead.\nStandings snapshot: 2026-09-19.\n\nViewin
+ g window: 3 hours\; finish is approximate.\n\nListed broadcasts: YES / MAS
+ N. Availability varies by country and provider.\n\nOfficial schedule: http
+ s://www.mlb.com/gameday/823490
+LOCATION:Yankee Stadium
+URL:https://www.mlb.com/gameday/823490
+CATEGORIES:MLB,Pennant race
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
