@@ -1,4 +1,4 @@
-name: Update football calendar
+name: Update Football and Friends
 on:
   schedule:
     - cron: '23 2,8,14,20 * * *'

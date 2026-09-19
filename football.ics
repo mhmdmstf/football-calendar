@@ -1,9 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Football Worth Watching//EN
+PRODID:-//Football and Friends//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Football Worth Watching
+X-WR-CALNAME:Football and Friends
 X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -607,6 +607,29 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-822843@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART:20260919T230500Z
+DTEND:20260920T020500Z
+SUMMARY:MLB: Toronto Blue Jays at Texas Rangers
+DESCRIPTION:Two teams with live postseason stakes meet directly.\nToronto B
+ lue Jays: 2 games behind the final wild-card spot.\nTexas Rangers: tied fo
+ r the division lead.\nTexas Rangers: 1 game behind the final wild-card spo
+ t.\nStandings snapshot: 2026-09-19.\n\nViewing window: 3 hours\; finish is
+  approximate.\n\nProbable pitchers (subject to change): José Soriano / Ca
+ l Quantrill.\n\nListed broadcasts: Sportsnet / Rangers Sports Network\, pr
+ esented by Progressive / TVA Sports. Availability varies by country and pr
+ ovider.\n\nOfficial schedule: https://www.mlb.com/gameday/822843
+LOCATION:Globe Life Field
+URL:https://www.mlb.com/gameday/822843
+CATEGORIES:MLB,Pennant race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:college-football-401856688@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -670,6 +693,29 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-824546@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART:20260920T181000Z
+DTEND:20260920T211000Z
+SUMMARY:MLB: Detroit Tigers at Chicago White Sox
+DESCRIPTION:Two teams with live postseason stakes meet directly.\nDetroit T
+ igers: 5 games behind the final wild-card spot.\nChicago White Sox: 1 game
+  behind the division lead.\nChicago White Sox: 1 game ahead of the first t
+ eam outside the wild cards.\nStandings snapshot: 2026-09-19.\n\nViewing wi
+ ndow: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to ch
+ ange): Troy Melton / Davis Martin.\n\nListed broadcasts: Chicago Sports Ne
+ twork / Detroit SportsNet. Availability varies by country and provider.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/824546
+LOCATION:Rate Field
+URL:https://www.mlb.com/gameday/824546
+CATEGORIES:MLB,Pennant race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nfl-401872945@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T144637Z
@@ -685,6 +731,27 @@ DESCRIPTION:Sunday Night Football.\n\nTeams: Indianapolis Colts at Kansas C
 LOCATION:Arrowhead Stadium\, Kansas City\, MO\, USA
 URL:https://www.espn.com/nfl/game/_/gameId/401872945/colts-chiefs
 CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-824787@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART:20260921T223500Z
+DTEND:20260922T013500Z
+SUMMARY:MLB: Toronto Blue Jays at Baltimore Orioles
+DESCRIPTION:Two teams with live postseason stakes meet directly.\nToronto B
+ lue Jays: 2 games behind the final wild-card spot.\nBaltimore Orioles: 3 g
+ ames behind the final wild-card spot.\nStandings snapshot: 2026-09-19.\n\n
+ Viewing window: 3 hours\; finish is approximate.\n\nListed broadcasts: Spo
+ rtsnet / TVA Sports / MASN. Availability varies by country and provider.\n
+ \nOfficial schedule: https://www.mlb.com/gameday/824787
+LOCATION:Oriole Park at Camden Yards
+URL:https://www.mlb.com/gameday/824787
+CATEGORIES:MLB,Pennant race
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -708,6 +775,69 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-823089@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART:20260923T014000Z
+DTEND:20260923T044000Z
+SUMMARY:MLB: Houston Astros at Seattle Mariners
+DESCRIPTION:Two teams with live postseason stakes meet directly.\nHouston A
+ stros: tied for the division lead.\nSeattle Mariners: 5 games behind the d
+ ivision lead.\nStandings snapshot: 2026-09-19.\n\nViewing window: 3 hours\
+ ; finish is approximate.\n\nListed broadcasts: Space City Home Network / M
+ ariners.TV. Availability varies by country and provider.\n\nOfficial sched
+ ule: https://www.mlb.com/gameday/823089
+LOCATION:T-Mobile Park
+URL:https://www.mlb.com/gameday/823089
+CATEGORIES:MLB,Pennant race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-823492@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART:20260923T230500Z
+DTEND:20260924T020500Z
+SUMMARY:MLB: Tampa Bay Rays at New York Yankees
+DESCRIPTION:Two teams with live postseason stakes meet directly.\nTampa Bay
+  Rays: lead their division by 4 games.\nNew York Yankees: 4 games behind t
+ he division lead.\nFollowing Tampa Bay Rays.\nStandings snapshot: 2026-09-
+ 19.\n\nViewing window: 3 hours\; finish is approximate.\n\nListed broadcas
+ ts: Amazon Prime Video / Rays.TV. Availability varies by country and provi
+ der.\n\nOfficial schedule: https://www.mlb.com/gameday/823492
+LOCATION:Yankee Stadium
+URL:https://www.mlb.com/gameday/823492
+CATEGORIES:MLB,Pennant race,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-822842@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART:20260924T183500Z
+DTEND:20260924T213500Z
+SUMMARY:MLB: New York Mets at Texas Rangers
+DESCRIPTION:Texas Rangers: tied for the division lead.\nTexas Rangers: 1 ga
+ me behind the final wild-card spot.\nFollowing New York Mets.\nStandings s
+ napshot: 2026-09-19.\n\nViewing window: 3 hours\; finish is approximate.\n
+ \nListed broadcasts: SNY / Rangers Sports Network\, presented by Progressi
+ ve. Availability varies by country and provider.\n\nOfficial schedule: htt
+ ps://www.mlb.com/gameday/822842
+LOCATION:Globe Life Field
+URL:https://www.mlb.com/gameday/822842
+CATEGORIES:MLB,Pennant race,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nfl-401872948@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T144637Z
@@ -724,6 +854,27 @@ DESCRIPTION:Thursday football\, including Thanksgiving.\n\nTeams: Atlanta F
 LOCATION:Lambeau Field\, Green Bay\, WI\, USA
 URL:https://www.espn.com/nfl/game/_/gameId/401872948/falcons-packers
 CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-823491@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART:20260925T230500Z
+DTEND:20260926T020500Z
+SUMMARY:MLB: Baltimore Orioles at New York Yankees
+DESCRIPTION:Two teams with live postseason stakes meet directly.\nBaltimore
+  Orioles: 3 games behind the final wild-card spot.\nNew York Yankees: 4 ga
+ mes behind the division lead.\nStandings snapshot: 2026-09-19.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nListed broadcasts: YES / MASN.
+  Availability varies by country and provider.\n\nOfficial schedule: https:
+ //www.mlb.com/gameday/823491
+LOCATION:Yankee Stadium
+URL:https://www.mlb.com/gameday/823491
+CATEGORIES:MLB,Pennant race
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -872,6 +1023,26 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-824057@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART:20260926T231000Z
+DTEND:20260927T021000Z
+SUMMARY:MLB: Cleveland Guardians at Kansas City Royals
+DESCRIPTION:Cleveland Guardians: lead their division by 1 game.\nFollowing 
+ Cleveland Guardians.\nStandings snapshot: 2026-09-19.\n\nViewing window: 3
+  hours\; finish is approximate.\n\nListed broadcasts: Guardians.TV Present
+ ed by Progressive / Royals.TV. Availability varies by country and provider
+ .\n\nOfficial schedule: https://www.mlb.com/gameday/824057
+LOCATION:Kauffman Stadium
+URL:https://www.mlb.com/gameday/824057
+CATEGORIES:MLB,Pennant race,Cleveland Guardians
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:college-football-401856702@football-watchlist
 DTSTAMP:20260914T231237Z
 CREATED:20260905T144637Z
@@ -933,6 +1104,28 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-823246@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART:20260927T191000Z
+DTEND:20260927T221000Z
+SUMMARY:MLB: Arizona Diamondbacks at San Diego Padres
+DESCRIPTION:Two teams with live postseason stakes meet directly.\nArizona D
+ iamondbacks: 5 games behind the final wild-card spot.\nSan Diego Padres: 5
+  games ahead of the first team outside the wild cards.\nFollowing San Dieg
+ o Padres.\nStandings snapshot: 2026-09-19.\n\nViewing window: 3 hours\; fi
+ nish is approximate.\n\nListed broadcasts: Padres.TV Presented by UC San D
+ iego Health / DBACKS.TV. Availability varies by country and provider.\n\nO
+ fficial schedule: https://www.mlb.com/gameday/823246
+LOCATION:Petco Park
+URL:https://www.mlb.com/gameday/823246
+CATEGORIES:MLB,Pennant race,San Diego Padres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nfl-401872960@football-watchlist
 DTSTAMP:20260905T145457Z
 CREATED:20260905T144637Z
@@ -972,6 +1165,94 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-849843@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:MLB: NL Wild Card 'B' Game 1 - NL Wild Card #2 at NL Wild Card #1 [
+ time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
+ s all-day marker will become a timed event when confirmed.\n\nListed broad
+ casts: NBC/Peacock / Universo/ Peacock. Availability varies by country and
+  provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849843
+LOCATION:NL Stadium
+URL:https://www.mlb.com/gameday/849843
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849845@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:MLB: NL Wild Card 'A' Game 1 - NL Wild Card #3 at NL #3 Seed [time 
+ TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
+ s all-day marker will become a timed event when confirmed.\n\nListed broad
+ casts: NBC/Peacock / Universo/ Peacock. Availability varies by country and
+  provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849845
+LOCATION:NL Stadium
+URL:https://www.mlb.com/gameday/849845
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849849@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:MLB: AL Wild Card 'A' Game 1 - AL Wild Card #3 at AL #3 Seed [time 
+ TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
+ s all-day marker will become a timed event when confirmed.\n\nListed broad
+ casts: NBC/Peacock / Universo/ Peacock. Availability varies by country and
+  provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849849
+LOCATION:AL Stadium
+URL:https://www.mlb.com/gameday/849849
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849851@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:MLB: AL Wild Card 'B' Game 1 - AL Wild Card #2 at AL Wild Card #1 [
+ time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
+ s all-day marker will become a timed event when confirmed.\n\nListed broad
+ casts: NBC/Peacock / Universo/ Peacock. Availability varies by country and
+  provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849851
+LOCATION:AL Stadium
+URL:https://www.mlb.com/gameday/849851
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:nfl-401872963@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T144637Z
@@ -990,6 +1271,190 @@ URL:https://www.espn.com/nfl/game/_/gameId/401872963/eagles-bears
 CATEGORIES:NFL
 STATUS:CONFIRMED
 TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849841@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:MLB: NL Wild Card 'A' Game 2 - NL Wild Card #3 at NL #3 Seed [time 
+ TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
+ s all-day marker will become a timed event when confirmed.\n\nListed broad
+ casts: NBC/Peacock / Universo/ Peacock. Availability varies by country and
+  provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849841
+LOCATION:NL Stadium
+URL:https://www.mlb.com/gameday/849841
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849842@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:MLB: NL Wild Card 'B' Game 2 - NL Wild Card #2 at NL Wild Card #1 [
+ time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
+ s all-day marker will become a timed event when confirmed.\n\nListed broad
+ casts: NBC/Peacock / Universo/ Peacock. Availability varies by country and
+  provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849842
+LOCATION:NL Stadium
+URL:https://www.mlb.com/gameday/849842
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849846@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:MLB: AL Wild Card 'A' Game 2 - AL Wild Card #3 at AL #3 Seed [time 
+ TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
+ s all-day marker will become a timed event when confirmed.\n\nListed broad
+ casts: NBC/Peacock / Universo/ Peacock. Availability varies by country and
+  provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849846
+LOCATION:AL Stadium
+URL:https://www.mlb.com/gameday/849846
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849848@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:MLB: AL Wild Card 'B' Game 2 - AL Wild Card #2 at AL Wild Card #1 [
+ time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
+ s all-day marker will become a timed event when confirmed.\n\nListed broad
+ casts: NBC/Peacock / Universo/ Peacock. Availability varies by country and
+  provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849848
+LOCATION:AL Stadium
+URL:https://www.mlb.com/gameday/849848
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849840@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:MLB: NL Wild Card 'B' Game 3 - NL Wild Card #2 at NL Wild Card #1 [
+ if necessary] [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nThis game is only played if the series requires it. I
+ t will be cancelled in this feed if no longer needed.\n\nBracket positions
+  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
+ st pitch has not been announced. This all-day marker will become a timed e
+ vent when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock
+ . Availability varies by country and provider.\n\nOfficial schedule: https
+ ://www.mlb.com/gameday/849840
+LOCATION:NL Stadium
+URL:https://www.mlb.com/gameday/849840
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849844@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:MLB: NL Wild Card 'A' Game 3 - NL Wild Card #3 at NL #3 Seed [if ne
+ cessary] [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nThis game is only played if the series requires it. I
+ t will be cancelled in this feed if no longer needed.\n\nBracket positions
+  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
+ st pitch has not been announced. This all-day marker will become a timed e
+ vent when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock
+ . Availability varies by country and provider.\n\nOfficial schedule: https
+ ://www.mlb.com/gameday/849844
+LOCATION:NL Stadium
+URL:https://www.mlb.com/gameday/849844
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849847@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:MLB: AL Wild Card 'B' Game 3 - AL Wild Card #2 at AL Wild Card #1 [
+ if necessary] [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nThis game is only played if the series requires it. I
+ t will be cancelled in this feed if no longer needed.\n\nBracket positions
+  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
+ st pitch has not been announced. This all-day marker will become a timed e
+ vent when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock
+ . Availability varies by country and provider.\n\nOfficial schedule: https
+ ://www.mlb.com/gameday/849847
+LOCATION:AL Stadium
+URL:https://www.mlb.com/gameday/849847
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849850@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:MLB: AL Wild Card 'A' Game 3 - AL Wild Card #3 at AL #3 Seed [if ne
+ cessary] [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nThis game is only played if the series requires it. I
+ t will be cancelled in this feed if no longer needed.\n\nBracket positions
+  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
+ st pitch has not been announced. This all-day marker will become a timed e
+ vent when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock
+ . Availability varies by country and provider.\n\nOfficial schedule: https
+ ://www.mlb.com/gameday/849850
+LOCATION:AL Stadium
+URL:https://www.mlb.com/gameday/849850
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401872964@football-watchlist
@@ -1097,6 +1562,92 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-849828@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:MLB: NLDS 'B' Game 1 - NL 3/6 Winner at NL #2 Seed [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
+ s all-day marker will become a timed event when confirmed.\n\nListed broad
+ casts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country 
+ and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849828
+LOCATION:NL Stadium
+URL:https://www.mlb.com/gameday/849828
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849829@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:MLB: ALDS 'B' Game 1 - AL 3/6 Winner at AL #2 Seed [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
+ s all-day marker will become a timed event when confirmed.\n\nListed broad
+ casts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varie
+ s by country and provider.\n\nOfficial schedule: https://www.mlb.com/gamed
+ ay/849829
+LOCATION:AL Stadium
+URL:https://www.mlb.com/gameday/849829
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849830@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:MLB: NLDS 'A' Game 1 - NL 4/5 Winner at NL #1 Seed [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
+ s all-day marker will become a timed event when confirmed.\n\nListed broad
+ casts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country 
+ and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849830
+LOCATION:NL Stadium
+URL:https://www.mlb.com/gameday/849830
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849835@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:MLB: ALDS 'A' Game 1 - AL 4/5 Winner at AL East Champ [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
+ s all-day marker will become a timed event when confirmed.\n\nListed broad
+ casts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varie
+ s by country and provider.\n\nOfficial schedule: https://www.mlb.com/gamed
+ ay/849835
+LOCATION:AL Stadium
+URL:https://www.mlb.com/gameday/849835
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:show-gameday-2026-10-03@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -1133,6 +1684,48 @@ URL:https://www.foxsports.com/big-noon-kickoff-experience
 CATEGORIES:College,Pregame
 STATUS:TENTATIVE
 TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849823@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:MLB: NLDS 'B' Game 2 - NL 3/6 Winner at NL #2 Seed [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
+ s all-day marker will become a timed event when confirmed.\n\nListed broad
+ casts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country 
+ and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849823
+LOCATION:NL Stadium
+URL:https://www.mlb.com/gameday/849823
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849825@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:MLB: NLDS 'A' Game 2 - NL 4/5 Winner at NL #1 Seed [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
+ s all-day marker will become a timed event when confirmed.\n\nListed broad
+ casts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country 
+ and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849825
+LOCATION:NL Stadium
+URL:https://www.mlb.com/gameday/849825
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401872965@football-watchlist
@@ -1174,6 +1767,50 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-849834@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:MLB: ALDS 'B' Game 2 - AL 3/6 Winner at AL #2 Seed [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
+ s all-day marker will become a timed event when confirmed.\n\nListed broad
+ casts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varie
+ s by country and provider.\n\nOfficial schedule: https://www.mlb.com/gamed
+ ay/849834
+LOCATION:AL Stadium
+URL:https://www.mlb.com/gameday/849834
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849839@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:MLB: ALDS 'A' Game 2 - AL 4/5 Winner at AL East Champ [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
+ s all-day marker will become a timed event when confirmed.\n\nListed broad
+ casts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varie
+ s by country and provider.\n\nOfficial schedule: https://www.mlb.com/gamed
+ ay/849839
+LOCATION:AL Stadium
+URL:https://www.mlb.com/gameday/849839
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:nfl-401872978@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T144637Z
@@ -1193,6 +1830,48 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-849819@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:MLB: NLDS 'B' Game 3 - NL #2 Seed at NL 3/6 Winner [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
+ s all-day marker will become a timed event when confirmed.\n\nListed broad
+ casts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country 
+ and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849819
+LOCATION:NL Stadium
+URL:https://www.mlb.com/gameday/849819
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849826@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:MLB: NLDS 'A' Game 3 - NL #1 Seed at NL 4/5 Winner [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
+ s all-day marker will become a timed event when confirmed.\n\nListed broad
+ casts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country 
+ and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849826
+LOCATION:NL Stadium
+URL:https://www.mlb.com/gameday/849826
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:nfl-401872979@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T144637Z
@@ -1210,6 +1889,194 @@ URL:https://www.espn.com/nfl/game/_/gameId/401872979/falcons-saints
 CATEGORIES:NFL
 STATUS:CONFIRMED
 TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849822@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:MLB: NLDS 'B' Game 4 - NL #2 Seed at NL 3/6 Winner [if necessary] [
+ time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nThis game is only played if the series requires it. I
+ t will be cancelled in this feed if no longer needed.\n\nBracket positions
+  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
+ st pitch has not been announced. This all-day marker will become a timed e
+ vent when confirmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX 
+ ONE. Availability varies by country and provider.\n\nOfficial schedule: ht
+ tps://www.mlb.com/gameday/849822
+LOCATION:NL Stadium
+URL:https://www.mlb.com/gameday/849822
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849827@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:MLB: NLDS 'A' Game 4  - NL #1 Seed at NL 4/5 Winner [if necessary] 
+ [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nThis game is only played if the series requires it. I
+ t will be cancelled in this feed if no longer needed.\n\nBracket positions
+  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
+ st pitch has not been announced. This all-day marker will become a timed e
+ vent when confirmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX 
+ ONE. Availability varies by country and provider.\n\nOfficial schedule: ht
+ tps://www.mlb.com/gameday/849827
+LOCATION:NL Stadium
+URL:https://www.mlb.com/gameday/849827
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849833@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:MLB: ALDS 'B' Game 3 - AL #2 Seed at AL 3/6 Winner [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
+ s all-day marker will become a timed event when confirmed.\n\nListed broad
+ casts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varie
+ s by country and provider.\n\nOfficial schedule: https://www.mlb.com/gamed
+ ay/849833
+LOCATION:AL Stadium
+URL:https://www.mlb.com/gameday/849833
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849838@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:MLB: ALDS 'A' Game 3 - AL East Champ at AL 4/5 Winner [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
+ s all-day marker will become a timed event when confirmed.\n\nListed broad
+ casts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varie
+ s by country and provider.\n\nOfficial schedule: https://www.mlb.com/gamed
+ ay/849838
+LOCATION:AL Stadium
+URL:https://www.mlb.com/gameday/849838
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849832@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:MLB: ALDS 'B' Game 4 - AL #2 Seed at AL 3/6 Winner [if necessary] [
+ time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nThis game is only played if the series requires it. I
+ t will be cancelled in this feed if no longer needed.\n\nBracket positions
+  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
+ st pitch has not been announced. This all-day marker will become a timed e
+ vent when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / HBO Max /
+  Univision/ TUDN. Availability varies by country and provider.\n\nOfficial
+  schedule: https://www.mlb.com/gameday/849832
+LOCATION:AL Stadium
+URL:https://www.mlb.com/gameday/849832
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849837@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:MLB: ALDS 'A' Game 4 - AL East Champ at AL 4/5 Winner [if necessary
+ ] [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nThis game is only played if the series requires it. I
+ t will be cancelled in this feed if no longer needed.\n\nBracket positions
+  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
+ st pitch has not been announced. This all-day marker will become a timed e
+ vent when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / HBO Max /
+  Univision/ TUDN. Availability varies by country and provider.\n\nOfficial
+  schedule: https://www.mlb.com/gameday/849837
+LOCATION:AL Stadium
+URL:https://www.mlb.com/gameday/849837
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849821@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:MLB: NLDS 'B' Game 5 - NL 3/6 Winner at NL #2 Seed [if necessary] [
+ time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nThis game is only played if the series requires it. I
+ t will be cancelled in this feed if no longer needed.\n\nBracket positions
+  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
+ st pitch has not been announced. This all-day marker will become a timed e
+ vent when confirmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX 
+ ONE. Availability varies by country and provider.\n\nOfficial schedule: ht
+ tps://www.mlb.com/gameday/849821
+LOCATION:NL Stadium
+URL:https://www.mlb.com/gameday/849821
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849824@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:MLB: NLDS 'A' Game 5 - NL 4/5 Winner at NL #1 Seed [if necessary] [
+ time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nThis game is only played if the series requires it. I
+ t will be cancelled in this feed if no longer needed.\n\nBracket positions
+  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
+ st pitch has not been announced. This all-day marker will become a timed e
+ vent when confirmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX 
+ ONE. Availability varies by country and provider.\n\nOfficial schedule: ht
+ tps://www.mlb.com/gameday/849824
+LOCATION:NL Stadium
+URL:https://www.mlb.com/gameday/849824
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401872980@football-watchlist
@@ -1295,6 +2162,54 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-849831@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:MLB: ALDS 'B' Game 5 - AL 3/6 Winner at AL #2 Seed [if necessary] [
+ time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nThis game is only played if the series requires it. I
+ t will be cancelled in this feed if no longer needed.\n\nBracket positions
+  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
+ st pitch has not been announced. This all-day marker will become a timed e
+ vent when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / HBO Max /
+  Univision/ TUDN. Availability varies by country and provider.\n\nOfficial
+  schedule: https://www.mlb.com/gameday/849831
+LOCATION:AL Stadium
+URL:https://www.mlb.com/gameday/849831
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849836@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:MLB: ALDS 'A' Game 5 - AL 4/5 Winner at AL East Champ [if necessary
+ ] [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nThis game is only played if the series requires it. I
+ t will be cancelled in this feed if no longer needed.\n\nBracket positions
+  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
+ st pitch has not been announced. This all-day marker will become a timed e
+ vent when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / HBO Max /
+  Univision/ TUDN. Availability varies by country and provider.\n\nOfficial
+  schedule: https://www.mlb.com/gameday/849836
+LOCATION:AL Stadium
+URL:https://www.mlb.com/gameday/849836
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:show-gameday-2026-10-10@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -1353,6 +2268,27 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-849809@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:MLB: NLCS Game 1 - NL Lower Seed at NL Higher Seed [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
+ s all-day marker will become a timed event when confirmed.\n\nListed broad
+ casts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country 
+ and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849809
+LOCATION:NL Stadium
+URL:https://www.mlb.com/gameday/849809
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:nfl-401872981@football-watchlist
 DTSTAMP:20260905T145457Z
 CREATED:20260905T144637Z
@@ -1392,6 +2328,49 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-849812@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:MLB: NLCS Game 2 - NL Lower Seed at NL Higher Seed [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
+ s all-day marker will become a timed event when confirmed.\n\nListed broad
+ casts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country 
+ and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849812
+LOCATION:NL Stadium
+URL:https://www.mlb.com/gameday/849812
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849820@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:MLB: ALCS Game 1 - AL Lower Seed at AL Higher Seed [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
+ s all-day marker will become a timed event when confirmed.\n\nListed broad
+ casts: TBS/HBO MAX / Univision/ TUDN / TruTV / HBO Max. Availability varie
+ s by country and provider.\n\nOfficial schedule: https://www.mlb.com/gamed
+ ay/849820
+LOCATION:AL Stadium
+URL:https://www.mlb.com/gameday/849820
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:nfl-401872993@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T144637Z
@@ -1411,6 +2390,28 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-849813@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:MLB: ALCS Game 2 - AL Lower Seed at AL Higher Seed [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
+ s all-day marker will become a timed event when confirmed.\n\nListed broad
+ casts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varie
+ s by country and provider.\n\nOfficial schedule: https://www.mlb.com/gamed
+ ay/849813
+LOCATION:AL Stadium
+URL:https://www.mlb.com/gameday/849813
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:nfl-401872994@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T144637Z
@@ -1428,6 +2429,116 @@ URL:https://www.espn.com/nfl/game/_/gameId/401872994/bills-rams
 CATEGORIES:NFL
 STATUS:CONFIRMED
 TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849811@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:MLB: NLCS Game 3 - NL Higher Seed at NL Lower Seed [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
+ s all-day marker will become a timed event when confirmed.\n\nListed broad
+ casts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country 
+ and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849811
+LOCATION:NL Stadium
+URL:https://www.mlb.com/gameday/849811
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849810@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:MLB: NLCS Game 4 - NL Higher Seed at NL Lower Seed [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
+ s all-day marker will become a timed event when confirmed.\n\nListed broad
+ casts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country 
+ and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849810
+LOCATION:NL Stadium
+URL:https://www.mlb.com/gameday/849810
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849818@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:MLB: ALCS Game 3 - AL Higher Seed at AL Lower Seed [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
+ s all-day marker will become a timed event when confirmed.\n\nListed broad
+ casts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varie
+ s by country and provider.\n\nOfficial schedule: https://www.mlb.com/gamed
+ ay/849818
+LOCATION:AL Stadium
+URL:https://www.mlb.com/gameday/849818
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849808@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:MLB: NLCS Game 5 - NL Higher Seed at NL Lower Seed [if necessary] [
+ time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nThis game is only played if the series requires it. I
+ t will be cancelled in this feed if no longer needed.\n\nBracket positions
+  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
+ st pitch has not been announced. This all-day marker will become a timed e
+ vent when confirmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX 
+ ONE. Availability varies by country and provider.\n\nOfficial schedule: ht
+ tps://www.mlb.com/gameday/849808
+LOCATION:NL Stadium
+URL:https://www.mlb.com/gameday/849808
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849817@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:MLB: ALCS Game 4 - AL Higher Seed at AL Lower Seed [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
+ s all-day marker will become a timed event when confirmed.\n\nListed broad
+ casts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varie
+ s by country and provider.\n\nOfficial schedule: https://www.mlb.com/gamed
+ ay/849817
+LOCATION:AL Stadium
+URL:https://www.mlb.com/gameday/849817
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401872995@football-watchlist
@@ -1493,6 +2604,30 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-849816@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:MLB: ALCS Game 5 - AL Higher Seed at AL Lower Seed [if necessary] [
+ time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nThis game is only played if the series requires it. I
+ t will be cancelled in this feed if no longer needed.\n\nBracket positions
+  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
+ st pitch has not been announced. This all-day marker will become a timed e
+ vent when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / HBO Max /
+  Univision/ TUDN. Availability varies by country and provider.\n\nOfficial
+  schedule: https://www.mlb.com/gameday/849816
+LOCATION:AL Stadium
+URL:https://www.mlb.com/gameday/849816
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:show-gameday-2026-10-17@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -1529,6 +2664,30 @@ URL:https://www.foxsports.com/big-noon-kickoff-experience
 CATEGORIES:College,Pregame
 STATUS:TENTATIVE
 TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849806@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:MLB: NLCS Game 6 - NL Lower Seed at NL Higher Seed [if necessary] [
+ time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nThis game is only played if the series requires it. I
+ t will be cancelled in this feed if no longer needed.\n\nBracket positions
+  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
+ st pitch has not been announced. This all-day marker will become a timed e
+ vent when confirmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX 
+ ONE. Availability varies by country and provider.\n\nOfficial schedule: ht
+ tps://www.mlb.com/gameday/849806
+LOCATION:NL Stadium
+URL:https://www.mlb.com/gameday/849806
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401872996@football-watchlist
@@ -1570,6 +2729,54 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-849807@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:MLB: NLCS Game 7 - NL Lower Seed at NL Higher Seed [if necessary] [
+ time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nThis game is only played if the series requires it. I
+ t will be cancelled in this feed if no longer needed.\n\nBracket positions
+  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
+ st pitch has not been announced. This all-day marker will become a timed e
+ vent when confirmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX 
+ ONE. Availability varies by country and provider.\n\nOfficial schedule: ht
+ tps://www.mlb.com/gameday/849807
+LOCATION:NL Stadium
+URL:https://www.mlb.com/gameday/849807
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849815@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:MLB: ALCS Game 6 - AL Lower Seed at AL Higher Seed [if necessary] [
+ time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nThis game is only played if the series requires it. I
+ t will be cancelled in this feed if no longer needed.\n\nBracket positions
+  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
+ st pitch has not been announced. This all-day marker will become a timed e
+ vent when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / HBO Max /
+  Univision/ TUDN. Availability varies by country and provider.\n\nOfficial
+  schedule: https://www.mlb.com/gameday/849815
+LOCATION:AL Stadium
+URL:https://www.mlb.com/gameday/849815
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:nfl-401873007@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T144637Z
@@ -1587,6 +2794,30 @@ URL:https://www.espn.com/nfl/game/_/gameId/401873007/cowboys-packers
 CATEGORIES:NFL
 STATUS:CONFIRMED
 TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849814@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:MLB: ALCS Game 7 - AL Lower Seed at AL Higher Seed [if necessary] [
+ time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nThis game is only played if the series requires it. I
+ t will be cancelled in this feed if no longer needed.\n\nBracket positions
+  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
+ st pitch has not been announced. This all-day marker will become a timed e
+ vent when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / HBO Max /
+  Univision/ TUDN. Availability varies by country and provider.\n\nOfficial
+  schedule: https://www.mlb.com/gameday/849814
+LOCATION:AL Stadium
+URL:https://www.mlb.com/gameday/849814
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401873008@football-watchlist
@@ -1607,6 +2838,28 @@ URL:https://www.espn.com/nfl/game/_/gameId/401873008/commanders-49ers
 CATEGORIES:NFL
 STATUS:CONFIRMED
 TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849805@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:MLB: World Series Game 1 - Lower Seed League Champion at Higher See
+ d League Champion [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
+ s all-day marker will become a timed event when confirmed.\n\nListed broad
+ casts: FOX/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by count
+ ry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849805
+LOCATION:TBD
+URL:https://www.mlb.com/gameday/849805
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401873010@football-watchlist
@@ -1646,6 +2899,28 @@ LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856727/texas-am-
  alabama
 CATEGORIES:College,Alabama
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849802@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:MLB: World Series Game 2 - Lower Seed League Champion at Higher See
+ d League Champion [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
+ s all-day marker will become a timed event when confirmed.\n\nListed broad
+ casts: FOX/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by count
+ ry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849802
+LOCATION:TBD
+URL:https://www.mlb.com/gameday/849802
+CATEGORIES:MLB,Playoffs
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1727,6 +3002,28 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-849804@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:MLB: World Series Game 3 - Higher Seed League Champion at Lower See
+ d League Champion [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
+ s all-day marker will become a timed event when confirmed.\n\nListed broad
+ casts: FOX/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by count
+ ry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849804
+LOCATION:TBD
+URL:https://www.mlb.com/gameday/849804
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:nfl-401873022@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T144637Z
@@ -1744,6 +3041,28 @@ URL:https://www.espn.com/nfl/game/_/gameId/401873022/chiefs-seahawks
 CATEGORIES:NFL
 STATUS:CONFIRMED
 TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849803@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:MLB: World Series Game 4 - Higher Seed League Champion at Lower See
+ d League Champion [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
+ s all-day marker will become a timed event when confirmed.\n\nListed broad
+ casts: FOX/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by count
+ ry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849803
+LOCATION:TBD
+URL:https://www.mlb.com/gameday/849803
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401873009@football-watchlist
@@ -1766,6 +3085,54 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-849799@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:MLB: World Series Game 5 - Higher Seed League Champion at Lower See
+ d League Champion [if necessary] [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nThis game is only played if the series requires it. I
+ t will be cancelled in this feed if no longer needed.\n\nBracket positions
+  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
+ st pitch has not been announced. This all-day marker will become a timed e
+ vent when confirmed.\n\nListed broadcasts: FOX/ FOX ONE / Fox Deportes / F
+ OX ONE. Availability varies by country and provider.\n\nOfficial schedule:
+  https://www.mlb.com/gameday/849799
+LOCATION:TBD
+URL:https://www.mlb.com/gameday/849799
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849801@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:MLB: World Series Game 6 - Lower Seed League Champion at Higher See
+ d League Champion [if necessary] [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nThis game is only played if the series requires it. I
+ t will be cancelled in this feed if no longer needed.\n\nBracket positions
+  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
+ st pitch has not been announced. This all-day marker will become a timed e
+ vent when confirmed.\n\nListed broadcasts: FOX/ FOX ONE / Fox Deportes / F
+ OX ONE. Availability varies by country and provider.\n\nOfficial schedule:
+  https://www.mlb.com/gameday/849801
+LOCATION:TBD
+URL:https://www.mlb.com/gameday/849801
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:nfl-401873023@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T144637Z
@@ -1784,6 +3151,30 @@ URL:https://www.espn.com/nfl/game/_/gameId/401873023/panthers-packers
 CATEGORIES:NFL
 STATUS:CONFIRMED
 TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849800@football-watchlist
+DTSTAMP:20260919T112059Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260919T112059Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:MLB: World Series Game 7 - Lower Seed League Champion at Higher See
+ d League Champion [if necessary] [time TBA]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nThis game is only played if the series requires it. I
+ t will be cancelled in this feed if no longer needed.\n\nBracket positions
+  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
+ st pitch has not been announced. This all-day marker will become a timed e
+ vent when confirmed.\n\nListed broadcasts: FOX/ FOX ONE / Fox Deportes / F
+ OX ONE. Availability varies by country and provider.\n\nOfficial schedule:
+  https://www.mlb.com/gameday/849800
+LOCATION:TBD
+URL:https://www.mlb.com/gameday/849800
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:show-gameday-2026-10-31@football-watchlist

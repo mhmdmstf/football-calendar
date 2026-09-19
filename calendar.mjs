@@ -33,7 +33,7 @@ export function foldLine(line) {
   return parts.join('\r\n');
 }
 export function renderCalendar(events, name) {
-  const lines = ['BEGIN:VCALENDAR', 'VERSION:2.0', 'PRODID:-//Football Worth Watching//EN',
+  const lines = ['BEGIN:VCALENDAR', 'VERSION:2.0', 'PRODID:-//Football and Friends//EN',
     'CALSCALE:GREGORIAN', 'METHOD:PUBLISH', `X-WR-CALNAME:${escapeText(name)}`,
     'X-WR-TIMEZONE:UTC', 'REFRESH-INTERVAL;VALUE=DURATION:PT6H', 'X-PUBLISHED-TTL:PT6H'];
   for (const e of events) {

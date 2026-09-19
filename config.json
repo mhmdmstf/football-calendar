@@ -1,5 +1,15 @@
 {
-  "name": "Football Worth Watching",
+  "name": "Football and Friends",
+  "baseball": {
+    "enabled": true,
+    "favoriteTeamIds": ["139", "121", "114", "135"],
+    "gamesPerDay": 1,
+    "gamesPerSeries": 2,
+    "selectionHorizonDays": 10,
+    "gamesBackThreshold": 5,
+    "includeGameIds": [],
+    "excludeGameIds": []
+  },
   "favoriteCollegeTeamIds": ["333"],
   "nationalGamesPerWeek": 6,
   "selectionHorizonDays": 21,

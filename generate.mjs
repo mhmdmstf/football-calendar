@@ -2,6 +2,8 @@ import fs from 'node:fs/promises';
 import { etDay, etParts, atEastern, addDays, gameEvent, nflReasons, selectCollege, stabilize, renderCalendar, newYearCfpSlots } from './calendar.mjs';
 import { getShows } from './shows.mjs';
 import { fetchSeasonSchedule, validateSchedule } from './schedules.mjs';
+import { fetchBaseballData } from './baseball-source.mjs';
+import { buildBaseballEvents, retainBaseballEvents } from './baseball.mjs';
 
 const offline = process.argv.includes('--offline');
 const now = process.env.CALENDAR_NOW || new Date().toISOString();
@@ -67,10 +69,43 @@ for(const day of sundays) generated.push({uid:`redzone-${day}@football-watchlist
   description:'Sunday afternoon NFL whip-around coverage. Seven-hour viewing block, 1-8 p.m. US Eastern; the actual finish depends on the late games. International and Sunday night games appear separately.',
   location:'NFL RedZone',url:'https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-RedZone',status:'CONFIRMED',categories:['NFL','RedZone']});
 generated.push(...shows.events);
+const warnings = [...shows.warnings];
+let baseballStatus;
+if (config.baseball?.enabled && new Date(now).getUTCMonth() >= 8 && new Date(now).getUTCMonth() <= 10) {
+  try {
+    let data;
+    if (offline) {
+      const cached = JSON.parse(await fs.readFile('.cache/baseball.json','utf8'));
+      if (cached.season !== year || !Array.isArray(cached.games) || !Array.isArray(cached.standings)) throw new Error('Invalid MLB cache');
+      data = cached;
+    } else {
+      data = await fetchBaseballData(year,now);
+      await fs.writeFile('.cache/baseball.json',JSON.stringify({season:year,...data}));
+    }
+    const baseball = buildBaseballEvents(data,config.baseball,now,previous.events);
+    generated.push(...baseball.events);
+    warnings.push(...baseball.warnings);
+    baseballStatus = {checkedOn:etDay(now),season:year,scheduleGames:data.games.length,
+      events:baseball.events.filter(e=>e.status !== 'CANCELLED').length,
+      playoffEvents:baseball.events.filter(e=>e.categories.includes('Playoffs') && e.status !== 'CANCELLED').length};
+  } catch (error) {
+    const retained = retainBaseballEvents(previous.events);
+    // On the initial setup there is no last good MLB feed to fall back to.
+    if (!retained.length) throw error;
+    generated.push(...retained);
+    baseballStatus = previous.baseball || {checkedOn:null};
+    warnings.push(`MLB refresh failed; retaining its last good events. ${error.message}`);
+  }
+} else if (config.baseball?.enabled) {
+  generated.push(...retainBaseballEvents(previous.events));
+  if(previous.baseball) baseballStatus = {...previous.baseball,active:false};
+}
 const floor=addDays(etDay(now),-60);
 // Preserve the historical watchlist. A rankings change must not rewrite a game already played.
 const merged=new Map(generated.map(e=>[e.uid,e]));
 for(const old of previous.events) {
+  // MLB handles its own history, including cancelled and unnecessary games.
+  if(old.categories.includes('MLB')) continue;
   const day=old.start.slice(0,10);
   if(day>=floor && Date.parse(old.allDay ? `${old.start}T23:59:59Z` : old.start)<Date.parse(now) && !merged.has(old.uid)) {
     const {hash,created,modified,sequence,...event}=old; merged.set(old.uid,event);
@@ -79,7 +114,8 @@ for(const old of previous.events) {
 const events=stabilize([...merged.values()].filter(e=>e.start.slice(0,10)>=floor).sort((a,b)=>a.start.localeCompare(b.start)||a.uid.localeCompare(b.uid)),previous.events,now);
 if(new Set(events.map(e=>e.uid)).size!==events.length) throw new Error('Duplicate calendar IDs');
 const ics=renderCalendar(events,config.name);
-const status={checkedOn:etDay(now),season,events:events.length,nflGames:nfl.length,collegeGames:college.length,warnings:shows.warnings};
+const status={checkedOn:etDay(now),season,events:events.length,nflGames:nfl.length,collegeGames:college.length,
+  ...(baseballStatus ? {baseball:baseballStatus} : {}),warnings};
 // All fetches, selection and validation finish before either output is replaced.
 await fs.writeFile('football.ics.tmp',ics);
 await fs.writeFile('state.json.tmp',JSON.stringify({...status,events},null,2)+'\n');
