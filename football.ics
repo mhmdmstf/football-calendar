@@ -1253,6 +1253,48 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:college-football-401856716@football-watchlist
+DTSTAMP:20260919T072420Z
+CREATED:20260919T072420Z
+LAST-MODIFIED:20260919T072420Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:CFB: Texas A&M at Missouri [time TBA]
+DESCRIPTION:National pick: ranked matchup (#9 vs #20) at selection.\n\nEARL
+ Y: Noon - 1pm ET start\n\nTeams: Texas A&M Aggies at Missouri Tigers\n\nBr
+ oadcast to be announced.\n\nKickoff has not been announced. This all-day m
+ arker will become a timed event when confirmed.\n\nSchedule: https://www.e
+ spn.com/college-football/game/_/gameId/401856716/texas-am-missouri
+LOCATION:Memorial Stadium\, Columbia\, MO\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856716/texas-am-
+ missouri
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858485@football-watchlist
+DTSTAMP:20260919T072420Z
+CREATED:20260919T072420Z
+LAST-MODIFIED:20260919T072420Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:CFB: USC at Penn State [time TBA]
+DESCRIPTION:National pick: ranked matchup (#12 vs #14) at selection.\n\nTea
+ ms: USC Trojans at Penn State Nittany Lions\n\nBroadcast to be announced.\
+ n\nKickoff has not been announced. This all-day marker will become a timed
+  event when confirmed.\n\nSchedule: https://www.espn.com/college-football/
+ game/_/gameId/401858485/usc-penn-state
+LOCATION:Beaver Stadium\, University Park\, PA\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858485/usc-penn-
+ state
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:show-gameday-2026-10-10@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z

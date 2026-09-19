@@ -1,5 +1,5 @@
 {
-  "checkedOn": "2026-09-18",
+  "checkedOn": "2026-09-19",
   "season": 2026,
   "events": [
     {
@@ -1207,6 +1207,48 @@
       "hash": "915cef6cfaf147dda640b905b343f9dd7164943c4efc96c7c6579f2675db60c4",
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856716@football-watchlist",
+      "gameId": "401856716",
+      "title": "CFB: Texas A&M at Missouri [time TBA]",
+      "start": "2026-10-10",
+      "end": "2026-10-11",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#9 vs #20) at selection.\n\nEARLY: Noon - 1pm ET start\n\nTeams: Texas A&M Aggies at Missouri Tigers\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856716/texas-am-missouri",
+      "location": "Memorial Stadium, Columbia, MO, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856716/texas-am-missouri",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#9 vs #20) at selection.",
+      "hash": "b52bde40628204f37eecd5b7db09d952d8ca8951a1e912f7780ac99e5279d779",
+      "created": "2026-09-19T07:24:20.666Z",
+      "modified": "2026-09-19T07:24:20.666Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401858485@football-watchlist",
+      "gameId": "401858485",
+      "title": "CFB: USC at Penn State [time TBA]",
+      "start": "2026-10-10",
+      "end": "2026-10-11",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#12 vs #14) at selection.\n\nTeams: USC Trojans at Penn State Nittany Lions\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858485/usc-penn-state",
+      "location": "Beaver Stadium, University Park, PA, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858485/usc-penn-state",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#12 vs #14) at selection.",
+      "hash": "f83824bb2fcd2669626ad5c21cc528dbfc5ef2232b5c50205778a1da0f45a115",
+      "created": "2026-09-19T07:24:20.666Z",
+      "modified": "2026-09-19T07:24:20.666Z",
       "sequence": 0
     },
     {
