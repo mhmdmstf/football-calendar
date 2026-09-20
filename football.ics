@@ -775,19 +775,20 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-823543@football-watchlist
-DTSTAMP:20260920T074818Z
+DTSTAMP:20260920T173103Z
 CREATED:20260920T074818Z
-LAST-MODIFIED:20260920T074818Z
-SEQUENCE:0
+LAST-MODIFIED:20260920T173103Z
+SEQUENCE:1
 DTSTART:20260922T170500Z
 DTEND:20260922T200500Z
 SUMMARY:MLB: Tampa Bay Rays at New York Yankees
 DESCRIPTION:Two teams with live postseason stakes meet directly.\nTampa Bay
   Rays: lead their division by 5 games.\nNew York Yankees: 5 games behind t
  he division lead.\nFollowing Tampa Bay Rays.\nStandings snapshot: 2026-09-
- 20.\n\nViewing window: 3 hours\; finish is approximate.\n\nListed broadcas
- ts: YES / Rays.TV. Availability varies by country and provider.\n\nOfficia
- l schedule: https://www.mlb.com/gameday/823543
+ 20.\n\nViewing window: 3 hours\; finish is approximate.\n\nProbable pitche
+ rs (subject to change): Nick Martinez.\n\nListed broadcasts: YES / Rays.TV
+ . Availability varies by country and provider.\n\nOfficial schedule: https
+ ://www.mlb.com/gameday/823543
 LOCATION:Yankee Stadium
 URL:https://www.mlb.com/gameday/823543
 CATEGORIES:MLB,Pennant race,Tampa Bay Rays
@@ -796,18 +797,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-824710@football-watchlist
-DTSTAMP:20260920T074818Z
+DTSTAMP:20260920T173103Z
 CREATED:20260920T074818Z
-LAST-MODIFIED:20260920T074818Z
-SEQUENCE:0
+LAST-MODIFIED:20260920T173103Z
+SEQUENCE:1
 DTSTART:20260923T231000Z
 DTEND:20260924T021000Z
 SUMMARY:MLB: Cleveland Guardians at Boston Red Sox
 DESCRIPTION:Cleveland Guardians: lead their division by 1 game.\nFollowing 
  Cleveland Guardians.\nStandings snapshot: 2026-09-20.\n\nViewing window: 3
-  hours\; finish is approximate.\n\nListed broadcasts: ESPN/ESPN App. Avail
- ability varies by country and provider.\n\nOfficial schedule: https://www.
- mlb.com/gameday/824710
+  hours\; finish is approximate.\n\nProbable pitchers (subject to change): 
+ Foster Griffin / Sonny Gray.\n\nListed broadcasts: ESPN/ESPN App. Availabi
+ lity varies by country and provider.\n\nOfficial schedule: https://www.mlb
+ .com/gameday/824710
 LOCATION:Fenway Park
 URL:https://www.mlb.com/gameday/824710
 CATEGORIES:MLB,Pennant race,Cleveland Guardians

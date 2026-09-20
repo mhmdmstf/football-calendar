@@ -804,7 +804,7 @@
       "start": "2026-09-22T17:05:00.000Z",
       "end": "2026-09-22T20:05:00.000Z",
       "allDay": false,
-      "description": "Two teams with live postseason stakes meet directly.\nTampa Bay Rays: lead their division by 5 games.\nNew York Yankees: 5 games behind the division lead.\nFollowing Tampa Bay Rays.\nStandings snapshot: 2026-09-20.\n\nViewing window: 3 hours; finish is approximate.\n\nListed broadcasts: YES / Rays.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823543",
+      "description": "Two teams with live postseason stakes meet directly.\nTampa Bay Rays: lead their division by 5 games.\nNew York Yankees: 5 games behind the division lead.\nFollowing Tampa Bay Rays.\nStandings snapshot: 2026-09-20.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Martinez.\n\nListed broadcasts: YES / Rays.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823543",
       "location": "Yankee Stadium",
       "url": "https://www.mlb.com/gameday/823543",
       "status": "CONFIRMED",
@@ -813,10 +813,10 @@
         "Pennant race",
         "Tampa Bay Rays"
       ],
-      "hash": "2ce8775e44ed03a80f5fbc82c1891ab6b3c1def4caa9709c0fa6137bcc1ef09d",
+      "hash": "34d97f93f49f4192a308b8ba28fb7c728544274ffa2576c97835129ff6a83c06",
       "created": "2026-09-20T07:48:18.651Z",
-      "modified": "2026-09-20T07:48:18.651Z",
-      "sequence": 0
+      "modified": "2026-09-20T17:31:03.817Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-824710@football-watchlist",
@@ -839,7 +839,7 @@
       "start": "2026-09-23T23:10:00.000Z",
       "end": "2026-09-24T02:10:00.000Z",
       "allDay": false,
-      "description": "Cleveland Guardians: lead their division by 1 game.\nFollowing Cleveland Guardians.\nStandings snapshot: 2026-09-20.\n\nViewing window: 3 hours; finish is approximate.\n\nListed broadcasts: ESPN/ESPN App. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/824710",
+      "description": "Cleveland Guardians: lead their division by 1 game.\nFollowing Cleveland Guardians.\nStandings snapshot: 2026-09-20.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Foster Griffin / Sonny Gray.\n\nListed broadcasts: ESPN/ESPN App. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/824710",
       "location": "Fenway Park",
       "url": "https://www.mlb.com/gameday/824710",
       "status": "CONFIRMED",
@@ -848,10 +848,10 @@
         "Pennant race",
         "Cleveland Guardians"
       ],
-      "hash": "ff514653aadb9ce8f3b5dd431340a7927285ba85c79bc4b7dcf99170f8fca30f",
+      "hash": "efc4fdac41581aee0fdcf4293faf21e325a4c88650d73fade3d51bc2adf5bc06",
       "created": "2026-09-20T07:48:18.651Z",
-      "modified": "2026-09-20T07:48:18.651Z",
-      "sequence": 0
+      "modified": "2026-09-20T17:31:03.817Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-822842@football-watchlist",
