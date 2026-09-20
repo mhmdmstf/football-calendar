@@ -741,7 +741,7 @@
       ],
       "selectionReasons": [
         "Two teams with live postseason stakes meet directly.",
-        "Toronto Blue Jays: 3 games behind the final wild-card spot.",
+        "Toronto Blue Jays: 2.5 games behind the final wild-card spot.",
         "Baltimore Orioles: 4 games behind the final wild-card spot.",
         "Standings snapshot: 2026-09-20."
       ],
@@ -749,7 +749,7 @@
       "start": "2026-09-21T22:35:00.000Z",
       "end": "2026-09-22T01:35:00.000Z",
       "allDay": false,
-      "description": "Two teams with live postseason stakes meet directly.\nToronto Blue Jays: 3 games behind the final wild-card spot.\nBaltimore Orioles: 4 games behind the final wild-card spot.\nStandings snapshot: 2026-09-20.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Trey Yesavage.\n\nListed broadcasts: Sportsnet / TVA Sports / MASN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/824787",
+      "description": "Two teams with live postseason stakes meet directly.\nToronto Blue Jays: 2.5 games behind the final wild-card spot.\nBaltimore Orioles: 4 games behind the final wild-card spot.\nStandings snapshot: 2026-09-20.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Trey Yesavage / Shane Baz.\n\nListed broadcasts: Sportsnet / TVA Sports / MASN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/824787",
       "location": "Oriole Park at Camden Yards",
       "url": "https://www.mlb.com/gameday/824787",
       "status": "CONFIRMED",
@@ -757,10 +757,10 @@
         "MLB",
         "Pennant race"
       ],
-      "hash": "2506feb389c18ff27706d1582e374376e4744a529e09e2f4ba415b4f08057ba7",
+      "hash": "10d949aed3152851da8ce1be498885c1db899121c31a7465cef29918d1cfffb2",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-20T07:48:18.651Z",
-      "sequence": 3
+      "modified": "2026-09-20T22:32:28.050Z",
+      "sequence": 4
     },
     {
       "uid": "nfl-401872947@football-watchlist",
@@ -782,41 +782,40 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-823543@football-watchlist",
-      "gameId": "823543",
+      "uid": "mlb-823089@football-watchlist",
+      "gameId": "823089",
       "mlbSeason": 2026,
       "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/139:51/147:51",
+      "mlbSeriesKey": "2026/R/117:51/136:51",
       "mlbSeriesGameNumber": 1,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
-        "139",
-        "147"
+        "117",
+        "136"
       ],
       "selectionReasons": [
         "Two teams with live postseason stakes meet directly.",
-        "Tampa Bay Rays: lead their division by 5 games.",
-        "New York Yankees: 5 games behind the division lead.",
-        "Following Tampa Bay Rays.",
+        "Houston Astros: 1 game behind the division lead.",
+        "Houston Astros: 2.5 games behind the final wild-card spot.",
+        "Seattle Mariners: 5 games behind the division lead.",
         "Standings snapshot: 2026-09-20."
       ],
-      "title": "MLB: Tampa Bay Rays at New York Yankees",
-      "start": "2026-09-22T17:05:00.000Z",
-      "end": "2026-09-22T20:05:00.000Z",
+      "title": "MLB: Houston Astros at Seattle Mariners",
+      "start": "2026-09-23T01:40:00.000Z",
+      "end": "2026-09-23T04:40:00.000Z",
       "allDay": false,
-      "description": "Two teams with live postseason stakes meet directly.\nTampa Bay Rays: lead their division by 5 games.\nNew York Yankees: 5 games behind the division lead.\nFollowing Tampa Bay Rays.\nStandings snapshot: 2026-09-20.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Martinez.\n\nListed broadcasts: YES / Rays.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823543",
-      "location": "Yankee Stadium",
-      "url": "https://www.mlb.com/gameday/823543",
+      "description": "Two teams with live postseason stakes meet directly.\nHouston Astros: 1 game behind the division lead.\nHouston Astros: 2.5 games behind the final wild-card spot.\nSeattle Mariners: 5 games behind the division lead.\nStandings snapshot: 2026-09-20.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Cristian Javier / Logan Gilbert.\n\nListed broadcasts: Space City Home Network / Mariners.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823089",
+      "location": "T-Mobile Park",
+      "url": "https://www.mlb.com/gameday/823089",
       "status": "CONFIRMED",
       "categories": [
         "MLB",
-        "Pennant race",
-        "Tampa Bay Rays"
+        "Pennant race"
       ],
-      "hash": "34d97f93f49f4192a308b8ba28fb7c728544274ffa2576c97835129ff6a83c06",
-      "created": "2026-09-20T07:48:18.651Z",
-      "modified": "2026-09-20T17:31:03.817Z",
-      "sequence": 1
+      "hash": "c7def859f713572d2e9ac9d9bd29855185326f95400826285e03415cd5300548",
+      "created": "2026-09-20T22:32:28.050Z",
+      "modified": "2026-09-20T22:32:28.050Z",
+      "sequence": 0
     },
     {
       "uid": "mlb-824710@football-watchlist",
@@ -831,7 +830,7 @@
         "111"
       ],
       "selectionReasons": [
-        "Cleveland Guardians: lead their division by 1 game.",
+        "Cleveland Guardians: lead their division by 1.5 games.",
         "Following Cleveland Guardians.",
         "Standings snapshot: 2026-09-20."
       ],
@@ -839,7 +838,7 @@
       "start": "2026-09-23T23:10:00.000Z",
       "end": "2026-09-24T02:10:00.000Z",
       "allDay": false,
-      "description": "Cleveland Guardians: lead their division by 1 game.\nFollowing Cleveland Guardians.\nStandings snapshot: 2026-09-20.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Foster Griffin / Sonny Gray.\n\nListed broadcasts: ESPN/ESPN App. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/824710",
+      "description": "Cleveland Guardians: lead their division by 1.5 games.\nFollowing Cleveland Guardians.\nStandings snapshot: 2026-09-20.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Foster Griffin / Sonny Gray.\n\nListed broadcasts: ESPN/ESPN App. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/824710",
       "location": "Fenway Park",
       "url": "https://www.mlb.com/gameday/824710",
       "status": "CONFIRMED",
@@ -848,10 +847,10 @@
         "Pennant race",
         "Cleveland Guardians"
       ],
-      "hash": "efc4fdac41581aee0fdcf4293faf21e325a4c88650d73fade3d51bc2adf5bc06",
+      "hash": "41a00e1dfdca09fa6c5aba818c5016be2fd087e3706e7000f68d0db08fcaa7dd",
       "created": "2026-09-20T07:48:18.651Z",
-      "modified": "2026-09-20T17:31:03.817Z",
-      "sequence": 1
+      "modified": "2026-09-20T22:32:28.050Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-822842@football-watchlist",
@@ -908,40 +907,38 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-823248@football-watchlist",
-      "gameId": "823248",
+      "uid": "mlb-824058@football-watchlist",
+      "gameId": "824058",
       "mlbSeason": 2026,
       "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/109:53/135:52",
+      "mlbSeriesKey": "2026/R/114:52/118:52",
       "mlbSeriesGameNumber": 1,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
-        "109",
-        "135"
+        "114",
+        "118"
       ],
       "selectionReasons": [
-        "Two teams with live postseason stakes meet directly.",
-        "Arizona Diamondbacks: 4 games behind the final wild-card spot.",
-        "San Diego Padres: 5 games ahead of the first team outside the wild cards.",
-        "Following San Diego Padres.",
+        "Cleveland Guardians: lead their division by 1.5 games.",
+        "Following Cleveland Guardians.",
         "Standings snapshot: 2026-09-20."
       ],
-      "title": "MLB: Arizona Diamondbacks at San Diego Padres",
-      "start": "2026-09-26T01:40:00.000Z",
-      "end": "2026-09-26T04:40:00.000Z",
+      "title": "MLB: Cleveland Guardians at Kansas City Royals",
+      "start": "2026-09-25T23:40:00.000Z",
+      "end": "2026-09-26T02:40:00.000Z",
       "allDay": false,
-      "description": "Two teams with live postseason stakes meet directly.\nArizona Diamondbacks: 4 games behind the final wild-card spot.\nSan Diego Padres: 5 games ahead of the first team outside the wild cards.\nFollowing San Diego Padres.\nStandings snapshot: 2026-09-20.\n\nViewing window: 3 hours; finish is approximate.\n\nListed broadcasts: Padres.TV Presented by UC San Diego Health / DBACKS.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823248",
-      "location": "Petco Park",
-      "url": "https://www.mlb.com/gameday/823248",
+      "description": "Cleveland Guardians: lead their division by 1.5 games.\nFollowing Cleveland Guardians.\nStandings snapshot: 2026-09-20.\n\nViewing window: 3 hours; finish is approximate.\n\nListed broadcasts: Guardians.TV Presented by Progressive / Royals.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/824058",
+      "location": "Kauffman Stadium",
+      "url": "https://www.mlb.com/gameday/824058",
       "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Pennant race",
-        "San Diego Padres"
+        "Cleveland Guardians"
       ],
-      "hash": "4acda2949232c2b396e44dfd826799c50ae1e20c51b524537270d8bc766e8ffe",
-      "created": "2026-09-20T07:48:18.651Z",
-      "modified": "2026-09-20T07:48:18.651Z",
+      "hash": "b0599dd32588cb3ef61ef61194dd48e3d9754d0485ed7bbf49df9169dff8db65",
+      "created": "2026-09-20T22:32:28.050Z",
+      "modified": "2026-09-20T22:32:28.050Z",
       "sequence": 0
     },
     {
@@ -1067,6 +1064,39 @@
       "sequence": 2
     },
     {
+      "uid": "mlb-823653@football-watchlist",
+      "gameId": "823653",
+      "mlbSeason": 2026,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2026/R/140:52/142:52",
+      "mlbSeriesGameNumber": 2,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "140",
+        "142"
+      ],
+      "selectionReasons": [
+        "Texas Rangers: lead their division by 1 game.",
+        "Standings snapshot: 2026-09-20."
+      ],
+      "title": "MLB: Texas Rangers at Minnesota Twins",
+      "start": "2026-09-26T20:10:00.000Z",
+      "end": "2026-09-26T23:10:00.000Z",
+      "allDay": false,
+      "description": "Texas Rangers: lead their division by 1 game.\nStandings snapshot: 2026-09-20.\n\nViewing window: 3 hours; finish is approximate.\n\nListed broadcasts: Rangers Sports Network, presented by Progressive / Twins.TV Presented by Progressive. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823653",
+      "location": "Target Field",
+      "url": "https://www.mlb.com/gameday/823653",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Pennant race"
+      ],
+      "hash": "ff386ce99503ef3586bf12d9cbb02044f2ce0328b1d9af72314883b4ae5aa5e2",
+      "created": "2026-09-20T22:32:28.050Z",
+      "modified": "2026-09-20T22:32:28.050Z",
+      "sequence": 0
+    },
+    {
       "uid": "college-football-401856696@football-watchlist",
       "gameId": "401856696",
       "title": "CFB: South Carolina at Alabama",
@@ -1085,41 +1115,6 @@
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-14T23:12:37.826Z",
       "sequence": 1
-    },
-    {
-      "uid": "mlb-824057@football-watchlist",
-      "gameId": "824057",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/114:52/118:52",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "114",
-        "118"
-      ],
-      "selectionReasons": [
-        "Cleveland Guardians: lead their division by 1 game.",
-        "Following Cleveland Guardians.",
-        "Standings snapshot: 2026-09-20."
-      ],
-      "title": "MLB: Cleveland Guardians at Kansas City Royals",
-      "start": "2026-09-26T23:10:00.000Z",
-      "end": "2026-09-27T02:10:00.000Z",
-      "allDay": false,
-      "description": "Cleveland Guardians: lead their division by 1 game.\nFollowing Cleveland Guardians.\nStandings snapshot: 2026-09-20.\n\nViewing window: 3 hours; finish is approximate.\n\nListed broadcasts: Guardians.TV Presented by Progressive / Royals.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/824057",
-      "location": "Kauffman Stadium",
-      "url": "https://www.mlb.com/gameday/824057",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Pennant race",
-        "Cleveland Guardians"
-      ],
-      "hash": "5234606e6a229bb8adc0972b5b5496dc345fc3fa7d55726aef5c095030c74478",
-      "created": "2026-09-20T07:48:18.651Z",
-      "modified": "2026-09-20T07:48:18.651Z",
-      "sequence": 0
     },
     {
       "uid": "college-football-401856702@football-watchlist",
@@ -1183,39 +1178,38 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-823490@football-watchlist",
-      "gameId": "823490",
+      "uid": "mlb-824948@football-watchlist",
+      "gameId": "824948",
       "mlbSeason": 2026,
       "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/110:52/147:52",
-      "mlbSeriesGameNumber": 3,
+      "mlbSeriesKey": "2026/R/117:52/133:52",
+      "mlbSeriesGameNumber": 4,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
-        "110",
-        "147"
+        "117",
+        "133"
       ],
       "selectionReasons": [
-        "Two teams with live postseason stakes meet directly.",
-        "Baltimore Orioles: 4 games behind the final wild-card spot.",
-        "New York Yankees: 5 games behind the division lead.",
+        "Houston Astros: 1 game behind the division lead.",
+        "Houston Astros: 2.5 games behind the final wild-card spot.",
         "Standings snapshot: 2026-09-20."
       ],
-      "title": "MLB: Baltimore Orioles at New York Yankees",
-      "start": "2026-09-27T19:20:00.000Z",
-      "end": "2026-09-27T22:20:00.000Z",
+      "title": "MLB: Houston Astros at Athletics",
+      "start": "2026-09-27T19:05:00.000Z",
+      "end": "2026-09-27T22:05:00.000Z",
       "allDay": false,
-      "description": "Two teams with live postseason stakes meet directly.\nBaltimore Orioles: 4 games behind the final wild-card spot.\nNew York Yankees: 5 games behind the division lead.\nStandings snapshot: 2026-09-20.\n\nViewing window: 3 hours; finish is approximate.\n\nListed broadcasts: YES / MASN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823490",
-      "location": "Yankee Stadium",
-      "url": "https://www.mlb.com/gameday/823490",
+      "description": "Houston Astros: 1 game behind the division lead.\nHouston Astros: 2.5 games behind the final wild-card spot.\nStandings snapshot: 2026-09-20.\n\nViewing window: 3 hours; finish is approximate.\n\nListed broadcasts: NBCSCA / Space City Home Network. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/824948",
+      "location": "Sutter Health Park",
+      "url": "https://www.mlb.com/gameday/824948",
       "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Pennant race"
       ],
-      "hash": "6e118501420ca8c4f76a4f7fde46de15bbb20ad957d1c8d8b9f6f6fa5781e1e5",
-      "created": "2026-09-19T22:21:00.593Z",
-      "modified": "2026-09-20T07:48:18.651Z",
-      "sequence": 1
+      "hash": "ddfb61a1af3589e56415896bc61c59d71f55b1ed189271e7c5b132e27f02f532",
+      "created": "2026-09-20T22:32:28.050Z",
+      "modified": "2026-09-20T22:32:28.050Z",
+      "sequence": 0
     },
     {
       "uid": "nfl-401872960@football-watchlist",
@@ -1695,6 +1689,27 @@
       "hash": "1cb39ecf45b3f91d210447a4b9cffd8ad73b6a41a193435b520fed19b4b54312",
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856708@football-watchlist",
+      "gameId": "401856708",
+      "title": "CFB: Florida at Missouri [time TBA]",
+      "start": "2026-10-03",
+      "end": "2026-10-04",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#19 vs #21) at selection.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Florida Gators at Missouri Tigers\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856708/florida-missouri",
+      "location": "Memorial Stadium, Columbia, MO, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856708/florida-missouri",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#19 vs #21) at selection.",
+      "hash": "332ec559f556c970f909b055f8b1c0d28a2fe1dcc540ee47b893fd6a679fa8af",
+      "created": "2026-09-20T22:32:28.050Z",
+      "modified": "2026-09-20T22:32:28.050Z",
       "sequence": 0
     },
     {
