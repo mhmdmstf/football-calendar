@@ -1030,7 +1030,7 @@
       "start": "2026-09-26T19:30:00.000Z",
       "end": "2026-09-26T23:00:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#3 vs #10) at selection.\n\nTeams: Oklahoma Sooners at Georgia Bulldogs\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856700/oklahoma-georgia",
+      "description": "National pick: ranked matchup (#3 vs #10) at selection.\n\nTeams: Oklahoma Sooners at Georgia Bulldogs\n\nUS broadcast: ESPN / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856700/oklahoma-georgia",
       "location": "Sanford Stadium, Athens, GA, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856700/oklahoma-georgia",
       "status": "CONFIRMED",
@@ -1039,10 +1039,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#3 vs #10) at selection.",
-      "hash": "9dcaa4933eec1b990f6a4925adbe75cf9eb87eaa28dfc9fc24f939e42a1f421f",
+      "hash": "a1983abf8e51b3e19a0ab28fa94d914e3fbc24e9992c380763bc2042a1d0f0f3",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-20T07:48:18.651Z",
-      "sequence": 3
+      "modified": "2026-09-21T23:22:20.381Z",
+      "sequence": 4
     },
     {
       "uid": "college-football-401858463@football-watchlist",
@@ -1696,27 +1696,6 @@
       "sequence": 0
     },
     {
-      "uid": "college-football-401856708@football-watchlist",
-      "gameId": "401856708",
-      "title": "CFB: Florida at Missouri [time TBA]",
-      "start": "2026-10-03",
-      "end": "2026-10-04",
-      "allDay": true,
-      "description": "National pick: ranked matchup (#19 vs #21) at selection.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Florida Gators at Missouri Tigers\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856708/florida-missouri",
-      "location": "Memorial Stadium, Columbia, MO, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856708/florida-missouri",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#19 vs #21) at selection.",
-      "hash": "332ec559f556c970f909b055f8b1c0d28a2fe1dcc540ee47b893fd6a679fa8af",
-      "created": "2026-09-20T22:32:28.050Z",
-      "modified": "2026-09-20T22:32:28.050Z",
-      "sequence": 0
-    },
-    {
       "uid": "college-football-401858249@football-watchlist",
       "gameId": "401858249",
       "title": "CFB: Miami at Clemson [time TBA]",
@@ -1733,48 +1712,6 @@
       ],
       "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 7 points at selection). Upset possibility is an estimate.",
       "hash": "bcde04f47b4b009424c2e11baaf705f628160381478464c01438c8160a469148",
-      "created": "2026-09-12T07:13:28.934Z",
-      "modified": "2026-09-12T07:13:28.934Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401858473@football-watchlist",
-      "gameId": "401858473",
-      "title": "CFB: Ohio State at Iowa [time TBA]",
-      "start": "2026-10-03",
-      "end": "2026-10-04",
-      "allDay": true,
-      "description": "National pick: ranked matchup (#1 vs #21) at selection.\n\nTeams: Ohio State Buckeyes at Iowa Hawkeyes\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858473/ohio-state-iowa",
-      "location": "Kinnick Stadium, Iowa City, IA, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858473/ohio-state-iowa",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#1 vs #21) at selection.",
-      "hash": "02b85cd21f4936b70d4baf59e05f3057e2a360209e17c3a9c8f6575c3400dc59",
-      "created": "2026-09-12T07:13:28.934Z",
-      "modified": "2026-09-12T07:13:28.934Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401858478@football-watchlist",
-      "gameId": "401858478",
-      "title": "CFB: Washington at USC [time TBA]",
-      "start": "2026-10-03",
-      "end": "2026-10-04",
-      "allDay": true,
-      "description": "National pick: ranked matchup (#14 vs #19) at selection.\n\nTeams: Washington Huskies at USC Trojans\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858478/washington-usc",
-      "location": "Los Angeles Memorial Coliseum, Los Angeles, CA, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858478/washington-usc",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#14 vs #19) at selection.",
-      "hash": "bf565f005293babc3bd970d7d93136c2eff23d877fd259cb58e478aa9c7164bc",
       "created": "2026-09-12T07:13:28.934Z",
       "modified": "2026-09-12T07:13:28.934Z",
       "sequence": 0
@@ -1944,6 +1881,69 @@
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-05T14:46:37.855Z",
       "sequence": 0
+    },
+    {
+      "uid": "college-football-401856708@football-watchlist",
+      "gameId": "401856708",
+      "title": "CFB: Florida at Missouri",
+      "start": "2026-10-03T19:30:00.000Z",
+      "end": "2026-10-03T23:00:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#19 vs #21) at selection.\n\nTeams: Florida Gators at Missouri Tigers\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856708/florida-missouri",
+      "location": "Memorial Stadium, Columbia, MO, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856708/florida-missouri",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#19 vs #21) at selection.",
+      "hash": "55333792c427544b9d35b1b2ef7757b08116148cfe65baca40bb96e14cddd4d7",
+      "created": "2026-09-20T22:32:28.050Z",
+      "modified": "2026-09-21T23:22:20.381Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401858473@football-watchlist",
+      "gameId": "401858473",
+      "title": "CFB: Ohio State at Iowa",
+      "start": "2026-10-03T19:30:00.000Z",
+      "end": "2026-10-03T23:00:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#1 vs #21) at selection.\n\nTeams: Ohio State Buckeyes at Iowa Hawkeyes\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858473/ohio-state-iowa",
+      "location": "Kinnick Stadium, Iowa City, IA, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858473/ohio-state-iowa",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#1 vs #21) at selection.",
+      "hash": "72f12d6b6274ae0ce1bcbce28a2c79631b3b6eb51cc6c218f07a9726fb0dede8",
+      "created": "2026-09-12T07:13:28.934Z",
+      "modified": "2026-09-21T23:22:20.381Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401858478@football-watchlist",
+      "gameId": "401858478",
+      "title": "CFB: Washington at USC",
+      "start": "2026-10-03T23:30:00.000Z",
+      "end": "2026-10-04T03:00:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#14 vs #19) at selection.\n\nTeams: Washington Huskies at USC Trojans\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858478/washington-usc",
+      "location": "Los Angeles Memorial Coliseum, Los Angeles, CA, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858478/washington-usc",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#14 vs #19) at selection.",
+      "hash": "0f95eef3fc9d820ad1b33110ceea41573c1db8fa98c490bb13f3b45c1ced5131",
+      "created": "2026-09-12T07:13:28.934Z",
+      "modified": "2026-09-21T23:22:20.381Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-849823@football-watchlist",
@@ -5862,7 +5862,7 @@
     }
   ],
   "nflGames": 285,
-  "collegeGames": 948,
+  "collegeGames": 949,
   "baseball": {
     "checkedOn": "2026-09-21",
     "season": 2026,
