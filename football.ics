@@ -527,18 +527,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:show-bignoon-2026-09-19@football-watchlist
-DTSTAMP:20260915T134023Z
+DTSTAMP:20260922T180918Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260915T134023Z
-SEQUENCE:2
+LAST-MODIFIED:20260922T180918Z
+SEQUENCE:3
 DTSTART:20260919T140000Z
 DTEND:20260919T160000Z
 SUMMARY:Big Noon Kickoff: Wembley Stadium\, London\, United Kingdom
 DESCRIPTION:Big Noon Kickoff on FOX. Featured game: Kansas vs. Arizona Stat
  e. Broadcast window: 10:00 a.m. to noon Eastern. Broadcast schedules can c
- hange.\nSource: https://www.foxsports.com/big-noon-kickoff-experience
+ hange.\nSource: https://www.foxsports.com/stories/presspass/fox-sports-big
+ -noon-kickoff-heads-across-pond-inaugural-union-jack-classic-from-wembley-
+ stadium
 LOCATION:Wembley Stadium\, London\, United Kingdom
-URL:https://www.foxsports.com/big-noon-kickoff-experience
+URL:https://www.foxsports.com/stories/presspass/fox-sports-big-noon-kickoff
+ -heads-across-pond-inaugural-union-jack-classic-from-wembley-stadium
 CATEGORIES:College,Pregame
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -901,21 +904,20 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:show-bignoon-2026-09-26@football-watchlist
-DTSTAMP:20260905T144637Z
+DTSTAMP:20260922T180918Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
+LAST-MODIFIED:20260922T180918Z
+SEQUENCE:1
 DTSTART:20260926T140000Z
 DTEND:20260926T160000Z
-SUMMARY:Big Noon Kickoff: location TBA
-DESCRIPTION:Usual Saturday broadcast window: 10:00 a.m. to noon Eastern on 
- FOX. Location and this week's broadcast hours have not been confirmed. Ten
- tative placeholder\, subject to broadcast changes.\nSource: https://www.fo
- xsports.com/big-noon-kickoff-experience
+SUMMARY:Big Noon Kickoff: Ohio State vs. Illinois
+DESCRIPTION:Big Noon Kickoff on FOX. Featured game: Ohio State vs. Illinois
+ . Broadcast window: 10:00 a.m. to noon Eastern. Broadcast schedules can ch
+ ange.\nSource: https://www.foxsports.com/big-noon-kickoff-experience
 LOCATION:
 URL:https://www.foxsports.com/big-noon-kickoff-experience
 CATEGORIES:College,Pregame
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -936,6 +938,27 @@ LOCATION:Neyland Stadium\, Knoxville\, TN\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856704/texas-ten
  nessee
 CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858465@football-watchlist
+DTSTAMP:20260922T180918Z
+CREATED:20260922T180918Z
+LAST-MODIFIED:20260922T180918Z
+SEQUENCE:0
+DTSTART:20260926T160000Z
+DTEND:20260926T193000Z
+SUMMARY:CFB: Illinois at Ohio State
+DESCRIPTION:Confirmed College GameDay or Big Noon featured matchup.\n\nTeam
+ s: Illinois Fighting Illini at Ohio State Buckeyes\n\nUS broadcast: FOX. A
+ vailability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for ch
+ ampionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/co
+ llege-football/game/_/gameId/401858465/illinois-ohio-state
+LOCATION:Ohio Stadium\, Columbus\, OH\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858465/illinois-
+ ohio-state
+CATEGORIES:College
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1666,18 +1689,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858473@football-watchlist
-DTSTAMP:20260921T232220Z
+DTSTAMP:20260922T180918Z
 CREATED:20260912T071328Z
-LAST-MODIFIED:20260921T232220Z
-SEQUENCE:1
+LAST-MODIFIED:20260922T180918Z
+SEQUENCE:2
 DTSTART:20261003T193000Z
 DTEND:20261003T230000Z
 SUMMARY:CFB: Ohio State at Iowa
 DESCRIPTION:National pick: ranked matchup (#1 vs #21) at selection.\n\nTeam
- s: Ohio State Buckeyes at Iowa Hawkeyes\n\nBroadcast to be announced.\n\nV
- iewing window: 3.5 hours (4 hours for championships)\; finish is approxima
- te.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/40185
- 8473/ohio-state-iowa
+ s: Ohio State Buckeyes at Iowa Hawkeyes\n\nUS broadcast: CBS. Availability
+  elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships
+ )\; finish is approximate.\n\nSchedule: https://www.espn.com/college-footb
+ all/game/_/gameId/401858473/ohio-state-iowa
 LOCATION:Kinnick Stadium\, Iowa City\, IA\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401858473/ohio-stat
  e-iowa
@@ -1687,18 +1710,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858478@football-watchlist
-DTSTAMP:20260921T232220Z
+DTSTAMP:20260922T180918Z
 CREATED:20260912T071328Z
-LAST-MODIFIED:20260921T232220Z
-SEQUENCE:1
+LAST-MODIFIED:20260922T180918Z
+SEQUENCE:2
 DTSTART:20261003T233000Z
 DTEND:20261004T030000Z
 SUMMARY:CFB: Washington at USC
 DESCRIPTION:National pick: ranked matchup (#14 vs #19) at selection.\n\nTea
- ms: Washington Huskies at USC Trojans\n\nBroadcast to be announced.\n\nVie
- wing window: 3.5 hours (4 hours for championships)\; finish is approximate
- .\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/4018584
- 78/washington-usc
+ ms: Washington Huskies at USC Trojans\n\nUS broadcast: NBC. Availability e
+ lsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)\
+ ; finish is approximate.\n\nSchedule: https://www.espn.com/college-footbal
+ l/game/_/gameId/401858478/washington-usc
 LOCATION:Los Angeles Memorial Coliseum\, Los Angeles\, CA\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401858478/washingto
  n-usc

@@ -506,17 +506,17 @@
       "end": "2026-09-19T16:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Big Noon Kickoff on FOX. Featured game: Kansas vs. Arizona State. Broadcast window: 10:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://www.foxsports.com/big-noon-kickoff-experience",
+      "description": "Big Noon Kickoff on FOX. Featured game: Kansas vs. Arizona State. Broadcast window: 10:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://www.foxsports.com/stories/presspass/fox-sports-big-noon-kickoff-heads-across-pond-inaugural-union-jack-classic-from-wembley-stadium",
       "location": "Wembley Stadium, London, United Kingdom",
-      "url": "https://www.foxsports.com/big-noon-kickoff-experience",
+      "url": "https://www.foxsports.com/stories/presspass/fox-sports-big-noon-kickoff-heads-across-pond-inaugural-union-jack-classic-from-wembley-stadium",
       "categories": [
         "College",
         "Pregame"
       ],
-      "hash": "c9cbcf49475d42c1b44a9319e6f91cbb9c1f8fd023833cd0ea36b791df233e80",
+      "hash": "c255b3843a4a6eb97f34295e2efa856b05c230109f6899fe276105458e859233",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-15T13:40:23.791Z",
-      "sequence": 2
+      "modified": "2026-09-22T18:09:18.369Z",
+      "sequence": 3
     },
     {
       "uid": "college-football-401856812@football-watchlist",
@@ -964,22 +964,23 @@
     },
     {
       "uid": "show-bignoon-2026-09-26@football-watchlist",
-      "title": "Big Noon Kickoff: location TBA",
+      "title": "Big Noon Kickoff: Ohio State vs. Illinois",
+      "gameId": "401858465",
       "start": "2026-09-26T14:00:00.000Z",
       "end": "2026-09-26T16:00:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Usual Saturday broadcast window: 10:00 a.m. to noon Eastern on FOX. Location and this week's broadcast hours have not been confirmed. Tentative placeholder, subject to broadcast changes.\nSource: https://www.foxsports.com/big-noon-kickoff-experience",
+      "status": "CONFIRMED",
+      "description": "Big Noon Kickoff on FOX. Featured game: Ohio State vs. Illinois. Broadcast window: 10:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://www.foxsports.com/big-noon-kickoff-experience",
       "location": "",
       "url": "https://www.foxsports.com/big-noon-kickoff-experience",
       "categories": [
         "College",
         "Pregame"
       ],
-      "hash": "2267fdbfd1e07186530e26596b01c78eb82fc3fa5ddb7e81f0a38ac0423f88da",
+      "hash": "5e01153acdb642f89f20597b8c3572da8d67eea27ecd30eba0e2c12f32bdd616",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
+      "modified": "2026-09-22T18:09:18.369Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401856704@football-watchlist",
@@ -1001,6 +1002,25 @@
       "created": "2026-09-05T22:05:29.344Z",
       "modified": "2026-09-14T23:12:37.826Z",
       "sequence": 1
+    },
+    {
+      "uid": "college-football-401858465@football-watchlist",
+      "gameId": "401858465",
+      "title": "CFB: Illinois at Ohio State",
+      "start": "2026-09-26T16:00:00.000Z",
+      "end": "2026-09-26T19:30:00.000Z",
+      "allDay": false,
+      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: Illinois Fighting Illini at Ohio State Buckeyes\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858465/illinois-ohio-state",
+      "location": "Ohio Stadium, Columbus, OH, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858465/illinois-ohio-state",
+      "status": "CONFIRMED",
+      "categories": [
+        "College"
+      ],
+      "hash": "34fb8b5f2259a68aa61b0a6a2e293b12fc7c82e628030c1fd3fb32505d5787b6",
+      "created": "2026-09-22T18:09:18.369Z",
+      "modified": "2026-09-22T18:09:18.369Z",
+      "sequence": 0
     },
     {
       "uid": "college-football-401856699@football-watchlist",
@@ -1910,7 +1930,7 @@
       "start": "2026-10-03T19:30:00.000Z",
       "end": "2026-10-03T23:00:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#1 vs #21) at selection.\n\nTeams: Ohio State Buckeyes at Iowa Hawkeyes\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858473/ohio-state-iowa",
+      "description": "National pick: ranked matchup (#1 vs #21) at selection.\n\nTeams: Ohio State Buckeyes at Iowa Hawkeyes\n\nUS broadcast: CBS. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858473/ohio-state-iowa",
       "location": "Kinnick Stadium, Iowa City, IA, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401858473/ohio-state-iowa",
       "status": "CONFIRMED",
@@ -1919,10 +1939,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#1 vs #21) at selection.",
-      "hash": "72f12d6b6274ae0ce1bcbce28a2c79631b3b6eb51cc6c218f07a9726fb0dede8",
+      "hash": "895d4d2854cd4bf4b6d7b4f9298d9edb73ca9fa5cbb36292de9aa46224b8a372",
       "created": "2026-09-12T07:13:28.934Z",
-      "modified": "2026-09-21T23:22:20.381Z",
-      "sequence": 1
+      "modified": "2026-09-22T18:09:18.369Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401858478@football-watchlist",
@@ -1931,7 +1951,7 @@
       "start": "2026-10-03T23:30:00.000Z",
       "end": "2026-10-04T03:00:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#14 vs #19) at selection.\n\nTeams: Washington Huskies at USC Trojans\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858478/washington-usc",
+      "description": "National pick: ranked matchup (#14 vs #19) at selection.\n\nTeams: Washington Huskies at USC Trojans\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858478/washington-usc",
       "location": "Los Angeles Memorial Coliseum, Los Angeles, CA, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401858478/washington-usc",
       "status": "CONFIRMED",
@@ -1940,10 +1960,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#14 vs #19) at selection.",
-      "hash": "0f95eef3fc9d820ad1b33110ceea41573c1db8fa98c490bb13f3b45c1ced5131",
+      "hash": "d0ebac14769d0d780b1ac7113b0ca34493e7fd9c439bd3d755b82997c4418339",
       "created": "2026-09-12T07:13:28.934Z",
-      "modified": "2026-09-21T23:22:20.381Z",
-      "sequence": 1
+      "modified": "2026-09-22T18:09:18.369Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-849823@football-watchlist",
