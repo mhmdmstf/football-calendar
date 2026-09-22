@@ -1255,14 +1255,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849851@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260922T230154Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260922T230154Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-SUMMARY:MLB: AL Wild Card 'B' Game 1 - AL Wild Card #2 at AL Wild Card #1 [
- time TBA]
+SUMMARY:MLB: AL Wild Card 'B' Game 1 - AL Wild Card #2 at AL East Runner-Up
+  [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
@@ -1363,14 +1363,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849848@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260922T230154Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260922T230154Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-SUMMARY:MLB: AL Wild Card 'B' Game 2 - AL Wild Card #2 at AL Wild Card #1 [
- time TBA]
+SUMMARY:MLB: AL Wild Card 'B' Game 2 - AL Wild Card #2 at AL East Runner-Up
+  [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
@@ -1433,14 +1433,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849847@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260922T230154Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260922T230154Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-SUMMARY:MLB: AL Wild Card 'B' Game 3 - AL Wild Card #2 at AL Wild Card #1 [
- if necessary] [time TBA]
+SUMMARY:MLB: AL Wild Card 'B' Game 3 - AL Wild Card #2 at AL East Runner-Up
+  [if necessary] [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
@@ -1565,10 +1565,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849829@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260922T230154Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260922T230154Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:MLB: ALDS 'B' Game 1 - AL 3/6 Winner at AL #2 Seed [time TBA]
@@ -1576,9 +1576,8 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
  s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varie
- s by country and provider.\n\nOfficial schedule: https://www.mlb.com/gamed
- ay/849829
+ casts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by count
+ ry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849829
 LOCATION:AL Stadium
 URL:https://www.mlb.com/gameday/849829
 CATEGORIES:MLB,Playoffs
@@ -1608,10 +1607,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849835@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260922T230154Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260922T230154Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:MLB: ALDS 'A' Game 1 - AL 4/5 Winner at AL East Champ [time TBA]
@@ -1619,9 +1618,8 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
  s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varie
- s by country and provider.\n\nOfficial schedule: https://www.mlb.com/gamed
- ay/849835
+ casts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by count
+ ry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849835
 LOCATION:AL Stadium
 URL:https://www.mlb.com/gameday/849835
 CATEGORIES:MLB,Playoffs
@@ -1812,10 +1810,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849834@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260922T230154Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260922T230154Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:MLB: ALDS 'B' Game 2 - AL 3/6 Winner at AL #2 Seed [time TBA]
@@ -1823,9 +1821,8 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
  s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varie
- s by country and provider.\n\nOfficial schedule: https://www.mlb.com/gamed
- ay/849834
+ casts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by count
+ ry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849834
 LOCATION:AL Stadium
 URL:https://www.mlb.com/gameday/849834
 CATEGORIES:MLB,Playoffs
@@ -1834,10 +1831,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849839@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260922T230154Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260922T230154Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:MLB: ALDS 'A' Game 2 - AL 4/5 Winner at AL East Champ [time TBA]
@@ -1845,9 +1842,8 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
  s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varie
- s by country and provider.\n\nOfficial schedule: https://www.mlb.com/gamed
- ay/849839
+ casts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by count
+ ry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849839
 LOCATION:AL Stadium
 URL:https://www.mlb.com/gameday/849839
 CATEGORIES:MLB,Playoffs
@@ -1984,10 +1980,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849833@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260922T230154Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260922T230154Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:MLB: ALDS 'B' Game 3 - AL #2 Seed at AL 3/6 Winner [time TBA]
@@ -1995,9 +1991,8 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
  s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varie
- s by country and provider.\n\nOfficial schedule: https://www.mlb.com/gamed
- ay/849833
+ casts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by count
+ ry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849833
 LOCATION:AL Stadium
 URL:https://www.mlb.com/gameday/849833
 CATEGORIES:MLB,Playoffs
@@ -2006,10 +2001,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849838@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260922T230154Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260922T230154Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:MLB: ALDS 'A' Game 3 - AL East Champ at AL 4/5 Winner [time TBA]
@@ -2017,9 +2012,8 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
  s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varie
- s by country and provider.\n\nOfficial schedule: https://www.mlb.com/gamed
- ay/849838
+ casts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by count
+ ry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849838
 LOCATION:AL Stadium
 URL:https://www.mlb.com/gameday/849838
 CATEGORIES:MLB,Playoffs
@@ -2028,10 +2022,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849832@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260922T230154Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260922T230154Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:MLB: ALDS 'B' Game 4 - AL #2 Seed at AL 3/6 Winner [if necessary] [
@@ -2041,9 +2035,9 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
   are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
  st pitch has not been announced. This all-day marker will become a timed e
- vent when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / HBO Max /
-  Univision/ TUDN. Availability varies by country and provider.\n\nOfficial
-  schedule: https://www.mlb.com/gameday/849832
+ vent when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision
+ / TUDN. Availability varies by country and provider.\n\nOfficial schedule:
+  https://www.mlb.com/gameday/849832
 LOCATION:AL Stadium
 URL:https://www.mlb.com/gameday/849832
 CATEGORIES:MLB,Playoffs
@@ -2052,10 +2046,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849837@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260922T230154Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260922T230154Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:MLB: ALDS 'A' Game 4 - AL East Champ at AL 4/5 Winner [if necessary
@@ -2065,9 +2059,9 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
   are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
  st pitch has not been announced. This all-day marker will become a timed e
- vent when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / HBO Max /
-  Univision/ TUDN. Availability varies by country and provider.\n\nOfficial
-  schedule: https://www.mlb.com/gameday/849837
+ vent when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision
+ / TUDN. Availability varies by country and provider.\n\nOfficial schedule:
+  https://www.mlb.com/gameday/849837
 LOCATION:AL Stadium
 URL:https://www.mlb.com/gameday/849837
 CATEGORIES:MLB,Playoffs
@@ -2207,10 +2201,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849831@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260922T230154Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260922T230154Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:MLB: ALDS 'B' Game 5 - AL 3/6 Winner at AL #2 Seed [if necessary] [
@@ -2220,9 +2214,9 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
   are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
  st pitch has not been announced. This all-day marker will become a timed e
- vent when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / HBO Max /
-  Univision/ TUDN. Availability varies by country and provider.\n\nOfficial
-  schedule: https://www.mlb.com/gameday/849831
+ vent when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision
+ / TUDN. Availability varies by country and provider.\n\nOfficial schedule:
+  https://www.mlb.com/gameday/849831
 LOCATION:AL Stadium
 URL:https://www.mlb.com/gameday/849831
 CATEGORIES:MLB,Playoffs
@@ -2231,10 +2225,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849836@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260922T230154Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260922T230154Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:MLB: ALDS 'A' Game 5 - AL 4/5 Winner at AL East Champ [if necessary
@@ -2244,9 +2238,9 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
   are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
  st pitch has not been announced. This all-day marker will become a timed e
- vent when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / HBO Max /
-  Univision/ TUDN. Availability varies by country and provider.\n\nOfficial
-  schedule: https://www.mlb.com/gameday/849836
+ vent when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision
+ / TUDN. Availability varies by country and provider.\n\nOfficial schedule:
+  https://www.mlb.com/gameday/849836
 LOCATION:AL Stadium
 URL:https://www.mlb.com/gameday/849836
 CATEGORIES:MLB,Playoffs
@@ -2394,10 +2388,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849820@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260922T230154Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260922T230154Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:MLB: ALCS Game 1 - AL Lower Seed at AL Higher Seed [time TBA]
@@ -2405,9 +2399,8 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
  s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: TBS/HBO MAX / Univision/ TUDN / TruTV / HBO Max. Availability varie
- s by country and provider.\n\nOfficial schedule: https://www.mlb.com/gamed
- ay/849820
+ casts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by count
+ ry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849820
 LOCATION:AL Stadium
 URL:https://www.mlb.com/gameday/849820
 CATEGORIES:MLB,Playoffs
@@ -2435,10 +2428,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849813@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260922T230154Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260922T230154Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:MLB: ALCS Game 2 - AL Lower Seed at AL Higher Seed [time TBA]
@@ -2446,9 +2439,8 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
  s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varie
- s by country and provider.\n\nOfficial schedule: https://www.mlb.com/gamed
- ay/849813
+ casts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by count
+ ry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849813
 LOCATION:AL Stadium
 URL:https://www.mlb.com/gameday/849813
 CATEGORIES:MLB,Playoffs
@@ -2518,10 +2510,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849818@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260922T230154Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260922T230154Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:MLB: ALCS Game 3 - AL Higher Seed at AL Lower Seed [time TBA]
@@ -2529,9 +2521,8 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
  s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varie
- s by country and provider.\n\nOfficial schedule: https://www.mlb.com/gamed
- ay/849818
+ casts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by count
+ ry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849818
 LOCATION:AL Stadium
 URL:https://www.mlb.com/gameday/849818
 CATEGORIES:MLB,Playoffs
@@ -2564,10 +2555,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849817@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260922T230154Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260922T230154Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:MLB: ALCS Game 4 - AL Higher Seed at AL Lower Seed [time TBA]
@@ -2575,9 +2566,8 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
  s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varie
- s by country and provider.\n\nOfficial schedule: https://www.mlb.com/gamed
- ay/849817
+ casts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by count
+ ry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849817
 LOCATION:AL Stadium
 URL:https://www.mlb.com/gameday/849817
 CATEGORIES:MLB,Playoffs
@@ -2649,10 +2639,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849816@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260922T230154Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260922T230154Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:MLB: ALCS Game 5 - AL Higher Seed at AL Lower Seed [if necessary] [
@@ -2662,9 +2652,9 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
   are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
  st pitch has not been announced. This all-day marker will become a timed e
- vent when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / HBO Max /
-  Univision/ TUDN. Availability varies by country and provider.\n\nOfficial
-  schedule: https://www.mlb.com/gameday/849816
+ vent when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision
+ / TUDN. Availability varies by country and provider.\n\nOfficial schedule:
+  https://www.mlb.com/gameday/849816
 LOCATION:AL Stadium
 URL:https://www.mlb.com/gameday/849816
 CATEGORIES:MLB,Playoffs
@@ -2798,10 +2788,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849815@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260922T230154Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260922T230154Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:MLB: ALCS Game 6 - AL Lower Seed at AL Higher Seed [if necessary] [
@@ -2811,9 +2801,9 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
   are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
  st pitch has not been announced. This all-day marker will become a timed e
- vent when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / HBO Max /
-  Univision/ TUDN. Availability varies by country and provider.\n\nOfficial
-  schedule: https://www.mlb.com/gameday/849815
+ vent when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision
+ / TUDN. Availability varies by country and provider.\n\nOfficial schedule:
+  https://www.mlb.com/gameday/849815
 LOCATION:AL Stadium
 URL:https://www.mlb.com/gameday/849815
 CATEGORIES:MLB,Playoffs
@@ -2841,10 +2831,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849814@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260922T230154Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260922T230154Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:MLB: ALCS Game 7 - AL Lower Seed at AL Higher Seed [if necessary] [
@@ -2854,9 +2844,9 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
   are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
  st pitch has not been announced. This all-day marker will become a timed e
- vent when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / HBO Max /
-  Univision/ TUDN. Availability varies by country and provider.\n\nOfficial
-  schedule: https://www.mlb.com/gameday/849814
+ vent when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision
+ / TUDN. Availability varies by country and provider.\n\nOfficial schedule:
+  https://www.mlb.com/gameday/849814
 LOCATION:AL Stadium
 URL:https://www.mlb.com/gameday/849814
 CATEGORIES:MLB,Playoffs

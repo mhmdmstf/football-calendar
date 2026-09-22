@@ -1384,7 +1384,7 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: AL Wild Card 'B' Game 1 - AL Wild Card #2 at AL Wild Card #1 [time TBA]",
+      "title": "MLB: AL Wild Card 'B' Game 1 - AL Wild Card #2 at AL East Runner-Up [time TBA]",
       "start": "2026-09-29",
       "end": "2026-09-30",
       "allDay": true,
@@ -1396,10 +1396,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "280a084c4dfd3b028a0681a8b1796429fa4931671a675556f0cd1f80e66ef9b6",
+      "hash": "0b764e7b100b4a03902ffa1eb64799beb71fe20a4e22aa2319451fa491147a53",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-22T23:01:54.052Z",
+      "sequence": 2
     },
     {
       "uid": "nfl-401872963@football-watchlist",
@@ -1531,7 +1531,7 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: AL Wild Card 'B' Game 2 - AL Wild Card #2 at AL Wild Card #1 [time TBA]",
+      "title": "MLB: AL Wild Card 'B' Game 2 - AL Wild Card #2 at AL East Runner-Up [time TBA]",
       "start": "2026-09-30",
       "end": "2026-10-01",
       "allDay": true,
@@ -1543,10 +1543,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "b8706c8faf4b530551ab1d720682e5c0fe30777aa0f25263f7ebfb3bdd30f01a",
+      "hash": "5b55906694acf70d1a7de2f80951be040c32daa661970d74036f1d6e45a54c11",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-22T23:01:54.052Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-849840@football-watchlist",
@@ -1627,7 +1627,7 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: AL Wild Card 'B' Game 3 - AL Wild Card #2 at AL Wild Card #1 [if necessary] [time TBA]",
+      "title": "MLB: AL Wild Card 'B' Game 3 - AL Wild Card #2 at AL East Runner-Up [if necessary] [time TBA]",
       "start": "2026-10-01",
       "end": "2026-10-02",
       "allDay": true,
@@ -1639,10 +1639,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "5263fccac7b17845e3fb8c1a7678059f615ef067e2197509e18baa076c5448c8",
+      "hash": "04e0543c19670808de245312341b9556e718e3d8a1432e549cec1d93540a1882",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-22T23:01:54.052Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-849850@football-watchlist",
@@ -1787,7 +1787,7 @@
       "start": "2026-10-03",
       "end": "2026-10-04",
       "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849829",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849829",
       "location": "AL Stadium",
       "url": "https://www.mlb.com/gameday/849829",
       "status": "TENTATIVE",
@@ -1795,10 +1795,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "4c12f8484cbed4375bb04f98e0aabb2cb52087724242035b110dd888926f83f5",
+      "hash": "81b9c400b689edc5c68a0f8f3ee439a652dfcf0e5de94ac707f1792e6ed51e8e",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-22T23:01:54.052Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-849830@football-watchlist",
@@ -1851,7 +1851,7 @@
       "start": "2026-10-03",
       "end": "2026-10-04",
       "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849835",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849835",
       "location": "AL Stadium",
       "url": "https://www.mlb.com/gameday/849835",
       "status": "TENTATIVE",
@@ -1859,10 +1859,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "d9adf828cc958485d942ba7e20825469578d41ff6984f49e1aabfcd85338a618",
+      "hash": "f3f501e4db9458a6bcc6d85a3b5d059ad501911ccaa0b733210618591172ecdc",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-22T23:01:54.052Z",
+      "sequence": 2
     },
     {
       "uid": "show-gameday-2026-10-03@football-watchlist",
@@ -2086,7 +2086,7 @@
       "start": "2026-10-05",
       "end": "2026-10-06",
       "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849834",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849834",
       "location": "AL Stadium",
       "url": "https://www.mlb.com/gameday/849834",
       "status": "TENTATIVE",
@@ -2094,10 +2094,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "7cc6f1670a51ed100a2d9ef75d7f91fc97e8ae3775acf3a5d396ee3fe4b570a4",
+      "hash": "c040e97b9407307435d8e745ecee28f65c226c44183e3e78780935dffd9b8420",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-22T23:01:54.052Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-849839@football-watchlist",
@@ -2118,7 +2118,7 @@
       "start": "2026-10-05",
       "end": "2026-10-06",
       "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849839",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849839",
       "location": "AL Stadium",
       "url": "https://www.mlb.com/gameday/849839",
       "status": "TENTATIVE",
@@ -2126,10 +2126,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "d3491790ba5507251f5a07f84deb8b5b7a9adffc43194996ac451ae32ebe9ede",
+      "hash": "dc3b6dc337b395a136fdf3ea7cc2c67239698627d59b7761d5d0f156ebf1b9b1",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-22T23:01:54.052Z",
+      "sequence": 2
     },
     {
       "uid": "nfl-401872978@football-watchlist",
@@ -2316,7 +2316,7 @@
       "start": "2026-10-07",
       "end": "2026-10-08",
       "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849833",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849833",
       "location": "AL Stadium",
       "url": "https://www.mlb.com/gameday/849833",
       "status": "TENTATIVE",
@@ -2324,10 +2324,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "c9cea559436546f3b21275a4777cdb081b2aa90442936df3001ecf6cf4a486c0",
+      "hash": "be56cdf19b07bfc7ef27452cfd0909586e272852d894f7c95bca0f89502786ce",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-22T23:01:54.052Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-849838@football-watchlist",
@@ -2348,7 +2348,7 @@
       "start": "2026-10-07",
       "end": "2026-10-08",
       "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849838",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849838",
       "location": "AL Stadium",
       "url": "https://www.mlb.com/gameday/849838",
       "status": "TENTATIVE",
@@ -2356,10 +2356,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "77045176f402b5aa81c62e1038d255ca3e94b6ca70041fb3d899044c1d4c5738",
+      "hash": "8715c6a6b49dd1f23d4994d53dbae2c2e0476786f386e52e752e3b74a93501f6",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-22T23:01:54.052Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-849832@football-watchlist",
@@ -2380,7 +2380,7 @@
       "start": "2026-10-08",
       "end": "2026-10-09",
       "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849832",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849832",
       "location": "AL Stadium",
       "url": "https://www.mlb.com/gameday/849832",
       "status": "TENTATIVE",
@@ -2388,10 +2388,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "49147525d4115d07f040f8d0fa826199a45126100f491056bf98d44eafe26ad6",
+      "hash": "58b38229b759a88a0d07b9a5bb7f6c27d418ca3158bcc7a413f6de36d877ab4b",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-22T23:01:54.052Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-849837@football-watchlist",
@@ -2412,7 +2412,7 @@
       "start": "2026-10-08",
       "end": "2026-10-09",
       "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849837",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849837",
       "location": "AL Stadium",
       "url": "https://www.mlb.com/gameday/849837",
       "status": "TENTATIVE",
@@ -2420,10 +2420,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "7092a99d5bafebcf253ebafda11da400fe43688e0c1ed69b11d10be1a26ef6ad",
+      "hash": "b79ea3b885fb3f9800a727d463ab2f061e398d1e7dde4941d143b4c3f8dd700d",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-22T23:01:54.052Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-849821@football-watchlist",
@@ -2589,7 +2589,7 @@
       "start": "2026-10-10",
       "end": "2026-10-11",
       "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849831",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849831",
       "location": "AL Stadium",
       "url": "https://www.mlb.com/gameday/849831",
       "status": "TENTATIVE",
@@ -2597,10 +2597,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "7b4ddeb91feedb3eb05f22c85f4161caf2f7f1e82304fb80ea07ae9f3983d5f2",
+      "hash": "1bf01b0dbf68bab34f8233192a4cadd891f1c7c8be6839ad85a20265cbac0126",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-22T23:01:54.052Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-849836@football-watchlist",
@@ -2621,7 +2621,7 @@
       "start": "2026-10-10",
       "end": "2026-10-11",
       "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849836",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849836",
       "location": "AL Stadium",
       "url": "https://www.mlb.com/gameday/849836",
       "status": "TENTATIVE",
@@ -2629,10 +2629,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "bc3ccf29b014b1b228a87992f5aeed6b6c39783dd7b3a18b9cd2269ffbb8d461",
+      "hash": "aae66f67b49a334bd71e123ef67a6b6711dce5ff0505e4c6f0442fca1cd9207c",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-22T23:01:54.052Z",
+      "sequence": 2
     },
     {
       "uid": "show-gameday-2026-10-10@football-watchlist",
@@ -2812,7 +2812,7 @@
       "start": "2026-10-12",
       "end": "2026-10-13",
       "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / Univision/ TUDN / TruTV / HBO Max. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849820",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849820",
       "location": "AL Stadium",
       "url": "https://www.mlb.com/gameday/849820",
       "status": "TENTATIVE",
@@ -2820,10 +2820,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "ae68664e635448782d87e0b7179572868fb091c62fcc983e61400de9dbcb9d39",
+      "hash": "077b059123fb726218fcb09828536c709df8ac2e8c40c1c047a61a77fa416d96",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-22T23:01:54.052Z",
+      "sequence": 2
     },
     {
       "uid": "nfl-401872993@football-watchlist",
@@ -2863,7 +2863,7 @@
       "start": "2026-10-13",
       "end": "2026-10-14",
       "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849813",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849813",
       "location": "AL Stadium",
       "url": "https://www.mlb.com/gameday/849813",
       "status": "TENTATIVE",
@@ -2871,10 +2871,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "15428d2c0ff2fd7c9fee66bdfd34adab4b296752e389dcdadc060605148b28a4",
+      "hash": "00648f8bcc3abd98cce17e157e9d3561ca501993ee7c2289509b9f844cf6a90c",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-22T23:01:54.052Z",
+      "sequence": 2
     },
     {
       "uid": "nfl-401872994@football-watchlist",
@@ -2978,7 +2978,7 @@
       "start": "2026-10-15",
       "end": "2026-10-16",
       "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849818",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849818",
       "location": "AL Stadium",
       "url": "https://www.mlb.com/gameday/849818",
       "status": "TENTATIVE",
@@ -2986,10 +2986,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "b5ec95bef5f0db44ff0f8873d9763ffd7fae8eae7c0d5f9b18a9a4ecb9cddc93",
+      "hash": "4c8e41d0697bb934be1139b02a34185b8fa0343a99baa48fc498f44489fdad82",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-22T23:01:54.052Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-849808@football-watchlist",
@@ -3042,7 +3042,7 @@
       "start": "2026-10-16",
       "end": "2026-10-17",
       "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849817",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849817",
       "location": "AL Stadium",
       "url": "https://www.mlb.com/gameday/849817",
       "status": "TENTATIVE",
@@ -3050,10 +3050,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "bf4d219d30d71e07b9ae636ba02767242157ead448651218c989311281b0823a",
+      "hash": "642ffa8f986eca2f8dd16069332c582e9ee8206ae59d1fc52dfc9c83ec65bce8",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-22T23:01:54.052Z",
+      "sequence": 2
     },
     {
       "uid": "nfl-401872995@football-watchlist",
@@ -3132,7 +3132,7 @@
       "start": "2026-10-17",
       "end": "2026-10-18",
       "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849816",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849816",
       "location": "AL Stadium",
       "url": "https://www.mlb.com/gameday/849816",
       "status": "TENTATIVE",
@@ -3140,10 +3140,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "2379b46d7e99b1107c1e15f15697a448522f7b82ba8135e7832be36e29ed7198",
+      "hash": "d5c44b055bd994d97e5d649b0da17d6dc0635acb76ebec87265464c13a50eb30",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-22T23:01:54.052Z",
+      "sequence": 2
     },
     {
       "uid": "show-gameday-2026-10-17@football-watchlist",
@@ -3304,7 +3304,7 @@
       "start": "2026-10-19",
       "end": "2026-10-20",
       "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849815",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849815",
       "location": "AL Stadium",
       "url": "https://www.mlb.com/gameday/849815",
       "status": "TENTATIVE",
@@ -3312,10 +3312,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "4144f84ddf1fb253d5cd0c8c776807f0cc51a2fe063a5fde58e9d9492bced8ae",
+      "hash": "a5a8c34d58455f81ea3011892f8b6cb428e91cdc9df3eb709a356029ad831a5e",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-22T23:01:54.052Z",
+      "sequence": 2
     },
     {
       "uid": "nfl-401873007@football-watchlist",
@@ -3355,7 +3355,7 @@
       "start": "2026-10-20",
       "end": "2026-10-21",
       "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / HBO Max / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849814",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849814",
       "location": "AL Stadium",
       "url": "https://www.mlb.com/gameday/849814",
       "status": "TENTATIVE",
@@ -3363,10 +3363,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "62cf98f274e186bb800d088a66403f9537799d24267c121d77d786321d9e64fa",
+      "hash": "8a7456143daec9de73a1336c256c708702d38c12bbbe7320f1b2aee560bde8ef",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-22T23:01:54.052Z",
+      "sequence": 2
     },
     {
       "uid": "nfl-401873008@football-watchlist",
