@@ -1868,6 +1868,27 @@
       "sequence": 3
     },
     {
+      "uid": "college-football-401858476@football-watchlist",
+      "gameId": "401858476",
+      "title": "CFB: Penn State at Northwestern",
+      "start": "2026-10-03T00:00:00.000Z",
+      "end": "2026-10-03T03:30:00.000Z",
+      "allDay": false,
+      "description": "National pick: a ranked team in a potentially competitive game (market spread 7 points at selection). Upset possibility is an estimate.\n\nTeams: Penn State Nittany Lions at Northwestern Wildcats\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858476/penn-state-northwestern",
+      "location": "Ryan Field, Evanston, IL, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858476/penn-state-northwestern",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 7 points at selection). Upset possibility is an estimate.",
+      "hash": "db9e1c1579b8a50316a3550a7495b94fa20a1c6798ae2a64377535753d06f5cf",
+      "created": "2026-09-23T22:59:40.721Z",
+      "modified": "2026-09-23T22:59:40.721Z",
+      "sequence": 0
+    },
+    {
       "uid": "show-gameday-2026-10-03@football-watchlist",
       "title": "College GameDay: location TBA",
       "start": "2026-10-03T13:00:00.000Z",
@@ -1946,6 +1967,27 @@
       "created": "2026-09-12T07:13:28.934Z",
       "modified": "2026-09-22T18:09:18.369Z",
       "sequence": 2
+    },
+    {
+      "uid": "college-football-401856818@football-watchlist",
+      "gameId": "401856818",
+      "title": "CFB: BYU at TCU",
+      "start": "2026-10-03T23:00:00.000Z",
+      "end": "2026-10-04T02:30:00.000Z",
+      "allDay": false,
+      "description": "National pick: a ranked team in a potentially competitive game (market spread 5.5 points at selection). Upset possibility is an estimate.\n\nTeams: BYU Cougars at TCU Horned Frogs\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856818/byu-tcu",
+      "location": "Amon G. Carter Stadium, Fort Worth, TX, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856818/byu-tcu",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 5.5 points at selection). Upset possibility is an estimate.",
+      "hash": "0704620a9c9caae499fa045583622d74612f877683926e12c2eb2dff6cc15f17",
+      "created": "2026-09-23T22:59:40.721Z",
+      "modified": "2026-09-23T22:59:40.721Z",
+      "sequence": 0
     },
     {
       "uid": "college-football-401858478@football-watchlist",

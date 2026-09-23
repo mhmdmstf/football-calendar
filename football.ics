@@ -1631,6 +1631,28 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:college-football-401858476@football-watchlist
+DTSTAMP:20260923T225940Z
+CREATED:20260923T225940Z
+LAST-MODIFIED:20260923T225940Z
+SEQUENCE:0
+DTSTART:20261003T000000Z
+DTEND:20261003T033000Z
+SUMMARY:CFB: Penn State at Northwestern
+DESCRIPTION:National pick: a ranked team in a potentially competitive game 
+ (market spread 7 points at selection). Upset possibility is an estimate.\n
+ \nTeams: Penn State Nittany Lions at Northwestern Wildcats\n\nUS broadcast
+ : FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hour
+ s for championships)\; finish is approximate.\n\nSchedule: https://www.esp
+ n.com/college-football/game/_/gameId/401858476/penn-state-northwestern
+LOCATION:Ryan Field\, Evanston\, IL\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858476/penn-stat
+ e-northwestern
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:show-gameday-2026-10-03@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -1706,6 +1728,27 @@ DESCRIPTION:National pick: ranked matchup (#1 vs #21) at selection.\n\nTeam
 LOCATION:Kinnick Stadium\, Iowa City\, IA\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401858473/ohio-stat
  e-iowa
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856818@football-watchlist
+DTSTAMP:20260923T225940Z
+CREATED:20260923T225940Z
+LAST-MODIFIED:20260923T225940Z
+SEQUENCE:0
+DTSTART:20261003T230000Z
+DTEND:20261004T023000Z
+SUMMARY:CFB: BYU at TCU
+DESCRIPTION:National pick: a ranked team in a potentially competitive game 
+ (market spread 5.5 points at selection). Upset possibility is an estimate.
+ \n\nTeams: BYU Cougars at TCU Horned Frogs\n\nBroadcast to be announced.\n
+ \nViewing window: 3.5 hours (4 hours for championships)\; finish is approx
+ imate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/40
+ 1856818/byu-tcu
+LOCATION:Amon G. Carter Stadium\, Fort Worth\, TX\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856818/byu-tcu
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
