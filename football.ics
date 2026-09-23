@@ -800,43 +800,23 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-824710@football-watchlist
-DTSTAMP:20260922T074706Z
-CREATED:20260920T074818Z
-LAST-MODIFIED:20260922T074706Z
-SEQUENCE:4
-DTSTART:20260923T231000Z
-DTEND:20260924T021000Z
-SUMMARY:MLB: Cleveland Guardians at Boston Red Sox
-DESCRIPTION:Cleveland Guardians: lead their division by 1 game.\nFollowing 
- Cleveland Guardians.\nStandings snapshot: 2026-09-22.\n\nViewing window: 3
-  hours\; finish is approximate.\n\nProbable pitchers (subject to change): 
- Foster Griffin / Sonny Gray.\n\nListed broadcasts: ESPN/ESPN App. Availabi
- lity varies by country and provider.\n\nOfficial schedule: https://www.mlb
- .com/gameday/824710
-LOCATION:Fenway Park
-URL:https://www.mlb.com/gameday/824710
-CATEGORIES:MLB,Pennant race,Cleveland Guardians
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-822842@football-watchlist
-DTSTAMP:20260922T074706Z
-CREATED:20260919T111549Z
-LAST-MODIFIED:20260922T074706Z
-SEQUENCE:5
-DTSTART:20260924T183500Z
-DTEND:20260924T213500Z
+UID:mlb-822841@football-watchlist
+DTSTAMP:20260923T075004Z
+CREATED:20260923T075004Z
+LAST-MODIFIED:20260923T075004Z
+SEQUENCE:0
+DTSTART:20260924T000500Z
+DTEND:20260924T030500Z
 SUMMARY:MLB: New York Mets at Texas Rangers
-DESCRIPTION:Texas Rangers: lead their division by 1 game.\nFollowing New Yo
- rk Mets.\nStandings snapshot: 2026-09-22.\n\nViewing window: 3 hours\; fin
- ish is approximate.\n\nProbable pitchers (subject to change): Zac Thornton
- .\n\nListed broadcasts: SNY / Rangers Sports Network\, presented by Progre
- ssive. Availability varies by country and provider.\n\nOfficial schedule: 
- https://www.mlb.com/gameday/822842
+DESCRIPTION:Texas Rangers: tied for the division lead.\nTexas Rangers: 3 ga
+ mes behind the final wild-card spot.\nFollowing New York Mets.\nStandings 
+ snapshot: 2026-09-23.\n\nViewing window: 3 hours\; finish is approximate.\
+ n\nProbable pitchers (subject to change): Nolan McLean.\n\nListed broadcas
+ ts: SNY / Rangers Sports Network\, presented by Progressive. Availability 
+ varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/
+ gameday/822841
 LOCATION:Globe Life Field
-URL:https://www.mlb.com/gameday/822842
+URL:https://www.mlb.com/gameday/822841
 CATEGORIES:MLB,Pennant race,New York Mets
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -862,18 +842,42 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-823895@football-watchlist
+DTSTAMP:20260923T075004Z
+CREATED:20260923T075004Z
+LAST-MODIFIED:20260923T075004Z
+SEQUENCE:0
+DTSTART:20260925T021000Z
+DTEND:20260925T051000Z
+SUMMARY:MLB: San Diego Padres at Los Angeles Dodgers
+DESCRIPTION:Two teams with live postseason stakes meet directly.\nSan Diego
+  Padres: 4 games ahead of the first team outside the wild cards.\nLos Ange
+ les Dodgers: already qualified\; close records keep postseason home-field 
+ positioning in play.\nFollowing San Diego Padres.\nStandings snapshot: 202
+ 6-09-23.\n\nViewing window: 3 hours\; finish is approximate.\n\nProbable p
+ itchers (subject to change): Nick Pivetta / Tyler Glasnow.\n\nListed broad
+ casts: SportsNet LA / Padres.TV Presented by UC San Diego Health / MLB Net
+ work. Availability varies by country and provider.\n\nOfficial schedule: h
+ ttps://www.mlb.com/gameday/823895
+LOCATION:UNIQLO Field at Dodger Stadium
+URL:https://www.mlb.com/gameday/823895
+CATEGORIES:MLB,Pennant race,San Diego Padres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-823248@football-watchlist
-DTSTAMP:20260922T074706Z
+DTSTAMP:20260923T075004Z
 CREATED:20260921T080152Z
-LAST-MODIFIED:20260922T074706Z
-SEQUENCE:1
+LAST-MODIFIED:20260923T075004Z
+SEQUENCE:2
 DTSTART:20260926T014000Z
 DTEND:20260926T044000Z
 SUMMARY:MLB: Arizona Diamondbacks at San Diego Padres
 DESCRIPTION:Two teams with live postseason stakes meet directly.\nArizona D
- iamondbacks: 4 games behind the final wild-card spot.\nSan Diego Padres: 5
+ iamondbacks: 4 games behind the final wild-card spot.\nSan Diego Padres: 4
   games ahead of the first team outside the wild cards.\nFollowing San Dieg
- o Padres.\nStandings snapshot: 2026-09-22.\n\nViewing window: 3 hours\; fi
+ o Padres.\nStandings snapshot: 2026-09-23.\n\nViewing window: 3 hours\; fi
  nish is approximate.\n\nListed broadcasts: Padres.TV Presented by UC San D
  iego Health / DBACKS.TV. Availability varies by country and provider.\n\nO
  fficial schedule: https://www.mlb.com/gameday/823248
@@ -1049,15 +1053,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-824057@football-watchlist
-DTSTAMP:20260922T074706Z
+DTSTAMP:20260923T075004Z
 CREATED:20260921T080152Z
-LAST-MODIFIED:20260922T074706Z
-SEQUENCE:1
+LAST-MODIFIED:20260923T075004Z
+SEQUENCE:2
 DTSTART:20260926T231000Z
 DTEND:20260927T021000Z
 SUMMARY:MLB: Cleveland Guardians at Kansas City Royals
 DESCRIPTION:Cleveland Guardians: lead their division by 1 game.\nFollowing 
- Cleveland Guardians.\nStandings snapshot: 2026-09-22.\n\nViewing window: 3
+ Cleveland Guardians.\nStandings snapshot: 2026-09-23.\n\nViewing window: 3
   hours\; finish is approximate.\n\nListed broadcasts: Guardians.TV Present
  ed by Progressive / Royals.TV. Availability varies by country and provider
  .\n\nOfficial schedule: https://www.mlb.com/gameday/824057
@@ -1130,18 +1134,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-824948@football-watchlist
-DTSTAMP:20260922T074706Z
+DTSTAMP:20260923T075004Z
 CREATED:20260920T223228Z
-LAST-MODIFIED:20260922T074706Z
-SEQUENCE:2
+LAST-MODIFIED:20260923T075004Z
+SEQUENCE:3
 DTSTART:20260927T190500Z
 DTEND:20260927T220500Z
 SUMMARY:MLB: Houston Astros at Athletics
-DESCRIPTION:Houston Astros: 1 game behind the division lead.\nHouston Astro
- s: 3 games behind the final wild-card spot.\nStandings snapshot: 2026-09-2
- 2.\n\nViewing window: 3 hours\; finish is approximate.\n\nListed broadcast
- s: NBCSCA / Space City Home Network. Availability varies by country and pr
- ovider.\n\nOfficial schedule: https://www.mlb.com/gameday/824948
+DESCRIPTION:Houston Astros: tied for the division lead.\nStandings snapshot
+ : 2026-09-23.\n\nViewing window: 3 hours\; finish is approximate.\n\nListe
+ d broadcasts: NBCSCA / Space City Home Network. Availability varies by cou
+ ntry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/82494
+ 8
 LOCATION:Sutter Health Park
 URL:https://www.mlb.com/gameday/824948
 CATEGORIES:MLB,Pennant race
@@ -1255,21 +1259,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849851@football-watchlist
-DTSTAMP:20260922T230154Z
+DTSTAMP:20260923T075004Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260922T230154Z
-SEQUENCE:2
+LAST-MODIFIED:20260923T075004Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-SUMMARY:MLB: AL Wild Card 'B' Game 1 - AL Wild Card #2 at AL East Runner-Up
-  [time TBA]
+SUMMARY:MLB: AL Wild Card 'B' Game 1 - AL Wild Card #2 at New York Yankees 
+ [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
  s all-day marker will become a timed event when confirmed.\n\nListed broad
  casts: NBC/Peacock / Universo/ Peacock. Availability varies by country and
   provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849851
-LOCATION:AL Stadium
+LOCATION:Yankee Stadium
 URL:https://www.mlb.com/gameday/849851
 CATEGORIES:MLB,Playoffs
 STATUS:TENTATIVE
@@ -1363,21 +1367,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849848@football-watchlist
-DTSTAMP:20260922T230154Z
+DTSTAMP:20260923T075004Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260922T230154Z
-SEQUENCE:2
+LAST-MODIFIED:20260923T075004Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-SUMMARY:MLB: AL Wild Card 'B' Game 2 - AL Wild Card #2 at AL East Runner-Up
-  [time TBA]
+SUMMARY:MLB: AL Wild Card 'B' Game 2 - AL Wild Card #2 at New York Yankees 
+ [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
  s all-day marker will become a timed event when confirmed.\n\nListed broad
  casts: NBC/Peacock / Universo/ Peacock. Availability varies by country and
   provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849848
-LOCATION:AL Stadium
+LOCATION:Yankee Stadium
 URL:https://www.mlb.com/gameday/849848
 CATEGORIES:MLB,Playoffs
 STATUS:TENTATIVE
@@ -1433,14 +1437,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849847@football-watchlist
-DTSTAMP:20260922T230154Z
+DTSTAMP:20260923T075004Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260922T230154Z
-SEQUENCE:2
+LAST-MODIFIED:20260923T075004Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-SUMMARY:MLB: AL Wild Card 'B' Game 3 - AL Wild Card #2 at AL East Runner-Up
-  [if necessary] [time TBA]
+SUMMARY:MLB: AL Wild Card 'B' Game 3 - AL Wild Card #2 at New York Yankees 
+ [if necessary] [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
@@ -1449,7 +1453,7 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  vent when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock
  . Availability varies by country and provider.\n\nOfficial schedule: https
  ://www.mlb.com/gameday/849847
-LOCATION:AL Stadium
+LOCATION:Yankee Stadium
 URL:https://www.mlb.com/gameday/849847
 CATEGORIES:MLB,Playoffs
 STATUS:TENTATIVE
@@ -1607,22 +1611,22 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849835@football-watchlist
-DTSTAMP:20260922T230154Z
+DTSTAMP:20260923T075004Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260922T230154Z
-SEQUENCE:2
+LAST-MODIFIED:20260923T075004Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-SUMMARY:MLB: ALDS 'A' Game 1 - AL 4/5 Winner at AL East Champ [time TBA]
+SUMMARY:MLB: ALDS 'A' Game 1 - AL 4/5 Winner at Tampa Bay Rays [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
  s all-day marker will become a timed event when confirmed.\n\nListed broad
  casts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by count
  ry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849835
-LOCATION:AL Stadium
+LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/849835
-CATEGORIES:MLB,Playoffs
+CATEGORIES:MLB,Playoffs,Tampa Bay Rays
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1831,22 +1835,22 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849839@football-watchlist
-DTSTAMP:20260922T230154Z
+DTSTAMP:20260923T075004Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260922T230154Z
-SEQUENCE:2
+LAST-MODIFIED:20260923T075004Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-SUMMARY:MLB: ALDS 'A' Game 2 - AL 4/5 Winner at AL East Champ [time TBA]
+SUMMARY:MLB: ALDS 'A' Game 2 - AL 4/5 Winner at Tampa Bay Rays [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
  s all-day marker will become a timed event when confirmed.\n\nListed broad
  casts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by count
  ry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849839
-LOCATION:AL Stadium
+LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/849839
-CATEGORIES:MLB,Playoffs
+CATEGORIES:MLB,Playoffs,Tampa Bay Rays
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2001,13 +2005,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849838@football-watchlist
-DTSTAMP:20260922T230154Z
+DTSTAMP:20260923T075004Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260922T230154Z
-SEQUENCE:2
+LAST-MODIFIED:20260923T075004Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-SUMMARY:MLB: ALDS 'A' Game 3 - AL East Champ at AL 4/5 Winner [time TBA]
+SUMMARY:MLB: ALDS 'A' Game 3 - Tampa Bay Rays at AL 4/5 Winner [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
@@ -2016,7 +2020,7 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  ry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849838
 LOCATION:AL Stadium
 URL:https://www.mlb.com/gameday/849838
-CATEGORIES:MLB,Playoffs
+CATEGORIES:MLB,Playoffs,Tampa Bay Rays
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2046,14 +2050,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849837@football-watchlist
-DTSTAMP:20260922T230154Z
+DTSTAMP:20260923T075004Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260922T230154Z
-SEQUENCE:2
+LAST-MODIFIED:20260923T075004Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-SUMMARY:MLB: ALDS 'A' Game 4 - AL East Champ at AL 4/5 Winner [if necessary
- ] [time TBA]
+SUMMARY:MLB: ALDS 'A' Game 4 - Tampa Bay Rays at AL 4/5 Winner [if necessar
+ y] [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
@@ -2064,7 +2068,7 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
   https://www.mlb.com/gameday/849837
 LOCATION:AL Stadium
 URL:https://www.mlb.com/gameday/849837
-CATEGORIES:MLB,Playoffs
+CATEGORIES:MLB,Playoffs,Tampa Bay Rays
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2225,14 +2229,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849836@football-watchlist
-DTSTAMP:20260922T230154Z
+DTSTAMP:20260923T075004Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260922T230154Z
-SEQUENCE:2
+LAST-MODIFIED:20260923T075004Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-SUMMARY:MLB: ALDS 'A' Game 5 - AL 4/5 Winner at AL East Champ [if necessary
- ] [time TBA]
+SUMMARY:MLB: ALDS 'A' Game 5 - AL 4/5 Winner at Tampa Bay Rays [if necessar
+ y] [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
@@ -2241,9 +2245,9 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  vent when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision
  / TUDN. Availability varies by country and provider.\n\nOfficial schedule:
   https://www.mlb.com/gameday/849836
-LOCATION:AL Stadium
+LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/849836
-CATEGORIES:MLB,Playoffs
+CATEGORIES:MLB,Playoffs,Tampa Bay Rays
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
