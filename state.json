@@ -839,7 +839,7 @@
       "start": "2026-09-24T00:05:00.000Z",
       "end": "2026-09-24T03:05:00.000Z",
       "allDay": false,
-      "description": "Texas Rangers: tied for the division lead.\nTexas Rangers: 3 games behind the final wild-card spot.\nFollowing New York Mets.\nStandings snapshot: 2026-09-23.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nolan McLean.\n\nListed broadcasts: SNY / Rangers Sports Network, presented by Progressive. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822841",
+      "description": "Texas Rangers: tied for the division lead.\nTexas Rangers: 3 games behind the final wild-card spot.\nFollowing New York Mets.\nStandings snapshot: 2026-09-23.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nolan McLean / Cody Bradford.\n\nListed broadcasts: SNY / Rangers Sports Network, presented by Progressive. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822841",
       "location": "Globe Life Field",
       "url": "https://www.mlb.com/gameday/822841",
       "status": "CONFIRMED",
@@ -848,10 +848,10 @@
         "Pennant race",
         "New York Mets"
       ],
-      "hash": "4133cf12970027faf8d8279704477f8f5c5c29db239d1fc3e7e49e9bd889f48d",
+      "hash": "8be0644678abfd3a2f22b7bc6bf277227434ab4ce82696febd0ef664e4eac8c7",
       "created": "2026-09-23T07:50:04.909Z",
-      "modified": "2026-09-23T07:50:04.909Z",
-      "sequence": 0
+      "modified": "2026-09-23T18:26:30.766Z",
+      "sequence": 1
     },
     {
       "uid": "nfl-401872948@football-watchlist",

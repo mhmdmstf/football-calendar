@@ -801,20 +801,20 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-822841@football-watchlist
-DTSTAMP:20260923T075004Z
+DTSTAMP:20260923T182630Z
 CREATED:20260923T075004Z
-LAST-MODIFIED:20260923T075004Z
-SEQUENCE:0
+LAST-MODIFIED:20260923T182630Z
+SEQUENCE:1
 DTSTART:20260924T000500Z
 DTEND:20260924T030500Z
 SUMMARY:MLB: New York Mets at Texas Rangers
 DESCRIPTION:Texas Rangers: tied for the division lead.\nTexas Rangers: 3 ga
  mes behind the final wild-card spot.\nFollowing New York Mets.\nStandings 
  snapshot: 2026-09-23.\n\nViewing window: 3 hours\; finish is approximate.\
- n\nProbable pitchers (subject to change): Nolan McLean.\n\nListed broadcas
- ts: SNY / Rangers Sports Network\, presented by Progressive. Availability 
- varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/
- gameday/822841
+ n\nProbable pitchers (subject to change): Nolan McLean / Cody Bradford.\n\
+ nListed broadcasts: SNY / Rangers Sports Network\, presented by Progressiv
+ e. Availability varies by country and provider.\n\nOfficial schedule: http
+ s://www.mlb.com/gameday/822841
 LOCATION:Globe Life Field
 URL:https://www.mlb.com/gameday/822841
 CATEGORIES:MLB,Pennant race,New York Mets
