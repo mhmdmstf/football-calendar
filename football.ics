@@ -1073,18 +1073,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856702@football-watchlist
-DTSTAMP:20260914T231237Z
+DTSTAMP:20260924T133650Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260914T231237Z
-SEQUENCE:1
+LAST-MODIFIED:20260924T133650Z
+SEQUENCE:2
 DTSTART:20260926T233000Z
 DTEND:20260927T030000Z
 SUMMARY:CFB: Texas A&M at LSU
 DESCRIPTION:National pick: ranked matchup (#8 vs #11) at selection.\n\nTeam
- s: Texas A&M Aggies at LSU Tigers\n\nUS broadcast: ABC. Availability elsew
- here varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; fi
- nish is approximate.\n\nSchedule: https://www.espn.com/college-football/ga
- me/_/gameId/401856702/texas-am-lsu
+ s: Texas A&M Aggies at LSU Tigers\n\nUS broadcast: ABC / ERADM. Availabili
+ ty elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championshi
+ ps)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-foo
+ tball/game/_/gameId/401856702/texas-am-lsu
 LOCATION:Tiger Stadium (LA)\, Baton Rouge\, LA\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856702/texas-am-
  lsu
