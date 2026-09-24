@@ -843,10 +843,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-823895@football-watchlist
-DTSTAMP:20260923T075004Z
+DTSTAMP:20260924T074006Z
 CREATED:20260923T075004Z
-LAST-MODIFIED:20260923T075004Z
-SEQUENCE:0
+LAST-MODIFIED:20260924T074006Z
+SEQUENCE:1
 DTSTART:20260925T021000Z
 DTEND:20260925T051000Z
 SUMMARY:MLB: San Diego Padres at Los Angeles Dodgers
@@ -854,7 +854,7 @@ DESCRIPTION:Two teams with live postseason stakes meet directly.\nSan Diego
   Padres: 4 games ahead of the first team outside the wild cards.\nLos Ange
  les Dodgers: already qualified\; close records keep postseason home-field 
  positioning in play.\nFollowing San Diego Padres.\nStandings snapshot: 202
- 6-09-23.\n\nViewing window: 3 hours\; finish is approximate.\n\nProbable p
+ 6-09-24.\n\nViewing window: 3 hours\; finish is approximate.\n\nProbable p
  itchers (subject to change): Nick Pivetta / Tyler Glasnow.\n\nListed broad
  casts: SportsNet LA / Padres.TV Presented by UC San Diego Health / MLB Net
  work. Availability varies by country and provider.\n\nOfficial schedule: h
@@ -867,17 +867,17 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-823248@football-watchlist
-DTSTAMP:20260923T075004Z
+DTSTAMP:20260924T074006Z
 CREATED:20260921T080152Z
-LAST-MODIFIED:20260923T075004Z
-SEQUENCE:2
+LAST-MODIFIED:20260924T074006Z
+SEQUENCE:3
 DTSTART:20260926T014000Z
 DTEND:20260926T044000Z
 SUMMARY:MLB: Arizona Diamondbacks at San Diego Padres
 DESCRIPTION:Two teams with live postseason stakes meet directly.\nArizona D
- iamondbacks: 4 games behind the final wild-card spot.\nSan Diego Padres: 4
+ iamondbacks: 3 games behind the final wild-card spot.\nSan Diego Padres: 4
   games ahead of the first team outside the wild cards.\nFollowing San Dieg
- o Padres.\nStandings snapshot: 2026-09-23.\n\nViewing window: 3 hours\; fi
+ o Padres.\nStandings snapshot: 2026-09-24.\n\nViewing window: 3 hours\; fi
  nish is approximate.\n\nListed broadcasts: Padres.TV Presented by UC San D
  iego Health / DBACKS.TV. Availability varies by country and provider.\n\nO
  fficial schedule: https://www.mlb.com/gameday/823248
@@ -1053,15 +1053,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-824057@football-watchlist
-DTSTAMP:20260923T075004Z
+DTSTAMP:20260924T074006Z
 CREATED:20260921T080152Z
-LAST-MODIFIED:20260923T075004Z
-SEQUENCE:2
+LAST-MODIFIED:20260924T074006Z
+SEQUENCE:3
 DTSTART:20260926T231000Z
 DTEND:20260927T021000Z
 SUMMARY:MLB: Cleveland Guardians at Kansas City Royals
 DESCRIPTION:Cleveland Guardians: lead their division by 1 game.\nFollowing 
- Cleveland Guardians.\nStandings snapshot: 2026-09-23.\n\nViewing window: 3
+ Cleveland Guardians.\nStandings snapshot: 2026-09-24.\n\nViewing window: 3
   hours\; finish is approximate.\n\nListed broadcasts: Guardians.TV Present
  ed by Progressive / Royals.TV. Availability varies by country and provider
  .\n\nOfficial schedule: https://www.mlb.com/gameday/824057
@@ -1134,15 +1134,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-824948@football-watchlist
-DTSTAMP:20260923T075004Z
+DTSTAMP:20260924T074006Z
 CREATED:20260920T223228Z
-LAST-MODIFIED:20260923T075004Z
-SEQUENCE:3
+LAST-MODIFIED:20260924T074006Z
+SEQUENCE:4
 DTSTART:20260927T190500Z
 DTEND:20260927T220500Z
 SUMMARY:MLB: Houston Astros at Athletics
 DESCRIPTION:Houston Astros: tied for the division lead.\nStandings snapshot
- : 2026-09-23.\n\nViewing window: 3 hours\; finish is approximate.\n\nListe
+ : 2026-09-24.\n\nViewing window: 3 hours\; finish is approximate.\n\nListe
  d broadcasts: NBCSCA / Space City Home Network. Availability varies by cou
  ntry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/82494
  8

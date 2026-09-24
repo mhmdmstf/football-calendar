@@ -1,5 +1,5 @@
 {
-  "checkedOn": "2026-09-23",
+  "checkedOn": "2026-09-24",
   "season": 2026,
   "events": [
     {
@@ -889,13 +889,13 @@
         "San Diego Padres: 4 games ahead of the first team outside the wild cards.",
         "Los Angeles Dodgers: already qualified; close records keep postseason home-field positioning in play.",
         "Following San Diego Padres.",
-        "Standings snapshot: 2026-09-23."
+        "Standings snapshot: 2026-09-24."
       ],
       "title": "MLB: San Diego Padres at Los Angeles Dodgers",
       "start": "2026-09-25T02:10:00.000Z",
       "end": "2026-09-25T05:10:00.000Z",
       "allDay": false,
-      "description": "Two teams with live postseason stakes meet directly.\nSan Diego Padres: 4 games ahead of the first team outside the wild cards.\nLos Angeles Dodgers: already qualified; close records keep postseason home-field positioning in play.\nFollowing San Diego Padres.\nStandings snapshot: 2026-09-23.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Pivetta / Tyler Glasnow.\n\nListed broadcasts: SportsNet LA / Padres.TV Presented by UC San Diego Health / MLB Network. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823895",
+      "description": "Two teams with live postseason stakes meet directly.\nSan Diego Padres: 4 games ahead of the first team outside the wild cards.\nLos Angeles Dodgers: already qualified; close records keep postseason home-field positioning in play.\nFollowing San Diego Padres.\nStandings snapshot: 2026-09-24.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Pivetta / Tyler Glasnow.\n\nListed broadcasts: SportsNet LA / Padres.TV Presented by UC San Diego Health / MLB Network. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823895",
       "location": "UNIQLO Field at Dodger Stadium",
       "url": "https://www.mlb.com/gameday/823895",
       "status": "CONFIRMED",
@@ -904,10 +904,10 @@
         "Pennant race",
         "San Diego Padres"
       ],
-      "hash": "10c6e1937c2bf4d8fc0c3da0259ad5acf00116474ad95ab129c3b6c93756861d",
+      "hash": "617a448ce0e9ccc9bea4068da905f2f05725d583d2a9c1cb633383a6523f7f01",
       "created": "2026-09-23T07:50:04.909Z",
-      "modified": "2026-09-23T07:50:04.909Z",
-      "sequence": 0
+      "modified": "2026-09-24T07:40:06.928Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-823248@football-watchlist",
@@ -923,16 +923,16 @@
       ],
       "selectionReasons": [
         "Two teams with live postseason stakes meet directly.",
-        "Arizona Diamondbacks: 4 games behind the final wild-card spot.",
+        "Arizona Diamondbacks: 3 games behind the final wild-card spot.",
         "San Diego Padres: 4 games ahead of the first team outside the wild cards.",
         "Following San Diego Padres.",
-        "Standings snapshot: 2026-09-23."
+        "Standings snapshot: 2026-09-24."
       ],
       "title": "MLB: Arizona Diamondbacks at San Diego Padres",
       "start": "2026-09-26T01:40:00.000Z",
       "end": "2026-09-26T04:40:00.000Z",
       "allDay": false,
-      "description": "Two teams with live postseason stakes meet directly.\nArizona Diamondbacks: 4 games behind the final wild-card spot.\nSan Diego Padres: 4 games ahead of the first team outside the wild cards.\nFollowing San Diego Padres.\nStandings snapshot: 2026-09-23.\n\nViewing window: 3 hours; finish is approximate.\n\nListed broadcasts: Padres.TV Presented by UC San Diego Health / DBACKS.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823248",
+      "description": "Two teams with live postseason stakes meet directly.\nArizona Diamondbacks: 3 games behind the final wild-card spot.\nSan Diego Padres: 4 games ahead of the first team outside the wild cards.\nFollowing San Diego Padres.\nStandings snapshot: 2026-09-24.\n\nViewing window: 3 hours; finish is approximate.\n\nListed broadcasts: Padres.TV Presented by UC San Diego Health / DBACKS.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823248",
       "location": "Petco Park",
       "url": "https://www.mlb.com/gameday/823248",
       "status": "CONFIRMED",
@@ -941,10 +941,10 @@
         "Pennant race",
         "San Diego Padres"
       ],
-      "hash": "f948498e5f413a699a41087217392db332239c26acb6dc5a550eec214b02a2b3",
+      "hash": "78a2ca57fcaa7990fda38b22d39cd830fb3595d0d7a114d43070beae77b27cad",
       "created": "2026-09-21T08:01:52.603Z",
-      "modified": "2026-09-23T07:50:04.909Z",
-      "sequence": 2
+      "modified": "2026-09-24T07:40:06.928Z",
+      "sequence": 3
     },
     {
       "uid": "show-gameday-2026-09-26@football-watchlist",
@@ -1123,13 +1123,13 @@
       "selectionReasons": [
         "Cleveland Guardians: lead their division by 1 game.",
         "Following Cleveland Guardians.",
-        "Standings snapshot: 2026-09-23."
+        "Standings snapshot: 2026-09-24."
       ],
       "title": "MLB: Cleveland Guardians at Kansas City Royals",
       "start": "2026-09-26T23:10:00.000Z",
       "end": "2026-09-27T02:10:00.000Z",
       "allDay": false,
-      "description": "Cleveland Guardians: lead their division by 1 game.\nFollowing Cleveland Guardians.\nStandings snapshot: 2026-09-23.\n\nViewing window: 3 hours; finish is approximate.\n\nListed broadcasts: Guardians.TV Presented by Progressive / Royals.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/824057",
+      "description": "Cleveland Guardians: lead their division by 1 game.\nFollowing Cleveland Guardians.\nStandings snapshot: 2026-09-24.\n\nViewing window: 3 hours; finish is approximate.\n\nListed broadcasts: Guardians.TV Presented by Progressive / Royals.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/824057",
       "location": "Kauffman Stadium",
       "url": "https://www.mlb.com/gameday/824057",
       "status": "CONFIRMED",
@@ -1138,10 +1138,10 @@
         "Pennant race",
         "Cleveland Guardians"
       ],
-      "hash": "b8cf74a61becec348aff9386ce9536c2eb112848ef0e2432f6f151e45e20fc33",
+      "hash": "e9a3f6f898c46a666c1a6c269721f52ec75e511e6539d3f2e3f64ff2a953a8e5",
       "created": "2026-09-21T08:01:52.603Z",
-      "modified": "2026-09-23T07:50:04.909Z",
-      "sequence": 2
+      "modified": "2026-09-24T07:40:06.928Z",
+      "sequence": 3
     },
     {
       "uid": "college-football-401856702@football-watchlist",
@@ -1218,13 +1218,13 @@
       ],
       "selectionReasons": [
         "Houston Astros: tied for the division lead.",
-        "Standings snapshot: 2026-09-23."
+        "Standings snapshot: 2026-09-24."
       ],
       "title": "MLB: Houston Astros at Athletics",
       "start": "2026-09-27T19:05:00.000Z",
       "end": "2026-09-27T22:05:00.000Z",
       "allDay": false,
-      "description": "Houston Astros: tied for the division lead.\nStandings snapshot: 2026-09-23.\n\nViewing window: 3 hours; finish is approximate.\n\nListed broadcasts: NBCSCA / Space City Home Network. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/824948",
+      "description": "Houston Astros: tied for the division lead.\nStandings snapshot: 2026-09-24.\n\nViewing window: 3 hours; finish is approximate.\n\nListed broadcasts: NBCSCA / Space City Home Network. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/824948",
       "location": "Sutter Health Park",
       "url": "https://www.mlb.com/gameday/824948",
       "status": "CONFIRMED",
@@ -1232,10 +1232,10 @@
         "MLB",
         "Pennant race"
       ],
-      "hash": "b82df6eae5b9769df18a00594e7253a43aa10ae6d1ab63ba37ed508a7e4d8170",
+      "hash": "acd01673bd3b59eb5648e87f0bad53bf5c7f75bb1752e4eb3575d1d141f3a374",
       "created": "2026-09-20T22:32:28.050Z",
-      "modified": "2026-09-23T07:50:04.909Z",
-      "sequence": 3
+      "modified": "2026-09-24T07:40:06.928Z",
+      "sequence": 4
     },
     {
       "uid": "nfl-401872960@football-watchlist",
@@ -5933,7 +5933,7 @@
   "nflGames": 285,
   "collegeGames": 949,
   "baseball": {
-    "checkedOn": "2026-09-23",
+    "checkedOn": "2026-09-24",
     "season": 2026,
     "scheduleGames": 414,
     "events": 62,
