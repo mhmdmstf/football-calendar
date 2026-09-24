@@ -843,22 +843,22 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-823895@football-watchlist
-DTSTAMP:20260924T074006Z
+DTSTAMP:20260924T231528Z
 CREATED:20260923T075004Z
-LAST-MODIFIED:20260924T074006Z
-SEQUENCE:1
+LAST-MODIFIED:20260924T231528Z
+SEQUENCE:2
 DTSTART:20260925T021000Z
 DTEND:20260925T051000Z
 SUMMARY:MLB: San Diego Padres at Los Angeles Dodgers
 DESCRIPTION:Two teams with live postseason stakes meet directly.\nSan Diego
-  Padres: 4 games ahead of the first team outside the wild cards.\nLos Ange
- les Dodgers: already qualified\; close records keep postseason home-field 
- positioning in play.\nFollowing San Diego Padres.\nStandings snapshot: 202
- 6-09-24.\n\nViewing window: 3 hours\; finish is approximate.\n\nProbable p
- itchers (subject to change): Nick Pivetta / Tyler Glasnow.\n\nListed broad
- casts: SportsNet LA / Padres.TV Presented by UC San Diego Health / MLB Net
- work. Availability varies by country and provider.\n\nOfficial schedule: h
- ttps://www.mlb.com/gameday/823895
+  Padres: 3.5 games ahead of the first team outside the wild cards.\nLos An
+ geles Dodgers: already qualified\; close records keep postseason home-fiel
+ d positioning in play.\nFollowing San Diego Padres.\nStandings snapshot: 2
+ 026-09-24.\n\nViewing window: 3 hours\; finish is approximate.\n\nProbable
+  pitchers (subject to change): Nick Pivetta / Tyler Glasnow.\n\nListed bro
+ adcasts: SportsNet LA / Padres.TV Presented by UC San Diego Health / MLB N
+ etwork. Availability varies by country and provider.\n\nOfficial schedule:
+  https://www.mlb.com/gameday/823895
 LOCATION:UNIQLO Field at Dodger Stadium
 URL:https://www.mlb.com/gameday/823895
 CATEGORIES:MLB,Pennant race,San Diego Padres
@@ -867,21 +867,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-823248@football-watchlist
-DTSTAMP:20260924T182756Z
+DTSTAMP:20260924T231528Z
 CREATED:20260921T080152Z
-LAST-MODIFIED:20260924T182756Z
-SEQUENCE:4
+LAST-MODIFIED:20260924T231528Z
+SEQUENCE:5
 DTSTART:20260926T014000Z
 DTEND:20260926T044000Z
 SUMMARY:MLB: Arizona Diamondbacks at San Diego Padres
 DESCRIPTION:Two teams with live postseason stakes meet directly.\nArizona D
- iamondbacks: 3 games behind the final wild-card spot.\nSan Diego Padres: 4
-  games ahead of the first team outside the wild cards.\nFollowing San Dieg
- o Padres.\nStandings snapshot: 2026-09-24.\n\nViewing window: 3 hours\; fi
- nish is approximate.\n\nProbable pitchers (subject to change): Brandon Pfa
- adt.\n\nListed broadcasts: Padres.TV Presented by UC San Diego Health / DB
- ACKS.TV. Availability varies by country and provider.\n\nOfficial schedule
- : https://www.mlb.com/gameday/823248
+ iamondbacks: 2.5 games behind the final wild-card spot.\nSan Diego Padres:
+  3.5 games ahead of the first team outside the wild cards.\nFollowing San 
+ Diego Padres.\nStandings snapshot: 2026-09-24.\n\nViewing window: 3 hours\
+ ; finish is approximate.\n\nProbable pitchers (subject to change): Brandon
+  Pfaadt.\n\nListed broadcasts: Padres.TV Presented by UC San Diego Health 
+ / DBACKS.TV. Availability varies by country and provider.\n\nOfficial sche
+ dule: https://www.mlb.com/gameday/823248
 LOCATION:Petco Park
 URL:https://www.mlb.com/gameday/823248
 CATEGORIES:MLB,Pennant race,San Diego Padres
@@ -1054,19 +1054,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-824057@football-watchlist
-DTSTAMP:20260924T182756Z
+DTSTAMP:20260924T231528Z
 CREATED:20260921T080152Z
-LAST-MODIFIED:20260924T182756Z
-SEQUENCE:4
+LAST-MODIFIED:20260924T231528Z
+SEQUENCE:5
 DTSTART:20260926T231000Z
 DTEND:20260927T021000Z
 SUMMARY:MLB: Cleveland Guardians at Kansas City Royals
-DESCRIPTION:Cleveland Guardians: lead their division by 1 game.\nFollowing 
- Cleveland Guardians.\nStandings snapshot: 2026-09-24.\n\nViewing window: 3
-  hours\; finish is approximate.\n\nProbable pitchers (subject to change): 
- Michael Wacha.\n\nListed broadcasts: Guardians.TV Presented by Progressive
-  / Royals.TV. Availability varies by country and provider.\n\nOfficial sch
- edule: https://www.mlb.com/gameday/824057
+DESCRIPTION:Cleveland Guardians: lead their division by 0.5 games.\nFollowi
+ ng Cleveland Guardians.\nStandings snapshot: 2026-09-24.\n\nViewing window
+ : 3 hours\; finish is approximate.\n\nProbable pitchers (subject to change
+ ): Tanner Bibee / Michael Wacha.\n\nListed broadcasts: Guardians.TV Presen
+ ted by Progressive / Royals.TV. Availability varies by country and provide
+ r.\n\nOfficial schedule: https://www.mlb.com/gameday/824057
 LOCATION:Kauffman Stadium
 URL:https://www.mlb.com/gameday/824057
 CATEGORIES:MLB,Pennant race,Cleveland Guardians
@@ -1136,18 +1136,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-824948@football-watchlist
-DTSTAMP:20260924T074006Z
+DTSTAMP:20260924T231528Z
 CREATED:20260920T223228Z
-LAST-MODIFIED:20260924T074006Z
-SEQUENCE:4
+LAST-MODIFIED:20260924T231528Z
+SEQUENCE:5
 DTSTART:20260927T190500Z
 DTEND:20260927T220500Z
 SUMMARY:MLB: Houston Astros at Athletics
-DESCRIPTION:Houston Astros: tied for the division lead.\nStandings snapshot
- : 2026-09-24.\n\nViewing window: 3 hours\; finish is approximate.\n\nListe
- d broadcasts: NBCSCA / Space City Home Network. Availability varies by cou
- ntry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/82494
- 8
+DESCRIPTION:Houston Astros: 0.5 games behind the division lead.\nStandings 
+ snapshot: 2026-09-24.\n\nViewing window: 3 hours\; finish is approximate.\
+ n\nListed broadcasts: NBCSCA / Space City Home Network. Availability varie
+ s by country and provider.\n\nOfficial schedule: https://www.mlb.com/gamed
+ ay/824948
 LOCATION:Sutter Health Park
 URL:https://www.mlb.com/gameday/824948
 CATEGORIES:MLB,Pennant race
