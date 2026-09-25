@@ -867,10 +867,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-823248@football-watchlist
-DTSTAMP:20260925T075750Z
+DTSTAMP:20260925T232050Z
 CREATED:20260921T080152Z
-LAST-MODIFIED:20260925T075750Z
-SEQUENCE:6
+LAST-MODIFIED:20260925T232050Z
+SEQUENCE:7
 DTSTART:20260926T014000Z
 DTEND:20260926T044000Z
 SUMMARY:MLB: Arizona Diamondbacks at San Diego Padres
@@ -879,9 +879,10 @@ DESCRIPTION:Two teams with live postseason stakes meet directly.\nArizona D
  lready qualified\; close records keep postseason home-field positioning in
   play.\nFollowing San Diego Padres.\nStandings snapshot: 2026-09-25.\n\nVi
  ewing window: 3 hours\; finish is approximate.\n\nProbable pitchers (subje
- ct to change): Brandon Pfaadt.\n\nListed broadcasts: Padres.TV Presented b
- y UC San Diego Health / DBACKS.TV. Availability varies by country and prov
- ider.\n\nOfficial schedule: https://www.mlb.com/gameday/823248
+ ct to change): Brandon Pfaadt / Casey Mize.\n\nListed broadcasts: Padres.T
+ V Presented by UC San Diego Health / DBACKS.TV. Availability varies by cou
+ ntry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/82324
+ 8
 LOCATION:Petco Park
 URL:https://www.mlb.com/gameday/823248
 CATEGORIES:MLB,Pennant race,San Diego Padres
@@ -1241,14 +1242,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849849@football-watchlist
-DTSTAMP:20260925T075750Z
+DTSTAMP:20260925T232050Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260925T075750Z
-SEQUENCE:2
+LAST-MODIFIED:20260925T232050Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-SUMMARY:MLB: AL Wild Card 'A' Game 1 - AL Wild Card #3 at AL West #1 [time 
- TBA]
+SUMMARY:MLB: AL Wild Card 'A' Game 1 - CWS/CLE at HOU/TEX [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
@@ -1263,20 +1263,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849851@football-watchlist
-DTSTAMP:20260923T075004Z
+DTSTAMP:20260925T232050Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260923T075004Z
-SEQUENCE:3
+LAST-MODIFIED:20260925T232050Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-SUMMARY:MLB: AL Wild Card 'B' Game 1 - AL Wild Card #2 at New York Yankees 
- [time TBA]
+SUMMARY:MLB: AL Wild Card 'B' Game 1 - Boston Red Sox at New York Yankees [
+ time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
- s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: NBC/Peacock / Universo/ Peacock. Availability varies by country and
-  provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849851
+ the World Series.\n\nFirst pitch has not been announced. This all-day mark
+ er will become a timed event when confirmed.\n\nListed broadcasts: NBC/Pea
+ cock / Universo/ Peacock. Availability varies by country and provider.\n\n
+ Official schedule: https://www.mlb.com/gameday/849851
 LOCATION:Yankee Stadium
 URL:https://www.mlb.com/gameday/849851
 CATEGORIES:MLB,Playoffs
@@ -1349,14 +1348,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849846@football-watchlist
-DTSTAMP:20260925T075750Z
+DTSTAMP:20260925T232050Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260925T075750Z
-SEQUENCE:2
+LAST-MODIFIED:20260925T232050Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-SUMMARY:MLB: AL Wild Card 'A' Game 2 - AL Wild Card #3 at AL West #1 [time 
- TBA]
+SUMMARY:MLB: AL Wild Card 'A' Game 2 - CWS/CLE at HOU/TEX [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
@@ -1371,20 +1369,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849848@football-watchlist
-DTSTAMP:20260923T075004Z
+DTSTAMP:20260925T232050Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260923T075004Z
-SEQUENCE:3
+LAST-MODIFIED:20260925T232050Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-SUMMARY:MLB: AL Wild Card 'B' Game 2 - AL Wild Card #2 at New York Yankees 
- [time TBA]
+SUMMARY:MLB: AL Wild Card 'B' Game 2 - Boston Red Sox at New York Yankees [
+ time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
- s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: NBC/Peacock / Universo/ Peacock. Availability varies by country and
-  provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849848
+ the World Series.\n\nFirst pitch has not been announced. This all-day mark
+ er will become a timed event when confirmed.\n\nListed broadcasts: NBC/Pea
+ cock / Universo/ Peacock. Availability varies by country and provider.\n\n
+ Official schedule: https://www.mlb.com/gameday/849848
 LOCATION:Yankee Stadium
 URL:https://www.mlb.com/gameday/849848
 CATEGORIES:MLB,Playoffs
@@ -1441,22 +1438,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849847@football-watchlist
-DTSTAMP:20260923T075004Z
+DTSTAMP:20260925T232050Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260923T075004Z
-SEQUENCE:3
+LAST-MODIFIED:20260925T232050Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-SUMMARY:MLB: AL Wild Card 'B' Game 3 - AL Wild Card #2 at New York Yankees 
- [if necessary] [time TBA]
+SUMMARY:MLB: AL Wild Card 'B' Game 3 - Boston Red Sox at New York Yankees [
+ if necessary] [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nBracket positions
-  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
- st pitch has not been announced. This all-day marker will become a timed e
- vent when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock
- . Availability varies by country and provider.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/849847
+ t will be cancelled in this feed if no longer needed.\n\nFirst pitch has n
+ ot been announced. This all-day marker will become a timed event when conf
+ irmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability
+  varies by country and provider.\n\nOfficial schedule: https://www.mlb.com
+ /gameday/849847
 LOCATION:Yankee Stadium
 URL:https://www.mlb.com/gameday/849847
 CATEGORIES:MLB,Playoffs
@@ -1465,14 +1461,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849850@football-watchlist
-DTSTAMP:20260925T075750Z
+DTSTAMP:20260925T232050Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260925T075750Z
-SEQUENCE:2
+LAST-MODIFIED:20260925T232050Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-SUMMARY:MLB: AL Wild Card 'A' Game 3 - AL Wild Card #3 at AL West #1 [if ne
- cessary] [time TBA]
+SUMMARY:MLB: AL Wild Card 'A' Game 3 - CWS/CLE at HOU/TEX [if necessary] [t
+ ime TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
@@ -1574,13 +1570,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849829@football-watchlist
-DTSTAMP:20260925T075750Z
+DTSTAMP:20260925T232050Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260925T075750Z
-SEQUENCE:3
+LAST-MODIFIED:20260925T232050Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-SUMMARY:MLB: ALDS 'B' Game 1 - AL 3/6 Winner at AL Central #1 [time TBA]
+SUMMARY:MLB: ALDS 'B' Game 1 - AL 3/6 Winner at CLE/CWS [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
@@ -1865,13 +1861,13 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849834@football-watchlist
-DTSTAMP:20260925T075750Z
+DTSTAMP:20260925T232050Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260925T075750Z
-SEQUENCE:3
+LAST-MODIFIED:20260925T232050Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-SUMMARY:MLB: ALDS 'B' Game 2 - AL 3/6 Winner at AL Central #1 [time TBA]
+SUMMARY:MLB: ALDS 'B' Game 2 - AL 3/6 Winner at CLE/CWS [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
@@ -2037,13 +2033,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849833@football-watchlist
-DTSTAMP:20260925T075750Z
+DTSTAMP:20260925T232050Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260925T075750Z
-SEQUENCE:3
+LAST-MODIFIED:20260925T232050Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-SUMMARY:MLB: ALDS 'B' Game 3 - AL Central #1 at AL 3/6 Winner [time TBA]
+SUMMARY:MLB: ALDS 'B' Game 3 - CLE/CWS at AL 3/6 Winner [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
@@ -2079,14 +2075,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849832@football-watchlist
-DTSTAMP:20260925T075750Z
+DTSTAMP:20260925T232050Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260925T075750Z
-SEQUENCE:3
+LAST-MODIFIED:20260925T232050Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-SUMMARY:MLB: ALDS 'B' Game 4 - AL Central #1 at AL 3/6 Winner [if necessary
- ] [time TBA]
+SUMMARY:MLB: ALDS 'B' Game 4 - CLE/CWS at AL 3/6 Winner [if necessary] [tim
+ e TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
@@ -2258,14 +2254,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849831@football-watchlist
-DTSTAMP:20260925T075750Z
+DTSTAMP:20260925T232050Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260925T075750Z
-SEQUENCE:3
+LAST-MODIFIED:20260925T232050Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-SUMMARY:MLB: ALDS 'B' Game 5 - AL 3/6 Winner at AL Central #1 [if necessary
- ] [time TBA]
+SUMMARY:MLB: ALDS 'B' Game 5 - AL 3/6 Winner at CLE/CWS [if necessary] [tim
+ e TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nBracket positions

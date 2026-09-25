@@ -932,7 +932,7 @@
       "start": "2026-09-26T01:40:00.000Z",
       "end": "2026-09-26T04:40:00.000Z",
       "allDay": false,
-      "description": "Two teams with live postseason stakes meet directly.\nArizona Diamondbacks: 2 games behind the final wild-card spot.\nSan Diego Padres: already qualified; close records keep postseason home-field positioning in play.\nFollowing San Diego Padres.\nStandings snapshot: 2026-09-25.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Brandon Pfaadt.\n\nListed broadcasts: Padres.TV Presented by UC San Diego Health / DBACKS.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823248",
+      "description": "Two teams with live postseason stakes meet directly.\nArizona Diamondbacks: 2 games behind the final wild-card spot.\nSan Diego Padres: already qualified; close records keep postseason home-field positioning in play.\nFollowing San Diego Padres.\nStandings snapshot: 2026-09-25.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Brandon Pfaadt / Casey Mize.\n\nListed broadcasts: Padres.TV Presented by UC San Diego Health / DBACKS.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823248",
       "location": "Petco Park",
       "url": "https://www.mlb.com/gameday/823248",
       "status": "CONFIRMED",
@@ -941,10 +941,10 @@
         "Pennant race",
         "San Diego Padres"
       ],
-      "hash": "34db4b497f6fb88087648d649e5e62451712a8014f30031b2564dd9ca44f577d",
+      "hash": "f348b3ea260e011eddade951d9628bdbccd3b845a064f92bc62dfa140dbcc450",
       "created": "2026-09-21T08:01:52.603Z",
-      "modified": "2026-09-25T07:57:50.474Z",
-      "sequence": 6
+      "modified": "2026-09-25T23:20:50.299Z",
+      "sequence": 7
     },
     {
       "uid": "show-gameday-2026-09-26@football-watchlist",
@@ -1355,7 +1355,7 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: AL Wild Card 'A' Game 1 - AL Wild Card #3 at AL West #1 [time TBA]",
+      "title": "MLB: AL Wild Card 'A' Game 1 - CWS/CLE at HOU/TEX [time TBA]",
       "start": "2026-09-29",
       "end": "2026-09-30",
       "allDay": true,
@@ -1367,10 +1367,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "d07d00d5bdaa0992a9c99529575ebd4b57184b142bd1d1b0cbfa7a2d80ace1ae",
+      "hash": "65ea2041d1180c126de0ad7eccbb4183ee780b87266738b96d9449150aba2122",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-25T07:57:50.474Z",
-      "sequence": 2
+      "modified": "2026-09-25T23:20:50.299Z",
+      "sequence": 3
     },
     {
       "uid": "mlb-849851@football-watchlist",
@@ -1381,17 +1381,17 @@
       "mlbSeriesGameNumber": 1,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
-        "4944",
+        "111",
         "147"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: AL Wild Card 'B' Game 1 - AL Wild Card #2 at New York Yankees [time TBA]",
+      "title": "MLB: AL Wild Card 'B' Game 1 - Boston Red Sox at New York Yankees [time TBA]",
       "start": "2026-09-29",
       "end": "2026-09-30",
       "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849851",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849851",
       "location": "Yankee Stadium",
       "url": "https://www.mlb.com/gameday/849851",
       "status": "TENTATIVE",
@@ -1399,10 +1399,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "2ecae4ef9185e337c12af53a8f516d8040fc585a866e0369f9c00dc6f537fa38",
+      "hash": "59b7af34e33fb65e9128b95100a645c46b4aa8e66e91e4dcd53c83faaeb444db",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-23T07:50:04.909Z",
-      "sequence": 3
+      "modified": "2026-09-25T23:20:50.299Z",
+      "sequence": 4
     },
     {
       "uid": "nfl-401872963@football-watchlist",
@@ -1502,7 +1502,7 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: AL Wild Card 'A' Game 2 - AL Wild Card #3 at AL West #1 [time TBA]",
+      "title": "MLB: AL Wild Card 'A' Game 2 - CWS/CLE at HOU/TEX [time TBA]",
       "start": "2026-09-30",
       "end": "2026-10-01",
       "allDay": true,
@@ -1514,10 +1514,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "697deef7a68d675bc6ed3cdf4417e8a04243ac76746d44b436d55ce30e92c028",
+      "hash": "37200f5eb4bbc8bfebf783c4111976f047b2c6510aa1d08340099dbbb0c4ed54",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-25T07:57:50.474Z",
-      "sequence": 2
+      "modified": "2026-09-25T23:20:50.299Z",
+      "sequence": 3
     },
     {
       "uid": "mlb-849848@football-watchlist",
@@ -1528,17 +1528,17 @@
       "mlbSeriesGameNumber": 2,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
-        "4944",
+        "111",
         "147"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: AL Wild Card 'B' Game 2 - AL Wild Card #2 at New York Yankees [time TBA]",
+      "title": "MLB: AL Wild Card 'B' Game 2 - Boston Red Sox at New York Yankees [time TBA]",
       "start": "2026-09-30",
       "end": "2026-10-01",
       "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849848",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849848",
       "location": "Yankee Stadium",
       "url": "https://www.mlb.com/gameday/849848",
       "status": "TENTATIVE",
@@ -1546,10 +1546,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "bdce12febe95cc507bea31565512d6ad86bf1db5efce607960d3611603aa6fdc",
+      "hash": "5eebef978c76212e49127d1177332b10840de24f892e58554328148e92235822",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-23T07:50:04.909Z",
-      "sequence": 3
+      "modified": "2026-09-25T23:20:50.299Z",
+      "sequence": 4
     },
     {
       "uid": "mlb-849840@football-watchlist",
@@ -1624,17 +1624,17 @@
       "mlbSeriesGameNumber": 3,
       "mlbIfNecessary": true,
       "mlbTeamIds": [
-        "4944",
+        "111",
         "147"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: AL Wild Card 'B' Game 3 - AL Wild Card #2 at New York Yankees [if necessary] [time TBA]",
+      "title": "MLB: AL Wild Card 'B' Game 3 - Boston Red Sox at New York Yankees [if necessary] [time TBA]",
       "start": "2026-10-01",
       "end": "2026-10-02",
       "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849847",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849847",
       "location": "Yankee Stadium",
       "url": "https://www.mlb.com/gameday/849847",
       "status": "TENTATIVE",
@@ -1642,10 +1642,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "a635c83c74b6907721c280897e3ca45752bac85fabc588dfde7508e8355afc0d",
+      "hash": "39b17a009be0ef6104d2b27db16eec612fe4e92cadeb48d34b004dc34776ce29",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-23T07:50:04.909Z",
-      "sequence": 3
+      "modified": "2026-09-25T23:20:50.299Z",
+      "sequence": 4
     },
     {
       "uid": "mlb-849850@football-watchlist",
@@ -1662,7 +1662,7 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: AL Wild Card 'A' Game 3 - AL Wild Card #3 at AL West #1 [if necessary] [time TBA]",
+      "title": "MLB: AL Wild Card 'A' Game 3 - CWS/CLE at HOU/TEX [if necessary] [time TBA]",
       "start": "2026-10-01",
       "end": "2026-10-02",
       "allDay": true,
@@ -1674,10 +1674,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "6b58b190c8d54bbadd89bf4e27fad748f505e853cf8b1ac85d9e4c42b5b52b96",
+      "hash": "0a3b777ecaf3c8a865a7463bcc3533c4ce149b4bc864b3d30ddbdf7ccdef3914",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-25T07:57:50.474Z",
-      "sequence": 2
+      "modified": "2026-09-25T23:20:50.299Z",
+      "sequence": 3
     },
     {
       "uid": "nfl-401872964@football-watchlist",
@@ -1786,7 +1786,7 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALDS 'B' Game 1 - AL 3/6 Winner at AL Central #1 [time TBA]",
+      "title": "MLB: ALDS 'B' Game 1 - AL 3/6 Winner at CLE/CWS [time TBA]",
       "start": "2026-10-03",
       "end": "2026-10-04",
       "allDay": true,
@@ -1798,10 +1798,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "e62647cd40c887a84457e1256251cf2a0c00cb6403755350953d5e7502f64621",
+      "hash": "8537cd9b401019052813da669eef3e3bc0e11b4ed8d3ac6e9184efbc7e6ad1e0",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-25T07:57:50.474Z",
-      "sequence": 3
+      "modified": "2026-09-25T23:20:50.299Z",
+      "sequence": 4
     },
     {
       "uid": "mlb-849830@football-watchlist",
@@ -2128,7 +2128,7 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALDS 'B' Game 2 - AL 3/6 Winner at AL Central #1 [time TBA]",
+      "title": "MLB: ALDS 'B' Game 2 - AL 3/6 Winner at CLE/CWS [time TBA]",
       "start": "2026-10-05",
       "end": "2026-10-06",
       "allDay": true,
@@ -2140,10 +2140,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "b448e6088ced72592ab1e7e7481e8a5b0c2121baeedba775fa524bccb9813d98",
+      "hash": "680d7ecaf92b90b15ec573e97d93952914e27871b9a4453f1848c8752e96630e",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-25T07:57:50.474Z",
-      "sequence": 3
+      "modified": "2026-09-25T23:20:50.299Z",
+      "sequence": 4
     },
     {
       "uid": "mlb-849839@football-watchlist",
@@ -2359,7 +2359,7 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALDS 'B' Game 3 - AL Central #1 at AL 3/6 Winner [time TBA]",
+      "title": "MLB: ALDS 'B' Game 3 - CLE/CWS at AL 3/6 Winner [time TBA]",
       "start": "2026-10-07",
       "end": "2026-10-08",
       "allDay": true,
@@ -2371,10 +2371,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "b909d11b888133a2b2b1de39db6a5bbf772b9b999fa2a5873aafc02a84c83046",
+      "hash": "c9c5287423b1c0a7e5b479d97f0df282e1eba167a7a0c5b8c36e63474c5da98d",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-25T07:57:50.474Z",
-      "sequence": 3
+      "modified": "2026-09-25T23:20:50.299Z",
+      "sequence": 4
     },
     {
       "uid": "mlb-849838@football-watchlist",
@@ -2424,7 +2424,7 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALDS 'B' Game 4 - AL Central #1 at AL 3/6 Winner [if necessary] [time TBA]",
+      "title": "MLB: ALDS 'B' Game 4 - CLE/CWS at AL 3/6 Winner [if necessary] [time TBA]",
       "start": "2026-10-08",
       "end": "2026-10-09",
       "allDay": true,
@@ -2436,10 +2436,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "d68daf528e1c599146af6fa3ef9ef36c8076dc86856c92b60dd6d19d6486118c",
+      "hash": "3c4deb3c7a0309ec4afb6b1fff93dc9854d58c10da77c3e7a14d89daeba88e5e",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-25T07:57:50.474Z",
-      "sequence": 3
+      "modified": "2026-09-25T23:20:50.299Z",
+      "sequence": 4
     },
     {
       "uid": "mlb-849837@football-watchlist",
@@ -2634,7 +2634,7 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALDS 'B' Game 5 - AL 3/6 Winner at AL Central #1 [if necessary] [time TBA]",
+      "title": "MLB: ALDS 'B' Game 5 - AL 3/6 Winner at CLE/CWS [if necessary] [time TBA]",
       "start": "2026-10-10",
       "end": "2026-10-11",
       "allDay": true,
@@ -2646,10 +2646,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "af96294f3a47b1df46da7df718205394ee4993e6661d3b0a5d143f4490dad97f",
+      "hash": "e054f0759ed8b48d4fab5f3d072739ca831f1286834503b3481131b630e778c8",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-25T07:57:50.474Z",
-      "sequence": 3
+      "modified": "2026-09-25T23:20:50.299Z",
+      "sequence": 4
     },
     {
       "uid": "mlb-849836@football-watchlist",
