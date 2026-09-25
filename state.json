@@ -1,5 +1,5 @@
 {
-  "checkedOn": "2026-09-24",
+  "checkedOn": "2026-09-25",
   "season": 2026,
   "events": [
     {
@@ -923,16 +923,16 @@
       ],
       "selectionReasons": [
         "Two teams with live postseason stakes meet directly.",
-        "Arizona Diamondbacks: 2.5 games behind the final wild-card spot.",
-        "San Diego Padres: 3.5 games ahead of the first team outside the wild cards.",
+        "Arizona Diamondbacks: 2 games behind the final wild-card spot.",
+        "San Diego Padres: already qualified; close records keep postseason home-field positioning in play.",
         "Following San Diego Padres.",
-        "Standings snapshot: 2026-09-24."
+        "Standings snapshot: 2026-09-25."
       ],
       "title": "MLB: Arizona Diamondbacks at San Diego Padres",
       "start": "2026-09-26T01:40:00.000Z",
       "end": "2026-09-26T04:40:00.000Z",
       "allDay": false,
-      "description": "Two teams with live postseason stakes meet directly.\nArizona Diamondbacks: 2.5 games behind the final wild-card spot.\nSan Diego Padres: 3.5 games ahead of the first team outside the wild cards.\nFollowing San Diego Padres.\nStandings snapshot: 2026-09-24.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Brandon Pfaadt.\n\nListed broadcasts: Padres.TV Presented by UC San Diego Health / DBACKS.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823248",
+      "description": "Two teams with live postseason stakes meet directly.\nArizona Diamondbacks: 2 games behind the final wild-card spot.\nSan Diego Padres: already qualified; close records keep postseason home-field positioning in play.\nFollowing San Diego Padres.\nStandings snapshot: 2026-09-25.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Brandon Pfaadt.\n\nListed broadcasts: Padres.TV Presented by UC San Diego Health / DBACKS.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823248",
       "location": "Petco Park",
       "url": "https://www.mlb.com/gameday/823248",
       "status": "CONFIRMED",
@@ -941,10 +941,10 @@
         "Pennant race",
         "San Diego Padres"
       ],
-      "hash": "e63d9446f09721016d9fa7ae2b0dedba5674d1334621f44bb030e149b58c2d94",
+      "hash": "34db4b497f6fb88087648d649e5e62451712a8014f30031b2564dd9ca44f577d",
       "created": "2026-09-21T08:01:52.603Z",
-      "modified": "2026-09-24T23:15:28.372Z",
-      "sequence": 5
+      "modified": "2026-09-25T07:57:50.474Z",
+      "sequence": 6
     },
     {
       "uid": "show-gameday-2026-09-26@football-watchlist",
@@ -1121,15 +1121,16 @@
         "118"
       ],
       "selectionReasons": [
-        "Cleveland Guardians: lead their division by 0.5 games.",
+        "Cleveland Guardians: lead their division by 1 game.",
+        "Cleveland Guardians: already qualified; close records keep postseason home-field positioning in play.",
         "Following Cleveland Guardians.",
-        "Standings snapshot: 2026-09-24."
+        "Standings snapshot: 2026-09-25."
       ],
       "title": "MLB: Cleveland Guardians at Kansas City Royals",
       "start": "2026-09-26T23:10:00.000Z",
       "end": "2026-09-27T02:10:00.000Z",
       "allDay": false,
-      "description": "Cleveland Guardians: lead their division by 0.5 games.\nFollowing Cleveland Guardians.\nStandings snapshot: 2026-09-24.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Tanner Bibee / Michael Wacha.\n\nListed broadcasts: Guardians.TV Presented by Progressive / Royals.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/824057",
+      "description": "Cleveland Guardians: lead their division by 1 game.\nCleveland Guardians: already qualified; close records keep postseason home-field positioning in play.\nFollowing Cleveland Guardians.\nStandings snapshot: 2026-09-25.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Tanner Bibee / Michael Wacha.\n\nListed broadcasts: Guardians.TV Presented by Progressive / Royals.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/824057",
       "location": "Kauffman Stadium",
       "url": "https://www.mlb.com/gameday/824057",
       "status": "CONFIRMED",
@@ -1138,10 +1139,10 @@
         "Pennant race",
         "Cleveland Guardians"
       ],
-      "hash": "a2e6602efd3f22bf1f4964d8864079125086abb51f0f73db2371fdf762d1bede",
+      "hash": "a00dfce81d27d2766b4ff32b3bf826eac57664b1d7bc6639fac91f7f4ceaddfc",
       "created": "2026-09-21T08:01:52.603Z",
-      "modified": "2026-09-24T23:15:28.372Z",
-      "sequence": 5
+      "modified": "2026-09-25T07:57:50.474Z",
+      "sequence": 6
     },
     {
       "uid": "college-football-401856702@football-watchlist",
@@ -1217,14 +1218,14 @@
         "133"
       ],
       "selectionReasons": [
-        "Houston Astros: 0.5 games behind the division lead.",
-        "Standings snapshot: 2026-09-24."
+        "Houston Astros: tied for the division lead.",
+        "Standings snapshot: 2026-09-25."
       ],
       "title": "MLB: Houston Astros at Athletics",
       "start": "2026-09-27T19:05:00.000Z",
       "end": "2026-09-27T22:05:00.000Z",
       "allDay": false,
-      "description": "Houston Astros: 0.5 games behind the division lead.\nStandings snapshot: 2026-09-24.\n\nViewing window: 3 hours; finish is approximate.\n\nListed broadcasts: NBCSCA / Space City Home Network. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/824948",
+      "description": "Houston Astros: tied for the division lead.\nStandings snapshot: 2026-09-25.\n\nViewing window: 3 hours; finish is approximate.\n\nListed broadcasts: NBCSCA / Space City Home Network. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/824948",
       "location": "Sutter Health Park",
       "url": "https://www.mlb.com/gameday/824948",
       "status": "CONFIRMED",
@@ -1232,10 +1233,10 @@
         "MLB",
         "Pennant race"
       ],
-      "hash": "ae0c72397a941d125289d35c32a7e499b4ac403f6895252cf9955d37016e80c8",
+      "hash": "552b348bda04a921b87fff930a0d0f39e1115979273920a9475c1ac779475d80",
       "created": "2026-09-20T22:32:28.050Z",
-      "modified": "2026-09-24T23:15:28.372Z",
-      "sequence": 5
+      "modified": "2026-09-25T07:57:50.474Z",
+      "sequence": 6
     },
     {
       "uid": "nfl-401872960@football-watchlist",
@@ -1317,27 +1318,27 @@
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "4947",
-        "4617"
+        "144"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NL Wild Card 'A' Game 1 - NL Wild Card #3 at NL #3 Seed [time TBA]",
+      "title": "MLB: NL Wild Card 'A' Game 1 - NL Wild Card #3 at Atlanta Braves [time TBA]",
       "start": "2026-09-29",
       "end": "2026-09-30",
       "allDay": true,
       "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849845",
-      "location": "NL Stadium",
+      "location": "Truist Park",
       "url": "https://www.mlb.com/gameday/849845",
       "status": "TENTATIVE",
       "categories": [
         "MLB",
         "Playoffs"
       ],
-      "hash": "4deb12ab1af6744486358ef89f327121dea25425c4c04f5ba562712401aa8dca",
+      "hash": "51acf701518e5720c877bc5537f79110f7ea2aa7f11559ed7fc4d0153d2609c1",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-25T07:57:50.474Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-849849@football-watchlist",
@@ -1354,7 +1355,7 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: AL Wild Card 'A' Game 1 - AL Wild Card #3 at AL #3 Seed [time TBA]",
+      "title": "MLB: AL Wild Card 'A' Game 1 - AL Wild Card #3 at AL West #1 [time TBA]",
       "start": "2026-09-29",
       "end": "2026-09-30",
       "allDay": true,
@@ -1366,10 +1367,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "24ef9162be3f5fd328d6a472b772a7789913d01373dfe904f7587d8f6de651f0",
+      "hash": "d07d00d5bdaa0992a9c99529575ebd4b57184b142bd1d1b0cbfa7a2d80ace1ae",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-25T07:57:50.474Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-849851@football-watchlist",
@@ -1432,27 +1433,27 @@
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "4947",
-        "4617"
+        "144"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NL Wild Card 'A' Game 2 - NL Wild Card #3 at NL #3 Seed [time TBA]",
+      "title": "MLB: NL Wild Card 'A' Game 2 - NL Wild Card #3 at Atlanta Braves [time TBA]",
       "start": "2026-09-30",
       "end": "2026-10-01",
       "allDay": true,
       "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849841",
-      "location": "NL Stadium",
+      "location": "Truist Park",
       "url": "https://www.mlb.com/gameday/849841",
       "status": "TENTATIVE",
       "categories": [
         "MLB",
         "Playoffs"
       ],
-      "hash": "49f2372a55d80179f9ff6f7eccc51f3077b36f1f21087a6b5e9ef4a72a2fcb4f",
+      "hash": "0fa37183cbfb0fc705298feabc949a6ef400b22693ff5d6a02f66f325f3c2523",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-25T07:57:50.474Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-849842@football-watchlist",
@@ -1501,7 +1502,7 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: AL Wild Card 'A' Game 2 - AL Wild Card #3 at AL #3 Seed [time TBA]",
+      "title": "MLB: AL Wild Card 'A' Game 2 - AL Wild Card #3 at AL West #1 [time TBA]",
       "start": "2026-09-30",
       "end": "2026-10-01",
       "allDay": true,
@@ -1513,10 +1514,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "b87588bde1177a00a1d55d819f261d039cd5fd13307949cb401926d022067a27",
+      "hash": "697deef7a68d675bc6ed3cdf4417e8a04243ac76746d44b436d55ce30e92c028",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-25T07:57:50.474Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-849848@football-watchlist",
@@ -1592,27 +1593,27 @@
       "mlbIfNecessary": true,
       "mlbTeamIds": [
         "4947",
-        "4617"
+        "144"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NL Wild Card 'A' Game 3 - NL Wild Card #3 at NL #3 Seed [if necessary] [time TBA]",
+      "title": "MLB: NL Wild Card 'A' Game 3 - NL Wild Card #3 at Atlanta Braves [if necessary] [time TBA]",
       "start": "2026-10-01",
       "end": "2026-10-02",
       "allDay": true,
       "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849844",
-      "location": "NL Stadium",
+      "location": "Truist Park",
       "url": "https://www.mlb.com/gameday/849844",
       "status": "TENTATIVE",
       "categories": [
         "MLB",
         "Playoffs"
       ],
-      "hash": "63297c2b6d60e3580c693157bf206a71c6257011cc3489c579afa688d6f88cbd",
+      "hash": "4344bedd847b4930fbbf35c12e8276f5ba690586fe5ba3266f54d3fa9785e40a",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-25T07:57:50.474Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-849847@football-watchlist",
@@ -1661,7 +1662,7 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: AL Wild Card 'A' Game 3 - AL Wild Card #3 at AL #3 Seed [if necessary] [time TBA]",
+      "title": "MLB: AL Wild Card 'A' Game 3 - AL Wild Card #3 at AL West #1 [if necessary] [time TBA]",
       "start": "2026-10-01",
       "end": "2026-10-02",
       "allDay": true,
@@ -1673,10 +1674,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "f3ec7716517265bf26f708963f2f72930b7acf7423388fc92a969ad093639f88",
+      "hash": "6b58b190c8d54bbadd89bf4e27fad748f505e853cf8b1ac85d9e4c42b5b52b96",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-25T07:57:50.474Z",
+      "sequence": 2
     },
     {
       "uid": "nfl-401872964@football-watchlist",
@@ -1748,27 +1749,27 @@
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "5532",
-        "4616"
+        "119"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NLDS 'B' Game 1 - NL 3/6 Winner at NL #2 Seed [time TBA]",
+      "title": "MLB: NLDS 'B' Game 1 - NL 3/6 Winner at Los Angeles Dodgers [time TBA]",
       "start": "2026-10-03",
       "end": "2026-10-04",
       "allDay": true,
       "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849828",
-      "location": "NL Stadium",
+      "location": "UNIQLO Field at Dodger Stadium",
       "url": "https://www.mlb.com/gameday/849828",
       "status": "TENTATIVE",
       "categories": [
         "MLB",
         "Playoffs"
       ],
-      "hash": "2bba4a5489bece3629964dcb3f96dee6adb87d5a5f3f70cc699f3d8f7cc37df8",
+      "hash": "26f3272c0c616e08bc210b9cd1b5dbdf6b7dbf0b13171d978b460b3c496b6745",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-25T07:57:50.474Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-849829@football-watchlist",
@@ -1785,7 +1786,7 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALDS 'B' Game 1 - AL 3/6 Winner at AL #2 Seed [time TBA]",
+      "title": "MLB: ALDS 'B' Game 1 - AL 3/6 Winner at AL Central #1 [time TBA]",
       "start": "2026-10-03",
       "end": "2026-10-04",
       "allDay": true,
@@ -1797,10 +1798,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "81b9c400b689edc5c68a0f8f3ee439a652dfcf0e5de94ac707f1792e6ed51e8e",
+      "hash": "e62647cd40c887a84457e1256251cf2a0c00cb6403755350953d5e7502f64621",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-22T23:01:54.052Z",
-      "sequence": 2
+      "modified": "2026-09-25T07:57:50.474Z",
+      "sequence": 3
     },
     {
       "uid": "mlb-849830@football-watchlist",
@@ -1812,27 +1813,27 @@
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "5533",
-        "4615"
+        "158"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NLDS 'A' Game 1 - NL 4/5 Winner at NL #1 Seed [time TBA]",
+      "title": "MLB: NLDS 'A' Game 1 - NL 4/5 Winner at Milwaukee Brewers [time TBA]",
       "start": "2026-10-03",
       "end": "2026-10-04",
       "allDay": true,
       "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849830",
-      "location": "NL Stadium",
+      "location": "American Family Field",
       "url": "https://www.mlb.com/gameday/849830",
       "status": "TENTATIVE",
       "categories": [
         "MLB",
         "Playoffs"
       ],
-      "hash": "da3c915c72e36152655dee7adba8acfb206ad03cb81f81e08f6fa2246a431572",
+      "hash": "0aab87988e8b1f512e2916c243a3e775e9dd3a40be0f2fddcdcea7c59f50e4dc",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-25T07:57:50.474Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-849835@football-watchlist",
@@ -2020,27 +2021,27 @@
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "5532",
-        "4616"
+        "119"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NLDS 'B' Game 2 - NL 3/6 Winner at NL #2 Seed [time TBA]",
+      "title": "MLB: NLDS 'B' Game 2 - NL 3/6 Winner at Los Angeles Dodgers [time TBA]",
       "start": "2026-10-04",
       "end": "2026-10-05",
       "allDay": true,
       "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849823",
-      "location": "NL Stadium",
+      "location": "UNIQLO Field at Dodger Stadium",
       "url": "https://www.mlb.com/gameday/849823",
       "status": "TENTATIVE",
       "categories": [
         "MLB",
         "Playoffs"
       ],
-      "hash": "a4f90d1ed4ca038655cf5ca138b588bc23be121905180c15a727a0f76637dfd0",
+      "hash": "72274a635d899447e7f03c9953b02b5bac835f82177abd34c3f4ebe3f902109e",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-25T07:57:50.474Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-849825@football-watchlist",
@@ -2052,27 +2053,27 @@
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "5533",
-        "4615"
+        "158"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NLDS 'A' Game 2 - NL 4/5 Winner at NL #1 Seed [time TBA]",
+      "title": "MLB: NLDS 'A' Game 2 - NL 4/5 Winner at Milwaukee Brewers [time TBA]",
       "start": "2026-10-04",
       "end": "2026-10-05",
       "allDay": true,
       "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849825",
-      "location": "NL Stadium",
+      "location": "American Family Field",
       "url": "https://www.mlb.com/gameday/849825",
       "status": "TENTATIVE",
       "categories": [
         "MLB",
         "Playoffs"
       ],
-      "hash": "dd6e3ce83172cf8024febb1b86b61394936969219f5901524bcef9bbe355c762",
+      "hash": "57e6f52b8e10a12827085c20c15f26de2d80812d8e4f90a40ea79f1aeae81464",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-25T07:57:50.474Z",
+      "sequence": 2
     },
     {
       "uid": "nfl-401872965@football-watchlist",
@@ -2127,7 +2128,7 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALDS 'B' Game 2 - AL 3/6 Winner at AL #2 Seed [time TBA]",
+      "title": "MLB: ALDS 'B' Game 2 - AL 3/6 Winner at AL Central #1 [time TBA]",
       "start": "2026-10-05",
       "end": "2026-10-06",
       "allDay": true,
@@ -2139,10 +2140,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "c040e97b9407307435d8e745ecee28f65c226c44183e3e78780935dffd9b8420",
+      "hash": "b448e6088ced72592ab1e7e7481e8a5b0c2121baeedba775fa524bccb9813d98",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-22T23:01:54.052Z",
-      "sequence": 2
+      "modified": "2026-09-25T07:57:50.474Z",
+      "sequence": 3
     },
     {
       "uid": "mlb-849839@football-watchlist",
@@ -2205,13 +2206,13 @@
       "mlbSeriesGameNumber": 3,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
-        "4616",
+        "119",
         "5532"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NLDS 'B' Game 3 - NL #2 Seed at NL 3/6 Winner [time TBA]",
+      "title": "MLB: NLDS 'B' Game 3 - Los Angeles Dodgers at NL 3/6 Winner [time TBA]",
       "start": "2026-10-06",
       "end": "2026-10-07",
       "allDay": true,
@@ -2223,10 +2224,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "dfd44cb474914603c3ab8d9ee9574293567934859c8e3b6d76542ff7606583d2",
+      "hash": "5eb0751b67ef8e46079f30cc718128157dc4d3f0fa8a3f2cc6685ef1b0b160de",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-25T07:57:50.474Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-849826@football-watchlist",
@@ -2237,13 +2238,13 @@
       "mlbSeriesGameNumber": 3,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
-        "4615",
+        "158",
         "5533"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NLDS 'A' Game 3 - NL #1 Seed at NL 4/5 Winner [time TBA]",
+      "title": "MLB: NLDS 'A' Game 3 - Milwaukee Brewers at NL 4/5 Winner [time TBA]",
       "start": "2026-10-06",
       "end": "2026-10-07",
       "allDay": true,
@@ -2255,10 +2256,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "8997176ee8c8ebebabe3be33a262e16312e6bd1a5df8618c6bfdc70edc427b48",
+      "hash": "12bfebfe86413628385d99234198b796fd91e4afa08b91c54db24d2ecc096a2d",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-25T07:57:50.474Z",
+      "sequence": 2
     },
     {
       "uid": "nfl-401872979@football-watchlist",
@@ -2288,13 +2289,13 @@
       "mlbSeriesGameNumber": 4,
       "mlbIfNecessary": true,
       "mlbTeamIds": [
-        "4616",
+        "119",
         "5532"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NLDS 'B' Game 4 - NL #2 Seed at NL 3/6 Winner [if necessary] [time TBA]",
+      "title": "MLB: NLDS 'B' Game 4 - Los Angeles Dodgers at NL 3/6 Winner [if necessary] [time TBA]",
       "start": "2026-10-07",
       "end": "2026-10-08",
       "allDay": true,
@@ -2306,10 +2307,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "f40974d8da6d89d6003283102b5c3f6b47637bbaa22df596eb6486c038f08a2a",
+      "hash": "12b5e114f5287e8b7fc232ec1d157fff8279be28f8c1ab1e4cfd8eed1deb0378",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-25T07:57:50.474Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-849827@football-watchlist",
@@ -2320,13 +2321,13 @@
       "mlbSeriesGameNumber": 4,
       "mlbIfNecessary": true,
       "mlbTeamIds": [
-        "4615",
+        "158",
         "5533"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NLDS 'A' Game 4  - NL #1 Seed at NL 4/5 Winner [if necessary] [time TBA]",
+      "title": "MLB: NLDS 'A' Game 4  - Milwaukee Brewers at NL 4/5 Winner [if necessary] [time TBA]",
       "start": "2026-10-07",
       "end": "2026-10-08",
       "allDay": true,
@@ -2338,10 +2339,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "c28afe006db85df958dd16a3a97559cc06b4f6af3880c71d6b575051f58e03bf",
+      "hash": "da1bda5e8ff3f1b19d28bd1c7cb476db2e751d505e450b0d410102aa7345ffc3",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-25T07:57:50.474Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-849833@football-watchlist",
@@ -2358,7 +2359,7 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALDS 'B' Game 3 - AL #2 Seed at AL 3/6 Winner [time TBA]",
+      "title": "MLB: ALDS 'B' Game 3 - AL Central #1 at AL 3/6 Winner [time TBA]",
       "start": "2026-10-07",
       "end": "2026-10-08",
       "allDay": true,
@@ -2370,10 +2371,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "be56cdf19b07bfc7ef27452cfd0909586e272852d894f7c95bca0f89502786ce",
+      "hash": "b909d11b888133a2b2b1de39db6a5bbf772b9b999fa2a5873aafc02a84c83046",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-22T23:01:54.052Z",
-      "sequence": 2
+      "modified": "2026-09-25T07:57:50.474Z",
+      "sequence": 3
     },
     {
       "uid": "mlb-849838@football-watchlist",
@@ -2423,7 +2424,7 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALDS 'B' Game 4 - AL #2 Seed at AL 3/6 Winner [if necessary] [time TBA]",
+      "title": "MLB: ALDS 'B' Game 4 - AL Central #1 at AL 3/6 Winner [if necessary] [time TBA]",
       "start": "2026-10-08",
       "end": "2026-10-09",
       "allDay": true,
@@ -2435,10 +2436,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "58b38229b759a88a0d07b9a5bb7f6c27d418ca3158bcc7a413f6de36d877ab4b",
+      "hash": "d68daf528e1c599146af6fa3ef9ef36c8076dc86856c92b60dd6d19d6486118c",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-22T23:01:54.052Z",
-      "sequence": 2
+      "modified": "2026-09-25T07:57:50.474Z",
+      "sequence": 3
     },
     {
       "uid": "mlb-849837@football-watchlist",
@@ -2483,27 +2484,27 @@
       "mlbIfNecessary": true,
       "mlbTeamIds": [
         "5532",
-        "4616"
+        "119"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NLDS 'B' Game 5 - NL 3/6 Winner at NL #2 Seed [if necessary] [time TBA]",
+      "title": "MLB: NLDS 'B' Game 5 - NL 3/6 Winner at Los Angeles Dodgers [if necessary] [time TBA]",
       "start": "2026-10-09",
       "end": "2026-10-10",
       "allDay": true,
       "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849821",
-      "location": "NL Stadium",
+      "location": "UNIQLO Field at Dodger Stadium",
       "url": "https://www.mlb.com/gameday/849821",
       "status": "TENTATIVE",
       "categories": [
         "MLB",
         "Playoffs"
       ],
-      "hash": "7584710be21c0c24f87b2fbcf0a39fa2285214fa1396decd22be4e17645550c1",
+      "hash": "f2e1fe46c562066b5eb73bf175dee0a57164015754c10e1e7fbf10c63078a867",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-25T07:57:50.474Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-849824@football-watchlist",
@@ -2515,27 +2516,27 @@
       "mlbIfNecessary": true,
       "mlbTeamIds": [
         "5533",
-        "4615"
+        "158"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NLDS 'A' Game 5 - NL 4/5 Winner at NL #1 Seed [if necessary] [time TBA]",
+      "title": "MLB: NLDS 'A' Game 5 - NL 4/5 Winner at Milwaukee Brewers [if necessary] [time TBA]",
       "start": "2026-10-09",
       "end": "2026-10-10",
       "allDay": true,
       "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849824",
-      "location": "NL Stadium",
+      "location": "American Family Field",
       "url": "https://www.mlb.com/gameday/849824",
       "status": "TENTATIVE",
       "categories": [
         "MLB",
         "Playoffs"
       ],
-      "hash": "ae820972127de65381d13af7ab6143eb379756ac69179921cb29a0e5db37ef5e",
+      "hash": "f2b272cedc8162314ffde1061a2e03c17b39c2fbe0a56989f0f815b260d8a219",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-25T07:57:50.474Z",
+      "sequence": 2
     },
     {
       "uid": "nfl-401872980@football-watchlist",
@@ -2633,7 +2634,7 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALDS 'B' Game 5 - AL 3/6 Winner at AL #2 Seed [if necessary] [time TBA]",
+      "title": "MLB: ALDS 'B' Game 5 - AL 3/6 Winner at AL Central #1 [if necessary] [time TBA]",
       "start": "2026-10-10",
       "end": "2026-10-11",
       "allDay": true,
@@ -2645,10 +2646,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "1bf01b0dbf68bab34f8233192a4cadd891f1c7c8be6839ad85a20265cbac0126",
+      "hash": "af96294f3a47b1df46da7df718205394ee4993e6661d3b0a5d143f4490dad97f",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-22T23:01:54.052Z",
-      "sequence": 2
+      "modified": "2026-09-25T07:57:50.474Z",
+      "sequence": 3
     },
     {
       "uid": "mlb-849836@football-watchlist",
@@ -5933,7 +5934,7 @@
   "nflGames": 285,
   "collegeGames": 949,
   "baseball": {
-    "checkedOn": "2026-09-24",
+    "checkedOn": "2026-09-25",
     "season": 2026,
     "scheduleGames": 414,
     "events": 62,

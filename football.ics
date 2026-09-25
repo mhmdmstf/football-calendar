@@ -867,21 +867,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-823248@football-watchlist
-DTSTAMP:20260924T231528Z
+DTSTAMP:20260925T075750Z
 CREATED:20260921T080152Z
-LAST-MODIFIED:20260924T231528Z
-SEQUENCE:5
+LAST-MODIFIED:20260925T075750Z
+SEQUENCE:6
 DTSTART:20260926T014000Z
 DTEND:20260926T044000Z
 SUMMARY:MLB: Arizona Diamondbacks at San Diego Padres
 DESCRIPTION:Two teams with live postseason stakes meet directly.\nArizona D
- iamondbacks: 2.5 games behind the final wild-card spot.\nSan Diego Padres:
-  3.5 games ahead of the first team outside the wild cards.\nFollowing San 
- Diego Padres.\nStandings snapshot: 2026-09-24.\n\nViewing window: 3 hours\
- ; finish is approximate.\n\nProbable pitchers (subject to change): Brandon
-  Pfaadt.\n\nListed broadcasts: Padres.TV Presented by UC San Diego Health 
- / DBACKS.TV. Availability varies by country and provider.\n\nOfficial sche
- dule: https://www.mlb.com/gameday/823248
+ iamondbacks: 2 games behind the final wild-card spot.\nSan Diego Padres: a
+ lready qualified\; close records keep postseason home-field positioning in
+  play.\nFollowing San Diego Padres.\nStandings snapshot: 2026-09-25.\n\nVi
+ ewing window: 3 hours\; finish is approximate.\n\nProbable pitchers (subje
+ ct to change): Brandon Pfaadt.\n\nListed broadcasts: Padres.TV Presented b
+ y UC San Diego Health / DBACKS.TV. Availability varies by country and prov
+ ider.\n\nOfficial schedule: https://www.mlb.com/gameday/823248
 LOCATION:Petco Park
 URL:https://www.mlb.com/gameday/823248
 CATEGORIES:MLB,Pennant race,San Diego Padres
@@ -1054,19 +1054,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-824057@football-watchlist
-DTSTAMP:20260924T231528Z
+DTSTAMP:20260925T075750Z
 CREATED:20260921T080152Z
-LAST-MODIFIED:20260924T231528Z
-SEQUENCE:5
+LAST-MODIFIED:20260925T075750Z
+SEQUENCE:6
 DTSTART:20260926T231000Z
 DTEND:20260927T021000Z
 SUMMARY:MLB: Cleveland Guardians at Kansas City Royals
-DESCRIPTION:Cleveland Guardians: lead their division by 0.5 games.\nFollowi
- ng Cleveland Guardians.\nStandings snapshot: 2026-09-24.\n\nViewing window
- : 3 hours\; finish is approximate.\n\nProbable pitchers (subject to change
- ): Tanner Bibee / Michael Wacha.\n\nListed broadcasts: Guardians.TV Presen
- ted by Progressive / Royals.TV. Availability varies by country and provide
- r.\n\nOfficial schedule: https://www.mlb.com/gameday/824057
+DESCRIPTION:Cleveland Guardians: lead their division by 1 game.\nCleveland 
+ Guardians: already qualified\; close records keep postseason home-field po
+ sitioning in play.\nFollowing Cleveland Guardians.\nStandings snapshot: 20
+ 26-09-25.\n\nViewing window: 3 hours\; finish is approximate.\n\nProbable 
+ pitchers (subject to change): Tanner Bibee / Michael Wacha.\n\nListed broa
+ dcasts: Guardians.TV Presented by Progressive / Royals.TV. Availability va
+ ries by country and provider.\n\nOfficial schedule: https://www.mlb.com/ga
+ meday/824057
 LOCATION:Kauffman Stadium
 URL:https://www.mlb.com/gameday/824057
 CATEGORIES:MLB,Pennant race,Cleveland Guardians
@@ -1136,18 +1138,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-824948@football-watchlist
-DTSTAMP:20260924T231528Z
+DTSTAMP:20260925T075750Z
 CREATED:20260920T223228Z
-LAST-MODIFIED:20260924T231528Z
-SEQUENCE:5
+LAST-MODIFIED:20260925T075750Z
+SEQUENCE:6
 DTSTART:20260927T190500Z
 DTEND:20260927T220500Z
 SUMMARY:MLB: Houston Astros at Athletics
-DESCRIPTION:Houston Astros: 0.5 games behind the division lead.\nStandings 
- snapshot: 2026-09-24.\n\nViewing window: 3 hours\; finish is approximate.\
- n\nListed broadcasts: NBCSCA / Space City Home Network. Availability varie
- s by country and provider.\n\nOfficial schedule: https://www.mlb.com/gamed
- ay/824948
+DESCRIPTION:Houston Astros: tied for the division lead.\nStandings snapshot
+ : 2026-09-25.\n\nViewing window: 3 hours\; finish is approximate.\n\nListe
+ d broadcasts: NBCSCA / Space City Home Network. Availability varies by cou
+ ntry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/82494
+ 8
 LOCATION:Sutter Health Park
 URL:https://www.mlb.com/gameday/824948
 CATEGORIES:MLB,Pennant race
@@ -1217,21 +1219,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849845@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260925T075750Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260925T075750Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-SUMMARY:MLB: NL Wild Card 'A' Game 1 - NL Wild Card #3 at NL #3 Seed [time 
- TBA]
+SUMMARY:MLB: NL Wild Card 'A' Game 1 - NL Wild Card #3 at Atlanta Braves [t
+ ime TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
  s all-day marker will become a timed event when confirmed.\n\nListed broad
  casts: NBC/Peacock / Universo/ Peacock. Availability varies by country and
   provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849845
-LOCATION:NL Stadium
+LOCATION:Truist Park
 URL:https://www.mlb.com/gameday/849845
 CATEGORIES:MLB,Playoffs
 STATUS:TENTATIVE
@@ -1239,13 +1241,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849849@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260925T075750Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260925T075750Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-SUMMARY:MLB: AL Wild Card 'A' Game 1 - AL Wild Card #3 at AL #3 Seed [time 
+SUMMARY:MLB: AL Wild Card 'A' Game 1 - AL Wild Card #3 at AL West #1 [time 
  TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
@@ -1303,21 +1305,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849841@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260925T075750Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260925T075750Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-SUMMARY:MLB: NL Wild Card 'A' Game 2 - NL Wild Card #3 at NL #3 Seed [time 
- TBA]
+SUMMARY:MLB: NL Wild Card 'A' Game 2 - NL Wild Card #3 at Atlanta Braves [t
+ ime TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
  s all-day marker will become a timed event when confirmed.\n\nListed broad
  casts: NBC/Peacock / Universo/ Peacock. Availability varies by country and
   provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849841
-LOCATION:NL Stadium
+LOCATION:Truist Park
 URL:https://www.mlb.com/gameday/849841
 CATEGORIES:MLB,Playoffs
 STATUS:TENTATIVE
@@ -1347,13 +1349,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849846@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260925T075750Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260925T075750Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-SUMMARY:MLB: AL Wild Card 'A' Game 2 - AL Wild Card #3 at AL #3 Seed [time 
+SUMMARY:MLB: AL Wild Card 'A' Game 2 - AL Wild Card #3 at AL West #1 [time 
  TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
@@ -1415,14 +1417,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849844@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260925T075750Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260925T075750Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-SUMMARY:MLB: NL Wild Card 'A' Game 3 - NL Wild Card #3 at NL #3 Seed [if ne
- cessary] [time TBA]
+SUMMARY:MLB: NL Wild Card 'A' Game 3 - NL Wild Card #3 at Atlanta Braves [i
+ f necessary] [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
@@ -1431,7 +1433,7 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  vent when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock
  . Availability varies by country and provider.\n\nOfficial schedule: https
  ://www.mlb.com/gameday/849844
-LOCATION:NL Stadium
+LOCATION:Truist Park
 URL:https://www.mlb.com/gameday/849844
 CATEGORIES:MLB,Playoffs
 STATUS:TENTATIVE
@@ -1463,13 +1465,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849850@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260925T075750Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260925T075750Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-SUMMARY:MLB: AL Wild Card 'A' Game 3 - AL Wild Card #3 at AL #3 Seed [if ne
+SUMMARY:MLB: AL Wild Card 'A' Game 3 - AL Wild Card #3 at AL West #1 [if ne
  cessary] [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
@@ -1550,20 +1552,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849828@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260925T075750Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260925T075750Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-SUMMARY:MLB: NLDS 'B' Game 1 - NL 3/6 Winner at NL #2 Seed [time TBA]
+SUMMARY:MLB: NLDS 'B' Game 1 - NL 3/6 Winner at Los Angeles Dodgers [time T
+ BA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
  s all-day marker will become a timed event when confirmed.\n\nListed broad
  casts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country 
  and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849828
-LOCATION:NL Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
 URL:https://www.mlb.com/gameday/849828
 CATEGORIES:MLB,Playoffs
 STATUS:TENTATIVE
@@ -1571,13 +1574,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849829@football-watchlist
-DTSTAMP:20260922T230154Z
+DTSTAMP:20260925T075750Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260922T230154Z
-SEQUENCE:2
+LAST-MODIFIED:20260925T075750Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-SUMMARY:MLB: ALDS 'B' Game 1 - AL 3/6 Winner at AL #2 Seed [time TBA]
+SUMMARY:MLB: ALDS 'B' Game 1 - AL 3/6 Winner at AL Central #1 [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
@@ -1592,20 +1595,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849830@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260925T075750Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260925T075750Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-SUMMARY:MLB: NLDS 'A' Game 1 - NL 4/5 Winner at NL #1 Seed [time TBA]
+SUMMARY:MLB: NLDS 'A' Game 1 - NL 4/5 Winner at Milwaukee Brewers [time TBA
+ ]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
  s all-day marker will become a timed event when confirmed.\n\nListed broad
  casts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country 
  and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849830
-LOCATION:NL Stadium
+LOCATION:American Family Field
 URL:https://www.mlb.com/gameday/849830
 CATEGORIES:MLB,Playoffs
 STATUS:TENTATIVE
@@ -1778,20 +1782,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849823@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260925T075750Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260925T075750Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-SUMMARY:MLB: NLDS 'B' Game 2 - NL 3/6 Winner at NL #2 Seed [time TBA]
+SUMMARY:MLB: NLDS 'B' Game 2 - NL 3/6 Winner at Los Angeles Dodgers [time T
+ BA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
  s all-day marker will become a timed event when confirmed.\n\nListed broad
  casts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country 
  and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849823
-LOCATION:NL Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
 URL:https://www.mlb.com/gameday/849823
 CATEGORIES:MLB,Playoffs
 STATUS:TENTATIVE
@@ -1799,20 +1804,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849825@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260925T075750Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260925T075750Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-SUMMARY:MLB: NLDS 'A' Game 2 - NL 4/5 Winner at NL #1 Seed [time TBA]
+SUMMARY:MLB: NLDS 'A' Game 2 - NL 4/5 Winner at Milwaukee Brewers [time TBA
+ ]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
  s all-day marker will become a timed event when confirmed.\n\nListed broad
  casts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country 
  and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849825
-LOCATION:NL Stadium
+LOCATION:American Family Field
 URL:https://www.mlb.com/gameday/849825
 CATEGORIES:MLB,Playoffs
 STATUS:TENTATIVE
@@ -1859,13 +1865,13 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849834@football-watchlist
-DTSTAMP:20260922T230154Z
+DTSTAMP:20260925T075750Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260922T230154Z
-SEQUENCE:2
+LAST-MODIFIED:20260925T075750Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-SUMMARY:MLB: ALDS 'B' Game 2 - AL 3/6 Winner at AL #2 Seed [time TBA]
+SUMMARY:MLB: ALDS 'B' Game 2 - AL 3/6 Winner at AL Central #1 [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
@@ -1920,13 +1926,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849819@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260925T075750Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260925T075750Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-SUMMARY:MLB: NLDS 'B' Game 3 - NL #2 Seed at NL 3/6 Winner [time TBA]
+SUMMARY:MLB: NLDS 'B' Game 3 - Los Angeles Dodgers at NL 3/6 Winner [time T
+ BA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
@@ -1941,13 +1948,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849826@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260925T075750Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260925T075750Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-SUMMARY:MLB: NLDS 'A' Game 3 - NL #1 Seed at NL 4/5 Winner [time TBA]
+SUMMARY:MLB: NLDS 'A' Game 3 - Milwaukee Brewers at NL 4/5 Winner [time TBA
+ ]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
@@ -1981,14 +1989,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849822@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260925T075750Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260925T075750Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-SUMMARY:MLB: NLDS 'B' Game 4 - NL #2 Seed at NL 3/6 Winner [if necessary] [
- time TBA]
+SUMMARY:MLB: NLDS 'B' Game 4 - Los Angeles Dodgers at NL 3/6 Winner [if nec
+ essary] [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
@@ -2005,14 +2013,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849827@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260925T075750Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260925T075750Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-SUMMARY:MLB: NLDS 'A' Game 4  - NL #1 Seed at NL 4/5 Winner [if necessary] 
- [time TBA]
+SUMMARY:MLB: NLDS 'A' Game 4  - Milwaukee Brewers at NL 4/5 Winner [if nece
+ ssary] [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
@@ -2029,13 +2037,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849833@football-watchlist
-DTSTAMP:20260922T230154Z
+DTSTAMP:20260925T075750Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260922T230154Z
-SEQUENCE:2
+LAST-MODIFIED:20260925T075750Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-SUMMARY:MLB: ALDS 'B' Game 3 - AL #2 Seed at AL 3/6 Winner [time TBA]
+SUMMARY:MLB: ALDS 'B' Game 3 - AL Central #1 at AL 3/6 Winner [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
@@ -2071,14 +2079,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849832@football-watchlist
-DTSTAMP:20260922T230154Z
+DTSTAMP:20260925T075750Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260922T230154Z
-SEQUENCE:2
+LAST-MODIFIED:20260925T075750Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-SUMMARY:MLB: ALDS 'B' Game 4 - AL #2 Seed at AL 3/6 Winner [if necessary] [
- time TBA]
+SUMMARY:MLB: ALDS 'B' Game 4 - AL Central #1 at AL 3/6 Winner [if necessary
+ ] [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
@@ -2119,14 +2127,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849821@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260925T075750Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260925T075750Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-SUMMARY:MLB: NLDS 'B' Game 5 - NL 3/6 Winner at NL #2 Seed [if necessary] [
- time TBA]
+SUMMARY:MLB: NLDS 'B' Game 5 - NL 3/6 Winner at Los Angeles Dodgers [if nec
+ essary] [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
@@ -2135,7 +2143,7 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  vent when confirmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX 
  ONE. Availability varies by country and provider.\n\nOfficial schedule: ht
  tps://www.mlb.com/gameday/849821
-LOCATION:NL Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
 URL:https://www.mlb.com/gameday/849821
 CATEGORIES:MLB,Playoffs
 STATUS:TENTATIVE
@@ -2143,14 +2151,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849824@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260925T075750Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260925T075750Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-SUMMARY:MLB: NLDS 'A' Game 5 - NL 4/5 Winner at NL #1 Seed [if necessary] [
- time TBA]
+SUMMARY:MLB: NLDS 'A' Game 5 - NL 4/5 Winner at Milwaukee Brewers [if neces
+ sary] [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
@@ -2159,7 +2167,7 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  vent when confirmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX 
  ONE. Availability varies by country and provider.\n\nOfficial schedule: ht
  tps://www.mlb.com/gameday/849824
-LOCATION:NL Stadium
+LOCATION:American Family Field
 URL:https://www.mlb.com/gameday/849824
 CATEGORIES:MLB,Playoffs
 STATUS:TENTATIVE
@@ -2250,14 +2258,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849831@football-watchlist
-DTSTAMP:20260922T230154Z
+DTSTAMP:20260925T075750Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260922T230154Z
-SEQUENCE:2
+LAST-MODIFIED:20260925T075750Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-SUMMARY:MLB: ALDS 'B' Game 5 - AL 3/6 Winner at AL #2 Seed [if necessary] [
- time TBA]
+SUMMARY:MLB: ALDS 'B' Game 5 - AL 3/6 Winner at AL Central #1 [if necessary
+ ] [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
