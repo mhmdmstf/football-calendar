@@ -1,5 +1,5 @@
 {
-  "checkedOn": "2026-09-25",
+  "checkedOn": "2026-09-26",
   "season": 2026,
   "events": [
     {
@@ -1124,13 +1124,13 @@
         "Cleveland Guardians: lead their division by 1 game.",
         "Cleveland Guardians: already qualified; close records keep postseason home-field positioning in play.",
         "Following Cleveland Guardians.",
-        "Standings snapshot: 2026-09-25."
+        "Standings snapshot: 2026-09-26."
       ],
       "title": "MLB: Cleveland Guardians at Kansas City Royals",
       "start": "2026-09-26T23:10:00.000Z",
       "end": "2026-09-27T02:10:00.000Z",
       "allDay": false,
-      "description": "Cleveland Guardians: lead their division by 1 game.\nCleveland Guardians: already qualified; close records keep postseason home-field positioning in play.\nFollowing Cleveland Guardians.\nStandings snapshot: 2026-09-25.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Tanner Bibee / Michael Wacha.\n\nListed broadcasts: Guardians.TV Presented by Progressive / Royals.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/824057",
+      "description": "Cleveland Guardians: lead their division by 1 game.\nCleveland Guardians: already qualified; close records keep postseason home-field positioning in play.\nFollowing Cleveland Guardians.\nStandings snapshot: 2026-09-26.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Tanner Bibee / Michael Wacha.\n\nListed broadcasts: Guardians.TV Presented by Progressive / Royals.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/824057",
       "location": "Kauffman Stadium",
       "url": "https://www.mlb.com/gameday/824057",
       "status": "CONFIRMED",
@@ -1139,10 +1139,10 @@
         "Pennant race",
         "Cleveland Guardians"
       ],
-      "hash": "a00dfce81d27d2766b4ff32b3bf826eac57664b1d7bc6639fac91f7f4ceaddfc",
+      "hash": "8e2b15988553746a10e9437775c1db392a9365792240220f3bbbf3dca2acdf5f",
       "created": "2026-09-21T08:01:52.603Z",
-      "modified": "2026-09-25T07:57:50.474Z",
-      "sequence": 6
+      "modified": "2026-09-26T07:50:51.012Z",
+      "sequence": 7
     },
     {
       "uid": "college-football-401856702@football-watchlist",
@@ -1206,37 +1206,39 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-824948@football-watchlist",
-      "gameId": "824948",
+      "uid": "mlb-823408@football-watchlist",
+      "gameId": "823408",
       "mlbSeason": 2026,
       "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/117:52/133:52",
-      "mlbSeriesGameNumber": 4,
+      "mlbSeriesKey": "2026/R/139:52/143:52",
+      "mlbSeriesGameNumber": 3,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
-        "117",
-        "133"
+        "139",
+        "143"
       ],
       "selectionReasons": [
-        "Houston Astros: tied for the division lead.",
-        "Standings snapshot: 2026-09-25."
+        "Philadelphia Phillies: 1 game ahead of the first team outside the wild cards.",
+        "Following Tampa Bay Rays.",
+        "Standings snapshot: 2026-09-26."
       ],
-      "title": "MLB: Houston Astros at Athletics",
+      "title": "MLB: Tampa Bay Rays at Philadelphia Phillies",
       "start": "2026-09-27T19:05:00.000Z",
       "end": "2026-09-27T22:05:00.000Z",
       "allDay": false,
-      "description": "Houston Astros: tied for the division lead.\nStandings snapshot: 2026-09-25.\n\nViewing window: 3 hours; finish is approximate.\n\nListed broadcasts: NBCSCA / Space City Home Network. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/824948",
-      "location": "Sutter Health Park",
-      "url": "https://www.mlb.com/gameday/824948",
+      "description": "Philadelphia Phillies: 1 game ahead of the first team outside the wild cards.\nFollowing Tampa Bay Rays.\nStandings snapshot: 2026-09-26.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Martinez / Zack Wheeler.\n\nListed broadcasts: NBCSP / Rays.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823408",
+      "location": "Citizens Bank Park",
+      "url": "https://www.mlb.com/gameday/823408",
       "status": "CONFIRMED",
       "categories": [
         "MLB",
-        "Pennant race"
+        "Pennant race",
+        "Tampa Bay Rays"
       ],
-      "hash": "552b348bda04a921b87fff930a0d0f39e1115979273920a9475c1ac779475d80",
-      "created": "2026-09-20T22:32:28.050Z",
-      "modified": "2026-09-25T07:57:50.474Z",
-      "sequence": 6
+      "hash": "45be37aaf2d4e566b75fdb43d7df875c0b9d5efd4dcd1530d67591db44e40dac",
+      "created": "2026-09-26T07:50:51.012Z",
+      "modified": "2026-09-26T07:50:51.012Z",
+      "sequence": 0
     },
     {
       "uid": "nfl-401872960@football-watchlist",
@@ -3125,6 +3127,27 @@
       "sequence": 1
     },
     {
+      "uid": "college-football-401856721@football-watchlist",
+      "gameId": "401856721",
+      "title": "CFB: Missouri at Ole Miss [time TBA]",
+      "start": "2026-10-17",
+      "end": "2026-10-18",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#4 vs #19) at selection.\n\nAFTERNOON: 3:30 - 4:30pm ET start\n\nTeams: Missouri Tigers at Ole Miss Rebels\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856721/missouri-ole-miss",
+      "location": "Vaught-Hemingway Stadium, Oxford, MS, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856721/missouri-ole-miss",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#4 vs #19) at selection.",
+      "hash": "ca211bb4be9a8ca79003e31c32f869f36daa4e84d8bfee2e29502d95a8bc707c",
+      "created": "2026-09-26T07:50:51.012Z",
+      "modified": "2026-09-26T07:50:51.012Z",
+      "sequence": 0
+    },
+    {
       "uid": "college-football-401856723@football-watchlist",
       "gameId": "401856723",
       "title": "CFB: Alabama at Tennessee [time TBA]",
@@ -3145,6 +3168,48 @@
       "sequence": 0
     },
     {
+      "uid": "college-football-401856724@football-watchlist",
+      "gameId": "401856724",
+      "title": "CFB: Florida at Texas [time TBA]",
+      "start": "2026-10-17",
+      "end": "2026-10-18",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#1 vs #21) at selection.\n\nEARLY: Noon - 1pm ET start\n\nTeams: Florida Gators at Texas Longhorns\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856724/florida-texas",
+      "location": "DKR-Texas Memorial Stadium, Austin, TX, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856724/florida-texas",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#1 vs #21) at selection.",
+      "hash": "6cefba52a589851afed286b846bfdcbf88bacd5fa06e9af267cb363dbcf9b52a",
+      "created": "2026-09-26T07:50:51.012Z",
+      "modified": "2026-09-26T07:50:51.012Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856809@football-watchlist",
+      "gameId": "401856809",
+      "title": "CFB: Notre Dame at BYU [time TBA]",
+      "start": "2026-10-17",
+      "end": "2026-10-18",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#3 vs #9) at selection.\n\nTeams: Notre Dame Fighting Irish at BYU Cougars\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856809/notre-dame-byu",
+      "location": "LaVell Edwards Stadium, Provo, UT, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856809/notre-dame-byu",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#3 vs #9) at selection.",
+      "hash": "d4e1c73328fb653931e90c777e12eeb48ee025270ab5cc31d834751349b07266",
+      "created": "2026-09-26T07:50:51.012Z",
+      "modified": "2026-09-26T07:50:51.012Z",
+      "sequence": 0
+    },
+    {
       "uid": "college-football-401858263@football-watchlist",
       "gameId": "401858263",
       "title": "CFB: Florida State at Miami [time TBA]",
@@ -3161,6 +3226,48 @@
       "hash": "8c435d913026ad94b8579780eb7250d4c761bb25f86938a93d6f86bd1c090883",
       "created": "2026-09-05T14:52:08.096Z",
       "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401858488@football-watchlist",
+      "gameId": "401858488",
+      "title": "CFB: Ohio State at Indiana [time TBA]",
+      "start": "2026-10-17",
+      "end": "2026-10-18",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#5 vs #7) at selection.\n\nTeams: Ohio State Buckeyes at Indiana Hoosiers\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858488/ohio-state-indiana",
+      "location": "Memorial Stadium (Bloomington, IN), Bloomington, IN, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858488/ohio-state-indiana",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#5 vs #7) at selection.",
+      "hash": "84ad0b19642fb9d067660bb6a8c8e46fb0715caa3a21b72fde645faa4304fce9",
+      "created": "2026-09-26T07:50:51.012Z",
+      "modified": "2026-09-26T07:50:51.012Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401858490@football-watchlist",
+      "gameId": "401858490",
+      "title": "CFB: Penn State at Michigan [time TBA]",
+      "start": "2026-10-17",
+      "end": "2026-10-18",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#13 vs #18) at selection.\n\nTeams: Penn State Nittany Lions at Michigan Wolverines\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858490/penn-state-michigan",
+      "location": "Michigan Stadium, Ann Arbor, MI, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858490/penn-state-michigan",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#13 vs #18) at selection.",
+      "hash": "e1bf326c8572d4e461c00309fcf5ce39d4824c9cfeb87b4df5172d96fe266ad1",
+      "created": "2026-09-26T07:50:51.012Z",
+      "modified": "2026-09-26T07:50:51.012Z",
       "sequence": 0
     },
     {
@@ -5934,7 +6041,7 @@
   "nflGames": 285,
   "collegeGames": 949,
   "baseball": {
-    "checkedOn": "2026-09-25",
+    "checkedOn": "2026-09-26",
     "season": 2026,
     "scheduleGames": 414,
     "events": 62,

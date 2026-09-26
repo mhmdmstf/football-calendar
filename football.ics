@@ -1055,17 +1055,17 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-824057@football-watchlist
-DTSTAMP:20260925T075750Z
+DTSTAMP:20260926T075051Z
 CREATED:20260921T080152Z
-LAST-MODIFIED:20260925T075750Z
-SEQUENCE:6
+LAST-MODIFIED:20260926T075051Z
+SEQUENCE:7
 DTSTART:20260926T231000Z
 DTEND:20260927T021000Z
 SUMMARY:MLB: Cleveland Guardians at Kansas City Royals
 DESCRIPTION:Cleveland Guardians: lead their division by 1 game.\nCleveland 
  Guardians: already qualified\; close records keep postseason home-field po
  sitioning in play.\nFollowing Cleveland Guardians.\nStandings snapshot: 20
- 26-09-25.\n\nViewing window: 3 hours\; finish is approximate.\n\nProbable 
+ 26-09-26.\n\nViewing window: 3 hours\; finish is approximate.\n\nProbable 
  pitchers (subject to change): Tanner Bibee / Michael Wacha.\n\nListed broa
  dcasts: Guardians.TV Presented by Progressive / Royals.TV. Availability va
  ries by country and provider.\n\nOfficial schedule: https://www.mlb.com/ga
@@ -1138,22 +1138,23 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-824948@football-watchlist
-DTSTAMP:20260925T075750Z
-CREATED:20260920T223228Z
-LAST-MODIFIED:20260925T075750Z
-SEQUENCE:6
+UID:mlb-823408@football-watchlist
+DTSTAMP:20260926T075051Z
+CREATED:20260926T075051Z
+LAST-MODIFIED:20260926T075051Z
+SEQUENCE:0
 DTSTART:20260927T190500Z
 DTEND:20260927T220500Z
-SUMMARY:MLB: Houston Astros at Athletics
-DESCRIPTION:Houston Astros: tied for the division lead.\nStandings snapshot
- : 2026-09-25.\n\nViewing window: 3 hours\; finish is approximate.\n\nListe
- d broadcasts: NBCSCA / Space City Home Network. Availability varies by cou
- ntry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/82494
- 8
-LOCATION:Sutter Health Park
-URL:https://www.mlb.com/gameday/824948
-CATEGORIES:MLB,Pennant race
+SUMMARY:MLB: Tampa Bay Rays at Philadelphia Phillies
+DESCRIPTION:Philadelphia Phillies: 1 game ahead of the first team outside t
+ he wild cards.\nFollowing Tampa Bay Rays.\nStandings snapshot: 2026-09-26.
+ \n\nViewing window: 3 hours\; finish is approximate.\n\nProbable pitchers 
+ (subject to change): Nick Martinez / Zack Wheeler.\n\nListed broadcasts: N
+ BCSP / Rays.TV. Availability varies by country and provider.\n\nOfficial s
+ chedule: https://www.mlb.com/gameday/823408
+LOCATION:Citizens Bank Park
+URL:https://www.mlb.com/gameday/823408
+CATEGORIES:MLB,Pennant race,Tampa Bay Rays
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -2648,6 +2649,27 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:college-football-401856721@football-watchlist
+DTSTAMP:20260926T075051Z
+CREATED:20260926T075051Z
+LAST-MODIFIED:20260926T075051Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:CFB: Missouri at Ole Miss [time TBA]
+DESCRIPTION:National pick: ranked matchup (#4 vs #19) at selection.\n\nAFTE
+ RNOON: 3:30 - 4:30pm ET start\n\nTeams: Missouri Tigers at Ole Miss Rebels
+ \n\nBroadcast to be announced.\n\nKickoff has not been announced. This all
+ -day marker will become a timed event when confirmed.\n\nSchedule: https:/
+ /www.espn.com/college-football/game/_/gameId/401856721/missouri-ole-miss
+LOCATION:Vaught-Hemingway Stadium\, Oxford\, MS\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856721/missouri-
+ ole-miss
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:college-football-401856723@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -2670,6 +2692,48 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:college-football-401856724@football-watchlist
+DTSTAMP:20260926T075051Z
+CREATED:20260926T075051Z
+LAST-MODIFIED:20260926T075051Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:CFB: Florida at Texas [time TBA]
+DESCRIPTION:National pick: ranked matchup (#1 vs #21) at selection.\n\nEARL
+ Y: Noon - 1pm ET start\n\nTeams: Florida Gators at Texas Longhorns\n\nBroa
+ dcast to be announced.\n\nKickoff has not been announced. This all-day mar
+ ker will become a timed event when confirmed.\n\nSchedule: https://www.esp
+ n.com/college-football/game/_/gameId/401856724/florida-texas
+LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856724/florida-t
+ exas
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856809@football-watchlist
+DTSTAMP:20260926T075051Z
+CREATED:20260926T075051Z
+LAST-MODIFIED:20260926T075051Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:CFB: Notre Dame at BYU [time TBA]
+DESCRIPTION:National pick: ranked matchup (#3 vs #9) at selection.\n\nTeams
+ : Notre Dame Fighting Irish at BYU Cougars\n\nBroadcast to be announced.\n
+ \nKickoff has not been announced. This all-day marker will become a timed 
+ event when confirmed.\n\nSchedule: https://www.espn.com/college-football/g
+ ame/_/gameId/401856809/notre-dame-byu
+LOCATION:LaVell Edwards Stadium\, Provo\, UT\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856809/notre-dam
+ e-byu
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:college-football-401858263@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T145208Z
@@ -2687,6 +2751,48 @@ LOCATION:Hard Rock Stadium\, Miami Gardens\, FL\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401858263/florida-s
  t-miami
 CATEGORIES:College
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858488@football-watchlist
+DTSTAMP:20260926T075051Z
+CREATED:20260926T075051Z
+LAST-MODIFIED:20260926T075051Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:CFB: Ohio State at Indiana [time TBA]
+DESCRIPTION:National pick: ranked matchup (#5 vs #7) at selection.\n\nTeams
+ : Ohio State Buckeyes at Indiana Hoosiers\n\nBroadcast to be announced.\n\
+ nKickoff has not been announced. This all-day marker will become a timed e
+ vent when confirmed.\n\nSchedule: https://www.espn.com/college-football/ga
+ me/_/gameId/401858488/ohio-state-indiana
+LOCATION:Memorial Stadium (Bloomington\, IN)\, Bloomington\, IN\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858488/ohio-stat
+ e-indiana
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858490@football-watchlist
+DTSTAMP:20260926T075051Z
+CREATED:20260926T075051Z
+LAST-MODIFIED:20260926T075051Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:CFB: Penn State at Michigan [time TBA]
+DESCRIPTION:National pick: ranked matchup (#13 vs #18) at selection.\n\nTea
+ ms: Penn State Nittany Lions at Michigan Wolverines\n\nBroadcast to be ann
+ ounced.\n\nKickoff has not been announced. This all-day marker will become
+  a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-f
+ ootball/game/_/gameId/401858490/penn-state-michigan
+LOCATION:Michigan Stadium\, Ann Arbor\, MI\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858490/penn-stat
+ e-michigan
+CATEGORIES:College,National pick
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
