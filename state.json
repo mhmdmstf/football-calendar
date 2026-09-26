@@ -992,19 +992,19 @@
       "start": "2026-09-26T16:00:00.000Z",
       "end": "2026-09-26T19:30:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#5 vs #20) at selection.\n\nTeams: Texas Longhorns at Tennessee Volunteers\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856704/texas-tennessee",
+      "description": "National pick: ranked matchup (#5 vs #20) at selection.\n\nTeams: Texas Longhorns at Tennessee Volunteers\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856704",
       "location": "Neyland Stadium, Knoxville, TN, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856704/texas-tennessee",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856704",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#5 vs #20) at selection.",
-      "hash": "68bf402586ddd8bda9d7f59e21506dd31ea0a1615ff98d38b8af35fdb10aa1d2",
+      "hash": "9fb796ec0fbcf17418bd164755ae51cb607238cb680ecdfc99084f3d02798404",
       "created": "2026-09-05T22:05:29.344Z",
-      "modified": "2026-09-14T23:12:37.826Z",
-      "sequence": 1
+      "modified": "2026-09-26T17:48:14.391Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401858465@football-watchlist",
@@ -1013,17 +1013,17 @@
       "start": "2026-09-26T16:00:00.000Z",
       "end": "2026-09-26T19:30:00.000Z",
       "allDay": false,
-      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: Illinois Fighting Illini at Ohio State Buckeyes\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858465/illinois-ohio-state",
+      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: Illinois Fighting Illini at Ohio State Buckeyes\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858465",
       "location": "Ohio Stadium, Columbus, OH, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858465/illinois-ohio-state",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858465",
       "status": "CONFIRMED",
       "categories": [
         "College"
       ],
-      "hash": "34fb8b5f2259a68aa61b0a6a2e293b12fc7c82e628030c1fd3fb32505d5787b6",
+      "hash": "0a4b776d1be398e9f2d4c2f44e86f65fb7d648ccf8a9e811db93a234a1db2047",
       "created": "2026-09-22T18:09:18.369Z",
-      "modified": "2026-09-22T18:09:18.369Z",
-      "sequence": 0
+      "modified": "2026-09-26T17:48:14.391Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401856699@football-watchlist",

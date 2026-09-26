@@ -928,10 +928,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856704@football-watchlist
-DTSTAMP:20260914T231237Z
+DTSTAMP:20260926T174814Z
 CREATED:20260905T220529Z
-LAST-MODIFIED:20260914T231237Z
-SEQUENCE:1
+LAST-MODIFIED:20260926T174814Z
+SEQUENCE:2
 DTSTART:20260926T160000Z
 DTEND:20260926T193000Z
 SUMMARY:CFB: Texas at Tennessee
@@ -939,20 +939,19 @@ DESCRIPTION:National pick: ranked matchup (#5 vs #20) at selection.\n\nTeam
  s: Texas Longhorns at Tennessee Volunteers\n\nUS broadcast: ABC. Availabil
  ity elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championsh
  ips)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-fo
- otball/game/_/gameId/401856704/texas-tennessee
+ otball/game/_/gameId/401856704
 LOCATION:Neyland Stadium\, Knoxville\, TN\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856704/texas-ten
- nessee
+URL:https://www.espn.com/college-football/game/_/gameId/401856704
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858465@football-watchlist
-DTSTAMP:20260922T180918Z
+DTSTAMP:20260926T174814Z
 CREATED:20260922T180918Z
-LAST-MODIFIED:20260922T180918Z
-SEQUENCE:0
+LAST-MODIFIED:20260926T174814Z
+SEQUENCE:1
 DTSTART:20260926T160000Z
 DTEND:20260926T193000Z
 SUMMARY:CFB: Illinois at Ohio State
@@ -960,10 +959,9 @@ DESCRIPTION:Confirmed College GameDay or Big Noon featured matchup.\n\nTeam
  s: Illinois Fighting Illini at Ohio State Buckeyes\n\nUS broadcast: FOX. A
  vailability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for ch
  ampionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/co
- llege-football/game/_/gameId/401858465/illinois-ohio-state
+ llege-football/game/_/gameId/401858465
 LOCATION:Ohio Stadium\, Columbus\, OH\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858465/illinois-
- ohio-state
+URL:https://www.espn.com/college-football/game/_/gameId/401858465
 CATEGORIES:College
 STATUS:CONFIRMED
 TRANSP:OPAQUE
