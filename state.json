@@ -992,19 +992,19 @@
       "start": "2026-09-26T16:00:00.000Z",
       "end": "2026-09-26T19:30:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#5 vs #20) at selection.\n\nTeams: Texas Longhorns at Tennessee Volunteers\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856704",
+      "description": "National pick: ranked matchup (#5 vs #20) at selection.\n\nTeams: Texas Longhorns at Tennessee Volunteers\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856704/texas-tennessee",
       "location": "Neyland Stadium, Knoxville, TN, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856704",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856704/texas-tennessee",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#5 vs #20) at selection.",
-      "hash": "9fb796ec0fbcf17418bd164755ae51cb607238cb680ecdfc99084f3d02798404",
+      "hash": "68bf402586ddd8bda9d7f59e21506dd31ea0a1615ff98d38b8af35fdb10aa1d2",
       "created": "2026-09-05T22:05:29.344Z",
-      "modified": "2026-09-26T17:48:14.391Z",
-      "sequence": 2
+      "modified": "2026-09-26T22:58:26.925Z",
+      "sequence": 3
     },
     {
       "uid": "college-football-401858465@football-watchlist",
@@ -1013,17 +1013,17 @@
       "start": "2026-09-26T16:00:00.000Z",
       "end": "2026-09-26T19:30:00.000Z",
       "allDay": false,
-      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: Illinois Fighting Illini at Ohio State Buckeyes\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858465",
+      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: Illinois Fighting Illini at Ohio State Buckeyes\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858465/illinois-ohio-state",
       "location": "Ohio Stadium, Columbus, OH, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858465",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858465/illinois-ohio-state",
       "status": "CONFIRMED",
       "categories": [
         "College"
       ],
-      "hash": "0a4b776d1be398e9f2d4c2f44e86f65fb7d648ccf8a9e811db93a234a1db2047",
+      "hash": "34fb8b5f2259a68aa61b0a6a2e293b12fc7c82e628030c1fd3fb32505d5787b6",
       "created": "2026-09-22T18:09:18.369Z",
-      "modified": "2026-09-26T17:48:14.391Z",
-      "sequence": 1
+      "modified": "2026-09-26T22:58:26.925Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401856699@football-watchlist",
@@ -1032,19 +1032,19 @@
       "start": "2026-09-26T19:30:00.000Z",
       "end": "2026-09-26T23:00:00.000Z",
       "allDay": false,
-      "description": "National pick: a ranked team in a potentially competitive game (market spread 1.5 points at selection). Upset possibility is an estimate.\n\nTeams: Ole Miss Rebels at Florida Gators\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856699/ole-miss-florida",
+      "description": "National pick: a ranked team in a potentially competitive game (market spread 1.5 points at selection). Upset possibility is an estimate.\n\nTeams: Ole Miss Rebels at Florida Gators\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856699",
       "location": "Ben Hill Griffin Stadium, Gainesville, FL, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856699/ole-miss-florida",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856699",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 1.5 points at selection). Upset possibility is an estimate.",
-      "hash": "4ca151ac032c14eab6c9026bc131dbc0d7caa8779e7fdcaba873584b8c38ec3d",
+      "hash": "6518bbc9ccb550e994a7b97026a726c8e50d901e477e64ef470d233de661c18e",
       "created": "2026-09-16T23:01:50.656Z",
-      "modified": "2026-09-20T07:48:18.651Z",
-      "sequence": 1
+      "modified": "2026-09-26T22:58:26.925Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401856700@football-watchlist",
@@ -1053,19 +1053,19 @@
       "start": "2026-09-26T19:30:00.000Z",
       "end": "2026-09-26T23:00:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#3 vs #10) at selection.\n\nTeams: Oklahoma Sooners at Georgia Bulldogs\n\nUS broadcast: ESPN / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856700/oklahoma-georgia",
+      "description": "National pick: ranked matchup (#3 vs #10) at selection.\n\nTeams: Oklahoma Sooners at Georgia Bulldogs\n\nUS broadcast: ESPN / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856700",
       "location": "Sanford Stadium, Athens, GA, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856700/oklahoma-georgia",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856700",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#3 vs #10) at selection.",
-      "hash": "a1983abf8e51b3e19a0ab28fa94d914e3fbc24e9992c380763bc2042a1d0f0f3",
+      "hash": "e06ab2034103449b742175f470cd93daa6b6afafd07db8cdd23c2294c5564e98",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-21T23:22:20.381Z",
-      "sequence": 4
+      "modified": "2026-09-26T22:58:26.925Z",
+      "sequence": 5
     },
     {
       "uid": "college-football-401858463@football-watchlist",
@@ -1074,26 +1074,26 @@
       "start": "2026-09-26T19:30:00.000Z",
       "end": "2026-09-26T23:00:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#16 vs #22) at selection.\n\nTeams: Iowa Hawkeyes at Michigan Wolverines\n\nUS broadcast: CBS. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858463/iowa-michigan",
+      "description": "National pick: ranked matchup (#16 vs #22) at selection.\n\nTeams: Iowa Hawkeyes at Michigan Wolverines\n\nUS broadcast: CBS. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858463",
       "location": "Michigan Stadium, Ann Arbor, MI, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858463/iowa-michigan",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858463",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#16 vs #22) at selection.",
-      "hash": "e3f520182b673ad58d791f5df26e41ac0e24a30f8ee8584c63340f8604e78cd9",
+      "hash": "b87eaf620c729e2952a658e1316e4a954cd040401ccfc902967558d72e6e6a9a",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-15T07:52:18.364Z",
-      "sequence": 2
+      "modified": "2026-09-26T22:58:26.925Z",
+      "sequence": 3
     },
     {
       "uid": "college-football-401856696@football-watchlist",
       "gameId": "401856696",
       "title": "CFB: South Carolina at Alabama",
-      "start": "2026-09-26T23:00:00.000Z",
-      "end": "2026-09-27T02:30:00.000Z",
+      "start": "2026-09-26T23:10:00.000Z",
+      "end": "2026-09-27T02:40:00.000Z",
       "allDay": false,
       "description": "Following Alabama: every game.\n\nTeams: South Carolina Gamecocks at Alabama Crimson Tide\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856696/south-carolina-alabama",
       "location": "Bryant-Denny Stadium, Tuscaloosa, AL, USA",
@@ -1103,10 +1103,10 @@
         "College",
         "Alabama"
       ],
-      "hash": "a8e23eaedf7cfda78f2875d64edd6635e3d3d0751fa80b9c8b29883885e6dabe",
+      "hash": "788778300d34f337ff4b93b49a719fe75bd80e748d02eeed4ef5d4c6d88dc1c3",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-14T23:12:37.826Z",
-      "sequence": 1
+      "modified": "2026-09-26T22:58:26.925Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-824057@football-watchlist",
