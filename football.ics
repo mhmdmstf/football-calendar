@@ -1220,14 +1220,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849845@football-watchlist
-DTSTAMP:20260925T075750Z
+DTSTAMP:20260927T140626Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260925T075750Z
-SEQUENCE:2
+LAST-MODIFIED:20260927T140626Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-SUMMARY:MLB: NL Wild Card 'A' Game 1 - NL Wild Card #3 at Atlanta Braves [t
- ime TBA]
+SUMMARY:MLB: NL Wild Card 'A' Game 1 - PHI/ARI at Atlanta Braves [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
@@ -1305,14 +1304,13 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849841@football-watchlist
-DTSTAMP:20260925T075750Z
+DTSTAMP:20260927T140626Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260925T075750Z
-SEQUENCE:2
+LAST-MODIFIED:20260927T140626Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-SUMMARY:MLB: NL Wild Card 'A' Game 2 - NL Wild Card #3 at Atlanta Braves [t
- ime TBA]
+SUMMARY:MLB: NL Wild Card 'A' Game 2 - PHI/ARI at Atlanta Braves [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
@@ -1414,14 +1412,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849844@football-watchlist
-DTSTAMP:20260925T075750Z
+DTSTAMP:20260927T140626Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260925T075750Z
-SEQUENCE:2
+LAST-MODIFIED:20260927T140626Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-SUMMARY:MLB: NL Wild Card 'A' Game 3 - NL Wild Card #3 at Atlanta Braves [i
- f necessary] [time TBA]
+SUMMARY:MLB: NL Wild Card 'A' Game 3 - PHI/ARI at Atlanta Braves [if necess
+ ary] [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nBracket positions

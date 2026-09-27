@@ -1326,7 +1326,7 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NL Wild Card 'A' Game 1 - NL Wild Card #3 at Atlanta Braves [time TBA]",
+      "title": "MLB: NL Wild Card 'A' Game 1 - PHI/ARI at Atlanta Braves [time TBA]",
       "start": "2026-09-29",
       "end": "2026-09-30",
       "allDay": true,
@@ -1338,10 +1338,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "51acf701518e5720c877bc5537f79110f7ea2aa7f11559ed7fc4d0153d2609c1",
+      "hash": "ec6386ce1442015927298bcbc8221a7e919484ae55e742d2b4d8b59eda317d95",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-25T07:57:50.474Z",
-      "sequence": 2
+      "modified": "2026-09-27T14:06:26.709Z",
+      "sequence": 3
     },
     {
       "uid": "mlb-849849@football-watchlist",
@@ -1441,7 +1441,7 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NL Wild Card 'A' Game 2 - NL Wild Card #3 at Atlanta Braves [time TBA]",
+      "title": "MLB: NL Wild Card 'A' Game 2 - PHI/ARI at Atlanta Braves [time TBA]",
       "start": "2026-09-30",
       "end": "2026-10-01",
       "allDay": true,
@@ -1453,10 +1453,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "0fa37183cbfb0fc705298feabc949a6ef400b22693ff5d6a02f66f325f3c2523",
+      "hash": "4228c0da46eeb523f004ee2aa8b5dce37e98d0fbded6e3792987012261261679",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-25T07:57:50.474Z",
-      "sequence": 2
+      "modified": "2026-09-27T14:06:26.709Z",
+      "sequence": 3
     },
     {
       "uid": "mlb-849842@football-watchlist",
@@ -1603,7 +1603,7 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NL Wild Card 'A' Game 3 - NL Wild Card #3 at Atlanta Braves [if necessary] [time TBA]",
+      "title": "MLB: NL Wild Card 'A' Game 3 - PHI/ARI at Atlanta Braves [if necessary] [time TBA]",
       "start": "2026-10-01",
       "end": "2026-10-02",
       "allDay": true,
@@ -1615,10 +1615,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "4344bedd847b4930fbbf35c12e8276f5ba690586fe5ba3266f54d3fa9785e40a",
+      "hash": "4febe3b3517dcc71ada54c581861ad34ddb9d40099d724d2086cb89ec510e106",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-25T07:57:50.474Z",
-      "sequence": 2
+      "modified": "2026-09-27T14:06:26.709Z",
+      "sequence": 3
     },
     {
       "uid": "mlb-849847@football-watchlist",
