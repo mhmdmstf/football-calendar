@@ -1,5 +1,5 @@
 {
-  "checkedOn": "2026-09-26",
+  "checkedOn": "2026-09-27",
   "season": 2026,
   "events": [
     {
@@ -1032,19 +1032,19 @@
       "start": "2026-09-26T19:30:00.000Z",
       "end": "2026-09-26T23:00:00.000Z",
       "allDay": false,
-      "description": "National pick: a ranked team in a potentially competitive game (market spread 1.5 points at selection). Upset possibility is an estimate.\n\nTeams: Ole Miss Rebels at Florida Gators\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856699",
+      "description": "National pick: a ranked team in a potentially competitive game (market spread 1.5 points at selection). Upset possibility is an estimate.\n\nTeams: Ole Miss Rebels at Florida Gators\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856699/ole-miss-florida",
       "location": "Ben Hill Griffin Stadium, Gainesville, FL, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856699",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856699/ole-miss-florida",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 1.5 points at selection). Upset possibility is an estimate.",
-      "hash": "6518bbc9ccb550e994a7b97026a726c8e50d901e477e64ef470d233de661c18e",
+      "hash": "4ca151ac032c14eab6c9026bc131dbc0d7caa8779e7fdcaba873584b8c38ec3d",
       "created": "2026-09-16T23:01:50.656Z",
-      "modified": "2026-09-26T22:58:26.925Z",
-      "sequence": 2
+      "modified": "2026-09-27T08:20:47.079Z",
+      "sequence": 3
     },
     {
       "uid": "college-football-401856700@football-watchlist",
@@ -1053,19 +1053,19 @@
       "start": "2026-09-26T19:30:00.000Z",
       "end": "2026-09-26T23:00:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#3 vs #10) at selection.\n\nTeams: Oklahoma Sooners at Georgia Bulldogs\n\nUS broadcast: ESPN / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856700",
+      "description": "National pick: ranked matchup (#3 vs #10) at selection.\n\nTeams: Oklahoma Sooners at Georgia Bulldogs\n\nUS broadcast: ESPN / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856700/oklahoma-georgia",
       "location": "Sanford Stadium, Athens, GA, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856700",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856700/oklahoma-georgia",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#3 vs #10) at selection.",
-      "hash": "e06ab2034103449b742175f470cd93daa6b6afafd07db8cdd23c2294c5564e98",
+      "hash": "a1983abf8e51b3e19a0ab28fa94d914e3fbc24e9992c380763bc2042a1d0f0f3",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-26T22:58:26.925Z",
-      "sequence": 5
+      "modified": "2026-09-27T08:20:47.079Z",
+      "sequence": 6
     },
     {
       "uid": "college-football-401858463@football-watchlist",
@@ -1074,19 +1074,19 @@
       "start": "2026-09-26T19:30:00.000Z",
       "end": "2026-09-26T23:00:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#16 vs #22) at selection.\n\nTeams: Iowa Hawkeyes at Michigan Wolverines\n\nUS broadcast: CBS. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858463",
+      "description": "National pick: ranked matchup (#16 vs #22) at selection.\n\nTeams: Iowa Hawkeyes at Michigan Wolverines\n\nUS broadcast: CBS. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858463/iowa-michigan",
       "location": "Michigan Stadium, Ann Arbor, MI, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858463",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858463/iowa-michigan",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#16 vs #22) at selection.",
-      "hash": "b87eaf620c729e2952a658e1316e4a954cd040401ccfc902967558d72e6e6a9a",
+      "hash": "e3f520182b673ad58d791f5df26e41ac0e24a30f8ee8584c63340f8604e78cd9",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-26T22:58:26.925Z",
-      "sequence": 3
+      "modified": "2026-09-27T08:20:47.079Z",
+      "sequence": 4
     },
     {
       "uid": "college-football-401856696@football-watchlist",
@@ -1220,13 +1220,13 @@
       "selectionReasons": [
         "Philadelphia Phillies: 1 game ahead of the first team outside the wild cards.",
         "Following Tampa Bay Rays.",
-        "Standings snapshot: 2026-09-26."
+        "Standings snapshot: 2026-09-27."
       ],
       "title": "MLB: Tampa Bay Rays at Philadelphia Phillies",
       "start": "2026-09-27T19:05:00.000Z",
       "end": "2026-09-27T22:05:00.000Z",
       "allDay": false,
-      "description": "Philadelphia Phillies: 1 game ahead of the first team outside the wild cards.\nFollowing Tampa Bay Rays.\nStandings snapshot: 2026-09-26.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Martinez / Zack Wheeler.\n\nListed broadcasts: NBCSP / Rays.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823408",
+      "description": "Philadelphia Phillies: 1 game ahead of the first team outside the wild cards.\nFollowing Tampa Bay Rays.\nStandings snapshot: 2026-09-27.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Martinez / Zack Wheeler.\n\nListed broadcasts: NBCSP / Rays.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823408",
       "location": "Citizens Bank Park",
       "url": "https://www.mlb.com/gameday/823408",
       "status": "CONFIRMED",
@@ -1235,10 +1235,10 @@
         "Pennant race",
         "Tampa Bay Rays"
       ],
-      "hash": "45be37aaf2d4e566b75fdb43d7df875c0b9d5efd4dcd1530d67591db44e40dac",
+      "hash": "1ee2e1b069e70856b8392d0197de531d863fb9348299c293c86db6ae1f844dfe",
       "created": "2026-09-26T07:50:51.012Z",
-      "modified": "2026-09-26T07:50:51.012Z",
-      "sequence": 0
+      "modified": "2026-09-27T08:20:47.079Z",
+      "sequence": 1
     },
     {
       "uid": "nfl-401872960@football-watchlist",
@@ -1287,28 +1287,29 @@
       "mlbSeriesGameNumber": 1,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
-        "4945",
-        "4619"
+        "112",
+        "135"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NL Wild Card 'B' Game 1 - NL Wild Card #2 at NL Wild Card #1 [time TBA]",
+      "title": "MLB: NL Wild Card 'B' Game 1 - Chicago Cubs at San Diego Padres [time TBA]",
       "start": "2026-09-29",
       "end": "2026-09-30",
       "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849843",
-      "location": "NL Stadium",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849843",
+      "location": "Petco Park",
       "url": "https://www.mlb.com/gameday/849843",
       "status": "TENTATIVE",
       "categories": [
         "MLB",
-        "Playoffs"
+        "Playoffs",
+        "San Diego Padres"
       ],
-      "hash": "c6b4466d7b1deaa5a95f0aeb6cf22fe40ea72518eb5d241d0053d10c7f5bda73",
+      "hash": "1bdfd33fb063fa6f7068ba3e5568f2e84656a2fa25dc3cd3b7daaa2bde98744e",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-27T08:20:47.079Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-849845@football-watchlist",
@@ -1351,13 +1352,13 @@
       "mlbSeriesGameNumber": 1,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
-        "4946",
+        "145",
         "4614"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: AL Wild Card 'A' Game 1 - CWS/CLE at HOU/TEX [time TBA]",
+      "title": "MLB: AL Wild Card 'A' Game 1 - Chicago White Sox at HOU/TEX [time TBA]",
       "start": "2026-09-29",
       "end": "2026-09-30",
       "allDay": true,
@@ -1369,10 +1370,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "65ea2041d1180c126de0ad7eccbb4183ee780b87266738b96d9449150aba2122",
+      "hash": "aef7716dd105c1f58c70138309abf50f053f85652ebce95f39d35eae51218082",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-25T23:20:50.299Z",
-      "sequence": 3
+      "modified": "2026-09-27T08:20:47.079Z",
+      "sequence": 4
     },
     {
       "uid": "mlb-849851@football-watchlist",
@@ -1466,28 +1467,29 @@
       "mlbSeriesGameNumber": 2,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
-        "4945",
-        "4619"
+        "112",
+        "135"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NL Wild Card 'B' Game 2 - NL Wild Card #2 at NL Wild Card #1 [time TBA]",
+      "title": "MLB: NL Wild Card 'B' Game 2 - Chicago Cubs at San Diego Padres [time TBA]",
       "start": "2026-09-30",
       "end": "2026-10-01",
       "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849842",
-      "location": "NL Stadium",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849842",
+      "location": "Petco Park",
       "url": "https://www.mlb.com/gameday/849842",
       "status": "TENTATIVE",
       "categories": [
         "MLB",
-        "Playoffs"
+        "Playoffs",
+        "San Diego Padres"
       ],
-      "hash": "ef263cad8841a58ed0f403c26018a23f3dbd4a2892ca2ec3e0c5ec235f37b785",
+      "hash": "8d964a7f9f5e95a94e21ecf4b8423e8792f2a14316258a924e381f6f409d5369",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-27T08:20:47.079Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-849846@football-watchlist",
@@ -1498,13 +1500,13 @@
       "mlbSeriesGameNumber": 2,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
-        "4946",
+        "145",
         "4614"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: AL Wild Card 'A' Game 2 - CWS/CLE at HOU/TEX [time TBA]",
+      "title": "MLB: AL Wild Card 'A' Game 2 - Chicago White Sox at HOU/TEX [time TBA]",
       "start": "2026-09-30",
       "end": "2026-10-01",
       "allDay": true,
@@ -1516,10 +1518,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "37200f5eb4bbc8bfebf783c4111976f047b2c6510aa1d08340099dbbb0c4ed54",
+      "hash": "d54cfbf3bd41a3e0e40f8a7a906d06b491fa64afc42add8c9557c0a27f574176",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-25T23:20:50.299Z",
-      "sequence": 3
+      "modified": "2026-09-27T08:20:47.079Z",
+      "sequence": 4
     },
     {
       "uid": "mlb-849848@football-watchlist",
@@ -1562,28 +1564,29 @@
       "mlbSeriesGameNumber": 3,
       "mlbIfNecessary": true,
       "mlbTeamIds": [
-        "4945",
-        "4619"
+        "112",
+        "135"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NL Wild Card 'B' Game 3 - NL Wild Card #2 at NL Wild Card #1 [if necessary] [time TBA]",
+      "title": "MLB: NL Wild Card 'B' Game 3 - Chicago Cubs at San Diego Padres [if necessary] [time TBA]",
       "start": "2026-10-01",
       "end": "2026-10-02",
       "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849840",
-      "location": "NL Stadium",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849840",
+      "location": "Petco Park",
       "url": "https://www.mlb.com/gameday/849840",
       "status": "TENTATIVE",
       "categories": [
         "MLB",
-        "Playoffs"
+        "Playoffs",
+        "San Diego Padres"
       ],
-      "hash": "1185ad24459a6596ef2090289e8902ea9002b7f336388023e6e8b0597235a802",
+      "hash": "398ba83f1115568fa51d82a72aa821a4f5e216a23991b85f05b3cf16db7a35d3",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-09-27T08:20:47.079Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-849844@football-watchlist",
@@ -1658,13 +1661,13 @@
       "mlbSeriesGameNumber": 3,
       "mlbIfNecessary": true,
       "mlbTeamIds": [
-        "4946",
+        "145",
         "4614"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: AL Wild Card 'A' Game 3 - CWS/CLE at HOU/TEX [if necessary] [time TBA]",
+      "title": "MLB: AL Wild Card 'A' Game 3 - Chicago White Sox at HOU/TEX [if necessary] [time TBA]",
       "start": "2026-10-01",
       "end": "2026-10-02",
       "allDay": true,
@@ -1676,10 +1679,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "0a3b777ecaf3c8a865a7463bcc3533c4ce149b4bc864b3d30ddbdf7ccdef3914",
+      "hash": "ac191dadbc129ed3f9527083e53fe38a07a1e5b95abeb8177244d94951826c53",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-25T23:20:50.299Z",
-      "sequence": 3
+      "modified": "2026-09-27T08:20:47.079Z",
+      "sequence": 4
     },
     {
       "uid": "nfl-401872964@football-watchlist",
@@ -1699,47 +1702,6 @@
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-05T14:52:08.096Z",
       "sequence": 1
-    },
-    {
-      "uid": "college-football-401856707@football-watchlist",
-      "gameId": "401856707",
-      "title": "CFB: Alabama at Mississippi State [time TBA]",
-      "start": "2026-10-03",
-      "end": "2026-10-04",
-      "allDay": true,
-      "description": "Following Alabama: every game.\n\nEARLY: Noon - 1pm ET start\n\nTeams: Alabama Crimson Tide at Mississippi State Bulldogs\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856707/alabama-mississippi-st",
-      "location": "Davis Wade Stadium, Starkville, MS, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856707/alabama-mississippi-st",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "Alabama"
-      ],
-      "hash": "1cb39ecf45b3f91d210447a4b9cffd8ad73b6a41a193435b520fed19b4b54312",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401858249@football-watchlist",
-      "gameId": "401858249",
-      "title": "CFB: Miami at Clemson [time TBA]",
-      "start": "2026-10-03",
-      "end": "2026-10-04",
-      "allDay": true,
-      "description": "National pick: a ranked team in a potentially competitive game (market spread 7 points at selection). Upset possibility is an estimate.\n\nTeams: Miami Hurricanes at Clemson Tigers\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858249/miami-clemson",
-      "location": "Memorial Stadium (Clemson, SC), Clemson, SC, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858249/miami-clemson",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 7 points at selection). Upset possibility is an estimate.",
-      "hash": "bcde04f47b4b009424c2e11baaf705f628160381478464c01438c8160a469148",
-      "created": "2026-09-12T07:13:28.934Z",
-      "modified": "2026-09-12T07:13:28.934Z",
-      "sequence": 0
     },
     {
       "uid": "mlb-849828@football-watchlist",
@@ -1783,27 +1745,28 @@
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "5528",
-        "4613"
+        "114"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALDS 'B' Game 1 - AL 3/6 Winner at CLE/CWS [time TBA]",
+      "title": "MLB: ALDS 'B' Game 1 - AL 3/6 Winner at Cleveland Guardians [time TBA]",
       "start": "2026-10-03",
       "end": "2026-10-04",
       "allDay": true,
       "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849829",
-      "location": "AL Stadium",
+      "location": "Progressive Field",
       "url": "https://www.mlb.com/gameday/849829",
       "status": "TENTATIVE",
       "categories": [
         "MLB",
-        "Playoffs"
+        "Playoffs",
+        "Cleveland Guardians"
       ],
-      "hash": "8537cd9b401019052813da669eef3e3bc0e11b4ed8d3ac6e9184efbc7e6ad1e0",
+      "hash": "a6d6ef7860d62a015763588c554c39d849887700d1dd3601f6de4a0333f21367",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-25T23:20:50.299Z",
-      "sequence": 4
+      "modified": "2026-09-27T08:20:47.079Z",
+      "sequence": 5
     },
     {
       "uid": "mlb-849830@football-watchlist",
@@ -1930,13 +1893,33 @@
       "sequence": 0
     },
     {
+      "uid": "college-football-401856707@football-watchlist",
+      "gameId": "401856707",
+      "title": "CFB: Alabama at Mississippi State",
+      "start": "2026-10-03T16:00:00.000Z",
+      "end": "2026-10-03T19:30:00.000Z",
+      "allDay": false,
+      "description": "Following Alabama: every game.\n\nTeams: Alabama Crimson Tide at Mississippi State Bulldogs\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856707/alabama-mississippi-st",
+      "location": "Davis Wade Stadium, Starkville, MS, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856707/alabama-mississippi-st",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "Alabama"
+      ],
+      "hash": "49d3e594959cc333221c6c515e18c350405e0215a4f9b25ad5775dd40785c90c",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-27T08:20:47.079Z",
+      "sequence": 1
+    },
+    {
       "uid": "college-football-401856708@football-watchlist",
       "gameId": "401856708",
       "title": "CFB: Florida at Missouri",
       "start": "2026-10-03T19:30:00.000Z",
       "end": "2026-10-03T23:00:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#19 vs #21) at selection.\n\nTeams: Florida Gators at Missouri Tigers\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856708/florida-missouri",
+      "description": "National pick: ranked matchup (#19 vs #21) at selection.\n\nTeams: Florida Gators at Missouri Tigers\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856708/florida-missouri",
       "location": "Memorial Stadium, Columbia, MO, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856708/florida-missouri",
       "status": "CONFIRMED",
@@ -1945,10 +1928,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#19 vs #21) at selection.",
-      "hash": "55333792c427544b9d35b1b2ef7757b08116148cfe65baca40bb96e14cddd4d7",
+      "hash": "ab8492ba4517ae94de9724afa1b2b8a00930f1cc90fe1213382a95acc4386784",
       "created": "2026-09-20T22:32:28.050Z",
-      "modified": "2026-09-21T23:22:20.381Z",
-      "sequence": 1
+      "modified": "2026-09-27T08:20:47.079Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401858473@football-watchlist",
@@ -1978,7 +1961,7 @@
       "start": "2026-10-03T23:00:00.000Z",
       "end": "2026-10-04T02:30:00.000Z",
       "allDay": false,
-      "description": "National pick: a ranked team in a potentially competitive game (market spread 5.5 points at selection). Upset possibility is an estimate.\n\nTeams: BYU Cougars at TCU Horned Frogs\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856818/byu-tcu",
+      "description": "National pick: a ranked team in a potentially competitive game (market spread 5.5 points at selection). Upset possibility is an estimate.\n\nTeams: BYU Cougars at TCU Horned Frogs\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856818/byu-tcu",
       "location": "Amon G. Carter Stadium, Fort Worth, TX, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856818/byu-tcu",
       "status": "CONFIRMED",
@@ -1987,10 +1970,31 @@
         "National pick"
       ],
       "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 5.5 points at selection). Upset possibility is an estimate.",
-      "hash": "0704620a9c9caae499fa045583622d74612f877683926e12c2eb2dff6cc15f17",
+      "hash": "019427924c357cec947fb098f1359948c7ab7ad16b84c46f3fc037fbee044c3a",
       "created": "2026-09-23T22:59:40.721Z",
-      "modified": "2026-09-23T22:59:40.721Z",
-      "sequence": 0
+      "modified": "2026-09-27T08:20:47.079Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401858249@football-watchlist",
+      "gameId": "401858249",
+      "title": "CFB: Miami at Clemson",
+      "start": "2026-10-03T23:30:00.000Z",
+      "end": "2026-10-04T03:00:00.000Z",
+      "allDay": false,
+      "description": "National pick: a ranked team in a potentially competitive game (market spread 7 points at selection). Upset possibility is an estimate.\n\nTeams: Miami Hurricanes at Clemson Tigers\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858249/miami-clemson",
+      "location": "Memorial Stadium (Clemson, SC), Clemson, SC, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858249/miami-clemson",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 7 points at selection). Upset possibility is an estimate.",
+      "hash": "1ca37632bc434b767ac9734be55599301a8fe6efb68ee1153b9c5643156961ea",
+      "created": "2026-09-12T07:13:28.934Z",
+      "modified": "2026-09-27T08:20:47.079Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401858478@football-watchlist",
@@ -2125,27 +2129,28 @@
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "5528",
-        "4613"
+        "114"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALDS 'B' Game 2 - AL 3/6 Winner at CLE/CWS [time TBA]",
+      "title": "MLB: ALDS 'B' Game 2 - AL 3/6 Winner at Cleveland Guardians [time TBA]",
       "start": "2026-10-05",
       "end": "2026-10-06",
       "allDay": true,
       "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849834",
-      "location": "AL Stadium",
+      "location": "Progressive Field",
       "url": "https://www.mlb.com/gameday/849834",
       "status": "TENTATIVE",
       "categories": [
         "MLB",
-        "Playoffs"
+        "Playoffs",
+        "Cleveland Guardians"
       ],
-      "hash": "680d7ecaf92b90b15ec573e97d93952914e27871b9a4453f1848c8752e96630e",
+      "hash": "2e047c37d0a62070029b7e9189860f11ab9d3c4495ae97f7410174a379130dc9",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-25T23:20:50.299Z",
-      "sequence": 4
+      "modified": "2026-09-27T08:20:47.079Z",
+      "sequence": 5
     },
     {
       "uid": "mlb-849839@football-watchlist",
@@ -2355,13 +2360,13 @@
       "mlbSeriesGameNumber": 3,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
-        "4613",
+        "114",
         "5528"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALDS 'B' Game 3 - CLE/CWS at AL 3/6 Winner [time TBA]",
+      "title": "MLB: ALDS 'B' Game 3 - Cleveland Guardians at AL 3/6 Winner [time TBA]",
       "start": "2026-10-07",
       "end": "2026-10-08",
       "allDay": true,
@@ -2371,12 +2376,13 @@
       "status": "TENTATIVE",
       "categories": [
         "MLB",
-        "Playoffs"
+        "Playoffs",
+        "Cleveland Guardians"
       ],
-      "hash": "c9c5287423b1c0a7e5b479d97f0df282e1eba167a7a0c5b8c36e63474c5da98d",
+      "hash": "ef7444366d5385af4d8cdbf6438310478247a192c5f566df50c824ae463df8ec",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-25T23:20:50.299Z",
-      "sequence": 4
+      "modified": "2026-09-27T08:20:47.079Z",
+      "sequence": 5
     },
     {
       "uid": "mlb-849838@football-watchlist",
@@ -2420,13 +2426,13 @@
       "mlbSeriesGameNumber": 4,
       "mlbIfNecessary": true,
       "mlbTeamIds": [
-        "4613",
+        "114",
         "5528"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALDS 'B' Game 4 - CLE/CWS at AL 3/6 Winner [if necessary] [time TBA]",
+      "title": "MLB: ALDS 'B' Game 4 - Cleveland Guardians at AL 3/6 Winner [if necessary] [time TBA]",
       "start": "2026-10-08",
       "end": "2026-10-09",
       "allDay": true,
@@ -2436,12 +2442,13 @@
       "status": "TENTATIVE",
       "categories": [
         "MLB",
-        "Playoffs"
+        "Playoffs",
+        "Cleveland Guardians"
       ],
-      "hash": "3c4deb3c7a0309ec4afb6b1fff93dc9854d58c10da77c3e7a14d89daeba88e5e",
+      "hash": "e6a6e2afc35ef1d52c69d12a18cba061562b9b94960de582cdc0e661edf4f6e7",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-25T23:20:50.299Z",
-      "sequence": 4
+      "modified": "2026-09-27T08:20:47.079Z",
+      "sequence": 5
     },
     {
       "uid": "mlb-849837@football-watchlist",
@@ -2631,27 +2638,28 @@
       "mlbIfNecessary": true,
       "mlbTeamIds": [
         "5528",
-        "4613"
+        "114"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALDS 'B' Game 5 - AL 3/6 Winner at CLE/CWS [if necessary] [time TBA]",
+      "title": "MLB: ALDS 'B' Game 5 - AL 3/6 Winner at Cleveland Guardians [if necessary] [time TBA]",
       "start": "2026-10-10",
       "end": "2026-10-11",
       "allDay": true,
       "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849831",
-      "location": "AL Stadium",
+      "location": "Progressive Field",
       "url": "https://www.mlb.com/gameday/849831",
       "status": "TENTATIVE",
       "categories": [
         "MLB",
-        "Playoffs"
+        "Playoffs",
+        "Cleveland Guardians"
       ],
-      "hash": "e054f0759ed8b48d4fab5f3d072739ca831f1286834503b3481131b630e778c8",
+      "hash": "9740702fc305a8823a74510c90106f952066d1a8d24bf157be2274450f65ae8a",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-25T23:20:50.299Z",
-      "sequence": 4
+      "modified": "2026-09-27T08:20:47.079Z",
+      "sequence": 5
     },
     {
       "uid": "mlb-849836@football-watchlist",
@@ -6041,7 +6049,7 @@
   "nflGames": 285,
   "collegeGames": 949,
   "baseball": {
-    "checkedOn": "2026-09-26",
+    "checkedOn": "2026-09-27",
     "season": 2026,
     "scheduleGames": 414,
     "events": 62,

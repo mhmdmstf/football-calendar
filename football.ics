@@ -970,10 +970,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856699@football-watchlist
-DTSTAMP:20260926T225826Z
+DTSTAMP:20260927T082047Z
 CREATED:20260916T230150Z
-LAST-MODIFIED:20260926T225826Z
-SEQUENCE:2
+LAST-MODIFIED:20260927T082047Z
+SEQUENCE:3
 DTSTART:20260926T193000Z
 DTEND:20260926T230000Z
 SUMMARY:CFB: Ole Miss at Florida
@@ -982,19 +982,20 @@ DESCRIPTION:National pick: a ranked team in a potentially competitive game
  \n\nTeams: Ole Miss Rebels at Florida Gators\n\nUS broadcast: ABC. Availab
  ility elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champion
  ships)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-
- football/game/_/gameId/401856699
+ football/game/_/gameId/401856699/ole-miss-florida
 LOCATION:Ben Hill Griffin Stadium\, Gainesville\, FL\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856699
+URL:https://www.espn.com/college-football/game/_/gameId/401856699/ole-miss-
+ florida
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856700@football-watchlist
-DTSTAMP:20260926T225826Z
+DTSTAMP:20260927T082047Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260926T225826Z
-SEQUENCE:5
+LAST-MODIFIED:20260927T082047Z
+SEQUENCE:6
 DTSTART:20260926T193000Z
 DTEND:20260926T230000Z
 SUMMARY:CFB: Oklahoma at Georgia
@@ -1002,19 +1003,20 @@ DESCRIPTION:National pick: ranked matchup (#3 vs #10) at selection.\n\nTeam
  s: Oklahoma Sooners at Georgia Bulldogs\n\nUS broadcast: ESPN / Disney+. A
  vailability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for ch
  ampionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/co
- llege-football/game/_/gameId/401856700
+ llege-football/game/_/gameId/401856700/oklahoma-georgia
 LOCATION:Sanford Stadium\, Athens\, GA\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856700
+URL:https://www.espn.com/college-football/game/_/gameId/401856700/oklahoma-
+ georgia
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858463@football-watchlist
-DTSTAMP:20260926T225826Z
+DTSTAMP:20260927T082047Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260926T225826Z
-SEQUENCE:3
+LAST-MODIFIED:20260927T082047Z
+SEQUENCE:4
 DTSTART:20260926T193000Z
 DTEND:20260926T230000Z
 SUMMARY:CFB: Iowa at Michigan
@@ -1022,9 +1024,10 @@ DESCRIPTION:National pick: ranked matchup (#16 vs #22) at selection.\n\nTea
  ms: Iowa Hawkeyes at Michigan Wolverines\n\nUS broadcast: CBS. Availabilit
  y elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championship
  s)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-foot
- ball/game/_/gameId/401858463
+ ball/game/_/gameId/401858463/iowa-michigan
 LOCATION:Michigan Stadium\, Ann Arbor\, MI\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858463
+URL:https://www.espn.com/college-football/game/_/gameId/401858463/iowa-mich
+ igan
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1136,15 +1139,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-823408@football-watchlist
-DTSTAMP:20260926T075051Z
+DTSTAMP:20260927T082047Z
 CREATED:20260926T075051Z
-LAST-MODIFIED:20260926T075051Z
-SEQUENCE:0
+LAST-MODIFIED:20260927T082047Z
+SEQUENCE:1
 DTSTART:20260927T190500Z
 DTEND:20260927T220500Z
 SUMMARY:MLB: Tampa Bay Rays at Philadelphia Phillies
 DESCRIPTION:Philadelphia Phillies: 1 game ahead of the first team outside t
- he wild cards.\nFollowing Tampa Bay Rays.\nStandings snapshot: 2026-09-26.
+ he wild cards.\nFollowing Tampa Bay Rays.\nStandings snapshot: 2026-09-27.
  \n\nViewing window: 3 hours\; finish is approximate.\n\nProbable pitchers 
  (subject to change): Nick Martinez / Zack Wheeler.\n\nListed broadcasts: N
  BCSP / Rays.TV. Availability varies by country and provider.\n\nOfficial s
@@ -1196,23 +1199,22 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849843@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260927T082047Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260927T082047Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-SUMMARY:MLB: NL Wild Card 'B' Game 1 - NL Wild Card #2 at NL Wild Card #1 [
- time TBA]
+SUMMARY:MLB: NL Wild Card 'B' Game 1 - Chicago Cubs at San Diego Padres [ti
+ me TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
- s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: NBC/Peacock / Universo/ Peacock. Availability varies by country and
-  provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849843
-LOCATION:NL Stadium
+ the World Series.\n\nFirst pitch has not been announced. This all-day mark
+ er will become a timed event when confirmed.\n\nListed broadcasts: NBC/Pea
+ cock / Universo/ Peacock. Availability varies by country and provider.\n\n
+ Official schedule: https://www.mlb.com/gameday/849843
+LOCATION:Petco Park
 URL:https://www.mlb.com/gameday/849843
-CATEGORIES:MLB,Playoffs
+CATEGORIES:MLB,Playoffs,San Diego Padres
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1240,13 +1242,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849849@football-watchlist
-DTSTAMP:20260925T232050Z
+DTSTAMP:20260927T082047Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260925T232050Z
-SEQUENCE:3
+LAST-MODIFIED:20260927T082047Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-SUMMARY:MLB: AL Wild Card 'A' Game 1 - CWS/CLE at HOU/TEX [time TBA]
+SUMMARY:MLB: AL Wild Card 'A' Game 1 - Chicago White Sox at HOU/TEX [time T
+ BA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
@@ -1324,35 +1327,35 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849842@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260927T082047Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260927T082047Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-SUMMARY:MLB: NL Wild Card 'B' Game 2 - NL Wild Card #2 at NL Wild Card #1 [
- time TBA]
+SUMMARY:MLB: NL Wild Card 'B' Game 2 - Chicago Cubs at San Diego Padres [ti
+ me TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
- s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: NBC/Peacock / Universo/ Peacock. Availability varies by country and
-  provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849842
-LOCATION:NL Stadium
+ the World Series.\n\nFirst pitch has not been announced. This all-day mark
+ er will become a timed event when confirmed.\n\nListed broadcasts: NBC/Pea
+ cock / Universo/ Peacock. Availability varies by country and provider.\n\n
+ Official schedule: https://www.mlb.com/gameday/849842
+LOCATION:Petco Park
 URL:https://www.mlb.com/gameday/849842
-CATEGORIES:MLB,Playoffs
+CATEGORIES:MLB,Playoffs,San Diego Padres
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849846@football-watchlist
-DTSTAMP:20260925T232050Z
+DTSTAMP:20260927T082047Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260925T232050Z
-SEQUENCE:3
+LAST-MODIFIED:20260927T082047Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-SUMMARY:MLB: AL Wild Card 'A' Game 2 - CWS/CLE at HOU/TEX [time TBA]
+SUMMARY:MLB: AL Wild Card 'A' Game 2 - Chicago White Sox at HOU/TEX [time T
+ BA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
@@ -1388,25 +1391,24 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849840@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20260927T082047Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20260927T082047Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-SUMMARY:MLB: NL Wild Card 'B' Game 3 - NL Wild Card #2 at NL Wild Card #1 [
- if necessary] [time TBA]
+SUMMARY:MLB: NL Wild Card 'B' Game 3 - Chicago Cubs at San Diego Padres [if
+  necessary] [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nBracket positions
-  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
- st pitch has not been announced. This all-day marker will become a timed e
- vent when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock
- . Availability varies by country and provider.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/849840
-LOCATION:NL Stadium
+ t will be cancelled in this feed if no longer needed.\n\nFirst pitch has n
+ ot been announced. This all-day marker will become a timed event when conf
+ irmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability
+  varies by country and provider.\n\nOfficial schedule: https://www.mlb.com
+ /gameday/849840
+LOCATION:Petco Park
 URL:https://www.mlb.com/gameday/849840
-CATEGORIES:MLB,Playoffs
+CATEGORIES:MLB,Playoffs,San Diego Padres
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1459,14 +1461,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849850@football-watchlist
-DTSTAMP:20260925T232050Z
+DTSTAMP:20260927T082047Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260925T232050Z
-SEQUENCE:3
+LAST-MODIFIED:20260927T082047Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-SUMMARY:MLB: AL Wild Card 'A' Game 3 - CWS/CLE at HOU/TEX [if necessary] [t
- ime TBA]
+SUMMARY:MLB: AL Wild Card 'A' Game 3 - Chicago White Sox at HOU/TEX [if nec
+ essary] [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
@@ -1502,49 +1504,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:college-football-401856707@football-watchlist
-DTSTAMP:20260905T144637Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-SUMMARY:CFB: Alabama at Mississippi State [time TBA]
-DESCRIPTION:Following Alabama: every game.\n\nEARLY: Noon - 1pm ET start\n\
- nTeams: Alabama Crimson Tide at Mississippi State Bulldogs\n\nBroadcast to
-  be announced.\n\nKickoff has not been announced. This all-day marker will
-  become a timed event when confirmed.\n\nSchedule: https://www.espn.com/co
- llege-football/game/_/gameId/401856707/alabama-mississippi-st
-LOCATION:Davis Wade Stadium\, Starkville\, MS\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856707/alabama-m
- ississippi-st
-CATEGORIES:College,Alabama
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401858249@football-watchlist
-DTSTAMP:20260912T071328Z
-CREATED:20260912T071328Z
-LAST-MODIFIED:20260912T071328Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-SUMMARY:CFB: Miami at Clemson [time TBA]
-DESCRIPTION:National pick: a ranked team in a potentially competitive game 
- (market spread 7 points at selection). Upset possibility is an estimate.\n
- \nTeams: Miami Hurricanes at Clemson Tigers\n\nBroadcast to be announced.\
- n\nKickoff has not been announced. This all-day marker will become a timed
-  event when confirmed.\n\nSchedule: https://www.espn.com/college-football/
- game/_/gameId/401858249/miami-clemson
-LOCATION:Memorial Stadium (Clemson\, SC)\, Clemson\, SC\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858249/miami-cle
- mson
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-849828@football-watchlist
 DTSTAMP:20260925T075750Z
 CREATED:20260919T111549Z
@@ -1568,22 +1527,23 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849829@football-watchlist
-DTSTAMP:20260925T232050Z
+DTSTAMP:20260927T082047Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260925T232050Z
-SEQUENCE:4
+LAST-MODIFIED:20260927T082047Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-SUMMARY:MLB: ALDS 'B' Game 1 - AL 3/6 Winner at CLE/CWS [time TBA]
+SUMMARY:MLB: ALDS 'B' Game 1 - AL 3/6 Winner at Cleveland Guardians [time T
+ BA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
  s all-day marker will become a timed event when confirmed.\n\nListed broad
  casts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by count
  ry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849829
-LOCATION:AL Stadium
+LOCATION:Progressive Field
 URL:https://www.mlb.com/gameday/849829
-CATEGORIES:MLB,Playoffs
+CATEGORIES:MLB,Playoffs,Cleveland Guardians
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1691,19 +1651,40 @@ STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:college-football-401856708@football-watchlist
-DTSTAMP:20260921T232220Z
-CREATED:20260920T223228Z
-LAST-MODIFIED:20260921T232220Z
+UID:college-football-401856707@football-watchlist
+DTSTAMP:20260927T082047Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260927T082047Z
 SEQUENCE:1
+DTSTART:20261003T160000Z
+DTEND:20261003T193000Z
+SUMMARY:CFB: Alabama at Mississippi State
+DESCRIPTION:Following Alabama: every game.\n\nTeams: Alabama Crimson Tide a
+ t Mississippi State Bulldogs\n\nUS broadcast: ABC. Availability elsewhere 
+ varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish 
+ is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/
+ gameId/401856707/alabama-mississippi-st
+LOCATION:Davis Wade Stadium\, Starkville\, MS\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856707/alabama-m
+ ississippi-st
+CATEGORIES:College,Alabama
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856708@football-watchlist
+DTSTAMP:20260927T082047Z
+CREATED:20260920T223228Z
+LAST-MODIFIED:20260927T082047Z
+SEQUENCE:2
 DTSTART:20261003T193000Z
 DTEND:20261003T230000Z
 SUMMARY:CFB: Florida at Missouri
 DESCRIPTION:National pick: ranked matchup (#19 vs #21) at selection.\n\nTea
- ms: Florida Gators at Missouri Tigers\n\nBroadcast to be announced.\n\nVie
- wing window: 3.5 hours (4 hours for championships)\; finish is approximate
- .\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/4018567
- 08/florida-missouri
+ ms: Florida Gators at Missouri Tigers\n\nUS broadcast: ABC. Availability e
+ lsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)\
+ ; finish is approximate.\n\nSchedule: https://www.espn.com/college-footbal
+ l/game/_/gameId/401856708/florida-missouri
 LOCATION:Memorial Stadium\, Columbia\, MO\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856708/florida-m
  issouri
@@ -1734,21 +1715,43 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856818@football-watchlist
-DTSTAMP:20260923T225940Z
+DTSTAMP:20260927T082047Z
 CREATED:20260923T225940Z
-LAST-MODIFIED:20260923T225940Z
-SEQUENCE:0
+LAST-MODIFIED:20260927T082047Z
+SEQUENCE:1
 DTSTART:20261003T230000Z
 DTEND:20261004T023000Z
 SUMMARY:CFB: BYU at TCU
 DESCRIPTION:National pick: a ranked team in a potentially competitive game 
  (market spread 5.5 points at selection). Upset possibility is an estimate.
- \n\nTeams: BYU Cougars at TCU Horned Frogs\n\nBroadcast to be announced.\n
- \nViewing window: 3.5 hours (4 hours for championships)\; finish is approx
- imate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/40
- 1856818/byu-tcu
+ \n\nTeams: BYU Cougars at TCU Horned Frogs\n\nUS broadcast: ESPN. Availabi
+ lity elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champions
+ hips)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-f
+ ootball/game/_/gameId/401856818/byu-tcu
 LOCATION:Amon G. Carter Stadium\, Fort Worth\, TX\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856818/byu-tcu
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858249@football-watchlist
+DTSTAMP:20260927T082047Z
+CREATED:20260912T071328Z
+LAST-MODIFIED:20260927T082047Z
+SEQUENCE:1
+DTSTART:20261003T233000Z
+DTEND:20261004T030000Z
+SUMMARY:CFB: Miami at Clemson
+DESCRIPTION:National pick: a ranked team in a potentially competitive game 
+ (market spread 7 points at selection). Upset possibility is an estimate.\n
+ \nTeams: Miami Hurricanes at Clemson Tigers\n\nUS broadcast: ABC. Availabi
+ lity elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champions
+ hips)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-f
+ ootball/game/_/gameId/401858249/miami-clemson
+LOCATION:Memorial Stadium (Clemson\, SC)\, Clemson\, SC\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858249/miami-cle
+ mson
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1859,22 +1862,23 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849834@football-watchlist
-DTSTAMP:20260925T232050Z
+DTSTAMP:20260927T082047Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260925T232050Z
-SEQUENCE:4
+LAST-MODIFIED:20260927T082047Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-SUMMARY:MLB: ALDS 'B' Game 2 - AL 3/6 Winner at CLE/CWS [time TBA]
+SUMMARY:MLB: ALDS 'B' Game 2 - AL 3/6 Winner at Cleveland Guardians [time T
+ BA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
  s all-day marker will become a timed event when confirmed.\n\nListed broad
  casts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by count
  ry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849834
-LOCATION:AL Stadium
+LOCATION:Progressive Field
 URL:https://www.mlb.com/gameday/849834
-CATEGORIES:MLB,Playoffs
+CATEGORIES:MLB,Playoffs,Cleveland Guardians
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2031,13 +2035,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849833@football-watchlist
-DTSTAMP:20260925T232050Z
+DTSTAMP:20260927T082047Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260925T232050Z
-SEQUENCE:4
+LAST-MODIFIED:20260927T082047Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-SUMMARY:MLB: ALDS 'B' Game 3 - CLE/CWS at AL 3/6 Winner [time TBA]
+SUMMARY:MLB: ALDS 'B' Game 3 - Cleveland Guardians at AL 3/6 Winner [time T
+ BA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
@@ -2046,7 +2051,7 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  ry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849833
 LOCATION:AL Stadium
 URL:https://www.mlb.com/gameday/849833
-CATEGORIES:MLB,Playoffs
+CATEGORIES:MLB,Playoffs,Cleveland Guardians
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2073,14 +2078,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849832@football-watchlist
-DTSTAMP:20260925T232050Z
+DTSTAMP:20260927T082047Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260925T232050Z
-SEQUENCE:4
+LAST-MODIFIED:20260927T082047Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-SUMMARY:MLB: ALDS 'B' Game 4 - CLE/CWS at AL 3/6 Winner [if necessary] [tim
- e TBA]
+SUMMARY:MLB: ALDS 'B' Game 4 - Cleveland Guardians at AL 3/6 Winner [if nec
+ essary] [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
@@ -2091,7 +2096,7 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
   https://www.mlb.com/gameday/849832
 LOCATION:AL Stadium
 URL:https://www.mlb.com/gameday/849832
-CATEGORIES:MLB,Playoffs
+CATEGORIES:MLB,Playoffs,Cleveland Guardians
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2252,14 +2257,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849831@football-watchlist
-DTSTAMP:20260925T232050Z
+DTSTAMP:20260927T082047Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260925T232050Z
-SEQUENCE:4
+LAST-MODIFIED:20260927T082047Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-SUMMARY:MLB: ALDS 'B' Game 5 - AL 3/6 Winner at CLE/CWS [if necessary] [tim
- e TBA]
+SUMMARY:MLB: ALDS 'B' Game 5 - AL 3/6 Winner at Cleveland Guardians [if nec
+ essary] [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
@@ -2268,9 +2273,9 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  vent when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision
  / TUDN. Availability varies by country and provider.\n\nOfficial schedule:
   https://www.mlb.com/gameday/849831
-LOCATION:AL Stadium
+LOCATION:Progressive Field
 URL:https://www.mlb.com/gameday/849831
-CATEGORIES:MLB,Playoffs
+CATEGORIES:MLB,Playoffs,Cleveland Guardians
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
