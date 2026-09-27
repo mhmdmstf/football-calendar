@@ -1206,41 +1206,6 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-823408@football-watchlist",
-      "gameId": "823408",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/139:52/143:52",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "143"
-      ],
-      "selectionReasons": [
-        "Philadelphia Phillies: 1 game ahead of the first team outside the wild cards.",
-        "Following Tampa Bay Rays.",
-        "Standings snapshot: 2026-09-27."
-      ],
-      "title": "MLB: Tampa Bay Rays at Philadelphia Phillies",
-      "start": "2026-09-27T19:05:00.000Z",
-      "end": "2026-09-27T22:05:00.000Z",
-      "allDay": false,
-      "description": "Philadelphia Phillies: 1 game ahead of the first team outside the wild cards.\nFollowing Tampa Bay Rays.\nStandings snapshot: 2026-09-27.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Martinez / Zack Wheeler.\n\nListed broadcasts: NBCSP / Rays.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823408",
-      "location": "Citizens Bank Park",
-      "url": "https://www.mlb.com/gameday/823408",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Pennant race",
-        "Tampa Bay Rays"
-      ],
-      "hash": "1ee2e1b069e70856b8392d0197de531d863fb9348299c293c86db6ae1f844dfe",
-      "created": "2026-09-26T07:50:51.012Z",
-      "modified": "2026-09-27T08:20:47.079Z",
-      "sequence": 1
-    },
-    {
       "uid": "nfl-401872960@football-watchlist",
       "gameId": "401872960",
       "title": "NFL: Baltimore Ravens vs Dallas Cowboys",
@@ -1279,135 +1244,6 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-849843@football-watchlist",
-      "gameId": "849843",
-      "mlbSeason": 2026,
-      "mlbGameType": "F",
-      "mlbSeriesKey": "2026/F/4",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "112",
-        "135"
-      ],
-      "selectionReasons": [
-        "MLB postseason: every game, from the Wild Card Series through the World Series."
-      ],
-      "title": "MLB: NL Wild Card 'B' Game 1 - Chicago Cubs at San Diego Padres [time TBA]",
-      "start": "2026-09-29",
-      "end": "2026-09-30",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849843",
-      "location": "Petco Park",
-      "url": "https://www.mlb.com/gameday/849843",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Playoffs",
-        "San Diego Padres"
-      ],
-      "hash": "1bdfd33fb063fa6f7068ba3e5568f2e84656a2fa25dc3cd3b7daaa2bde98744e",
-      "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-27T08:20:47.079Z",
-      "sequence": 2
-    },
-    {
-      "uid": "mlb-849845@football-watchlist",
-      "gameId": "849845",
-      "mlbSeason": 2026,
-      "mlbGameType": "F",
-      "mlbSeriesKey": "2026/F/3",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "4947",
-        "144"
-      ],
-      "selectionReasons": [
-        "MLB postseason: every game, from the Wild Card Series through the World Series."
-      ],
-      "title": "MLB: NL Wild Card 'A' Game 1 - PHI/ARI at Atlanta Braves [time TBA]",
-      "start": "2026-09-29",
-      "end": "2026-09-30",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849845",
-      "location": "Truist Park",
-      "url": "https://www.mlb.com/gameday/849845",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Playoffs"
-      ],
-      "hash": "ec6386ce1442015927298bcbc8221a7e919484ae55e742d2b4d8b59eda317d95",
-      "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-27T14:06:26.709Z",
-      "sequence": 3
-    },
-    {
-      "uid": "mlb-849849@football-watchlist",
-      "gameId": "849849",
-      "mlbSeason": 2026,
-      "mlbGameType": "F",
-      "mlbSeriesKey": "2026/F/1",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "145",
-        "4614"
-      ],
-      "selectionReasons": [
-        "MLB postseason: every game, from the Wild Card Series through the World Series."
-      ],
-      "title": "MLB: AL Wild Card 'A' Game 1 - Chicago White Sox at HOU/TEX [time TBA]",
-      "start": "2026-09-29",
-      "end": "2026-09-30",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849849",
-      "location": "AL Stadium",
-      "url": "https://www.mlb.com/gameday/849849",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Playoffs"
-      ],
-      "hash": "aef7716dd105c1f58c70138309abf50f053f85652ebce95f39d35eae51218082",
-      "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-27T08:20:47.079Z",
-      "sequence": 4
-    },
-    {
-      "uid": "mlb-849851@football-watchlist",
-      "gameId": "849851",
-      "mlbSeason": 2026,
-      "mlbGameType": "F",
-      "mlbSeriesKey": "2026/F/2",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "111",
-        "147"
-      ],
-      "selectionReasons": [
-        "MLB postseason: every game, from the Wild Card Series through the World Series."
-      ],
-      "title": "MLB: AL Wild Card 'B' Game 1 - Boston Red Sox at New York Yankees [time TBA]",
-      "start": "2026-09-29",
-      "end": "2026-09-30",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849851",
-      "location": "Yankee Stadium",
-      "url": "https://www.mlb.com/gameday/849851",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Playoffs"
-      ],
-      "hash": "59b7af34e33fb65e9128b95100a645c46b4aa8e66e91e4dcd53c83faaeb444db",
-      "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-25T23:20:50.299Z",
-      "sequence": 4
-    },
-    {
       "uid": "nfl-401872963@football-watchlist",
       "gameId": "401872963",
       "title": "NFL: Philadelphia Eagles at Chicago Bears",
@@ -1427,6 +1263,135 @@
       "sequence": 1
     },
     {
+      "uid": "mlb-849845@football-watchlist",
+      "gameId": "849845",
+      "mlbSeason": 2026,
+      "mlbGameType": "F",
+      "mlbSeriesKey": "2026/F/3",
+      "mlbSeriesGameNumber": 1,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "4947",
+        "144"
+      ],
+      "selectionReasons": [
+        "MLB postseason: every game, from the Wild Card Series through the World Series."
+      ],
+      "title": "MLB: NL Wild Card 'A' Game 1 - PHI/ARI at Atlanta Braves",
+      "start": "2026-09-29T18:00:00.000Z",
+      "end": "2026-09-29T21:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849845",
+      "location": "Truist Park",
+      "url": "https://www.mlb.com/gameday/849845",
+      "status": "TENTATIVE",
+      "categories": [
+        "MLB",
+        "Playoffs"
+      ],
+      "hash": "7cf0be5723ae3b97dd43f3caaa12d48b0cc89af0cca24f9a8793f624c076f44c",
+      "created": "2026-09-19T11:15:49.893Z",
+      "modified": "2026-09-27T18:30:16.110Z",
+      "sequence": 4
+    },
+    {
+      "uid": "mlb-849849@football-watchlist",
+      "gameId": "849849",
+      "mlbSeason": 2026,
+      "mlbGameType": "F",
+      "mlbSeriesKey": "2026/F/1",
+      "mlbSeriesGameNumber": 1,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "145",
+        "4614"
+      ],
+      "selectionReasons": [
+        "MLB postseason: every game, from the Wild Card Series through the World Series."
+      ],
+      "title": "MLB: AL Wild Card 'A' Game 1 - Chicago White Sox at HOU/TEX",
+      "start": "2026-09-29T21:00:00.000Z",
+      "end": "2026-09-30T00:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: Peacock/NBCSN / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849849",
+      "location": "AL Stadium",
+      "url": "https://www.mlb.com/gameday/849849",
+      "status": "TENTATIVE",
+      "categories": [
+        "MLB",
+        "Playoffs"
+      ],
+      "hash": "4ad4e9a059ffa8483371e7ce501c21d7da46bbe4c8fed8746420b159228acabc",
+      "created": "2026-09-19T11:15:49.893Z",
+      "modified": "2026-09-27T18:30:16.110Z",
+      "sequence": 5
+    },
+    {
+      "uid": "mlb-849851@football-watchlist",
+      "gameId": "849851",
+      "mlbSeason": 2026,
+      "mlbGameType": "F",
+      "mlbSeriesKey": "2026/F/2",
+      "mlbSeriesGameNumber": 1,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "111",
+        "147"
+      ],
+      "selectionReasons": [
+        "MLB postseason: every game, from the Wild Card Series through the World Series."
+      ],
+      "title": "MLB: AL Wild Card 'B' Game 1 - Boston Red Sox at New York Yankees",
+      "start": "2026-09-30T00:00:00.000Z",
+      "end": "2026-09-30T03:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Cam Schlittler.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849851",
+      "location": "Yankee Stadium",
+      "url": "https://www.mlb.com/gameday/849851",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Playoffs"
+      ],
+      "hash": "e326c58fc3b9db1093466eae16e64db5219ab19e2b795800f5f32370db07e1e0",
+      "created": "2026-09-19T11:15:49.893Z",
+      "modified": "2026-09-27T18:30:16.110Z",
+      "sequence": 5
+    },
+    {
+      "uid": "mlb-849843@football-watchlist",
+      "gameId": "849843",
+      "mlbSeason": 2026,
+      "mlbGameType": "F",
+      "mlbSeriesKey": "2026/F/4",
+      "mlbSeriesGameNumber": 1,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "112",
+        "135"
+      ],
+      "selectionReasons": [
+        "MLB postseason: every game, from the Wild Card Series through the World Series."
+      ],
+      "title": "MLB: NL Wild Card 'B' Game 1 - Chicago Cubs at San Diego Padres",
+      "start": "2026-09-30T02:00:00.000Z",
+      "end": "2026-09-30T05:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: Peacock/NBCSN / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849843",
+      "location": "Petco Park",
+      "url": "https://www.mlb.com/gameday/849843",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Playoffs",
+        "San Diego Padres"
+      ],
+      "hash": "0e96ad3a02123dbb19d45e627425a5952c3f2dad04c65e7694887e81c3b5a13d",
+      "created": "2026-09-19T11:15:49.893Z",
+      "modified": "2026-09-27T18:30:16.110Z",
+      "sequence": 3
+    },
+    {
       "uid": "mlb-849841@football-watchlist",
       "gameId": "849841",
       "mlbSeason": 2026,
@@ -1441,11 +1406,11 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NL Wild Card 'A' Game 2 - PHI/ARI at Atlanta Braves [time TBA]",
-      "start": "2026-09-30",
-      "end": "2026-10-01",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849841",
+      "title": "MLB: NL Wild Card 'A' Game 2 - PHI/ARI at Atlanta Braves",
+      "start": "2026-09-30T18:00:00.000Z",
+      "end": "2026-09-30T21:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849841",
       "location": "Truist Park",
       "url": "https://www.mlb.com/gameday/849841",
       "status": "TENTATIVE",
@@ -1453,43 +1418,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "4228c0da46eeb523f004ee2aa8b5dce37e98d0fbded6e3792987012261261679",
+      "hash": "3a7942b81d364f90ba3f40d5a5e5e02da30c166249d04262dc07bed788360905",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-27T14:06:26.709Z",
-      "sequence": 3
-    },
-    {
-      "uid": "mlb-849842@football-watchlist",
-      "gameId": "849842",
-      "mlbSeason": 2026,
-      "mlbGameType": "F",
-      "mlbSeriesKey": "2026/F/4",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "112",
-        "135"
-      ],
-      "selectionReasons": [
-        "MLB postseason: every game, from the Wild Card Series through the World Series."
-      ],
-      "title": "MLB: NL Wild Card 'B' Game 2 - Chicago Cubs at San Diego Padres [time TBA]",
-      "start": "2026-09-30",
-      "end": "2026-10-01",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849842",
-      "location": "Petco Park",
-      "url": "https://www.mlb.com/gameday/849842",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Playoffs",
-        "San Diego Padres"
-      ],
-      "hash": "8d964a7f9f5e95a94e21ecf4b8423e8792f2a14316258a924e381f6f409d5369",
-      "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-27T08:20:47.079Z",
-      "sequence": 2
+      "modified": "2026-09-27T18:30:16.110Z",
+      "sequence": 4
     },
     {
       "uid": "mlb-849846@football-watchlist",
@@ -1506,11 +1438,11 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: AL Wild Card 'A' Game 2 - Chicago White Sox at HOU/TEX [time TBA]",
-      "start": "2026-09-30",
-      "end": "2026-10-01",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849846",
+      "title": "MLB: AL Wild Card 'A' Game 2 - Chicago White Sox at HOU/TEX",
+      "start": "2026-09-30T21:00:00.000Z",
+      "end": "2026-10-01T00:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: Peacock/NBCSN / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849846",
       "location": "AL Stadium",
       "url": "https://www.mlb.com/gameday/849846",
       "status": "TENTATIVE",
@@ -1518,10 +1450,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "d54cfbf3bd41a3e0e40f8a7a906d06b491fa64afc42add8c9557c0a27f574176",
+      "hash": "f9b468764abb9ef7915e2d7f660a5a817ae5291503f3d3b79b04d32483c92b33",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-27T08:20:47.079Z",
-      "sequence": 4
+      "modified": "2026-09-27T18:30:16.110Z",
+      "sequence": 5
     },
     {
       "uid": "mlb-849848@football-watchlist",
@@ -1538,31 +1470,31 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: AL Wild Card 'B' Game 2 - Boston Red Sox at New York Yankees [time TBA]",
-      "start": "2026-09-30",
-      "end": "2026-10-01",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849848",
+      "title": "MLB: AL Wild Card 'B' Game 2 - Boston Red Sox at New York Yankees",
+      "start": "2026-10-01T00:00:00.000Z",
+      "end": "2026-10-01T03:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Max Fried.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849848",
       "location": "Yankee Stadium",
       "url": "https://www.mlb.com/gameday/849848",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Playoffs"
       ],
-      "hash": "5eebef978c76212e49127d1177332b10840de24f892e58554328148e92235822",
+      "hash": "0a9995af8d955932ce546cf37bfe6ba1f02547f45c61389b2e00321ed847a4ce",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-25T23:20:50.299Z",
-      "sequence": 4
+      "modified": "2026-09-27T18:30:16.110Z",
+      "sequence": 5
     },
     {
-      "uid": "mlb-849840@football-watchlist",
-      "gameId": "849840",
+      "uid": "mlb-849842@football-watchlist",
+      "gameId": "849842",
       "mlbSeason": 2026,
       "mlbGameType": "F",
       "mlbSeriesKey": "2026/F/4",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": true,
+      "mlbSeriesGameNumber": 2,
+      "mlbIfNecessary": false,
       "mlbTeamIds": [
         "112",
         "135"
@@ -1570,23 +1502,23 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NL Wild Card 'B' Game 3 - Chicago Cubs at San Diego Padres [if necessary] [time TBA]",
-      "start": "2026-10-01",
-      "end": "2026-10-02",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849840",
+      "title": "MLB: NL Wild Card 'B' Game 2 - Chicago Cubs at San Diego Padres",
+      "start": "2026-10-01T02:00:00.000Z",
+      "end": "2026-10-01T05:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: Peacock/NBCSN / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849842",
       "location": "Petco Park",
-      "url": "https://www.mlb.com/gameday/849840",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/849842",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Playoffs",
         "San Diego Padres"
       ],
-      "hash": "398ba83f1115568fa51d82a72aa821a4f5e216a23991b85f05b3cf16db7a35d3",
+      "hash": "8d95e201ad764fc4b7de825466e0102faab14728752f711c5ddb39b941eed18f",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-27T08:20:47.079Z",
-      "sequence": 2
+      "modified": "2026-09-27T18:30:16.110Z",
+      "sequence": 3
     },
     {
       "uid": "mlb-849844@football-watchlist",
@@ -1603,11 +1535,11 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NL Wild Card 'A' Game 3 - PHI/ARI at Atlanta Braves [if necessary] [time TBA]",
-      "start": "2026-10-01",
-      "end": "2026-10-02",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849844",
+      "title": "MLB: NL Wild Card 'A' Game 3 - PHI/ARI at Atlanta Braves [if necessary]",
+      "start": "2026-10-01T18:00:00.000Z",
+      "end": "2026-10-01T21:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849844",
       "location": "Truist Park",
       "url": "https://www.mlb.com/gameday/849844",
       "status": "TENTATIVE",
@@ -1615,41 +1547,9 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "4febe3b3517dcc71ada54c581861ad34ddb9d40099d724d2086cb89ec510e106",
+      "hash": "bcc1055daf8f7259c3d9c9c77a3d599b7dbec75f7aadde025eeb2b0a9e286e30",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-27T14:06:26.709Z",
-      "sequence": 3
-    },
-    {
-      "uid": "mlb-849847@football-watchlist",
-      "gameId": "849847",
-      "mlbSeason": 2026,
-      "mlbGameType": "F",
-      "mlbSeriesKey": "2026/F/2",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": true,
-      "mlbTeamIds": [
-        "111",
-        "147"
-      ],
-      "selectionReasons": [
-        "MLB postseason: every game, from the Wild Card Series through the World Series."
-      ],
-      "title": "MLB: AL Wild Card 'B' Game 3 - Boston Red Sox at New York Yankees [if necessary] [time TBA]",
-      "start": "2026-10-01",
-      "end": "2026-10-02",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849847",
-      "location": "Yankee Stadium",
-      "url": "https://www.mlb.com/gameday/849847",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Playoffs"
-      ],
-      "hash": "39b17a009be0ef6104d2b27db16eec612fe4e92cadeb48d34b004dc34776ce29",
-      "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-25T23:20:50.299Z",
+      "modified": "2026-09-27T18:30:16.110Z",
       "sequence": 4
     },
     {
@@ -1667,11 +1567,11 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: AL Wild Card 'A' Game 3 - Chicago White Sox at HOU/TEX [if necessary] [time TBA]",
-      "start": "2026-10-01",
-      "end": "2026-10-02",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849850",
+      "title": "MLB: AL Wild Card 'A' Game 3 - Chicago White Sox at HOU/TEX [if necessary]",
+      "start": "2026-10-01T21:00:00.000Z",
+      "end": "2026-10-02T00:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: Peacock/NBCSN / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849850",
       "location": "AL Stadium",
       "url": "https://www.mlb.com/gameday/849850",
       "status": "TENTATIVE",
@@ -1679,10 +1579,42 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "ac191dadbc129ed3f9527083e53fe38a07a1e5b95abeb8177244d94951826c53",
+      "hash": "9aaa1732d4f8c3e12314c32aab42c6fbedb43483375de3353192405ce586b173",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-27T08:20:47.079Z",
-      "sequence": 4
+      "modified": "2026-09-27T18:30:16.110Z",
+      "sequence": 5
+    },
+    {
+      "uid": "mlb-849847@football-watchlist",
+      "gameId": "849847",
+      "mlbSeason": 2026,
+      "mlbGameType": "F",
+      "mlbSeriesKey": "2026/F/2",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": true,
+      "mlbTeamIds": [
+        "111",
+        "147"
+      ],
+      "selectionReasons": [
+        "MLB postseason: every game, from the Wild Card Series through the World Series."
+      ],
+      "title": "MLB: AL Wild Card 'B' Game 3 - Boston Red Sox at New York Yankees [if necessary]",
+      "start": "2026-10-02T00:00:00.000Z",
+      "end": "2026-10-02T03:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Gerrit Cole.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849847",
+      "location": "Yankee Stadium",
+      "url": "https://www.mlb.com/gameday/849847",
+      "status": "TENTATIVE",
+      "categories": [
+        "MLB",
+        "Playoffs"
+      ],
+      "hash": "bd874f9c1f7e51b439a4b853c396bfe0018872dd6d6603b3437b130a746669f9",
+      "created": "2026-09-19T11:15:49.893Z",
+      "modified": "2026-09-27T18:30:16.110Z",
+      "sequence": 5
     },
     {
       "uid": "nfl-401872964@football-watchlist",
@@ -1702,6 +1634,39 @@
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-05T14:52:08.096Z",
       "sequence": 1
+    },
+    {
+      "uid": "mlb-849840@football-watchlist",
+      "gameId": "849840",
+      "mlbSeason": 2026,
+      "mlbGameType": "F",
+      "mlbSeriesKey": "2026/F/4",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": true,
+      "mlbTeamIds": [
+        "112",
+        "135"
+      ],
+      "selectionReasons": [
+        "MLB postseason: every game, from the Wild Card Series through the World Series."
+      ],
+      "title": "MLB: NL Wild Card 'B' Game 3 - Chicago Cubs at San Diego Padres [if necessary]",
+      "start": "2026-10-02T02:00:00.000Z",
+      "end": "2026-10-02T05:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: Peacock/NBCSN / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849840",
+      "location": "Petco Park",
+      "url": "https://www.mlb.com/gameday/849840",
+      "status": "TENTATIVE",
+      "categories": [
+        "MLB",
+        "Playoffs",
+        "San Diego Padres"
+      ],
+      "hash": "5a086a93853c50d18895933765027bf882a0478e55e2672a710e1df149fbee63",
+      "created": "2026-09-19T11:15:49.893Z",
+      "modified": "2026-09-27T18:30:16.110Z",
+      "sequence": 3
     },
     {
       "uid": "mlb-849828@football-watchlist",
@@ -6052,7 +6017,7 @@
     "checkedOn": "2026-09-27",
     "season": 2026,
     "scheduleGames": 414,
-    "events": 62,
+    "events": 61,
     "playoffEvents": 53
   },
   "warnings": []

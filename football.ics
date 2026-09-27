@@ -1138,27 +1138,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-823408@football-watchlist
-DTSTAMP:20260927T082047Z
-CREATED:20260926T075051Z
-LAST-MODIFIED:20260927T082047Z
-SEQUENCE:1
-DTSTART:20260927T190500Z
-DTEND:20260927T220500Z
-SUMMARY:MLB: Tampa Bay Rays at Philadelphia Phillies
-DESCRIPTION:Philadelphia Phillies: 1 game ahead of the first team outside t
- he wild cards.\nFollowing Tampa Bay Rays.\nStandings snapshot: 2026-09-27.
- \n\nViewing window: 3 hours\; finish is approximate.\n\nProbable pitchers 
- (subject to change): Nick Martinez / Zack Wheeler.\n\nListed broadcasts: N
- BCSP / Rays.TV. Availability varies by country and provider.\n\nOfficial s
- chedule: https://www.mlb.com/gameday/823408
-LOCATION:Citizens Bank Park
-URL:https://www.mlb.com/gameday/823408
-CATEGORIES:MLB,Pennant race,Tampa Bay Rays
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:nfl-401872960@football-watchlist
 DTSTAMP:20260905T145457Z
 CREATED:20260905T144637Z
@@ -1198,91 +1177,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-849843@football-watchlist
-DTSTAMP:20260927T082047Z
-CREATED:20260919T111549Z
-LAST-MODIFIED:20260927T082047Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-SUMMARY:MLB: NL Wild Card 'B' Game 1 - Chicago Cubs at San Diego Padres [ti
- me TBA]
-DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nFirst pitch has not been announced. This all-day mark
- er will become a timed event when confirmed.\n\nListed broadcasts: NBC/Pea
- cock / Universo/ Peacock. Availability varies by country and provider.\n\n
- Official schedule: https://www.mlb.com/gameday/849843
-LOCATION:Petco Park
-URL:https://www.mlb.com/gameday/849843
-CATEGORIES:MLB,Playoffs,San Diego Padres
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-849845@football-watchlist
-DTSTAMP:20260927T140626Z
-CREATED:20260919T111549Z
-LAST-MODIFIED:20260927T140626Z
-SEQUENCE:3
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-SUMMARY:MLB: NL Wild Card 'A' Game 1 - PHI/ARI at Atlanta Braves [time TBA]
-DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
- s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: NBC/Peacock / Universo/ Peacock. Availability varies by country and
-  provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849845
-LOCATION:Truist Park
-URL:https://www.mlb.com/gameday/849845
-CATEGORIES:MLB,Playoffs
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-849849@football-watchlist
-DTSTAMP:20260927T082047Z
-CREATED:20260919T111549Z
-LAST-MODIFIED:20260927T082047Z
-SEQUENCE:4
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-SUMMARY:MLB: AL Wild Card 'A' Game 1 - Chicago White Sox at HOU/TEX [time T
- BA]
-DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
- s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: NBC/Peacock / Universo/ Peacock. Availability varies by country and
-  provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849849
-LOCATION:AL Stadium
-URL:https://www.mlb.com/gameday/849849
-CATEGORIES:MLB,Playoffs
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-849851@football-watchlist
-DTSTAMP:20260925T232050Z
-CREATED:20260919T111549Z
-LAST-MODIFIED:20260925T232050Z
-SEQUENCE:4
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-SUMMARY:MLB: AL Wild Card 'B' Game 1 - Boston Red Sox at New York Yankees [
- time TBA]
-DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nFirst pitch has not been announced. This all-day mark
- er will become a timed event when confirmed.\n\nListed broadcasts: NBC/Pea
- cock / Universo/ Peacock. Availability varies by country and provider.\n\n
- Official schedule: https://www.mlb.com/gameday/849851
-LOCATION:Yankee Stadium
-URL:https://www.mlb.com/gameday/849851
-CATEGORIES:MLB,Playoffs
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:nfl-401872963@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T144637Z
@@ -1303,183 +1197,237 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-849841@football-watchlist
-DTSTAMP:20260927T140626Z
+UID:mlb-849845@football-watchlist
+DTSTAMP:20260927T183016Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260927T140626Z
-SEQUENCE:3
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:MLB: NL Wild Card 'A' Game 2 - PHI/ARI at Atlanta Braves [time TBA]
+LAST-MODIFIED:20260927T183016Z
+SEQUENCE:4
+DTSTART:20260929T180000Z
+DTEND:20260929T213000Z
+SUMMARY:MLB: NL Wild Card 'A' Game 1 - PHI/ARI at Atlanta Braves
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
- s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: NBC/Peacock / Universo/ Peacock. Availability varies by country and
-  provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849841
+  when MLB confirms the matchup.\n\nViewing window: 3.5 hours\; finish is a
+ pproximate.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availab
+ ility varies by country and provider.\n\nOfficial schedule: https://www.ml
+ b.com/gameday/849845
+LOCATION:Truist Park
+URL:https://www.mlb.com/gameday/849845
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849849@football-watchlist
+DTSTAMP:20260927T183016Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260927T183016Z
+SEQUENCE:5
+DTSTART:20260929T210000Z
+DTEND:20260930T003000Z
+SUMMARY:MLB: AL Wild Card 'A' Game 1 - Chicago White Sox at HOU/TEX
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nViewing window: 3.5 hours\; finish is a
+ pproximate.\n\nListed broadcasts: Peacock/NBCSN / Universo/ Peacock. Avail
+ ability varies by country and provider.\n\nOfficial schedule: https://www.
+ mlb.com/gameday/849849
+LOCATION:AL Stadium
+URL:https://www.mlb.com/gameday/849849
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849851@football-watchlist
+DTSTAMP:20260927T183016Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260927T183016Z
+SEQUENCE:5
+DTSTART:20260930T000000Z
+DTEND:20260930T033000Z
+SUMMARY:MLB: AL Wild Card 'B' Game 1 - Boston Red Sox at New York Yankees
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
+ nProbable pitchers (subject to change): Cam Schlittler.\n\nListed broadcas
+ ts: NBC/Peacock / Universo/ Peacock. Availability varies by country and pr
+ ovider.\n\nOfficial schedule: https://www.mlb.com/gameday/849851
+LOCATION:Yankee Stadium
+URL:https://www.mlb.com/gameday/849851
+CATEGORIES:MLB,Playoffs
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849843@football-watchlist
+DTSTAMP:20260927T183016Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260927T183016Z
+SEQUENCE:3
+DTSTART:20260930T020000Z
+DTEND:20260930T053000Z
+SUMMARY:MLB: NL Wild Card 'B' Game 1 - Chicago Cubs at San Diego Padres
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
+ nListed broadcasts: Peacock/NBCSN / Universo/ Peacock. Availability varies
+  by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameda
+ y/849843
+LOCATION:Petco Park
+URL:https://www.mlb.com/gameday/849843
+CATEGORIES:MLB,Playoffs,San Diego Padres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849841@football-watchlist
+DTSTAMP:20260927T183016Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260927T183016Z
+SEQUENCE:4
+DTSTART:20260930T180000Z
+DTEND:20260930T213000Z
+SUMMARY:MLB: NL Wild Card 'A' Game 2 - PHI/ARI at Atlanta Braves
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nViewing window: 3.5 hours\; finish is a
+ pproximate.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availab
+ ility varies by country and provider.\n\nOfficial schedule: https://www.ml
+ b.com/gameday/849841
 LOCATION:Truist Park
 URL:https://www.mlb.com/gameday/849841
 CATEGORIES:MLB,Playoffs
 STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-849842@football-watchlist
-DTSTAMP:20260927T082047Z
-CREATED:20260919T111549Z
-LAST-MODIFIED:20260927T082047Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:MLB: NL Wild Card 'B' Game 2 - Chicago Cubs at San Diego Padres [ti
- me TBA]
-DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nFirst pitch has not been announced. This all-day mark
- er will become a timed event when confirmed.\n\nListed broadcasts: NBC/Pea
- cock / Universo/ Peacock. Availability varies by country and provider.\n\n
- Official schedule: https://www.mlb.com/gameday/849842
-LOCATION:Petco Park
-URL:https://www.mlb.com/gameday/849842
-CATEGORIES:MLB,Playoffs,San Diego Padres
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849846@football-watchlist
-DTSTAMP:20260927T082047Z
+DTSTAMP:20260927T183016Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260927T082047Z
-SEQUENCE:4
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:MLB: AL Wild Card 'A' Game 2 - Chicago White Sox at HOU/TEX [time T
- BA]
+LAST-MODIFIED:20260927T183016Z
+SEQUENCE:5
+DTSTART:20260930T210000Z
+DTEND:20261001T003000Z
+SUMMARY:MLB: AL Wild Card 'A' Game 2 - Chicago White Sox at HOU/TEX
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
- s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: NBC/Peacock / Universo/ Peacock. Availability varies by country and
-  provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849846
+  when MLB confirms the matchup.\n\nViewing window: 3.5 hours\; finish is a
+ pproximate.\n\nListed broadcasts: Peacock/NBCSN / Universo/ Peacock. Avail
+ ability varies by country and provider.\n\nOfficial schedule: https://www.
+ mlb.com/gameday/849846
 LOCATION:AL Stadium
 URL:https://www.mlb.com/gameday/849846
 CATEGORIES:MLB,Playoffs
 STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849848@football-watchlist
-DTSTAMP:20260925T232050Z
+DTSTAMP:20260927T183016Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260925T232050Z
-SEQUENCE:4
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:MLB: AL Wild Card 'B' Game 2 - Boston Red Sox at New York Yankees [
- time TBA]
+LAST-MODIFIED:20260927T183016Z
+SEQUENCE:5
+DTSTART:20261001T000000Z
+DTEND:20261001T033000Z
+SUMMARY:MLB: AL Wild Card 'B' Game 2 - Boston Red Sox at New York Yankees
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nFirst pitch has not been announced. This all-day mark
- er will become a timed event when confirmed.\n\nListed broadcasts: NBC/Pea
- cock / Universo/ Peacock. Availability varies by country and provider.\n\n
- Official schedule: https://www.mlb.com/gameday/849848
+ the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
+ nProbable pitchers (subject to change): Max Fried.\n\nListed broadcasts: N
+ BC/Peacock / Universo/ Peacock. Availability varies by country and provide
+ r.\n\nOfficial schedule: https://www.mlb.com/gameday/849848
 LOCATION:Yankee Stadium
 URL:https://www.mlb.com/gameday/849848
 CATEGORIES:MLB,Playoffs
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-849840@football-watchlist
-DTSTAMP:20260927T082047Z
+UID:mlb-849842@football-watchlist
+DTSTAMP:20260927T183016Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260927T082047Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:MLB: NL Wild Card 'B' Game 3 - Chicago Cubs at San Diego Padres [if
-  necessary] [time TBA]
+LAST-MODIFIED:20260927T183016Z
+SEQUENCE:3
+DTSTART:20261001T020000Z
+DTEND:20261001T053000Z
+SUMMARY:MLB: NL Wild Card 'B' Game 2 - Chicago Cubs at San Diego Padres
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nFirst pitch has n
- ot been announced. This all-day marker will become a timed event when conf
- irmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability
-  varies by country and provider.\n\nOfficial schedule: https://www.mlb.com
- /gameday/849840
+ the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
+ nListed broadcasts: Peacock/NBCSN / Universo/ Peacock. Availability varies
+  by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameda
+ y/849842
 LOCATION:Petco Park
-URL:https://www.mlb.com/gameday/849840
+URL:https://www.mlb.com/gameday/849842
 CATEGORIES:MLB,Playoffs,San Diego Padres
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849844@football-watchlist
-DTSTAMP:20260927T140626Z
+DTSTAMP:20260927T183016Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260927T140626Z
-SEQUENCE:3
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
+LAST-MODIFIED:20260927T183016Z
+SEQUENCE:4
+DTSTART:20261001T180000Z
+DTEND:20261001T213000Z
 SUMMARY:MLB: NL Wild Card 'A' Game 3 - PHI/ARI at Atlanta Braves [if necess
- ary] [time TBA]
+ ary]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
-  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
- st pitch has not been announced. This all-day marker will become a timed e
- vent when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock
- . Availability varies by country and provider.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/849844
+  are placeholders. Teams will update when MLB confirms the matchup.\n\nVie
+ wing window: 3.5 hours\; finish is approximate.\n\nListed broadcasts: NBC/
+ Peacock / Universo/ Peacock. Availability varies by country and provider.\
+ n\nOfficial schedule: https://www.mlb.com/gameday/849844
 LOCATION:Truist Park
 URL:https://www.mlb.com/gameday/849844
 CATEGORIES:MLB,Playoffs
 STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-849847@football-watchlist
-DTSTAMP:20260925T232050Z
-CREATED:20260919T111549Z
-LAST-MODIFIED:20260925T232050Z
-SEQUENCE:4
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:MLB: AL Wild Card 'B' Game 3 - Boston Red Sox at New York Yankees [
- if necessary] [time TBA]
-DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nFirst pitch has n
- ot been announced. This all-day marker will become a timed event when conf
- irmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability
-  varies by country and provider.\n\nOfficial schedule: https://www.mlb.com
- /gameday/849847
-LOCATION:Yankee Stadium
-URL:https://www.mlb.com/gameday/849847
-CATEGORIES:MLB,Playoffs
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849850@football-watchlist
-DTSTAMP:20260927T082047Z
+DTSTAMP:20260927T183016Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260927T082047Z
-SEQUENCE:4
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
+LAST-MODIFIED:20260927T183016Z
+SEQUENCE:5
+DTSTART:20261001T210000Z
+DTEND:20261002T003000Z
 SUMMARY:MLB: AL Wild Card 'A' Game 3 - Chicago White Sox at HOU/TEX [if nec
- essary] [time TBA]
+ essary]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
-  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
- st pitch has not been announced. This all-day marker will become a timed e
- vent when confirmed.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock
- . Availability varies by country and provider.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/849850
+  are placeholders. Teams will update when MLB confirms the matchup.\n\nVie
+ wing window: 3.5 hours\; finish is approximate.\n\nListed broadcasts: Peac
+ ock/NBCSN / Universo/ Peacock. Availability varies by country and provider
+ .\n\nOfficial schedule: https://www.mlb.com/gameday/849850
 LOCATION:AL Stadium
 URL:https://www.mlb.com/gameday/849850
 CATEGORIES:MLB,Playoffs
 STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849847@football-watchlist
+DTSTAMP:20260927T183016Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260927T183016Z
+SEQUENCE:5
+DTSTART:20261002T000000Z
+DTEND:20261002T033000Z
+SUMMARY:MLB: AL Wild Card 'B' Game 3 - Boston Red Sox at New York Yankees [
+ if necessary]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nThis game is only played if the series requires it. I
+ t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
+ .5 hours\; finish is approximate.\n\nProbable pitchers (subject to change)
+ : Gerrit Cole.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Avai
+ lability varies by country and provider.\n\nOfficial schedule: https://www
+ .mlb.com/gameday/849847
+LOCATION:Yankee Stadium
+URL:https://www.mlb.com/gameday/849847
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401872964@football-watchlist
@@ -1499,6 +1447,28 @@ LOCATION:Huntington Bank Field\, Cleveland\, OH\, USA
 URL:https://www.espn.com/nfl/game/_/gameId/401872964/steelers-browns
 CATEGORIES:NFL
 STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849840@football-watchlist
+DTSTAMP:20260927T183016Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20260927T183016Z
+SEQUENCE:3
+DTSTART:20261002T020000Z
+DTEND:20261002T053000Z
+SUMMARY:MLB: NL Wild Card 'B' Game 3 - Chicago Cubs at San Diego Padres [if
+  necessary]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nThis game is only played if the series requires it. I
+ t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
+ .5 hours\; finish is approximate.\n\nListed broadcasts: Peacock/NBCSN / Un
+ iverso/ Peacock. Availability varies by country and provider.\n\nOfficial 
+ schedule: https://www.mlb.com/gameday/849840
+LOCATION:Petco Park
+URL:https://www.mlb.com/gameday/849840
+CATEGORIES:MLB,Playoffs,San Diego Padres
+STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT

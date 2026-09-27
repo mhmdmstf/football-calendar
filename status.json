@@ -1,14 +1,14 @@
 {
   "checkedOn": "2026-09-27",
   "season": 2026,
-  "events": 268,
+  "events": 267,
   "nflGames": 285,
   "collegeGames": 949,
   "baseball": {
     "checkedOn": "2026-09-27",
     "season": 2026,
     "scheduleGames": 414,
-    "events": 62,
+    "events": 61,
     "playoffEvents": 53
   },
   "warnings": []
