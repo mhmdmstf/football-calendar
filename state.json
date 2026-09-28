@@ -1281,7 +1281,7 @@
       "start": "2026-09-29T18:00:00.000Z",
       "end": "2026-09-29T21:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849845",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Jesús Luzardo / Chris Sale.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849845",
       "location": "Truist Park",
       "url": "https://www.mlb.com/gameday/849845",
       "status": "CONFIRMED",
@@ -1289,10 +1289,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "203e3057c5a12d648fdd5db986788fe2c6b9111ca12c4a09592b11ba929f3306",
+      "hash": "03efc8ab01b47dd96cb4beed1ea86b6c9aa33bb850b12f2686109acadad12ba7",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-27T23:08:10.280Z",
-      "sequence": 5
+      "modified": "2026-09-28T20:36:17.857Z",
+      "sequence": 6
     },
     {
       "uid": "mlb-849849@football-watchlist",
@@ -1345,7 +1345,7 @@
       "start": "2026-09-30T00:00:00.000Z",
       "end": "2026-09-30T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Cam Schlittler.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849851",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Payton Tolle / Cam Schlittler.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849851",
       "location": "Yankee Stadium",
       "url": "https://www.mlb.com/gameday/849851",
       "status": "CONFIRMED",
@@ -1353,10 +1353,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "e326c58fc3b9db1093466eae16e64db5219ab19e2b795800f5f32370db07e1e0",
+      "hash": "7b1294fa7fe875e3b451a8c49361835713b304b7781bc55154e0cb13758c2f6c",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-27T18:30:16.110Z",
-      "sequence": 5
+      "modified": "2026-09-28T20:36:17.857Z",
+      "sequence": 6
     },
     {
       "uid": "mlb-849843@football-watchlist",
@@ -1474,7 +1474,7 @@
       "start": "2026-10-01T00:00:00.000Z",
       "end": "2026-10-01T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Max Fried.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849848",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Sonny Gray / Max Fried.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849848",
       "location": "Yankee Stadium",
       "url": "https://www.mlb.com/gameday/849848",
       "status": "CONFIRMED",
@@ -1482,10 +1482,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "0a9995af8d955932ce546cf37bfe6ba1f02547f45c61389b2e00321ed847a4ce",
+      "hash": "42d2cecaf76f0ec45f2bcfc85e74e282ac8e0a8a4f934995e10523f7a015846d",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-27T18:30:16.110Z",
-      "sequence": 5
+      "modified": "2026-09-28T20:36:17.857Z",
+      "sequence": 6
     },
     {
       "uid": "mlb-849842@football-watchlist",
@@ -1603,7 +1603,7 @@
       "start": "2026-10-02T00:00:00.000Z",
       "end": "2026-10-02T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Gerrit Cole.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849847",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Ranger Suarez / Gerrit Cole.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849847",
       "location": "Yankee Stadium",
       "url": "https://www.mlb.com/gameday/849847",
       "status": "TENTATIVE",
@@ -1611,10 +1611,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "bd874f9c1f7e51b439a4b853c396bfe0018872dd6d6603b3437b130a746669f9",
+      "hash": "79aa5f6913757aa8401843df1a1749974eb93a99f137af1d4006a6351c2dafb6",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-27T18:30:16.110Z",
-      "sequence": 5
+      "modified": "2026-09-28T20:36:17.857Z",
+      "sequence": 6
     },
     {
       "uid": "nfl-401872964@football-watchlist",
@@ -2532,47 +2532,6 @@
       "sequence": 1
     },
     {
-      "uid": "college-football-401856712@football-watchlist",
-      "gameId": "401856712",
-      "title": "CFB: Georgia at Alabama [time TBA]",
-      "start": "2026-10-10",
-      "end": "2026-10-11",
-      "allDay": true,
-      "description": "Following Alabama: every game.\n\nNIGHT: 6 - 8pm ET start\n\nTeams: Georgia Bulldogs at Alabama Crimson Tide\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856712/georgia-alabama",
-      "location": "Bryant-Denny Stadium, Tuscaloosa, AL, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856712/georgia-alabama",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "Alabama"
-      ],
-      "hash": "915cef6cfaf147dda640b905b343f9dd7164943c4efc96c7c6579f2675db60c4",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401856715@football-watchlist",
-      "gameId": "401856715",
-      "title": "CFB: LSU at Kentucky [time TBA]",
-      "start": "2026-10-10",
-      "end": "2026-10-11",
-      "allDay": true,
-      "description": "National pick: ranked matchup (#11 vs #24) at selection.\n\nNIGHT: 6 - 8pm ET start\n\nTeams: LSU Tigers at Kentucky Wildcats\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856715/lsu-kentucky",
-      "location": "Kroger Field, Lexington, KY, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856715/lsu-kentucky",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#11 vs #24) at selection.",
-      "hash": "1b17d1346d5f151aeeaa9ddda48b86c22fe0387a5ed64d5c47305f6a92594eb1",
-      "created": "2026-09-27T23:08:10.280Z",
-      "modified": "2026-09-27T23:08:10.280Z",
-      "sequence": 0
-    },
-    {
       "uid": "college-football-401856716@football-watchlist",
       "gameId": "401856716",
       "title": "CFB: Texas A&M at Missouri [time TBA]",
@@ -2746,16 +2705,57 @@
       "start": "2026-10-10T19:30:00.000Z",
       "end": "2026-10-10T23:00:00.000Z",
       "allDay": false,
-      "description": "Major rivalry: Red River Rivalry.\n\nTeams: Texas Longhorns at Oklahoma Sooners\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856717/texas-oklahoma",
+      "description": "Major rivalry: Red River Rivalry.\n\nTeams: Texas Longhorns at Oklahoma Sooners\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856717/texas-oklahoma",
       "location": "Cotton Bowl, Dallas, TX, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856717/texas-oklahoma",
       "status": "CONFIRMED",
       "categories": [
         "College"
       ],
-      "hash": "8ed0a9380d322f3a0098296aec191f14c841bf37b6eafc678093d5182c001f3c",
+      "hash": "550f523ba1ea471d18b4b0c0249fffaf8f68eebd9c68e07f9975acce7eabc496",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:54:57.145Z",
+      "modified": "2026-09-28T20:36:17.857Z",
+      "sequence": 2
+    },
+    {
+      "uid": "college-football-401856715@football-watchlist",
+      "gameId": "401856715",
+      "title": "CFB: LSU at Kentucky",
+      "start": "2026-10-10T23:00:00.000Z",
+      "end": "2026-10-11T02:30:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#11 vs #24) at selection.\n\nTeams: LSU Tigers at Kentucky Wildcats\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856715/lsu-kentucky",
+      "location": "Kroger Field, Lexington, KY, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856715/lsu-kentucky",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#11 vs #24) at selection.",
+      "hash": "7e7904c9908f59dddedb1c4695eb08195c71089cb5031ec19275689cb004f94b",
+      "created": "2026-09-27T23:08:10.280Z",
+      "modified": "2026-09-28T20:36:17.857Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401856712@football-watchlist",
+      "gameId": "401856712",
+      "title": "CFB: Georgia at Alabama",
+      "start": "2026-10-10T23:30:00.000Z",
+      "end": "2026-10-11T03:00:00.000Z",
+      "allDay": false,
+      "description": "Following Alabama: every game.\n\nTeams: Georgia Bulldogs at Alabama Crimson Tide\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856712/georgia-alabama",
+      "location": "Bryant-Denny Stadium, Tuscaloosa, AL, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856712/georgia-alabama",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "Alabama"
+      ],
+      "hash": "e0c953a197beac9114e4b8c1302e8a3b0ac80c71f573fb9cb7423a569ee6ec7a",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-09-28T20:36:17.857Z",
       "sequence": 1
     },
     {

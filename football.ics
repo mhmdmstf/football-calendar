@@ -1198,19 +1198,20 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849845@football-watchlist
-DTSTAMP:20260927T230810Z
+DTSTAMP:20260928T203617Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260927T230810Z
-SEQUENCE:5
+LAST-MODIFIED:20260928T203617Z
+SEQUENCE:6
 DTSTART:20260929T180000Z
 DTEND:20260929T213000Z
 SUMMARY:MLB: NL Wild Card 'A' Game 1 - Philadelphia Phillies at Atlanta Bra
  ves
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies b
- y country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/
- 849845
+ nProbable pitchers (subject to change): Jesús Luzardo / Chris Sale.\n\nLi
+ sted broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by c
+ ountry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849
+ 845
 LOCATION:Truist Park
 URL:https://www.mlb.com/gameday/849845
 CATEGORIES:MLB,Playoffs
@@ -1239,18 +1240,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849851@football-watchlist
-DTSTAMP:20260927T183016Z
+DTSTAMP:20260928T203617Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260927T183016Z
-SEQUENCE:5
+LAST-MODIFIED:20260928T203617Z
+SEQUENCE:6
 DTSTART:20260930T000000Z
 DTEND:20260930T033000Z
 SUMMARY:MLB: AL Wild Card 'B' Game 1 - Boston Red Sox at New York Yankees
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nProbable pitchers (subject to change): Cam Schlittler.\n\nListed broadcas
- ts: NBC/Peacock / Universo/ Peacock. Availability varies by country and pr
- ovider.\n\nOfficial schedule: https://www.mlb.com/gameday/849851
+ nProbable pitchers (subject to change): Payton Tolle / Cam Schlittler.\n\n
+ Listed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by
+  country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/8
+ 49851
 LOCATION:Yankee Stadium
 URL:https://www.mlb.com/gameday/849851
 CATEGORIES:MLB,Playoffs
@@ -1320,18 +1322,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849848@football-watchlist
-DTSTAMP:20260927T183016Z
+DTSTAMP:20260928T203617Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260927T183016Z
-SEQUENCE:5
+LAST-MODIFIED:20260928T203617Z
+SEQUENCE:6
 DTSTART:20261001T000000Z
 DTEND:20261001T033000Z
 SUMMARY:MLB: AL Wild Card 'B' Game 2 - Boston Red Sox at New York Yankees
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nProbable pitchers (subject to change): Max Fried.\n\nListed broadcasts: N
- BC/Peacock / Universo/ Peacock. Availability varies by country and provide
- r.\n\nOfficial schedule: https://www.mlb.com/gameday/849848
+ nProbable pitchers (subject to change): Sonny Gray / Max Fried.\n\nListed 
+ broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by countr
+ y and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849848
 LOCATION:Yankee Stadium
 URL:https://www.mlb.com/gameday/849848
 CATEGORIES:MLB,Playoffs
@@ -1404,10 +1406,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849847@football-watchlist
-DTSTAMP:20260927T183016Z
+DTSTAMP:20260928T203617Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260927T183016Z
-SEQUENCE:5
+LAST-MODIFIED:20260928T203617Z
+SEQUENCE:6
 DTSTART:20261002T000000Z
 DTEND:20261002T033000Z
 SUMMARY:MLB: AL Wild Card 'B' Game 3 - Boston Red Sox at New York Yankees [
@@ -1416,9 +1418,9 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
  .5 hours\; finish is approximate.\n\nProbable pitchers (subject to change)
- : Gerrit Cole.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Avai
- lability varies by country and provider.\n\nOfficial schedule: https://www
- .mlb.com/gameday/849847
+ : Ranger Suarez / Gerrit Cole.\n\nListed broadcasts: NBC/Peacock / Univers
+ o/ Peacock. Availability varies by country and provider.\n\nOfficial sched
+ ule: https://www.mlb.com/gameday/849847
 LOCATION:Yankee Stadium
 URL:https://www.mlb.com/gameday/849847
 CATEGORIES:MLB,Playoffs
@@ -2148,48 +2150,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:college-football-401856712@football-watchlist
-DTSTAMP:20260905T144637Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-SUMMARY:CFB: Georgia at Alabama [time TBA]
-DESCRIPTION:Following Alabama: every game.\n\nNIGHT: 6 - 8pm ET start\n\nTe
- ams: Georgia Bulldogs at Alabama Crimson Tide\n\nBroadcast to be announced
- .\n\nKickoff has not been announced. This all-day marker will become a tim
- ed event when confirmed.\n\nSchedule: https://www.espn.com/college-footbal
- l/game/_/gameId/401856712/georgia-alabama
-LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856712/georgia-a
- labama
-CATEGORIES:College,Alabama
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401856715@football-watchlist
-DTSTAMP:20260927T230810Z
-CREATED:20260927T230810Z
-LAST-MODIFIED:20260927T230810Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-SUMMARY:CFB: LSU at Kentucky [time TBA]
-DESCRIPTION:National pick: ranked matchup (#11 vs #24) at selection.\n\nNIG
- HT: 6 - 8pm ET start\n\nTeams: LSU Tigers at Kentucky Wildcats\n\nBroadcas
- t to be announced.\n\nKickoff has not been announced. This all-day marker 
- will become a timed event when confirmed.\n\nSchedule: https://www.espn.co
- m/college-football/game/_/gameId/401856715/lsu-kentucky
-LOCATION:Kroger Field\, Lexington\, KY\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856715/lsu-kentu
- cky
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:college-football-401856716@football-watchlist
 DTSTAMP:20260919T072420Z
 CREATED:20260919T072420Z
@@ -2340,21 +2300,64 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856717@football-watchlist
-DTSTAMP:20260905T145457Z
+DTSTAMP:20260928T203617Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145457Z
-SEQUENCE:1
+LAST-MODIFIED:20260928T203617Z
+SEQUENCE:2
 DTSTART:20261010T193000Z
 DTEND:20261010T230000Z
 SUMMARY:CFB: Texas vs Oklahoma
 DESCRIPTION:Major rivalry: Red River Rivalry.\n\nTeams: Texas Longhorns at 
- Oklahoma Sooners\n\nBroadcast to be announced.\n\nViewing window: 3.5 hour
- s (4 hours for championships)\; finish is approximate.\n\nSchedule: https:
- //www.espn.com/college-football/game/_/gameId/401856717/texas-oklahoma
+ Oklahoma Sooners\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nV
+ iewing window: 3.5 hours (4 hours for championships)\; finish is approxima
+ te.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/40185
+ 6717/texas-oklahoma
 LOCATION:Cotton Bowl\, Dallas\, TX\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856717/texas-okl
  ahoma
 CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856715@football-watchlist
+DTSTAMP:20260928T203617Z
+CREATED:20260927T230810Z
+LAST-MODIFIED:20260928T203617Z
+SEQUENCE:1
+DTSTART:20261010T230000Z
+DTEND:20261011T023000Z
+SUMMARY:CFB: LSU at Kentucky
+DESCRIPTION:National pick: ranked matchup (#11 vs #24) at selection.\n\nTea
+ ms: LSU Tigers at Kentucky Wildcats\n\nUS broadcast: ESPN. Availability el
+ sewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)\;
+  finish is approximate.\n\nSchedule: https://www.espn.com/college-football
+ /game/_/gameId/401856715/lsu-kentucky
+LOCATION:Kroger Field\, Lexington\, KY\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856715/lsu-kentu
+ cky
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856712@football-watchlist
+DTSTAMP:20260928T203617Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20260928T203617Z
+SEQUENCE:1
+DTSTART:20261010T233000Z
+DTEND:20261011T030000Z
+SUMMARY:CFB: Georgia at Alabama
+DESCRIPTION:Following Alabama: every game.\n\nTeams: Georgia Bulldogs at Al
+ abama Crimson Tide\n\nUS broadcast: ABC. Availability elsewhere varies.\n\
+ nViewing window: 3.5 hours (4 hours for championships)\; finish is approxi
+ mate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401
+ 856712/georgia-alabama
+LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856712/georgia-a
+ labama
+CATEGORIES:College,Alabama
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
