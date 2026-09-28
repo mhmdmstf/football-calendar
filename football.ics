@@ -1139,10 +1139,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401872960@football-watchlist
-DTSTAMP:20260927T230810Z
+DTSTAMP:20260928T084720Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260927T230810Z
-SEQUENCE:3
+LAST-MODIFIED:20260928T084720Z
+SEQUENCE:4
 DTSTART:20260927T202500Z
 DTEND:20260927T235500Z
 SUMMARY:NFL: Baltimore Ravens vs Dallas Cowboys
@@ -1150,8 +1150,9 @@ DESCRIPTION:International game: Brazil.\n\nNFL Rio Game\n\nTeams: Baltimore
   Ravens at Dallas Cowboys\n\nUS broadcast: CBS. Availability elsewhere var
  ies.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish is 
  approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872960
+ /ravens-cowboys
 LOCATION:Maracanã Stadium\, Rio De Janeiro\, Brazil
-URL:https://www.espn.com/nfl/game/_/gameId/401872960
+URL:https://www.espn.com/nfl/game/_/gameId/401872960/ravens-cowboys
 CATEGORIES:NFL
 STATUS:CONFIRMED
 TRANSP:OPAQUE
