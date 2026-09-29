@@ -1410,7 +1410,7 @@
       "start": "2026-09-30T18:00:00.000Z",
       "end": "2026-09-30T21:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: NBC/Peacock / Universo/Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849841",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Cristopher Sánchez / Tyler Mahle.\n\nListed broadcasts: NBC/Peacock / Universo/Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849841",
       "location": "Truist Park",
       "url": "https://www.mlb.com/gameday/849841",
       "status": "CONFIRMED",
@@ -1418,10 +1418,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "fe464c1faff73f076fbbc81203ef53b2a57d911415ba1676fdab2534d461ed5a",
+      "hash": "2b6f5418edad39222b2ee808e2ac2d7cc0189e47d7d9979875fe8f258d0a47cf",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-29T08:41:43.964Z",
-      "sequence": 6
+      "modified": "2026-09-29T19:28:52.325Z",
+      "sequence": 7
     },
     {
       "uid": "mlb-849846@football-watchlist",
@@ -1442,7 +1442,7 @@
       "start": "2026-09-30T21:00:00.000Z",
       "end": "2026-10-01T00:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: Peacock/NBCSN / Universo/Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849846",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Hunter Brown.\n\nListed broadcasts: Peacock/NBCSN / Universo/Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849846",
       "location": "Daikin Park",
       "url": "https://www.mlb.com/gameday/849846",
       "status": "CONFIRMED",
@@ -1450,10 +1450,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "ac895a6ec13126b7452af184f8389db2c8e38108804051e81d7919beb67505b1",
+      "hash": "81e260d1afb68705026f6e072757bd90129d85c2a8e501fe9a20a172c0c1cdcc",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-29T08:41:43.964Z",
-      "sequence": 7
+      "modified": "2026-09-29T19:28:52.325Z",
+      "sequence": 8
     },
     {
       "uid": "mlb-849848@football-watchlist",

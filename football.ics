@@ -1283,19 +1283,20 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849841@football-watchlist
-DTSTAMP:20260929T084143Z
+DTSTAMP:20260929T192852Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260929T084143Z
-SEQUENCE:6
+LAST-MODIFIED:20260929T192852Z
+SEQUENCE:7
 DTSTART:20260930T180000Z
 DTEND:20260930T213000Z
 SUMMARY:MLB: NL Wild Card 'A' Game 2 - Philadelphia Phillies at Atlanta Bra
  ves
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nListed broadcasts: NBC/Peacock / Universo/Peacock. Availability varies by
-  country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/8
- 49841
+ nProbable pitchers (subject to change): Cristopher Sánchez / Tyler Mahle.
+ \n\nListed broadcasts: NBC/Peacock / Universo/Peacock. Availability varies
+  by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameda
+ y/849841
 LOCATION:Truist Park
 URL:https://www.mlb.com/gameday/849841
 CATEGORIES:MLB,Playoffs
@@ -1304,18 +1305,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849846@football-watchlist
-DTSTAMP:20260929T084143Z
+DTSTAMP:20260929T192852Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260929T084143Z
-SEQUENCE:7
+LAST-MODIFIED:20260929T192852Z
+SEQUENCE:8
 DTSTART:20260930T210000Z
 DTEND:20261001T003000Z
 SUMMARY:MLB: AL Wild Card 'A' Game 2 - Chicago White Sox at Houston Astros
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nListed broadcasts: Peacock/NBCSN / Universo/Peacock. Availability varies 
- by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday
- /849846
+ nProbable pitchers (subject to change): Hunter Brown.\n\nListed broadcasts
+ : Peacock/NBCSN / Universo/Peacock. Availability varies by country and pro
+ vider.\n\nOfficial schedule: https://www.mlb.com/gameday/849846
 LOCATION:Daikin Park
 URL:https://www.mlb.com/gameday/849846
 CATEGORIES:MLB,Playoffs
