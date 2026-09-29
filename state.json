@@ -1,5 +1,5 @@
 {
-  "checkedOn": "2026-09-28",
+  "checkedOn": "2026-09-29",
   "season": 2026,
   "events": [
     {
@@ -1281,7 +1281,7 @@
       "start": "2026-09-29T18:00:00.000Z",
       "end": "2026-09-29T21:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Jesús Luzardo / Chris Sale.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849845",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Jesús Luzardo / Chris Sale.\n\nListed broadcasts: NBC/Peacock / Universo/Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849845",
       "location": "Truist Park",
       "url": "https://www.mlb.com/gameday/849845",
       "status": "CONFIRMED",
@@ -1289,10 +1289,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "03efc8ab01b47dd96cb4beed1ea86b6c9aa33bb850b12f2686109acadad12ba7",
+      "hash": "f132ac33e44cd70dc0198c1724e16441e1bf5dbbafa00c29611f674f274e253d",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-28T20:36:17.857Z",
-      "sequence": 6
+      "modified": "2026-09-29T08:41:43.964Z",
+      "sequence": 7
     },
     {
       "uid": "mlb-849849@football-watchlist",
@@ -1313,7 +1313,7 @@
       "start": "2026-09-29T21:00:00.000Z",
       "end": "2026-09-30T00:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: Peacock/NBCSN / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849849",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Hagen Smith / AJ Blubaugh.\n\nListed broadcasts: Peacock/NBCSN / Universo/Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849849",
       "location": "Daikin Park",
       "url": "https://www.mlb.com/gameday/849849",
       "status": "CONFIRMED",
@@ -1321,10 +1321,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "d8a87f2438b1f246d51f48eb91e760e0b3ee15e61b41e04432187e0cc83945e5",
+      "hash": "ead299e7bb7216fc606fd6aaf89a31aa8678d5437fda5ea01a7cb1cafac94617",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-27T23:08:10.280Z",
-      "sequence": 6
+      "modified": "2026-09-29T08:41:43.964Z",
+      "sequence": 7
     },
     {
       "uid": "mlb-849851@football-watchlist",
@@ -1345,7 +1345,7 @@
       "start": "2026-09-30T00:00:00.000Z",
       "end": "2026-09-30T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Payton Tolle / Cam Schlittler.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849851",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Payton Tolle / Cam Schlittler.\n\nListed broadcasts: NBC/Peacock / Universo/Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849851",
       "location": "Yankee Stadium",
       "url": "https://www.mlb.com/gameday/849851",
       "status": "CONFIRMED",
@@ -1353,10 +1353,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "7b1294fa7fe875e3b451a8c49361835713b304b7781bc55154e0cb13758c2f6c",
+      "hash": "c8038d08a91b33e8f8bd78ee53a7c782122015b82cdcea2d91e7e4b305285148",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-28T20:36:17.857Z",
-      "sequence": 6
+      "modified": "2026-09-29T08:41:43.964Z",
+      "sequence": 7
     },
     {
       "uid": "mlb-849843@football-watchlist",
@@ -1377,7 +1377,7 @@
       "start": "2026-09-30T02:00:00.000Z",
       "end": "2026-09-30T05:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Michael King.\n\nListed broadcasts: Peacock/NBCSN / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849843",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Matthew Boyd / Michael King.\n\nListed broadcasts: Peacock/NBCSN / Universo/Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849843",
       "location": "Petco Park",
       "url": "https://www.mlb.com/gameday/849843",
       "status": "CONFIRMED",
@@ -1386,10 +1386,10 @@
         "Playoffs",
         "San Diego Padres"
       ],
-      "hash": "f900508885553e57875974f26acc836369c895d0a3e75fe2c077b9e55aa73397",
+      "hash": "afb83f29886183dc253ea41bc7e3a9e502cbdad56686980020564428e058eb76",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-27T23:08:10.280Z",
-      "sequence": 4
+      "modified": "2026-09-29T08:41:43.964Z",
+      "sequence": 5
     },
     {
       "uid": "mlb-849841@football-watchlist",
@@ -1410,7 +1410,7 @@
       "start": "2026-09-30T18:00:00.000Z",
       "end": "2026-09-30T21:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849841",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: NBC/Peacock / Universo/Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849841",
       "location": "Truist Park",
       "url": "https://www.mlb.com/gameday/849841",
       "status": "CONFIRMED",
@@ -1418,10 +1418,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "7e5f52d89809876424dd0ba3a717ce761441737bd048fee8c74da6d9231d77eb",
+      "hash": "fe464c1faff73f076fbbc81203ef53b2a57d911415ba1676fdab2534d461ed5a",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-27T23:08:10.280Z",
-      "sequence": 5
+      "modified": "2026-09-29T08:41:43.964Z",
+      "sequence": 6
     },
     {
       "uid": "mlb-849846@football-watchlist",
@@ -1442,7 +1442,7 @@
       "start": "2026-09-30T21:00:00.000Z",
       "end": "2026-10-01T00:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: Peacock/NBCSN / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849846",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: Peacock/NBCSN / Universo/Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849846",
       "location": "Daikin Park",
       "url": "https://www.mlb.com/gameday/849846",
       "status": "CONFIRMED",
@@ -1450,10 +1450,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "67d9c14793446a1bf0e04ff8fce3de203fce6900fe5eed73dd99f4027bb455ef",
+      "hash": "ac895a6ec13126b7452af184f8389db2c8e38108804051e81d7919beb67505b1",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-27T23:08:10.280Z",
-      "sequence": 6
+      "modified": "2026-09-29T08:41:43.964Z",
+      "sequence": 7
     },
     {
       "uid": "mlb-849848@football-watchlist",
@@ -1474,7 +1474,7 @@
       "start": "2026-10-01T00:00:00.000Z",
       "end": "2026-10-01T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Sonny Gray / Max Fried.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849848",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Sonny Gray / Max Fried.\n\nListed broadcasts: NBC/Peacock / Universo/Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849848",
       "location": "Yankee Stadium",
       "url": "https://www.mlb.com/gameday/849848",
       "status": "CONFIRMED",
@@ -1482,10 +1482,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "42d2cecaf76f0ec45f2bcfc85e74e282ac8e0a8a4f934995e10523f7a015846d",
+      "hash": "db79fc6539ca5544105dcac6cfc26a046b8fd9999b268b9b7057e4995310b826",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-28T20:36:17.857Z",
-      "sequence": 6
+      "modified": "2026-09-29T08:41:43.964Z",
+      "sequence": 7
     },
     {
       "uid": "mlb-849842@football-watchlist",
@@ -1506,7 +1506,7 @@
       "start": "2026-10-01T02:00:00.000Z",
       "end": "2026-10-01T05:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: Peacock/NBCSN / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849842",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: Peacock/NBCSN / Universo/Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849842",
       "location": "Petco Park",
       "url": "https://www.mlb.com/gameday/849842",
       "status": "CONFIRMED",
@@ -1515,10 +1515,10 @@
         "Playoffs",
         "San Diego Padres"
       ],
-      "hash": "8d95e201ad764fc4b7de825466e0102faab14728752f711c5ddb39b941eed18f",
+      "hash": "ead8ae1fee2cf98deb465f694a91d435f9e19cc1dad6395ba5bf6020cfd3564a",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-27T18:30:16.110Z",
-      "sequence": 3
+      "modified": "2026-09-29T08:41:43.964Z",
+      "sequence": 4
     },
     {
       "uid": "mlb-849844@football-watchlist",
@@ -1539,7 +1539,7 @@
       "start": "2026-10-01T18:00:00.000Z",
       "end": "2026-10-01T21:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849844",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: NBC/Peacock / Universo/Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849844",
       "location": "Truist Park",
       "url": "https://www.mlb.com/gameday/849844",
       "status": "TENTATIVE",
@@ -1547,10 +1547,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "b2420b7cd570802a2199ba7243262e38152ba980e0b19b6640c6d0798690ca17",
+      "hash": "ccdecd0125e9b3763225cee45fc2b4f2a683273de1def58b6d937e6bf306dee2",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-27T23:08:10.280Z",
-      "sequence": 5
+      "modified": "2026-09-29T08:41:43.964Z",
+      "sequence": 6
     },
     {
       "uid": "mlb-849850@football-watchlist",
@@ -1571,7 +1571,7 @@
       "start": "2026-10-01T21:00:00.000Z",
       "end": "2026-10-02T00:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: Peacock/NBCSN / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849850",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: Peacock/NBCSN / Universo/Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849850",
       "location": "Daikin Park",
       "url": "https://www.mlb.com/gameday/849850",
       "status": "TENTATIVE",
@@ -1579,10 +1579,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "c64355ec44a5dba481d9b274e73d636c6fe9e4e6810615f0b6c07b0611b544df",
+      "hash": "f56331b112dfd7589a1baf53f667715edc8ebc9386036116c5de1d30a8761c15",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-27T23:08:10.280Z",
-      "sequence": 6
+      "modified": "2026-09-29T08:41:43.964Z",
+      "sequence": 7
     },
     {
       "uid": "mlb-849847@football-watchlist",
@@ -1603,7 +1603,7 @@
       "start": "2026-10-02T00:00:00.000Z",
       "end": "2026-10-02T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Ranger Suarez / Gerrit Cole.\n\nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849847",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Ranger Suarez / Gerrit Cole.\n\nListed broadcasts: NBC/Peacock / Universo/Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849847",
       "location": "Yankee Stadium",
       "url": "https://www.mlb.com/gameday/849847",
       "status": "TENTATIVE",
@@ -1611,10 +1611,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "79aa5f6913757aa8401843df1a1749974eb93a99f137af1d4006a6351c2dafb6",
+      "hash": "bcd396a90fe5d50d2535d29e913bb82f40cb503073adc7b76fe1a3d9f2c6a1ac",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-28T20:36:17.857Z",
-      "sequence": 6
+      "modified": "2026-09-29T08:41:43.964Z",
+      "sequence": 7
     },
     {
       "uid": "nfl-401872964@football-watchlist",
@@ -1654,7 +1654,7 @@
       "start": "2026-10-02T02:00:00.000Z",
       "end": "2026-10-02T05:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: Peacock/NBCSN / Universo/ Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849840",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: Peacock/NBCSN / Universo/Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849840",
       "location": "Petco Park",
       "url": "https://www.mlb.com/gameday/849840",
       "status": "TENTATIVE",
@@ -1663,10 +1663,10 @@
         "Playoffs",
         "San Diego Padres"
       ],
-      "hash": "5a086a93853c50d18895933765027bf882a0478e55e2672a710e1df149fbee63",
+      "hash": "495eb34e666ac2d951a1774e8ee9f32c44e5b2aa592ec410ce95016f62a3a23b",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-27T18:30:16.110Z",
-      "sequence": 3
+      "modified": "2026-09-29T08:41:43.964Z",
+      "sequence": 4
     },
     {
       "uid": "mlb-849828@football-watchlist",
@@ -1840,22 +1840,23 @@
     },
     {
       "uid": "show-bignoon-2026-10-03@football-watchlist",
-      "title": "Big Noon Kickoff: location TBA",
+      "title": "Big Noon Kickoff: Minnesota vs. Michigan",
+      "gameId": "401858474",
       "start": "2026-10-03T14:00:00.000Z",
       "end": "2026-10-03T16:00:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Usual Saturday broadcast window: 10:00 a.m. to noon Eastern on FOX. Location and this week's broadcast hours have not been confirmed. Tentative placeholder, subject to broadcast changes.\nSource: https://www.foxsports.com/big-noon-kickoff-experience",
+      "status": "CONFIRMED",
+      "description": "Big Noon Kickoff on FOX. Featured game: Minnesota vs. Michigan. Broadcast window: 10:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://www.foxsports.com/big-noon-kickoff-experience",
       "location": "",
       "url": "https://www.foxsports.com/big-noon-kickoff-experience",
       "categories": [
         "College",
         "Pregame"
       ],
-      "hash": "b25641c8718b1a626f17468bd4ace24482ce930983a25a24f442ab5fe85c987b",
+      "hash": "df6066c0b3bc84c21b3695e9ed6cafc95c0f715dcff83766ed926d9e5a59c392",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
+      "modified": "2026-09-29T08:41:43.964Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401856707@football-watchlist",
@@ -1876,6 +1877,25 @@
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-27T08:20:47.079Z",
       "sequence": 1
+    },
+    {
+      "uid": "college-football-401858474@football-watchlist",
+      "gameId": "401858474",
+      "title": "CFB: Michigan at Minnesota",
+      "start": "2026-10-03T16:00:00.000Z",
+      "end": "2026-10-03T19:30:00.000Z",
+      "allDay": false,
+      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: Michigan Wolverines at Minnesota Golden Gophers\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858474/michigan-minnesota",
+      "location": "Huntington Bank Stadium, Minneapolis, MN, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858474/michigan-minnesota",
+      "status": "CONFIRMED",
+      "categories": [
+        "College"
+      ],
+      "hash": "c69c98d175a3dfc47b286c5b13ae53576be03e60eaa06d6922709e71f27c0f84",
+      "created": "2026-09-29T08:41:43.964Z",
+      "modified": "2026-09-29T08:41:43.964Z",
+      "sequence": 0
     },
     {
       "uid": "college-football-401856708@football-watchlist",
@@ -1926,7 +1946,7 @@
       "start": "2026-10-03T23:00:00.000Z",
       "end": "2026-10-04T02:30:00.000Z",
       "allDay": false,
-      "description": "National pick: a ranked team in a potentially competitive game (market spread 5.5 points at selection). Upset possibility is an estimate.\n\nTeams: BYU Cougars at TCU Horned Frogs\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856818/byu-tcu",
+      "description": "National pick: a ranked team in a potentially competitive game (market spread 5.5 points at selection). Upset possibility is an estimate.\n\nTeams: BYU Cougars at TCU Horned Frogs\n\nUS broadcast: ESPN / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856818/byu-tcu",
       "location": "Amon G. Carter Stadium, Fort Worth, TX, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856818/byu-tcu",
       "status": "CONFIRMED",
@@ -1935,10 +1955,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 5.5 points at selection). Upset possibility is an estimate.",
-      "hash": "019427924c357cec947fb098f1359948c7ab7ad16b84c46f3fc037fbee044c3a",
+      "hash": "355e87b13decb2d3c236b05eabb56889e535f9b85c35a7ba387d6d5fb2dcb7ec",
       "created": "2026-09-23T22:59:40.721Z",
-      "modified": "2026-09-27T08:20:47.079Z",
-      "sequence": 1
+      "modified": "2026-09-29T08:41:43.964Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401858249@football-watchlist",
@@ -2553,48 +2573,6 @@
       "sequence": 0
     },
     {
-      "uid": "college-football-401858484@football-watchlist",
-      "gameId": "401858484",
-      "title": "CFB: UCLA at Oregon [time TBA]",
-      "start": "2026-10-10",
-      "end": "2026-10-11",
-      "allDay": true,
-      "description": "National pick: ranked matchup (#15 vs #23) at selection.\n\nTeams: UCLA Bruins at Oregon Ducks\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858484/ucla-oregon",
-      "location": "Autzen Stadium, Eugene, OR, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858484/ucla-oregon",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#15 vs #23) at selection.",
-      "hash": "4cdbafca2be88c5160f076ce268beb5183b587e2f77abc1798b2d7206af118ed",
-      "created": "2026-09-27T23:08:10.280Z",
-      "modified": "2026-09-27T23:08:10.280Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401858485@football-watchlist",
-      "gameId": "401858485",
-      "title": "CFB: USC at Penn State [time TBA]",
-      "start": "2026-10-10",
-      "end": "2026-10-11",
-      "allDay": true,
-      "description": "National pick: ranked matchup (#12 vs #14) at selection.\n\nTeams: USC Trojans at Penn State Nittany Lions\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858485/usc-penn-state",
-      "location": "Beaver Stadium, University Park, PA, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858485/usc-penn-state",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#12 vs #14) at selection.",
-      "hash": "f83824bb2fcd2669626ad5c21cc528dbfc5ef2232b5c50205778a1da0f45a115",
-      "created": "2026-09-19T07:24:20.666Z",
-      "modified": "2026-09-19T07:24:20.666Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-849831@football-watchlist",
       "gameId": "849831",
       "mlbSeason": 2026,
@@ -2718,6 +2696,27 @@
       "sequence": 2
     },
     {
+      "uid": "college-football-401858484@football-watchlist",
+      "gameId": "401858484",
+      "title": "CFB: UCLA at Oregon",
+      "start": "2026-10-10T19:30:00.000Z",
+      "end": "2026-10-10T23:00:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#15 vs #23) at selection.\n\nTeams: UCLA Bruins at Oregon Ducks\n\nUS broadcast: CBS. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858484/ucla-oregon",
+      "location": "Autzen Stadium, Eugene, OR, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858484/ucla-oregon",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#15 vs #23) at selection.",
+      "hash": "abb2f17686d244257845658b7d41c2db40f037837cb319bc55cb6b033169a7f2",
+      "created": "2026-09-27T23:08:10.280Z",
+      "modified": "2026-09-29T08:41:43.964Z",
+      "sequence": 1
+    },
+    {
       "uid": "college-football-401856715@football-watchlist",
       "gameId": "401856715",
       "title": "CFB: LSU at Kentucky",
@@ -2756,6 +2755,27 @@
       "hash": "e0c953a197beac9114e4b8c1302e8a3b0ac80c71f573fb9cb7423a569ee6ec7a",
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-28T20:36:17.857Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401858485@football-watchlist",
+      "gameId": "401858485",
+      "title": "CFB: USC at Penn State",
+      "start": "2026-10-10T23:30:00.000Z",
+      "end": "2026-10-11T03:00:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#12 vs #14) at selection.\n\nTeams: USC Trojans at Penn State Nittany Lions\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858485/usc-penn-state",
+      "location": "Beaver Stadium, University Park, PA, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858485/usc-penn-state",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#12 vs #14) at selection.",
+      "hash": "0c645231c8b2bdd86d9eb8db80c32630b89291346159ccb137e39983bce0b432",
+      "created": "2026-09-19T07:24:20.666Z",
+      "modified": "2026-09-29T08:41:43.964Z",
       "sequence": 1
     },
     {
@@ -6056,7 +6076,7 @@
   "nflGames": 285,
   "collegeGames": 949,
   "baseball": {
-    "checkedOn": "2026-09-28",
+    "checkedOn": "2026-09-29",
     "season": 2026,
     "scheduleGames": 414,
     "events": 61,

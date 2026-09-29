@@ -1198,10 +1198,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849845@football-watchlist
-DTSTAMP:20260928T203617Z
+DTSTAMP:20260929T084143Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260928T203617Z
-SEQUENCE:6
+LAST-MODIFIED:20260929T084143Z
+SEQUENCE:7
 DTSTART:20260929T180000Z
 DTEND:20260929T213000Z
 SUMMARY:MLB: NL Wild Card 'A' Game 1 - Philadelphia Phillies at Atlanta Bra
@@ -1209,9 +1209,9 @@ SUMMARY:MLB: NL Wild Card 'A' Game 1 - Philadelphia Phillies at Atlanta Bra
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
  nProbable pitchers (subject to change): Jesús Luzardo / Chris Sale.\n\nLi
- sted broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by c
- ountry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849
- 845
+ sted broadcasts: NBC/Peacock / Universo/Peacock. Availability varies by co
+ untry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/8498
+ 45
 LOCATION:Truist Park
 URL:https://www.mlb.com/gameday/849845
 CATEGORIES:MLB,Playoffs
@@ -1220,18 +1220,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849849@football-watchlist
-DTSTAMP:20260927T230810Z
+DTSTAMP:20260929T084143Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260927T230810Z
-SEQUENCE:6
+LAST-MODIFIED:20260929T084143Z
+SEQUENCE:7
 DTSTART:20260929T210000Z
 DTEND:20260930T003000Z
 SUMMARY:MLB: AL Wild Card 'A' Game 1 - Chicago White Sox at Houston Astros
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nListed broadcasts: Peacock/NBCSN / Universo/ Peacock. Availability varies
-  by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameda
- y/849849
+ nProbable pitchers (subject to change): Hagen Smith / AJ Blubaugh.\n\nList
+ ed broadcasts: Peacock/NBCSN / Universo/Peacock. Availability varies by co
+ untry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/8498
+ 49
 LOCATION:Daikin Park
 URL:https://www.mlb.com/gameday/849849
 CATEGORIES:MLB,Playoffs
@@ -1240,19 +1241,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849851@football-watchlist
-DTSTAMP:20260928T203617Z
+DTSTAMP:20260929T084143Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260928T203617Z
-SEQUENCE:6
+LAST-MODIFIED:20260929T084143Z
+SEQUENCE:7
 DTSTART:20260930T000000Z
 DTEND:20260930T033000Z
 SUMMARY:MLB: AL Wild Card 'B' Game 1 - Boston Red Sox at New York Yankees
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
  nProbable pitchers (subject to change): Payton Tolle / Cam Schlittler.\n\n
- Listed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by
-  country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/8
- 49851
+ Listed broadcasts: NBC/Peacock / Universo/Peacock. Availability varies by 
+ country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/84
+ 9851
 LOCATION:Yankee Stadium
 URL:https://www.mlb.com/gameday/849851
 CATEGORIES:MLB,Playoffs
@@ -1261,18 +1262,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849843@football-watchlist
-DTSTAMP:20260927T230810Z
+DTSTAMP:20260929T084143Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260927T230810Z
-SEQUENCE:4
+LAST-MODIFIED:20260929T084143Z
+SEQUENCE:5
 DTSTART:20260930T020000Z
 DTEND:20260930T053000Z
 SUMMARY:MLB: NL Wild Card 'B' Game 1 - Chicago Cubs at San Diego Padres
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nProbable pitchers (subject to change): Michael King.\n\nListed broadcasts
- : Peacock/NBCSN / Universo/ Peacock. Availability varies by country and pr
- ovider.\n\nOfficial schedule: https://www.mlb.com/gameday/849843
+ nProbable pitchers (subject to change): Matthew Boyd / Michael King.\n\nLi
+ sted broadcasts: Peacock/NBCSN / Universo/Peacock. Availability varies by 
+ country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/84
+ 9843
 LOCATION:Petco Park
 URL:https://www.mlb.com/gameday/849843
 CATEGORIES:MLB,Playoffs,San Diego Padres
@@ -1281,19 +1283,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849841@football-watchlist
-DTSTAMP:20260927T230810Z
+DTSTAMP:20260929T084143Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260927T230810Z
-SEQUENCE:5
+LAST-MODIFIED:20260929T084143Z
+SEQUENCE:6
 DTSTART:20260930T180000Z
 DTEND:20260930T213000Z
 SUMMARY:MLB: NL Wild Card 'A' Game 2 - Philadelphia Phillies at Atlanta Bra
  ves
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nListed broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies b
- y country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/
- 849841
+ nListed broadcasts: NBC/Peacock / Universo/Peacock. Availability varies by
+  country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/8
+ 49841
 LOCATION:Truist Park
 URL:https://www.mlb.com/gameday/849841
 CATEGORIES:MLB,Playoffs
@@ -1302,18 +1304,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849846@football-watchlist
-DTSTAMP:20260927T230810Z
+DTSTAMP:20260929T084143Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260927T230810Z
-SEQUENCE:6
+LAST-MODIFIED:20260929T084143Z
+SEQUENCE:7
 DTSTART:20260930T210000Z
 DTEND:20261001T003000Z
 SUMMARY:MLB: AL Wild Card 'A' Game 2 - Chicago White Sox at Houston Astros
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nListed broadcasts: Peacock/NBCSN / Universo/ Peacock. Availability varies
-  by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameda
- y/849846
+ nListed broadcasts: Peacock/NBCSN / Universo/Peacock. Availability varies 
+ by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday
+ /849846
 LOCATION:Daikin Park
 URL:https://www.mlb.com/gameday/849846
 CATEGORIES:MLB,Playoffs
@@ -1322,18 +1324,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849848@football-watchlist
-DTSTAMP:20260928T203617Z
+DTSTAMP:20260929T084143Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260928T203617Z
-SEQUENCE:6
+LAST-MODIFIED:20260929T084143Z
+SEQUENCE:7
 DTSTART:20261001T000000Z
 DTEND:20261001T033000Z
 SUMMARY:MLB: AL Wild Card 'B' Game 2 - Boston Red Sox at New York Yankees
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
  nProbable pitchers (subject to change): Sonny Gray / Max Fried.\n\nListed 
- broadcasts: NBC/Peacock / Universo/ Peacock. Availability varies by countr
- y and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849848
+ broadcasts: NBC/Peacock / Universo/Peacock. Availability varies by country
+  and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849848
 LOCATION:Yankee Stadium
 URL:https://www.mlb.com/gameday/849848
 CATEGORIES:MLB,Playoffs
@@ -1342,18 +1344,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849842@football-watchlist
-DTSTAMP:20260927T183016Z
+DTSTAMP:20260929T084143Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260927T183016Z
-SEQUENCE:3
+LAST-MODIFIED:20260929T084143Z
+SEQUENCE:4
 DTSTART:20261001T020000Z
 DTEND:20261001T053000Z
 SUMMARY:MLB: NL Wild Card 'B' Game 2 - Chicago Cubs at San Diego Padres
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nListed broadcasts: Peacock/NBCSN / Universo/ Peacock. Availability varies
-  by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameda
- y/849842
+ nListed broadcasts: Peacock/NBCSN / Universo/Peacock. Availability varies 
+ by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday
+ /849842
 LOCATION:Petco Park
 URL:https://www.mlb.com/gameday/849842
 CATEGORIES:MLB,Playoffs,San Diego Padres
@@ -1362,10 +1364,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849844@football-watchlist
-DTSTAMP:20260927T230810Z
+DTSTAMP:20260929T084143Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260927T230810Z
-SEQUENCE:5
+LAST-MODIFIED:20260929T084143Z
+SEQUENCE:6
 DTSTART:20261001T180000Z
 DTEND:20261001T213000Z
 SUMMARY:MLB: NL Wild Card 'A' Game 3 - Philadelphia Phillies at Atlanta Bra
@@ -1374,8 +1376,8 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
  .5 hours\; finish is approximate.\n\nListed broadcasts: NBC/Peacock / Univ
- erso/ Peacock. Availability varies by country and provider.\n\nOfficial sc
- hedule: https://www.mlb.com/gameday/849844
+ erso/Peacock. Availability varies by country and provider.\n\nOfficial sch
+ edule: https://www.mlb.com/gameday/849844
 LOCATION:Truist Park
 URL:https://www.mlb.com/gameday/849844
 CATEGORIES:MLB,Playoffs
@@ -1384,10 +1386,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849850@football-watchlist
-DTSTAMP:20260927T230810Z
+DTSTAMP:20260929T084143Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260927T230810Z
-SEQUENCE:6
+LAST-MODIFIED:20260929T084143Z
+SEQUENCE:7
 DTSTART:20261001T210000Z
 DTEND:20261002T003000Z
 SUMMARY:MLB: AL Wild Card 'A' Game 3 - Chicago White Sox at Houston Astros 
@@ -1396,8 +1398,8 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
  .5 hours\; finish is approximate.\n\nListed broadcasts: Peacock/NBCSN / Un
- iverso/ Peacock. Availability varies by country and provider.\n\nOfficial 
- schedule: https://www.mlb.com/gameday/849850
+ iverso/Peacock. Availability varies by country and provider.\n\nOfficial s
+ chedule: https://www.mlb.com/gameday/849850
 LOCATION:Daikin Park
 URL:https://www.mlb.com/gameday/849850
 CATEGORIES:MLB,Playoffs
@@ -1406,10 +1408,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849847@football-watchlist
-DTSTAMP:20260928T203617Z
+DTSTAMP:20260929T084143Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260928T203617Z
-SEQUENCE:6
+LAST-MODIFIED:20260929T084143Z
+SEQUENCE:7
 DTSTART:20261002T000000Z
 DTEND:20261002T033000Z
 SUMMARY:MLB: AL Wild Card 'B' Game 3 - Boston Red Sox at New York Yankees [
@@ -1419,8 +1421,8 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
  .5 hours\; finish is approximate.\n\nProbable pitchers (subject to change)
  : Ranger Suarez / Gerrit Cole.\n\nListed broadcasts: NBC/Peacock / Univers
- o/ Peacock. Availability varies by country and provider.\n\nOfficial sched
- ule: https://www.mlb.com/gameday/849847
+ o/Peacock. Availability varies by country and provider.\n\nOfficial schedu
+ le: https://www.mlb.com/gameday/849847
 LOCATION:Yankee Stadium
 URL:https://www.mlb.com/gameday/849847
 CATEGORIES:MLB,Playoffs
@@ -1449,10 +1451,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849840@football-watchlist
-DTSTAMP:20260927T183016Z
+DTSTAMP:20260929T084143Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260927T183016Z
-SEQUENCE:3
+LAST-MODIFIED:20260929T084143Z
+SEQUENCE:4
 DTSTART:20261002T020000Z
 DTEND:20261002T053000Z
 SUMMARY:MLB: NL Wild Card 'B' Game 3 - Chicago Cubs at San Diego Padres [if
@@ -1461,8 +1463,8 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
  .5 hours\; finish is approximate.\n\nListed broadcasts: Peacock/NBCSN / Un
- iverso/ Peacock. Availability varies by country and provider.\n\nOfficial 
- schedule: https://www.mlb.com/gameday/849840
+ iverso/Peacock. Availability varies by country and provider.\n\nOfficial s
+ chedule: https://www.mlb.com/gameday/849840
 LOCATION:Petco Park
 URL:https://www.mlb.com/gameday/849840
 CATEGORIES:MLB,Playoffs,San Diego Padres
@@ -1596,21 +1598,20 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:show-bignoon-2026-10-03@football-watchlist
-DTSTAMP:20260905T144637Z
+DTSTAMP:20260929T084143Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
+LAST-MODIFIED:20260929T084143Z
+SEQUENCE:1
 DTSTART:20261003T140000Z
 DTEND:20261003T160000Z
-SUMMARY:Big Noon Kickoff: location TBA
-DESCRIPTION:Usual Saturday broadcast window: 10:00 a.m. to noon Eastern on 
- FOX. Location and this week's broadcast hours have not been confirmed. Ten
- tative placeholder\, subject to broadcast changes.\nSource: https://www.fo
- xsports.com/big-noon-kickoff-experience
+SUMMARY:Big Noon Kickoff: Minnesota vs. Michigan
+DESCRIPTION:Big Noon Kickoff on FOX. Featured game: Minnesota vs. Michigan.
+  Broadcast window: 10:00 a.m. to noon Eastern. Broadcast schedules can cha
+ nge.\nSource: https://www.foxsports.com/big-noon-kickoff-experience
 LOCATION:
 URL:https://www.foxsports.com/big-noon-kickoff-experience
 CATEGORIES:College,Pregame
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -1631,6 +1632,27 @@ LOCATION:Davis Wade Stadium\, Starkville\, MS\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856707/alabama-m
  ississippi-st
 CATEGORIES:College,Alabama
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858474@football-watchlist
+DTSTAMP:20260929T084143Z
+CREATED:20260929T084143Z
+LAST-MODIFIED:20260929T084143Z
+SEQUENCE:0
+DTSTART:20261003T160000Z
+DTEND:20261003T193000Z
+SUMMARY:CFB: Michigan at Minnesota
+DESCRIPTION:Confirmed College GameDay or Big Noon featured matchup.\n\nTeam
+ s: Michigan Wolverines at Minnesota Golden Gophers\n\nUS broadcast: FOX. A
+ vailability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for ch
+ ampionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/co
+ llege-football/game/_/gameId/401858474/michigan-minnesota
+LOCATION:Huntington Bank Stadium\, Minneapolis\, MN\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858474/michigan-
+ minnesota
+CATEGORIES:College
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1678,19 +1700,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856818@football-watchlist
-DTSTAMP:20260927T082047Z
+DTSTAMP:20260929T084143Z
 CREATED:20260923T225940Z
-LAST-MODIFIED:20260927T082047Z
-SEQUENCE:1
+LAST-MODIFIED:20260929T084143Z
+SEQUENCE:2
 DTSTART:20261003T230000Z
 DTEND:20261004T023000Z
 SUMMARY:CFB: BYU at TCU
 DESCRIPTION:National pick: a ranked team in a potentially competitive game 
  (market spread 5.5 points at selection). Upset possibility is an estimate.
- \n\nTeams: BYU Cougars at TCU Horned Frogs\n\nUS broadcast: ESPN. Availabi
- lity elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champions
- hips)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-f
- ootball/game/_/gameId/401856818/byu-tcu
+ \n\nTeams: BYU Cougars at TCU Horned Frogs\n\nUS broadcast: ESPN / Disney+
+ . Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for
+  championships)\; finish is approximate.\n\nSchedule: https://www.espn.com
+ /college-football/game/_/gameId/401856818/byu-tcu
 LOCATION:Amon G. Carter Stadium\, Fort Worth\, TX\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856818/byu-tcu
 CATEGORIES:College,National pick
@@ -2171,48 +2193,6 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:college-football-401858484@football-watchlist
-DTSTAMP:20260927T230810Z
-CREATED:20260927T230810Z
-LAST-MODIFIED:20260927T230810Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-SUMMARY:CFB: UCLA at Oregon [time TBA]
-DESCRIPTION:National pick: ranked matchup (#15 vs #23) at selection.\n\nTea
- ms: UCLA Bruins at Oregon Ducks\n\nBroadcast to be announced.\n\nKickoff h
- as not been announced. This all-day marker will become a timed event when 
- confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameI
- d/401858484/ucla-oregon
-LOCATION:Autzen Stadium\, Eugene\, OR\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858484/ucla-oreg
- on
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401858485@football-watchlist
-DTSTAMP:20260919T072420Z
-CREATED:20260919T072420Z
-LAST-MODIFIED:20260919T072420Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-SUMMARY:CFB: USC at Penn State [time TBA]
-DESCRIPTION:National pick: ranked matchup (#12 vs #14) at selection.\n\nTea
- ms: USC Trojans at Penn State Nittany Lions\n\nBroadcast to be announced.\
- n\nKickoff has not been announced. This all-day marker will become a timed
-  event when confirmed.\n\nSchedule: https://www.espn.com/college-football/
- game/_/gameId/401858485/usc-penn-state
-LOCATION:Beaver Stadium\, University Park\, PA\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858485/usc-penn-
- state
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-849831@football-watchlist
 DTSTAMP:20260927T230810Z
 CREATED:20260919T111549Z
@@ -2320,6 +2300,27 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:college-football-401858484@football-watchlist
+DTSTAMP:20260929T084143Z
+CREATED:20260927T230810Z
+LAST-MODIFIED:20260929T084143Z
+SEQUENCE:1
+DTSTART:20261010T193000Z
+DTEND:20261010T230000Z
+SUMMARY:CFB: UCLA at Oregon
+DESCRIPTION:National pick: ranked matchup (#15 vs #23) at selection.\n\nTea
+ ms: UCLA Bruins at Oregon Ducks\n\nUS broadcast: CBS. Availability elsewhe
+ re varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; fini
+ sh is approximate.\n\nSchedule: https://www.espn.com/college-football/game
+ /_/gameId/401858484/ucla-oregon
+LOCATION:Autzen Stadium\, Eugene\, OR\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858484/ucla-oreg
+ on
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:college-football-401856715@football-watchlist
 DTSTAMP:20260928T203617Z
 CREATED:20260927T230810Z
@@ -2358,6 +2359,27 @@ LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856712/georgia-a
  labama
 CATEGORIES:College,Alabama
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858485@football-watchlist
+DTSTAMP:20260929T084143Z
+CREATED:20260919T072420Z
+LAST-MODIFIED:20260929T084143Z
+SEQUENCE:1
+DTSTART:20261010T233000Z
+DTEND:20261011T030000Z
+SUMMARY:CFB: USC at Penn State
+DESCRIPTION:National pick: ranked matchup (#12 vs #14) at selection.\n\nTea
+ ms: USC Trojans at Penn State Nittany Lions\n\nUS broadcast: NBC. Availabi
+ lity elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champions
+ hips)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-f
+ ootball/game/_/gameId/401858485/usc-penn-state
+LOCATION:Beaver Stadium\, University Park\, PA\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858485/usc-penn-
+ state
+CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
