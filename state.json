@@ -1701,39 +1701,6 @@
       "sequence": 3
     },
     {
-      "uid": "mlb-849829@football-watchlist",
-      "gameId": "849829",
-      "mlbSeason": 2026,
-      "mlbGameType": "D",
-      "mlbSeriesKey": "2026/D/2",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "5528",
-        "114"
-      ],
-      "selectionReasons": [
-        "MLB postseason: every game, from the Wild Card Series through the World Series."
-      ],
-      "title": "MLB: ALDS 'B' Game 1 - HOU/CWS at Cleveland Guardians [time TBA]",
-      "start": "2026-10-03",
-      "end": "2026-10-04",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849829",
-      "location": "Progressive Field",
-      "url": "https://www.mlb.com/gameday/849829",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Playoffs",
-        "Cleveland Guardians"
-      ],
-      "hash": "fd4a8cf2a5a13036ac57203d94821b88ac136aa912d7dfe6a42a712c08c5539f",
-      "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-27T23:08:10.280Z",
-      "sequence": 6
-    },
-    {
       "uid": "mlb-849830@football-watchlist",
       "gameId": "849830",
       "mlbSeason": 2026,
@@ -1752,7 +1719,7 @@
       "start": "2026-10-03",
       "end": "2026-10-04",
       "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849830",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nProbable pitchers (subject to change): Jacob Misiorowski.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849830",
       "location": "American Family Field",
       "url": "https://www.mlb.com/gameday/849830",
       "status": "TENTATIVE",
@@ -1760,42 +1727,9 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "ad6d37f1bf2039635d8de262fa8cc593a295131cc019be6d05bae20f201700cc",
+      "hash": "f38f57edcb81a3c1cf38d6726323a6e64a7261620e4a83fa3581c0c2c9d235ff",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-27T23:08:10.280Z",
-      "sequence": 3
-    },
-    {
-      "uid": "mlb-849835@football-watchlist",
-      "gameId": "849835",
-      "mlbSeason": 2026,
-      "mlbGameType": "D",
-      "mlbSeriesKey": "2026/D/1",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "5529",
-        "139"
-      ],
-      "selectionReasons": [
-        "MLB postseason: every game, from the Wild Card Series through the World Series."
-      ],
-      "title": "MLB: ALDS 'A' Game 1 - NYY/BOS at Tampa Bay Rays [time TBA]",
-      "start": "2026-10-03",
-      "end": "2026-10-04",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849835",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/849835",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Playoffs",
-        "Tampa Bay Rays"
-      ],
-      "hash": "865eb90d825e1eea9c6d53d22fa0b8b121f9bbda108c83197fe4f2e8ba78c8e2",
-      "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-27T23:08:10.280Z",
+      "modified": "2026-09-29T23:47:05.601Z",
       "sequence": 4
     },
     {
@@ -1898,6 +1832,39 @@
       "sequence": 0
     },
     {
+      "uid": "mlb-849829@football-watchlist",
+      "gameId": "849829",
+      "mlbSeason": 2026,
+      "mlbGameType": "D",
+      "mlbSeriesKey": "2026/D/2",
+      "mlbSeriesGameNumber": 1,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "5528",
+        "114"
+      ],
+      "selectionReasons": [
+        "MLB postseason: every game, from the Wild Card Series through the World Series."
+      ],
+      "title": "MLB: ALDS 'B' Game 1 - HOU/CWS at Cleveland Guardians",
+      "start": "2026-10-03T17:00:00.000Z",
+      "end": "2026-10-03T20:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849829",
+      "location": "Progressive Field",
+      "url": "https://www.mlb.com/gameday/849829",
+      "status": "TENTATIVE",
+      "categories": [
+        "MLB",
+        "Playoffs",
+        "Cleveland Guardians"
+      ],
+      "hash": "611310c107edfbea663173dc8abebd9c8b938479d5fc121a3d1f51087bbef390",
+      "created": "2026-09-19T11:15:49.893Z",
+      "modified": "2026-09-29T23:47:05.601Z",
+      "sequence": 7
+    },
+    {
       "uid": "college-football-401856708@football-watchlist",
       "gameId": "401856708",
       "title": "CFB: Florida at Missouri",
@@ -1938,6 +1905,39 @@
       "created": "2026-09-12T07:13:28.934Z",
       "modified": "2026-09-22T18:09:18.369Z",
       "sequence": 2
+    },
+    {
+      "uid": "mlb-849835@football-watchlist",
+      "gameId": "849835",
+      "mlbSeason": 2026,
+      "mlbGameType": "D",
+      "mlbSeriesKey": "2026/D/1",
+      "mlbSeriesGameNumber": 1,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "5529",
+        "139"
+      ],
+      "selectionReasons": [
+        "MLB postseason: every game, from the Wild Card Series through the World Series."
+      ],
+      "title": "MLB: ALDS 'A' Game 1 - NYY/BOS at Tampa Bay Rays",
+      "start": "2026-10-03T22:30:00.000Z",
+      "end": "2026-10-04T02:00:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849835",
+      "location": "Tropicana Field",
+      "url": "https://www.mlb.com/gameday/849835",
+      "status": "TENTATIVE",
+      "categories": [
+        "MLB",
+        "Playoffs",
+        "Tampa Bay Rays"
+      ],
+      "hash": "77241259a227db922f39f48474b8a984ff8546ff6da4339b2046d506ae0f5c2e",
+      "created": "2026-09-19T11:15:49.893Z",
+      "modified": "2026-09-29T23:47:05.601Z",
+      "sequence": 5
     },
     {
       "uid": "college-football-401856818@football-watchlist",
@@ -2003,70 +2003,6 @@
       "sequence": 2
     },
     {
-      "uid": "mlb-849823@football-watchlist",
-      "gameId": "849823",
-      "mlbSeason": 2026,
-      "mlbGameType": "D",
-      "mlbSeriesKey": "2026/D/4",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "5532",
-        "119"
-      ],
-      "selectionReasons": [
-        "MLB postseason: every game, from the Wild Card Series through the World Series."
-      ],
-      "title": "MLB: NLDS 'B' Game 2 - ATL/PHI at Los Angeles Dodgers [time TBA]",
-      "start": "2026-10-04",
-      "end": "2026-10-05",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849823",
-      "location": "UNIQLO Field at Dodger Stadium",
-      "url": "https://www.mlb.com/gameday/849823",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Playoffs"
-      ],
-      "hash": "0b0cc592739cb208c70282424fd6b5d4f7c890cda1bfa1b1fd5dd2c3f31e60bc",
-      "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-27T23:08:10.280Z",
-      "sequence": 3
-    },
-    {
-      "uid": "mlb-849825@football-watchlist",
-      "gameId": "849825",
-      "mlbSeason": 2026,
-      "mlbGameType": "D",
-      "mlbSeriesKey": "2026/D/3",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "5533",
-        "158"
-      ],
-      "selectionReasons": [
-        "MLB postseason: every game, from the Wild Card Series through the World Series."
-      ],
-      "title": "MLB: NLDS 'A' Game 2 - SD/CHC at Milwaukee Brewers [time TBA]",
-      "start": "2026-10-04",
-      "end": "2026-10-05",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849825",
-      "location": "American Family Field",
-      "url": "https://www.mlb.com/gameday/849825",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Playoffs"
-      ],
-      "hash": "86d778a63de9225a69c801a76dacac80ca0acdb6bc4047395a1edb2794ee6162",
-      "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-27T23:08:10.280Z",
-      "sequence": 3
-    },
-    {
       "uid": "nfl-401872965@football-watchlist",
       "gameId": "401872965",
       "title": "NFL: Indianapolis Colts vs Washington Commanders",
@@ -2105,69 +2041,67 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-849834@football-watchlist",
-      "gameId": "849834",
+      "uid": "mlb-849825@football-watchlist",
+      "gameId": "849825",
       "mlbSeason": 2026,
       "mlbGameType": "D",
-      "mlbSeriesKey": "2026/D/2",
+      "mlbSeriesKey": "2026/D/3",
       "mlbSeriesGameNumber": 2,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
-        "5528",
-        "114"
+        "5533",
+        "158"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALDS 'B' Game 2 - HOU/CWS at Cleveland Guardians [time TBA]",
-      "start": "2026-10-05",
-      "end": "2026-10-06",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849834",
-      "location": "Progressive Field",
-      "url": "https://www.mlb.com/gameday/849834",
+      "title": "MLB: NLDS 'A' Game 2 - SD/CHC at Milwaukee Brewers",
+      "start": "2026-10-04T20:00:00.000Z",
+      "end": "2026-10-04T23:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Logan Henderson.\n\nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849825",
+      "location": "American Family Field",
+      "url": "https://www.mlb.com/gameday/849825",
       "status": "TENTATIVE",
       "categories": [
         "MLB",
-        "Playoffs",
-        "Cleveland Guardians"
+        "Playoffs"
       ],
-      "hash": "fdff1e519f462fe7c688de1f32f029fbe95e7e83e2449cd0c32915fb6fc592d8",
+      "hash": "dd1334d6d46100793f3e4d1dd22fafe4f56461e5239a17cfacae22abc8a5671c",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-27T23:08:10.280Z",
-      "sequence": 6
+      "modified": "2026-09-29T23:47:05.601Z",
+      "sequence": 4
     },
     {
-      "uid": "mlb-849839@football-watchlist",
-      "gameId": "849839",
+      "uid": "mlb-849823@football-watchlist",
+      "gameId": "849823",
       "mlbSeason": 2026,
       "mlbGameType": "D",
-      "mlbSeriesKey": "2026/D/1",
+      "mlbSeriesKey": "2026/D/4",
       "mlbSeriesGameNumber": 2,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
-        "5529",
-        "139"
+        "5532",
+        "119"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALDS 'A' Game 2 - NYY/BOS at Tampa Bay Rays [time TBA]",
-      "start": "2026-10-05",
-      "end": "2026-10-06",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849839",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/849839",
+      "title": "MLB: NLDS 'B' Game 2 - ATL/PHI at Los Angeles Dodgers",
+      "start": "2026-10-05T00:00:00.000Z",
+      "end": "2026-10-05T03:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849823",
+      "location": "UNIQLO Field at Dodger Stadium",
+      "url": "https://www.mlb.com/gameday/849823",
       "status": "TENTATIVE",
       "categories": [
         "MLB",
-        "Playoffs",
-        "Tampa Bay Rays"
+        "Playoffs"
       ],
-      "hash": "877a7029975cf3b94b14ea74643bfa84c220224768ba396354b820e504aa3163",
+      "hash": "7fdc01f3fbedaa2057a1c7f5e26f23f83b4260983c48ea8062e226a8306ee471",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-27T23:08:10.280Z",
+      "modified": "2026-09-29T23:47:05.601Z",
       "sequence": 4
     },
     {
@@ -2188,6 +2122,39 @@
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-05T14:52:08.096Z",
       "sequence": 1
+    },
+    {
+      "uid": "mlb-849834@football-watchlist",
+      "gameId": "849834",
+      "mlbSeason": 2026,
+      "mlbGameType": "D",
+      "mlbSeriesKey": "2026/D/2",
+      "mlbSeriesGameNumber": 2,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "5528",
+        "114"
+      ],
+      "selectionReasons": [
+        "MLB postseason: every game, from the Wild Card Series through the World Series."
+      ],
+      "title": "MLB: ALDS 'B' Game 2 - HOU/CWS at Cleveland Guardians",
+      "start": "2026-10-05T21:00:00.000Z",
+      "end": "2026-10-06T00:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849834",
+      "location": "Progressive Field",
+      "url": "https://www.mlb.com/gameday/849834",
+      "status": "TENTATIVE",
+      "categories": [
+        "MLB",
+        "Playoffs",
+        "Cleveland Guardians"
+      ],
+      "hash": "f252af84092b2619c8f50809e27fc6a6676544688fbab63ab1b5581d75eba93b",
+      "created": "2026-09-19T11:15:49.893Z",
+      "modified": "2026-09-29T23:47:05.601Z",
+      "sequence": 7
     },
     {
       "uid": "mlb-849819@football-watchlist",
@@ -2252,6 +2219,39 @@
       "created": "2026-09-19T11:15:49.893Z",
       "modified": "2026-09-27T23:08:10.280Z",
       "sequence": 3
+    },
+    {
+      "uid": "mlb-849839@football-watchlist",
+      "gameId": "849839",
+      "mlbSeason": 2026,
+      "mlbGameType": "D",
+      "mlbSeriesKey": "2026/D/1",
+      "mlbSeriesGameNumber": 2,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "5529",
+        "139"
+      ],
+      "selectionReasons": [
+        "MLB postseason: every game, from the Wild Card Series through the World Series."
+      ],
+      "title": "MLB: ALDS 'A' Game 2 - NYY/BOS at Tampa Bay Rays",
+      "start": "2026-10-06T00:00:00.000Z",
+      "end": "2026-10-06T03:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849839",
+      "location": "Tropicana Field",
+      "url": "https://www.mlb.com/gameday/849839",
+      "status": "TENTATIVE",
+      "categories": [
+        "MLB",
+        "Playoffs",
+        "Tampa Bay Rays"
+      ],
+      "hash": "6a9cad7b816bfbac9264b57dcb1575fe44971eae6aa32c45c28108118748d029",
+      "created": "2026-09-19T11:15:49.893Z",
+      "modified": "2026-09-29T23:47:05.601Z",
+      "sequence": 5
     },
     {
       "uid": "nfl-401872979@football-watchlist",
