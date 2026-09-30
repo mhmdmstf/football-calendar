@@ -1305,18 +1305,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849846@football-watchlist
-DTSTAMP:20260929T192852Z
+DTSTAMP:20260930T084220Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260929T192852Z
-SEQUENCE:8
+LAST-MODIFIED:20260930T084220Z
+SEQUENCE:9
 DTSTART:20260930T210000Z
 DTEND:20261001T003000Z
 SUMMARY:MLB: AL Wild Card 'A' Game 2 - Chicago White Sox at Houston Astros
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nProbable pitchers (subject to change): Hunter Brown.\n\nListed broadcasts
- : Peacock/NBCSN / Universo/Peacock. Availability varies by country and pro
- vider.\n\nOfficial schedule: https://www.mlb.com/gameday/849846
+ nProbable pitchers (subject to change): Sean Burke / Hunter Brown.\n\nList
+ ed broadcasts: Peacock/NBCSN / Universo/Peacock. Availability varies by co
+ untry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/8498
+ 46
 LOCATION:Daikin Park
 URL:https://www.mlb.com/gameday/849846
 CATEGORIES:MLB,Playoffs
@@ -1345,18 +1346,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849842@football-watchlist
-DTSTAMP:20260929T084143Z
+DTSTAMP:20260930T084220Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260929T084143Z
-SEQUENCE:4
+LAST-MODIFIED:20260930T084220Z
+SEQUENCE:5
 DTSTART:20261001T020000Z
 DTEND:20261001T053000Z
 SUMMARY:MLB: NL Wild Card 'B' Game 2 - Chicago Cubs at San Diego Padres
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nListed broadcasts: Peacock/NBCSN / Universo/Peacock. Availability varies 
- by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday
- /849842
+ nProbable pitchers (subject to change): Kevin Gausman / Nick Pivetta.\n\nL
+ isted broadcasts: Peacock/NBCSN / Universo/Peacock. Availability varies by
+  country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/8
+ 49842
 LOCATION:Petco Park
 URL:https://www.mlb.com/gameday/849842
 CATEGORIES:MLB,Playoffs,San Diego Padres
