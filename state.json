@@ -2309,71 +2309,6 @@
       "sequence": 9
     },
     {
-      "uid": "mlb-849819@football-watchlist",
-      "gameId": "849819",
-      "mlbSeason": 2026,
-      "mlbGameType": "D",
-      "mlbSeriesKey": "2026/D/4",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "119",
-        "5532"
-      ],
-      "selectionReasons": [
-        "MLB postseason: every game, from the Wild Card Series through the World Series."
-      ],
-      "title": "MLB: NLDS 'B' Game 3 - Los Angeles Dodgers at ATL/PHI [time TBA]",
-      "start": "2026-10-06",
-      "end": "2026-10-07",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849819",
-      "location": "NL Stadium",
-      "url": "https://www.mlb.com/gameday/849819",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Playoffs"
-      ],
-      "hash": "4a40ecd0e54a21a6891336c35bd7c4be2a5ffcdb53222341c223119c8aa607a1",
-      "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-27T23:08:10.280Z",
-      "sequence": 3
-    },
-    {
-      "uid": "mlb-849826@football-watchlist",
-      "gameId": "849826",
-      "mlbSeason": 2026,
-      "mlbGameType": "D",
-      "mlbSeriesKey": "2026/D/3",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "158",
-        "135"
-      ],
-      "selectionReasons": [
-        "MLB postseason: every game, from the Wild Card Series through the World Series."
-      ],
-      "title": "MLB: NLDS 'A' Game 3 - Milwaukee Brewers at San Diego Padres [time TBA]",
-      "start": "2026-10-06",
-      "end": "2026-10-07",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849826",
-      "location": "Petco Park",
-      "url": "https://www.mlb.com/gameday/849826",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Playoffs",
-        "San Diego Padres"
-      ],
-      "hash": "1e6214b4257c3cb4e08b13b4643517b749e44c26b2fd8eafae5db550fa2ae321",
-      "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 4
-    },
-    {
       "uid": "mlb-849839@football-watchlist",
       "gameId": "849839",
       "mlbSeason": 2026,
@@ -2392,7 +2327,7 @@
       "start": "2026-10-06T00:00:00.000Z",
       "end": "2026-10-06T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849839",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Cam Schlittler.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849839",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/849839",
       "status": "CONFIRMED",
@@ -2401,10 +2336,10 @@
         "Playoffs",
         "Tampa Bay Rays"
       ],
-      "hash": "5b465c0823be538f20fa4c4082912bfa8ece49052512bda5246237adfde35e1a",
+      "hash": "3085cfc11d4b1923cfbf17fe95a48648eabe551d925d1cdb77c0671859fce50e",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 6
+      "modified": "2026-10-01T23:57:30.137Z",
+      "sequence": 7
     },
     {
       "uid": "nhl-2026020043@football-watchlist",
@@ -2456,6 +2391,38 @@
       "sequence": 1
     },
     {
+      "uid": "mlb-849819@football-watchlist",
+      "gameId": "849819",
+      "mlbSeason": 2026,
+      "mlbGameType": "D",
+      "mlbSeriesKey": "2026/D/4",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "119",
+        "5532"
+      ],
+      "selectionReasons": [
+        "MLB postseason: every game, from the Wild Card Series through the World Series."
+      ],
+      "title": "MLB: NLDS 'B' Game 3 - Los Angeles Dodgers at ATL/PHI",
+      "start": "2026-10-06T22:00:00.000Z",
+      "end": "2026-10-07T01:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849819",
+      "location": "NL Stadium",
+      "url": "https://www.mlb.com/gameday/849819",
+      "status": "TENTATIVE",
+      "categories": [
+        "MLB",
+        "Playoffs"
+      ],
+      "hash": "33bc71f79957c65b4c3ebbf57d2a513e3d9d9d5f4958483adbda8acbeff4279d",
+      "created": "2026-09-19T11:15:49.893Z",
+      "modified": "2026-10-01T23:57:30.137Z",
+      "sequence": 4
+    },
+    {
       "uid": "nhl-2026020045@football-watchlist",
       "gameId": "2026020045",
       "nhlSeason": 20262027,
@@ -2486,45 +2453,13 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-849822@football-watchlist",
-      "gameId": "849822",
-      "mlbSeason": 2026,
-      "mlbGameType": "D",
-      "mlbSeriesKey": "2026/D/4",
-      "mlbSeriesGameNumber": 4,
-      "mlbIfNecessary": true,
-      "mlbTeamIds": [
-        "119",
-        "5532"
-      ],
-      "selectionReasons": [
-        "MLB postseason: every game, from the Wild Card Series through the World Series."
-      ],
-      "title": "MLB: NLDS 'B' Game 4 - Los Angeles Dodgers at ATL/PHI [if necessary] [time TBA]",
-      "start": "2026-10-07",
-      "end": "2026-10-08",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849822",
-      "location": "NL Stadium",
-      "url": "https://www.mlb.com/gameday/849822",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Playoffs"
-      ],
-      "hash": "6a8ea013947e39d0aeb7a29e46fb3048626fbdf461512aa3736a2480b34996a8",
-      "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-27T23:08:10.280Z",
-      "sequence": 3
-    },
-    {
-      "uid": "mlb-849827@football-watchlist",
-      "gameId": "849827",
+      "uid": "mlb-849826@football-watchlist",
+      "gameId": "849826",
       "mlbSeason": 2026,
       "mlbGameType": "D",
       "mlbSeriesKey": "2026/D/3",
-      "mlbSeriesGameNumber": 4,
-      "mlbIfNecessary": true,
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
       "mlbTeamIds": [
         "158",
         "135"
@@ -2532,23 +2467,23 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NLDS 'A' Game 4  - Milwaukee Brewers at San Diego Padres [if necessary] [time TBA]",
-      "start": "2026-10-07",
-      "end": "2026-10-08",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849827",
+      "title": "MLB: NLDS 'A' Game 3 - Milwaukee Brewers at San Diego Padres",
+      "start": "2026-10-07T01:30:00.000Z",
+      "end": "2026-10-07T05:00:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849826",
       "location": "Petco Park",
-      "url": "https://www.mlb.com/gameday/849827",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/849826",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Playoffs",
         "San Diego Padres"
       ],
-      "hash": "03b405b4dded9156ad0e414b08c87390dd3c885967ed35a08922bac7ce8d92ed",
+      "hash": "4e2e486d2e52644726d3c3dd5e5fd7f4fcfe994aadd274fa7c3cfc8ce15f8f77",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 4
+      "modified": "2026-10-01T23:57:30.137Z",
+      "sequence": 5
     },
     {
       "uid": "mlb-849833@football-watchlist",
@@ -2565,23 +2500,55 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALDS 'B' Game 3 - Cleveland Guardians at Chicago White Sox [time TBA]",
-      "start": "2026-10-07",
-      "end": "2026-10-08",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849833",
+      "title": "MLB: ALDS 'B' Game 3 - Cleveland Guardians at Chicago White Sox",
+      "start": "2026-10-07T20:00:00.000Z",
+      "end": "2026-10-07T23:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849833",
       "location": "Rate Field",
       "url": "https://www.mlb.com/gameday/849833",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Playoffs",
         "Cleveland Guardians"
       ],
-      "hash": "1dd493138a79c93d80aab9ca90db9fe39530f3cbb6055a15d01a87b91698184e",
+      "hash": "6084344379ccd0364066f96fd581d92a9749f9e40ef922d3fa28b16588cddf85",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 7
+      "modified": "2026-10-01T23:57:30.137Z",
+      "sequence": 8
+    },
+    {
+      "uid": "mlb-849822@football-watchlist",
+      "gameId": "849822",
+      "mlbSeason": 2026,
+      "mlbGameType": "D",
+      "mlbSeriesKey": "2026/D/4",
+      "mlbSeriesGameNumber": 4,
+      "mlbIfNecessary": true,
+      "mlbTeamIds": [
+        "119",
+        "5532"
+      ],
+      "selectionReasons": [
+        "MLB postseason: every game, from the Wild Card Series through the World Series."
+      ],
+      "title": "MLB: NLDS 'B' Game 4 - Los Angeles Dodgers at ATL/PHI [if necessary]",
+      "start": "2026-10-07T22:00:00.000Z",
+      "end": "2026-10-08T01:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849822",
+      "location": "NL Stadium",
+      "url": "https://www.mlb.com/gameday/849822",
+      "status": "TENTATIVE",
+      "categories": [
+        "MLB",
+        "Playoffs"
+      ],
+      "hash": "e9942ac0ef943e70b90581a2fb6e28fbb36f1ecb1d4bef19c67338d177fb402f",
+      "created": "2026-09-19T11:15:49.893Z",
+      "modified": "2026-10-01T23:57:30.137Z",
+      "sequence": 4
     },
     {
       "uid": "mlb-849838@football-watchlist",
@@ -2598,22 +2565,55 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALDS 'A' Game 3 - Tampa Bay Rays at New York Yankees [time TBA]",
-      "start": "2026-10-07",
-      "end": "2026-10-08",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849838",
+      "title": "MLB: ALDS 'A' Game 3 - Tampa Bay Rays at New York Yankees",
+      "start": "2026-10-08T00:00:00.000Z",
+      "end": "2026-10-08T03:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849838",
       "location": "Yankee Stadium",
       "url": "https://www.mlb.com/gameday/849838",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Playoffs",
         "Tampa Bay Rays"
       ],
-      "hash": "fc83af0fc06c5fab66444188c91b1ad8c8c91e8c0fa49f0ec74be5803375384e",
+      "hash": "679c7bfe46d1db6f0f90df91daf063373b8635afdfa2aebd717b8b395c9a97df",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-01T07:37:11.478Z",
+      "modified": "2026-10-01T23:57:30.137Z",
+      "sequence": 6
+    },
+    {
+      "uid": "mlb-849827@football-watchlist",
+      "gameId": "849827",
+      "mlbSeason": 2026,
+      "mlbGameType": "D",
+      "mlbSeriesKey": "2026/D/3",
+      "mlbSeriesGameNumber": 4,
+      "mlbIfNecessary": true,
+      "mlbTeamIds": [
+        "158",
+        "135"
+      ],
+      "selectionReasons": [
+        "MLB postseason: every game, from the Wild Card Series through the World Series."
+      ],
+      "title": "MLB: NLDS 'A' Game 4  - Milwaukee Brewers at San Diego Padres [if necessary]",
+      "start": "2026-10-08T02:00:00.000Z",
+      "end": "2026-10-08T05:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849827",
+      "location": "Petco Park",
+      "url": "https://www.mlb.com/gameday/849827",
+      "status": "TENTATIVE",
+      "categories": [
+        "MLB",
+        "Playoffs",
+        "San Diego Padres"
+      ],
+      "hash": "6deb2aeb6f8ad19dc09a1cfdce01ca0c57d59afa9fa6ca3f454f57114bec2bd5",
+      "created": "2026-09-19T11:15:49.893Z",
+      "modified": "2026-10-01T23:57:30.137Z",
       "sequence": 5
     },
     {
@@ -2631,11 +2631,11 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALDS 'B' Game 4 - Cleveland Guardians at Chicago White Sox [if necessary] [time TBA]",
-      "start": "2026-10-08",
-      "end": "2026-10-09",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849832",
+      "title": "MLB: ALDS 'B' Game 4 - Cleveland Guardians at Chicago White Sox [if necessary]",
+      "start": "2026-10-08T21:00:00.000Z",
+      "end": "2026-10-09T00:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849832",
       "location": "Rate Field",
       "url": "https://www.mlb.com/gameday/849832",
       "status": "TENTATIVE",
@@ -2644,43 +2644,10 @@
         "Playoffs",
         "Cleveland Guardians"
       ],
-      "hash": "edba2df7da441cdd170265b50a8fb99ea18e552d71351b4defaa8f6275eb96b8",
+      "hash": "b4851d1d6d4c424d795e41ed33184ad1597b841e7686343209e5255ac289add4",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 7
-    },
-    {
-      "uid": "mlb-849837@football-watchlist",
-      "gameId": "849837",
-      "mlbSeason": 2026,
-      "mlbGameType": "D",
-      "mlbSeriesKey": "2026/D/1",
-      "mlbSeriesGameNumber": 4,
-      "mlbIfNecessary": true,
-      "mlbTeamIds": [
-        "139",
-        "147"
-      ],
-      "selectionReasons": [
-        "MLB postseason: every game, from the Wild Card Series through the World Series."
-      ],
-      "title": "MLB: ALDS 'A' Game 4 - Tampa Bay Rays at New York Yankees [if necessary] [time TBA]",
-      "start": "2026-10-08",
-      "end": "2026-10-09",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849837",
-      "location": "Yankee Stadium",
-      "url": "https://www.mlb.com/gameday/849837",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Playoffs",
-        "Tampa Bay Rays"
-      ],
-      "hash": "ebca97a2891fd5c0bb06e2e5aefafb9deb5ab7f1e443d9b61c66f8f4d27a2044",
-      "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 5
+      "modified": "2026-10-01T23:57:30.137Z",
+      "sequence": 8
     },
     {
       "uid": "nhl-2026020061@football-watchlist",
@@ -2713,69 +2680,37 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-849821@football-watchlist",
-      "gameId": "849821",
+      "uid": "mlb-849837@football-watchlist",
+      "gameId": "849837",
       "mlbSeason": 2026,
       "mlbGameType": "D",
-      "mlbSeriesKey": "2026/D/4",
-      "mlbSeriesGameNumber": 5,
+      "mlbSeriesKey": "2026/D/1",
+      "mlbSeriesGameNumber": 4,
       "mlbIfNecessary": true,
       "mlbTeamIds": [
-        "5532",
-        "119"
+        "139",
+        "147"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NLDS 'B' Game 5 - ATL/PHI at Los Angeles Dodgers [if necessary] [time TBA]",
-      "start": "2026-10-09",
-      "end": "2026-10-10",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849821",
-      "location": "UNIQLO Field at Dodger Stadium",
-      "url": "https://www.mlb.com/gameday/849821",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Playoffs"
-      ],
-      "hash": "8d9dc7ba43dc3d60585abc44d0c080c5612bdb7fde31fdd1582ec6a1c4c56481",
-      "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-27T23:08:10.280Z",
-      "sequence": 3
-    },
-    {
-      "uid": "mlb-849824@football-watchlist",
-      "gameId": "849824",
-      "mlbSeason": 2026,
-      "mlbGameType": "D",
-      "mlbSeriesKey": "2026/D/3",
-      "mlbSeriesGameNumber": 5,
-      "mlbIfNecessary": true,
-      "mlbTeamIds": [
-        "135",
-        "158"
-      ],
-      "selectionReasons": [
-        "MLB postseason: every game, from the Wild Card Series through the World Series."
-      ],
-      "title": "MLB: NLDS 'A' Game 5 - San Diego Padres at Milwaukee Brewers [if necessary] [time TBA]",
-      "start": "2026-10-09",
-      "end": "2026-10-10",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849824",
-      "location": "American Family Field",
-      "url": "https://www.mlb.com/gameday/849824",
+      "title": "MLB: ALDS 'A' Game 4 - Tampa Bay Rays at New York Yankees [if necessary]",
+      "start": "2026-10-09T00:00:00.000Z",
+      "end": "2026-10-09T03:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849837",
+      "location": "Yankee Stadium",
+      "url": "https://www.mlb.com/gameday/849837",
       "status": "TENTATIVE",
       "categories": [
         "MLB",
         "Playoffs",
-        "San Diego Padres"
+        "Tampa Bay Rays"
       ],
-      "hash": "0f520c5b03ad6be82901388228a6c00fab907d4425d1b15a83b1f9345f2ecfb0",
+      "hash": "91e14a2b497ed06beeccd04189941e8d4b6641a070ad7e9fd0d040925cf84985",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 4
+      "modified": "2026-10-01T23:57:30.137Z",
+      "sequence": 6
     },
     {
       "uid": "nhl-2026020063@football-watchlist",
@@ -2827,6 +2762,39 @@
       "sequence": 1
     },
     {
+      "uid": "mlb-849824@football-watchlist",
+      "gameId": "849824",
+      "mlbSeason": 2026,
+      "mlbGameType": "D",
+      "mlbSeriesKey": "2026/D/3",
+      "mlbSeriesGameNumber": 5,
+      "mlbIfNecessary": true,
+      "mlbTeamIds": [
+        "135",
+        "158"
+      ],
+      "selectionReasons": [
+        "MLB postseason: every game, from the Wild Card Series through the World Series."
+      ],
+      "title": "MLB: NLDS 'A' Game 5 - San Diego Padres at Milwaukee Brewers [if necessary]",
+      "start": "2026-10-09T20:30:00.000Z",
+      "end": "2026-10-10T00:00:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849824",
+      "location": "American Family Field",
+      "url": "https://www.mlb.com/gameday/849824",
+      "status": "TENTATIVE",
+      "categories": [
+        "MLB",
+        "Playoffs",
+        "San Diego Padres"
+      ],
+      "hash": "06faba88e3bbab4b127a14c4e9ce1d796109247d942884eadbfc0b53f9db4508",
+      "created": "2026-09-19T11:15:49.893Z",
+      "modified": "2026-10-01T23:57:30.137Z",
+      "sequence": 5
+    },
+    {
       "uid": "college-football-401856716@football-watchlist",
       "gameId": "401856716",
       "title": "CFB: Texas A&M at Missouri [time TBA]",
@@ -2848,70 +2816,36 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-849831@football-watchlist",
-      "gameId": "849831",
+      "uid": "mlb-849821@football-watchlist",
+      "gameId": "849821",
       "mlbSeason": 2026,
       "mlbGameType": "D",
-      "mlbSeriesKey": "2026/D/2",
+      "mlbSeriesKey": "2026/D/4",
       "mlbSeriesGameNumber": 5,
       "mlbIfNecessary": true,
       "mlbTeamIds": [
-        "145",
-        "114"
+        "5532",
+        "119"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALDS 'B' Game 5 - Chicago White Sox at Cleveland Guardians [if necessary] [time TBA]",
-      "start": "2026-10-10",
-      "end": "2026-10-11",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849831",
-      "location": "Progressive Field",
-      "url": "https://www.mlb.com/gameday/849831",
+      "title": "MLB: NLDS 'B' Game 5 - ATL/PHI at Los Angeles Dodgers [if necessary]",
+      "start": "2026-10-10T00:00:00.000Z",
+      "end": "2026-10-10T03:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FOX/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849821",
+      "location": "UNIQLO Field at Dodger Stadium",
+      "url": "https://www.mlb.com/gameday/849821",
       "status": "TENTATIVE",
       "categories": [
         "MLB",
-        "Playoffs",
-        "Cleveland Guardians"
+        "Playoffs"
       ],
-      "hash": "64d079ebbea33835d72123ccd8255ba3f8c100a9424f2dce8b47858918675f34",
+      "hash": "e1e9fd2b407bd13f0f91dbfaa5c98db6961375f4de3f369abd208987d8112201",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 7
-    },
-    {
-      "uid": "mlb-849836@football-watchlist",
-      "gameId": "849836",
-      "mlbSeason": 2026,
-      "mlbGameType": "D",
-      "mlbSeriesKey": "2026/D/1",
-      "mlbSeriesGameNumber": 5,
-      "mlbIfNecessary": true,
-      "mlbTeamIds": [
-        "147",
-        "139"
-      ],
-      "selectionReasons": [
-        "MLB postseason: every game, from the Wild Card Series through the World Series."
-      ],
-      "title": "MLB: ALDS 'A' Game 5 - New York Yankees at Tampa Bay Rays [if necessary] [time TBA]",
-      "start": "2026-10-10",
-      "end": "2026-10-11",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849836",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/849836",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Playoffs",
-        "Tampa Bay Rays"
-      ],
-      "hash": "8a93d4b75cbd489c2246e2e0f0bf062204525eff952df5b864c48f70c331dce9",
-      "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 5
+      "modified": "2026-10-01T23:57:30.137Z",
+      "sequence": 4
     },
     {
       "uid": "college-football-401858487@football-watchlist",
@@ -3043,6 +2977,39 @@
       "sequence": 0
     },
     {
+      "uid": "mlb-849831@football-watchlist",
+      "gameId": "849831",
+      "mlbSeason": 2026,
+      "mlbGameType": "D",
+      "mlbSeriesKey": "2026/D/2",
+      "mlbSeriesGameNumber": 5,
+      "mlbIfNecessary": true,
+      "mlbTeamIds": [
+        "145",
+        "114"
+      ],
+      "selectionReasons": [
+        "MLB postseason: every game, from the Wild Card Series through the World Series."
+      ],
+      "title": "MLB: ALDS 'B' Game 5 - Chicago White Sox at Cleveland Guardians [if necessary]",
+      "start": "2026-10-10T21:00:00.000Z",
+      "end": "2026-10-11T00:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849831",
+      "location": "Progressive Field",
+      "url": "https://www.mlb.com/gameday/849831",
+      "status": "TENTATIVE",
+      "categories": [
+        "MLB",
+        "Playoffs",
+        "Cleveland Guardians"
+      ],
+      "hash": "28419c94a6bbc6891128eb2276512d02a1eee443ebd2aca51a3e6064ead940d1",
+      "created": "2026-09-19T11:15:49.893Z",
+      "modified": "2026-10-01T23:57:30.137Z",
+      "sequence": 8
+    },
+    {
       "uid": "college-football-401856715@football-watchlist",
       "gameId": "401856715",
       "title": "CFB: LSU at Kentucky",
@@ -3165,6 +3132,39 @@
       "created": "2026-09-19T11:15:49.893Z",
       "modified": "2026-09-19T11:20:59.122Z",
       "sequence": 1
+    },
+    {
+      "uid": "mlb-849836@football-watchlist",
+      "gameId": "849836",
+      "mlbSeason": 2026,
+      "mlbGameType": "D",
+      "mlbSeriesKey": "2026/D/1",
+      "mlbSeriesGameNumber": 5,
+      "mlbIfNecessary": true,
+      "mlbTeamIds": [
+        "147",
+        "139"
+      ],
+      "selectionReasons": [
+        "MLB postseason: every game, from the Wild Card Series through the World Series."
+      ],
+      "title": "MLB: ALDS 'A' Game 5 - New York Yankees at Tampa Bay Rays [if necessary]",
+      "start": "2026-10-11T00:00:00.000Z",
+      "end": "2026-10-11T03:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849836",
+      "location": "Tropicana Field",
+      "url": "https://www.mlb.com/gameday/849836",
+      "status": "TENTATIVE",
+      "categories": [
+        "MLB",
+        "Playoffs",
+        "Tampa Bay Rays"
+      ],
+      "hash": "34e7919a35ec4c3fe9abf317672aef301988a42d189f88f47631dac2da84e342",
+      "created": "2026-09-19T11:15:49.893Z",
+      "modified": "2026-10-01T23:57:30.137Z",
+      "sequence": 6
     },
     {
       "uid": "nfl-401872981@football-watchlist",
