@@ -1410,19 +1410,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849844@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261001T193724Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:7
+LAST-MODIFIED:20261001T193724Z
+SEQUENCE:8
 DTSTART:20261002T000000Z
 DTEND:20261002T033000Z
 SUMMARY:MLB: NL Wild Card 'A' Game 3 - Philadelphia Phillies at Atlanta Bra
  ves
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nListed broadcasts: NBC/Peacock / Universo/Peacock. Availability varies by
-  country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/8
- 49844
+ nProbable pitchers (subject to change): Aaron Nola / Ray Kerr.\n\nListed b
+ roadcasts: NBC/Peacock / Universo/Peacock. Availability varies by country 
+ and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849844
 LOCATION:Truist Park
 URL:https://www.mlb.com/gameday/849844
 CATEGORIES:MLB,Playoffs
@@ -1639,18 +1639,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849829@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261001T193724Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:8
+LAST-MODIFIED:20261001T193724Z
+SEQUENCE:9
 DTSTART:20261003T170000Z
 DTEND:20261003T203000Z
 SUMMARY:MLB: ALDS 'B' Game 1 - Chicago White Sox at Cleveland Guardians
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability va
- ries by country and provider.\n\nOfficial schedule: https://www.mlb.com/ga
- meday/849829
+ nProbable pitchers (subject to change): Parker Messick.\n\nListed broadcas
+ ts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country 
+ and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849829
 LOCATION:Progressive Field
 URL:https://www.mlb.com/gameday/849829
 CATEGORIES:MLB,Playoffs,Cleveland Guardians
@@ -1965,18 +1965,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849834@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261001T193724Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:8
+LAST-MODIFIED:20261001T193724Z
+SEQUENCE:9
 DTSTART:20261005T210000Z
 DTEND:20261006T003000Z
 SUMMARY:MLB: ALDS 'B' Game 2 - Chicago White Sox at Cleveland Guardians
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability va
- ries by country and provider.\n\nOfficial schedule: https://www.mlb.com/ga
- meday/849834
+ nProbable pitchers (subject to change): Gavin Williams.\n\nListed broadcas
+ ts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country 
+ and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849834
 LOCATION:Progressive Field
 URL:https://www.mlb.com/gameday/849834
 CATEGORIES:MLB,Playoffs,Cleveland Guardians
