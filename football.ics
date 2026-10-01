@@ -1240,6 +1240,26 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:nhl-2026020001@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20260929T210000Z
+DTEND:20260930T000000Z
+SUMMARY:NHL: Florida Panthers at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: ESPN. Availabili
+ ty varies by country and provider.\n\nOfficial schedule: https://www.nhl.c
+ om/gamecenter/fla-vs-car/2026/09/29/2026020001
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/fla-vs-car/2026/09/29/2026020001
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-849851@football-watchlist
 DTSTAMP:20260929T084143Z
 CREATED:20260919T111549Z
@@ -1366,71 +1386,72 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-849844@football-watchlist
-DTSTAMP:20260929T084143Z
-CREATED:20260919T111549Z
-LAST-MODIFIED:20260929T084143Z
-SEQUENCE:6
-DTSTART:20261001T180000Z
-DTEND:20261001T213000Z
-SUMMARY:MLB: NL Wild Card 'A' Game 3 - Philadelphia Phillies at Atlanta Bra
- ves [if necessary]
-DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
- .5 hours\; finish is approximate.\n\nListed broadcasts: NBC/Peacock / Univ
- erso/Peacock. Availability varies by country and provider.\n\nOfficial sch
- edule: https://www.mlb.com/gameday/849844
-LOCATION:Truist Park
-URL:https://www.mlb.com/gameday/849844
-CATEGORIES:MLB,Playoffs
-STATUS:TENTATIVE
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-849850@football-watchlist
-DTSTAMP:20260929T084143Z
+DTSTAMP:20261001T073711Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260929T084143Z
-SEQUENCE:7
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:8
 DTSTART:20261001T210000Z
 DTEND:20261002T003000Z
-SUMMARY:MLB: AL Wild Card 'A' Game 3 - Chicago White Sox at Houston Astros 
- [if necessary]
-DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
- .5 hours\; finish is approximate.\n\nListed broadcasts: Peacock/NBCSN / Un
- iverso/Peacock. Availability varies by country and provider.\n\nOfficial s
- chedule: https://www.mlb.com/gameday/849850
+SUMMARY:Cancelled: MLB: AL Wild Card 'A' Game 3 - Chicago White Sox at Hous
+ ton Astros [if necessary]
+DESCRIPTION:No longer necessary: this postseason series has finished.\n\nML
+ B postseason: every game\, from the Wild Card Series through the World Ser
+ ies.\n\nThis game is only played if the series requires it. It will be can
+ celled in this feed if no longer needed.\n\nViewing window: 3.5 hours\; fi
+ nish is approximate.\n\nListed broadcasts: Peacock/NBCSN / Universo/Peacoc
+ k. Availability varies by country and provider.\n\nOfficial schedule: http
+ s://www.mlb.com/gameday/849850
 LOCATION:Daikin Park
 URL:https://www.mlb.com/gameday/849850
 CATEGORIES:MLB,Playoffs
-STATUS:TENTATIVE
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849844@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:7
+DTSTART:20261002T000000Z
+DTEND:20261002T033000Z
+SUMMARY:MLB: NL Wild Card 'A' Game 3 - Philadelphia Phillies at Atlanta Bra
+ ves
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
+ nListed broadcasts: NBC/Peacock / Universo/Peacock. Availability varies by
+  country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/8
+ 49844
+LOCATION:Truist Park
+URL:https://www.mlb.com/gameday/849844
+CATEGORIES:MLB,Playoffs
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849847@football-watchlist
-DTSTAMP:20260929T084143Z
+DTSTAMP:20261001T073711Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260929T084143Z
-SEQUENCE:7
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:8
 DTSTART:20261002T000000Z
 DTEND:20261002T033000Z
-SUMMARY:MLB: AL Wild Card 'B' Game 3 - Boston Red Sox at New York Yankees [
- if necessary]
-DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
- .5 hours\; finish is approximate.\n\nProbable pitchers (subject to change)
- : Ranger Suarez / Gerrit Cole.\n\nListed broadcasts: NBC/Peacock / Univers
- o/Peacock. Availability varies by country and provider.\n\nOfficial schedu
- le: https://www.mlb.com/gameday/849847
+SUMMARY:Cancelled: MLB: AL Wild Card 'B' Game 3 - Boston Red Sox at New Yor
+ k Yankees [if necessary]
+DESCRIPTION:No longer necessary: this postseason series has finished.\n\nML
+ B postseason: every game\, from the Wild Card Series through the World Ser
+ ies.\n\nThis game is only played if the series requires it. It will be can
+ celled in this feed if no longer needed.\n\nViewing window: 3.5 hours\; fi
+ nish is approximate.\n\nProbable pitchers (subject to change): Ranger Suar
+ ez / Gerrit Cole.\n\nListed broadcasts: NBC/Peacock / Universo/Peacock. Av
+ ailability varies by country and provider.\n\nOfficial schedule: https://w
+ ww.mlb.com/gameday/849847
 LOCATION:Yankee Stadium
 URL:https://www.mlb.com/gameday/849847
 CATEGORIES:MLB,Playoffs
-STATUS:TENTATIVE
-TRANSP:OPAQUE
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401872964@football-watchlist
@@ -1454,68 +1475,66 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849840@football-watchlist
-DTSTAMP:20260929T084143Z
+DTSTAMP:20261001T073711Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260929T084143Z
-SEQUENCE:4
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:5
 DTSTART:20261002T020000Z
 DTEND:20261002T053000Z
-SUMMARY:MLB: NL Wild Card 'B' Game 3 - Chicago Cubs at San Diego Padres [if
-  necessary]
-DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
- .5 hours\; finish is approximate.\n\nListed broadcasts: Peacock/NBCSN / Un
- iverso/Peacock. Availability varies by country and provider.\n\nOfficial s
- chedule: https://www.mlb.com/gameday/849840
+SUMMARY:Cancelled: MLB: NL Wild Card 'B' Game 3 - Chicago Cubs at San Diego
+  Padres [if necessary]
+DESCRIPTION:No longer necessary: this postseason series has finished.\n\nML
+ B postseason: every game\, from the Wild Card Series through the World Ser
+ ies.\n\nThis game is only played if the series requires it. It will be can
+ celled in this feed if no longer needed.\n\nViewing window: 3.5 hours\; fi
+ nish is approximate.\n\nListed broadcasts: Peacock/NBCSN / Universo/Peacoc
+ k. Availability varies by country and provider.\n\nOfficial schedule: http
+ s://www.mlb.com/gameday/849840
 LOCATION:Petco Park
 URL:https://www.mlb.com/gameday/849840
 CATEGORIES:MLB,Playoffs,San Diego Padres
-STATUS:TENTATIVE
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020016@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261002T020000Z
+DTEND:20261002T050000Z
+SUMMARY:NHL: Florida Panthers at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SCRIPPS / T
+ VAS. Availability varies by country and provider.\n\nOfficial schedule: ht
+ tps://www.nhl.com/gamecenter/fla-vs-sjs/2026/10/01/2026020016
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/fla-vs-sjs/2026/10/01/2026020016
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-849828@football-watchlist
-DTSTAMP:20260927T230810Z
-CREATED:20260919T111549Z
-LAST-MODIFIED:20260927T230810Z
-SEQUENCE:3
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-SUMMARY:MLB: NLDS 'B' Game 1 - ATL/PHI at Los Angeles Dodgers [time TBA]
-DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
- s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country 
- and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849828
-LOCATION:UNIQLO Field at Dodger Stadium
-URL:https://www.mlb.com/gameday/849828
-CATEGORIES:MLB,Playoffs
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-849830@football-watchlist
-DTSTAMP:20260929T234705Z
-CREATED:20260919T111549Z
-LAST-MODIFIED:20260929T234705Z
-SEQUENCE:4
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-SUMMARY:MLB: NLDS 'A' Game 1 - SD/CHC at Milwaukee Brewers [time TBA]
-DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
- s all-day marker will become a timed event when confirmed.\n\nProbable pit
- chers (subject to change): Jacob Misiorowski.\n\nListed broadcasts: FOX / 
- FS1 / Fox Deportes / FOX ONE. Availability varies by country and provider.
- \n\nOfficial schedule: https://www.mlb.com/gameday/849830
-LOCATION:American Family Field
-URL:https://www.mlb.com/gameday/849830
-CATEGORIES:MLB,Playoffs
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+UID:nhl-2026020018@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261002T230000Z
+DTEND:20261003T020000Z
+SUMMARY:NHL: Washington Capitals at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / M
+ NMT / SN / TVAS. Availability varies by country and provider.\n\nOfficial 
+ schedule: https://www.nhl.com/gamecenter/wsh-vs-car/2026/10/02/2026020018
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/wsh-vs-car/2026/10/02/2026020018
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858476@football-watchlist
@@ -1620,23 +1639,22 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849829@football-watchlist
-DTSTAMP:20260929T234705Z
+DTSTAMP:20261001T073711Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260929T234705Z
-SEQUENCE:7
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:8
 DTSTART:20261003T170000Z
 DTEND:20261003T203000Z
-SUMMARY:MLB: ALDS 'B' Game 1 - HOU/CWS at Cleveland Guardians
+SUMMARY:MLB: ALDS 'B' Game 1 - Chicago White Sox at Cleveland Guardians
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nViewing window: 3.5 hours\; finish is a
- pproximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. A
- vailability varies by country and provider.\n\nOfficial schedule: https://
- www.mlb.com/gameday/849829
+ the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
+ nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability va
+ ries by country and provider.\n\nOfficial schedule: https://www.mlb.com/ga
+ meday/849829
 LOCATION:Progressive Field
 URL:https://www.mlb.com/gameday/849829
 CATEGORIES:MLB,Playoffs,Cleveland Guardians
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -1682,25 +1700,44 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-849835@football-watchlist
-DTSTAMP:20260930T192832Z
+UID:mlb-849828@football-watchlist
+DTSTAMP:20261001T073711Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260930T192832Z
-SEQUENCE:6
-DTSTART:20261003T223000Z
-DTEND:20261004T020000Z
-SUMMARY:MLB: ALDS 'A' Game 1 - NYY/BOS at Tampa Bay Rays
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:4
+DTSTART:20261003T200000Z
+DTEND:20261003T233000Z
+SUMMARY:MLB: NLDS 'B' Game 1 - ATL/PHI at Los Angeles Dodgers
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nViewing window: 3.5 hours\; finish is a
- pproximate.\n\nProbable pitchers (subject to change): Drew Rasmussen.\n\nL
- isted broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability vari
- es by country and provider.\n\nOfficial schedule: https://www.mlb.com/game
- day/849835
+ pproximate.\n\nListed broadcasts: FOX/ FOX ONE / Fox Deportes / FOX ONE. A
+ vailability varies by country and provider.\n\nOfficial schedule: https://
+ www.mlb.com/gameday/849828
+LOCATION:UNIQLO Field at Dodger Stadium
+URL:https://www.mlb.com/gameday/849828
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849835@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:7
+DTSTART:20261003T223000Z
+DTEND:20261004T020000Z
+SUMMARY:MLB: ALDS 'A' Game 1 - New York Yankees at Tampa Bay Rays
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
+ nProbable pitchers (subject to change): Drew Rasmussen.\n\nListed broadcas
+ ts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country 
+ and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849835
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/849835
 CATEGORIES:MLB,Playoffs,Tampa Bay Rays
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -1721,6 +1758,26 @@ DESCRIPTION:National pick: a ranked team in a potentially competitive game
 LOCATION:Amon G. Carter Stadium\, Fort Worth\, TX\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856818/byu-tcu
 CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020025@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261003T230000Z
+DTEND:20261004T020000Z
+SUMMARY:NHL: Carolina Hurricanes at Philadelphia Flyers
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / N
+ BCSP. Availability varies by country and provider.\n\nOfficial schedule: h
+ ttps://www.nhl.com/gamecenter/car-vs-phi/2026/10/03/2026020025
+LOCATION:Xfinity Mobile Arena
+URL:https://www.nhl.com/gamecenter/car-vs-phi/2026/10/03/2026020025
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1768,6 +1825,46 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-849830@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:5
+DTSTART:20261004T003000Z
+DTEND:20261004T040000Z
+SUMMARY:MLB: NLDS 'A' Game 1 - San Diego Padres at Milwaukee Brewers
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
+ nProbable pitchers (subject to change): Jacob Misiorowski.\n\nListed broad
+ casts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by count
+ ry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849830
+LOCATION:American Family Field
+URL:https://www.mlb.com/gameday/849830
+CATEGORIES:MLB,Playoffs,San Diego Padres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020034@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261004T020000Z
+DTEND:20261004T050000Z
+SUMMARY:NHL: Los Angeles Kings at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: ABTV  / NBCSCA. Avai
+ lability varies by country and provider.\n\nOfficial schedule: https://www
+ .nhl.com/gamecenter/lak-vs-sjs/2026/10/03/2026020034
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/lak-vs-sjs/2026/10/03/2026020034
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nfl-401872965@football-watchlist
 DTSTAMP:20260905T145457Z
 CREATED:20260905T144637Z
@@ -1808,24 +1905,22 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849825@football-watchlist
-DTSTAMP:20260929T234705Z
+DTSTAMP:20261001T073711Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260929T234705Z
-SEQUENCE:4
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:5
 DTSTART:20261004T200000Z
 DTEND:20261004T233000Z
-SUMMARY:MLB: NLDS 'A' Game 2 - SD/CHC at Milwaukee Brewers
+SUMMARY:MLB: NLDS 'A' Game 2 - San Diego Padres at Milwaukee Brewers
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nViewing window: 3.5 hours\; finish is a
- pproximate.\n\nProbable pitchers (subject to change): Logan Henderson.\n\n
- Listed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability var
- ies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gam
- eday/849825
+ the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
+ nProbable pitchers (subject to change): Logan Henderson.\n\nListed broadca
+ sts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country
+  and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849825
 LOCATION:American Family Field
 URL:https://www.mlb.com/gameday/849825
-CATEGORIES:MLB,Playoffs
-STATUS:TENTATIVE
+CATEGORIES:MLB,Playoffs,San Diego Padres
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -1870,23 +1965,22 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849834@football-watchlist
-DTSTAMP:20260929T234705Z
+DTSTAMP:20261001T073711Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260929T234705Z
-SEQUENCE:7
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:8
 DTSTART:20261005T210000Z
 DTEND:20261006T003000Z
-SUMMARY:MLB: ALDS 'B' Game 2 - HOU/CWS at Cleveland Guardians
+SUMMARY:MLB: ALDS 'B' Game 2 - Chicago White Sox at Cleveland Guardians
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nViewing window: 3.5 hours\; finish is a
- pproximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. A
- vailability varies by country and provider.\n\nOfficial schedule: https://
- www.mlb.com/gameday/849834
+ the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
+ nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability va
+ ries by country and provider.\n\nOfficial schedule: https://www.mlb.com/ga
+ meday/849834
 LOCATION:Progressive Field
 URL:https://www.mlb.com/gameday/849834
 CATEGORIES:MLB,Playoffs,Cleveland Guardians
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -1912,44 +2006,63 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849826@football-watchlist
-DTSTAMP:20260927T230810Z
+DTSTAMP:20261001T073711Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260927T230810Z
-SEQUENCE:3
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-SUMMARY:MLB: NLDS 'A' Game 3 - Milwaukee Brewers at SD/CHC [time TBA]
+SUMMARY:MLB: NLDS 'A' Game 3 - Milwaukee Brewers at San Diego Padres [time 
+ TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
- s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country 
- and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849826
-LOCATION:NL Stadium
+ the World Series.\n\nFirst pitch has not been announced. This all-day mark
+ er will become a timed event when confirmed.\n\nListed broadcasts: FOX / F
+ S1 / Fox Deportes / FOX ONE. Availability varies by country and provider.\
+ n\nOfficial schedule: https://www.mlb.com/gameday/849826
+LOCATION:Petco Park
 URL:https://www.mlb.com/gameday/849826
-CATEGORIES:MLB,Playoffs
+CATEGORIES:MLB,Playoffs,San Diego Padres
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849839@football-watchlist
-DTSTAMP:20260929T234705Z
+DTSTAMP:20261001T073711Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260929T234705Z
-SEQUENCE:5
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:6
 DTSTART:20261006T000000Z
 DTEND:20261006T033000Z
-SUMMARY:MLB: ALDS 'A' Game 2 - NYY/BOS at Tampa Bay Rays
+SUMMARY:MLB: ALDS 'A' Game 2 - New York Yankees at Tampa Bay Rays
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nViewing window: 3.5 hours\; finish is a
- pproximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. A
- vailability varies by country and provider.\n\nOfficial schedule: https://
- www.mlb.com/gameday/849839
+ the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
+ nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability va
+ ries by country and provider.\n\nOfficial schedule: https://www.mlb.com/ga
+ meday/849839
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/849839
 CATEGORIES:MLB,Playoffs,Tampa Bay Rays
-STATUS:TENTATIVE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020043@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261006T000000Z
+DTEND:20261006T030000Z
+SUMMARY:NHL: San Jose Sharks at Dallas Stars
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / Prime Video
+ . Availability varies by country and provider.\n\nOfficial schedule: https
+ ://www.nhl.com/gamecenter/sjs-vs-dal/2026/10/05/2026020043
+LOCATION:American Airlines Center
+URL:https://www.nhl.com/gamecenter/sjs-vs-dal/2026/10/05/2026020043
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -1968,6 +2081,26 @@ DESCRIPTION:Monday Night Football.\n\nTeams: Atlanta Falcons at New Orleans
 LOCATION:Caesars Superdome\, New Orleans\, LA\, USA
 URL:https://www.espn.com/nfl/game/_/gameId/401872979/falcons-saints
 CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020045@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261006T230000Z
+DTEND:20261007T020000Z
+SUMMARY:NHL: Carolina Hurricanes at Montréal Canadiens
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / R
+ DS / TSN2. Availability varies by country and provider.\n\nOfficial schedu
+ le: https://www.nhl.com/gamecenter/car-vs-mtl/2026/10/06/2026020045
+LOCATION:Centre Bell
+URL:https://www.nhl.com/gamecenter/car-vs-mtl/2026/10/06/2026020045
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1997,44 +2130,43 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849827@football-watchlist
-DTSTAMP:20260927T230810Z
+DTSTAMP:20261001T073711Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260927T230810Z
-SEQUENCE:3
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-SUMMARY:MLB: NLDS 'A' Game 4  - Milwaukee Brewers at SD/CHC [if necessary] 
- [time TBA]
+SUMMARY:MLB: NLDS 'A' Game 4  - Milwaukee Brewers at San Diego Padres [if n
+ ecessary] [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nBracket positions
-  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
- st pitch has not been announced. This all-day marker will become a timed e
- vent when confirmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX 
- ONE. Availability varies by country and provider.\n\nOfficial schedule: ht
- tps://www.mlb.com/gameday/849827
-LOCATION:NL Stadium
+ t will be cancelled in this feed if no longer needed.\n\nFirst pitch has n
+ ot been announced. This all-day marker will become a timed event when conf
+ irmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availabil
+ ity varies by country and provider.\n\nOfficial schedule: https://www.mlb.
+ com/gameday/849827
+LOCATION:Petco Park
 URL:https://www.mlb.com/gameday/849827
-CATEGORIES:MLB,Playoffs
+CATEGORIES:MLB,Playoffs,San Diego Padres
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849833@football-watchlist
-DTSTAMP:20260927T230810Z
+DTSTAMP:20261001T073711Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260927T230810Z
-SEQUENCE:6
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:7
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-SUMMARY:MLB: ALDS 'B' Game 3 - Cleveland Guardians at HOU/CWS [time TBA]
+SUMMARY:MLB: ALDS 'B' Game 3 - Cleveland Guardians at Chicago White Sox [ti
+ me TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
- s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by count
- ry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849833
-LOCATION:AL Stadium
+ the World Series.\n\nFirst pitch has not been announced. This all-day mark
+ er will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO
+  MAX / TruTV / Univision/ TUDN. Availability varies by country and provide
+ r.\n\nOfficial schedule: https://www.mlb.com/gameday/849833
+LOCATION:Rate Field
 URL:https://www.mlb.com/gameday/849833
 CATEGORIES:MLB,Playoffs,Cleveland Guardians
 STATUS:TENTATIVE
@@ -2042,20 +2174,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849838@football-watchlist
-DTSTAMP:20260927T230810Z
+DTSTAMP:20261001T073711Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260927T230810Z
-SEQUENCE:4
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-SUMMARY:MLB: ALDS 'A' Game 3 - Tampa Bay Rays at NYY/BOS [time TBA]
+SUMMARY:MLB: ALDS 'A' Game 3 - Tampa Bay Rays at New York Yankees [time TBA
+ ]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
- s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by count
- ry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849838
-LOCATION:AL Stadium
+ the World Series.\n\nFirst pitch has not been announced. This all-day mark
+ er will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO
+  MAX / TruTV / Univision/ TUDN. Availability varies by country and provide
+ r.\n\nOfficial schedule: https://www.mlb.com/gameday/849838
+LOCATION:Yankee Stadium
 URL:https://www.mlb.com/gameday/849838
 CATEGORIES:MLB,Playoffs,Tampa Bay Rays
 STATUS:TENTATIVE
@@ -2063,23 +2195,22 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849832@football-watchlist
-DTSTAMP:20260927T230810Z
+DTSTAMP:20261001T073711Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260927T230810Z
-SEQUENCE:6
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:7
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-SUMMARY:MLB: ALDS 'B' Game 4 - Cleveland Guardians at HOU/CWS [if necessary
- ] [time TBA]
+SUMMARY:MLB: ALDS 'B' Game 4 - Cleveland Guardians at Chicago White Sox [if
+  necessary] [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nBracket positions
-  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
- st pitch has not been announced. This all-day marker will become a timed e
- vent when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision
- / TUDN. Availability varies by country and provider.\n\nOfficial schedule:
-  https://www.mlb.com/gameday/849832
-LOCATION:AL Stadium
+ t will be cancelled in this feed if no longer needed.\n\nFirst pitch has n
+ ot been announced. This all-day marker will become a timed event when conf
+ irmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availa
+ bility varies by country and provider.\n\nOfficial schedule: https://www.m
+ lb.com/gameday/849832
+LOCATION:Rate Field
 URL:https://www.mlb.com/gameday/849832
 CATEGORIES:MLB,Playoffs,Cleveland Guardians
 STATUS:TENTATIVE
@@ -2087,27 +2218,46 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849837@football-watchlist
-DTSTAMP:20260927T230810Z
+DTSTAMP:20261001T073711Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260927T230810Z
-SEQUENCE:4
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-SUMMARY:MLB: ALDS 'A' Game 4 - Tampa Bay Rays at NYY/BOS [if necessary] [ti
- me TBA]
+SUMMARY:MLB: ALDS 'A' Game 4 - Tampa Bay Rays at New York Yankees [if neces
+ sary] [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nBracket positions
-  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
- st pitch has not been announced. This all-day marker will become a timed e
- vent when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision
- / TUDN. Availability varies by country and provider.\n\nOfficial schedule:
-  https://www.mlb.com/gameday/849837
-LOCATION:AL Stadium
+ t will be cancelled in this feed if no longer needed.\n\nFirst pitch has n
+ ot been announced. This all-day marker will become a timed event when conf
+ irmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availa
+ bility varies by country and provider.\n\nOfficial schedule: https://www.m
+ lb.com/gameday/849837
+LOCATION:Yankee Stadium
 URL:https://www.mlb.com/gameday/849837
 CATEGORIES:MLB,Playoffs,Tampa Bay Rays
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020061@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261008T230000Z
+DTEND:20261009T020000Z
+SUMMARY:NHL: Vancouver Canucks at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / S
+ NP. Availability varies by country and provider.\n\nOfficial schedule: htt
+ ps://www.nhl.com/gamecenter/van-vs-car/2026/10/08/2026020061
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/van-vs-car/2026/10/08/2026020061
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849821@football-watchlist
@@ -2135,27 +2285,46 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849824@football-watchlist
-DTSTAMP:20260927T230810Z
+DTSTAMP:20261001T073711Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260927T230810Z
-SEQUENCE:3
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-SUMMARY:MLB: NLDS 'A' Game 5 - SD/CHC at Milwaukee Brewers [if necessary] [
- time TBA]
+SUMMARY:MLB: NLDS 'A' Game 5 - San Diego Padres at Milwaukee Brewers [if ne
+ cessary] [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nBracket positions
-  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
- st pitch has not been announced. This all-day marker will become a timed e
- vent when confirmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX 
- ONE. Availability varies by country and provider.\n\nOfficial schedule: ht
- tps://www.mlb.com/gameday/849824
+ t will be cancelled in this feed if no longer needed.\n\nFirst pitch has n
+ ot been announced. This all-day marker will become a timed event when conf
+ irmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availabil
+ ity varies by country and provider.\n\nOfficial schedule: https://www.mlb.
+ com/gameday/849824
 LOCATION:American Family Field
 URL:https://www.mlb.com/gameday/849824
-CATEGORIES:MLB,Playoffs
+CATEGORIES:MLB,Playoffs,San Diego Padres
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020063@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261009T000000Z
+DTEND:20261009T030000Z
+SUMMARY:NHL: San Jose Sharks at St. Louis Blues
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: Disney+ / ESPN+ / HU
+ LU / SN+. Availability varies by country and provider.\n\nOfficial schedul
+ e: https://www.nhl.com/gamecenter/sjs-vs-stl/2026/10/08/2026020063
+LOCATION:Enterprise Center
+URL:https://www.nhl.com/gamecenter/sjs-vs-stl/2026/10/08/2026020063
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401872980@football-watchlist
@@ -2200,22 +2369,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849831@football-watchlist
-DTSTAMP:20260927T230810Z
+DTSTAMP:20261001T073711Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260927T230810Z
-SEQUENCE:6
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:7
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-SUMMARY:MLB: ALDS 'B' Game 5 - HOU/CWS at Cleveland Guardians [if necessary
- ] [time TBA]
+SUMMARY:MLB: ALDS 'B' Game 5 - Chicago White Sox at Cleveland Guardians [if
+  necessary] [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nBracket positions
-  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
- st pitch has not been announced. This all-day marker will become a timed e
- vent when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision
- / TUDN. Availability varies by country and provider.\n\nOfficial schedule:
-  https://www.mlb.com/gameday/849831
+ t will be cancelled in this feed if no longer needed.\n\nFirst pitch has n
+ ot been announced. This all-day marker will become a timed event when conf
+ irmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availa
+ bility varies by country and provider.\n\nOfficial schedule: https://www.m
+ lb.com/gameday/849831
 LOCATION:Progressive Field
 URL:https://www.mlb.com/gameday/849831
 CATEGORIES:MLB,Playoffs,Cleveland Guardians
@@ -2224,27 +2392,48 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849836@football-watchlist
-DTSTAMP:20260927T230810Z
+DTSTAMP:20261001T073711Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260927T230810Z
-SEQUENCE:4
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-SUMMARY:MLB: ALDS 'A' Game 5 - NYY/BOS at Tampa Bay Rays [if necessary] [ti
- me TBA]
+SUMMARY:MLB: ALDS 'A' Game 5 - New York Yankees at Tampa Bay Rays [if neces
+ sary] [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nBracket positions
-  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
- st pitch has not been announced. This all-day marker will become a timed e
- vent when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision
- / TUDN. Availability varies by country and provider.\n\nOfficial schedule:
-  https://www.mlb.com/gameday/849836
+ t will be cancelled in this feed if no longer needed.\n\nFirst pitch has n
+ ot been announced. This all-day marker will become a timed event when conf
+ irmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availa
+ bility varies by country and provider.\n\nOfficial schedule: https://www.m
+ lb.com/gameday/849836
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/849836
 CATEGORIES:MLB,Playoffs,Tampa Bay Rays
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858487@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261010T010000Z
+DTEND:20261010T043000Z
+SUMMARY:CFB: Iowa at Washington
+DESCRIPTION:National pick: a ranked team in a potentially competitive game 
+ (market spread 1.5 points at selection). Upset possibility is an estimate.
+ \n\nTeams: Iowa Hawkeyes at Washington Huskies\n\nBroadcast to be announce
+ d.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish is ap
+ proximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameI
+ d/401858487/iowa-washington
+LOCATION:Husky Stadium\, Seattle\, WA\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858487/iowa-wash
+ ington
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:show-gameday-2026-10-10@football-watchlist
@@ -2327,6 +2516,26 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:nhl-2026020072@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261010T200000Z
+DTEND:20261010T230000Z
+SUMMARY:NHL: Edmonton Oilers at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SN1 / SNW. 
+ Availability varies by country and provider.\n\nOfficial schedule: https:/
+ /www.nhl.com/gamecenter/edm-vs-sjs/2026/10/10/2026020072
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/edm-vs-sjs/2026/10/10/2026020072
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:college-football-401856715@football-watchlist
 DTSTAMP:20260928T203617Z
 CREATED:20260927T230810Z
@@ -2344,6 +2553,26 @@ LOCATION:Kroger Field\, Lexington\, KY\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856715/lsu-kentu
  cky
 CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020078@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261010T230000Z
+DTEND:20261011T020000Z
+SUMMARY:NHL: Carolina Hurricanes at Chicago Blackhawks
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / CHSN / 
+ HHN. Availability varies by country and provider.\n\nOfficial schedule: ht
+ tps://www.nhl.com/gamecenter/car-vs-chi/2026/10/10/2026020078
+LOCATION:United Center
+URL:https://www.nhl.com/gamecenter/car-vs-chi/2026/10/10/2026020078
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -2450,6 +2679,27 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:nhl-2026020086@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261011T230000Z
+DTEND:20261012T020000Z
+SUMMARY:NHL: Carolina Hurricanes at Philadelphia Flyers
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / N
+ BCSP / NHLN / SN+ / TVAS. Availability varies by country and provider.\n\n
+ Official schedule: https://www.nhl.com/gamecenter/car-vs-phi/2026/10/11/20
+ 26020086
+LOCATION:Xfinity Mobile Arena
+URL:https://www.nhl.com/gamecenter/car-vs-phi/2026/10/11/2026020086
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-849812@football-watchlist
 DTSTAMP:20260919T112059Z
 CREATED:20260919T111549Z
@@ -2551,6 +2801,26 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:nhl-2026020093@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261013T224500Z
+DTEND:20261014T014500Z
+SUMMARY:NHL: Washington Capitals at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / M
+ NMT. Availability varies by country and provider.\n\nOfficial schedule: ht
+ tps://www.nhl.com/gamecenter/wsh-vs-car/2026/10/13/2026020093
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/wsh-vs-car/2026/10/13/2026020093
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-849811@football-watchlist
 DTSTAMP:20260919T112059Z
 CREATED:20260919T111549Z
@@ -2570,6 +2840,26 @@ URL:https://www.mlb.com/gameday/849811
 CATEGORIES:MLB,Playoffs
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020105@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261014T030000Z
+DTEND:20261014T060000Z
+SUMMARY:NHL: Boston Bruins at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: ESPN / NESN / SN+. A
+ vailability varies by country and provider.\n\nOfficial schedule: https://
+ www.nhl.com/gamecenter/bos-vs-sjs/2026/10/13/2026020105
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/bos-vs-sjs/2026/10/13/2026020105
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849810@football-watchlist
@@ -2657,6 +2947,26 @@ URL:https://www.mlb.com/gameday/849817
 CATEGORIES:MLB,Playoffs
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020115@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261016T000000Z
+DTEND:20261016T030000Z
+SUMMARY:NHL: San Jose Sharks at Nashville Predators
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SCRIPPS. Av
+ ailability varies by country and provider.\n\nOfficial schedule: https://w
+ ww.nhl.com/gamecenter/sjs-vs-nsh/2026/10/15/2026020115
+LOCATION:Bridgestone Arena
+URL:https://www.nhl.com/gamecenter/sjs-vs-nsh/2026/10/15/2026020115
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401872995@football-watchlist
@@ -2889,6 +3199,46 @@ STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:nhl-2026020122@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261017T193000Z
+DTEND:20261017T223000Z
+SUMMARY:NHL: Carolina Hurricanes at Winnipeg Jets
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / S
+ N. Availability varies by country and provider.\n\nOfficial schedule: http
+ s://www.nhl.com/gamecenter/car-vs-wpg/2026/10/17/2026020122
+LOCATION:Canada Life Centre
+URL:https://www.nhl.com/gamecenter/car-vs-wpg/2026/10/17/2026020122
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020127@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261017T230000Z
+DTEND:20261018T020000Z
+SUMMARY:NHL: San Jose Sharks at Detroit Red Wings
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: DSN / NBCSCA. Availa
+ bility varies by country and provider.\n\nOfficial schedule: https://www.n
+ hl.com/gamecenter/sjs-vs-det/2026/10/17/2026020127
+LOCATION:Little Caesars Arena
+URL:https://www.nhl.com/gamecenter/sjs-vs-det/2026/10/17/2026020127
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-849806@football-watchlist
 DTSTAMP:20260919T112059Z
 CREATED:20260919T111549Z
@@ -3000,6 +3350,26 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:nhl-2026020136@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261019T000000Z
+DTEND:20261019T030000Z
+SUMMARY:NHL: Carolina Hurricanes at Calgary Flames
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / S
+ NW / TVAS. Availability varies by country and provider.\n\nOfficial schedu
+ le: https://www.nhl.com/gamecenter/car-vs-cgy/2026/10/18/2026020136
+LOCATION:Scotiabank Saddledome
+URL:https://www.nhl.com/gamecenter/car-vs-cgy/2026/10/18/2026020136
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nfl-401873007@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T144637Z
@@ -3015,6 +3385,26 @@ DESCRIPTION:Sunday Night Football.\n\nTeams: Dallas Cowboys at Green Bay Pa
 LOCATION:Lambeau Field\, Green Bay\, WI\, USA
 URL:https://www.espn.com/nfl/game/_/gameId/401873007/cowboys-packers
 CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020139@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261019T233000Z
+DTEND:20261020T023000Z
+SUMMARY:NHL: San Jose Sharks at Toronto Maple Leafs
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SN+ / TVAS.
+  Availability varies by country and provider.\n\nOfficial schedule: https:
+ //www.nhl.com/gamecenter/sjs-vs-tor/2026/10/19/2026020139
+LOCATION:Scotiabank Arena
+URL:https://www.nhl.com/gamecenter/sjs-vs-tor/2026/10/19/2026020139
+CATEGORIES:NHL,Regular season,San Jose Sharks
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -3063,6 +3453,66 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:nhl-2026020141@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261020T230000Z
+DTEND:20261021T020000Z
+SUMMARY:NHL: San Jose Sharks at Montréal Canadiens
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / RDS / TSN2.
+  Availability varies by country and provider.\n\nOfficial schedule: https:
+ //www.nhl.com/gamecenter/sjs-vs-mtl/2026/10/20/2026020141
+LOCATION:Centre Bell
+URL:https://www.nhl.com/gamecenter/sjs-vs-mtl/2026/10/20/2026020141
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020150@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261021T020000Z
+DTEND:20261021T050000Z
+SUMMARY:NHL: Carolina Hurricanes at Vancouver Canucks
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / S
+ N360 / SNP. Availability varies by country and provider.\n\nOfficial sched
+ ule: https://www.nhl.com/gamecenter/car-vs-van/2026/10/20/2026020150
+LOCATION:Rogers Arena
+URL:https://www.nhl.com/gamecenter/car-vs-van/2026/10/20/2026020150
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020156@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261022T230000Z
+DTEND:20261023T020000Z
+SUMMARY:NHL: San Jose Sharks at Ottawa Senators
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / RDS / TSN5.
+  Availability varies by country and provider.\n\nOfficial schedule: https:
+ //www.nhl.com/gamecenter/sjs-vs-ott/2026/10/22/2026020156
+LOCATION:Canadian Tire Centre
+URL:https://www.nhl.com/gamecenter/sjs-vs-ott/2026/10/22/2026020156
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-849805@football-watchlist
 DTSTAMP:20260919T112059Z
 CREATED:20260919T111549Z
@@ -3101,6 +3551,26 @@ DESCRIPTION:Thursday football\, including Thanksgiving.\n\nTeams: New Engla
 LOCATION:Soldier Field\, Chicago\, IL\, USA
 URL:https://www.espn.com/nfl/game/_/gameId/401873010/patriots-bears
 CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020163@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261023T010000Z
+DTEND:20261023T040000Z
+SUMMARY:NHL: Carolina Hurricanes at Edmonton Oilers
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / S
+ NW / TVAS. Availability varies by country and provider.\n\nOfficial schedu
+ le: https://www.nhl.com/gamecenter/car-vs-edm/2026/10/22/2026020163
+LOCATION:Rogers Place
+URL:https://www.nhl.com/gamecenter/car-vs-edm/2026/10/22/2026020163
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -3183,6 +3653,46 @@ LOCATION:
 URL:https://www.foxsports.com/big-noon-kickoff-experience
 CATEGORIES:College,Pregame
 STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020170@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261024T230000Z
+DTEND:20261025T020000Z
+SUMMARY:NHL: San Jose Sharks at Boston Bruins
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / NESN. Avail
+ ability varies by country and provider.\n\nOfficial schedule: https://www.
+ nhl.com/gamecenter/sjs-vs-bos/2026/10/24/2026020170
+LOCATION:TD Garden
+URL:https://www.nhl.com/gamecenter/sjs-vs-bos/2026/10/24/2026020170
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020175@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261024T230000Z
+DTEND:20261025T020000Z
+SUMMARY:NHL: Carolina Hurricanes at St. Louis Blues
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: BN+ / CARNHL / H
+ HN / STLNHL. Availability varies by country and provider.\n\nOfficial sche
+ dule: https://www.nhl.com/gamecenter/car-vs-stl/2026/10/24/2026020175
+LOCATION:Enterprise Center
+URL:https://www.nhl.com/gamecenter/car-vs-stl/2026/10/24/2026020175
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -3332,6 +3842,66 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:nhl-2026020189@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261028T000000Z
+DTEND:20261028T030000Z
+SUMMARY:NHL: Boston Bruins at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: ESPN / SN360. Av
+ ailability varies by country and provider.\n\nOfficial schedule: https://w
+ ww.nhl.com/gamecenter/bos-vs-car/2026/10/27/2026020189
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/bos-vs-car/2026/10/27/2026020189
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020198@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261028T023000Z
+DTEND:20261028T053000Z
+SUMMARY:NHL: Buffalo Sabres at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: ESPN / SN360. Availa
+ bility varies by country and provider.\n\nOfficial schedule: https://www.n
+ hl.com/gamecenter/buf-vs-sjs/2026/10/27/2026020198
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/buf-vs-sjs/2026/10/27/2026020198
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020206@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261029T230000Z
+DTEND:20261030T020000Z
+SUMMARY:NHL: Columbus Blue Jackets at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / CBJHN /
+  CBJNHL / HHN. Availability varies by country and provider.\n\nOfficial sc
+ hedule: https://www.nhl.com/gamecenter/cbj-vs-car/2026/10/29/2026020206
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/cbj-vs-car/2026/10/29/2026020206
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-849801@football-watchlist
 DTSTAMP:20260919T112059Z
 CREATED:20260919T111549Z
@@ -3372,6 +3942,26 @@ DESCRIPTION:Thursday football\, including Thanksgiving.\n\nTeams: Carolina
 LOCATION:Lambeau Field\, Green Bay\, WI\, USA
 URL:https://www.espn.com/nfl/game/_/gameId/401873023/panthers-packers
 CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020213@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261030T020000Z
+DTEND:20261030T050000Z
+SUMMARY:NHL: Vancouver Canucks at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SN. Availab
+ ility varies by country and provider.\n\nOfficial schedule: https://www.nh
+ l.com/gamecenter/van-vs-sjs/2026/10/29/2026020213
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/van-vs-sjs/2026/10/29/2026020213
+CATEGORIES:NHL,Regular season,San Jose Sharks
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -3459,6 +4049,47 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:nhl-2026020222@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261031T200000Z
+DTEND:20261031T230000Z
+SUMMARY:NHL: Ottawa Senators at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / RDSI / TSN5
+ . Availability varies by country and provider.\n\nOfficial schedule: https
+ ://www.nhl.com/gamecenter/ott-vs-sjs/2026/10/31/2026020222
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/ott-vs-sjs/2026/10/31/2026020222
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020227@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261101T180000Z
+DTEND:20261101T210000Z
+SUMMARY:NHL: Winnipeg Jets at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / N
+ HLN / TSN3 / TVAS. Availability varies by country and provider.\n\nOfficia
+ l schedule: https://www.nhl.com/gamecenter/wpg-vs-car/2026/11/01/202602022
+ 7
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/wpg-vs-car/2026/11/01/2026020227
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:redzone-2026-11-01@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -3517,6 +4148,86 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:nhl-2026020235@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261103T020000Z
+DTEND:20261103T050000Z
+SUMMARY:NHL: Calgary Flames at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SN+ / TVAS.
+  Availability varies by country and provider.\n\nOfficial schedule: https:
+ //www.nhl.com/gamecenter/cgy-vs-sjs/2026/11/02/2026020235
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/cgy-vs-sjs/2026/11/02/2026020235
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020245@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261104T010000Z
+DTEND:20261104T040000Z
+SUMMARY:NHL: Carolina Hurricanes at Nashville Predators
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / S
+ CRIPPS / SN+. Availability varies by country and provider.\n\nOfficial sch
+ edule: https://www.nhl.com/gamecenter/car-vs-nsh/2026/11/03/2026020245
+LOCATION:Bridgestone Arena
+URL:https://www.nhl.com/gamecenter/car-vs-nsh/2026/11/03/2026020245
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020249@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261105T030000Z
+DTEND:20261105T060000Z
+SUMMARY:NHL: San Jose Sharks at Los Angeles Kings
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: HBO MAX / TNT / truT
+ V. Availability varies by country and provider.\n\nOfficial schedule: http
+ s://www.nhl.com/gamecenter/sjs-vs-lak/2026/11/04/2026020249
+LOCATION:Crypto.com Arena
+URL:https://www.nhl.com/gamecenter/sjs-vs-lak/2026/11/04/2026020249
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020255@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261106T000000Z
+DTEND:20261106T030000Z
+SUMMARY:NHL: Carolina Hurricanes at New York Islanders
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: Disney+ / ESPN+ 
+ / HULU / SN+. Availability varies by country and provider.\n\nOfficial sch
+ edule: https://www.nhl.com/gamecenter/car-vs-nyi/2026/11/05/2026020255
+LOCATION:UBS Arena
+URL:https://www.nhl.com/gamecenter/car-vs-nyi/2026/11/05/2026020255
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nfl-401873037@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T144637Z
@@ -3558,6 +4269,26 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:nhl-2026020263@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261107T010000Z
+DTEND:20261107T040000Z
+SUMMARY:NHL: San Jose Sharks at Minnesota Wild
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: MINNHL / NBCSCA / Wi
+ ld+. Availability varies by country and provider.\n\nOfficial schedule: ht
+ tps://www.nhl.com/gamecenter/sjs-vs-min/2026/11/06/2026020263
+LOCATION:Grand Casino Arena
+URL:https://www.nhl.com/gamecenter/sjs-vs-min/2026/11/06/2026020263
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:show-gameday-2026-11-07@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -3593,6 +4324,46 @@ LOCATION:
 URL:https://www.foxsports.com/big-noon-kickoff-experience
 CATEGORIES:College,Pregame
 STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020271@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261108T010000Z
+DTEND:20261108T040000Z
+SUMMARY:NHL: Chicago Blackhawks at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / CHSN / 
+ HHN. Availability varies by country and provider.\n\nOfficial schedule: ht
+ tps://www.nhl.com/gamecenter/chi-vs-car/2026/11/07/2026020271
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/chi-vs-car/2026/11/07/2026020271
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020272@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261108T010000Z
+DTEND:20261108T040000Z
+SUMMARY:NHL: San Jose Sharks at Dallas Stars
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / Prime Video
+ . Availability varies by country and provider.\n\nOfficial schedule: https
+ ://www.nhl.com/gamecenter/sjs-vs-dal/2026/11/07/2026020272
+LOCATION:American Airlines Center
+URL:https://www.nhl.com/gamecenter/sjs-vs-dal/2026/11/07/2026020272
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -3669,6 +4440,67 @@ DESCRIPTION:Monday Night Football.\n\nTeams: Buffalo Bills at Minnesota Vik
 LOCATION:U.S. Bank Stadium\, Minneapolis\, MN\, USA
 URL:https://www.espn.com/nfl/game/_/gameId/401873051/bills-vikings
 CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020285@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261110T030000Z
+DTEND:20261110T060000Z
+SUMMARY:NHL: New York Islanders at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: MSGSN / NBCSCA / TVA
+ S. Availability varies by country and provider.\n\nOfficial schedule: http
+ s://www.nhl.com/gamecenter/nyi-vs-sjs/2026/11/09/2026020285
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/nyi-vs-sjs/2026/11/09/2026020285
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020298@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261112T030000Z
+DTEND:20261112T060000Z
+SUMMARY:NHL: Pittsburgh Penguins at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SN-PIT. Ava
+ ilability varies by country and provider.\n\nOfficial schedule: https://ww
+ w.nhl.com/gamecenter/pit-vs-sjs/2026/11/11/2026020298
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/pit-vs-sjs/2026/11/11/2026020298
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020309@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261112T170000Z
+DTEND:20261112T200000Z
+SUMMARY:NHL: Carolina Hurricanes at Seattle Kraken
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / K
+ ONG / Prime Video / SN+ / TVAS. Availability varies by country and provide
+ r.\n\nOfficial schedule: https://www.nhl.com/gamecenter/car-vs-sea/2026/11
+ /12/2026020309
+LOCATION:Veikkaus Arena
+URL:https://www.nhl.com/gamecenter/car-vs-sea/2026/11/12/2026020309
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -3752,6 +4584,47 @@ STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:nhl-2026020321@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261114T180000Z
+DTEND:20261114T210000Z
+SUMMARY:NHL: Seattle Kraken at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / K
+ ING / KONG / Prime Video / SN1. Availability varies by country and provide
+ r.\n\nOfficial schedule: https://www.nhl.com/gamecenter/sea-vs-car/2026/11
+ /14/2026020321
+LOCATION:Veikkaus Arena
+URL:https://www.nhl.com/gamecenter/sea-vs-car/2026/11/14/2026020321
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020323@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261115T020000Z
+DTEND:20261115T050000Z
+SUMMARY:NHL: San Jose Sharks at Utah Mammoth
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / Utah16. Ava
+ ilability varies by country and provider.\n\nOfficial schedule: https://ww
+ w.nhl.com/gamecenter/sjs-vs-uta/2026/11/14/2026020323
+LOCATION:Delta Center
+URL:https://www.nhl.com/gamecenter/sjs-vs-uta/2026/11/14/2026020323
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nfl-401873053@football-watchlist
 DTSTAMP:20260905T145457Z
 CREATED:20260905T144637Z
@@ -3811,6 +4684,26 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:nhl-2026020330@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261116T020000Z
+DTEND:20261116T050000Z
+SUMMARY:NHL: Nashville Predators at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SCRIPPS. Av
+ ailability varies by country and provider.\n\nOfficial schedule: https://w
+ ww.nhl.com/gamecenter/nsh-vs-sjs/2026/11/15/2026020330
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/nsh-vs-sjs/2026/11/15/2026020330
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nfl-401873065@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T144637Z
@@ -3827,6 +4720,46 @@ DESCRIPTION:Monday Night Football.\n\nTeams: Los Angeles Chargers at Baltim
 LOCATION:M&T Bank Stadium\, Baltimore\, MD\, USA
 URL:https://www.espn.com/nfl/game/_/gameId/401873065/chargers-ravens
 CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020343@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261118T030000Z
+DTEND:20261118T060000Z
+SUMMARY:NHL: Calgary Flames at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SN. Availab
+ ility varies by country and provider.\n\nOfficial schedule: https://www.nh
+ l.com/gamecenter/cgy-vs-sjs/2026/11/17/2026020343
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/cgy-vs-sjs/2026/11/17/2026020343
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020352@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261120T000000Z
+DTEND:20261120T030000Z
+SUMMARY:NHL: Montréal Canadiens at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / R
+ DS / TSN2. Availability varies by country and provider.\n\nOfficial schedu
+ le: https://www.nhl.com/gamecenter/mtl-vs-car/2026/11/19/2026020352
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/mtl-vs-car/2026/11/19/2026020352
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -3889,6 +4822,26 @@ STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:nhl-2026020359@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261121T180000Z
+DTEND:20261121T210000Z
+SUMMARY:NHL: Edmonton Oilers at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / S
+ N. Availability varies by country and provider.\n\nOfficial schedule: http
+ s://www.nhl.com/gamecenter/edm-vs-car/2026/11/21/2026020359
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/edm-vs-car/2026/11/21/2026020359
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:college-football-401856746@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -3906,6 +4859,46 @@ LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856746/chattanoo
  ga-alabama
 CATEGORIES:College,Alabama
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020372@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261122T030000Z
+DTEND:20261122T060000Z
+SUMMARY:NHL: Seattle Kraken at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: KONG / NBCSCA / Prim
+ e Video. Availability varies by country and provider.\n\nOfficial schedule
+ : https://www.nhl.com/gamecenter/sea-vs-sjs/2026/11/21/2026020372
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/sea-vs-sjs/2026/11/21/2026020372
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020373@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261122T173000Z
+DTEND:20261122T203000Z
+SUMMARY:NHL: Carolina Hurricanes at New York Rangers
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / M
+ SG / SN1 / TVAS. Availability varies by country and provider.\n\nOfficial 
+ schedule: https://www.nhl.com/gamecenter/car-vs-nyr/2026/11/22/2026020373
+LOCATION:Madison Square Garden
+URL:https://www.nhl.com/gamecenter/car-vs-nyr/2026/11/22/2026020373
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -3969,6 +4962,46 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:nhl-2026020384@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261124T030000Z
+DTEND:20261124T060000Z
+SUMMARY:NHL: Minnesota Wild at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: MINNHL / NBCSCA / SN
+  / SN360 / Wild+. Availability varies by country and provider.\n\nOfficial
+  schedule: https://www.nhl.com/gamecenter/min-vs-sjs/2026/11/23/2026020384
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/min-vs-sjs/2026/11/23/2026020384
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020388@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261126T000000Z
+DTEND:20261126T030000Z
+SUMMARY:NHL: Carolina Hurricanes at Tampa Bay Lightning
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: HBO MAX / TNT / 
+ truTV. Availability varies by country and provider.\n\nOfficial schedule: 
+ https://www.nhl.com/gamecenter/car-vs-tbl/2026/11/25/2026020388
+LOCATION:Benchmark International Arena
+URL:https://www.nhl.com/gamecenter/car-vs-tbl/2026/11/25/2026020388
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nfl-401873079@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T144637Z
@@ -3985,6 +5018,26 @@ DESCRIPTION:Standalone NFL game outside the regular Sunday afternoon slate.
 LOCATION:SoFi Stadium\, Inglewood\, CA\, USA
 URL:https://www.espn.com/nfl/game/_/gameId/401873079/packers-rams
 CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020398@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261126T030000Z
+DTEND:20261126T060000Z
+SUMMARY:NHL: San Jose Sharks at Anaheim Ducks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: KCOP-13 / NBCSCA / P
+ rime Video. Availability varies by country and provider.\n\nOfficial sched
+ ule: https://www.nhl.com/gamecenter/sjs-vs-ana/2026/11/25/2026020398
+LOCATION:Honda Center
+URL:https://www.nhl.com/gamecenter/sjs-vs-ana/2026/11/25/2026020398
+CATEGORIES:NHL,Regular season,San Jose Sharks
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -4107,6 +5160,26 @@ LOCATION:Doak Campbell Stadium\, Tallahassee\, FL\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856759/florida-f
  lorida-st
 CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020410@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261127T210000Z
+DTEND:20261128T000000Z
+SUMMARY:NHL: Vegas Golden Knights at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SCRIPPS / S
+ N. Availability varies by country and provider.\n\nOfficial schedule: http
+ s://www.nhl.com/gamecenter/vgk-vs-sjs/2026/11/27/2026020410
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/vgk-vs-sjs/2026/11/27/2026020410
+CATEGORIES:NHL,Regular season,San Jose Sharks
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -4298,6 +5371,46 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:nhl-2026020421@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261129T000000Z
+DTEND:20261129T030000Z
+SUMMARY:NHL: Ottawa Senators at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / S
+ NE / TVAS. Availability varies by country and provider.\n\nOfficial schedu
+ le: https://www.nhl.com/gamecenter/ott-vs-car/2026/11/28/2026020421
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/ott-vs-car/2026/11/28/2026020421
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020425@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261129T020000Z
+DTEND:20261129T050000Z
+SUMMARY:NHL: San Jose Sharks at Colorado Avalanche
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: ALT / NBCSCA. Availa
+ bility varies by country and provider.\n\nOfficial schedule: https://www.n
+ hl.com/gamecenter/sjs-vs-col/2026/11/28/2026020425
+LOCATION:Ball Arena
+URL:https://www.nhl.com/gamecenter/sjs-vs-col/2026/11/28/2026020425
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:redzone-2026-11-29@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -4337,6 +5450,26 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:nhl-2026020431@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261201T000000Z
+DTEND:20261201T030000Z
+SUMMARY:NHL: Carolina Hurricanes at New York Rangers
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / M
+ SG. Availability varies by country and provider.\n\nOfficial schedule: htt
+ ps://www.nhl.com/gamecenter/car-vs-nyr/2026/11/30/2026020431
+LOCATION:Madison Square Garden
+URL:https://www.nhl.com/gamecenter/car-vs-nyr/2026/11/30/2026020431
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nfl-401873094@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T144637Z
@@ -4353,6 +5486,26 @@ DESCRIPTION:Monday Night Football.\n\nTeams: Carolina Panthers at Tampa Bay
 LOCATION:Raymond James Stadium\, Tampa\, FL\, USA
 URL:https://www.espn.com/nfl/game/_/gameId/401873094/panthers-buccaneers
 CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020437@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261202T003000Z
+DTEND:20261202T033000Z
+SUMMARY:NHL: San Jose Sharks at New Jersey Devils
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: Disney+ / ESPN+ / HU
+ LU / SN+. Availability varies by country and provider.\n\nOfficial schedul
+ e: https://www.nhl.com/gamecenter/sjs-vs-njd/2026/12/01/2026020437
+LOCATION:Prudential Center
+URL:https://www.nhl.com/gamecenter/sjs-vs-njd/2026/12/01/2026020437
+CATEGORIES:NHL,Regular season,San Jose Sharks
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -4375,6 +5528,46 @@ URL:https://www.espn.com/college-football/game/_/gameId/401869535/tbd-tbd
 CATEGORIES:College
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020451@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261204T000000Z
+DTEND:20261204T030000Z
+SUMMARY:NHL: San Jose Sharks at New York Rangers
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: MSG / NBCSCA. Availa
+ bility varies by country and provider.\n\nOfficial schedule: https://www.n
+ hl.com/gamecenter/sjs-vs-nyr/2026/12/03/2026020451
+LOCATION:Madison Square Garden
+URL:https://www.nhl.com/gamecenter/sjs-vs-nyr/2026/12/03/2026020451
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020453@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261204T000000Z
+DTEND:20261204T030000Z
+SUMMARY:NHL: Columbus Blue Jackets at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / CBJHN /
+  CBJNHL / HHN. Availability varies by country and provider.\n\nOfficial sc
+ hedule: https://www.nhl.com/gamecenter/cbj-vs-car/2026/12/03/2026020453
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/cbj-vs-car/2026/12/03/2026020453
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401873096@football-watchlist
@@ -4413,6 +5606,26 @@ DESCRIPTION:Conference championship.\n\nSun Belt Championship\n\nTeams: TBD
 LOCATION:
 URL:https://www.espn.com/college-football/game/_/gameId/401869546/tbd-tbd
 CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020460@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261205T000000Z
+DTEND:20261205T030000Z
+SUMMARY:NHL: San Jose Sharks at New York Islanders
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: MSGSN / NBCSCA / TVA
+ S. Availability varies by country and provider.\n\nOfficial schedule: http
+ s://www.nhl.com/gamecenter/sjs-vs-nyi/2026/12/04/2026020460
+LOCATION:UBS Arena
+URL:https://www.nhl.com/gamecenter/sjs-vs-nyi/2026/12/04/2026020460
+CATEGORIES:NHL,Regular season,San Jose Sharks
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -4534,6 +5747,26 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:nhl-2026020471@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261206T000000Z
+DTEND:20261206T030000Z
+SUMMARY:NHL: Toronto Maple Leafs at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / S
+ N. Availability varies by country and provider.\n\nOfficial schedule: http
+ s://www.nhl.com/gamecenter/tor-vs-car/2026/12/05/2026020471
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/tor-vs-car/2026/12/05/2026020471
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:college-football-401869532@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -4593,6 +5826,26 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:nhl-2026020476@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261206T200000Z
+DTEND:20261206T230000Z
+SUMMARY:NHL: San Jose Sharks at Pittsburgh Penguins
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SN-PIT / SN
+ 360 / TVAS. Availability varies by country and provider.\n\nOfficial sched
+ ule: https://www.nhl.com/gamecenter/sjs-vs-pit/2026/12/06/2026020476
+LOCATION:PPG Paints Arena
+URL:https://www.nhl.com/gamecenter/sjs-vs-pit/2026/12/06/2026020476
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nfl-401873107@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T144637Z
@@ -4632,6 +5885,66 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:nhl-2026020490@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261209T000000Z
+DTEND:20261209T030000Z
+SUMMARY:NHL: New York Rangers at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / M
+ SG. Availability varies by country and provider.\n\nOfficial schedule: htt
+ ps://www.nhl.com/gamecenter/nyr-vs-car/2026/12/08/2026020490
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/nyr-vs-car/2026/12/08/2026020490
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020495@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261209T030000Z
+DTEND:20261209T060000Z
+SUMMARY:NHL: Seattle Kraken at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: KONG / NBCSCA / Prim
+ e Video / SN. Availability varies by country and provider.\n\nOfficial sch
+ edule: https://www.nhl.com/gamecenter/sea-vs-sjs/2026/12/08/2026020495
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/sea-vs-sjs/2026/12/08/2026020495
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020498@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261210T023000Z
+DTEND:20261210T053000Z
+SUMMARY:NHL: San Jose Sharks at Los Angeles Kings
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: HBO MAX / TNT / truT
+ V. Availability varies by country and provider.\n\nOfficial schedule: http
+ s://www.nhl.com/gamecenter/sjs-vs-lak/2026/12/09/2026020498
+LOCATION:Crypto.com Arena
+URL:https://www.nhl.com/gamecenter/sjs-vs-lak/2026/12/09/2026020498
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nfl-401873109@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T144637Z
@@ -4652,6 +5965,46 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:nhl-2026020512@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261212T000000Z
+DTEND:20261212T030000Z
+SUMMARY:NHL: New York Islanders at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / M
+ SGSN / SN+. Availability varies by country and provider.\n\nOfficial sched
+ ule: https://www.nhl.com/gamecenter/nyi-vs-car/2026/12/11/2026020512
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/nyi-vs-car/2026/12/11/2026020512
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020513@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261212T030000Z
+DTEND:20261212T060000Z
+SUMMARY:NHL: Los Angeles Kings at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: ABTV  / NBCSCA / SN.
+  Availability varies by country and provider.\n\nOfficial schedule: https:
+ //www.nhl.com/gamecenter/lak-vs-sjs/2026/12/11/2026020513
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/lak-vs-sjs/2026/12/11/2026020513
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:college-football-401862844@football-watchlist
 DTSTAMP:20260905T145457Z
 CREATED:20260905T144637Z
@@ -4668,6 +6021,26 @@ DESCRIPTION:Major rivalry: Army-Navy.\n\nTeams: Navy Midshipmen at Army Bla
 LOCATION:MetLife Stadium\, East Rutherford\, NJ\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401862844/navy-army
 CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020527@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261213T180000Z
+DTEND:20261213T210000Z
+SUMMARY:NHL: Boston Bruins at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / N
+ ESN / SN / TVAS. Availability varies by country and provider.\n\nOfficial 
+ schedule: https://www.nhl.com/gamecenter/bos-vs-car/2026/12/13/2026020527
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/bos-vs-car/2026/12/13/2026020527
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -4730,6 +6103,66 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:nhl-2026020535@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261215T030000Z
+DTEND:20261215T060000Z
+SUMMARY:NHL: Vancouver Canucks at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SN+. Availa
+ bility varies by country and provider.\n\nOfficial schedule: https://www.n
+ hl.com/gamecenter/van-vs-sjs/2026/12/14/2026020535
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/van-vs-sjs/2026/12/14/2026020535
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020541@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261216T000000Z
+DTEND:20261216T030000Z
+SUMMARY:NHL: Carolina Hurricanes at Columbus Blue Jackets
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / CBJHN /
+  CBJNHL / HHN. Availability varies by country and provider.\n\nOfficial sc
+ hedule: https://www.nhl.com/gamecenter/car-vs-cbj/2026/12/15/2026020541
+LOCATION:Nationwide Arena
+URL:https://www.nhl.com/gamecenter/car-vs-cbj/2026/12/15/2026020541
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020550@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261217T030000Z
+DTEND:20261217T060000Z
+SUMMARY:NHL: San Jose Sharks at Vegas Golden Knights
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: HBO MAX / TNT / truT
+ V. Availability varies by country and provider.\n\nOfficial schedule: http
+ s://www.nhl.com/gamecenter/sjs-vs-vgk/2026/12/16/2026020550
+LOCATION:T-Mobile Arena
+URL:https://www.nhl.com/gamecenter/sjs-vs-vgk/2026/12/16/2026020550
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nfl-401873124@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T144637Z
@@ -4750,6 +6183,27 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:nhl-2026020558@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261218T020000Z
+DTEND:20261218T050000Z
+SUMMARY:NHL: Carolina Hurricanes at Utah Mammoth
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / S
+ N+ / TVAS / Utah16. Availability varies by country and provider.\n\nOffici
+ al schedule: https://www.nhl.com/gamecenter/car-vs-uta/2026/12/17/20260205
+ 58
+LOCATION:Delta Center
+URL:https://www.nhl.com/gamecenter/car-vs-uta/2026/12/17/2026020558
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:college-football-401874295@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -4766,6 +6220,26 @@ DESCRIPTION:College Football Playoff: every round.\n\nCollege Football Play
 LOCATION:
 URL:https://www.espn.com/college-football/game/_/gameId/401874295/tbd-tbd
 CATEGORIES:College,Playoffs
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020565@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261219T020000Z
+DTEND:20261219T050000Z
+SUMMARY:NHL: Carolina Hurricanes at Colorado Avalanche
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: ALT / CARNHL / H
+ HN. Availability varies by country and provider.\n\nOfficial schedule: htt
+ ps://www.nhl.com/gamecenter/car-vs-col/2026/12/18/2026020565
+LOCATION:Ball Arena
+URL:https://www.nhl.com/gamecenter/car-vs-col/2026/12/18/2026020565
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -4870,6 +6344,26 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:nhl-2026020575@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261220T030000Z
+DTEND:20261220T060000Z
+SUMMARY:NHL: San Jose Sharks at Vancouver Canucks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SN. Availab
+ ility varies by country and provider.\n\nOfficial schedule: https://www.nh
+ l.com/gamecenter/sjs-vs-van/2026/12/19/2026020575
+LOCATION:Rogers Arena
+URL:https://www.nhl.com/gamecenter/sjs-vs-van/2026/12/19/2026020575
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:redzone-2026-12-20@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -4924,6 +6418,47 @@ DESCRIPTION:Monday Night Football.\n\nTeams: New England Patriots at Kansas
 LOCATION:Arrowhead Stadium\, Kansas City\, MO\, USA
 URL:https://www.espn.com/nfl/game/_/gameId/401873139/patriots-chiefs
 CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020589@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261222T030000Z
+DTEND:20261222T060000Z
+SUMMARY:NHL: Carolina Hurricanes at Vegas Golden Knights
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / S
+ CRIPPS / TVAS. Availability varies by country and provider.\n\nOfficial sc
+ hedule: https://www.nhl.com/gamecenter/car-vs-vgk/2026/12/21/2026020589
+LOCATION:T-Mobile Arena
+URL:https://www.nhl.com/gamecenter/car-vs-vgk/2026/12/21/2026020589
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020599@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261223T024000Z
+DTEND:20261223T054000Z
+SUMMARY:NHL: San Jose Sharks at Seattle Kraken
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: KONG / NBCSCA / Prim
+ e Video / SN / SN360. Availability varies by country and provider.\n\nOffi
+ cial schedule: https://www.nhl.com/gamecenter/sjs-vs-sea/2026/12/22/202602
+ 0599
+LOCATION:Climate Pledge Arena
+URL:https://www.nhl.com/gamecenter/sjs-vs-sea/2026/12/22/2026020599
+CATEGORIES:NHL,Regular season,San Jose Sharks
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -5008,6 +6543,46 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:nhl-2026020606@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261227T000000Z
+DTEND:20261227T030000Z
+SUMMARY:NHL: Pittsburgh Penguins at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / S
+ N-PIT. Availability varies by country and provider.\n\nOfficial schedule: 
+ https://www.nhl.com/gamecenter/pit-vs-car/2026/12/26/2026020606
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/pit-vs-car/2026/12/26/2026020606
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020611@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261227T030000Z
+DTEND:20261227T060000Z
+SUMMARY:NHL: Vegas Golden Knights at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SCRIPPS / T
+ VAS2. Availability varies by country and provider.\n\nOfficial schedule: h
+ ttps://www.nhl.com/gamecenter/vgk-vs-sjs/2026/12/26/2026020611
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/vgk-vs-sjs/2026/12/26/2026020611
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:redzone-2026-12-27@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -5046,6 +6621,46 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:nhl-2026020623@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261229T000000Z
+DTEND:20261229T030000Z
+SUMMARY:NHL: Tampa Bay Lightning at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / T
+ he Spot. Availability varies by country and provider.\n\nOfficial schedule
+ : https://www.nhl.com/gamecenter/tbl-vs-car/2026/12/28/2026020623
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/tbl-vs-car/2026/12/28/2026020623
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020624@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261229T003000Z
+DTEND:20261229T033000Z
+SUMMARY:NHL: San Jose Sharks at Winnipeg Jets
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SN+. Availa
+ bility varies by country and provider.\n\nOfficial schedule: https://www.n
+ hl.com/gamecenter/sjs-vs-wpg/2026/12/28/2026020624
+LOCATION:Canada Life Centre
+URL:https://www.nhl.com/gamecenter/sjs-vs-wpg/2026/12/28/2026020624
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nfl-401873155@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T144637Z
@@ -5061,6 +6676,46 @@ DESCRIPTION:Monday Night Football.\n\nTeams: New York Giants at Detroit Lio
 LOCATION:Ford Field\, Detroit\, MI\, USA
 URL:https://www.espn.com/nfl/game/_/gameId/401873155/giants-lions
 CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020630@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261230T000000Z
+DTEND:20261230T030000Z
+SUMMARY:NHL: Carolina Hurricanes at Pittsburgh Penguins
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / S
+ N / SN-PIT. Availability varies by country and provider.\n\nOfficial sched
+ ule: https://www.nhl.com/gamecenter/car-vs-pit/2026/12/29/2026020630
+LOCATION:PPG Paints Arena
+URL:https://www.nhl.com/gamecenter/car-vs-pit/2026/12/29/2026020630
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020632@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261230T010000Z
+DTEND:20261230T040000Z
+SUMMARY:NHL: San Jose Sharks at Calgary Flames
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SNW. Availa
+ bility varies by country and provider.\n\nOfficial schedule: https://www.n
+ hl.com/gamecenter/sjs-vs-cgy/2026/12/29/2026020632
+LOCATION:Scotiabank Saddledome
+URL:https://www.nhl.com/gamecenter/sjs-vs-cgy/2026/12/29/2026020632
+CATEGORIES:NHL,Regular season,San Jose Sharks
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -5081,6 +6736,26 @@ DESCRIPTION:College Football Playoff: every round.\n\nCollege Football Play
 LOCATION:State Farm Stadium\, Glendale\, AZ\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401874299/tbd-tbd
 CATEGORIES:College,Playoffs
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020643@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20261231T190000Z
+DTEND:20261231T220000Z
+SUMMARY:NHL: Carolina Hurricanes at Detroit Red Wings
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / DSN / H
+ HN / SN+. Availability varies by country and provider.\n\nOfficial schedul
+ e: https://www.nhl.com/gamecenter/car-vs-det/2026/12/31/2026020643
+LOCATION:Little Caesars Arena
+URL:https://www.nhl.com/gamecenter/car-vs-det/2026/12/31/2026020643
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -5143,6 +6818,26 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:nhl-2026020653@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270101T210000Z
+DTEND:20270102T000000Z
+SUMMARY:NHL: Philadelphia Flyers at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / NBCSP. Avai
+ lability varies by country and provider.\n\nOfficial schedule: https://www
+ .nhl.com/gamecenter/phi-vs-sjs/2027/01/01/2026020653
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/phi-vs-sjs/2027/01/01/2026020653
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:cfp-2026-jan1-slot-3@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -5158,6 +6853,46 @@ DESCRIPTION:Confirmed CFP quarterfinal broadcast window. Cotton\, Peach and
 LOCATION:Venue to be announced
 URL:https://collegefootballplayoff.com/news/2026/6/1/26-27-broadcast-sked
 CATEGORIES:College,Playoffs
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020659@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270103T000000Z
+DTEND:20270103T030000Z
+SUMMARY:NHL: Nashville Predators at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / S
+ CRIPPS. Availability varies by country and provider.\n\nOfficial schedule:
+  https://www.nhl.com/gamecenter/nsh-vs-car/2027/01/02/2026020659
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/nsh-vs-car/2027/01/02/2026020659
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020663@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270103T000000Z
+DTEND:20270103T030000Z
+SUMMARY:NHL: Toronto Maple Leafs at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SN. Availab
+ ility varies by country and provider.\n\nOfficial schedule: https://www.nh
+ l.com/gamecenter/tor-vs-sjs/2027/01/02/2026020663
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/tor-vs-sjs/2027/01/02/2026020663
+CATEGORIES:NHL,Regular season,San Jose Sharks
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -5219,6 +6954,146 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:nhl-2026020680@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270105T030000Z
+DTEND:20270105T060000Z
+SUMMARY:NHL: New Jersey Devils at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: MSGSN / NBCSCA / SN+
+ . Availability varies by country and provider.\n\nOfficial schedule: https
+ ://www.nhl.com/gamecenter/njd-vs-sjs/2027/01/04/2026020680
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/njd-vs-sjs/2027/01/04/2026020680
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020681@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270106T000000Z
+DTEND:20270106T030000Z
+SUMMARY:NHL: St. Louis Blues at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: BN+ / CARNHL / H
+ HN / STLNHL. Availability varies by country and provider.\n\nOfficial sche
+ dule: https://www.nhl.com/gamecenter/stl-vs-car/2027/01/05/2026020681
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/stl-vs-car/2027/01/05/2026020681
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020693@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270107T030000Z
+DTEND:20270107T060000Z
+SUMMARY:NHL: Dallas Stars at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / Prime Video
+ . Availability varies by country and provider.\n\nOfficial schedule: https
+ ://www.nhl.com/gamecenter/dal-vs-sjs/2027/01/06/2026020693
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/dal-vs-sjs/2027/01/06/2026020693
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020698@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270108T000000Z
+DTEND:20270108T030000Z
+SUMMARY:NHL: Pittsburgh Penguins at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / S
+ N-PIT / TVAS. Availability varies by country and provider.\n\nOfficial sch
+ edule: https://www.nhl.com/gamecenter/pit-vs-car/2027/01/07/2026020698
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/pit-vs-car/2027/01/07/2026020698
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020708@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270109T030000Z
+DTEND:20270109T060000Z
+SUMMARY:NHL: Washington Capitals at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: MNMT2 / NBCSCA / TVA
+ S. Availability varies by country and provider.\n\nOfficial schedule: http
+ s://www.nhl.com/gamecenter/wsh-vs-sjs/2027/01/08/2026020708
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/wsh-vs-sjs/2027/01/08/2026020708
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020712@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270110T000000Z
+DTEND:20270110T030000Z
+SUMMARY:NHL: Carolina Hurricanes at Buffalo Sabres
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / M
+ SG-B. Availability varies by country and provider.\n\nOfficial schedule: h
+ ttps://www.nhl.com/gamecenter/car-vs-buf/2027/01/09/2026020712
+LOCATION:KeyBank Center
+URL:https://www.nhl.com/gamecenter/car-vs-buf/2027/01/09/2026020712
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020721@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270110T030000Z
+DTEND:20270110T060000Z
+SUMMARY:NHL: New York Rangers at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: MSG / NBCSCA. Availa
+ bility varies by country and provider.\n\nOfficial schedule: https://www.n
+ hl.com/gamecenter/nyr-vs-sjs/2027/01/09/2026020721
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/nyr-vs-sjs/2027/01/09/2026020721
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:redzone-2027-01-10@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -5234,6 +7109,66 @@ LOCATION:NFL RedZone
 URL:https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-Re
  dZone
 CATEGORIES:NFL,RedZone
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020728@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270113T000000Z
+DTEND:20270113T030000Z
+SUMMARY:NHL: Carolina Hurricanes at Boston Bruins
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / N
+ ESN. Availability varies by country and provider.\n\nOfficial schedule: ht
+ tps://www.nhl.com/gamecenter/car-vs-bos/2027/01/12/2026020728
+LOCATION:TD Garden
+URL:https://www.nhl.com/gamecenter/car-vs-bos/2027/01/12/2026020728
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020741@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270114T020000Z
+DTEND:20270114T050000Z
+SUMMARY:NHL: San Jose Sharks at Edmonton Oilers
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SNW. Availa
+ bility varies by country and provider.\n\nOfficial schedule: https://www.n
+ hl.com/gamecenter/sjs-vs-edm/2027/01/13/2026020741
+LOCATION:Rogers Place
+URL:https://www.nhl.com/gamecenter/sjs-vs-edm/2027/01/13/2026020741
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020748@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270115T000000Z
+DTEND:20270115T030000Z
+SUMMARY:NHL: Carolina Hurricanes at Washington Capitals
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / M
+ NMT. Availability varies by country and provider.\n\nOfficial schedule: ht
+ tps://www.nhl.com/gamecenter/car-vs-wsh/2027/01/14/2026020748
+LOCATION:Capital One Arena
+URL:https://www.nhl.com/gamecenter/car-vs-wsh/2027/01/14/2026020748
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -5254,6 +7189,26 @@ DESCRIPTION:College Football Playoff: every round.\n\nCollege Football Play
 LOCATION:Hard Rock Stadium\, Miami Gardens\, FL\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401874300/tbd-tbd
 CATEGORIES:College,Playoffs
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020750@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270115T010000Z
+DTEND:20270115T040000Z
+SUMMARY:NHL: San Jose Sharks at Calgary Flames
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SNW. Availa
+ bility varies by country and provider.\n\nOfficial schedule: https://www.n
+ hl.com/gamecenter/sjs-vs-cgy/2027/01/14/2026020750
+LOCATION:Scotiabank Saddledome
+URL:https://www.nhl.com/gamecenter/sjs-vs-cgy/2027/01/14/2026020750
+CATEGORIES:NHL,Regular season,San Jose Sharks
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -5294,6 +7249,26 @@ URL:https://www.espn.com/nfl/game/_/gameId/401872911/tbd-tbd
 CATEGORIES:NFL,Playoffs
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020755@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270116T000000Z
+DTEND:20270116T030000Z
+SUMMARY:NHL: Philadelphia Flyers at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / N
+ BCSP / TVAS. Availability varies by country and provider.\n\nOfficial sche
+ dule: https://www.nhl.com/gamecenter/phi-vs-car/2027/01/15/2026020755
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/phi-vs-car/2027/01/15/2026020755
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401874301@football-watchlist
@@ -5373,6 +7348,47 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:nhl-2026020771@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270117T030000Z
+DTEND:20270117T060000Z
+SUMMARY:NHL: San Jose Sharks at Seattle Kraken
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: KONG / NBCSCA / Prim
+ e Video. Availability varies by country and provider.\n\nOfficial schedule
+ : https://www.nhl.com/gamecenter/sjs-vs-sea/2027/01/16/2026020771
+LOCATION:Climate Pledge Arena
+URL:https://www.nhl.com/gamecenter/sjs-vs-sea/2027/01/16/2026020771
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020774@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270117T230000Z
+DTEND:20270118T020000Z
+SUMMARY:NHL: Vegas Golden Knights at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / S
+ CRIPPS / SN / SN360 / TVAS. Availability varies by country and provider.\n
+ \nOfficial schedule: https://www.nhl.com/gamecenter/vgk-vs-car/2027/01/17/
+ 2026020774
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/vgk-vs-car/2027/01/17/2026020774
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nfl-401872915@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -5390,6 +7406,47 @@ URL:https://www.espn.com/nfl/game/_/gameId/401872915/tbd-tbd
 CATEGORIES:NFL,Playoffs
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020781@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270118T210000Z
+DTEND:20270119T000000Z
+SUMMARY:NHL: Utah Mammoth at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / Utah16. Ava
+ ilability varies by country and provider.\n\nOfficial schedule: https://ww
+ w.nhl.com/gamecenter/uta-vs-sjs/2027/01/18/2026020781
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/uta-vs-sjs/2027/01/18/2026020781
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020800@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270122T000000Z
+DTEND:20270122T030000Z
+SUMMARY:NHL: Carolina Hurricanes at Florida Panthers
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / S
+ CRIPPS / SN / TVAS. Availability varies by country and provider.\n\nOffici
+ al schedule: https://www.nhl.com/gamecenter/car-vs-fla/2027/01/21/20260208
+ 00
+LOCATION:Amerant Bank Arena
+URL:https://www.nhl.com/gamecenter/car-vs-fla/2027/01/21/2026020800
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401872916@football-watchlist
@@ -5468,6 +7525,46 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:nhl-2026020817@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270124T000000Z
+DTEND:20270124T030000Z
+SUMMARY:NHL: Anaheim Ducks at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / P
+ rime Video. Availability varies by country and provider.\n\nOfficial sched
+ ule: https://www.nhl.com/gamecenter/ana-vs-car/2027/01/23/2026020817
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/ana-vs-car/2027/01/23/2026020817
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020823@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270124T030000Z
+DTEND:20270124T060000Z
+SUMMARY:NHL: Edmonton Oilers at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SN / TVAS. 
+ Availability varies by country and provider.\n\nOfficial schedule: https:/
+ /www.nhl.com/gamecenter/edm-vs-sjs/2027/01/23/2026020823
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/edm-vs-sjs/2027/01/23/2026020823
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:college-football-401874322@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -5484,6 +7581,106 @@ DESCRIPTION:College Football Playoff: every round.\n\nCollege Football Play
 LOCATION:Allegiant Stadium\, Las Vegas\, NV\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401874322/tbd-tbd
 CATEGORIES:College,Playoffs
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020832@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270126T003000Z
+DTEND:20270126T033000Z
+SUMMARY:NHL: Carolina Hurricanes at Ottawa Senators
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / S
+ N+ / TVAS. Availability varies by country and provider.\n\nOfficial schedu
+ le: https://www.nhl.com/gamecenter/car-vs-ott/2027/01/25/2026020832
+LOCATION:Canadian Tire Centre
+URL:https://www.nhl.com/gamecenter/car-vs-ott/2027/01/25/2026020832
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020836@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270127T000000Z
+DTEND:20270127T030000Z
+SUMMARY:NHL: Carolina Hurricanes at Montréal Canadiens
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / R
+ DS / TSN2. Availability varies by country and provider.\n\nOfficial schedu
+ le: https://www.nhl.com/gamecenter/car-vs-mtl/2027/01/26/2026020836
+LOCATION:Centre Bell
+URL:https://www.nhl.com/gamecenter/car-vs-mtl/2027/01/26/2026020836
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020851@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270128T233000Z
+DTEND:20270129T023000Z
+SUMMARY:NHL: New York Islanders at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: HBO MAX / SN+ / 
+ TNT / truTV. Availability varies by country and provider.\n\nOfficial sche
+ dule: https://www.nhl.com/gamecenter/nyi-vs-car/2027/01/28/2026020851
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/nyi-vs-car/2027/01/28/2026020851
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020860@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270129T030000Z
+DTEND:20270129T060000Z
+SUMMARY:NHL: Nashville Predators at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SCRIPPS. Av
+ ailability varies by country and provider.\n\nOfficial schedule: https://w
+ ww.nhl.com/gamecenter/nsh-vs-sjs/2027/01/28/2026020860
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/nsh-vs-sjs/2027/01/28/2026020860
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020867@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270130T210000Z
+DTEND:20270131T000000Z
+SUMMARY:NHL: Chicago Blackhawks at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: CHSN / NBCSCA. Avail
+ ability varies by country and provider.\n\nOfficial schedule: https://www.
+ nhl.com/gamecenter/chi-vs-sjs/2027/01/30/2026020867
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/chi-vs-sjs/2027/01/30/2026020867
+CATEGORIES:NHL,Regular season,San Jose Sharks
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -5526,6 +7723,128 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:nhl-2026020872@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270131T000000Z
+DTEND:20270131T030000Z
+SUMMARY:NHL: Los Angeles Kings at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: ABTV  / CARNHL /
+  HHN. Availability varies by country and provider.\n\nOfficial schedule: h
+ ttps://www.nhl.com/gamecenter/lak-vs-car/2027/01/30/2026020872
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/lak-vs-car/2027/01/30/2026020872
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020898@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270210T003000Z
+DTEND:20270210T033000Z
+SUMMARY:NHL: Colorado Avalanche at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: Disney+ / ESPN+ 
+ / HULU / SN / TVAS. Availability varies by country and provider.\n\nOffici
+ al schedule: https://www.nhl.com/gamecenter/col-vs-car/2027/02/09/20260208
+ 98
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/col-vs-car/2027/02/09/2026020898
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020902@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270211T030000Z
+DTEND:20270211T060000Z
+SUMMARY:NHL: Chicago Blackhawks at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: HBO MAX / TNT / truT
+ V. Availability varies by country and provider.\n\nOfficial schedule: http
+ s://www.nhl.com/gamecenter/chi-vs-sjs/2027/02/10/2026020902
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/chi-vs-sjs/2027/02/10/2026020902
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020904@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270212T003000Z
+DTEND:20270212T033000Z
+SUMMARY:NHL: Minnesota Wild at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: HBO MAX / SN / T
+ NT / TVAS / truTV. Availability varies by country and provider.\n\nOfficia
+ l schedule: https://www.nhl.com/gamecenter/min-vs-car/2027/02/11/202602090
+ 4
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/min-vs-car/2027/02/11/2026020904
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020914@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270213T210000Z
+DTEND:20270214T000000Z
+SUMMARY:NHL: Detroit Red Wings at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: DSN / NBCSCA / SN1. 
+ Availability varies by country and provider.\n\nOfficial schedule: https:/
+ /www.nhl.com/gamecenter/det-vs-sjs/2027/02/13/2026020914
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/det-vs-sjs/2027/02/13/2026020914
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020921@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270214T000000Z
+DTEND:20270214T030000Z
+SUMMARY:NHL: Buffalo Sabres at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / M
+ SG-B. Availability varies by country and provider.\n\nOfficial schedule: h
+ ttps://www.nhl.com/gamecenter/buf-vs-car/2027/02/13/2026020921
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/buf-vs-car/2027/02/13/2026020921
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nfl-401873270@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -5542,6 +7861,1031 @@ DESCRIPTION:NFL playoffs: every postseason game.\n\nSuper Bowl LXI\n\nTeams
 LOCATION:SoFi Stadium\, Inglewood\, CA\, USA
 URL:https://www.espn.com/nfl/game/_/gameId/401873270/tbd-tbd
 CATEGORIES:NFL,Playoffs
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020935@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270216T003000Z
+DTEND:20270216T033000Z
+SUMMARY:NHL: Winnipeg Jets at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SN+. Availa
+ bility varies by country and provider.\n\nOfficial schedule: https://www.n
+ hl.com/gamecenter/wpg-vs-sjs/2027/02/15/2026020935
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/wpg-vs-sjs/2027/02/15/2026020935
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020939@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270217T000000Z
+DTEND:20270217T030000Z
+SUMMARY:NHL: Carolina Hurricanes at Toronto Maple Leafs
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / T
+ SN4. Availability varies by country and provider.\n\nOfficial schedule: ht
+ tps://www.nhl.com/gamecenter/car-vs-tor/2027/02/16/2026020939
+LOCATION:Scotiabank Arena
+URL:https://www.nhl.com/gamecenter/car-vs-tor/2027/02/16/2026020939
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020951@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270219T000000Z
+DTEND:20270219T030000Z
+SUMMARY:NHL: Carolina Hurricanes at Buffalo Sabres
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / M
+ SG-B / SN. Availability varies by country and provider.\n\nOfficial schedu
+ le: https://www.nhl.com/gamecenter/car-vs-buf/2027/02/18/2026020951
+LOCATION:KeyBank Center
+URL:https://www.nhl.com/gamecenter/car-vs-buf/2027/02/18/2026020951
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020961@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270220T000000Z
+DTEND:20270220T030000Z
+SUMMARY:NHL: San Jose Sharks at Washington Capitals
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: MNMT / NBCSCA / TVAS
+ . Availability varies by country and provider.\n\nOfficial schedule: https
+ ://www.nhl.com/gamecenter/sjs-vs-wsh/2027/02/19/2026020961
+LOCATION:Capital One Arena
+URL:https://www.nhl.com/gamecenter/sjs-vs-wsh/2027/02/19/2026020961
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020962@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270220T000000Z
+DTEND:20270220T030000Z
+SUMMARY:NHL: Detroit Red Wings at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / DSN / H
+ HN. Availability varies by country and provider.\n\nOfficial schedule: htt
+ ps://www.nhl.com/gamecenter/det-vs-car/2027/02/19/2026020962
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/det-vs-car/2027/02/19/2026020962
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020977@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270221T180000Z
+DTEND:20270221T210000Z
+SUMMARY:NHL: New York Rangers at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: HBO MAX / SN / T
+ NT / truTV. Availability varies by country and provider.\n\nOfficial sched
+ ule: https://www.nhl.com/gamecenter/nyr-vs-car/2027/02/21/2026020977
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/nyr-vs-car/2027/02/21/2026020977
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020980@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270221T230000Z
+DTEND:20270222T020000Z
+SUMMARY:NHL: San Jose Sharks at Florida Panthers
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SCRIPPS / S
+ N / TVAS. Availability varies by country and provider.\n\nOfficial schedul
+ e: https://www.nhl.com/gamecenter/sjs-vs-fla/2027/02/21/2026020980
+LOCATION:Amerant Bank Arena
+URL:https://www.nhl.com/gamecenter/sjs-vs-fla/2027/02/21/2026020980
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020992@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270224T000000Z
+DTEND:20270224T030000Z
+SUMMARY:NHL: San Jose Sharks at Tampa Bay Lightning
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SN / TVAS /
+  The Spot. Availability varies by country and provider.\n\nOfficial schedu
+ le: https://www.nhl.com/gamecenter/sjs-vs-tbl/2027/02/23/2026020992
+LOCATION:Benchmark International Arena
+URL:https://www.nhl.com/gamecenter/sjs-vs-tbl/2027/02/23/2026020992
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026020993@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270224T003000Z
+DTEND:20270224T033000Z
+SUMMARY:NHL: Carolina Hurricanes at New Jersey Devils
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: Disney+ / ESPN+ 
+ / HULU / SN+. Availability varies by country and provider.\n\nOfficial sch
+ edule: https://www.nhl.com/gamecenter/car-vs-njd/2027/02/23/2026020993
+LOCATION:Prudential Center
+URL:https://www.nhl.com/gamecenter/car-vs-njd/2027/02/23/2026020993
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021006@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270226T000000Z
+DTEND:20270226T030000Z
+SUMMARY:NHL: San Jose Sharks at Carolina Hurricanes
+DESCRIPTION:Following San Jose Sharks and Carolina Hurricanes: every regula
+ r-season game and announced playoff game.\n\nViewing window: 3 hours\; fin
+ ish is approximate and playoff overtime can run longer.\n\nListed broadcas
+ ts: CARNHL / HHN / NBCSCA. Availability varies by country and provider.\n\
+ nOfficial schedule: https://www.nhl.com/gamecenter/sjs-vs-car/2027/02/25/2
+ 026021006
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/sjs-vs-car/2027/02/25/2026021006
+CATEGORIES:NHL,Regular season,San Jose Sharks,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021023@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270228T000000Z
+DTEND:20270228T030000Z
+SUMMARY:NHL: San Jose Sharks at Philadelphia Flyers
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / NBCSP. Avai
+ lability varies by country and provider.\n\nOfficial schedule: https://www
+ .nhl.com/gamecenter/sjs-vs-phi/2027/02/27/2026021023
+LOCATION:Xfinity Mobile Arena
+URL:https://www.nhl.com/gamecenter/sjs-vs-phi/2027/02/27/2026021023
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021024@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270228T000000Z
+DTEND:20270228T030000Z
+SUMMARY:NHL: Tampa Bay Lightning at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / T
+ he Spot. Availability varies by country and provider.\n\nOfficial schedule
+ : https://www.nhl.com/gamecenter/tbl-vs-car/2027/02/27/2026021024
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/tbl-vs-car/2027/02/27/2026021024
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021038@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270302T000000Z
+DTEND:20270302T030000Z
+SUMMARY:NHL: Carolina Hurricanes at Columbus Blue Jackets
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / CBJHN /
+  CBJNHL / HHN. Availability varies by country and provider.\n\nOfficial sc
+ hedule: https://www.nhl.com/gamecenter/car-vs-cbj/2027/03/01/2026021038
+LOCATION:Nationwide Arena
+URL:https://www.nhl.com/gamecenter/car-vs-cbj/2027/03/01/2026021038
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021042@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270302T030000Z
+DTEND:20270302T060000Z
+SUMMARY:NHL: Montréal Canadiens at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / RDS / TSN2.
+  Availability varies by country and provider.\n\nOfficial schedule: https:
+ //www.nhl.com/gamecenter/mtl-vs-sjs/2027/03/01/2026021042
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/mtl-vs-sjs/2027/03/01/2026021042
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021050@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270304T000000Z
+DTEND:20270304T030000Z
+SUMMARY:NHL: Carolina Hurricanes at Washington Capitals
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / M
+ NMT. Availability varies by country and provider.\n\nOfficial schedule: ht
+ tps://www.nhl.com/gamecenter/car-vs-wsh/2027/03/03/2026021050
+LOCATION:Capital One Arena
+URL:https://www.nhl.com/gamecenter/car-vs-wsh/2027/03/03/2026021050
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021055@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270304T030000Z
+DTEND:20270304T060000Z
+SUMMARY:NHL: Columbus Blue Jackets at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: CBJHN / CBJNHL / NBC
+ SCA. Availability varies by country and provider.\n\nOfficial schedule: ht
+ tps://www.nhl.com/gamecenter/cbj-vs-sjs/2027/03/03/2026021055
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/cbj-vs-sjs/2027/03/03/2026021055
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021065@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270306T000000Z
+DTEND:20270306T030000Z
+SUMMARY:NHL: Toronto Maple Leafs at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / T
+ SN4 / TVAS. Availability varies by country and provider.\n\nOfficial sched
+ ule: https://www.nhl.com/gamecenter/tor-vs-car/2027/03/05/2026021065
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/tor-vs-car/2027/03/05/2026021065
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021070@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270306T030000Z
+DTEND:20270306T060000Z
+SUMMARY:NHL: Colorado Avalanche at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: ALT / NBCSCA / SN360
+  / TVAS. Availability varies by country and provider.\n\nOfficial schedule
+ : https://www.nhl.com/gamecenter/col-vs-sjs/2027/03/05/2026021070
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/col-vs-sjs/2027/03/05/2026021070
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021079@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270307T030000Z
+DTEND:20270307T060000Z
+SUMMARY:NHL: Tampa Bay Lightning at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / The Spot. A
+ vailability varies by country and provider.\n\nOfficial schedule: https://
+ www.nhl.com/gamecenter/tbl-vs-sjs/2027/03/06/2026021079
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/tbl-vs-sjs/2027/03/06/2026021079
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021082@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270307T180000Z
+DTEND:20270307T210000Z
+SUMMARY:NHL: Utah Mammoth at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / S
+ N / Utah16. Availability varies by country and provider.\n\nOfficial sched
+ ule: https://www.nhl.com/gamecenter/uta-vs-car/2027/03/07/2026021082
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/uta-vs-car/2027/03/07/2026021082
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021098@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270310T010000Z
+DTEND:20270310T040000Z
+SUMMARY:NHL: Carolina Hurricanes at Minnesota Wild
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: Disney+ / ESPN+ 
+ / HULU / SN+. Availability varies by country and provider.\n\nOfficial sch
+ edule: https://www.nhl.com/gamecenter/car-vs-min/2027/03/09/2026021098
+LOCATION:Grand Casino Arena
+URL:https://www.nhl.com/gamecenter/car-vs-min/2027/03/09/2026021098
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021103@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270310T033000Z
+DTEND:20270310T063000Z
+SUMMARY:NHL: San Jose Sharks at Vegas Golden Knights
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: Disney+ / ESPN+ / HU
+ LU / SN / SN+. Availability varies by country and provider.\n\nOfficial sc
+ hedule: https://www.nhl.com/gamecenter/sjs-vs-vgk/2027/03/09/2026021103
+LOCATION:T-Mobile Arena
+URL:https://www.nhl.com/gamecenter/sjs-vs-vgk/2027/03/09/2026021103
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021111@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270312T010000Z
+DTEND:20270312T040000Z
+SUMMARY:NHL: San Jose Sharks at St. Louis Blues
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: BN+ / NBCSCA / STLNH
+ L. Availability varies by country and provider.\n\nOfficial schedule: http
+ s://www.nhl.com/gamecenter/sjs-vs-stl/2027/03/11/2026021111
+LOCATION:Enterprise Center
+URL:https://www.nhl.com/gamecenter/sjs-vs-stl/2027/03/11/2026021111
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021119@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270313T000000Z
+DTEND:20270313T030000Z
+SUMMARY:NHL: Calgary Flames at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / S
+ N. Availability varies by country and provider.\n\nOfficial schedule: http
+ s://www.nhl.com/gamecenter/cgy-vs-car/2027/03/12/2026021119
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/cgy-vs-car/2027/03/12/2026021119
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021128@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270314T000000Z
+DTEND:20270314T030000Z
+SUMMARY:NHL: New Jersey Devils at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / M
+ SG / MSG 2. Availability varies by country and provider.\n\nOfficial sched
+ ule: https://www.nhl.com/gamecenter/njd-vs-car/2027/03/13/2026021128
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/njd-vs-car/2027/03/13/2026021128
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021129@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270314T000000Z
+DTEND:20270314T030000Z
+SUMMARY:NHL: San Jose Sharks at Columbus Blue Jackets
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: CBJHN / CBJNHL / NBC
+ SCA. Availability varies by country and provider.\n\nOfficial schedule: ht
+ tps://www.nhl.com/gamecenter/sjs-vs-cbj/2027/03/13/2026021129
+LOCATION:Nationwide Arena
+URL:https://www.nhl.com/gamecenter/sjs-vs-cbj/2027/03/13/2026021129
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021140@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270315T230000Z
+DTEND:20270316T020000Z
+SUMMARY:NHL: San Jose Sharks at Buffalo Sabres
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: MSG-B / NBCSCA. Avai
+ lability varies by country and provider.\n\nOfficial schedule: https://www
+ .nhl.com/gamecenter/sjs-vs-buf/2027/03/15/2026021140
+LOCATION:KeyBank Center
+URL:https://www.nhl.com/gamecenter/sjs-vs-buf/2027/03/15/2026021140
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021151@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270317T000000Z
+DTEND:20270317T030000Z
+SUMMARY:NHL: San Jose Sharks at Chicago Blackhawks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: Disney+ / ESPN+ / HU
+ LU / SN+. Availability varies by country and provider.\n\nOfficial schedul
+ e: https://www.nhl.com/gamecenter/sjs-vs-chi/2027/03/16/2026021151
+LOCATION:United Center
+URL:https://www.nhl.com/gamecenter/sjs-vs-chi/2027/03/16/2026021151
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021152@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270317T023000Z
+DTEND:20270317T053000Z
+SUMMARY:NHL: Carolina Hurricanes at Anaheim Ducks
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: Disney+ / ESPN+ 
+ / HULU / SN / SN+. Availability varies by country and provider.\n\nOfficia
+ l schedule: https://www.nhl.com/gamecenter/car-vs-ana/2027/03/16/202602115
+ 2
+LOCATION:Honda Center
+URL:https://www.nhl.com/gamecenter/car-vs-ana/2027/03/16/2026021152
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021167@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270319T000000Z
+DTEND:20270319T030000Z
+SUMMARY:NHL: San Jose Sharks at Winnipeg Jets
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / TSN3. Avail
+ ability varies by country and provider.\n\nOfficial schedule: https://www.
+ nhl.com/gamecenter/sjs-vs-wpg/2027/03/18/2026021167
+LOCATION:Canada Life Centre
+URL:https://www.nhl.com/gamecenter/sjs-vs-wpg/2027/03/18/2026021167
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021170@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270319T020000Z
+DTEND:20270319T050000Z
+SUMMARY:NHL: Carolina Hurricanes at Los Angeles Kings
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: ABTV  / CARNHL /
+  HHN / SN. Availability varies by country and provider.\n\nOfficial schedu
+ le: https://www.nhl.com/gamecenter/car-vs-lak/2027/03/18/2026021170
+LOCATION:Crypto.com Arena
+URL:https://www.nhl.com/gamecenter/car-vs-lak/2027/03/18/2026021170
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021185@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270321T023000Z
+DTEND:20270321T053000Z
+SUMMARY:NHL: Carolina Hurricanes at San Jose Sharks
+DESCRIPTION:Following Carolina Hurricanes and San Jose Sharks: every regula
+ r-season game and announced playoff game.\n\nViewing window: 3 hours\; fin
+ ish is approximate and playoff overtime can run longer.\n\nListed broadcas
+ ts: CARNHL / HHN / NBCSCA. Availability varies by country and provider.\n\
+ nOfficial schedule: https://www.nhl.com/gamecenter/car-vs-sjs/2027/03/20/2
+ 026021185
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/car-vs-sjs/2027/03/20/2026021185
+CATEGORIES:NHL,Regular season,Carolina Hurricanes,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021195@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270323T020000Z
+DTEND:20270323T050000Z
+SUMMARY:NHL: San Jose Sharks at Anaheim Ducks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: KCOP-13 / NBCSCA / P
+ rime Video / SN+. Availability varies by country and provider.\n\nOfficial
+  schedule: https://www.nhl.com/gamecenter/sjs-vs-ana/2027/03/22/2026021195
+LOCATION:Honda Center
+URL:https://www.nhl.com/gamecenter/sjs-vs-ana/2027/03/22/2026021195
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021201@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270324T000000Z
+DTEND:20270324T030000Z
+SUMMARY:NHL: Carolina Hurricanes at Dallas Stars
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / K
+ DFW 4 / Prime Video. Availability varies by country and provider.\n\nOffic
+ ial schedule: https://www.nhl.com/gamecenter/car-vs-dal/2027/03/23/2026021
+ 201
+LOCATION:American Airlines Center
+URL:https://www.nhl.com/gamecenter/car-vs-dal/2027/03/23/2026021201
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021210@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270325T020000Z
+DTEND:20270325T050000Z
+SUMMARY:NHL: Anaheim Ducks at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: KCOP-13 / NBCSCA / P
+ rime Video. Availability varies by country and provider.\n\nOfficial sched
+ ule: https://www.nhl.com/gamecenter/ana-vs-sjs/2027/03/24/2026021210
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/ana-vs-sjs/2027/03/24/2026021210
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021216@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270325T230000Z
+DTEND:20270326T020000Z
+SUMMARY:NHL: Dallas Stars at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / K
+ DFI / Prime Video. Availability varies by country and provider.\n\nOfficia
+ l schedule: https://www.nhl.com/gamecenter/dal-vs-car/2027/03/25/202602121
+ 6
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/dal-vs-car/2027/03/25/2026021216
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021226@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270327T010000Z
+DTEND:20270327T040000Z
+SUMMARY:NHL: San Jose Sharks at Utah Mammoth
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SN1 / TVAS 
+ / Utah16. Availability varies by country and provider.\n\nOfficial schedul
+ e: https://www.nhl.com/gamecenter/sjs-vs-uta/2027/03/26/2026021226
+LOCATION:Delta Center
+URL:https://www.nhl.com/gamecenter/sjs-vs-uta/2027/03/26/2026021226
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021234@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270327T230000Z
+DTEND:20270328T020000Z
+SUMMARY:NHL: Carolina Hurricanes at Pittsburgh Penguins
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / S
+ N-PIT. Availability varies by country and provider.\n\nOfficial schedule: 
+ https://www.nhl.com/gamecenter/car-vs-pit/2027/03/27/2026021234
+LOCATION:PPG Paints Arena
+URL:https://www.nhl.com/gamecenter/car-vs-pit/2027/03/27/2026021234
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021244@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270329T230000Z
+DTEND:20270330T020000Z
+SUMMARY:NHL: Carolina Hurricanes at New Jersey Devils
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / M
+ SGSN / SN+. Availability varies by country and provider.\n\nOfficial sched
+ ule: https://www.nhl.com/gamecenter/car-vs-njd/2027/03/29/2026021244
+LOCATION:Prudential Center
+URL:https://www.nhl.com/gamecenter/car-vs-njd/2027/03/29/2026021244
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021247@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270330T020000Z
+DTEND:20270330T050000Z
+SUMMARY:NHL: Colorado Avalanche at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: ALT / NBCSCA / TVAS.
+  Availability varies by country and provider.\n\nOfficial schedule: https:
+ //www.nhl.com/gamecenter/col-vs-sjs/2027/03/29/2026021247
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/col-vs-sjs/2027/03/29/2026021247
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021252@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270330T233000Z
+DTEND:20270331T023000Z
+SUMMARY:NHL: Carolina Hurricanes at New York Islanders
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: Disney+ / ESPN+ 
+ / HULU / SN+. Availability varies by country and provider.\n\nOfficial sch
+ edule: https://www.nhl.com/gamecenter/car-vs-nyi/2027/03/30/2026021252
+LOCATION:UBS Arena
+URL:https://www.nhl.com/gamecenter/car-vs-nyi/2027/03/30/2026021252
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021260@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270401T003000Z
+DTEND:20270401T033000Z
+SUMMARY:NHL: San Jose Sharks at Edmonton Oilers
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / Prime. Avai
+ lability varies by country and provider.\n\nOfficial schedule: https://www
+ .nhl.com/gamecenter/sjs-vs-edm/2027/03/31/2026021260
+LOCATION:Rogers Place
+URL:https://www.nhl.com/gamecenter/sjs-vs-edm/2027/03/31/2026021260
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021272@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270402T230000Z
+DTEND:20270403T020000Z
+SUMMARY:NHL: Carolina Hurricanes at Detroit Red Wings
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / DSN / H
+ HN / TVAS. Availability varies by country and provider.\n\nOfficial schedu
+ le: https://www.nhl.com/gamecenter/car-vs-det/2027/04/02/2026021272
+LOCATION:Little Caesars Arena
+URL:https://www.nhl.com/gamecenter/car-vs-det/2027/04/02/2026021272
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021281@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270403T210000Z
+DTEND:20270404T000000Z
+SUMMARY:NHL: New Jersey Devils at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / M
+ SGSN. Availability varies by country and provider.\n\nOfficial schedule: h
+ ttps://www.nhl.com/gamecenter/njd-vs-car/2027/04/03/2026021281
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/njd-vs-car/2027/04/03/2026021281
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021287@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270404T020000Z
+DTEND:20270404T050000Z
+SUMMARY:NHL: San Jose Sharks at Vancouver Canucks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SNP. Availa
+ bility varies by country and provider.\n\nOfficial schedule: https://www.n
+ hl.com/gamecenter/sjs-vs-van/2027/04/03/2026021287
+LOCATION:Rogers Arena
+URL:https://www.nhl.com/gamecenter/sjs-vs-van/2027/04/03/2026021287
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021295@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270405T013000Z
+DTEND:20270405T043000Z
+SUMMARY:NHL: St. Louis Blues at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: ESPN / SN360. Availa
+ bility varies by country and provider.\n\nOfficial schedule: https://www.n
+ hl.com/gamecenter/stl-vs-sjs/2027/04/04/2026021295
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/stl-vs-sjs/2027/04/04/2026021295
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021296@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270405T180000Z
+DTEND:20270405T210000Z
+SUMMARY:NHL: Philadelphia Flyers at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / N
+ BCSP / SN+. Availability varies by country and provider.\n\nOfficial sched
+ ule: https://www.nhl.com/gamecenter/phi-vs-car/2027/04/05/2026021296
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/phi-vs-car/2027/04/05/2026021296
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021313@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270407T230000Z
+DTEND:20270408T020000Z
+SUMMARY:NHL: Ottawa Senators at Carolina Hurricanes
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / R
+ DS / TSN5. Availability varies by country and provider.\n\nOfficial schedu
+ le: https://www.nhl.com/gamecenter/ott-vs-car/2027/04/07/2026021313
+LOCATION:Lenovo Center
+URL:https://www.nhl.com/gamecenter/ott-vs-car/2027/04/07/2026021313
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021323@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270409T020000Z
+DTEND:20270409T050000Z
+SUMMARY:NHL: Minnesota Wild at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: MINNHL / NBCSCA / SN
+ + / Wild+. Availability varies by country and provider.\n\nOfficial schedu
+ le: https://www.nhl.com/gamecenter/min-vs-sjs/2027/04/08/2026021323
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/min-vs-sjs/2027/04/08/2026021323
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021331@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270410T200000Z
+DTEND:20270410T230000Z
+SUMMARY:NHL: Anaheim Ducks at San Jose Sharks
+DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
+ ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
+ layoff overtime can run longer.\n\nListed broadcasts: KCOP-13 / NBCSCA / P
+ rime Video / SN+. Availability varies by country and provider.\n\nOfficial
+  schedule: https://www.nhl.com/gamecenter/ana-vs-sjs/2027/04/10/2026021331
+LOCATION:SAP Center at San Jose
+URL:https://www.nhl.com/gamecenter/ana-vs-sjs/2027/04/10/2026021331
+CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026021334@football-watchlist
+DTSTAMP:20261001T073711Z
+CREATED:20261001T073711Z
+LAST-MODIFIED:20261001T073711Z
+SEQUENCE:0
+DTSTART:20270410T220000Z
+DTEND:20270411T010000Z
+SUMMARY:NHL: Carolina Hurricanes at Florida Panthers
+DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
+ nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / S
+ CRIPPS. Availability varies by country and provider.\n\nOfficial schedule:
+  https://www.nhl.com/gamecenter/car-vs-fla/2027/04/10/2026021334
+LOCATION:Amerant Bank Arena
+URL:https://www.nhl.com/gamecenter/car-vs-fla/2027/04/10/2026021334
+CATEGORIES:NHL,Regular season,Carolina Hurricanes
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT

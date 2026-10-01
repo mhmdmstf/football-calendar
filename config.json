@@ -1,5 +1,12 @@
 {
   "name": "Football and Friends",
+  "hockey": {
+    "enabled": true,
+    "teamAbbreviations": ["CAR", "SJS"],
+    "includePreseason": false,
+    "includeGameIds": [],
+    "excludeGameIds": []
+  },
   "baseball": {
     "enabled": true,
     "favoriteTeamIds": ["139", "121", "114", "135"],

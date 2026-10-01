@@ -1,15 +1,32 @@
 {
-  "checkedOn": "2026-09-30",
+  "checkedOn": "2026-10-01",
   "season": 2026,
-  "events": 270,
+  "events": 437,
   "nflGames": 285,
   "collegeGames": 949,
   "baseball": {
-    "checkedOn": "2026-09-30",
+    "checkedOn": "2026-10-01",
     "season": 2026,
-    "scheduleGames": 414,
-    "events": 61,
-    "playoffEvents": 53
+    "scheduleGames": 411,
+    "events": 58,
+    "playoffEvents": 50
+  },
+  "hockey": {
+    "checkedOn": "2026-10-01",
+    "season": 20262027,
+    "teams": {
+      "CAR": {
+        "regular": 84,
+        "playoffs": 0,
+        "preseason": 4
+      },
+      "SJS": {
+        "regular": 84,
+        "playoffs": 0,
+        "preseason": 4
+      }
+    },
+    "events": 166
   },
   "warnings": []
 }

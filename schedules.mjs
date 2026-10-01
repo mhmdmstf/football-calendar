@@ -81,6 +81,11 @@ export function seasonWeeks(data,league,season) {
       const week=Number(entry.value);
       if(!Number.isInteger(week) || week<0 || week>999) throw new Error(`${league}: invalid schedule week`);
       if(league==='nfl' && type===3 && /pro bowl/i.test(`${entry.label} ${entry.alternateLabel}`)) continue;
+      // ESPN relabeled the empty 2026 Pro Bowl week as a second "Super Bowl"
+      // on September 30. The actual Super Bowl remains in week 5.
+      if(league==='nfl' && season===2026 && type===3 && week===4 &&
+          /super bowl/i.test(`${entry.label} ${entry.alternateLabel}`) &&
+          period.entries.some(other=>Number(other.value)===5 && /super bowl/i.test(`${other.label} ${other.alternateLabel}`))) continue;
       if(!weeks.some(w=>w.type===type && w.week===week)) weeks.push({type,week});
     }
   }

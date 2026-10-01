@@ -4,6 +4,7 @@ import { getShows } from './shows.mjs';
 import { fetchSeasonSchedule, validateSchedule } from './schedules.mjs';
 import { fetchBaseballData } from './baseball-source.mjs';
 import { buildBaseballEvents, retainBaseballEvents } from './baseball.mjs';
+import { hockeySeason, fetchHockeySchedules, validateHockeySchedules, buildHockeyEvents, retainHockeyEvents } from './hockey.mjs';
 
 const offline = process.argv.includes('--offline');
 const now = process.env.CALENDAR_NOW || new Date().toISOString();
@@ -100,12 +101,33 @@ if (config.baseball?.enabled && new Date(now).getUTCMonth() >= 8 && new Date(now
   generated.push(...retainBaseballEvents(previous.events));
   if(previous.baseball) baseballStatus = {...previous.baseball,active:false};
 }
+let hockeyStatus;
+if (config.hockey?.enabled) {
+  try {
+    const nhlSeason = hockeySeason(now);
+    const data = offline
+      ? validateHockeySchedules(JSON.parse(await fs.readFile('.cache/hockey.json','utf8')).schedules,config.hockey.teamAbbreviations,nhlSeason,now)
+      : await fetchHockeySchedules(config.hockey.teamAbbreviations,nhlSeason,now);
+    if(!offline) await fs.writeFile('.cache/hockey.json',JSON.stringify(data));
+    const hockey = buildHockeyEvents(data,config.hockey,now,previous.events);
+    generated.push(...hockey.events);
+    warnings.push(...hockey.warnings);
+    hockeyStatus = {checkedOn:etDay(now),season:data.season,teams:data.counts,
+      events:hockey.events.filter(e=>e.status !== 'CANCELLED').length};
+  } catch (error) {
+    const retained = retainHockeyEvents(previous.events);
+    if (!retained.length) throw error;
+    generated.push(...retained);
+    hockeyStatus = previous.hockey || {checkedOn:null};
+    warnings.push(`NHL refresh failed; retaining its last good events. ${error.message}`);
+  }
+}
 const floor=addDays(etDay(now),-60);
 // Preserve the historical watchlist. A rankings change must not rewrite a game already played.
 const merged=new Map(generated.map(e=>[e.uid,e]));
 for(const old of previous.events) {
-  // MLB handles its own history, including cancelled and unnecessary games.
-  if(old.categories.includes('MLB')) continue;
+  // MLB and NHL handle their own history, including cancellations.
+  if(old.categories.includes('MLB') || old.categories.includes('NHL')) continue;
   const day=old.start.slice(0,10);
   if(day>=floor && Date.parse(old.allDay ? `${old.start}T23:59:59Z` : old.start)<Date.parse(now) && !merged.has(old.uid)) {
     const {hash,created,modified,sequence,...event}=old; merged.set(old.uid,event);
@@ -115,7 +137,7 @@ const events=stabilize([...merged.values()].filter(e=>e.start.slice(0,10)>=floor
 if(new Set(events.map(e=>e.uid)).size!==events.length) throw new Error('Duplicate calendar IDs');
 const ics=renderCalendar(events,config.name);
 const status={checkedOn:etDay(now),season,events:events.length,nflGames:nfl.length,collegeGames:college.length,
-  ...(baseballStatus ? {baseball:baseballStatus} : {}),warnings};
+  ...(baseballStatus ? {baseball:baseballStatus} : {}),...(hockeyStatus ? {hockey:hockeyStatus} : {}),warnings};
 // All fetches, selection and validation finish before either output is replaced.
 await fs.writeFile('football.ics.tmp',ics);
 await fs.writeFile('state.json.tmp',JSON.stringify({...status,events},null,2)+'\n');

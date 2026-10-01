@@ -91,6 +91,49 @@ test('calendar enumeration deduplicates entries and recognizes an alternate Pro 
   ]);
 });
 
+function duplicateSuperBowlPages() {
+  // ESPN's live 2026 metadata from October 1: the former Pro Bowl week is
+  // empty and mislabeled Super Bowl; the real game remains in week 5.
+  const weeks = calendar([1], [
+    entry(1, 'Wild Card'), entry(2, 'Divisional Round'), entry(3, 'Conference Championship'),
+    { ...entry(4, 'Super Bowl'), startDate: '2027-02-03T08:00Z', endDate: '2027-02-10T07:59Z' },
+    { ...entry(5, 'Super Bowl'), startDate: '2027-02-10T08:00Z', endDate: '2027-02-16T07:59Z' }
+  ]);
+  const pages = { '2/1': page(2, 1, Array.from({ length: 272 }, (_, i) => event(`regular-${i}`)), weeks) };
+  for (const [week, count] of [[1, 6], [2, 4], [3, 2], [4, 0], [5, 1]]) {
+    pages[`3/${week}`] = page(3, week, Array.from({ length: count }, (_, i) => event(`playoff-${week}-${i}`, 3, week)), weeks);
+  }
+  pages['3/5'].events[0].date = '2027-02-14T23:30Z';
+  pages['3/5'].events[0].competitions[0].notes = [{ type: 'event', headline: 'Super Bowl LXI' }];
+  return pages;
+}
+
+test('the mislabeled 2026 NFL off-week is skipped while all 13 playoff games remain', async () => {
+  const fixture = mock(duplicateSuperBowlPages());
+  const result = await fetchSeasonSchedule('nfl', season, '2026-10-01T12:00:00Z', fixture.options);
+  assert.equal(result.games.length, 285);
+  assert.equal(result.games.filter(game => game.seasonType === 3).length, 13);
+  assert.equal(result.games.find(game => game.week === 5 && game.seasonType === 3).date, '2027-02-14T23:30Z');
+  assert.equal(fixture.calls.some(call => call.key === '3/4'), false);
+  assert.deepEqual(fixture.delays, []);
+});
+
+for (const week of [1, 2, 3, 5]) test(`the off-week exception still rejects an empty real NFL playoff week ${week}`, async () => {
+  const pages = duplicateSuperBowlPages();
+  pages[`3/${week}`].events = [];
+  const fixture = mock(pages);
+  await assert.rejects(fetchSeasonSchedule('nfl', season, '2026-10-01T12:00:00Z', fixture.options),
+    new RegExp(`after 3 attempts.*unexpectedly empty week 3/${week}`));
+  assert.equal(fixture.calls.filter(call => call.key === `3/${week}`).length, 3);
+});
+
+test('an unpaired week 4 Super Bowl label is not treated as the known empty off-week', () => {
+  const data = duplicateSuperBowlPages()['2/1'];
+  const postseason = data.leagues[0].calendar.find(period => period.value === '3');
+  postseason.entries = postseason.entries.filter(item => item.value !== '5');
+  assert.ok(seasonWeeks(data, 'nfl', season).some(item => item.type === 3 && item.week === 4));
+});
+
 test('weekly requests are bounded to four concurrent pages', async () => {
   const weeks = calendar([1, 2, 3, 4, 5, 6, 7, 8, 9], [entry(1, 'Wild Card')]);
   const pages = Object.fromEntries(Array.from({ length: 9 }, (_, i) => [`2/${i + 1}`, page(2, i + 1, [event(`game-${i + 1}`, 2, i + 1)], weeks)]));

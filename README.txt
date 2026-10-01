@@ -24,6 +24,9 @@ WHAT IS INCLUDED
 - Every MLB postseason game, including clearly labelled if-necessary games.
   Unknown first-pitch times are all-day markers until announced. Teams and times
   update under stable IDs; unneeded games are cancelled when a series ends.
+- Every Carolina Hurricanes and San Jose Sharks regular-season game, plus their
+  playoff games as the NHL announces them. Preseason is excluded. Meetings
+  between the two teams appear once. Viewing windows are three hours, estimated.
 
 HOW IT UPDATES
 GitHub runs the updater four times a day. Your calendar app decides how quickly
@@ -55,6 +58,12 @@ continue updating; status.json shows a warning and the last MLB refresh date.
 All 53 potential 2026 postseason games are initially present. Games beyond the
 minimum series length are marked "if necessary"; not all will be played.
 
+NHL games come from the league's official team schedules. Confirmed start times
+update under stable game IDs, including rescheduling and cancellation. Unknown
+times and unresolved postponements use transparent all-day markers. An NHL
+source problem preserves the previous hockey entries while other sports can
+refresh; status.json records any warning and the last successful NHL check.
+
 The existing football.ics URL is permanent even as other sports are added.
 The feed advertises "Football and Friends". Calendar apps may retain a locally
 chosen name; rename that subscription in the app if its old label remains.
@@ -77,6 +86,8 @@ control the selection. No calendar URL change is needed.
 The baseball section stores MLB team IDs (Rays 139, Mets 121, Guardians 114,
 Padres 135), daily/series limits, the selection horizon and baseball-only game
 overrides. It can be disabled independently. Other sports can be added later.
+The hockey section stores NHL team abbreviations (CAR and SJS), preseason
+preference and hockey-only game overrides. It can be disabled independently.
 
 MAINTENANCE
 Node 20+; no packages or API keys needed. Run 'node --test', then
@@ -86,6 +97,10 @@ source counts and show-source warnings. A daily state update keeps this public
 repository active even in the offseason, avoiding GitHub's inactivity cutoff.
 
 PRIMARY SCHEDULE REFERENCES
+https://www.nhl.com/hurricanes/schedule
+https://www.nhl.com/sharks/schedule
+https://api-web.nhle.com/v1/club-schedule-season/CAR/now
+https://api-web.nhle.com/v1/club-schedule-season/SJS/now
 https://www.mlb.com/standings
 https://www.mlb.com/postseason
 https://statsapi.mlb.com/api/v1/schedule?sportId=1
