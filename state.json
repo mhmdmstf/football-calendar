@@ -2109,7 +2109,7 @@
       "start": "2026-10-04T00:30:00.000Z",
       "end": "2026-10-04T04:00:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Jacob Misiorowski.\n\nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849830",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Robbie Ray / Jacob Misiorowski.\n\nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849830",
       "location": "American Family Field",
       "url": "https://www.mlb.com/gameday/849830",
       "status": "CONFIRMED",
@@ -2118,10 +2118,10 @@
         "Playoffs",
         "San Diego Padres"
       ],
-      "hash": "85fc1abe5687c6042b7a794a05d5ae1eeb8178dce4a0ea3c8aa8b4577ebcfca7",
+      "hash": "dbd2106a3ddeb8c0939a817bed4356e04b9d14e529d146a01ae2bb867ae801ec",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 5
+      "modified": "2026-10-02T23:51:33.553Z",
+      "sequence": 6
     },
     {
       "uid": "nhl-2026020034@football-watchlist",
@@ -2210,7 +2210,7 @@
       "start": "2026-10-04T20:00:00.000Z",
       "end": "2026-10-04T23:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Logan Henderson.\n\nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849825",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Michael King / Logan Henderson.\n\nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849825",
       "location": "American Family Field",
       "url": "https://www.mlb.com/gameday/849825",
       "status": "CONFIRMED",
@@ -2219,10 +2219,10 @@
         "Playoffs",
         "San Diego Padres"
       ],
-      "hash": "0a0fa7c596eb6654b84e45337a3709613661fffbe14a420f65bd2c19378a8cd6",
+      "hash": "1be65d1be213895c31e69d3a11387e380ecb796126b2eb7fef25b7fa34e2570e",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 5
+      "modified": "2026-10-02T23:51:33.553Z",
+      "sequence": 6
     },
     {
       "uid": "mlb-849823@football-watchlist",
