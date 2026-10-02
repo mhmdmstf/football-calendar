@@ -1701,23 +1701,22 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849828@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261002T083926Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:4
+LAST-MODIFIED:20261002T083926Z
+SEQUENCE:5
 DTSTART:20261003T200000Z
 DTEND:20261003T233000Z
-SUMMARY:MLB: NLDS 'B' Game 1 - ATL/PHI at Los Angeles Dodgers
+SUMMARY:MLB: NLDS 'B' Game 1 - Atlanta Braves at Los Angeles Dodgers
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nViewing window: 3.5 hours\; finish is a
- pproximate.\n\nListed broadcasts: FOX/ FOX ONE / Fox Deportes / FOX ONE. A
- vailability varies by country and provider.\n\nOfficial schedule: https://
- www.mlb.com/gameday/849828
+ the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
+ nListed broadcasts: FOX/ FOX ONE / Fox Deportes / FOX ONE. Availability va
+ ries by country and provider.\n\nOfficial schedule: https://www.mlb.com/ga
+ meday/849828
 LOCATION:UNIQLO Field at Dodger Stadium
 URL:https://www.mlb.com/gameday/849828
 CATEGORIES:MLB,Playoffs
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -1925,23 +1924,22 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849823@football-watchlist
-DTSTAMP:20260929T234705Z
+DTSTAMP:20261002T083926Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260929T234705Z
-SEQUENCE:4
+LAST-MODIFIED:20261002T083926Z
+SEQUENCE:5
 DTSTART:20261005T000000Z
 DTEND:20261005T033000Z
-SUMMARY:MLB: NLDS 'B' Game 2 - ATL/PHI at Los Angeles Dodgers
+SUMMARY:MLB: NLDS 'B' Game 2 - Atlanta Braves at Los Angeles Dodgers
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nViewing window: 3.5 hours\; finish is a
- pproximate.\n\nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. A
- vailability varies by country and provider.\n\nOfficial schedule: https://
- www.mlb.com/gameday/849823
+ the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
+ nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability va
+ ries by country and provider.\n\nOfficial schedule: https://www.mlb.com/ga
+ meday/849823
 LOCATION:UNIQLO Field at Dodger Stadium
 URL:https://www.mlb.com/gameday/849823
 CATEGORIES:MLB,Playoffs
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -2044,23 +2042,22 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849819@football-watchlist
-DTSTAMP:20261001T235730Z
+DTSTAMP:20261002T083926Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261001T235730Z
-SEQUENCE:4
+LAST-MODIFIED:20261002T083926Z
+SEQUENCE:5
 DTSTART:20261006T220000Z
 DTEND:20261007T013000Z
-SUMMARY:MLB: NLDS 'B' Game 3 - Los Angeles Dodgers at ATL/PHI
+SUMMARY:MLB: NLDS 'B' Game 3 - Los Angeles Dodgers at Atlanta Braves
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nViewing window: 3.5 hours\; finish is a
- pproximate.\n\nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. A
- vailability varies by country and provider.\n\nOfficial schedule: https://
- www.mlb.com/gameday/849819
-LOCATION:NL Stadium
+ the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
+ nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability va
+ ries by country and provider.\n\nOfficial schedule: https://www.mlb.com/ga
+ meday/849819
+LOCATION:Truist Park
 URL:https://www.mlb.com/gameday/849819
 CATEGORIES:MLB,Playoffs
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -2125,22 +2122,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849822@football-watchlist
-DTSTAMP:20261001T235730Z
+DTSTAMP:20261002T083926Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261001T235730Z
-SEQUENCE:4
+LAST-MODIFIED:20261002T083926Z
+SEQUENCE:5
 DTSTART:20261007T220000Z
 DTEND:20261008T013000Z
-SUMMARY:MLB: NLDS 'B' Game 4 - Los Angeles Dodgers at ATL/PHI [if necessary
- ]
+SUMMARY:MLB: NLDS 'B' Game 4 - Los Angeles Dodgers at Atlanta Braves [if ne
+ cessary]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nBracket positions
-  are placeholders. Teams will update when MLB confirms the matchup.\n\nVie
- wing window: 3.5 hours\; finish is approximate.\n\nListed broadcasts: FS1/
-  FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and prov
- ider.\n\nOfficial schedule: https://www.mlb.com/gameday/849822
-LOCATION:NL Stadium
+ t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
+ .5 hours\; finish is approximate.\n\nListed broadcasts: FS1/ FOX ONE / Fox
+  Deportes / FOX ONE. Availability varies by country and provider.\n\nOffic
+ ial schedule: https://www.mlb.com/gameday/849822
+LOCATION:Truist Park
 URL:https://www.mlb.com/gameday/849822
 CATEGORIES:MLB,Playoffs
 STATUS:TENTATIVE
@@ -2337,21 +2333,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849821@football-watchlist
-DTSTAMP:20261001T235730Z
+DTSTAMP:20261002T083926Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261001T235730Z
-SEQUENCE:4
+LAST-MODIFIED:20261002T083926Z
+SEQUENCE:5
 DTSTART:20261010T000000Z
 DTEND:20261010T033000Z
-SUMMARY:MLB: NLDS 'B' Game 5 - ATL/PHI at Los Angeles Dodgers [if necessary
- ]
+SUMMARY:MLB: NLDS 'B' Game 5 - Atlanta Braves at Los Angeles Dodgers [if ne
+ cessary]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nBracket positions
-  are placeholders. Teams will update when MLB confirms the matchup.\n\nVie
- wing window: 3.5 hours\; finish is approximate.\n\nListed broadcasts: FOX/
-  FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and prov
- ider.\n\nOfficial schedule: https://www.mlb.com/gameday/849821
+ t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
+ .5 hours\; finish is approximate.\n\nListed broadcasts: FOX/ FOX ONE / Fox
+  Deportes / FOX ONE. Availability varies by country and provider.\n\nOffic
+ ial schedule: https://www.mlb.com/gameday/849821
 LOCATION:UNIQLO Field at Dodger Stadium
 URL:https://www.mlb.com/gameday/849821
 CATEGORIES:MLB,Playoffs

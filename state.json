@@ -1,5 +1,5 @@
 {
-  "checkedOn": "2026-10-01",
+  "checkedOn": "2026-10-02",
   "season": 2026,
   "events": [
     {
@@ -1941,28 +1941,28 @@
       "mlbSeriesGameNumber": 1,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
-        "5532",
+        "144",
         "119"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NLDS 'B' Game 1 - ATL/PHI at Los Angeles Dodgers",
+      "title": "MLB: NLDS 'B' Game 1 - Atlanta Braves at Los Angeles Dodgers",
       "start": "2026-10-03T20:00:00.000Z",
       "end": "2026-10-03T23:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FOX/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849828",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FOX/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849828",
       "location": "UNIQLO Field at Dodger Stadium",
       "url": "https://www.mlb.com/gameday/849828",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Playoffs"
       ],
-      "hash": "4cb00b4b517bbefc669dd78666ab8430805184095e58e294f5a13a38dcc2518d",
+      "hash": "b78d329f8b6d9e8c370e0804d4299106d025986296605b923ff909bdf8f0962d",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 4
+      "modified": "2026-10-02T08:39:26.015Z",
+      "sequence": 5
     },
     {
       "uid": "mlb-849835@football-watchlist",
@@ -2233,28 +2233,28 @@
       "mlbSeriesGameNumber": 2,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
-        "5532",
+        "144",
         "119"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NLDS 'B' Game 2 - ATL/PHI at Los Angeles Dodgers",
+      "title": "MLB: NLDS 'B' Game 2 - Atlanta Braves at Los Angeles Dodgers",
       "start": "2026-10-05T00:00:00.000Z",
       "end": "2026-10-05T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849823",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849823",
       "location": "UNIQLO Field at Dodger Stadium",
       "url": "https://www.mlb.com/gameday/849823",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Playoffs"
       ],
-      "hash": "7fdc01f3fbedaa2057a1c7f5e26f23f83b4260983c48ea8062e226a8306ee471",
+      "hash": "05151b29c1b4a2da27bee154918911a5695bda7a0dabbd5aef32603a2d31af1a",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-29T23:47:05.601Z",
-      "sequence": 4
+      "modified": "2026-10-02T08:39:26.015Z",
+      "sequence": 5
     },
     {
       "uid": "nfl-401872978@football-watchlist",
@@ -2400,27 +2400,27 @@
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "119",
-        "5532"
+        "144"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NLDS 'B' Game 3 - Los Angeles Dodgers at ATL/PHI",
+      "title": "MLB: NLDS 'B' Game 3 - Los Angeles Dodgers at Atlanta Braves",
       "start": "2026-10-06T22:00:00.000Z",
       "end": "2026-10-07T01:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849819",
-      "location": "NL Stadium",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849819",
+      "location": "Truist Park",
       "url": "https://www.mlb.com/gameday/849819",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Playoffs"
       ],
-      "hash": "33bc71f79957c65b4c3ebbf57d2a513e3d9d9d5f4958483adbda8acbeff4279d",
+      "hash": "20fb0867b34b35e3136aa63085f88304a31251f8842475cd74c83212efa88018",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-01T23:57:30.137Z",
-      "sequence": 4
+      "modified": "2026-10-02T08:39:26.015Z",
+      "sequence": 5
     },
     {
       "uid": "nhl-2026020045@football-watchlist",
@@ -2528,27 +2528,27 @@
       "mlbIfNecessary": true,
       "mlbTeamIds": [
         "119",
-        "5532"
+        "144"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NLDS 'B' Game 4 - Los Angeles Dodgers at ATL/PHI [if necessary]",
+      "title": "MLB: NLDS 'B' Game 4 - Los Angeles Dodgers at Atlanta Braves [if necessary]",
       "start": "2026-10-07T22:00:00.000Z",
       "end": "2026-10-08T01:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849822",
-      "location": "NL Stadium",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849822",
+      "location": "Truist Park",
       "url": "https://www.mlb.com/gameday/849822",
       "status": "TENTATIVE",
       "categories": [
         "MLB",
         "Playoffs"
       ],
-      "hash": "e9942ac0ef943e70b90581a2fb6e28fbb36f1ecb1d4bef19c67338d177fb402f",
+      "hash": "d418ed55e26235972ba17372316bdae8e00e36b6d62a8e15b90708e74e5be0a6",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-01T23:57:30.137Z",
-      "sequence": 4
+      "modified": "2026-10-02T08:39:26.015Z",
+      "sequence": 5
     },
     {
       "uid": "mlb-849838@football-watchlist",
@@ -2824,17 +2824,17 @@
       "mlbSeriesGameNumber": 5,
       "mlbIfNecessary": true,
       "mlbTeamIds": [
-        "5532",
+        "144",
         "119"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NLDS 'B' Game 5 - ATL/PHI at Los Angeles Dodgers [if necessary]",
+      "title": "MLB: NLDS 'B' Game 5 - Atlanta Braves at Los Angeles Dodgers [if necessary]",
       "start": "2026-10-10T00:00:00.000Z",
       "end": "2026-10-10T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FOX/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849821",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FOX/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849821",
       "location": "UNIQLO Field at Dodger Stadium",
       "url": "https://www.mlb.com/gameday/849821",
       "status": "TENTATIVE",
@@ -2842,10 +2842,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "e1e9fd2b407bd13f0f91dbfaa5c98db6961375f4de3f369abd208987d8112201",
+      "hash": "c6e412b28903adbde72a486a00e821a425330a0873b7bf9d9ab63750849f211c",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-01T23:57:30.137Z",
-      "sequence": 4
+      "modified": "2026-10-02T08:39:26.015Z",
+      "sequence": 5
     },
     {
       "uid": "college-football-401858487@football-watchlist",
@@ -11084,14 +11084,14 @@
   "nflGames": 285,
   "collegeGames": 949,
   "baseball": {
-    "checkedOn": "2026-10-01",
+    "checkedOn": "2026-10-02",
     "season": 2026,
     "scheduleGames": 411,
     "events": 58,
     "playoffEvents": 50
   },
   "hockey": {
-    "checkedOn": "2026-10-01",
+    "checkedOn": "2026-10-02",
     "season": 20262027,
     "teams": {
       "CAR": {
