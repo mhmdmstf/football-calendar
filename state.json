@@ -1876,7 +1876,7 @@
       "start": "2026-10-03T17:00:00.000Z",
       "end": "2026-10-03T20:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Parker Messick.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849829",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Hagen Smith / Parker Messick.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849829",
       "location": "Progressive Field",
       "url": "https://www.mlb.com/gameday/849829",
       "status": "CONFIRMED",
@@ -1885,10 +1885,10 @@
         "Playoffs",
         "Cleveland Guardians"
       ],
-      "hash": "31607f103632b662078187a3aa1ba19faca3af09a3ee36e4c4d851370ab16f99",
+      "hash": "62a3f81e011282b065b29bbac45b6d02d8df469762c13b9250df853dde12eb63",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-01T19:37:24.118Z",
-      "sequence": 9
+      "modified": "2026-10-02T19:24:01.110Z",
+      "sequence": 10
     },
     {
       "uid": "college-football-401856708@football-watchlist",
@@ -1951,7 +1951,7 @@
       "start": "2026-10-03T20:00:00.000Z",
       "end": "2026-10-03T23:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FOX/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849828",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Tarik Skubal.\n\nListed broadcasts: FOX/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849828",
       "location": "UNIQLO Field at Dodger Stadium",
       "url": "https://www.mlb.com/gameday/849828",
       "status": "CONFIRMED",
@@ -1959,10 +1959,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "b78d329f8b6d9e8c370e0804d4299106d025986296605b923ff909bdf8f0962d",
+      "hash": "17df596e9f2bf3ab41f1f5362f13a1b716a42766594f4a148b562858bead4dec",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-02T08:39:26.015Z",
-      "sequence": 5
+      "modified": "2026-10-02T19:24:01.110Z",
+      "sequence": 6
     },
     {
       "uid": "mlb-849835@football-watchlist",
@@ -1983,7 +1983,7 @@
       "start": "2026-10-03T22:30:00.000Z",
       "end": "2026-10-04T02:00:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Drew Rasmussen.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849835",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Gerrit Cole / Drew Rasmussen.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849835",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/849835",
       "status": "CONFIRMED",
@@ -1992,10 +1992,10 @@
         "Playoffs",
         "Tampa Bay Rays"
       ],
-      "hash": "3665d1bb9124655daf1d4b4010b5a7efe445f33217e43f4c5d428c4582f2a387",
+      "hash": "74d8e94ee645867087eb38558532f81ec33af39b29dd8fd2efbce73956ff03f5",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 7
+      "modified": "2026-10-02T19:24:01.110Z",
+      "sequence": 8
     },
     {
       "uid": "college-football-401856818@football-watchlist",
