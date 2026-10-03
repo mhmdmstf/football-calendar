@@ -82,17 +82,17 @@
       "end": "2026-09-05T16:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "College GameDay on ESPN. Featured game: LSU vs. Clemson. Broadcast window: 9:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://lsusports.net/news/2026/05/12/lsu-to-host-espn-college-gameday-for-kiffin-debut",
+      "description": "College GameDay on ESPN. Featured game: LSU vs. Clemson. Broadcast window: 9:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://espnpressroom.com/press-release/college-gameday-hits-the-road-for-the-500th-time-as-season-40-kicks-off-in-baton-rouge/",
       "location": "Baton Rouge, Louisiana",
-      "url": "https://lsusports.net/news/2026/05/12/lsu-to-host-espn-college-gameday-for-kiffin-debut",
+      "url": "https://espnpressroom.com/press-release/college-gameday-hits-the-road-for-the-500th-time-as-season-40-kicks-off-in-baton-rouge/",
       "categories": [
         "College",
         "Pregame"
       ],
-      "hash": "c3b9c62d70b7013f49c7686a1f178248d0e6cae48802461856d8a64296192e0a",
+      "hash": "fdc44cf7a345e26561e92bf2c0dbe46aebe1246d58ae53a664bec6b280c9ad86",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-10-03T13:23:45.745Z",
-      "sequence": 2
+      "modified": "2026-10-03T13:25:37.454Z",
+      "sequence": 3
     },
     {
       "uid": "show-bignoon-2026-09-05@football-watchlist",

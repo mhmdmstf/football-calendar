@@ -75,20 +75,20 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:show-gameday-2026-09-05@football-watchlist
-DTSTAMP:20261003T132345Z
+DTSTAMP:20261003T132537Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20261003T132345Z
-SEQUENCE:2
+LAST-MODIFIED:20261003T132537Z
+SEQUENCE:3
 DTSTART:20260905T130000Z
 DTEND:20260905T160000Z
 SUMMARY:College GameDay: Baton Rouge\, Louisiana
 DESCRIPTION:College GameDay on ESPN. Featured game: LSU vs. Clemson. Broadc
  ast window: 9:00 a.m. to noon Eastern. Broadcast schedules can change.\nSo
- urce: https://lsusports.net/news/2026/05/12/lsu-to-host-espn-college-gamed
- ay-for-kiffin-debut
+ urce: https://espnpressroom.com/press-release/college-gameday-hits-the-roa
+ d-for-the-500th-time-as-season-40-kicks-off-in-baton-rouge/
 LOCATION:Baton Rouge\, Louisiana
-URL:https://lsusports.net/news/2026/05/12/lsu-to-host-espn-college-gameday-
- for-kiffin-debut
+URL:https://espnpressroom.com/press-release/college-gameday-hits-the-road-f
+ or-the-500th-time-as-season-40-kicks-off-in-baton-rouge/
 CATEGORIES:College,Pregame
 STATUS:CONFIRMED
 TRANSP:OPAQUE
