@@ -3584,6 +3584,48 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:college-football-401856732@football-watchlist
+DTSTAMP:20261003T081720Z
+CREATED:20261003T081720Z
+LAST-MODIFIED:20261003T081720Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:CFB: Ole Miss at Texas [time TBA]
+DESCRIPTION:National pick: ranked matchup (#1 vs #9) at selection.\n\nFLEX:
+  3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Ole Miss Rebels at Texas Long
+ horns\n\nBroadcast to be announced.\n\nKickoff has not been announced. Thi
+ s all-day marker will become a timed event when confirmed.\n\nSchedule: ht
+ tps://www.espn.com/college-football/game/_/gameId/401856732/ole-miss-texas
+LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856732/ole-miss-
+ texas
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856837@football-watchlist
+DTSTAMP:20261003T081720Z
+CREATED:20261003T081720Z
+LAST-MODIFIED:20261003T081720Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:CFB: Houston at Utah [time TBA]
+DESCRIPTION:National pick: ranked matchup (#13 vs #20) at selection.\n\nTea
+ ms: Houston Cougars at Utah Utes\n\nBroadcast to be announced.\n\nKickoff 
+ has not been announced. This all-day marker will become a timed event when
+  confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/game
+ Id/401856837/houston-utah
+LOCATION:Rice-Eccles Stadium\, Salt Lake City\, UT\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856837/houston-u
+ tah
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-849802@football-watchlist
 DTSTAMP:20260919T112059Z
 CREATED:20260919T111549Z

@@ -1,5 +1,5 @@
 {
-  "checkedOn": "2026-10-02",
+  "checkedOn": "2026-10-03",
   "season": 2026,
   "events": [
     {
@@ -4364,6 +4364,48 @@
       "hash": "b6a9ad01e5daed60397fd5c8616746dd03add373227127f524a398c5360d97d5",
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856732@football-watchlist",
+      "gameId": "401856732",
+      "title": "CFB: Ole Miss at Texas [time TBA]",
+      "start": "2026-10-24",
+      "end": "2026-10-25",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#1 vs #9) at selection.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Ole Miss Rebels at Texas Longhorns\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856732/ole-miss-texas",
+      "location": "DKR-Texas Memorial Stadium, Austin, TX, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856732/ole-miss-texas",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#1 vs #9) at selection.",
+      "hash": "6deeb92730d480514673082296efb86184651bfed16ce00566bb73cb369e5161",
+      "created": "2026-10-03T08:17:20.619Z",
+      "modified": "2026-10-03T08:17:20.619Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856837@football-watchlist",
+      "gameId": "401856837",
+      "title": "CFB: Houston at Utah [time TBA]",
+      "start": "2026-10-24",
+      "end": "2026-10-25",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#13 vs #20) at selection.\n\nTeams: Houston Cougars at Utah Utes\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856837/houston-utah",
+      "location": "Rice-Eccles Stadium, Salt Lake City, UT, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856837/houston-utah",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#13 vs #20) at selection.",
+      "hash": "e18387ab299c5f5063dbe62acaedf01ff3feca73b3f005d7e72dccd7a7ca3f1c",
+      "created": "2026-10-03T08:17:20.619Z",
+      "modified": "2026-10-03T08:17:20.619Z",
       "sequence": 0
     },
     {
@@ -11084,14 +11126,14 @@
   "nflGames": 285,
   "collegeGames": 949,
   "baseball": {
-    "checkedOn": "2026-10-02",
+    "checkedOn": "2026-10-03",
     "season": 2026,
     "scheduleGames": 411,
     "events": 58,
     "playoffEvents": 50
   },
   "hockey": {
-    "checkedOn": "2026-10-02",
+    "checkedOn": "2026-10-03",
     "season": 20262027,
     "teams": {
       "CAR": {
