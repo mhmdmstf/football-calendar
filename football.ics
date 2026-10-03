@@ -8,21 +8,87 @@ X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:show-gameday-2026-09-05@football-watchlist
-DTSTAMP:20260905T145208Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145208Z
+UID:chelsea-2645204@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
 SEQUENCE:1
+DTSTART:20260824T190000Z
+DTEND:20260824T210000Z
+SUMMARY:Fulham vs Chelsea - Premier League
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club currently lists this kickoff as confirmed. Viewing window: 2 ho
+ urs\; finish is approximate.\n\nFixtures remain subject to later reschedul
+ ing. The feed refreshes from Chelsea’s official schedule.\n\nOfficial ma
+ tch: https://www.chelseafc.com/en/match/fulham-vs-chelsea-english-premier-
+ league-2026-08-24
+LOCATION:Craven Cottage
+URL:https://www.chelseafc.com/en/match/fulham-vs-chelsea-english-premier-le
+ ague-2026-08-24
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:chelsea-2679897@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART:20260827T183000Z
+DTEND:20260827T210000Z
+SUMMARY:Chelsea vs Luton Town - Carabao Cup
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club currently lists this kickoff as confirmed. Viewing window: 2.5 
+ hours\; finish is approximate and extra time or penalties may run longer.\
+ n\nFixtures remain subject to later rescheduling. The feed refreshes from 
+ Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.co
+ m/en/match/chelsea-vs-luton-town-english-league-cup-2026-08-27
+LOCATION:Stamford Bridge
+URL:https://www.chelseafc.com/en/match/chelsea-vs-luton-town-english-league
+ -cup-2026-08-27
+CATEGORIES:Soccer,Chelsea,Carabao Cup
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:chelsea-2645207@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART:20260830T130000Z
+DTEND:20260830T150000Z
+SUMMARY:Chelsea vs Brighton & Hove Albion - Premier League
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club currently lists this kickoff as confirmed. Viewing window: 2 ho
+ urs\; finish is approximate.\n\nFixtures remain subject to later reschedul
+ ing. The feed refreshes from Chelsea’s official schedule.\n\nOfficial ma
+ tch: https://www.chelseafc.com/en/match/chelsea-vs-brighton-and-hove-albio
+ n-english-premier-league-2026-08-30
+LOCATION:Stamford Bridge
+URL:https://www.chelseafc.com/en/match/chelsea-vs-brighton-and-hove-albion-
+ english-premier-league-2026-08-30
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:show-gameday-2026-09-05@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:2
 DTSTART:20260905T130000Z
 DTEND:20260905T160000Z
 SUMMARY:College GameDay: Baton Rouge\, Louisiana
 DESCRIPTION:College GameDay on ESPN. Featured game: LSU vs. Clemson. Broadc
  ast window: 9:00 a.m. to noon Eastern. Broadcast schedules can change.\nSo
- urce: https://espnpressroom.com/press-release/college-gameday-hits-the-roa
- d-for-the-500th-time-as-season-40-kicks-off-in-baton-rouge/
+ urce: https://lsusports.net/news/2026/05/12/lsu-to-host-espn-college-gamed
+ ay-for-kiffin-debut
 LOCATION:Baton Rouge\, Louisiana
-URL:https://espnpressroom.com/press-release/college-gameday-hits-the-road-f
- or-the-500th-time-as-season-40-kicks-off-in-baton-rouge/
+URL:https://lsusports.net/news/2026/05/12/lsu-to-host-espn-college-gameday-
+ for-kiffin-debut
 CATEGORIES:College,Pregame
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -105,6 +171,28 @@ LOCATION:Tiger Stadium (LA)\, Baton Rouge\, LA\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856660/clemson-l
  su
 CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:chelsea-2645215@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART:20260906T153000Z
+DTEND:20260906T173000Z
+SUMMARY:Arsenal vs Chelsea - Premier League
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club currently lists this kickoff as confirmed. Viewing window: 2 ho
+ urs\; finish is approximate.\n\nFixtures remain subject to later reschedul
+ ing. The feed refreshes from Chelsea’s official schedule.\n\nOfficial ma
+ tch: https://www.chelseafc.com/en/match/arsenal-vs-chelsea-english-premier
+ -league-2026-09-06
+LOCATION:Emirates Stadium
+URL:https://www.chelseafc.com/en/match/arsenal-vs-chelsea-english-premier-l
+ eague-2026-09-06
+CATEGORIES:Soccer,Chelsea,Premier League
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -196,6 +284,28 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:chelsea-2685176@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART:20260909T191500Z
+DTEND:20260909T214500Z
+SUMMARY:Chelsea vs Leeds United - Carabao Cup
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club currently lists this kickoff as confirmed. Viewing window: 2.5 
+ hours\; finish is approximate and extra time or penalties may run longer.\
+ n\nFixtures remain subject to later rescheduling. The feed refreshes from 
+ Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.co
+ m/en/match/chelsea-vs-leeds-united-english-league-cup-2026-09-09
+LOCATION:Stamford Bridge
+URL:https://www.chelseafc.com/en/match/chelsea-vs-leeds-united-english-leag
+ ue-cup-2026-09-09
+CATEGORIES:Soccer,Chelsea,Carabao Cup
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nfl-401872656@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T144637Z
@@ -276,6 +386,28 @@ URL:https://espnpressroom.com/press-release/espns-college-gameday-built-by-
  the-home-depot-kicks-off-40th-season-in-baton-rouge-with-500th-show-on-the
  -road/
 CATEGORIES:College,Pregame
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:chelsea-2645227@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART:20260912T140000Z
+DTEND:20260912T160000Z
+SUMMARY:Chelsea vs Hull City - Premier League
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club currently lists this kickoff as confirmed. Viewing window: 2 ho
+ urs\; finish is approximate.\n\nFixtures remain subject to later reschedul
+ ing. The feed refreshes from Chelsea’s official schedule.\n\nOfficial ma
+ tch: https://www.chelseafc.com/en/match/chelsea-vs-hull-city-english-premi
+ er-league-2026-09-12
+LOCATION:Stamford Bridge
+URL:https://www.chelseafc.com/en/match/chelsea-vs-hull-city-english-premier
+ -league-2026-09-12
+CATEGORIES:Soccer,Chelsea,Premier League
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -481,6 +613,28 @@ DESCRIPTION:Thursday football\, including Thanksgiving.\n\nTeams: Detroit L
 LOCATION:Highmark Stadium\, Orchard Park\, NY\, USA
 URL:https://www.espn.com/nfl/game/_/gameId/401872932/lions-bills
 CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:chelsea-2645236@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART:20260918T190000Z
+DTEND:20260918T210000Z
+SUMMARY:Brentford vs Chelsea - Premier League
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club currently lists this kickoff as confirmed. Viewing window: 2 ho
+ urs\; finish is approximate.\n\nFixtures remain subject to later reschedul
+ ing. The feed refreshes from Chelsea’s official schedule.\n\nOfficial ma
+ tch: https://www.chelseafc.com/en/match/brentford-vs-chelsea-english-premi
+ er-league-2026-09-18
+LOCATION:Gtech Community Stadium
+URL:https://www.chelseafc.com/en/match/brentford-vs-chelsea-english-premier
+ -league-2026-09-18
+CATEGORIES:Soccer,Chelsea,Premier League
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -2399,6 +2553,28 @@ STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:chelsea-2645247@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART:20261010T140000Z
+DTEND:20261010T160000Z
+SUMMARY:Chelsea vs Bournemouth - Premier League
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club currently lists this kickoff as confirmed. Viewing window: 2 ho
+ urs\; finish is approximate.\n\nFixtures remain subject to later reschedul
+ ing. The feed refreshes from Chelsea’s official schedule.\n\nOfficial ma
+ tch: https://www.chelseafc.com/en/match/chelsea-vs-bournemouth-english-pre
+ mier-league-2026-10-10
+LOCATION:Stamford Bridge
+URL:https://www.chelseafc.com/en/match/chelsea-vs-bournemouth-english-premi
+ er-league-2026-10-10
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:show-bignoon-2026-10-10@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -3149,6 +3325,28 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:chelsea-2645258@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART:20261017T113000Z
+DTEND:20261017T133000Z
+SUMMARY:Everton vs Chelsea - Premier League
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club currently lists this kickoff as confirmed. Viewing window: 2 ho
+ urs\; finish is approximate.\n\nFixtures remain subject to later reschedul
+ ing. The feed refreshes from Chelsea’s official schedule.\n\nOfficial ma
+ tch: https://www.chelseafc.com/en/match/everton-vs-chelsea-english-premier
+ -league-2026-10-17
+LOCATION:Hill Dickinson Stadium
+URL:https://www.chelseafc.com/en/match/everton-vs-chelsea-english-premier-l
+ eague-2026-10-17
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:show-gameday-2026-10-17@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -3686,6 +3884,28 @@ STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:chelsea-2645267@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART:20261024T163000Z
+DTEND:20261024T183000Z
+SUMMARY:Chelsea vs Tottenham Hotspur - Premier League
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club currently lists this kickoff as confirmed. Viewing window: 2 ho
+ urs\; finish is approximate.\n\nFixtures remain subject to later reschedul
+ ing. The feed refreshes from Chelsea’s official schedule.\n\nOfficial ma
+ tch: https://www.chelseafc.com/en/match/chelsea-vs-tottenham-hotspur-engli
+ sh-premier-league-2026-10-24
+LOCATION:Stamford Bridge
+URL:https://www.chelseafc.com/en/match/chelsea-vs-tottenham-hotspur-english
+ -premier-league-2026-10-24
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nhl-2026020170@football-watchlist
 DTSTAMP:20261001T073711Z
 CREATED:20261001T073711Z
@@ -3912,6 +4132,28 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:chelsea-2687775@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART:20261028T200000Z
+DTEND:20261028T223000Z
+SUMMARY:Liverpool vs Chelsea - Carabao Cup
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club currently lists this kickoff as confirmed. Viewing window: 2.5 
+ hours\; finish is approximate and extra time or penalties may run longer.\
+ n\nFixtures remain subject to later rescheduling. The feed refreshes from 
+ Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.co
+ m/en/match/liverpool-vs-chelsea-english-league-cup-2026-10-28
+LOCATION:Anfield
+URL:https://www.chelseafc.com/en/match/liverpool-vs-chelsea-english-league-
+ cup-2026-10-28
+CATEGORIES:Soccer,Chelsea,Carabao Cup
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nhl-2026020206@football-watchlist
 DTSTAMP:20261001T073711Z
 CREATED:20261001T073711Z
@@ -4018,6 +4260,28 @@ URL:https://www.mlb.com/gameday/849800
 CATEGORIES:MLB,Playoffs
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chelsea-2645278@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART:20261031T123000Z
+DTEND:20261031T143000Z
+SUMMARY:Chelsea vs Manchester United - Premier League
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club currently lists this kickoff as confirmed. Viewing window: 2 ho
+ urs\; finish is approximate.\n\nFixtures remain subject to later reschedul
+ ing. The feed refreshes from Chelsea’s official schedule.\n\nOfficial ma
+ tch: https://www.chelseafc.com/en/match/chelsea-vs-manchester-united-engli
+ sh-premier-league-2026-10-31
+LOCATION:Stamford Bridge
+URL:https://www.chelseafc.com/en/match/chelsea-vs-manchester-united-english
+ -premier-league-2026-10-31
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:show-gameday-2026-10-31@football-watchlist
@@ -4393,6 +4657,28 @@ DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
 LOCATION:American Airlines Center
 URL:https://www.nhl.com/gamecenter/sjs-vs-dal/2026/11/07/2026020272
 CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:chelsea-2645294@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Sunderland vs Chelsea - Premier League
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club currently lists this kickoff as confirmed. Viewing window: 2 ho
+ urs\; finish is approximate.\n\nFixtures remain subject to later reschedul
+ ing. The feed refreshes from Chelsea’s official schedule.\n\nOfficial ma
+ tch: https://www.chelseafc.com/en/match/sunderland-vs-chelsea-english-prem
+ ier-league-2026-11-08
+LOCATION:Stadium of Light
+URL:https://www.chelseafc.com/en/match/sunderland-vs-chelsea-english-premie
+ r-league-2026-11-08
+CATEGORIES:Soccer,Chelsea,Premier League
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -4833,6 +5119,28 @@ STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:chelsea-2645298@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART:20261121T150000Z
+DTEND:20261121T170000Z
+SUMMARY:Chelsea vs Leeds United - Premier League
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club currently lists this kickoff as confirmed. Viewing window: 2 ho
+ urs\; finish is approximate.\n\nFixtures remain subject to later reschedul
+ ing. The feed refreshes from Chelsea’s official schedule.\n\nOfficial ma
+ tch: https://www.chelseafc.com/en/match/chelsea-vs-leeds-united-english-pr
+ emier-league-2026-11-21
+LOCATION:Stamford Bridge
+URL:https://www.chelseafc.com/en/match/chelsea-vs-leeds-united-english-prem
+ ier-league-2026-11-21
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:show-bignoon-2026-11-21@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -5149,6 +5457,28 @@ LOCATION:Vaught-Hemingway Stadium\, Oxford\, MS\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856762/mississip
  pi-st-ole-miss
 CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:chelsea-2645313@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART:20261127T200000Z
+DTEND:20261127T220000Z
+SUMMARY:Nottingham Forest vs Chelsea - Premier League
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club currently lists this kickoff as confirmed. Viewing window: 2 ho
+ urs\; finish is approximate.\n\nFixtures remain subject to later reschedul
+ ing. The feed refreshes from Chelsea’s official schedule.\n\nOfficial ma
+ tch: https://www.chelseafc.com/en/match/nottingham-forest-vs-chelsea-engli
+ sh-premier-league-2026-11-27
+LOCATION:The City Ground
+URL:https://www.chelseafc.com/en/match/nottingham-forest-vs-chelsea-english
+ -premier-league-2026-11-27
+CATEGORIES:Soccer,Chelsea,Premier League
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -5520,6 +5850,29 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:chelsea-2645318@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Chelsea vs Crystal Palace - Premier League [date/time TBC]
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club marks this fixture TBC. The date shown is provisional\; the dat
+ e and kickoff may change for television or cup scheduling. This transparen
+ t all-day marker will update when confirmed.\n\nFixtures remain subject to
+  later rescheduling. The feed refreshes from Chelsea’s official schedule
+ .\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-crystal
+ -palace-english-premier-league-2026-12-02
+LOCATION:Stamford Bridge
+URL:https://www.chelseafc.com/en/match/chelsea-vs-crystal-palace-english-pr
+ emier-league-2026-12-02
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:nhl-2026020437@football-watchlist
 DTSTAMP:20261001T073711Z
 CREATED:20261001T073711Z
@@ -5618,6 +5971,29 @@ URL:https://www.espn.com/nfl/game/_/gameId/401873096/chiefs-rams
 CATEGORIES:NFL
 STATUS:CONFIRMED
 TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:chelsea-2645328@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Chelsea vs Liverpool - Premier League [date/time TBC]
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club marks this fixture TBC. The date shown is provisional\; the dat
+ e and kickoff may change for television or cup scheduling. This transparen
+ t all-day marker will update when confirmed.\n\nFixtures remain subject to
+  later rescheduling. The feed refreshes from Chelsea’s official schedule
+ .\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-liverpo
+ ol-english-premier-league-2026-12-05
+LOCATION:Stamford Bridge
+URL:https://www.chelseafc.com/en/match/chelsea-vs-liverpool-english-premier
+ -league-2026-12-05
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401869546@football-watchlist
@@ -5995,6 +6371,29 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:chelsea-2645343@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Manchester City vs Chelsea - Premier League [date/time TBC]
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club marks this fixture TBC. The date shown is provisional\; the dat
+ e and kickoff may change for television or cup scheduling. This transparen
+ t all-day marker will update when confirmed.\n\nFixtures remain subject to
+  later rescheduling. The feed refreshes from Chelsea’s official schedule
+ .\n\nOfficial match: https://www.chelseafc.com/en/match/manchester-city-vs
+ -chelsea-english-premier-league-2026-12-12
+LOCATION:Etihad Stadium
+URL:https://www.chelseafc.com/en/match/manchester-city-vs-chelsea-english-p
+ remier-league-2026-12-12
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:nhl-2026020512@football-watchlist
 DTSTAMP:20261001T073711Z
 CREATED:20261001T073711Z
@@ -6232,6 +6631,29 @@ URL:https://www.nhl.com/gamecenter/car-vs-uta/2026/12/17/2026020558
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
 STATUS:CONFIRMED
 TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:chelsea-2645349@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Chelsea vs Aston Villa - Premier League [date/time TBC]
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club marks this fixture TBC. The date shown is provisional\; the dat
+ e and kickoff may change for television or cup scheduling. This transparen
+ t all-day marker will update when confirmed.\n\nFixtures remain subject to
+  later rescheduling. The feed refreshes from Chelsea’s official schedule
+ .\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-aston-v
+ illa-english-premier-league-2026-12-19
+LOCATION:Stamford Bridge
+URL:https://www.chelseafc.com/en/match/chelsea-vs-aston-villa-english-premi
+ er-league-2026-12-19
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401874295@football-watchlist
@@ -6613,6 +7035,28 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:chelsea-2645356@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART:20261227T140000Z
+DTEND:20261227T160000Z
+SUMMARY:Coventry City vs Chelsea - Premier League
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club currently lists this kickoff as confirmed. Viewing window: 2 ho
+ urs\; finish is approximate.\n\nFixtures remain subject to later reschedul
+ ing. The feed refreshes from Chelsea’s official schedule.\n\nOfficial ma
+ tch: https://www.chelseafc.com/en/match/coventry-city-vs-chelsea-english-p
+ remier-league-2026-12-27
+LOCATION:Coventry Building Society Arena
+URL:https://www.chelseafc.com/en/match/coventry-city-vs-chelsea-english-pre
+ mier-league-2026-12-27
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:redzone-2026-12-27@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -6746,6 +7190,28 @@ DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
 LOCATION:Scotiabank Saddledome
 URL:https://www.nhl.com/gamecenter/sjs-vs-cgy/2026/12/29/2026020632
 CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:chelsea-2645371@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART:20261230T201500Z
+DTEND:20261230T221500Z
+SUMMARY:Ipswich Town vs Chelsea - Premier League
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club currently lists this kickoff as confirmed. Viewing window: 2 ho
+ urs\; finish is approximate.\n\nFixtures remain subject to later reschedul
+ ing. The feed refreshes from Chelsea’s official schedule.\n\nOfficial ma
+ tch: https://www.chelseafc.com/en/match/ipswich-town-vs-chelsea-english-pr
+ emier-league-2026-12-30
+LOCATION:Portman Road
+URL:https://www.chelseafc.com/en/match/ipswich-town-vs-chelsea-english-prem
+ ier-league-2026-12-30
+CATEGORIES:Soccer,Chelsea,Premier League
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -6927,6 +7393,28 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:chelsea-2645379@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART:20270103T140000Z
+DTEND:20270103T160000Z
+SUMMARY:Chelsea vs Newcastle United - Premier League
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club currently lists this kickoff as confirmed. Viewing window: 2 ho
+ urs\; finish is approximate.\n\nFixtures remain subject to later reschedul
+ ing. The feed refreshes from Chelsea’s official schedule.\n\nOfficial ma
+ tch: https://www.chelseafc.com/en/match/chelsea-vs-newcastle-united-englis
+ h-premier-league-2027-01-03
+LOCATION:Stamford Bridge
+URL:https://www.chelseafc.com/en/match/chelsea-vs-newcastle-united-english-
+ premier-league-2027-01-03
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:redzone-2027-01-03@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -7020,6 +7508,28 @@ DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
 LOCATION:Lenovo Center
 URL:https://www.nhl.com/gamecenter/stl-vs-car/2027/01/05/2026020681
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:chelsea-2645387@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART:20270106T193000Z
+DTEND:20270106T213000Z
+SUMMARY:Crystal Palace vs Chelsea - Premier League
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club currently lists this kickoff as confirmed. Viewing window: 2 ho
+ urs\; finish is approximate.\n\nFixtures remain subject to later reschedul
+ ing. The feed refreshes from Chelsea’s official schedule.\n\nOfficial ma
+ tch: https://www.chelseafc.com/en/match/crystal-palace-vs-chelsea-english-
+ premier-league-2027-01-06
+LOCATION:Selhurst Park
+URL:https://www.chelseafc.com/en/match/crystal-palace-vs-chelsea-english-pr
+ emier-league-2027-01-06
+CATEGORIES:Soccer,Chelsea,Premier League
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -7241,6 +7751,29 @@ URL:https://www.nhl.com/gamecenter/sjs-vs-cgy/2027/01/14/2026020750
 CATEGORIES:NHL,Regular season,San Jose Sharks
 STATUS:CONFIRMED
 TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:chelsea-2645398@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Chelsea vs Sunderland - Premier League [date/time TBC]
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club marks this fixture TBC. The date shown is provisional\; the dat
+ e and kickoff may change for television or cup scheduling. This transparen
+ t all-day marker will update when confirmed.\n\nFixtures remain subject to
+  later rescheduling. The feed refreshes from Chelsea’s official schedule
+ .\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-sunderl
+ and-english-premier-league-2027-01-16
+LOCATION:Stamford Bridge
+URL:https://www.chelseafc.com/en/match/chelsea-vs-sunderland-english-premie
+ r-league-2027-01-16
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401872910@football-watchlist
@@ -7479,6 +8012,29 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:chelsea-2645411@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Leeds United vs Chelsea - Premier League [date/time TBC]
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club marks this fixture TBC. The date shown is provisional\; the dat
+ e and kickoff may change for television or cup scheduling. This transparen
+ t all-day marker will update when confirmed.\n\nFixtures remain subject to
+  later rescheduling. The feed refreshes from Chelsea’s official schedule
+ .\n\nOfficial match: https://www.chelseafc.com/en/match/leeds-united-vs-ch
+ elsea-english-premier-league-2027-01-23
+LOCATION:Elland Road
+URL:https://www.chelseafc.com/en/match/leeds-united-vs-chelsea-english-prem
+ ier-league-2027-01-23
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:nfl-401872916@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -7695,6 +8251,29 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:chelsea-2645418@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Chelsea vs Nottingham Forest - Premier League [date/time TBC]
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club marks this fixture TBC. The date shown is provisional\; the dat
+ e and kickoff may change for television or cup scheduling. This transparen
+ t all-day marker will update when confirmed.\n\nFixtures remain subject to
+  later rescheduling. The feed refreshes from Chelsea’s official schedule
+ .\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-notting
+ ham-forest-english-premier-league-2027-01-30
+LOCATION:Stamford Bridge
+URL:https://www.chelseafc.com/en/match/chelsea-vs-nottingham-forest-english
+ -premier-league-2027-01-30
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:nhl-2026020867@football-watchlist
 DTSTAMP:20261001T073711Z
 CREATED:20261001T073711Z
@@ -7771,6 +8350,52 @@ URL:https://www.nhl.com/gamecenter/lak-vs-car/2027/01/30/2026020872
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
 STATUS:CONFIRMED
 TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:chelsea-2645432@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Manchester United vs Chelsea - Premier League [date/time TBC]
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club marks this fixture TBC. The date shown is provisional\; the dat
+ e and kickoff may change for television or cup scheduling. This transparen
+ t all-day marker will update when confirmed.\n\nFixtures remain subject to
+  later rescheduling. The feed refreshes from Chelsea’s official schedule
+ .\n\nOfficial match: https://www.chelseafc.com/en/match/manchester-united-
+ vs-chelsea-english-premier-league-2027-02-06
+LOCATION:Old Trafford
+URL:https://www.chelseafc.com/en/match/manchester-united-vs-chelsea-english
+ -premier-league-2027-02-06
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chelsea-2645443@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:Newcastle United vs Chelsea - Premier League [date/time TBC]
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club marks this fixture TBC. The date shown is provisional\; the dat
+ e and kickoff may change for television or cup scheduling. This transparen
+ t all-day marker will update when confirmed.\n\nFixtures remain subject to
+  later rescheduling. The feed refreshes from Chelsea’s official schedule
+ .\n\nOfficial match: https://www.chelseafc.com/en/match/newcastle-united-v
+ s-chelsea-english-premier-league-2027-02-10
+LOCATION:St. James' Park
+URL:https://www.chelseafc.com/en/match/newcastle-united-vs-chelsea-english-
+ premier-league-2027-02-10
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020898@football-watchlist
@@ -7955,6 +8580,29 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:chelsea-2645449@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Chelsea vs Ipswich Town - Premier League [date/time TBC]
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club marks this fixture TBC. The date shown is provisional\; the dat
+ e and kickoff may change for television or cup scheduling. This transparen
+ t all-day marker will update when confirmed.\n\nFixtures remain subject to
+  later rescheduling. The feed refreshes from Chelsea’s official schedule
+ .\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-ipswich
+ -town-english-premier-league-2027-02-20
+LOCATION:Stamford Bridge
+URL:https://www.chelseafc.com/en/match/chelsea-vs-ipswich-town-english-prem
+ ier-league-2027-02-20
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:nhl-2026020961@football-watchlist
 DTSTAMP:20261001T073711Z
 CREATED:20261001T073711Z
@@ -8096,6 +8744,29 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:chelsea-2645455@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Aston Villa vs Chelsea - Premier League [date/time TBC]
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club marks this fixture TBC. The date shown is provisional\; the dat
+ e and kickoff may change for television or cup scheduling. This transparen
+ t all-day marker will update when confirmed.\n\nFixtures remain subject to
+  later rescheduling. The feed refreshes from Chelsea’s official schedule
+ .\n\nOfficial match: https://www.chelseafc.com/en/match/aston-villa-vs-che
+ lsea-english-premier-league-2027-02-27
+LOCATION:Villa Park
+URL:https://www.chelseafc.com/en/match/aston-villa-vs-chelsea-english-premi
+ er-league-2027-02-27
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:nhl-2026021023@football-watchlist
 DTSTAMP:20261001T073711Z
 CREATED:20261001T073711Z
@@ -8174,6 +8845,29 @@ URL:https://www.nhl.com/gamecenter/mtl-vs-sjs/2027/03/01/2026021042
 CATEGORIES:NHL,Regular season,San Jose Sharks
 STATUS:CONFIRMED
 TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:chelsea-2645469@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:Chelsea vs Coventry City - Premier League [date/time TBC]
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club marks this fixture TBC. The date shown is provisional\; the dat
+ e and kickoff may change for television or cup scheduling. This transparen
+ t all-day marker will update when confirmed.\n\nFixtures remain subject to
+  later rescheduling. The feed refreshes from Chelsea’s official schedule
+ .\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-coventr
+ y-city-english-premier-league-2027-03-03
+LOCATION:Stamford Bridge
+URL:https://www.chelseafc.com/en/match/chelsea-vs-coventry-city-english-pre
+ mier-league-2027-03-03
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026021050@football-watchlist
@@ -8356,6 +9050,29 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:chelsea-2645477@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Chelsea vs Arsenal - Premier League [date/time TBC]
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club marks this fixture TBC. The date shown is provisional\; the dat
+ e and kickoff may change for television or cup scheduling. This transparen
+ t all-day marker will update when confirmed.\n\nFixtures remain subject to
+  later rescheduling. The feed refreshes from Chelsea’s official schedule
+ .\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-arsenal
+ -english-premier-league-2027-03-13
+LOCATION:Stamford Bridge
+URL:https://www.chelseafc.com/en/match/chelsea-vs-arsenal-english-premier-l
+ eague-2027-03-13
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:nhl-2026021119@football-watchlist
 DTSTAMP:20261001T073711Z
 CREATED:20261001T073711Z
@@ -8515,6 +9232,29 @@ URL:https://www.nhl.com/gamecenter/car-vs-lak/2027/03/18/2026021170
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
 STATUS:CONFIRMED
 TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:chelsea-2645490@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Hull City vs Chelsea - Premier League [date/time TBC]
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club marks this fixture TBC. The date shown is provisional\; the dat
+ e and kickoff may change for television or cup scheduling. This transparen
+ t all-day marker will update when confirmed.\n\nFixtures remain subject to
+  later rescheduling. The feed refreshes from Chelsea’s official schedule
+ .\n\nOfficial match: https://www.chelseafc.com/en/match/hull-city-vs-chels
+ ea-english-premier-league-2027-03-20
+LOCATION:The MKM Stadium
+URL:https://www.chelseafc.com/en/match/hull-city-vs-chelsea-english-premier
+ -league-2027-03-20
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026021185@football-watchlist
@@ -8880,6 +9620,29 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:chelsea-2645497@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Chelsea vs Fulham - Premier League [date/time TBC]
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club marks this fixture TBC. The date shown is provisional\; the dat
+ e and kickoff may change for television or cup scheduling. This transparen
+ t all-day marker will update when confirmed.\n\nFixtures remain subject to
+  later rescheduling. The feed refreshes from Chelsea’s official schedule
+ .\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-fulham-
+ english-premier-league-2027-04-10
+LOCATION:Stamford Bridge
+URL:https://www.chelseafc.com/en/match/chelsea-vs-fulham-english-premier-le
+ ague-2027-04-10
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:nhl-2026021331@football-watchlist
 DTSTAMP:20261001T073711Z
 CREATED:20261001T073711Z
@@ -8918,5 +9681,166 @@ URL:https://www.nhl.com/gamecenter/car-vs-fla/2027/04/10/2026021334
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
 STATUS:CONFIRMED
 TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:chelsea-2645507@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Brighton & Hove Albion vs Chelsea - Premier League [date/time TBC]
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club marks this fixture TBC. The date shown is provisional\; the dat
+ e and kickoff may change for television or cup scheduling. This transparen
+ t all-day marker will update when confirmed.\n\nFixtures remain subject to
+  later rescheduling. The feed refreshes from Chelsea’s official schedule
+ .\n\nOfficial match: https://www.chelseafc.com/en/match/brighton-and-hove-
+ albion-vs-chelsea-english-premier-league-2027-04-17
+LOCATION:American Express Stadium
+URL:https://www.chelseafc.com/en/match/brighton-and-hove-albion-vs-chelsea-
+ english-premier-league-2027-04-17
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chelsea-2645518@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Chelsea vs Manchester City - Premier League [date/time TBC]
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club marks this fixture TBC. The date shown is provisional\; the dat
+ e and kickoff may change for television or cup scheduling. This transparen
+ t all-day marker will update when confirmed.\n\nFixtures remain subject to
+  later rescheduling. The feed refreshes from Chelsea’s official schedule
+ .\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-manches
+ ter-city-english-premier-league-2027-04-24
+LOCATION:Stamford Bridge
+URL:https://www.chelseafc.com/en/match/chelsea-vs-manchester-city-english-p
+ remier-league-2027-04-24
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chelsea-2645532@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Liverpool vs Chelsea - Premier League [date/time TBC]
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club marks this fixture TBC. The date shown is provisional\; the dat
+ e and kickoff may change for television or cup scheduling. This transparen
+ t all-day marker will update when confirmed.\n\nFixtures remain subject to
+  later rescheduling. The feed refreshes from Chelsea’s official schedule
+ .\n\nOfficial match: https://www.chelseafc.com/en/match/liverpool-vs-chels
+ ea-english-premier-league-2027-05-01
+LOCATION:Anfield
+URL:https://www.chelseafc.com/en/match/liverpool-vs-chelsea-english-premier
+ -league-2027-05-01
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chelsea-2645544@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Tottenham Hotspur vs Chelsea - Premier League [date/time TBC]
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club marks this fixture TBC. The date shown is provisional\; the dat
+ e and kickoff may change for television or cup scheduling. This transparen
+ t all-day marker will update when confirmed.\n\nFixtures remain subject to
+  later rescheduling. The feed refreshes from Chelsea’s official schedule
+ .\n\nOfficial match: https://www.chelseafc.com/en/match/tottenham-hotspur-
+ vs-chelsea-english-premier-league-2027-05-08
+LOCATION:Tottenham Hotspur Stadium
+URL:https://www.chelseafc.com/en/match/tottenham-hotspur-vs-chelsea-english
+ -premier-league-2027-05-08
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chelsea-2645547@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Chelsea vs Everton - Premier League [date/time TBC]
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club marks this fixture TBC. The date shown is provisional\; the dat
+ e and kickoff may change for television or cup scheduling. This transparen
+ t all-day marker will update when confirmed.\n\nFixtures remain subject to
+  later rescheduling. The feed refreshes from Chelsea’s official schedule
+ .\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-everton
+ -english-premier-league-2027-05-15
+LOCATION:Stamford Bridge
+URL:https://www.chelseafc.com/en/match/chelsea-vs-everton-english-premier-l
+ eague-2027-05-15
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chelsea-2645555@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Bournemouth vs Chelsea - Premier League [date/time TBC]
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club marks this fixture TBC. The date shown is provisional\; the dat
+ e and kickoff may change for television or cup scheduling. This transparen
+ t all-day marker will update when confirmed.\n\nFixtures remain subject to
+  later rescheduling. The feed refreshes from Chelsea’s official schedule
+ .\n\nOfficial match: https://www.chelseafc.com/en/match/bournemouth-vs-che
+ lsea-english-premier-league-2027-05-23
+LOCATION:Vitality Stadium
+URL:https://www.chelseafc.com/en/match/bournemouth-vs-chelsea-english-premi
+ er-league-2027-05-23
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chelsea-2645567@football-watchlist
+DTSTAMP:20261003T132345Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261003T132345Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:Chelsea vs Brentford - Premier League [date/time TBC]
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club marks this fixture TBC. The date shown is provisional\; the dat
+ e and kickoff may change for television or cup scheduling. This transparen
+ t all-day marker will update when confirmed.\n\nFixtures remain subject to
+  later rescheduling. The feed refreshes from Chelsea’s official schedule
+ .\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-brentfo
+ rd-english-premier-league-2027-05-30
+LOCATION:Stamford Bridge
+URL:https://www.chelseafc.com/en/match/chelsea-vs-brentford-english-premier
+ -league-2027-05-30
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

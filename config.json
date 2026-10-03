@@ -1,5 +1,10 @@
 {
   "name": "Football and Friends",
+  "chelsea": {
+    "enabled": true,
+    "includeFriendlies": false,
+    "excludeGameIds": []
+  },
   "hockey": {
     "enabled": true,
     "teamAbbreviations": ["CAR", "SJS"],

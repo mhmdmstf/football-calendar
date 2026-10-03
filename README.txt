@@ -27,6 +27,10 @@ WHAT IS INCLUDED
 - Every Carolina Hurricanes and San Jose Sharks regular-season game, plus their
   playoff games as the NHL announces them. Preseason is excluded. Meetings
   between the two teams appear once. Viewing windows are three hours, estimated.
+- Chelsea men's first-team matches across all competitions. League fixtures
+  appear across the published season; cup matches are added as draws
+  assign Chelsea a fixture. Friendlies are excluded. League viewing windows are
+  two hours and cup windows two and a half hours, both estimated.
 
 HOW IT UPDATES
 GitHub runs the updater four times a day. Your calendar app decides how quickly
@@ -64,6 +68,15 @@ times and unresolved postponements use transparent all-day markers. An NHL
 source problem preserves the previous hockey entries while other sports can
 refresh; status.json records any warning and the last successful NHL check.
 
+Chelsea uses the club's official all-competitions fixtures and results, checked
+together against a complete 38-match Premier League season. Confirmed kickoffs
+use UK local time converted to UTC. Dates still marked TBC by Chelsea and
+unresolved postponements appear as transparent all-day markers. Fixture changes
+update the same event; generic cup rounds or finals are not added unless Chelsea
+has an assigned match. A source problem preserves Chelsea's previous entries
+while other sports can refresh,
+with the last successful Chelsea check and any warning recorded in status.json.
+
 The existing football.ics URL is permanent even as other sports are added.
 The feed advertises "Football and Friends". Calendar apps may retain a locally
 chosen name; rename that subscription in the app if its old label remains.
@@ -88,6 +101,8 @@ Padres 135), daily/series limits, the selection horizon and baseball-only game
 overrides. It can be disabled independently. Other sports can be added later.
 The hockey section stores NHL team abbreviations (CAR and SJS), preseason
 preference and hockey-only game overrides. It can be disabled independently.
+The chelsea section controls Chelsea's inclusion, friendlies and excluded match
+IDs. It can be disabled independently without changing the subscription URL.
 
 MAINTENANCE
 Node 20+; no packages or API keys needed. Run 'node --test', then
@@ -97,6 +112,7 @@ source counts and show-source warnings. A daily state update keeps this public
 repository active even in the offseason, avoiding GitHub's inactivity cutoff.
 
 PRIMARY SCHEDULE REFERENCES
+https://www.chelseafc.com/en/matches/mens-fixtures-and-results
 https://www.nhl.com/hurricanes/schedule
 https://www.nhl.com/sharks/schedule
 https://api-web.nhle.com/v1/club-schedule-season/CAR/now

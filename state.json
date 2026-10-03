@@ -3,6 +3,78 @@
   "season": 2026,
   "events": [
     {
+      "uid": "chelsea-2645204@football-watchlist",
+      "gameId": "2645204",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Fulham vs Chelsea - Premier League",
+      "start": "2026-08-24T19:00:00.000Z",
+      "end": "2026-08-24T21:00:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club currently lists this kickoff as confirmed. Viewing window: 2 hours; finish is approximate.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/fulham-vs-chelsea-english-premier-league-2026-08-24",
+      "location": "Craven Cottage",
+      "url": "https://www.chelseafc.com/en/match/fulham-vs-chelsea-english-premier-league-2026-08-24",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "39f85c984b5a02be6162b84b33821aa1538f97f02c67635492bbbd4f9181492a",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
+    },
+    {
+      "uid": "chelsea-2679897@football-watchlist",
+      "gameId": "2679897",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.league_cup",
+      "chelseaFriendly": false,
+      "title": "Chelsea vs Luton Town - Carabao Cup",
+      "start": "2026-08-27T18:30:00.000Z",
+      "end": "2026-08-27T21:00:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club currently lists this kickoff as confirmed. Viewing window: 2.5 hours; finish is approximate and extra time or penalties may run longer.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-luton-town-english-league-cup-2026-08-27",
+      "location": "Stamford Bridge",
+      "url": "https://www.chelseafc.com/en/match/chelsea-vs-luton-town-english-league-cup-2026-08-27",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Carabao Cup"
+      ],
+      "hash": "0cf4f87b7af6f36f5b7e7a5a086be25dfbf8827dd2c52a574c77610fc69d8d46",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
+    },
+    {
+      "uid": "chelsea-2645207@football-watchlist",
+      "gameId": "2645207",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Chelsea vs Brighton & Hove Albion - Premier League",
+      "start": "2026-08-30T13:00:00.000Z",
+      "end": "2026-08-30T15:00:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club currently lists this kickoff as confirmed. Viewing window: 2 hours; finish is approximate.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-brighton-and-hove-albion-english-premier-league-2026-08-30",
+      "location": "Stamford Bridge",
+      "url": "https://www.chelseafc.com/en/match/chelsea-vs-brighton-and-hove-albion-english-premier-league-2026-08-30",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "f358beab2da619437a486d96f1e9c980b4ce0c6c6b5d2a26298f3a32abb7db85",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
+    },
+    {
       "uid": "show-gameday-2026-09-05@football-watchlist",
       "title": "College GameDay: Baton Rouge, Louisiana",
       "gameId": "401856660",
@@ -10,17 +82,17 @@
       "end": "2026-09-05T16:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "College GameDay on ESPN. Featured game: LSU vs. Clemson. Broadcast window: 9:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://espnpressroom.com/press-release/college-gameday-hits-the-road-for-the-500th-time-as-season-40-kicks-off-in-baton-rouge/",
+      "description": "College GameDay on ESPN. Featured game: LSU vs. Clemson. Broadcast window: 9:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://lsusports.net/news/2026/05/12/lsu-to-host-espn-college-gameday-for-kiffin-debut",
       "location": "Baton Rouge, Louisiana",
-      "url": "https://espnpressroom.com/press-release/college-gameday-hits-the-road-for-the-500th-time-as-season-40-kicks-off-in-baton-rouge/",
+      "url": "https://lsusports.net/news/2026/05/12/lsu-to-host-espn-college-gameday-for-kiffin-debut",
       "categories": [
         "College",
         "Pregame"
       ],
-      "hash": "fdc44cf7a345e26561e92bf2c0dbe46aebe1246d58ae53a664bec6b280c9ad86",
+      "hash": "c3b9c62d70b7013f49c7686a1f178248d0e6cae48802461856d8a64296192e0a",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 1
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 2
     },
     {
       "uid": "show-bignoon-2026-09-05@football-watchlist",
@@ -98,6 +170,30 @@
       "hash": "44f1808564f901437e6aac45d49b15fe31e3f8a5781b46ceed276d09f3ecdd63",
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-06T07:11:13.218Z",
+      "sequence": 1
+    },
+    {
+      "uid": "chelsea-2645215@football-watchlist",
+      "gameId": "2645215",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Arsenal vs Chelsea - Premier League",
+      "start": "2026-09-06T15:30:00.000Z",
+      "end": "2026-09-06T17:30:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club currently lists this kickoff as confirmed. Viewing window: 2 hours; finish is approximate.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/arsenal-vs-chelsea-english-premier-league-2026-09-06",
+      "location": "Emirates Stadium",
+      "url": "https://www.chelseafc.com/en/match/arsenal-vs-chelsea-english-premier-league-2026-09-06",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "73dfeace4deff94287ae189c89f8c22bc514ce8d27444388ebca7870c7ee1ae8",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
       "sequence": 1
     },
     {
@@ -183,6 +279,30 @@
       "sequence": 0
     },
     {
+      "uid": "chelsea-2685176@football-watchlist",
+      "gameId": "2685176",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.league_cup",
+      "chelseaFriendly": false,
+      "title": "Chelsea vs Leeds United - Carabao Cup",
+      "start": "2026-09-09T19:15:00.000Z",
+      "end": "2026-09-09T21:45:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club currently lists this kickoff as confirmed. Viewing window: 2.5 hours; finish is approximate and extra time or penalties may run longer.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-leeds-united-english-league-cup-2026-09-09",
+      "location": "Stamford Bridge",
+      "url": "https://www.chelseafc.com/en/match/chelsea-vs-leeds-united-english-league-cup-2026-09-09",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Carabao Cup"
+      ],
+      "hash": "3c3aa0c1ef47dfa838fc20b5104555fd46c717b434e63dd86bf8bfe3c070f721",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
+    },
+    {
       "uid": "nfl-401872656@football-watchlist",
       "gameId": "401872656",
       "title": "NFL: New England Patriots at Seattle Seahawks",
@@ -259,6 +379,30 @@
       "hash": "e32d8d27a6a417f20fa0b0dcf51bab5e9c173840a3cd479ecd64ee18b23a5ab9",
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "chelsea-2645227@football-watchlist",
+      "gameId": "2645227",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Chelsea vs Hull City - Premier League",
+      "start": "2026-09-12T14:00:00.000Z",
+      "end": "2026-09-12T16:00:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club currently lists this kickoff as confirmed. Viewing window: 2 hours; finish is approximate.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-hull-city-english-premier-league-2026-09-12",
+      "location": "Stamford Bridge",
+      "url": "https://www.chelseafc.com/en/match/chelsea-vs-hull-city-english-premier-league-2026-09-12",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "9a6f53d5c195ba2ce649194bfe40f9d8e01af5ea074f8ff3f4788ee11d11df2a",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
       "sequence": 1
     },
     {
@@ -455,6 +599,30 @@
       "hash": "1dc53b8064c7db69926e6467a0bc000c788241433e3c6b0f9027aa2d82cb8574",
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "chelsea-2645236@football-watchlist",
+      "gameId": "2645236",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Brentford vs Chelsea - Premier League",
+      "start": "2026-09-18T19:00:00.000Z",
+      "end": "2026-09-18T21:00:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club currently lists this kickoff as confirmed. Viewing window: 2 hours; finish is approximate.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/brentford-vs-chelsea-english-premier-league-2026-09-18",
+      "location": "Gtech Community Stadium",
+      "url": "https://www.chelseafc.com/en/match/brentford-vs-chelsea-english-premier-league-2026-09-18",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "af0298b4d4fdcb3bba01fbc3e4eb964670ec5679e8d5705c3257c04b696d5c98",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
       "sequence": 1
     },
     {
@@ -2888,6 +3056,30 @@
       "sequence": 0
     },
     {
+      "uid": "chelsea-2645247@football-watchlist",
+      "gameId": "2645247",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Chelsea vs Bournemouth - Premier League",
+      "start": "2026-10-10T14:00:00.000Z",
+      "end": "2026-10-10T16:00:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club currently lists this kickoff as confirmed. Viewing window: 2 hours; finish is approximate.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-bournemouth-english-premier-league-2026-10-10",
+      "location": "Stamford Bridge",
+      "url": "https://www.chelseafc.com/en/match/chelsea-vs-bournemouth-english-premier-league-2026-10-10",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "8581e31badeea4930aef07bc3c095aa842c253df15ab37d990709582d50436ef",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
+    },
+    {
       "uid": "show-bignoon-2026-10-10@football-watchlist",
       "title": "Big Noon Kickoff: location TBA",
       "start": "2026-10-10T14:00:00.000Z",
@@ -3814,6 +4006,30 @@
       "sequence": 2
     },
     {
+      "uid": "chelsea-2645258@football-watchlist",
+      "gameId": "2645258",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Everton vs Chelsea - Premier League",
+      "start": "2026-10-17T11:30:00.000Z",
+      "end": "2026-10-17T13:30:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club currently lists this kickoff as confirmed. Viewing window: 2 hours; finish is approximate.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/everton-vs-chelsea-english-premier-league-2026-10-17",
+      "location": "Hill Dickinson Stadium",
+      "url": "https://www.chelseafc.com/en/match/everton-vs-chelsea-english-premier-league-2026-10-17",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "78c609692c177c8ab9c5525b1d59e082d90480003a8f9e4156add09229b3e252",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
+    },
+    {
       "uid": "show-gameday-2026-10-17@football-watchlist",
       "title": "College GameDay: location TBA",
       "start": "2026-10-17T13:00:00.000Z",
@@ -4479,6 +4695,30 @@
       "sequence": 0
     },
     {
+      "uid": "chelsea-2645267@football-watchlist",
+      "gameId": "2645267",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Chelsea vs Tottenham Hotspur - Premier League",
+      "start": "2026-10-24T16:30:00.000Z",
+      "end": "2026-10-24T18:30:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club currently lists this kickoff as confirmed. Viewing window: 2 hours; finish is approximate.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-tottenham-hotspur-english-premier-league-2026-10-24",
+      "location": "Stamford Bridge",
+      "url": "https://www.chelseafc.com/en/match/chelsea-vs-tottenham-hotspur-english-premier-league-2026-10-24",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "9fedb06d4fd28711213bd02255c99fc8cb3594a584cc4096e5281b471944e45f",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
+    },
+    {
       "uid": "nhl-2026020170@football-watchlist",
       "gameId": "2026020170",
       "nhlSeason": 20262027,
@@ -4771,6 +5011,30 @@
       "sequence": 0
     },
     {
+      "uid": "chelsea-2687775@football-watchlist",
+      "gameId": "2687775",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.league_cup",
+      "chelseaFriendly": false,
+      "title": "Liverpool vs Chelsea - Carabao Cup",
+      "start": "2026-10-28T20:00:00.000Z",
+      "end": "2026-10-28T22:30:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club currently lists this kickoff as confirmed. Viewing window: 2.5 hours; finish is approximate and extra time or penalties may run longer.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/liverpool-vs-chelsea-english-league-cup-2026-10-28",
+      "location": "Anfield",
+      "url": "https://www.chelseafc.com/en/match/liverpool-vs-chelsea-english-league-cup-2026-10-28",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Carabao Cup"
+      ],
+      "hash": "946312c1016a3b06380c8b075b63c44a2e01dacac8c93360e0faa78f4fbc9df8",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
+    },
+    {
       "uid": "nhl-2026020206@football-watchlist",
       "gameId": "2026020206",
       "nhlSeason": 20262027,
@@ -4911,6 +5175,30 @@
       "hash": "3dd20cdf744ac67c0412120dc17867c2c043e5d4a4143f6b4879ec362e9a0978",
       "created": "2026-09-19T11:15:49.893Z",
       "modified": "2026-09-19T11:20:59.122Z",
+      "sequence": 1
+    },
+    {
+      "uid": "chelsea-2645278@football-watchlist",
+      "gameId": "2645278",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Chelsea vs Manchester United - Premier League",
+      "start": "2026-10-31T12:30:00.000Z",
+      "end": "2026-10-31T14:30:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club currently lists this kickoff as confirmed. Viewing window: 2 hours; finish is approximate.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-manchester-united-english-premier-league-2026-10-31",
+      "location": "Stamford Bridge",
+      "url": "https://www.chelseafc.com/en/match/chelsea-vs-manchester-united-english-premier-league-2026-10-31",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "eed592eba0db420fa7fce8687380ac12fb7097eef2646c3f1467aac9e0643114",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
       "sequence": 1
     },
     {
@@ -5373,6 +5661,30 @@
       "created": "2026-10-01T07:37:11.478Z",
       "modified": "2026-10-01T07:37:11.478Z",
       "sequence": 0
+    },
+    {
+      "uid": "chelsea-2645294@football-watchlist",
+      "gameId": "2645294",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Sunderland vs Chelsea - Premier League",
+      "start": "2026-11-08T14:00:00.000Z",
+      "end": "2026-11-08T16:00:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club currently lists this kickoff as confirmed. Viewing window: 2 hours; finish is approximate.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/sunderland-vs-chelsea-english-premier-league-2026-11-08",
+      "location": "Stadium of Light",
+      "url": "https://www.chelseafc.com/en/match/sunderland-vs-chelsea-english-premier-league-2026-11-08",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "678adc1ed40aa40fe42d72b17c93cfcd0b764f1675719f21d27ffcd7a94b1760",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
     },
     {
       "uid": "nfl-401873038@football-watchlist",
@@ -5882,6 +6194,30 @@
       "sequence": 0
     },
     {
+      "uid": "chelsea-2645298@football-watchlist",
+      "gameId": "2645298",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Chelsea vs Leeds United - Premier League",
+      "start": "2026-11-21T15:00:00.000Z",
+      "end": "2026-11-21T17:00:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club currently lists this kickoff as confirmed. Viewing window: 2 hours; finish is approximate.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-leeds-united-english-premier-league-2026-11-21",
+      "location": "Stamford Bridge",
+      "url": "https://www.chelseafc.com/en/match/chelsea-vs-leeds-united-english-premier-league-2026-11-21",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "f4c72906daeb0957207b12301e1417d01b9e3bc55395ef728712c8e60fc6888f",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
+    },
+    {
       "uid": "show-bignoon-2026-11-21@football-watchlist",
       "title": "Big Noon Kickoff: location TBA",
       "start": "2026-11-21T15:00:00.000Z",
@@ -6251,6 +6587,30 @@
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-05T14:46:37.855Z",
       "sequence": 0
+    },
+    {
+      "uid": "chelsea-2645313@football-watchlist",
+      "gameId": "2645313",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Nottingham Forest vs Chelsea - Premier League",
+      "start": "2026-11-27T20:00:00.000Z",
+      "end": "2026-11-27T22:00:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club currently lists this kickoff as confirmed. Viewing window: 2 hours; finish is approximate.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/nottingham-forest-vs-chelsea-english-premier-league-2026-11-27",
+      "location": "The City Ground",
+      "url": "https://www.chelseafc.com/en/match/nottingham-forest-vs-chelsea-english-premier-league-2026-11-27",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "f816867647e9e3c8ae4592871a9ad76654b161eaf2145f5bef0940986cc28ff7",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
     },
     {
       "uid": "nfl-401873083@football-watchlist",
@@ -6641,6 +7001,30 @@
       "sequence": 1
     },
     {
+      "uid": "chelsea-2645318@football-watchlist",
+      "gameId": "2645318",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Chelsea vs Crystal Palace - Premier League [date/time TBC]",
+      "start": "2026-12-02",
+      "end": "2026-12-03",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club marks this fixture TBC. The date shown is provisional; the date and kickoff may change for television or cup scheduling. This transparent all-day marker will update when confirmed.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-crystal-palace-english-premier-league-2026-12-02",
+      "location": "Stamford Bridge",
+      "url": "https://www.chelseafc.com/en/match/chelsea-vs-crystal-palace-english-premier-league-2026-12-02",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "808f91b7da22b892bf5764e1d64b0c40b640d4dbed3040a097ec870fcb21819f",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
+    },
+    {
       "uid": "nhl-2026020437@football-watchlist",
       "gameId": "2026020437",
       "nhlSeason": 20262027,
@@ -6766,6 +7150,30 @@
       "hash": "0e9ad4abcd9c81a7933d2244dc0d68ba2b320a21abccec42122167b128c76eff",
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "chelsea-2645328@football-watchlist",
+      "gameId": "2645328",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Chelsea vs Liverpool - Premier League [date/time TBC]",
+      "start": "2026-12-05",
+      "end": "2026-12-06",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club marks this fixture TBC. The date shown is provisional; the date and kickoff may change for television or cup scheduling. This transparent all-day marker will update when confirmed.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-liverpool-english-premier-league-2026-12-05",
+      "location": "Stamford Bridge",
+      "url": "https://www.chelseafc.com/en/match/chelsea-vs-liverpool-english-premier-league-2026-12-05",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "26dab7bd7840210f1b547d4835998c610e0435f9080879fedfb6bb9733bd6a4b",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
       "sequence": 1
     },
     {
@@ -7196,6 +7604,30 @@
       "sequence": 1
     },
     {
+      "uid": "chelsea-2645343@football-watchlist",
+      "gameId": "2645343",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Manchester City vs Chelsea - Premier League [date/time TBC]",
+      "start": "2026-12-12",
+      "end": "2026-12-13",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club marks this fixture TBC. The date shown is provisional; the date and kickoff may change for television or cup scheduling. This transparent all-day marker will update when confirmed.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/manchester-city-vs-chelsea-english-premier-league-2026-12-12",
+      "location": "Etihad Stadium",
+      "url": "https://www.chelseafc.com/en/match/manchester-city-vs-chelsea-english-premier-league-2026-12-12",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "a9a88b45ac7568542dd6f2ff585746290f9d57f854999dc00305f86d0592ca0b",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
+    },
+    {
       "uid": "nhl-2026020512@football-watchlist",
       "gameId": "2026020512",
       "nhlSeason": 20262027,
@@ -7499,6 +7931,30 @@
       "created": "2026-10-01T07:37:11.478Z",
       "modified": "2026-10-01T07:37:11.478Z",
       "sequence": 0
+    },
+    {
+      "uid": "chelsea-2645349@football-watchlist",
+      "gameId": "2645349",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Chelsea vs Aston Villa - Premier League [date/time TBC]",
+      "start": "2026-12-19",
+      "end": "2026-12-20",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club marks this fixture TBC. The date shown is provisional; the date and kickoff may change for television or cup scheduling. This transparent all-day marker will update when confirmed.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-aston-villa-english-premier-league-2026-12-19",
+      "location": "Stamford Bridge",
+      "url": "https://www.chelseafc.com/en/match/chelsea-vs-aston-villa-english-premier-league-2026-12-19",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "b30a3d3458de8b634d818dd8d799efd13be39365aebb31b2bebbc21087bcc9c5",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401874295@football-watchlist",
@@ -7932,6 +8388,30 @@
       "sequence": 0
     },
     {
+      "uid": "chelsea-2645356@football-watchlist",
+      "gameId": "2645356",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Coventry City vs Chelsea - Premier League",
+      "start": "2026-12-27T14:00:00.000Z",
+      "end": "2026-12-27T16:00:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club currently lists this kickoff as confirmed. Viewing window: 2 hours; finish is approximate.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/coventry-city-vs-chelsea-english-premier-league-2026-12-27",
+      "location": "Coventry Building Society Arena",
+      "url": "https://www.chelseafc.com/en/match/coventry-city-vs-chelsea-english-premier-league-2026-12-27",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "1a9770b25ade3956a8be3b3393a804a7651e3572c421778fda88df08c68b7c87",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
+    },
+    {
       "uid": "redzone-2026-12-27@football-watchlist",
       "title": "NFL RedZone",
       "start": "2026-12-27T18:00:00.000Z",
@@ -8107,6 +8587,30 @@
       "created": "2026-10-01T07:37:11.478Z",
       "modified": "2026-10-01T07:37:11.478Z",
       "sequence": 0
+    },
+    {
+      "uid": "chelsea-2645371@football-watchlist",
+      "gameId": "2645371",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Ipswich Town vs Chelsea - Premier League",
+      "start": "2026-12-30T20:15:00.000Z",
+      "end": "2026-12-30T22:15:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club currently lists this kickoff as confirmed. Viewing window: 2 hours; finish is approximate.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/ipswich-town-vs-chelsea-english-premier-league-2026-12-30",
+      "location": "Portman Road",
+      "url": "https://www.chelseafc.com/en/match/ipswich-town-vs-chelsea-english-premier-league-2026-12-30",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "ecd73636ec7605507b0069bbf7bdd3b3f0372d2d0caeab1a4fb86639b644907d",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401874299@football-watchlist",
@@ -8325,6 +8829,30 @@
       "sequence": 0
     },
     {
+      "uid": "chelsea-2645379@football-watchlist",
+      "gameId": "2645379",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Chelsea vs Newcastle United - Premier League",
+      "start": "2027-01-03T14:00:00.000Z",
+      "end": "2027-01-03T16:00:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club currently lists this kickoff as confirmed. Viewing window: 2 hours; finish is approximate.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-newcastle-united-english-premier-league-2027-01-03",
+      "location": "Stamford Bridge",
+      "url": "https://www.chelseafc.com/en/match/chelsea-vs-newcastle-united-english-premier-league-2027-01-03",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "e03200c9be6d9cca848b47b47523d568d3d100f5bc178a7e3e12902c30773bc2",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
+    },
+    {
       "uid": "redzone-2027-01-03@football-watchlist",
       "title": "NFL RedZone",
       "start": "2027-01-03T18:00:00.000Z",
@@ -8440,6 +8968,30 @@
       "created": "2026-10-01T07:37:11.478Z",
       "modified": "2026-10-01T07:37:11.478Z",
       "sequence": 0
+    },
+    {
+      "uid": "chelsea-2645387@football-watchlist",
+      "gameId": "2645387",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Crystal Palace vs Chelsea - Premier League",
+      "start": "2027-01-06T19:30:00.000Z",
+      "end": "2027-01-06T21:30:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club currently lists this kickoff as confirmed. Viewing window: 2 hours; finish is approximate.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/crystal-palace-vs-chelsea-english-premier-league-2027-01-06",
+      "location": "Selhurst Park",
+      "url": "https://www.chelseafc.com/en/match/crystal-palace-vs-chelsea-english-premier-league-2027-01-06",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "686d321b1daafedf37b5650b28567c82211d2f5f5cbe4eb28eefc290bf78d276",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026020693@football-watchlist",
@@ -8751,6 +9303,30 @@
       "sequence": 0
     },
     {
+      "uid": "chelsea-2645398@football-watchlist",
+      "gameId": "2645398",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Chelsea vs Sunderland - Premier League [date/time TBC]",
+      "start": "2027-01-16",
+      "end": "2027-01-17",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club marks this fixture TBC. The date shown is provisional; the date and kickoff may change for television or cup scheduling. This transparent all-day marker will update when confirmed.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-sunderland-english-premier-league-2027-01-16",
+      "location": "Stamford Bridge",
+      "url": "https://www.chelseafc.com/en/match/chelsea-vs-sunderland-english-premier-league-2027-01-16",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "6f3dc9c25b44f6c2efbeceb3bc6bae0dce8aaaf8d8aa3047e0f8b8c53e32037e",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
+    },
+    {
       "uid": "nfl-401872910@football-watchlist",
       "gameId": "401872910",
       "title": "Wild Card Playoffs - teams TBA [time TBA]",
@@ -9041,6 +9617,30 @@
       "sequence": 0
     },
     {
+      "uid": "chelsea-2645411@football-watchlist",
+      "gameId": "2645411",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Leeds United vs Chelsea - Premier League [date/time TBC]",
+      "start": "2027-01-23",
+      "end": "2027-01-24",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club marks this fixture TBC. The date shown is provisional; the date and kickoff may change for television or cup scheduling. This transparent all-day marker will update when confirmed.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/leeds-united-vs-chelsea-english-premier-league-2027-01-23",
+      "location": "Elland Road",
+      "url": "https://www.chelseafc.com/en/match/leeds-united-vs-chelsea-english-premier-league-2027-01-23",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "273c3b36c91423691a0030e38a1b5794b2a3ee6576561b2e6c8303ad62362295",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
+    },
+    {
       "uid": "nfl-401872916@football-watchlist",
       "gameId": "401872916",
       "title": "Divisional Playoffs - teams TBA [time TBA]",
@@ -9321,6 +9921,30 @@
       "sequence": 0
     },
     {
+      "uid": "chelsea-2645418@football-watchlist",
+      "gameId": "2645418",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Chelsea vs Nottingham Forest - Premier League [date/time TBC]",
+      "start": "2027-01-30",
+      "end": "2027-01-31",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club marks this fixture TBC. The date shown is provisional; the date and kickoff may change for television or cup scheduling. This transparent all-day marker will update when confirmed.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-nottingham-forest-english-premier-league-2027-01-30",
+      "location": "Stamford Bridge",
+      "url": "https://www.chelseafc.com/en/match/chelsea-vs-nottingham-forest-english-premier-league-2027-01-30",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "edf921efae24a0f1b290f4220c2c7e14aebc23bf3d7737203b7fc37f19dedb51",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
+    },
+    {
       "uid": "nhl-2026020867@football-watchlist",
       "gameId": "2026020867",
       "nhlSeason": 20262027,
@@ -9419,6 +10043,54 @@
       "created": "2026-10-01T07:37:11.478Z",
       "modified": "2026-10-01T07:37:11.478Z",
       "sequence": 0
+    },
+    {
+      "uid": "chelsea-2645432@football-watchlist",
+      "gameId": "2645432",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Manchester United vs Chelsea - Premier League [date/time TBC]",
+      "start": "2027-02-06",
+      "end": "2027-02-07",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club marks this fixture TBC. The date shown is provisional; the date and kickoff may change for television or cup scheduling. This transparent all-day marker will update when confirmed.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/manchester-united-vs-chelsea-english-premier-league-2027-02-06",
+      "location": "Old Trafford",
+      "url": "https://www.chelseafc.com/en/match/manchester-united-vs-chelsea-english-premier-league-2027-02-06",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "89ea3f503420ebc98d17de19f44b6a416b7d1c556e31e2b63e00eb6cb66c1fbb",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
+    },
+    {
+      "uid": "chelsea-2645443@football-watchlist",
+      "gameId": "2645443",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Newcastle United vs Chelsea - Premier League [date/time TBC]",
+      "start": "2027-02-10",
+      "end": "2027-02-11",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club marks this fixture TBC. The date shown is provisional; the date and kickoff may change for television or cup scheduling. This transparent all-day marker will update when confirmed.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/newcastle-united-vs-chelsea-english-premier-league-2027-02-10",
+      "location": "St. James' Park",
+      "url": "https://www.chelseafc.com/en/match/newcastle-united-vs-chelsea-english-premier-league-2027-02-10",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "a20ad83165ac0044f6e5608fff8b90c5668bfc293b20f330f03a1622c90dd265",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026020898@football-watchlist",
@@ -9681,6 +10353,30 @@
       "sequence": 0
     },
     {
+      "uid": "chelsea-2645449@football-watchlist",
+      "gameId": "2645449",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Chelsea vs Ipswich Town - Premier League [date/time TBC]",
+      "start": "2027-02-20",
+      "end": "2027-02-21",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club marks this fixture TBC. The date shown is provisional; the date and kickoff may change for television or cup scheduling. This transparent all-day marker will update when confirmed.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-ipswich-town-english-premier-league-2027-02-20",
+      "location": "Stamford Bridge",
+      "url": "https://www.chelseafc.com/en/match/chelsea-vs-ipswich-town-english-premier-league-2027-02-20",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "31e8d1acba7e4cade7e1ed2aa73d25ca608a21467c8377951b5dc2c6b1e4809d",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
+    },
+    {
       "uid": "nhl-2026020961@football-watchlist",
       "gameId": "2026020961",
       "nhlSeason": 20262027,
@@ -9892,6 +10588,30 @@
       "sequence": 0
     },
     {
+      "uid": "chelsea-2645455@football-watchlist",
+      "gameId": "2645455",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Aston Villa vs Chelsea - Premier League [date/time TBC]",
+      "start": "2027-02-27",
+      "end": "2027-02-28",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club marks this fixture TBC. The date shown is provisional; the date and kickoff may change for television or cup scheduling. This transparent all-day marker will update when confirmed.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/aston-villa-vs-chelsea-english-premier-league-2027-02-27",
+      "location": "Villa Park",
+      "url": "https://www.chelseafc.com/en/match/aston-villa-vs-chelsea-english-premier-league-2027-02-27",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "a96be0332f307ccd6a2df7b8aa0da328430497cd49134b0ab649f5b17a87ee86",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
+    },
+    {
       "uid": "nhl-2026021023@football-watchlist",
       "gameId": "2026021023",
       "nhlSeason": 20262027,
@@ -10010,6 +10730,30 @@
       "created": "2026-10-01T07:37:11.478Z",
       "modified": "2026-10-01T07:37:11.478Z",
       "sequence": 0
+    },
+    {
+      "uid": "chelsea-2645469@football-watchlist",
+      "gameId": "2645469",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Chelsea vs Coventry City - Premier League [date/time TBC]",
+      "start": "2027-03-03",
+      "end": "2027-03-04",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club marks this fixture TBC. The date shown is provisional; the date and kickoff may change for television or cup scheduling. This transparent all-day marker will update when confirmed.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-coventry-city-english-premier-league-2027-03-03",
+      "location": "Stamford Bridge",
+      "url": "https://www.chelseafc.com/en/match/chelsea-vs-coventry-city-english-premier-league-2027-03-03",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "6011f1dd9221ece8b1176c5e2cefc7bafdea5c277003942df551f3f00386c52c",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026021050@football-watchlist",
@@ -10282,6 +11026,30 @@
       "sequence": 0
     },
     {
+      "uid": "chelsea-2645477@football-watchlist",
+      "gameId": "2645477",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Chelsea vs Arsenal - Premier League [date/time TBC]",
+      "start": "2027-03-13",
+      "end": "2027-03-14",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club marks this fixture TBC. The date shown is provisional; the date and kickoff may change for television or cup scheduling. This transparent all-day marker will update when confirmed.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-arsenal-english-premier-league-2027-03-13",
+      "location": "Stamford Bridge",
+      "url": "https://www.chelseafc.com/en/match/chelsea-vs-arsenal-english-premier-league-2027-03-13",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "8021de2629c99271703ce40420ad032e3f03e60e38683b6b65bce9317a3209a1",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
+    },
+    {
       "uid": "nhl-2026021119@football-watchlist",
       "gameId": "2026021119",
       "nhlSeason": 20262027,
@@ -10520,6 +11288,30 @@
       "created": "2026-10-01T07:37:11.478Z",
       "modified": "2026-10-01T07:37:11.478Z",
       "sequence": 0
+    },
+    {
+      "uid": "chelsea-2645490@football-watchlist",
+      "gameId": "2645490",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Hull City vs Chelsea - Premier League [date/time TBC]",
+      "start": "2027-03-20",
+      "end": "2027-03-21",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club marks this fixture TBC. The date shown is provisional; the date and kickoff may change for television or cup scheduling. This transparent all-day marker will update when confirmed.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/hull-city-vs-chelsea-english-premier-league-2027-03-20",
+      "location": "The MKM Stadium",
+      "url": "https://www.chelseafc.com/en/match/hull-city-vs-chelsea-english-premier-league-2027-03-20",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "021ae4d1ae0e19a18d9f8758fee7d2932307ff67e6b60a701e006f16360cd150",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026021185@football-watchlist",
@@ -11063,6 +11855,30 @@
       "sequence": 0
     },
     {
+      "uid": "chelsea-2645497@football-watchlist",
+      "gameId": "2645497",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Chelsea vs Fulham - Premier League [date/time TBC]",
+      "start": "2027-04-10",
+      "end": "2027-04-11",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club marks this fixture TBC. The date shown is provisional; the date and kickoff may change for television or cup scheduling. This transparent all-day marker will update when confirmed.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-fulham-english-premier-league-2027-04-10",
+      "location": "Stamford Bridge",
+      "url": "https://www.chelseafc.com/en/match/chelsea-vs-fulham-english-premier-league-2027-04-10",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "f6ff8d7598a9b413f971cfea3bba1a733add7d3cf41213baf9d413da6f2dcdb2",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
+    },
+    {
       "uid": "nhl-2026021331@football-watchlist",
       "gameId": "2026021331",
       "nhlSeason": 20262027,
@@ -11121,6 +11937,174 @@
       "created": "2026-10-01T07:37:11.478Z",
       "modified": "2026-10-01T07:37:11.478Z",
       "sequence": 0
+    },
+    {
+      "uid": "chelsea-2645507@football-watchlist",
+      "gameId": "2645507",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Brighton & Hove Albion vs Chelsea - Premier League [date/time TBC]",
+      "start": "2027-04-17",
+      "end": "2027-04-18",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club marks this fixture TBC. The date shown is provisional; the date and kickoff may change for television or cup scheduling. This transparent all-day marker will update when confirmed.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/brighton-and-hove-albion-vs-chelsea-english-premier-league-2027-04-17",
+      "location": "American Express Stadium",
+      "url": "https://www.chelseafc.com/en/match/brighton-and-hove-albion-vs-chelsea-english-premier-league-2027-04-17",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "39626eef1ec533c04c2f49cf8f91fdaea87d030738cd5c12aebc3dccc05cb5af",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
+    },
+    {
+      "uid": "chelsea-2645518@football-watchlist",
+      "gameId": "2645518",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Chelsea vs Manchester City - Premier League [date/time TBC]",
+      "start": "2027-04-24",
+      "end": "2027-04-25",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club marks this fixture TBC. The date shown is provisional; the date and kickoff may change for television or cup scheduling. This transparent all-day marker will update when confirmed.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-manchester-city-english-premier-league-2027-04-24",
+      "location": "Stamford Bridge",
+      "url": "https://www.chelseafc.com/en/match/chelsea-vs-manchester-city-english-premier-league-2027-04-24",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "9700eb651ad300e3a02d9d7073ef3682e90ffb7aab8b109dfcdcb094b05554c7",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
+    },
+    {
+      "uid": "chelsea-2645532@football-watchlist",
+      "gameId": "2645532",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Liverpool vs Chelsea - Premier League [date/time TBC]",
+      "start": "2027-05-01",
+      "end": "2027-05-02",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club marks this fixture TBC. The date shown is provisional; the date and kickoff may change for television or cup scheduling. This transparent all-day marker will update when confirmed.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/liverpool-vs-chelsea-english-premier-league-2027-05-01",
+      "location": "Anfield",
+      "url": "https://www.chelseafc.com/en/match/liverpool-vs-chelsea-english-premier-league-2027-05-01",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "eceff96e67240b10aac75d718d277018be3be7929f6c145aa862f34d9585e281",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
+    },
+    {
+      "uid": "chelsea-2645544@football-watchlist",
+      "gameId": "2645544",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Tottenham Hotspur vs Chelsea - Premier League [date/time TBC]",
+      "start": "2027-05-08",
+      "end": "2027-05-09",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club marks this fixture TBC. The date shown is provisional; the date and kickoff may change for television or cup scheduling. This transparent all-day marker will update when confirmed.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/tottenham-hotspur-vs-chelsea-english-premier-league-2027-05-08",
+      "location": "Tottenham Hotspur Stadium",
+      "url": "https://www.chelseafc.com/en/match/tottenham-hotspur-vs-chelsea-english-premier-league-2027-05-08",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "fb6a8b6bc9ff2f340aa9efe80b4f0f7d7a7f22cdc5eb516369b253f71018ff1d",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
+    },
+    {
+      "uid": "chelsea-2645547@football-watchlist",
+      "gameId": "2645547",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Chelsea vs Everton - Premier League [date/time TBC]",
+      "start": "2027-05-15",
+      "end": "2027-05-16",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club marks this fixture TBC. The date shown is provisional; the date and kickoff may change for television or cup scheduling. This transparent all-day marker will update when confirmed.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-everton-english-premier-league-2027-05-15",
+      "location": "Stamford Bridge",
+      "url": "https://www.chelseafc.com/en/match/chelsea-vs-everton-english-premier-league-2027-05-15",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "a062a78cc6252661eb266657fb51787af94e6ea49d973a1ae5d346c4259707f9",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
+    },
+    {
+      "uid": "chelsea-2645555@football-watchlist",
+      "gameId": "2645555",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Bournemouth vs Chelsea - Premier League [date/time TBC]",
+      "start": "2027-05-23",
+      "end": "2027-05-24",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club marks this fixture TBC. The date shown is provisional; the date and kickoff may change for television or cup scheduling. This transparent all-day marker will update when confirmed.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/bournemouth-vs-chelsea-english-premier-league-2027-05-23",
+      "location": "Vitality Stadium",
+      "url": "https://www.chelseafc.com/en/match/bournemouth-vs-chelsea-english-premier-league-2027-05-23",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "cbfb0589d7e45f18b48115e170f5d9da8b7d6654726d5db65890f1ff6ea6448b",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
+    },
+    {
+      "uid": "chelsea-2645567@football-watchlist",
+      "gameId": "2645567",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Chelsea vs Brentford - Premier League [date/time TBC]",
+      "start": "2027-05-30",
+      "end": "2027-05-31",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club marks this fixture TBC. The date shown is provisional; the date and kickoff may change for television or cup scheduling. This transparent all-day marker will update when confirmed.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-brentford-english-premier-league-2027-05-30",
+      "location": "Stamford Bridge",
+      "url": "https://www.chelseafc.com/en/match/chelsea-vs-brentford-english-premier-league-2027-05-30",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "ba8bc5a492cdacefd7fe8c681ccc01b0046da2380a6d801b86c2dea2d6fef6a7",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
     }
   ],
   "nflGames": 285,
@@ -11148,6 +12132,16 @@
       }
     },
     "events": 166
+  },
+  "chelsea": {
+    "checkedOn": "2026-10-03",
+    "season": 2026,
+    "competitions": {
+      "club.friendly": 6,
+      "eng.1": 38,
+      "eng.league_cup": 3
+    },
+    "events": 41
   },
   "warnings": []
 }

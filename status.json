@@ -1,7 +1,7 @@
 {
   "checkedOn": "2026-10-03",
   "season": 2026,
-  "events": 439,
+  "events": 480,
   "nflGames": 285,
   "collegeGames": 949,
   "baseball": {
@@ -27,6 +27,16 @@
       }
     },
     "events": 166
+  },
+  "chelsea": {
+    "checkedOn": "2026-10-03",
+    "season": 2026,
+    "competitions": {
+      "club.friendly": 6,
+      "eng.1": 38,
+      "eng.league_cup": 3
+    },
+    "events": 41
   },
   "warnings": []
 }
