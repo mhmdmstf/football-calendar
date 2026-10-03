@@ -1751,10 +1751,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856707@football-watchlist
-DTSTAMP:20261003T180112Z
+DTSTAMP:20261003T230930Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20261003T180112Z
-SEQUENCE:2
+LAST-MODIFIED:20261003T230930Z
+SEQUENCE:3
 DTSTART:20261003T160000Z
 DTEND:20261003T193000Z
 SUMMARY:CFB: Alabama at Mississippi State
@@ -1762,19 +1762,20 @@ DESCRIPTION:Following Alabama: every game.\n\nTeams: Alabama Crimson Tide a
  t Mississippi State Bulldogs\n\nUS broadcast: ABC. Availability elsewhere 
  varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish 
  is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/
- gameId/401856707
+ gameId/401856707/alabama-mississippi-st
 LOCATION:Davis Wade Stadium\, Starkville\, MS\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856707
+URL:https://www.espn.com/college-football/game/_/gameId/401856707/alabama-m
+ ississippi-st
 CATEGORIES:College,Alabama
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858474@football-watchlist
-DTSTAMP:20261003T180112Z
+DTSTAMP:20261003T230930Z
 CREATED:20260929T084143Z
-LAST-MODIFIED:20261003T180112Z
-SEQUENCE:1
+LAST-MODIFIED:20261003T230930Z
+SEQUENCE:2
 DTSTART:20261003T160000Z
 DTEND:20261003T193000Z
 SUMMARY:CFB: Michigan at Minnesota
@@ -1782,9 +1783,10 @@ DESCRIPTION:Confirmed College GameDay or Big Noon featured matchup.\n\nTeam
  s: Michigan Wolverines at Minnesota Golden Gophers\n\nUS broadcast: FOX. A
  vailability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for ch
  ampionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/co
- llege-football/game/_/gameId/401858474
+ llege-football/game/_/gameId/401858474/michigan-minnesota
 LOCATION:Huntington Bank Stadium\, Minneapolis\, MN\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858474
+URL:https://www.espn.com/college-football/game/_/gameId/401858474/michigan-
+ minnesota
 CATEGORIES:College
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1811,27 +1813,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:college-football-401856708@football-watchlist
-DTSTAMP:20260927T082047Z
-CREATED:20260920T223228Z
-LAST-MODIFIED:20260927T082047Z
-SEQUENCE:2
-DTSTART:20261003T193000Z
-DTEND:20261003T230000Z
-SUMMARY:CFB: Florida at Missouri
-DESCRIPTION:National pick: ranked matchup (#19 vs #21) at selection.\n\nTea
- ms: Florida Gators at Missouri Tigers\n\nUS broadcast: ABC. Availability e
- lsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)\
- ; finish is approximate.\n\nSchedule: https://www.espn.com/college-footbal
- l/game/_/gameId/401856708/florida-missouri
-LOCATION:Memorial Stadium\, Columbia\, MO\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856708/florida-m
- issouri
-CATEGORIES:College,National pick
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:college-football-401858473@football-watchlist
 DTSTAMP:20260922T180918Z
 CREATED:20260912T071328Z
@@ -1848,6 +1829,27 @@ DESCRIPTION:National pick: ranked matchup (#1 vs #21) at selection.\n\nTeam
 LOCATION:Kinnick Stadium\, Iowa City\, IA\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401858473/ohio-stat
  e-iowa
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856708@football-watchlist
+DTSTAMP:20261003T230930Z
+CREATED:20260920T223228Z
+LAST-MODIFIED:20261003T230930Z
+SEQUENCE:3
+DTSTART:20261003T195000Z
+DTEND:20261003T232000Z
+SUMMARY:CFB: Florida at Missouri
+DESCRIPTION:National pick: ranked matchup (#19 vs #21) at selection.\n\nTea
+ ms: Florida Gators at Missouri Tigers\n\nUS broadcast: ABC. Availability e
+ lsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)\
+ ; finish is approximate.\n\nSchedule: https://www.espn.com/college-footbal
+ l/game/_/gameId/401856708/florida-missouri
+LOCATION:Memorial Stadium\, Columbia\, MO\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856708/florida-m
+ issouri
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1896,10 +1898,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856818@football-watchlist
-DTSTAMP:20260929T084143Z
+DTSTAMP:20261003T230930Z
 CREATED:20260923T225940Z
-LAST-MODIFIED:20260929T084143Z
-SEQUENCE:2
+LAST-MODIFIED:20261003T230930Z
+SEQUENCE:3
 DTSTART:20261003T230000Z
 DTEND:20261004T023000Z
 SUMMARY:CFB: BYU at TCU
@@ -1908,9 +1910,9 @@ DESCRIPTION:National pick: a ranked team in a potentially competitive game
  \n\nTeams: BYU Cougars at TCU Horned Frogs\n\nUS broadcast: ESPN / Disney+
  . Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for
   championships)\; finish is approximate.\n\nSchedule: https://www.espn.com
- /college-football/game/_/gameId/401856818/byu-tcu
+ /college-football/game/_/gameId/401856818
 LOCATION:Amon G. Carter Stadium\, Fort Worth\, TX\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856818/byu-tcu
+URL:https://www.espn.com/college-football/game/_/gameId/401856818
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE

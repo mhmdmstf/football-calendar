@@ -1993,18 +1993,18 @@
       "start": "2026-10-03T16:00:00.000Z",
       "end": "2026-10-03T19:30:00.000Z",
       "allDay": false,
-      "description": "Following Alabama: every game.\n\nTeams: Alabama Crimson Tide at Mississippi State Bulldogs\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856707",
+      "description": "Following Alabama: every game.\n\nTeams: Alabama Crimson Tide at Mississippi State Bulldogs\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856707/alabama-mississippi-st",
       "location": "Davis Wade Stadium, Starkville, MS, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856707",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856707/alabama-mississippi-st",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "Alabama"
       ],
-      "hash": "15047a01f560c848696a46368bfef480e8cb1610688a75507ab40f93f70196a7",
+      "hash": "49d3e594959cc333221c6c515e18c350405e0215a4f9b25ad5775dd40785c90c",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-10-03T18:01:12.578Z",
-      "sequence": 2
+      "modified": "2026-10-03T23:09:30.766Z",
+      "sequence": 3
     },
     {
       "uid": "college-football-401858474@football-watchlist",
@@ -2013,17 +2013,17 @@
       "start": "2026-10-03T16:00:00.000Z",
       "end": "2026-10-03T19:30:00.000Z",
       "allDay": false,
-      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: Michigan Wolverines at Minnesota Golden Gophers\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858474",
+      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: Michigan Wolverines at Minnesota Golden Gophers\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858474/michigan-minnesota",
       "location": "Huntington Bank Stadium, Minneapolis, MN, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858474",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858474/michigan-minnesota",
       "status": "CONFIRMED",
       "categories": [
         "College"
       ],
-      "hash": "1168dbe09d23d8667957c37f590a80de7b45f8398c482cf71b47f97b6a44fa29",
+      "hash": "c69c98d175a3dfc47b286c5b13ae53576be03e60eaa06d6922709e71f27c0f84",
       "created": "2026-09-29T08:41:43.964Z",
-      "modified": "2026-10-03T18:01:12.578Z",
-      "sequence": 1
+      "modified": "2026-10-03T23:09:30.766Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-849829@football-watchlist",
@@ -2059,27 +2059,6 @@
       "sequence": 10
     },
     {
-      "uid": "college-football-401856708@football-watchlist",
-      "gameId": "401856708",
-      "title": "CFB: Florida at Missouri",
-      "start": "2026-10-03T19:30:00.000Z",
-      "end": "2026-10-03T23:00:00.000Z",
-      "allDay": false,
-      "description": "National pick: ranked matchup (#19 vs #21) at selection.\n\nTeams: Florida Gators at Missouri Tigers\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856708/florida-missouri",
-      "location": "Memorial Stadium, Columbia, MO, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856708/florida-missouri",
-      "status": "CONFIRMED",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#19 vs #21) at selection.",
-      "hash": "ab8492ba4517ae94de9724afa1b2b8a00930f1cc90fe1213382a95acc4386784",
-      "created": "2026-09-20T22:32:28.050Z",
-      "modified": "2026-09-27T08:20:47.079Z",
-      "sequence": 2
-    },
-    {
       "uid": "college-football-401858473@football-watchlist",
       "gameId": "401858473",
       "title": "CFB: Ohio State at Iowa",
@@ -2099,6 +2078,27 @@
       "created": "2026-09-12T07:13:28.934Z",
       "modified": "2026-09-22T18:09:18.369Z",
       "sequence": 2
+    },
+    {
+      "uid": "college-football-401856708@football-watchlist",
+      "gameId": "401856708",
+      "title": "CFB: Florida at Missouri",
+      "start": "2026-10-03T19:50:00.000Z",
+      "end": "2026-10-03T23:20:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#19 vs #21) at selection.\n\nTeams: Florida Gators at Missouri Tigers\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856708/florida-missouri",
+      "location": "Memorial Stadium, Columbia, MO, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856708/florida-missouri",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#19 vs #21) at selection.",
+      "hash": "206aa930955486b52029a031a122eadf6916487ffed297c5fd2307ecd4c2d920",
+      "created": "2026-09-20T22:32:28.050Z",
+      "modified": "2026-10-03T23:09:30.766Z",
+      "sequence": 3
     },
     {
       "uid": "mlb-849828@football-watchlist",
@@ -2172,19 +2172,19 @@
       "start": "2026-10-03T23:00:00.000Z",
       "end": "2026-10-04T02:30:00.000Z",
       "allDay": false,
-      "description": "National pick: a ranked team in a potentially competitive game (market spread 5.5 points at selection). Upset possibility is an estimate.\n\nTeams: BYU Cougars at TCU Horned Frogs\n\nUS broadcast: ESPN / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856818/byu-tcu",
+      "description": "National pick: a ranked team in a potentially competitive game (market spread 5.5 points at selection). Upset possibility is an estimate.\n\nTeams: BYU Cougars at TCU Horned Frogs\n\nUS broadcast: ESPN / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856818",
       "location": "Amon G. Carter Stadium, Fort Worth, TX, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856818/byu-tcu",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856818",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 5.5 points at selection). Upset possibility is an estimate.",
-      "hash": "355e87b13decb2d3c236b05eabb56889e535f9b85c35a7ba387d6d5fb2dcb7ec",
+      "hash": "721ee1251b0bb1d4e2b999c7c40f52e00cad4ddc32e855c0239e1d5eb5545b86",
       "created": "2026-09-23T22:59:40.721Z",
-      "modified": "2026-09-29T08:41:43.964Z",
-      "sequence": 2
+      "modified": "2026-10-03T23:09:30.766Z",
+      "sequence": 3
     },
     {
       "uid": "nhl-2026020025@football-watchlist",
