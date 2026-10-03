@@ -1993,18 +1993,18 @@
       "start": "2026-10-03T16:00:00.000Z",
       "end": "2026-10-03T19:30:00.000Z",
       "allDay": false,
-      "description": "Following Alabama: every game.\n\nTeams: Alabama Crimson Tide at Mississippi State Bulldogs\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856707/alabama-mississippi-st",
+      "description": "Following Alabama: every game.\n\nTeams: Alabama Crimson Tide at Mississippi State Bulldogs\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856707",
       "location": "Davis Wade Stadium, Starkville, MS, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856707/alabama-mississippi-st",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856707",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "Alabama"
       ],
-      "hash": "49d3e594959cc333221c6c515e18c350405e0215a4f9b25ad5775dd40785c90c",
+      "hash": "15047a01f560c848696a46368bfef480e8cb1610688a75507ab40f93f70196a7",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-27T08:20:47.079Z",
-      "sequence": 1
+      "modified": "2026-10-03T18:01:12.578Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401858474@football-watchlist",
@@ -2013,17 +2013,17 @@
       "start": "2026-10-03T16:00:00.000Z",
       "end": "2026-10-03T19:30:00.000Z",
       "allDay": false,
-      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: Michigan Wolverines at Minnesota Golden Gophers\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858474/michigan-minnesota",
+      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: Michigan Wolverines at Minnesota Golden Gophers\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858474",
       "location": "Huntington Bank Stadium, Minneapolis, MN, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858474/michigan-minnesota",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858474",
       "status": "CONFIRMED",
       "categories": [
         "College"
       ],
-      "hash": "c69c98d175a3dfc47b286c5b13ae53576be03e60eaa06d6922709e71f27c0f84",
+      "hash": "1168dbe09d23d8667957c37f590a80de7b45f8398c482cf71b47f97b6a44fa29",
       "created": "2026-09-29T08:41:43.964Z",
-      "modified": "2026-09-29T08:41:43.964Z",
-      "sequence": 0
+      "modified": "2026-10-03T18:01:12.578Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-849829@football-watchlist",
@@ -2119,7 +2119,7 @@
       "start": "2026-10-03T20:00:00.000Z",
       "end": "2026-10-03T23:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Tarik Skubal.\n\nListed broadcasts: FOX/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849828",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Dylan Dodd / Tarik Skubal.\n\nListed broadcasts: FOX/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849828",
       "location": "UNIQLO Field at Dodger Stadium",
       "url": "https://www.mlb.com/gameday/849828",
       "status": "CONFIRMED",
@@ -2127,10 +2127,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "17df596e9f2bf3ab41f1f5362f13a1b716a42766594f4a148b562858bead4dec",
+      "hash": "ffffb16fee479ee743f3fd1b8acceb845afd6dabc39ac621b4901d5b58bf366b",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-02T19:24:01.110Z",
-      "sequence": 6
+      "modified": "2026-10-03T18:01:12.578Z",
+      "sequence": 7
     },
     {
       "uid": "mlb-849835@football-watchlist",
@@ -2411,7 +2411,7 @@
       "start": "2026-10-05T00:00:00.000Z",
       "end": "2026-10-05T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849823",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Blake Snell.\n\nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849823",
       "location": "UNIQLO Field at Dodger Stadium",
       "url": "https://www.mlb.com/gameday/849823",
       "status": "CONFIRMED",
@@ -2419,10 +2419,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "05151b29c1b4a2da27bee154918911a5695bda7a0dabbd5aef32603a2d31af1a",
+      "hash": "9c7f345ec11231d0805cc303bf6495653b28685fc225f5e63631c9c8426cbed1",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-02T08:39:26.015Z",
-      "sequence": 5
+      "modified": "2026-10-03T18:01:12.578Z",
+      "sequence": 6
     },
     {
       "uid": "nfl-401872978@football-watchlist",

@@ -1751,10 +1751,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856707@football-watchlist
-DTSTAMP:20260927T082047Z
+DTSTAMP:20261003T180112Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260927T082047Z
-SEQUENCE:1
+LAST-MODIFIED:20261003T180112Z
+SEQUENCE:2
 DTSTART:20261003T160000Z
 DTEND:20261003T193000Z
 SUMMARY:CFB: Alabama at Mississippi State
@@ -1762,20 +1762,19 @@ DESCRIPTION:Following Alabama: every game.\n\nTeams: Alabama Crimson Tide a
  t Mississippi State Bulldogs\n\nUS broadcast: ABC. Availability elsewhere 
  varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish 
  is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/
- gameId/401856707/alabama-mississippi-st
+ gameId/401856707
 LOCATION:Davis Wade Stadium\, Starkville\, MS\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856707/alabama-m
- ississippi-st
+URL:https://www.espn.com/college-football/game/_/gameId/401856707
 CATEGORIES:College,Alabama
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858474@football-watchlist
-DTSTAMP:20260929T084143Z
+DTSTAMP:20261003T180112Z
 CREATED:20260929T084143Z
-LAST-MODIFIED:20260929T084143Z
-SEQUENCE:0
+LAST-MODIFIED:20261003T180112Z
+SEQUENCE:1
 DTSTART:20261003T160000Z
 DTEND:20261003T193000Z
 SUMMARY:CFB: Michigan at Minnesota
@@ -1783,10 +1782,9 @@ DESCRIPTION:Confirmed College GameDay or Big Noon featured matchup.\n\nTeam
  s: Michigan Wolverines at Minnesota Golden Gophers\n\nUS broadcast: FOX. A
  vailability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for ch
  ampionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/co
- llege-football/game/_/gameId/401858474/michigan-minnesota
+ llege-football/game/_/gameId/401858474
 LOCATION:Huntington Bank Stadium\, Minneapolis\, MN\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858474/michigan-
- minnesota
+URL:https://www.espn.com/college-football/game/_/gameId/401858474
 CATEGORIES:College
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1856,18 +1854,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849828@football-watchlist
-DTSTAMP:20261002T192401Z
+DTSTAMP:20261003T180112Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261002T192401Z
-SEQUENCE:6
+LAST-MODIFIED:20261003T180112Z
+SEQUENCE:7
 DTSTART:20261003T200000Z
 DTEND:20261003T233000Z
 SUMMARY:MLB: NLDS 'B' Game 1 - Atlanta Braves at Los Angeles Dodgers
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nProbable pitchers (subject to change): Tarik Skubal.\n\nListed broadcasts
- : FOX/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country an
- d provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849828
+ nProbable pitchers (subject to change): Dylan Dodd / Tarik Skubal.\n\nList
+ ed broadcasts: FOX/ FOX ONE / Fox Deportes / FOX ONE. Availability varies 
+ by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday
+ /849828
 LOCATION:UNIQLO Field at Dodger Stadium
 URL:https://www.mlb.com/gameday/849828
 CATEGORIES:MLB,Playoffs
@@ -2082,18 +2081,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849823@football-watchlist
-DTSTAMP:20261002T083926Z
+DTSTAMP:20261003T180112Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261002T083926Z
-SEQUENCE:5
+LAST-MODIFIED:20261003T180112Z
+SEQUENCE:6
 DTSTART:20261005T000000Z
 DTEND:20261005T033000Z
 SUMMARY:MLB: NLDS 'B' Game 2 - Atlanta Braves at Los Angeles Dodgers
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability va
- ries by country and provider.\n\nOfficial schedule: https://www.mlb.com/ga
- meday/849823
+ nProbable pitchers (subject to change): Blake Snell.\n\nListed broadcasts:
+  FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and
+  provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849823
 LOCATION:UNIQLO Field at Dodger Stadium
 URL:https://www.mlb.com/gameday/849823
 CATEGORIES:MLB,Playoffs
