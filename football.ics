@@ -1856,19 +1856,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849828@football-watchlist
-DTSTAMP:20261003T180112Z
+DTSTAMP:20261004T181238Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261003T180112Z
-SEQUENCE:7
+LAST-MODIFIED:20261004T181238Z
+SEQUENCE:8
 DTSTART:20261003T200000Z
 DTEND:20261003T233000Z
 SUMMARY:MLB: NLDS 'B' Game 1 - Atlanta Braves at Los Angeles Dodgers
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
  nProbable pitchers (subject to change): Dylan Dodd / Tarik Skubal.\n\nList
- ed broadcasts: FOX/ FOX ONE / Fox Deportes / FOX ONE. Availability varies 
- by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday
- /849828
+ ed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies
+  by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameda
+ y/849828
 LOCATION:UNIQLO Field at Dodger Stadium
 URL:https://www.mlb.com/gameday/849828
 CATEGORIES:MLB,Playoffs
@@ -1982,19 +1982,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849830@football-watchlist
-DTSTAMP:20261002T235133Z
+DTSTAMP:20261004T181238Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261002T235133Z
-SEQUENCE:6
+LAST-MODIFIED:20261004T181238Z
+SEQUENCE:7
 DTSTART:20261004T003000Z
 DTEND:20261004T040000Z
 SUMMARY:MLB: NLDS 'A' Game 1 - San Diego Padres at Milwaukee Brewers
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
  nProbable pitchers (subject to change): Robbie Ray / Jacob Misiorowski.\n\
- nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability va
- ries by country and provider.\n\nOfficial schedule: https://www.mlb.com/ga
- meday/849830
+ nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability v
+ aries by country and provider.\n\nOfficial schedule: https://www.mlb.com/g
+ ameday/849830
 LOCATION:American Family Field
 URL:https://www.mlb.com/gameday/849830
 CATEGORIES:MLB,Playoffs,San Diego Padres
@@ -2062,19 +2062,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849825@football-watchlist
-DTSTAMP:20261002T235133Z
+DTSTAMP:20261004T181238Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261002T235133Z
-SEQUENCE:6
+LAST-MODIFIED:20261004T181238Z
+SEQUENCE:7
 DTSTART:20261004T200000Z
 DTEND:20261004T233000Z
 SUMMARY:MLB: NLDS 'A' Game 2 - San Diego Padres at Milwaukee Brewers
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
  nProbable pitchers (subject to change): Michael King / Logan Henderson.\n\
- nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability va
- ries by country and provider.\n\nOfficial schedule: https://www.mlb.com/ga
- meday/849825
+ nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability v
+ aries by country and provider.\n\nOfficial schedule: https://www.mlb.com/g
+ ameday/849825
 LOCATION:American Family Field
 URL:https://www.mlb.com/gameday/849825
 CATEGORIES:MLB,Playoffs,San Diego Padres
@@ -2083,18 +2083,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849823@football-watchlist
-DTSTAMP:20261003T180112Z
+DTSTAMP:20261004T181238Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261003T180112Z
-SEQUENCE:6
+LAST-MODIFIED:20261004T181238Z
+SEQUENCE:7
 DTSTART:20261005T000000Z
 DTEND:20261005T033000Z
 SUMMARY:MLB: NLDS 'B' Game 2 - Atlanta Braves at Los Angeles Dodgers
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
  nProbable pitchers (subject to change): Blake Snell.\n\nListed broadcasts:
-  FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and
-  provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849823
+  FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country an
+ d provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849823
 LOCATION:UNIQLO Field at Dodger Stadium
 URL:https://www.mlb.com/gameday/849823
 CATEGORIES:MLB,Playoffs
@@ -2122,18 +2122,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849834@football-watchlist
-DTSTAMP:20261001T193724Z
+DTSTAMP:20261004T181238Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261001T193724Z
-SEQUENCE:9
+LAST-MODIFIED:20261004T181238Z
+SEQUENCE:10
 DTSTART:20261005T210000Z
 DTEND:20261006T003000Z
 SUMMARY:MLB: ALDS 'B' Game 2 - Chicago White Sox at Cleveland Guardians
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nProbable pitchers (subject to change): Gavin Williams.\n\nListed broadcas
- ts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country 
- and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849834
+ nProbable pitchers (subject to change): Anthony Kay / Gavin Williams.\n\nL
+ isted broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability vari
+ es by country and provider.\n\nOfficial schedule: https://www.mlb.com/game
+ day/849834
 LOCATION:Progressive Field
 URL:https://www.mlb.com/gameday/849834
 CATEGORIES:MLB,Playoffs,Cleveland Guardians
@@ -2202,18 +2203,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849819@football-watchlist
-DTSTAMP:20261002T083926Z
+DTSTAMP:20261004T181238Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261002T083926Z
-SEQUENCE:5
+LAST-MODIFIED:20261004T181238Z
+SEQUENCE:6
 DTSTART:20261006T220000Z
 DTEND:20261007T013000Z
 SUMMARY:MLB: NLDS 'B' Game 3 - Los Angeles Dodgers at Atlanta Braves
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability va
- ries by country and provider.\n\nOfficial schedule: https://www.mlb.com/ga
- meday/849819
+ nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability v
+ aries by country and provider.\n\nOfficial schedule: https://www.mlb.com/g
+ ameday/849819
 LOCATION:Truist Park
 URL:https://www.mlb.com/gameday/849819
 CATEGORIES:MLB,Playoffs
@@ -2242,18 +2243,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849826@football-watchlist
-DTSTAMP:20261001T235730Z
+DTSTAMP:20261004T181238Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261001T235730Z
-SEQUENCE:5
+LAST-MODIFIED:20261004T181238Z
+SEQUENCE:6
 DTSTART:20261007T013000Z
 DTEND:20261007T050000Z
 SUMMARY:MLB: NLDS 'A' Game 3 - Milwaukee Brewers at San Diego Padres
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability va
- ries by country and provider.\n\nOfficial schedule: https://www.mlb.com/ga
- meday/849826
+ nProbable pitchers (subject to change): Dustin May / Nick Pivetta.\n\nList
+ ed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies
+  by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameda
+ y/849826
 LOCATION:Petco Park
 URL:https://www.mlb.com/gameday/849826
 CATEGORIES:MLB,Playoffs,San Diego Padres
@@ -2282,10 +2284,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849822@football-watchlist
-DTSTAMP:20261002T083926Z
+DTSTAMP:20261004T181238Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261002T083926Z
-SEQUENCE:5
+LAST-MODIFIED:20261004T181238Z
+SEQUENCE:6
 DTSTART:20261007T220000Z
 DTEND:20261008T013000Z
 SUMMARY:MLB: NLDS 'B' Game 4 - Los Angeles Dodgers at Atlanta Braves [if ne
@@ -2293,9 +2295,9 @@ SUMMARY:MLB: NLDS 'B' Game 4 - Los Angeles Dodgers at Atlanta Braves [if ne
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
- .5 hours\; finish is approximate.\n\nListed broadcasts: FS1/ FOX ONE / Fox
-  Deportes / FOX ONE. Availability varies by country and provider.\n\nOffic
- ial schedule: https://www.mlb.com/gameday/849822
+ .5 hours\; finish is approximate.\n\nListed broadcasts: FS1 / FOX ONE / Fo
+ x Deportes / FOX ONE. Availability varies by country and provider.\n\nOffi
+ cial schedule: https://www.mlb.com/gameday/849822
 LOCATION:Truist Park
 URL:https://www.mlb.com/gameday/849822
 CATEGORIES:MLB,Playoffs
@@ -2324,10 +2326,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849827@football-watchlist
-DTSTAMP:20261001T235730Z
+DTSTAMP:20261004T181238Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261001T235730Z
-SEQUENCE:5
+LAST-MODIFIED:20261004T181238Z
+SEQUENCE:6
 DTSTART:20261008T020000Z
 DTEND:20261008T053000Z
 SUMMARY:MLB: NLDS 'A' Game 4  - Milwaukee Brewers at San Diego Padres [if n
@@ -2335,9 +2337,9 @@ SUMMARY:MLB: NLDS 'A' Game 4  - Milwaukee Brewers at San Diego Padres [if n
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
- .5 hours\; finish is approximate.\n\nListed broadcasts: FS1/ FOX ONE / Fox
-  Deportes / FOX ONE. Availability varies by country and provider.\n\nOffic
- ial schedule: https://www.mlb.com/gameday/849827
+ .5 hours\; finish is approximate.\n\nListed broadcasts: FS1 / FOX ONE / Fo
+ x Deportes / FOX ONE. Availability varies by country and provider.\n\nOffi
+ cial schedule: https://www.mlb.com/gameday/849827
 LOCATION:Petco Park
 URL:https://www.mlb.com/gameday/849827
 CATEGORIES:MLB,Playoffs,San Diego Padres
@@ -2450,10 +2452,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849824@football-watchlist
-DTSTAMP:20261001T235730Z
+DTSTAMP:20261004T181238Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261001T235730Z
-SEQUENCE:5
+LAST-MODIFIED:20261004T181238Z
+SEQUENCE:6
 DTSTART:20261009T203000Z
 DTEND:20261010T000000Z
 SUMMARY:MLB: NLDS 'A' Game 5 - San Diego Padres at Milwaukee Brewers [if ne
@@ -2461,9 +2463,9 @@ SUMMARY:MLB: NLDS 'A' Game 5 - San Diego Padres at Milwaukee Brewers [if ne
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
- .5 hours\; finish is approximate.\n\nListed broadcasts: FS1/ FOX ONE / Fox
-  Deportes / FOX ONE. Availability varies by country and provider.\n\nOffic
- ial schedule: https://www.mlb.com/gameday/849824
+ .5 hours\; finish is approximate.\n\nListed broadcasts: FS1 / FOX ONE / Fo
+ x Deportes / FOX ONE. Availability varies by country and provider.\n\nOffi
+ cial schedule: https://www.mlb.com/gameday/849824
 LOCATION:American Family Field
 URL:https://www.mlb.com/gameday/849824
 CATEGORIES:MLB,Playoffs,San Diego Padres
@@ -2472,10 +2474,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849821@football-watchlist
-DTSTAMP:20261002T083926Z
+DTSTAMP:20261004T181238Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261002T083926Z
-SEQUENCE:5
+LAST-MODIFIED:20261004T181238Z
+SEQUENCE:6
 DTSTART:20261010T000000Z
 DTEND:20261010T033000Z
 SUMMARY:MLB: NLDS 'B' Game 5 - Atlanta Braves at Los Angeles Dodgers [if ne
@@ -2483,9 +2485,9 @@ SUMMARY:MLB: NLDS 'B' Game 5 - Atlanta Braves at Los Angeles Dodgers [if ne
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
- .5 hours\; finish is approximate.\n\nListed broadcasts: FOX/ FOX ONE / Fox
-  Deportes / FOX ONE. Availability varies by country and provider.\n\nOffic
- ial schedule: https://www.mlb.com/gameday/849821
+ .5 hours\; finish is approximate.\n\nListed broadcasts: FOX / FOX ONE / Fo
+ x Deportes / FOX ONE. Availability varies by country and provider.\n\nOffi
+ cial schedule: https://www.mlb.com/gameday/849821
 LOCATION:UNIQLO Field at Dodger Stadium
 URL:https://www.mlb.com/gameday/849821
 CATEGORIES:MLB,Playoffs
@@ -2576,18 +2578,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856716@football-watchlist
-DTSTAMP:20261004T083153Z
+DTSTAMP:20261004T181238Z
 CREATED:20260919T072420Z
-LAST-MODIFIED:20261004T083153Z
-SEQUENCE:1
+LAST-MODIFIED:20261004T181238Z
+SEQUENCE:2
 DTSTART:20261010T160000Z
 DTEND:20261010T193000Z
 SUMMARY:CFB: Texas A&M at Missouri
-DESCRIPTION:National pick: ranked matchup (#9 vs #20) at selection.\n\nEARL
- Y: Noon - 1pm ET start\n\nTeams: Texas A&M Aggies at Missouri Tigers\n\nUS
-  broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hou
- rs (4 hours for championships)\; finish is approximate.\n\nSchedule: https
- ://www.espn.com/college-football/game/_/gameId/401856716/texas-am-missouri
+DESCRIPTION:National pick: ranked matchup (#9 vs #20) at selection.\n\nTeam
+ s: Texas A&M Aggies at Missouri Tigers\n\nUS broadcast: ABC. Availability 
+ elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)
+ \; finish is approximate.\n\nSchedule: https://www.espn.com/college-footba
+ ll/game/_/gameId/401856716/texas-am-missouri
 LOCATION:Memorial Stadium\, Columbia\, MO\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856716/texas-am-
  missouri
@@ -3702,10 +3704,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849805@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20261004T181238Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20261004T181238Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:MLB: World Series Game 1 - Lower Seed League Champion at Higher See
@@ -3714,8 +3716,8 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
  s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: FOX/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by count
- ry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849805
+ casts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by coun
+ try and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849805
 LOCATION:TBD
 URL:https://www.mlb.com/gameday/849805
 CATEGORIES:MLB,Playoffs
@@ -3827,10 +3829,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849802@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20261004T181238Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20261004T181238Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:MLB: World Series Game 2 - Lower Seed League Champion at Higher See
@@ -3839,8 +3841,8 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
  s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: FOX/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by count
- ry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849802
+ casts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by coun
+ try and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849802
 LOCATION:TBD
 URL:https://www.mlb.com/gameday/849802
 CATEGORIES:MLB,Playoffs
@@ -3988,10 +3990,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849804@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20261004T181238Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20261004T181238Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:MLB: World Series Game 3 - Higher Seed League Champion at Lower See
@@ -4000,8 +4002,8 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
  s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: FOX/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by count
- ry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849804
+ casts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by coun
+ try and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849804
 LOCATION:TBD
 URL:https://www.mlb.com/gameday/849804
 CATEGORIES:MLB,Playoffs
@@ -4029,10 +4031,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849803@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20261004T181238Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20261004T181238Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:MLB: World Series Game 4 - Higher Seed League Champion at Lower See
@@ -4041,8 +4043,8 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
  s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: FOX/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by count
- ry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849803
+ casts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by coun
+ try and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849803
 LOCATION:TBD
 URL:https://www.mlb.com/gameday/849803
 CATEGORIES:MLB,Playoffs
@@ -4071,10 +4073,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849799@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20261004T181238Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20261004T181238Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:MLB: World Series Game 5 - Higher Seed League Champion at Lower See
@@ -4084,9 +4086,9 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
   are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
  st pitch has not been announced. This all-day marker will become a timed e
- vent when confirmed.\n\nListed broadcasts: FOX/ FOX ONE / Fox Deportes / F
- OX ONE. Availability varies by country and provider.\n\nOfficial schedule:
-  https://www.mlb.com/gameday/849799
+ vent when confirmed.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / 
+ FOX ONE. Availability varies by country and provider.\n\nOfficial schedule
+ : https://www.mlb.com/gameday/849799
 LOCATION:TBD
 URL:https://www.mlb.com/gameday/849799
 CATEGORIES:MLB,Playoffs
@@ -4177,10 +4179,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849801@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20261004T181238Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20261004T181238Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:MLB: World Series Game 6 - Lower Seed League Champion at Higher See
@@ -4190,9 +4192,9 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
   are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
  st pitch has not been announced. This all-day marker will become a timed e
- vent when confirmed.\n\nListed broadcasts: FOX/ FOX ONE / Fox Deportes / F
- OX ONE. Availability varies by country and provider.\n\nOfficial schedule:
-  https://www.mlb.com/gameday/849801
+ vent when confirmed.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / 
+ FOX ONE. Availability varies by country and provider.\n\nOfficial schedule
+ : https://www.mlb.com/gameday/849801
 LOCATION:TBD
 URL:https://www.mlb.com/gameday/849801
 CATEGORIES:MLB,Playoffs
@@ -4241,10 +4243,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849800@football-watchlist
-DTSTAMP:20260919T112059Z
+DTSTAMP:20261004T181238Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20260919T112059Z
-SEQUENCE:1
+LAST-MODIFIED:20261004T181238Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:MLB: World Series Game 7 - Lower Seed League Champion at Higher See
@@ -4254,9 +4256,9 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
   are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
  st pitch has not been announced. This all-day marker will become a timed e
- vent when confirmed.\n\nListed broadcasts: FOX/ FOX ONE / Fox Deportes / F
- OX ONE. Availability varies by country and provider.\n\nOfficial schedule:
-  https://www.mlb.com/gameday/849800
+ vent when confirmed.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / 
+ FOX ONE. Availability varies by country and provider.\n\nOfficial schedule
+ : https://www.mlb.com/gameday/849800
 LOCATION:TBD
 URL:https://www.mlb.com/gameday/849800
 CATEGORIES:MLB,Playoffs

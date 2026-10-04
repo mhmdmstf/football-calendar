@@ -2119,7 +2119,7 @@
       "start": "2026-10-03T20:00:00.000Z",
       "end": "2026-10-03T23:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Dylan Dodd / Tarik Skubal.\n\nListed broadcasts: FOX/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849828",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Dylan Dodd / Tarik Skubal.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849828",
       "location": "UNIQLO Field at Dodger Stadium",
       "url": "https://www.mlb.com/gameday/849828",
       "status": "CONFIRMED",
@@ -2127,10 +2127,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "ffffb16fee479ee743f3fd1b8acceb845afd6dabc39ac621b4901d5b58bf366b",
+      "hash": "7ab828d3ece72c7faa6271159f63d98179de137ebf1b7b17d1d46746e73bb2d3",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-03T18:01:12.578Z",
-      "sequence": 7
+      "modified": "2026-10-04T18:12:38.845Z",
+      "sequence": 8
     },
     {
       "uid": "mlb-849835@football-watchlist",
@@ -2277,7 +2277,7 @@
       "start": "2026-10-04T00:30:00.000Z",
       "end": "2026-10-04T04:00:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Robbie Ray / Jacob Misiorowski.\n\nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849830",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Robbie Ray / Jacob Misiorowski.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849830",
       "location": "American Family Field",
       "url": "https://www.mlb.com/gameday/849830",
       "status": "CONFIRMED",
@@ -2286,10 +2286,10 @@
         "Playoffs",
         "San Diego Padres"
       ],
-      "hash": "dbd2106a3ddeb8c0939a817bed4356e04b9d14e529d146a01ae2bb867ae801ec",
+      "hash": "978dc0eef5037c7ee1d7202ae76c511fc2b60e916dd564137814381ed8df8da4",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-02T23:51:33.553Z",
-      "sequence": 6
+      "modified": "2026-10-04T18:12:38.845Z",
+      "sequence": 7
     },
     {
       "uid": "nhl-2026020034@football-watchlist",
@@ -2378,7 +2378,7 @@
       "start": "2026-10-04T20:00:00.000Z",
       "end": "2026-10-04T23:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Michael King / Logan Henderson.\n\nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849825",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Michael King / Logan Henderson.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849825",
       "location": "American Family Field",
       "url": "https://www.mlb.com/gameday/849825",
       "status": "CONFIRMED",
@@ -2387,10 +2387,10 @@
         "Playoffs",
         "San Diego Padres"
       ],
-      "hash": "1be65d1be213895c31e69d3a11387e380ecb796126b2eb7fef25b7fa34e2570e",
+      "hash": "23906921392591f0cee862439f7dca1ede6d02d53b6c06d7406f41bf3bdb02a6",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-02T23:51:33.553Z",
-      "sequence": 6
+      "modified": "2026-10-04T18:12:38.845Z",
+      "sequence": 7
     },
     {
       "uid": "mlb-849823@football-watchlist",
@@ -2411,7 +2411,7 @@
       "start": "2026-10-05T00:00:00.000Z",
       "end": "2026-10-05T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Blake Snell.\n\nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849823",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Blake Snell.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849823",
       "location": "UNIQLO Field at Dodger Stadium",
       "url": "https://www.mlb.com/gameday/849823",
       "status": "CONFIRMED",
@@ -2419,10 +2419,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "9c7f345ec11231d0805cc303bf6495653b28685fc225f5e63631c9c8426cbed1",
+      "hash": "c6b1a999617a20421f2e242cb5b1dfde5646dd55dcfd756920c45c061b515b60",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-03T18:01:12.578Z",
-      "sequence": 6
+      "modified": "2026-10-04T18:12:38.845Z",
+      "sequence": 7
     },
     {
       "uid": "nfl-401872978@football-watchlist",
@@ -2462,7 +2462,7 @@
       "start": "2026-10-05T21:00:00.000Z",
       "end": "2026-10-06T00:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Gavin Williams.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849834",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Anthony Kay / Gavin Williams.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849834",
       "location": "Progressive Field",
       "url": "https://www.mlb.com/gameday/849834",
       "status": "CONFIRMED",
@@ -2471,10 +2471,10 @@
         "Playoffs",
         "Cleveland Guardians"
       ],
-      "hash": "6a668cc4c458b99d04002e30b855d8572ef039a3d4727a3c22461a2410c7f75a",
+      "hash": "cbfd543593a98131b2b74c0df7f7de4b49678dd34e86d3f1aa6568ef11f8a9cd",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-01T19:37:24.118Z",
-      "sequence": 9
+      "modified": "2026-10-04T18:12:38.845Z",
+      "sequence": 10
     },
     {
       "uid": "mlb-849839@football-watchlist",
@@ -2577,7 +2577,7 @@
       "start": "2026-10-06T22:00:00.000Z",
       "end": "2026-10-07T01:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849819",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849819",
       "location": "Truist Park",
       "url": "https://www.mlb.com/gameday/849819",
       "status": "CONFIRMED",
@@ -2585,10 +2585,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "20fb0867b34b35e3136aa63085f88304a31251f8842475cd74c83212efa88018",
+      "hash": "099c2f945d7cd9c94eaa89b4337813951cb7371d4c7d16fd10cc8ecee5ff14c8",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-02T08:39:26.015Z",
-      "sequence": 5
+      "modified": "2026-10-04T18:12:38.845Z",
+      "sequence": 6
     },
     {
       "uid": "nhl-2026020045@football-watchlist",
@@ -2639,7 +2639,7 @@
       "start": "2026-10-07T01:30:00.000Z",
       "end": "2026-10-07T05:00:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849826",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Dustin May / Nick Pivetta.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849826",
       "location": "Petco Park",
       "url": "https://www.mlb.com/gameday/849826",
       "status": "CONFIRMED",
@@ -2648,10 +2648,10 @@
         "Playoffs",
         "San Diego Padres"
       ],
-      "hash": "4e2e486d2e52644726d3c3dd5e5fd7f4fcfe994aadd274fa7c3cfc8ce15f8f77",
+      "hash": "581039a2d991fe08f67827bf7414a9fa9a4233bbb0c483cd347f6101b796d326",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-01T23:57:30.137Z",
-      "sequence": 5
+      "modified": "2026-10-04T18:12:38.845Z",
+      "sequence": 6
     },
     {
       "uid": "mlb-849833@football-watchlist",
@@ -2705,7 +2705,7 @@
       "start": "2026-10-07T22:00:00.000Z",
       "end": "2026-10-08T01:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849822",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849822",
       "location": "Truist Park",
       "url": "https://www.mlb.com/gameday/849822",
       "status": "TENTATIVE",
@@ -2713,10 +2713,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "d418ed55e26235972ba17372316bdae8e00e36b6d62a8e15b90708e74e5be0a6",
+      "hash": "162b90473683efe77e21aa782ce7808b44dde6e45ffdbccaa515c33e116d9fdc",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-02T08:39:26.015Z",
-      "sequence": 5
+      "modified": "2026-10-04T18:12:38.845Z",
+      "sequence": 6
     },
     {
       "uid": "mlb-849838@football-watchlist",
@@ -2770,7 +2770,7 @@
       "start": "2026-10-08T02:00:00.000Z",
       "end": "2026-10-08T05:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849827",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849827",
       "location": "Petco Park",
       "url": "https://www.mlb.com/gameday/849827",
       "status": "TENTATIVE",
@@ -2779,10 +2779,10 @@
         "Playoffs",
         "San Diego Padres"
       ],
-      "hash": "6deb2aeb6f8ad19dc09a1cfdce01ca0c57d59afa9fa6ca3f454f57114bec2bd5",
+      "hash": "cba102fade5aac50a1becc4ff766846fdb582b9b7b076d57738c8ceca13ce9b2",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-01T23:57:30.137Z",
-      "sequence": 5
+      "modified": "2026-10-04T18:12:38.845Z",
+      "sequence": 6
     },
     {
       "uid": "mlb-849832@football-watchlist",
@@ -2948,7 +2948,7 @@
       "start": "2026-10-09T20:30:00.000Z",
       "end": "2026-10-10T00:00:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FS1/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849824",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849824",
       "location": "American Family Field",
       "url": "https://www.mlb.com/gameday/849824",
       "status": "TENTATIVE",
@@ -2957,10 +2957,10 @@
         "Playoffs",
         "San Diego Padres"
       ],
-      "hash": "06faba88e3bbab4b127a14c4e9ce1d796109247d942884eadbfc0b53f9db4508",
+      "hash": "1ce303951d4875b62859cf90d082e21a18a548747725f14b3b15275e5b2a3bd9",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-01T23:57:30.137Z",
-      "sequence": 5
+      "modified": "2026-10-04T18:12:38.845Z",
+      "sequence": 6
     },
     {
       "uid": "mlb-849821@football-watchlist",
@@ -2981,7 +2981,7 @@
       "start": "2026-10-10T00:00:00.000Z",
       "end": "2026-10-10T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FOX/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849821",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849821",
       "location": "UNIQLO Field at Dodger Stadium",
       "url": "https://www.mlb.com/gameday/849821",
       "status": "TENTATIVE",
@@ -2989,10 +2989,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "c6e412b28903adbde72a486a00e821a425330a0873b7bf9d9ab63750849f211c",
+      "hash": "54901dd4cddc6efeea43824a40f637066d0c72ffcca84ad06b1925fb0ae0ea86",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-02T08:39:26.015Z",
-      "sequence": 5
+      "modified": "2026-10-04T18:12:38.845Z",
+      "sequence": 6
     },
     {
       "uid": "college-football-401858487@football-watchlist",
@@ -3084,7 +3084,7 @@
       "start": "2026-10-10T16:00:00.000Z",
       "end": "2026-10-10T19:30:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#9 vs #20) at selection.\n\nEARLY: Noon - 1pm ET start\n\nTeams: Texas A&M Aggies at Missouri Tigers\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856716/texas-am-missouri",
+      "description": "National pick: ranked matchup (#9 vs #20) at selection.\n\nTeams: Texas A&M Aggies at Missouri Tigers\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856716/texas-am-missouri",
       "location": "Memorial Stadium, Columbia, MO, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856716/texas-am-missouri",
       "status": "CONFIRMED",
@@ -3093,10 +3093,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#9 vs #20) at selection.",
-      "hash": "f446b65126bad65eefb807a001caa3f3b86dfeeaa7f36add90e3e8b3b5a36c8d",
+      "hash": "88ddc784bd591e100d820a2d5fe7d688d16de674d1bf8c0f1bebc831b45fae63",
       "created": "2026-09-19T07:24:20.666Z",
-      "modified": "2026-10-04T08:31:53.383Z",
-      "sequence": 1
+      "modified": "2026-10-04T18:12:38.845Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401856717@football-watchlist",
@@ -4500,7 +4500,7 @@
       "start": "2026-10-23",
       "end": "2026-10-24",
       "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849805",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849805",
       "location": "TBD",
       "url": "https://www.mlb.com/gameday/849805",
       "status": "TENTATIVE",
@@ -4508,10 +4508,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "0ce5d66543992a89b7cc9e6119e9ce8df7dd84e6b24b8a34e6f405a0f5953ecd",
+      "hash": "3fb1528c22a102aa33f38eec52bac0e116aadd6e9886396b027b67d698f0359e",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-10-04T18:12:38.845Z",
+      "sequence": 2
     },
     {
       "uid": "nfl-401873010@football-watchlist",
@@ -4643,7 +4643,7 @@
       "start": "2026-10-24",
       "end": "2026-10-25",
       "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849802",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849802",
       "location": "TBD",
       "url": "https://www.mlb.com/gameday/849802",
       "status": "TENTATIVE",
@@ -4651,10 +4651,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "2f8631f14eacf45b8a5aa764149606a7c9a033f2b18273760ed27037982e8095",
+      "hash": "b973c967cd75fb117bc9852ddc30b54e7875a70a5b217b19645f3e05b3db919b",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-10-04T18:12:38.845Z",
+      "sequence": 2
     },
     {
       "uid": "show-gameday-2026-10-24@football-watchlist",
@@ -4835,7 +4835,7 @@
       "start": "2026-10-26",
       "end": "2026-10-27",
       "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849804",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849804",
       "location": "TBD",
       "url": "https://www.mlb.com/gameday/849804",
       "status": "TENTATIVE",
@@ -4843,10 +4843,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "25cba1fe3961aee0d5fa6d9ae49d203d2e0889d437fc1be4683eb7b631dea3df",
+      "hash": "11fecd8ee5d33dea93e054eab70f77a59caaabf7b4a13252a9f50737954911ba",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-10-04T18:12:38.845Z",
+      "sequence": 2
     },
     {
       "uid": "nfl-401873022@football-watchlist",
@@ -4886,7 +4886,7 @@
       "start": "2026-10-27",
       "end": "2026-10-28",
       "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849803",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849803",
       "location": "TBD",
       "url": "https://www.mlb.com/gameday/849803",
       "status": "TENTATIVE",
@@ -4894,10 +4894,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "1f05f563fc4f5b9c040fa0cd55ac4ce8314c1699adfe88d7bff6c877ba872948",
+      "hash": "84b7cd04b3f5600ec4983ea899f5ef309db965f575134cd78eaa955da45d7cd3",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-10-04T18:12:38.845Z",
+      "sequence": 2
     },
     {
       "uid": "nfl-401873009@football-watchlist",
@@ -4937,7 +4937,7 @@
       "start": "2026-10-28",
       "end": "2026-10-29",
       "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849799",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849799",
       "location": "TBD",
       "url": "https://www.mlb.com/gameday/849799",
       "status": "TENTATIVE",
@@ -4945,10 +4945,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "4e49bd58a241aa1e2ebf432c0ea1ea2226dc744a0d17f12cec80dc7a1e624d67",
+      "hash": "cac2c2b33c89a1d209e79daa8651b0962b75c402591a5b3b3d7b67ec9bcd2401",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-10-04T18:12:38.845Z",
+      "sequence": 2
     },
     {
       "uid": "nhl-2026020189@football-watchlist",
@@ -5083,7 +5083,7 @@
       "start": "2026-10-30",
       "end": "2026-10-31",
       "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849801",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849801",
       "location": "TBD",
       "url": "https://www.mlb.com/gameday/849801",
       "status": "TENTATIVE",
@@ -5091,10 +5091,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "e65cdac44f8f440fed126af50a7d25f574b71d38a3d549ad4f3eddfa502d5ac1",
+      "hash": "6dcf5cbfcd4740f0ba3a16eba539fed370057575e3243579d49f2e0ed81ade95",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-10-04T18:12:38.845Z",
+      "sequence": 2
     },
     {
       "uid": "nfl-401873023@football-watchlist",
@@ -5164,7 +5164,7 @@
       "start": "2026-10-31",
       "end": "2026-11-01",
       "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX/ FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849800",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849800",
       "location": "TBD",
       "url": "https://www.mlb.com/gameday/849800",
       "status": "TENTATIVE",
@@ -5172,10 +5172,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "3dd20cdf744ac67c0412120dc17867c2c043e5d4a4143f6b4879ec362e9a0978",
+      "hash": "a897286655fed029d338e841d5cc9074b62bae69a576d44201165ad54efc88ec",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T11:20:59.122Z",
-      "sequence": 1
+      "modified": "2026-10-04T18:12:38.845Z",
+      "sequence": 2
     },
     {
       "uid": "chelsea-2645278@football-watchlist",
