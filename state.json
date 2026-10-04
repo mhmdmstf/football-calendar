@@ -82,17 +82,17 @@
       "end": "2026-09-05T16:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "College GameDay on ESPN. Featured game: LSU vs. Clemson. Broadcast window: 9:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://espnpressroom.com/press-release/college-gameday-hits-the-road-for-the-500th-time-as-season-40-kicks-off-in-baton-rouge/",
+      "description": "College GameDay on ESPN. Featured game: LSU vs. Clemson. Broadcast window: 9:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://lsusports.net/news/2026/05/12/lsu-to-host-espn-college-gameday-for-kiffin-debut",
       "location": "Baton Rouge, Louisiana",
-      "url": "https://espnpressroom.com/press-release/college-gameday-hits-the-road-for-the-500th-time-as-season-40-kicks-off-in-baton-rouge/",
+      "url": "https://lsusports.net/news/2026/05/12/lsu-to-host-espn-college-gameday-for-kiffin-debut",
       "categories": [
         "College",
         "Pregame"
       ],
-      "hash": "fdc44cf7a345e26561e92bf2c0dbe46aebe1246d58ae53a664bec6b280c9ad86",
+      "hash": "c3b9c62d70b7013f49c7686a1f178248d0e6cae48802461856d8a64296192e0a",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-10-03T13:25:37.454Z",
-      "sequence": 3
+      "modified": "2026-10-04T23:17:56.177Z",
+      "sequence": 4
     },
     {
       "uid": "show-bignoon-2026-09-05@football-watchlist",
@@ -2411,7 +2411,7 @@
       "start": "2026-10-05T00:00:00.000Z",
       "end": "2026-10-05T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Blake Snell.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849823",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Ray Kerr / Blake Snell.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849823",
       "location": "UNIQLO Field at Dodger Stadium",
       "url": "https://www.mlb.com/gameday/849823",
       "status": "CONFIRMED",
@@ -2419,10 +2419,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "c6b1a999617a20421f2e242cb5b1dfde5646dd55dcfd756920c45c061b515b60",
+      "hash": "3f9070a8dbe879eae507ce4dfa9598f62abd1ab7f9641b37ef6bef33f352ca82",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-04T18:12:38.845Z",
-      "sequence": 7
+      "modified": "2026-10-04T23:17:56.177Z",
+      "sequence": 8
     },
     {
       "uid": "nfl-401872978@football-watchlist",
@@ -2577,7 +2577,7 @@
       "start": "2026-10-06T22:00:00.000Z",
       "end": "2026-10-07T01:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849819",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Yoshinobu Yamamoto / Chris Sale.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849819",
       "location": "Truist Park",
       "url": "https://www.mlb.com/gameday/849819",
       "status": "CONFIRMED",
@@ -2585,10 +2585,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "099c2f945d7cd9c94eaa89b4337813951cb7371d4c7d16fd10cc8ecee5ff14c8",
+      "hash": "9471be7fef0ecab55c8512e259a36287d2f26fecad00b0d03d3ce0a7decf00c9",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-04T18:12:38.845Z",
-      "sequence": 6
+      "modified": "2026-10-04T23:17:56.177Z",
+      "sequence": 7
     },
     {
       "uid": "nhl-2026020045@football-watchlist",
@@ -4622,6 +4622,27 @@
       "hash": "e18387ab299c5f5063dbe62acaedf01ff3feca73b3f005d7e72dccd7a7ca3f1c",
       "created": "2026-10-03T08:17:20.619Z",
       "modified": "2026-10-03T08:17:20.619Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401858274@football-watchlist",
+      "gameId": "401858274",
+      "title": "CFB: Pittsburgh at Miami [time TBA]",
+      "start": "2026-10-24",
+      "end": "2026-10-25",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#4 vs #25) at selection.\n\nTeams: Pittsburgh Panthers at Miami Hurricanes\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858274/pitt-miami",
+      "location": "Hard Rock Stadium, Miami Gardens, FL, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858274/pitt-miami",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#4 vs #25) at selection.",
+      "hash": "5dae2cf483659c86637765144972780466f2aee5e5ea99b2936e5d9fc924b55b",
+      "created": "2026-10-04T23:17:56.177Z",
+      "modified": "2026-10-04T23:17:56.177Z",
       "sequence": 0
     },
     {
@@ -12143,5 +12164,7 @@
     },
     "events": 41
   },
-  "warnings": []
+  "warnings": [
+    "College GameDay announcement refresh failed: The operation was aborted due to timeout. Retaining verified announcements; other sites remain TBA."
+  ]
 }

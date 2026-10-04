@@ -75,20 +75,20 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:show-gameday-2026-09-05@football-watchlist
-DTSTAMP:20261003T132537Z
+DTSTAMP:20261004T231756Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20261003T132537Z
-SEQUENCE:3
+LAST-MODIFIED:20261004T231756Z
+SEQUENCE:4
 DTSTART:20260905T130000Z
 DTEND:20260905T160000Z
 SUMMARY:College GameDay: Baton Rouge\, Louisiana
 DESCRIPTION:College GameDay on ESPN. Featured game: LSU vs. Clemson. Broadc
  ast window: 9:00 a.m. to noon Eastern. Broadcast schedules can change.\nSo
- urce: https://espnpressroom.com/press-release/college-gameday-hits-the-roa
- d-for-the-500th-time-as-season-40-kicks-off-in-baton-rouge/
+ urce: https://lsusports.net/news/2026/05/12/lsu-to-host-espn-college-gamed
+ ay-for-kiffin-debut
 LOCATION:Baton Rouge\, Louisiana
-URL:https://espnpressroom.com/press-release/college-gameday-hits-the-road-f
- or-the-500th-time-as-season-40-kicks-off-in-baton-rouge/
+URL:https://lsusports.net/news/2026/05/12/lsu-to-host-espn-college-gameday-
+ for-kiffin-debut
 CATEGORIES:College,Pregame
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -2083,18 +2083,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849823@football-watchlist
-DTSTAMP:20261004T181238Z
+DTSTAMP:20261004T231756Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261004T181238Z
-SEQUENCE:7
+LAST-MODIFIED:20261004T231756Z
+SEQUENCE:8
 DTSTART:20261005T000000Z
 DTEND:20261005T033000Z
 SUMMARY:MLB: NLDS 'B' Game 2 - Atlanta Braves at Los Angeles Dodgers
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nProbable pitchers (subject to change): Blake Snell.\n\nListed broadcasts:
-  FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country an
- d provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849823
+ nProbable pitchers (subject to change): Ray Kerr / Blake Snell.\n\nListed 
+ broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by
+  country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/8
+ 49823
 LOCATION:UNIQLO Field at Dodger Stadium
 URL:https://www.mlb.com/gameday/849823
 CATEGORIES:MLB,Playoffs
@@ -2203,18 +2204,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849819@football-watchlist
-DTSTAMP:20261004T181238Z
+DTSTAMP:20261004T231756Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261004T181238Z
-SEQUENCE:6
+LAST-MODIFIED:20261004T231756Z
+SEQUENCE:7
 DTSTART:20261006T220000Z
 DTEND:20261007T013000Z
 SUMMARY:MLB: NLDS 'B' Game 3 - Los Angeles Dodgers at Atlanta Braves
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability v
- aries by country and provider.\n\nOfficial schedule: https://www.mlb.com/g
- ameday/849819
+ nProbable pitchers (subject to change): Yoshinobu Yamamoto / Chris Sale.\n
+ \nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability 
+ varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/
+ gameday/849819
 LOCATION:Truist Park
 URL:https://www.mlb.com/gameday/849819
 CATEGORIES:MLB,Playoffs
@@ -3823,6 +3825,27 @@ DESCRIPTION:National pick: ranked matchup (#13 vs #20) at selection.\n\nTea
 LOCATION:Rice-Eccles Stadium\, Salt Lake City\, UT\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856837/houston-u
  tah
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858274@football-watchlist
+DTSTAMP:20261004T231756Z
+CREATED:20261004T231756Z
+LAST-MODIFIED:20261004T231756Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:CFB: Pittsburgh at Miami [time TBA]
+DESCRIPTION:National pick: ranked matchup (#4 vs #25) at selection.\n\nTeam
+ s: Pittsburgh Panthers at Miami Hurricanes\n\nBroadcast to be announced.\n
+ \nKickoff has not been announced. This all-day marker will become a timed 
+ event when confirmed.\n\nSchedule: https://www.espn.com/college-football/g
+ ame/_/gameId/401858274/pitt-miami
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858274/pitt-miam
+ i
 CATEGORIES:College,National pick
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT

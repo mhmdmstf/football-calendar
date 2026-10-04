@@ -1,7 +1,7 @@
 {
   "checkedOn": "2026-10-04",
   "season": 2026,
-  "events": 480,
+  "events": 481,
   "nflGames": 285,
   "collegeGames": 949,
   "baseball": {
@@ -38,5 +38,7 @@
     },
     "events": 41
   },
-  "warnings": []
+  "warnings": [
+    "College GameDay announcement refresh failed: The operation was aborted due to timeout. Retaining verified announcements; other sites remain TBA."
+  ]
 }
