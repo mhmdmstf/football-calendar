@@ -1,5 +1,5 @@
 {
-  "checkedOn": "2026-10-03",
+  "checkedOn": "2026-10-04",
   "season": 2026,
   "events": [
     {
@@ -2172,19 +2172,19 @@
       "start": "2026-10-03T23:00:00.000Z",
       "end": "2026-10-04T02:30:00.000Z",
       "allDay": false,
-      "description": "National pick: a ranked team in a potentially competitive game (market spread 5.5 points at selection). Upset possibility is an estimate.\n\nTeams: BYU Cougars at TCU Horned Frogs\n\nUS broadcast: ESPN / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856818",
+      "description": "National pick: a ranked team in a potentially competitive game (market spread 5.5 points at selection). Upset possibility is an estimate.\n\nTeams: BYU Cougars at TCU Horned Frogs\n\nUS broadcast: ESPN / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856818/byu-tcu",
       "location": "Amon G. Carter Stadium, Fort Worth, TX, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856818",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856818/byu-tcu",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 5.5 points at selection). Upset possibility is an estimate.",
-      "hash": "721ee1251b0bb1d4e2b999c7c40f52e00cad4ddc32e855c0239e1d5eb5545b86",
+      "hash": "355e87b13decb2d3c236b05eabb56889e535f9b85c35a7ba387d6d5fb2dcb7ec",
       "created": "2026-09-23T22:59:40.721Z",
-      "modified": "2026-10-03T23:09:30.766Z",
-      "sequence": 3
+      "modified": "2026-10-04T08:31:53.383Z",
+      "sequence": 4
     },
     {
       "uid": "nhl-2026020025@football-watchlist",
@@ -2495,7 +2495,7 @@
       "start": "2026-10-06T00:00:00.000Z",
       "end": "2026-10-06T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Cam Schlittler.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849839",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Cam Schlittler / Freddy Peralta.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849839",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/849839",
       "status": "CONFIRMED",
@@ -2504,10 +2504,10 @@
         "Playoffs",
         "Tampa Bay Rays"
       ],
-      "hash": "3085cfc11d4b1923cfbf17fe95a48648eabe551d925d1cdb77c0671859fce50e",
+      "hash": "444af273eebd7982fe9862fe879a77927d9916f8e1606cdb3ceebd37dadb0a9a",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-01T23:57:30.137Z",
-      "sequence": 7
+      "modified": "2026-10-04T08:31:53.383Z",
+      "sequence": 8
     },
     {
       "uid": "nhl-2026020043@football-watchlist",
@@ -2963,27 +2963,6 @@
       "sequence": 5
     },
     {
-      "uid": "college-football-401856716@football-watchlist",
-      "gameId": "401856716",
-      "title": "CFB: Texas A&M at Missouri [time TBA]",
-      "start": "2026-10-10",
-      "end": "2026-10-11",
-      "allDay": true,
-      "description": "National pick: ranked matchup (#9 vs #20) at selection.\n\nEARLY: Noon - 1pm ET start\n\nTeams: Texas A&M Aggies at Missouri Tigers\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856716/texas-am-missouri",
-      "location": "Memorial Stadium, Columbia, MO, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856716/texas-am-missouri",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#9 vs #20) at selection.",
-      "hash": "b52bde40628204f37eecd5b7db09d952d8ca8951a1e912f7780ac99e5279d779",
-      "created": "2026-09-19T07:24:20.666Z",
-      "modified": "2026-09-19T07:24:20.666Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-849821@football-watchlist",
       "gameId": "849821",
       "mlbSeason": 2026,
@@ -3097,6 +3076,27 @@
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-05T14:46:37.855Z",
       "sequence": 0
+    },
+    {
+      "uid": "college-football-401856716@football-watchlist",
+      "gameId": "401856716",
+      "title": "CFB: Texas A&M at Missouri",
+      "start": "2026-10-10T16:00:00.000Z",
+      "end": "2026-10-10T19:30:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#9 vs #20) at selection.\n\nEARLY: Noon - 1pm ET start\n\nTeams: Texas A&M Aggies at Missouri Tigers\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856716/texas-am-missouri",
+      "location": "Memorial Stadium, Columbia, MO, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856716/texas-am-missouri",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#9 vs #20) at selection.",
+      "hash": "f446b65126bad65eefb807a001caa3f3b86dfeeaa7f36add90e3e8b3b5a36c8d",
+      "created": "2026-09-19T07:24:20.666Z",
+      "modified": "2026-10-04T08:31:53.383Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401856717@football-watchlist",
@@ -12110,14 +12110,14 @@
   "nflGames": 285,
   "collegeGames": 949,
   "baseball": {
-    "checkedOn": "2026-10-03",
+    "checkedOn": "2026-10-04",
     "season": 2026,
     "scheduleGames": 411,
     "events": 58,
     "playoffEvents": 50
   },
   "hockey": {
-    "checkedOn": "2026-10-03",
+    "checkedOn": "2026-10-04",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -12134,7 +12134,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-10-03",
+    "checkedOn": "2026-10-04",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,

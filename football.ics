@@ -1898,10 +1898,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856818@football-watchlist
-DTSTAMP:20261003T230930Z
+DTSTAMP:20261004T083153Z
 CREATED:20260923T225940Z
-LAST-MODIFIED:20261003T230930Z
-SEQUENCE:3
+LAST-MODIFIED:20261004T083153Z
+SEQUENCE:4
 DTSTART:20261003T230000Z
 DTEND:20261004T023000Z
 SUMMARY:CFB: BYU at TCU
@@ -1910,9 +1910,9 @@ DESCRIPTION:National pick: a ranked team in a potentially competitive game
  \n\nTeams: BYU Cougars at TCU Horned Frogs\n\nUS broadcast: ESPN / Disney+
  . Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for
   championships)\; finish is approximate.\n\nSchedule: https://www.espn.com
- /college-football/game/_/gameId/401856818
+ /college-football/game/_/gameId/401856818/byu-tcu
 LOCATION:Amon G. Carter Stadium\, Fort Worth\, TX\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856818
+URL:https://www.espn.com/college-football/game/_/gameId/401856818/byu-tcu
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -2142,18 +2142,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849839@football-watchlist
-DTSTAMP:20261001T235730Z
+DTSTAMP:20261004T083153Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261001T235730Z
-SEQUENCE:7
+LAST-MODIFIED:20261004T083153Z
+SEQUENCE:8
 DTSTART:20261006T000000Z
 DTEND:20261006T033000Z
 SUMMARY:MLB: ALDS 'A' Game 2 - New York Yankees at Tampa Bay Rays
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nProbable pitchers (subject to change): Cam Schlittler.\n\nListed broadcas
- ts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country 
- and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849839
+ nProbable pitchers (subject to change): Cam Schlittler / Freddy Peralta.\n
+ \nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability v
+ aries by country and provider.\n\nOfficial schedule: https://www.mlb.com/g
+ ameday/849839
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/849839
 CATEGORIES:MLB,Playoffs,Tampa Bay Rays
@@ -2470,27 +2471,6 @@ STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:college-football-401856716@football-watchlist
-DTSTAMP:20260919T072420Z
-CREATED:20260919T072420Z
-LAST-MODIFIED:20260919T072420Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-SUMMARY:CFB: Texas A&M at Missouri [time TBA]
-DESCRIPTION:National pick: ranked matchup (#9 vs #20) at selection.\n\nEARL
- Y: Noon - 1pm ET start\n\nTeams: Texas A&M Aggies at Missouri Tigers\n\nBr
- oadcast to be announced.\n\nKickoff has not been announced. This all-day m
- arker will become a timed event when confirmed.\n\nSchedule: https://www.e
- spn.com/college-football/game/_/gameId/401856716/texas-am-missouri
-LOCATION:Memorial Stadium\, Columbia\, MO\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856716/texas-am-
- missouri
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-849821@football-watchlist
 DTSTAMP:20261002T083926Z
 CREATED:20260919T111549Z
@@ -2592,6 +2572,27 @@ LOCATION:
 URL:https://www.foxsports.com/big-noon-kickoff-experience
 CATEGORIES:College,Pregame
 STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856716@football-watchlist
+DTSTAMP:20261004T083153Z
+CREATED:20260919T072420Z
+LAST-MODIFIED:20261004T083153Z
+SEQUENCE:1
+DTSTART:20261010T160000Z
+DTEND:20261010T193000Z
+SUMMARY:CFB: Texas A&M at Missouri
+DESCRIPTION:National pick: ranked matchup (#9 vs #20) at selection.\n\nEARL
+ Y: Noon - 1pm ET start\n\nTeams: Texas A&M Aggies at Missouri Tigers\n\nUS
+  broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hou
+ rs (4 hours for championships)\; finish is approximate.\n\nSchedule: https
+ ://www.espn.com/college-football/game/_/gameId/401856716/texas-am-missouri
+LOCATION:Memorial Stadium\, Columbia\, MO\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856716/texas-am-
+ missouri
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
