@@ -134,15 +134,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858425@football-watchlist
-DTSTAMP:20260905T144637Z
+DTSTAMP:20261005T213612Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
+LAST-MODIFIED:20261005T213612Z
+SEQUENCE:1
 DTSTART:20260905T160000Z
 DTEND:20260905T193000Z
 SUMMARY:CFB: North Texas at Indiana
 DESCRIPTION:Confirmed College GameDay or Big Noon featured matchup.\n\nTeam
- s: North Texas Mean Green at Indiana Hoosiers\n\nUS broadcast: FOX. Availa
+ s: North Texas Mean Green at Indiana Hoosiers\n\nUS broadcast: Fox. Availa
  bility elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champio
  nships)\; finish is approximate.\n\nSchedule: https://www.espn.com/college
  -football/game/_/gameId/401858425/north-texas-indiana
@@ -347,16 +347,16 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856678@football-watchlist
-DTSTAMP:20260905T144637Z
+DTSTAMP:20261005T213612Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
+LAST-MODIFIED:20261005T213612Z
+SEQUENCE:1
 DTSTART:20260912T000000Z
 DTEND:20260912T033000Z
 SUMMARY:CFB: Missouri at Kansas
 DESCRIPTION:National pick: a ranked team in a potentially competitive game 
  (market spread 6.5 points at selection). Upset possibility is an estimate.
- \n\nTeams: Missouri Tigers at Kansas Jayhawks\n\nUS broadcast: FOX. Availa
+ \n\nTeams: Missouri Tigers at Kansas Jayhawks\n\nUS broadcast: Fox. Availa
  bility elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champio
  nships)\; finish is approximate.\n\nSchedule: https://www.espn.com/college
  -football/game/_/gameId/401856678/missouri-kansas
@@ -433,15 +433,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856679@football-watchlist
-DTSTAMP:20260913T110827Z
+DTSTAMP:20261005T213612Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260913T110827Z
-SEQUENCE:3
+LAST-MODIFIED:20261005T213612Z
+SEQUENCE:4
 DTSTART:20260912T160000Z
 DTEND:20260912T193000Z
 SUMMARY:CFB: Oklahoma at Michigan
 DESCRIPTION:Confirmed College GameDay or Big Noon featured matchup.\n\nTeam
- s: Oklahoma Sooners at Michigan Wolverines\n\nUS broadcast: FOX / ERADM. A
+ s: Oklahoma Sooners at Michigan Wolverines\n\nUS broadcast: Fox / ERADM. A
  vailability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for ch
  ampionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/co
  llege-football/game/_/gameId/401856679/oklahoma-michigan
@@ -475,16 +475,16 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856810@football-watchlist
-DTSTAMP:20260905T144637Z
+DTSTAMP:20261005T213612Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
+LAST-MODIFIED:20261005T213612Z
+SEQUENCE:1
 DTSTART:20260912T193000Z
 DTEND:20260912T230000Z
 SUMMARY:CFB: Arizona at BYU
 DESCRIPTION:National pick: a ranked team in a potentially competitive game 
  (market spread 7 points at selection). Upset possibility is an estimate.\n
- \nTeams: Arizona Wildcats at BYU Cougars\n\nUS broadcast: FOX. Availabilit
+ \nTeams: Arizona Wildcats at BYU Cougars\n\nUS broadcast: Fox. Availabilit
  y elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championship
  s)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-foot
  ball/game/_/gameId/401856810/arizona-byu
@@ -640,15 +640,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856811@football-watchlist
-DTSTAMP:20260905T144637Z
+DTSTAMP:20261005T213612Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
+LAST-MODIFIED:20261005T213612Z
+SEQUENCE:1
 DTSTART:20260919T000000Z
 DTEND:20260919T033000Z
 SUMMARY:CFB: Houston at Texas Tech
 DESCRIPTION:National pick: ranked matchup (#12 vs #23) at selection.\n\nTea
- ms: Houston Cougars at Texas Tech Red Raiders\n\nUS broadcast: FOX. Availa
+ ms: Houston Cougars at Texas Tech Red Raiders\n\nUS broadcast: Fox. Availa
  bility elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champio
  nships)\; finish is approximate.\n\nSchedule: https://www.espn.com/college
  -football/game/_/gameId/401856811/houston-texas-tech
@@ -1103,15 +1103,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858465@football-watchlist
-DTSTAMP:20260926T225826Z
+DTSTAMP:20261005T213612Z
 CREATED:20260922T180918Z
-LAST-MODIFIED:20260926T225826Z
-SEQUENCE:2
+LAST-MODIFIED:20261005T213612Z
+SEQUENCE:3
 DTSTART:20260926T160000Z
 DTEND:20260926T193000Z
 SUMMARY:CFB: Illinois at Ohio State
 DESCRIPTION:Confirmed College GameDay or Big Noon featured matchup.\n\nTeam
- s: Illinois Fighting Illini at Ohio State Buckeyes\n\nUS broadcast: FOX. A
+ s: Illinois Fighting Illini at Ohio State Buckeyes\n\nUS broadcast: Fox. A
  vailability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for ch
  ampionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/co
  llege-football/game/_/gameId/401858465/illinois-ohio-state
@@ -1692,17 +1692,17 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858476@football-watchlist
-DTSTAMP:20260923T225940Z
+DTSTAMP:20261005T213612Z
 CREATED:20260923T225940Z
-LAST-MODIFIED:20260923T225940Z
-SEQUENCE:0
+LAST-MODIFIED:20261005T213612Z
+SEQUENCE:1
 DTSTART:20261003T000000Z
 DTEND:20261003T033000Z
 SUMMARY:CFB: Penn State at Northwestern
 DESCRIPTION:National pick: a ranked team in a potentially competitive game 
  (market spread 7 points at selection). Upset possibility is an estimate.\n
  \nTeams: Penn State Nittany Lions at Northwestern Wildcats\n\nUS broadcast
- : FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hour
+ : Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hour
  s for championships)\; finish is approximate.\n\nSchedule: https://www.esp
  n.com/college-football/game/_/gameId/401858476/penn-state-northwestern
 LOCATION:Ryan Field\, Evanston\, IL\, USA
@@ -1772,15 +1772,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858474@football-watchlist
-DTSTAMP:20261003T230930Z
+DTSTAMP:20261005T213612Z
 CREATED:20260929T084143Z
-LAST-MODIFIED:20261003T230930Z
-SEQUENCE:2
+LAST-MODIFIED:20261005T213612Z
+SEQUENCE:3
 DTSTART:20261003T160000Z
 DTEND:20261003T193000Z
 SUMMARY:CFB: Michigan at Minnesota
 DESCRIPTION:Confirmed College GameDay or Big Noon featured matchup.\n\nTeam
- s: Michigan Wolverines at Minnesota Golden Gophers\n\nUS broadcast: FOX. A
+ s: Michigan Wolverines at Minnesota Golden Gophers\n\nUS broadcast: Fox. A
  vailability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for ch
  ampionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/co
  llege-football/game/_/gameId/401858474/michigan-minnesota
@@ -2559,21 +2559,20 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:show-bignoon-2026-10-10@football-watchlist
-DTSTAMP:20260905T144637Z
+DTSTAMP:20261005T213612Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
+LAST-MODIFIED:20261005T213612Z
+SEQUENCE:1
 DTSTART:20261010T140000Z
 DTEND:20261010T160000Z
-SUMMARY:Big Noon Kickoff: location TBA
-DESCRIPTION:Usual Saturday broadcast window: 10:00 a.m. to noon Eastern on 
- FOX. Location and this week's broadcast hours have not been confirmed. Ten
- tative placeholder\, subject to broadcast changes.\nSource: https://www.fo
- xsports.com/big-noon-kickoff-experience
+SUMMARY:Big Noon Kickoff: Nebraska vs. Indiana
+DESCRIPTION:Big Noon Kickoff on FOX. Featured game: Nebraska vs. Indiana. B
+ roadcast window: 10:00 a.m. to noon Eastern. Broadcast schedules can chang
+ e.\nSource: https://www.foxsports.com/big-noon-kickoff-experience
 LOCATION:
 URL:https://www.foxsports.com/big-noon-kickoff-experience
 CATEGORIES:College,Pregame
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -2594,6 +2593,27 @@ LOCATION:Memorial Stadium\, Columbia\, MO\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856716/texas-am-
  missouri
 CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858481@football-watchlist
+DTSTAMP:20261005T213612Z
+CREATED:20261005T213612Z
+LAST-MODIFIED:20261005T213612Z
+SEQUENCE:0
+DTSTART:20261010T160000Z
+DTEND:20261010T193000Z
+SUMMARY:CFB: Indiana at Nebraska
+DESCRIPTION:Confirmed College GameDay or Big Noon featured matchup.\n\nTeam
+ s: Indiana Hoosiers at Nebraska Cornhuskers\n\nUS broadcast: Fox. Availabi
+ lity elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champions
+ hips)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-f
+ ootball/game/_/gameId/401858481/indiana-nebraska
+LOCATION:Memorial Stadium (Lincoln\, NE)\, Lincoln\, NE\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858481/indiana-n
+ ebraska
+CATEGORIES:College
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -3157,112 +3177,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:college-football-401856721@football-watchlist
-DTSTAMP:20260926T075051Z
-CREATED:20260926T075051Z
-LAST-MODIFIED:20260926T075051Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:CFB: Missouri at Ole Miss [time TBA]
-DESCRIPTION:National pick: ranked matchup (#4 vs #19) at selection.\n\nAFTE
- RNOON: 3:30 - 4:30pm ET start\n\nTeams: Missouri Tigers at Ole Miss Rebels
- \n\nBroadcast to be announced.\n\nKickoff has not been announced. This all
- -day marker will become a timed event when confirmed.\n\nSchedule: https:/
- /www.espn.com/college-football/game/_/gameId/401856721/missouri-ole-miss
-LOCATION:Vaught-Hemingway Stadium\, Oxford\, MS\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856721/missouri-
- ole-miss
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401856723@football-watchlist
-DTSTAMP:20260905T144637Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:CFB: Alabama at Tennessee [time TBA]
-DESCRIPTION:Following Alabama: every game.\nMajor rivalry: Third Saturday i
- n October.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Alabama Cr
- imson Tide at Tennessee Volunteers\n\nBroadcast to be announced.\n\nKickof
- f has not been announced. This all-day marker will become a timed event wh
- en confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/ga
- meId/401856723/alabama-tennessee
-LOCATION:Neyland Stadium\, Knoxville\, TN\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856723/alabama-t
- ennessee
-CATEGORIES:College,Alabama
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401856724@football-watchlist
-DTSTAMP:20260926T075051Z
-CREATED:20260926T075051Z
-LAST-MODIFIED:20260926T075051Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:CFB: Florida at Texas [time TBA]
-DESCRIPTION:National pick: ranked matchup (#1 vs #21) at selection.\n\nEARL
- Y: Noon - 1pm ET start\n\nTeams: Florida Gators at Texas Longhorns\n\nBroa
- dcast to be announced.\n\nKickoff has not been announced. This all-day mar
- ker will become a timed event when confirmed.\n\nSchedule: https://www.esp
- n.com/college-football/game/_/gameId/401856724/florida-texas
-LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856724/florida-t
- exas
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401856809@football-watchlist
-DTSTAMP:20260926T075051Z
-CREATED:20260926T075051Z
-LAST-MODIFIED:20260926T075051Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:CFB: Notre Dame at BYU [time TBA]
-DESCRIPTION:National pick: ranked matchup (#3 vs #9) at selection.\n\nTeams
- : Notre Dame Fighting Irish at BYU Cougars\n\nBroadcast to be announced.\n
- \nKickoff has not been announced. This all-day marker will become a timed 
- event when confirmed.\n\nSchedule: https://www.espn.com/college-football/g
- ame/_/gameId/401856809/notre-dame-byu
-LOCATION:LaVell Edwards Stadium\, Provo\, UT\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856809/notre-dam
- e-byu
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401858263@football-watchlist
-DTSTAMP:20260905T145208Z
-CREATED:20260905T145208Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:CFB: Florida State at Miami [time TBA]
-DESCRIPTION:Major rivalry: Florida State-Miami.\n\nTeams: Florida State Sem
- inoles at Miami Hurricanes\n\nBroadcast to be announced.\n\nKickoff has no
- t been announced. This all-day marker will become a timed event when confi
- rmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401
- 858263/florida-st-miami
-LOCATION:Hard Rock Stadium\, Miami Gardens\, FL\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858263/florida-s
- t-miami
-CATEGORIES:College
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:college-football-401858488@football-watchlist
 DTSTAMP:20260926T075051Z
 CREATED:20260926T075051Z
@@ -3389,6 +3303,69 @@ STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:college-football-401856724@football-watchlist
+DTSTAMP:20261005T213612Z
+CREATED:20260926T075051Z
+LAST-MODIFIED:20261005T213612Z
+SEQUENCE:1
+DTSTART:20261017T160000Z
+DTEND:20261017T193000Z
+SUMMARY:CFB: Florida at Texas
+DESCRIPTION:National pick: ranked matchup (#1 vs #21) at selection.\n\nTeam
+ s: Florida Gators at Texas Longhorns\n\nBroadcast to be announced.\n\nView
+ ing window: 3.5 hours (4 hours for championships)\; finish is approximate.
+ \n\nSchedule: https://www.espn.com/college-football/game/_/gameId/40185672
+ 4/florida-texas
+LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856724/florida-t
+ exas
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856721@football-watchlist
+DTSTAMP:20261005T213612Z
+CREATED:20260926T075051Z
+LAST-MODIFIED:20261005T213612Z
+SEQUENCE:1
+DTSTART:20261017T193000Z
+DTEND:20261017T230000Z
+SUMMARY:CFB: Missouri at Ole Miss
+DESCRIPTION:National pick: ranked matchup (#4 vs #19) at selection.\n\nTeam
+ s: Missouri Tigers at Ole Miss Rebels\n\nBroadcast to be announced.\n\nVie
+ wing window: 3.5 hours (4 hours for championships)\; finish is approximate
+ .\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/4018567
+ 21/missouri-ole-miss
+LOCATION:Vaught-Hemingway Stadium\, Oxford\, MS\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856721/missouri-
+ ole-miss
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856723@football-watchlist
+DTSTAMP:20261005T213612Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20261005T213612Z
+SEQUENCE:1
+DTSTART:20261017T193000Z
+DTEND:20261017T230000Z
+SUMMARY:CFB: Alabama at Tennessee
+DESCRIPTION:Following Alabama: every game.\nMajor rivalry: Third Saturday i
+ n October.\n\nTeams: Alabama Crimson Tide at Tennessee Volunteers\n\nBroad
+ cast to be announced.\n\nViewing window: 3.5 hours (4 hours for championsh
+ ips)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-fo
+ otball/game/_/gameId/401856723/alabama-tennessee
+LOCATION:Neyland Stadium\, Knoxville\, TN\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856723/alabama-t
+ ennessee
+CATEGORIES:College,Alabama
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nhl-2026020122@football-watchlist
 DTSTAMP:20261001T073711Z
 CREATED:20261001T073711Z
@@ -3409,6 +3386,27 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:college-football-401858263@football-watchlist
+DTSTAMP:20261005T213612Z
+CREATED:20260905T145208Z
+LAST-MODIFIED:20261005T213612Z
+SEQUENCE:1
+DTSTART:20261017T230000Z
+DTEND:20261018T023000Z
+SUMMARY:CFB: Florida State at Miami
+DESCRIPTION:Major rivalry: Florida State-Miami.\n\nTeams: Florida State Sem
+ inoles at Miami Hurricanes\n\nUS broadcast: ESPN. Availability elsewhere v
+ aries.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish i
+ s approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/g
+ ameId/401858263/florida-st-miami
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858263/florida-s
+ t-miami
+CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nhl-2026020127@football-watchlist
 DTSTAMP:20261001T073711Z
 CREATED:20261001T073711Z
@@ -3425,6 +3423,27 @@ DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
 LOCATION:Little Caesars Arena
 URL:https://www.nhl.com/gamecenter/sjs-vs-det/2026/10/17/2026020127
 CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856809@football-watchlist
+DTSTAMP:20261005T213612Z
+CREATED:20260926T075051Z
+LAST-MODIFIED:20261005T213612Z
+SEQUENCE:1
+DTSTART:20261017T233000Z
+DTEND:20261018T030000Z
+SUMMARY:CFB: Notre Dame at BYU
+DESCRIPTION:National pick: ranked matchup (#3 vs #9) at selection.\n\nTeams
+ : Notre Dame Fighting Irish at BYU Cougars\n\nUS broadcast: ABC. Availabil
+ ity elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championsh
+ ips)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-fo
+ otball/game/_/gameId/401856809/notre-dame-byu
+LOCATION:LaVell Edwards Stadium\, Provo\, UT\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856809/notre-dam
+ e-byu
+CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -4589,18 +4608,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020263@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261005T213612Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261005T213612Z
+SEQUENCE:1
 DTSTART:20261107T010000Z
 DTEND:20261107T040000Z
 SUMMARY:NHL: San Jose Sharks at Minnesota Wild
 DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
  ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
- layoff overtime can run longer.\n\nListed broadcasts: MINNHL / NBCSCA / Wi
- ld+. Availability varies by country and provider.\n\nOfficial schedule: ht
- tps://www.nhl.com/gamecenter/sjs-vs-min/2026/11/06/2026020263
+ layoff overtime can run longer.\n\nListed broadcasts: KSTP / MINNHL / NBCS
+ CA / Wild+. Availability varies by country and provider.\n\nOfficial sched
+ ule: https://www.nhl.com/gamecenter/sjs-vs-min/2026/11/06/2026020263
 LOCATION:Grand Casino Arena
 URL:https://www.nhl.com/gamecenter/sjs-vs-min/2026/11/06/2026020263
 CATEGORIES:NHL,Regular season,San Jose Sharks
@@ -4967,15 +4986,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401873053@football-watchlist
-DTSTAMP:20260905T145457Z
+DTSTAMP:20261005T213612Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145457Z
-SEQUENCE:2
+LAST-MODIFIED:20261005T213612Z
+SEQUENCE:3
 DTSTART:20261115T143000Z
 DTEND:20261115T180000Z
 SUMMARY:NFL: New England Patriots vs Detroit Lions
 DESCRIPTION:International game: Germany.\n\nNFL Munich Game\n\nTeams: New E
- ngland Patriots at Detroit Lions\n\nUS broadcast: FOX. Availability elsewh
+ ngland Patriots at Detroit Lions\n\nUS broadcast: Fox. Availability elsewh
  ere varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; fin
  ish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/40
  1873053/patriots-lions
@@ -5426,15 +5445,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401873080@football-watchlist
-DTSTAMP:20260905T145208Z
+DTSTAMP:20261005T213612Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:1
+LAST-MODIFIED:20261005T213612Z
+SEQUENCE:2
 DTSTART:20261126T213000Z
 DTEND:20261127T010000Z
 SUMMARY:NFL: Philadelphia Eagles at Dallas Cowboys
 DESCRIPTION:Thursday football\, including Thanksgiving.\n\nTeams: Philadelp
- hia Eagles at Dallas Cowboys\n\nUS broadcast: FOX. Availability elsewhere 
+ hia Eagles at Dallas Cowboys\n\nUS broadcast: Fox. Availability elsewhere 
  varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish 
  is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873
  080/eagles-cowboys
@@ -5735,16 +5754,16 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858540@football-watchlist
-DTSTAMP:20260905T144637Z
+DTSTAMP:20261005T213612Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
+LAST-MODIFIED:20261005T213612Z
+SEQUENCE:1
 DTSTART:20261128T170000Z
 DTEND:20261128T203000Z
 SUMMARY:CFB: Michigan at Ohio State
 DESCRIPTION:Major rivalry: The Game.\nConfirmed College GameDay or Big Noon
   featured matchup.\n\nTeams: Michigan Wolverines at Ohio State Buckeyes\n\
- nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 
+ nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 
  hours (4 hours for championships)\; finish is approximate.\n\nSchedule: ht
  tps://www.espn.com/college-football/game/_/gameId/401858540/michigan-ohio-
  state
@@ -6102,15 +6121,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401874049@football-watchlist
-DTSTAMP:20260905T144637Z
+DTSTAMP:20261005T213612Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
+LAST-MODIFIED:20261005T213612Z
+SEQUENCE:1
 DTSTART:20261205T020000Z
 DTEND:20261205T060000Z
 SUMMARY:CFB: TBD at TBD
 DESCRIPTION:Conference championship.\n\nMountain West Championship\n\nTeams
- : TBD at TBD\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewi
+ : TBD at TBD\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewi
  ng window: 3.5 hours (4 hours for championships)\; finish is approximate.\
  n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401874049
  /tbd-tbd
@@ -6219,15 +6238,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401869534@football-watchlist
-DTSTAMP:20260905T145457Z
+DTSTAMP:20261005T213612Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145457Z
-SEQUENCE:1
+LAST-MODIFIED:20261005T213612Z
+SEQUENCE:2
 DTSTART:20261206T010000Z
 DTEND:20261206T050000Z
 SUMMARY:CFB: TBD vs TBD
 DESCRIPTION:Conference championship.\n\nBig Ten Championship\n\nTeams: TBD 
- at TBD\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing win
+ at TBD\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing win
  dow: 3.5 hours (4 hours for championships)\; finish is approximate.\n\nSch
  edule: https://www.espn.com/college-football/game/_/gameId/401869534/tbd-t
  bd
@@ -6762,15 +6781,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401873125@football-watchlist
-DTSTAMP:20260905T145208Z
+DTSTAMP:20261005T213612Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:1
+LAST-MODIFIED:20261005T213612Z
+SEQUENCE:2
 DTSTART:20261219T220000Z
 DTEND:20261220T013000Z
 SUMMARY:NFL: Seattle Seahawks at Philadelphia Eagles
 DESCRIPTION:Standalone NFL game outside the regular Sunday afternoon slate.
- \n\nTeams: Seattle Seahawks at Philadelphia Eagles\n\nUS broadcast: FOX. A
+ \n\nTeams: Seattle Seahawks at Philadelphia Eagles\n\nUS broadcast: Fox. A
  vailability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for ch
  ampionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/nf
  l/game/_/gameId/401873125/seahawks-eagles
@@ -7001,15 +7020,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401873143@football-watchlist
-DTSTAMP:20260905T145208Z
+DTSTAMP:20261005T213612Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:1
+LAST-MODIFIED:20261005T213612Z
+SEQUENCE:2
 DTSTART:20261226T011500Z
 DTEND:20261226T044500Z
 SUMMARY:NFL: Los Angeles Rams at Seattle Seahawks
 DESCRIPTION:Standalone NFL game outside the regular Sunday afternoon slate.
- \n\nTeams: Los Angeles Rams at Seattle Seahawks\n\nUS broadcast: FOX. Avai
+ \n\nTeams: Los Angeles Rams at Seattle Seahawks\n\nUS broadcast: Fox. Avai
  lability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champ
  ionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/nfl/g
  ame/_/gameId/401873143/rams-seahawks

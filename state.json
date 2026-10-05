@@ -141,17 +141,17 @@
       "start": "2026-09-05T16:00:00.000Z",
       "end": "2026-09-05T19:30:00.000Z",
       "allDay": false,
-      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: North Texas Mean Green at Indiana Hoosiers\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858425/north-texas-indiana",
+      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: North Texas Mean Green at Indiana Hoosiers\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858425/north-texas-indiana",
       "location": "Memorial Stadium (Bloomington, IN), Bloomington, IN, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401858425/north-texas-indiana",
       "status": "CONFIRMED",
       "categories": [
         "College"
       ],
-      "hash": "720d5909e477213cefa0dc8c52bed777374779f5f334dfc1dfc9eb9d14c8478f",
+      "hash": "1c0091afa9a2be874bfb46a8bdefa0d43c90db977abffe9d5f5ce9029e571024",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
+      "modified": "2026-10-05T21:36:12.655Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401856660@football-watchlist",
@@ -347,7 +347,7 @@
       "start": "2026-09-12T00:00:00.000Z",
       "end": "2026-09-12T03:30:00.000Z",
       "allDay": false,
-      "description": "National pick: a ranked team in a potentially competitive game (market spread 6.5 points at selection). Upset possibility is an estimate.\n\nTeams: Missouri Tigers at Kansas Jayhawks\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856678/missouri-kansas",
+      "description": "National pick: a ranked team in a potentially competitive game (market spread 6.5 points at selection). Upset possibility is an estimate.\n\nTeams: Missouri Tigers at Kansas Jayhawks\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856678/missouri-kansas",
       "location": "David Booth Kansas Memorial Stadium, Lawrence, KS, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856678/missouri-kansas",
       "status": "CONFIRMED",
@@ -356,10 +356,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 6.5 points at selection). Upset possibility is an estimate.",
-      "hash": "c20ac4eb90295cc139be95dd95c97516a50a481dc55e8315e4b2f8ee8a1b4466",
+      "hash": "eb652829da0dd4fd5bdcb457a0da6df55acb713f343f28adf3cd0e105bde281d",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
+      "modified": "2026-10-05T21:36:12.655Z",
+      "sequence": 1
     },
     {
       "uid": "show-gameday-2026-09-12@football-watchlist",
@@ -432,17 +432,17 @@
       "start": "2026-09-12T16:00:00.000Z",
       "end": "2026-09-12T19:30:00.000Z",
       "allDay": false,
-      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: Oklahoma Sooners at Michigan Wolverines\n\nUS broadcast: FOX / ERADM. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856679/oklahoma-michigan",
+      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: Oklahoma Sooners at Michigan Wolverines\n\nUS broadcast: Fox / ERADM. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856679/oklahoma-michigan",
       "location": "Michigan Stadium, Ann Arbor, MI, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856679/oklahoma-michigan",
       "status": "CONFIRMED",
       "categories": [
         "College"
       ],
-      "hash": "8bb763417a287b30e51028a5d828487241502ab6d13a69aae06457c64bbc6975",
+      "hash": "83aee3a43df68d658543886a87058f25d1bc54c1838898cb4d8d9de3e17ef506",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-13T11:08:27.873Z",
-      "sequence": 3
+      "modified": "2026-10-05T21:36:12.655Z",
+      "sequence": 4
     },
     {
       "uid": "college-football-401856674@football-watchlist",
@@ -471,7 +471,7 @@
       "start": "2026-09-12T19:30:00.000Z",
       "end": "2026-09-12T23:00:00.000Z",
       "allDay": false,
-      "description": "National pick: a ranked team in a potentially competitive game (market spread 7 points at selection). Upset possibility is an estimate.\n\nTeams: Arizona Wildcats at BYU Cougars\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856810/arizona-byu",
+      "description": "National pick: a ranked team in a potentially competitive game (market spread 7 points at selection). Upset possibility is an estimate.\n\nTeams: Arizona Wildcats at BYU Cougars\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856810/arizona-byu",
       "location": "LaVell Edwards Stadium, Provo, UT, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856810/arizona-byu",
       "status": "CONFIRMED",
@@ -480,10 +480,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 7 points at selection). Upset possibility is an estimate.",
-      "hash": "b8ddc8d17e16c56bffe7eac406fcdf48caee8ddaafc8add19f76f28f2eeab885",
+      "hash": "54a978a1ded170ddcd72762c4ffae889952869d4ca9514cc0856211219bbfac6",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
+      "modified": "2026-10-05T21:36:12.655Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401856682@football-watchlist",
@@ -632,7 +632,7 @@
       "start": "2026-09-19T00:00:00.000Z",
       "end": "2026-09-19T03:30:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#12 vs #23) at selection.\n\nTeams: Houston Cougars at Texas Tech Red Raiders\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856811/houston-texas-tech",
+      "description": "National pick: ranked matchup (#12 vs #23) at selection.\n\nTeams: Houston Cougars at Texas Tech Red Raiders\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856811/houston-texas-tech",
       "location": "Galaxy Stadium, Lubbock, TX, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856811/houston-texas-tech",
       "status": "CONFIRMED",
@@ -641,10 +641,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#12 vs #23) at selection.",
-      "hash": "cbb034e0a266ed5d09735b07bbcf6665ab4f79d9e5ac6c7fb492a9531a90e9c6",
+      "hash": "2027925c8427b438c968d7eb39d71ee21cc484992c61e9a6739f7f05a16d4125",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
+      "modified": "2026-10-05T21:36:12.655Z",
+      "sequence": 1
     },
     {
       "uid": "show-gameday-2026-09-19@football-watchlist",
@@ -1181,17 +1181,17 @@
       "start": "2026-09-26T16:00:00.000Z",
       "end": "2026-09-26T19:30:00.000Z",
       "allDay": false,
-      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: Illinois Fighting Illini at Ohio State Buckeyes\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858465/illinois-ohio-state",
+      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: Illinois Fighting Illini at Ohio State Buckeyes\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858465/illinois-ohio-state",
       "location": "Ohio Stadium, Columbus, OH, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401858465/illinois-ohio-state",
       "status": "CONFIRMED",
       "categories": [
         "College"
       ],
-      "hash": "34fb8b5f2259a68aa61b0a6a2e293b12fc7c82e628030c1fd3fb32505d5787b6",
+      "hash": "ebf5c3c1904c4d5b82161b05ec29edb8cdd33309fe4fa35aee96c597fa2f01d5",
       "created": "2026-09-22T18:09:18.369Z",
-      "modified": "2026-09-26T22:58:26.925Z",
-      "sequence": 2
+      "modified": "2026-10-05T21:36:12.655Z",
+      "sequence": 3
     },
     {
       "uid": "college-football-401856699@football-watchlist",
@@ -1933,7 +1933,7 @@
       "start": "2026-10-03T00:00:00.000Z",
       "end": "2026-10-03T03:30:00.000Z",
       "allDay": false,
-      "description": "National pick: a ranked team in a potentially competitive game (market spread 7 points at selection). Upset possibility is an estimate.\n\nTeams: Penn State Nittany Lions at Northwestern Wildcats\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858476/penn-state-northwestern",
+      "description": "National pick: a ranked team in a potentially competitive game (market spread 7 points at selection). Upset possibility is an estimate.\n\nTeams: Penn State Nittany Lions at Northwestern Wildcats\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858476/penn-state-northwestern",
       "location": "Ryan Field, Evanston, IL, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401858476/penn-state-northwestern",
       "status": "CONFIRMED",
@@ -1942,10 +1942,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 7 points at selection). Upset possibility is an estimate.",
-      "hash": "db9e1c1579b8a50316a3550a7495b94fa20a1c6798ae2a64377535753d06f5cf",
+      "hash": "a03e428f1c6e2d34d8f3f012fad476aacf5d0393b2dc94816a335595cf273b83",
       "created": "2026-09-23T22:59:40.721Z",
-      "modified": "2026-09-23T22:59:40.721Z",
-      "sequence": 0
+      "modified": "2026-10-05T21:36:12.655Z",
+      "sequence": 1
     },
     {
       "uid": "show-gameday-2026-10-03@football-watchlist",
@@ -2013,17 +2013,17 @@
       "start": "2026-10-03T16:00:00.000Z",
       "end": "2026-10-03T19:30:00.000Z",
       "allDay": false,
-      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: Michigan Wolverines at Minnesota Golden Gophers\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858474/michigan-minnesota",
+      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: Michigan Wolverines at Minnesota Golden Gophers\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858474/michigan-minnesota",
       "location": "Huntington Bank Stadium, Minneapolis, MN, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401858474/michigan-minnesota",
       "status": "CONFIRMED",
       "categories": [
         "College"
       ],
-      "hash": "c69c98d175a3dfc47b286c5b13ae53576be03e60eaa06d6922709e71f27c0f84",
+      "hash": "4948f52add1a161d69184af133befdf0e4693a312a350d0b22612e6ff4221546",
       "created": "2026-09-29T08:41:43.964Z",
-      "modified": "2026-10-03T23:09:30.766Z",
-      "sequence": 2
+      "modified": "2026-10-05T21:36:12.655Z",
+      "sequence": 3
     },
     {
       "uid": "mlb-849829@football-watchlist",
@@ -3060,22 +3060,23 @@
     },
     {
       "uid": "show-bignoon-2026-10-10@football-watchlist",
-      "title": "Big Noon Kickoff: location TBA",
+      "title": "Big Noon Kickoff: Nebraska vs. Indiana",
+      "gameId": "401858481",
       "start": "2026-10-10T14:00:00.000Z",
       "end": "2026-10-10T16:00:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Usual Saturday broadcast window: 10:00 a.m. to noon Eastern on FOX. Location and this week's broadcast hours have not been confirmed. Tentative placeholder, subject to broadcast changes.\nSource: https://www.foxsports.com/big-noon-kickoff-experience",
+      "status": "CONFIRMED",
+      "description": "Big Noon Kickoff on FOX. Featured game: Nebraska vs. Indiana. Broadcast window: 10:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://www.foxsports.com/big-noon-kickoff-experience",
       "location": "",
       "url": "https://www.foxsports.com/big-noon-kickoff-experience",
       "categories": [
         "College",
         "Pregame"
       ],
-      "hash": "314d1278d6fc65e713586163034c74a49ac017ad54cf1e0eae07466e24ad2760",
+      "hash": "2ccb042a250c94785ad08b897d6637fc316915dadf1ec8775466133396fd349a",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
+      "modified": "2026-10-05T21:36:12.655Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401856716@football-watchlist",
@@ -3097,6 +3098,25 @@
       "created": "2026-09-19T07:24:20.666Z",
       "modified": "2026-10-04T18:12:38.845Z",
       "sequence": 2
+    },
+    {
+      "uid": "college-football-401858481@football-watchlist",
+      "gameId": "401858481",
+      "title": "CFB: Indiana at Nebraska",
+      "start": "2026-10-10T16:00:00.000Z",
+      "end": "2026-10-10T19:30:00.000Z",
+      "allDay": false,
+      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: Indiana Hoosiers at Nebraska Cornhuskers\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858481/indiana-nebraska",
+      "location": "Memorial Stadium (Lincoln, NE), Lincoln, NE, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858481/indiana-nebraska",
+      "status": "CONFIRMED",
+      "categories": [
+        "College"
+      ],
+      "hash": "b2e53a4c153a61ba4fe784c0e17d716879dad09e089c3e3c61c8cdb5e975025b",
+      "created": "2026-10-05T21:36:12.655Z",
+      "modified": "2026-10-05T21:36:12.655Z",
+      "sequence": 0
     },
     {
       "uid": "college-football-401856717@football-watchlist",
@@ -3830,108 +3850,6 @@
       "sequence": 1
     },
     {
-      "uid": "college-football-401856721@football-watchlist",
-      "gameId": "401856721",
-      "title": "CFB: Missouri at Ole Miss [time TBA]",
-      "start": "2026-10-17",
-      "end": "2026-10-18",
-      "allDay": true,
-      "description": "National pick: ranked matchup (#4 vs #19) at selection.\n\nAFTERNOON: 3:30 - 4:30pm ET start\n\nTeams: Missouri Tigers at Ole Miss Rebels\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856721/missouri-ole-miss",
-      "location": "Vaught-Hemingway Stadium, Oxford, MS, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856721/missouri-ole-miss",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#4 vs #19) at selection.",
-      "hash": "ca211bb4be9a8ca79003e31c32f869f36daa4e84d8bfee2e29502d95a8bc707c",
-      "created": "2026-09-26T07:50:51.012Z",
-      "modified": "2026-09-26T07:50:51.012Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401856723@football-watchlist",
-      "gameId": "401856723",
-      "title": "CFB: Alabama at Tennessee [time TBA]",
-      "start": "2026-10-17",
-      "end": "2026-10-18",
-      "allDay": true,
-      "description": "Following Alabama: every game.\nMajor rivalry: Third Saturday in October.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Alabama Crimson Tide at Tennessee Volunteers\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856723/alabama-tennessee",
-      "location": "Neyland Stadium, Knoxville, TN, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856723/alabama-tennessee",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "Alabama"
-      ],
-      "hash": "676199248aaec16c4c862586b51cd919ec0afc029e3a8540692caee3c3f18940",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401856724@football-watchlist",
-      "gameId": "401856724",
-      "title": "CFB: Florida at Texas [time TBA]",
-      "start": "2026-10-17",
-      "end": "2026-10-18",
-      "allDay": true,
-      "description": "National pick: ranked matchup (#1 vs #21) at selection.\n\nEARLY: Noon - 1pm ET start\n\nTeams: Florida Gators at Texas Longhorns\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856724/florida-texas",
-      "location": "DKR-Texas Memorial Stadium, Austin, TX, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856724/florida-texas",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#1 vs #21) at selection.",
-      "hash": "6cefba52a589851afed286b846bfdcbf88bacd5fa06e9af267cb363dbcf9b52a",
-      "created": "2026-09-26T07:50:51.012Z",
-      "modified": "2026-09-26T07:50:51.012Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401856809@football-watchlist",
-      "gameId": "401856809",
-      "title": "CFB: Notre Dame at BYU [time TBA]",
-      "start": "2026-10-17",
-      "end": "2026-10-18",
-      "allDay": true,
-      "description": "National pick: ranked matchup (#3 vs #9) at selection.\n\nTeams: Notre Dame Fighting Irish at BYU Cougars\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856809/notre-dame-byu",
-      "location": "LaVell Edwards Stadium, Provo, UT, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856809/notre-dame-byu",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#3 vs #9) at selection.",
-      "hash": "d4e1c73328fb653931e90c777e12eeb48ee025270ab5cc31d834751349b07266",
-      "created": "2026-09-26T07:50:51.012Z",
-      "modified": "2026-09-26T07:50:51.012Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401858263@football-watchlist",
-      "gameId": "401858263",
-      "title": "CFB: Florida State at Miami [time TBA]",
-      "start": "2026-10-17",
-      "end": "2026-10-18",
-      "allDay": true,
-      "description": "Major rivalry: Florida State-Miami.\n\nTeams: Florida State Seminoles at Miami Hurricanes\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858263/florida-st-miami",
-      "location": "Hard Rock Stadium, Miami Gardens, FL, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858263/florida-st-miami",
-      "status": "TENTATIVE",
-      "categories": [
-        "College"
-      ],
-      "hash": "8c435d913026ad94b8579780eb7250d4c761bb25f86938a93d6f86bd1c090883",
-      "created": "2026-09-05T14:52:08.096Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 0
-    },
-    {
       "uid": "college-football-401858488@football-watchlist",
       "gameId": "401858488",
       "title": "CFB: Ohio State at Indiana [time TBA]",
@@ -4068,6 +3986,68 @@
       "sequence": 0
     },
     {
+      "uid": "college-football-401856724@football-watchlist",
+      "gameId": "401856724",
+      "title": "CFB: Florida at Texas",
+      "start": "2026-10-17T16:00:00.000Z",
+      "end": "2026-10-17T19:30:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#1 vs #21) at selection.\n\nTeams: Florida Gators at Texas Longhorns\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856724/florida-texas",
+      "location": "DKR-Texas Memorial Stadium, Austin, TX, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856724/florida-texas",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#1 vs #21) at selection.",
+      "hash": "1e524425544f1f0556b73e24e4232370a84dec16f6b56ffae4feca0664ced3f4",
+      "created": "2026-09-26T07:50:51.012Z",
+      "modified": "2026-10-05T21:36:12.655Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401856721@football-watchlist",
+      "gameId": "401856721",
+      "title": "CFB: Missouri at Ole Miss",
+      "start": "2026-10-17T19:30:00.000Z",
+      "end": "2026-10-17T23:00:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#4 vs #19) at selection.\n\nTeams: Missouri Tigers at Ole Miss Rebels\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856721/missouri-ole-miss",
+      "location": "Vaught-Hemingway Stadium, Oxford, MS, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856721/missouri-ole-miss",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#4 vs #19) at selection.",
+      "hash": "c54e811f0fc3b3674f69692923a8a59a4c624ebd454f512c8a0092165e713697",
+      "created": "2026-09-26T07:50:51.012Z",
+      "modified": "2026-10-05T21:36:12.655Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401856723@football-watchlist",
+      "gameId": "401856723",
+      "title": "CFB: Alabama at Tennessee",
+      "start": "2026-10-17T19:30:00.000Z",
+      "end": "2026-10-17T23:00:00.000Z",
+      "allDay": false,
+      "description": "Following Alabama: every game.\nMajor rivalry: Third Saturday in October.\n\nTeams: Alabama Crimson Tide at Tennessee Volunteers\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856723/alabama-tennessee",
+      "location": "Neyland Stadium, Knoxville, TN, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856723/alabama-tennessee",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "Alabama"
+      ],
+      "hash": "19874513862237df9a6b9690657f23fe36045eda61b5e5e8e8459e56f2ccad1a",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-10-05T21:36:12.655Z",
+      "sequence": 1
+    },
+    {
       "uid": "nhl-2026020122@football-watchlist",
       "gameId": "2026020122",
       "nhlSeason": 20262027,
@@ -4098,6 +4078,25 @@
       "sequence": 0
     },
     {
+      "uid": "college-football-401858263@football-watchlist",
+      "gameId": "401858263",
+      "title": "CFB: Florida State at Miami",
+      "start": "2026-10-17T23:00:00.000Z",
+      "end": "2026-10-18T02:30:00.000Z",
+      "allDay": false,
+      "description": "Major rivalry: Florida State-Miami.\n\nTeams: Florida State Seminoles at Miami Hurricanes\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858263/florida-st-miami",
+      "location": "Hard Rock Stadium, Miami Gardens, FL, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858263/florida-st-miami",
+      "status": "CONFIRMED",
+      "categories": [
+        "College"
+      ],
+      "hash": "5576c829c551f4059f3bb57f07e6e83322467eb0657ea2f1bda7f9d00cc6abf3",
+      "created": "2026-09-05T14:52:08.096Z",
+      "modified": "2026-10-05T21:36:12.655Z",
+      "sequence": 1
+    },
+    {
       "uid": "nhl-2026020127@football-watchlist",
       "gameId": "2026020127",
       "nhlSeason": 20262027,
@@ -4126,6 +4125,27 @@
       "created": "2026-10-01T07:37:11.478Z",
       "modified": "2026-10-01T07:37:11.478Z",
       "sequence": 0
+    },
+    {
+      "uid": "college-football-401856809@football-watchlist",
+      "gameId": "401856809",
+      "title": "CFB: Notre Dame at BYU",
+      "start": "2026-10-17T23:30:00.000Z",
+      "end": "2026-10-18T03:00:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#3 vs #9) at selection.\n\nTeams: Notre Dame Fighting Irish at BYU Cougars\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856809/notre-dame-byu",
+      "location": "LaVell Edwards Stadium, Provo, UT, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856809/notre-dame-byu",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#3 vs #9) at selection.",
+      "hash": "9ca59f23b2ce78150a838ed5f3b283fb1de9157bf70c4a7ac42446d10d66b59d",
+      "created": "2026-09-26T07:50:51.012Z",
+      "modified": "2026-10-05T21:36:12.655Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-849806@football-watchlist",
@@ -5572,7 +5592,7 @@
       "end": "2026-11-07T04:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Following San Jose Sharks: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: MINNHL / NBCSCA / Wild+. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/sjs-vs-min/2026/11/06/2026020263",
+      "description": "Following San Jose Sharks: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: KSTP / MINNHL / NBCSCA / Wild+. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/sjs-vs-min/2026/11/06/2026020263",
       "location": "Grand Casino Arena",
       "url": "https://www.nhl.com/gamecenter/sjs-vs-min/2026/11/06/2026020263",
       "categories": [
@@ -5580,10 +5600,10 @@
         "Regular season",
         "San Jose Sharks"
       ],
-      "hash": "47c3aa0070c51b87161fb0b192ddecfb29c31c4da1e4031d833e2b6bd3eb599b",
+      "hash": "43e73e2378f0d1191e36d2dd912e681c4e0d3d8f465bc1062017be8234833a95",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
+      "modified": "2026-10-05T21:36:12.655Z",
+      "sequence": 1
     },
     {
       "uid": "show-gameday-2026-11-07@football-watchlist",
@@ -6017,17 +6037,17 @@
       "start": "2026-11-15T14:30:00.000Z",
       "end": "2026-11-15T18:00:00.000Z",
       "allDay": false,
-      "description": "International game: Germany.\n\nNFL Munich Game\n\nTeams: New England Patriots at Detroit Lions\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873053/patriots-lions",
+      "description": "International game: Germany.\n\nNFL Munich Game\n\nTeams: New England Patriots at Detroit Lions\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873053/patriots-lions",
       "location": "FC Bayern Munich Stadium, Munich, Germany",
       "url": "https://www.espn.com/nfl/game/_/gameId/401873053/patriots-lions",
       "status": "CONFIRMED",
       "categories": [
         "NFL"
       ],
-      "hash": "9b0a8480d101af216c1a6709cd0307ddee75c1c199cca0741beee17818480a04",
+      "hash": "1d466f4cbd2826b35698f1aa56ffe439c78a017c3f25cc5668eb1cb05788a3a7",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:54:57.145Z",
-      "sequence": 2
+      "modified": "2026-10-05T21:36:12.655Z",
+      "sequence": 3
     },
     {
       "uid": "redzone-2026-11-15@football-watchlist",
@@ -6559,17 +6579,17 @@
       "start": "2026-11-26T21:30:00.000Z",
       "end": "2026-11-27T01:00:00.000Z",
       "allDay": false,
-      "description": "Thursday football, including Thanksgiving.\n\nTeams: Philadelphia Eagles at Dallas Cowboys\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873080/eagles-cowboys",
+      "description": "Thursday football, including Thanksgiving.\n\nTeams: Philadelphia Eagles at Dallas Cowboys\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873080/eagles-cowboys",
       "location": "AT&T Stadium, Arlington, TX, USA",
       "url": "https://www.espn.com/nfl/game/_/gameId/401873080/eagles-cowboys",
       "status": "CONFIRMED",
       "categories": [
         "NFL"
       ],
-      "hash": "dddbbb7498afb01aa097f851d13edeb428dbc3bb8cea82e85da5d172e09f66c7",
+      "hash": "91844c3a3d2c4cef0b4022df4cc7aeae003556e0a2d4e90b65eae58751a9e239",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 1
+      "modified": "2026-10-05T21:36:12.655Z",
+      "sequence": 2
     },
     {
       "uid": "nfl-401873082@football-watchlist",
@@ -6862,17 +6882,17 @@
       "start": "2026-11-28T17:00:00.000Z",
       "end": "2026-11-28T20:30:00.000Z",
       "allDay": false,
-      "description": "Major rivalry: The Game.\nConfirmed College GameDay or Big Noon featured matchup.\n\nTeams: Michigan Wolverines at Ohio State Buckeyes\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858540/michigan-ohio-state",
+      "description": "Major rivalry: The Game.\nConfirmed College GameDay or Big Noon featured matchup.\n\nTeams: Michigan Wolverines at Ohio State Buckeyes\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858540/michigan-ohio-state",
       "location": "Ohio Stadium, Columbus, OH, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401858540/michigan-ohio-state",
       "status": "CONFIRMED",
       "categories": [
         "College"
       ],
-      "hash": "7e2c91c8bed786cc2993c84f675a4daab046a1549378f7d868dbdbd04992c836",
+      "hash": "9fe252c700ebff98e1d40bbf0b1af1095230d4e716439558f644e829dbdb492e",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
+      "modified": "2026-10-05T21:36:12.655Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026020421@football-watchlist",
@@ -7291,17 +7311,17 @@
       "start": "2026-12-05T02:00:00.000Z",
       "end": "2026-12-05T06:00:00.000Z",
       "allDay": false,
-      "description": "Conference championship.\n\nMountain West Championship\n\nTeams: TBD at TBD\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401874049/tbd-tbd",
+      "description": "Conference championship.\n\nMountain West Championship\n\nTeams: TBD at TBD\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401874049/tbd-tbd",
       "location": "",
       "url": "https://www.espn.com/college-football/game/_/gameId/401874049/tbd-tbd",
       "status": "CONFIRMED",
       "categories": [
         "College"
       ],
-      "hash": "0971a92684aa75f7e6f218aab2448a190534ef35ca23dfa5cd7f5c28f2432006",
+      "hash": "af1b5378021d1d390f29f6e2758a5123d843b51a23dcc60475d4cd4c20104c07",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
+      "modified": "2026-10-05T21:36:12.655Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401858318@football-watchlist",
@@ -7416,17 +7436,17 @@
       "start": "2026-12-06T01:00:00.000Z",
       "end": "2026-12-06T05:00:00.000Z",
       "allDay": false,
-      "description": "Conference championship.\n\nBig Ten Championship\n\nTeams: TBD at TBD\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401869534/tbd-tbd",
+      "description": "Conference championship.\n\nBig Ten Championship\n\nTeams: TBD at TBD\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401869534/tbd-tbd",
       "location": "Lucas Oil Stadium, Indianapolis, IN, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401869534/tbd-tbd",
       "status": "CONFIRMED",
       "categories": [
         "College"
       ],
-      "hash": "c1b92ecbcb3ec0ad2add1be95cf22b66c041445391486ce2c4fee9190c2c5328",
+      "hash": "8c5d7fad4b69b4bca32743c3dc492917d905d8986b9ea39fdb6e945bd1ff1145",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:54:57.145Z",
-      "sequence": 1
+      "modified": "2026-10-05T21:36:12.655Z",
+      "sequence": 2
     },
     {
       "uid": "redzone-2026-12-06@football-watchlist",
@@ -8074,17 +8094,17 @@
       "start": "2026-12-19T22:00:00.000Z",
       "end": "2026-12-20T01:30:00.000Z",
       "allDay": false,
-      "description": "Standalone NFL game outside the regular Sunday afternoon slate.\n\nTeams: Seattle Seahawks at Philadelphia Eagles\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873125/seahawks-eagles",
+      "description": "Standalone NFL game outside the regular Sunday afternoon slate.\n\nTeams: Seattle Seahawks at Philadelphia Eagles\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873125/seahawks-eagles",
       "location": "Lincoln Financial Field, Philadelphia, PA, USA",
       "url": "https://www.espn.com/nfl/game/_/gameId/401873125/seahawks-eagles",
       "status": "CONFIRMED",
       "categories": [
         "NFL"
       ],
-      "hash": "bf7cf31dcf6e416a90883b5cd96d0523241723854c62a94b9c0c9f2fdd37f321",
+      "hash": "da35d9e32aa2dc40f92cfe2476c191ad1cf2ff1b92f1b402935a171317cd9d6c",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 1
+      "modified": "2026-10-05T21:36:12.655Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401874298@football-watchlist",
@@ -8336,17 +8356,17 @@
       "start": "2026-12-26T01:15:00.000Z",
       "end": "2026-12-26T04:45:00.000Z",
       "allDay": false,
-      "description": "Standalone NFL game outside the regular Sunday afternoon slate.\n\nTeams: Los Angeles Rams at Seattle Seahawks\n\nUS broadcast: FOX. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873143/rams-seahawks",
+      "description": "Standalone NFL game outside the regular Sunday afternoon slate.\n\nTeams: Los Angeles Rams at Seattle Seahawks\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873143/rams-seahawks",
       "location": "Lumen Field, Seattle, WA, USA",
       "url": "https://www.espn.com/nfl/game/_/gameId/401873143/rams-seahawks",
       "status": "CONFIRMED",
       "categories": [
         "NFL"
       ],
-      "hash": "37410ef6c7be2077f902a5271d8e708087a57e7ce222fb0ee708b8fcd6ef0744",
+      "hash": "e241eade9598dc155c052d1d4071ffe5e1d587198e8549b4a081b46e135fcde0",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 1
+      "modified": "2026-10-05T21:36:12.655Z",
+      "sequence": 2
     },
     {
       "uid": "nhl-2026020606@football-watchlist",
