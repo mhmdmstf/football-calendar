@@ -1,5 +1,5 @@
 {
-  "checkedOn": "2026-10-04",
+  "checkedOn": "2026-10-05",
   "season": 2026,
   "events": [
     {
@@ -82,17 +82,17 @@
       "end": "2026-09-05T16:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "College GameDay on ESPN. Featured game: LSU vs. Clemson. Broadcast window: 9:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://lsusports.net/news/2026/05/12/lsu-to-host-espn-college-gameday-for-kiffin-debut",
+      "description": "College GameDay on ESPN. Featured game: LSU vs. Clemson. Broadcast window: 9:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://espnpressroom.com/press-release/college-gameday-hits-the-road-for-the-500th-time-as-season-40-kicks-off-in-baton-rouge/",
       "location": "Baton Rouge, Louisiana",
-      "url": "https://lsusports.net/news/2026/05/12/lsu-to-host-espn-college-gameday-for-kiffin-debut",
+      "url": "https://espnpressroom.com/press-release/college-gameday-hits-the-road-for-the-500th-time-as-season-40-kicks-off-in-baton-rouge/",
       "categories": [
         "College",
         "Pregame"
       ],
-      "hash": "c3b9c62d70b7013f49c7686a1f178248d0e6cae48802461856d8a64296192e0a",
+      "hash": "fdc44cf7a345e26561e92bf2c0dbe46aebe1246d58ae53a664bec6b280c9ad86",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-10-04T23:17:56.177Z",
-      "sequence": 4
+      "modified": "2026-10-05T09:14:10.498Z",
+      "sequence": 5
     },
     {
       "uid": "show-bignoon-2026-09-05@football-watchlist",
@@ -2693,7 +2693,7 @@
       "mlbGameType": "D",
       "mlbSeriesKey": "2026/D/4",
       "mlbSeriesGameNumber": 4,
-      "mlbIfNecessary": true,
+      "mlbIfNecessary": false,
       "mlbTeamIds": [
         "119",
         "144"
@@ -2701,22 +2701,22 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NLDS 'B' Game 4 - Los Angeles Dodgers at Atlanta Braves [if necessary]",
+      "title": "MLB: NLDS 'B' Game 4 - Los Angeles Dodgers at Atlanta Braves",
       "start": "2026-10-07T22:00:00.000Z",
       "end": "2026-10-08T01:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849822",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849822",
       "location": "Truist Park",
       "url": "https://www.mlb.com/gameday/849822",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Playoffs"
       ],
-      "hash": "162b90473683efe77e21aa782ce7808b44dde6e45ffdbccaa515c33e116d9fdc",
+      "hash": "cba37b26c5c612ce772ec2526327fcb6d67b394824fe62ccb547ed80d1c09215",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-04T18:12:38.845Z",
-      "sequence": 6
+      "modified": "2026-10-05T09:14:10.498Z",
+      "sequence": 7
     },
     {
       "uid": "mlb-849838@football-watchlist",
@@ -12131,14 +12131,14 @@
   "nflGames": 285,
   "collegeGames": 949,
   "baseball": {
-    "checkedOn": "2026-10-04",
+    "checkedOn": "2026-10-05",
     "season": 2026,
     "scheduleGames": 411,
     "events": 58,
     "playoffEvents": 50
   },
   "hockey": {
-    "checkedOn": "2026-10-04",
+    "checkedOn": "2026-10-05",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -12155,7 +12155,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-10-04",
+    "checkedOn": "2026-10-05",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
@@ -12164,7 +12164,5 @@
     },
     "events": 41
   },
-  "warnings": [
-    "College GameDay announcement refresh failed: The operation was aborted due to timeout. Retaining verified announcements; other sites remain TBA."
-  ]
+  "warnings": []
 }

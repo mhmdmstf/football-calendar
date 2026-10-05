@@ -1,18 +1,18 @@
 {
-  "checkedOn": "2026-10-04",
+  "checkedOn": "2026-10-05",
   "season": 2026,
   "events": 481,
   "nflGames": 285,
   "collegeGames": 949,
   "baseball": {
-    "checkedOn": "2026-10-04",
+    "checkedOn": "2026-10-05",
     "season": 2026,
     "scheduleGames": 411,
     "events": 58,
     "playoffEvents": 50
   },
   "hockey": {
-    "checkedOn": "2026-10-04",
+    "checkedOn": "2026-10-05",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -29,7 +29,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-10-04",
+    "checkedOn": "2026-10-05",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
@@ -38,7 +38,5 @@
     },
     "events": 41
   },
-  "warnings": [
-    "College GameDay announcement refresh failed: The operation was aborted due to timeout. Retaining verified announcements; other sites remain TBA."
-  ]
+  "warnings": []
 }

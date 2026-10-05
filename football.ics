@@ -75,20 +75,20 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:show-gameday-2026-09-05@football-watchlist
-DTSTAMP:20261004T231756Z
+DTSTAMP:20261005T091410Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20261004T231756Z
-SEQUENCE:4
+LAST-MODIFIED:20261005T091410Z
+SEQUENCE:5
 DTSTART:20260905T130000Z
 DTEND:20260905T160000Z
 SUMMARY:College GameDay: Baton Rouge\, Louisiana
 DESCRIPTION:College GameDay on ESPN. Featured game: LSU vs. Clemson. Broadc
  ast window: 9:00 a.m. to noon Eastern. Broadcast schedules can change.\nSo
- urce: https://lsusports.net/news/2026/05/12/lsu-to-host-espn-college-gamed
- ay-for-kiffin-debut
+ urce: https://espnpressroom.com/press-release/college-gameday-hits-the-roa
+ d-for-the-500th-time-as-season-40-kicks-off-in-baton-rouge/
 LOCATION:Baton Rouge\, Louisiana
-URL:https://lsusports.net/news/2026/05/12/lsu-to-host-espn-college-gameday-
- for-kiffin-debut
+URL:https://espnpressroom.com/press-release/college-gameday-hits-the-road-f
+ or-the-500th-time-as-season-40-kicks-off-in-baton-rouge/
 CATEGORIES:College,Pregame
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -2286,24 +2286,22 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849822@football-watchlist
-DTSTAMP:20261004T181238Z
+DTSTAMP:20261005T091410Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261004T181238Z
-SEQUENCE:6
+LAST-MODIFIED:20261005T091410Z
+SEQUENCE:7
 DTSTART:20261007T220000Z
 DTEND:20261008T013000Z
-SUMMARY:MLB: NLDS 'B' Game 4 - Los Angeles Dodgers at Atlanta Braves [if ne
- cessary]
+SUMMARY:MLB: NLDS 'B' Game 4 - Los Angeles Dodgers at Atlanta Braves
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
- .5 hours\; finish is approximate.\n\nListed broadcasts: FS1 / FOX ONE / Fo
- x Deportes / FOX ONE. Availability varies by country and provider.\n\nOffi
- cial schedule: https://www.mlb.com/gameday/849822
+ the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
+ nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability v
+ aries by country and provider.\n\nOfficial schedule: https://www.mlb.com/g
+ ameday/849822
 LOCATION:Truist Park
 URL:https://www.mlb.com/gameday/849822
 CATEGORIES:MLB,Playoffs
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
