@@ -75,20 +75,20 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:show-gameday-2026-09-05@football-watchlist
-DTSTAMP:20261005T091410Z
+DTSTAMP:20261006T193604Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20261005T091410Z
-SEQUENCE:5
+LAST-MODIFIED:20261006T193604Z
+SEQUENCE:6
 DTSTART:20260905T130000Z
 DTEND:20260905T160000Z
 SUMMARY:College GameDay: Baton Rouge\, Louisiana
 DESCRIPTION:College GameDay on ESPN. Featured game: LSU vs. Clemson. Broadc
  ast window: 9:00 a.m. to noon Eastern. Broadcast schedules can change.\nSo
- urce: https://espnpressroom.com/press-release/college-gameday-hits-the-roa
- d-for-the-500th-time-as-season-40-kicks-off-in-baton-rouge/
+ urce: https://lsusports.net/news/2026/05/12/lsu-to-host-espn-college-gamed
+ ay-for-kiffin-debut
 LOCATION:Baton Rouge\, Louisiana
-URL:https://espnpressroom.com/press-release/college-gameday-hits-the-road-f
- or-the-500th-time-as-season-40-kicks-off-in-baton-rouge/
+URL:https://lsusports.net/news/2026/05/12/lsu-to-host-espn-college-gameday-
+ for-kiffin-debut
 CATEGORIES:College,Pregame
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -2266,18 +2266,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849833@football-watchlist
-DTSTAMP:20261001T235730Z
+DTSTAMP:20261006T193604Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261001T235730Z
-SEQUENCE:8
+LAST-MODIFIED:20261006T193604Z
+SEQUENCE:9
 DTSTART:20261007T200000Z
 DTEND:20261007T233000Z
 SUMMARY:MLB: ALDS 'B' Game 3 - Cleveland Guardians at Chicago White Sox
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability va
- ries by country and provider.\n\nOfficial schedule: https://www.mlb.com/ga
- meday/849833
+ nProbable pitchers (subject to change): Sean Newcomb.\n\nListed broadcasts
+ : TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country an
+ d provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849833
 LOCATION:Rate Field
 URL:https://www.mlb.com/gameday/849833
 CATEGORIES:MLB,Playoffs,Cleveland Guardians
@@ -2286,18 +2286,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849822@football-watchlist
-DTSTAMP:20261005T091410Z
+DTSTAMP:20261006T193604Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261005T091410Z
-SEQUENCE:7
+LAST-MODIFIED:20261006T193604Z
+SEQUENCE:8
 DTSTART:20261007T220000Z
 DTEND:20261008T013000Z
 SUMMARY:MLB: NLDS 'B' Game 4 - Los Angeles Dodgers at Atlanta Braves
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability v
- aries by country and provider.\n\nOfficial schedule: https://www.mlb.com/g
- ameday/849822
+ nProbable pitchers (subject to change): Tyler Glasnow / Tyler Mahle.\n\nLi
+ sted broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability vari
+ es by country and provider.\n\nOfficial schedule: https://www.mlb.com/game
+ day/849822
 LOCATION:Truist Park
 URL:https://www.mlb.com/gameday/849822
 CATEGORIES:MLB,Playoffs
@@ -3179,27 +3180,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:college-football-401858488@football-watchlist
-DTSTAMP:20260926T075051Z
-CREATED:20260926T075051Z
-LAST-MODIFIED:20260926T075051Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:CFB: Ohio State at Indiana [time TBA]
-DESCRIPTION:National pick: ranked matchup (#5 vs #7) at selection.\n\nTeams
- : Ohio State Buckeyes at Indiana Hoosiers\n\nBroadcast to be announced.\n\
- nKickoff has not been announced. This all-day marker will become a timed e
- vent when confirmed.\n\nSchedule: https://www.espn.com/college-football/ga
- me/_/gameId/401858488/ohio-state-indiana
-LOCATION:Memorial Stadium (Bloomington\, IN)\, Bloomington\, IN\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858488/ohio-stat
- e-indiana
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:college-football-401858490@football-watchlist
 DTSTAMP:20260926T075051Z
 CREATED:20260926T075051Z
@@ -3321,6 +3301,27 @@ DESCRIPTION:National pick: ranked matchup (#1 vs #21) at selection.\n\nTeam
 LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856724/florida-t
  exas
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858488@football-watchlist
+DTSTAMP:20261006T193604Z
+CREATED:20260926T075051Z
+LAST-MODIFIED:20261006T193604Z
+SEQUENCE:1
+DTSTART:20261017T160000Z
+DTEND:20261017T193000Z
+SUMMARY:CFB: Ohio State at Indiana
+DESCRIPTION:National pick: ranked matchup (#5 vs #7) at selection.\n\nTeams
+ : Ohio State Buckeyes at Indiana Hoosiers\n\nUS broadcast: Fox. Availabili
+ ty elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championshi
+ ps)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-foo
+ tball/game/_/gameId/401858488/ohio-state-indiana
+LOCATION:Memorial Stadium (Bloomington\, IN)\, Bloomington\, IN\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858488/ohio-stat
+ e-indiana
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE

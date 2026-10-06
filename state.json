@@ -82,17 +82,17 @@
       "end": "2026-09-05T16:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "College GameDay on ESPN. Featured game: LSU vs. Clemson. Broadcast window: 9:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://espnpressroom.com/press-release/college-gameday-hits-the-road-for-the-500th-time-as-season-40-kicks-off-in-baton-rouge/",
+      "description": "College GameDay on ESPN. Featured game: LSU vs. Clemson. Broadcast window: 9:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://lsusports.net/news/2026/05/12/lsu-to-host-espn-college-gameday-for-kiffin-debut",
       "location": "Baton Rouge, Louisiana",
-      "url": "https://espnpressroom.com/press-release/college-gameday-hits-the-road-for-the-500th-time-as-season-40-kicks-off-in-baton-rouge/",
+      "url": "https://lsusports.net/news/2026/05/12/lsu-to-host-espn-college-gameday-for-kiffin-debut",
       "categories": [
         "College",
         "Pregame"
       ],
-      "hash": "fdc44cf7a345e26561e92bf2c0dbe46aebe1246d58ae53a664bec6b280c9ad86",
+      "hash": "c3b9c62d70b7013f49c7686a1f178248d0e6cae48802461856d8a64296192e0a",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-10-05T09:14:10.498Z",
-      "sequence": 5
+      "modified": "2026-10-06T19:36:04.641Z",
+      "sequence": 6
     },
     {
       "uid": "show-bignoon-2026-09-05@football-watchlist",
@@ -2672,7 +2672,7 @@
       "start": "2026-10-07T20:00:00.000Z",
       "end": "2026-10-07T23:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849833",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Sean Newcomb.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849833",
       "location": "Rate Field",
       "url": "https://www.mlb.com/gameday/849833",
       "status": "CONFIRMED",
@@ -2681,10 +2681,10 @@
         "Playoffs",
         "Cleveland Guardians"
       ],
-      "hash": "6084344379ccd0364066f96fd581d92a9749f9e40ef922d3fa28b16588cddf85",
+      "hash": "dd8a16ed060fe9f0a995b7a2afdb568a3f45702aead6d70990ee96ba017a208a",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-01T23:57:30.137Z",
-      "sequence": 8
+      "modified": "2026-10-06T19:36:04.641Z",
+      "sequence": 9
     },
     {
       "uid": "mlb-849822@football-watchlist",
@@ -2705,7 +2705,7 @@
       "start": "2026-10-07T22:00:00.000Z",
       "end": "2026-10-08T01:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849822",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Tyler Glasnow / Tyler Mahle.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849822",
       "location": "Truist Park",
       "url": "https://www.mlb.com/gameday/849822",
       "status": "CONFIRMED",
@@ -2713,10 +2713,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "cba37b26c5c612ce772ec2526327fcb6d67b394824fe62ccb547ed80d1c09215",
+      "hash": "f7951b9c2865bb0b1d4606cdc7bb1d0e93e658220abd47f0771c70f4adfd22d0",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-05T09:14:10.498Z",
-      "sequence": 7
+      "modified": "2026-10-06T19:36:04.641Z",
+      "sequence": 8
     },
     {
       "uid": "mlb-849838@football-watchlist",
@@ -3850,27 +3850,6 @@
       "sequence": 1
     },
     {
-      "uid": "college-football-401858488@football-watchlist",
-      "gameId": "401858488",
-      "title": "CFB: Ohio State at Indiana [time TBA]",
-      "start": "2026-10-17",
-      "end": "2026-10-18",
-      "allDay": true,
-      "description": "National pick: ranked matchup (#5 vs #7) at selection.\n\nTeams: Ohio State Buckeyes at Indiana Hoosiers\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858488/ohio-state-indiana",
-      "location": "Memorial Stadium (Bloomington, IN), Bloomington, IN, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858488/ohio-state-indiana",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#5 vs #7) at selection.",
-      "hash": "84ad0b19642fb9d067660bb6a8c8e46fb0715caa3a21b72fde645faa4304fce9",
-      "created": "2026-09-26T07:50:51.012Z",
-      "modified": "2026-09-26T07:50:51.012Z",
-      "sequence": 0
-    },
-    {
       "uid": "college-football-401858490@football-watchlist",
       "gameId": "401858490",
       "title": "CFB: Penn State at Michigan [time TBA]",
@@ -4004,6 +3983,27 @@
       "hash": "1e524425544f1f0556b73e24e4232370a84dec16f6b56ffae4feca0664ced3f4",
       "created": "2026-09-26T07:50:51.012Z",
       "modified": "2026-10-05T21:36:12.655Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401858488@football-watchlist",
+      "gameId": "401858488",
+      "title": "CFB: Ohio State at Indiana",
+      "start": "2026-10-17T16:00:00.000Z",
+      "end": "2026-10-17T19:30:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#5 vs #7) at selection.\n\nTeams: Ohio State Buckeyes at Indiana Hoosiers\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858488/ohio-state-indiana",
+      "location": "Memorial Stadium (Bloomington, IN), Bloomington, IN, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858488/ohio-state-indiana",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#5 vs #7) at selection.",
+      "hash": "e4e11550bff9d2ced116dc2601954e2e10f3a776827d8b8f18778e76cd3fed0d",
+      "created": "2026-09-26T07:50:51.012Z",
+      "modified": "2026-10-06T19:36:04.641Z",
       "sequence": 1
     },
     {
@@ -12184,5 +12184,7 @@
     },
     "events": 41
   },
-  "warnings": []
+  "warnings": [
+    "College GameDay: no unambiguous current announcement matched the game schedule; retaining verified announcements and TBA placeholders."
+  ]
 }

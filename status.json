@@ -38,5 +38,7 @@
     },
     "events": 41
   },
-  "warnings": []
+  "warnings": [
+    "College GameDay: no unambiguous current announcement matched the game schedule; retaining verified announcements and TBA placeholders."
+  ]
 }
