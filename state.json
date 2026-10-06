@@ -1,5 +1,5 @@
 {
-  "checkedOn": "2026-10-05",
+  "checkedOn": "2026-10-06",
   "season": 2026,
   "events": [
     {
@@ -2737,7 +2737,7 @@
       "start": "2026-10-08T00:00:00.000Z",
       "end": "2026-10-08T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849838",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Martinez / Max Fried.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849838",
       "location": "Yankee Stadium",
       "url": "https://www.mlb.com/gameday/849838",
       "status": "CONFIRMED",
@@ -2746,10 +2746,10 @@
         "Playoffs",
         "Tampa Bay Rays"
       ],
-      "hash": "679c7bfe46d1db6f0f90df91daf063373b8635afdfa2aebd717b8b395c9a97df",
+      "hash": "7c079497ac4ee5ff59845b69c6fdd730649944021a096a8ba3e5f540b481f29c",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-01T23:57:30.137Z",
-      "sequence": 6
+      "modified": "2026-10-06T09:06:33.397Z",
+      "sequence": 7
     },
     {
       "uid": "mlb-849827@football-watchlist",
@@ -2866,7 +2866,7 @@
       "start": "2026-10-09T00:00:00.000Z",
       "end": "2026-10-09T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849837",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Carlos Rodón.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849837",
       "location": "Yankee Stadium",
       "url": "https://www.mlb.com/gameday/849837",
       "status": "TENTATIVE",
@@ -2875,10 +2875,10 @@
         "Playoffs",
         "Tampa Bay Rays"
       ],
-      "hash": "91e14a2b497ed06beeccd04189941e8d4b6641a070ad7e9fd0d040925cf84985",
+      "hash": "b3f96caba31e92304262d24c0920e846cf63ced0af6f52ceb7c95c4882e00c60",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-01T23:57:30.137Z",
-      "sequence": 6
+      "modified": "2026-10-06T09:06:33.397Z",
+      "sequence": 7
     },
     {
       "uid": "nhl-2026020063@football-watchlist",
@@ -12151,14 +12151,14 @@
   "nflGames": 285,
   "collegeGames": 949,
   "baseball": {
-    "checkedOn": "2026-10-05",
+    "checkedOn": "2026-10-06",
     "season": 2026,
     "scheduleGames": 411,
     "events": 58,
     "playoffEvents": 50
   },
   "hockey": {
-    "checkedOn": "2026-10-05",
+    "checkedOn": "2026-10-06",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -12175,7 +12175,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-10-05",
+    "checkedOn": "2026-10-06",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
