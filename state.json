@@ -2672,7 +2672,7 @@
       "start": "2026-10-07T20:00:00.000Z",
       "end": "2026-10-07T23:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Sean Newcomb.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849833",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Daniel Espino / Sean Newcomb.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849833",
       "location": "Rate Field",
       "url": "https://www.mlb.com/gameday/849833",
       "status": "CONFIRMED",
@@ -2681,10 +2681,10 @@
         "Playoffs",
         "Cleveland Guardians"
       ],
-      "hash": "dd8a16ed060fe9f0a995b7a2afdb568a3f45702aead6d70990ee96ba017a208a",
+      "hash": "115f10f5488faf4bdc153885eb7d20f9e2203d05a6a29d79d72717d90e65f22a",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-06T19:36:04.641Z",
-      "sequence": 9
+      "modified": "2026-10-06T23:53:25.577Z",
+      "sequence": 10
     },
     {
       "uid": "mlb-849822@football-watchlist",
@@ -7715,7 +7715,7 @@
       "end": "2026-12-12T06:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Following San Jose Sharks: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: ABTV  / NBCSCA / SN. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/lak-vs-sjs/2026/12/11/2026020513",
+      "description": "Following San Jose Sharks: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: ABTV  / NBCSCA / SN / TVAS. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/lak-vs-sjs/2026/12/11/2026020513",
       "location": "SAP Center at San Jose",
       "url": "https://www.nhl.com/gamecenter/lak-vs-sjs/2026/12/11/2026020513",
       "categories": [
@@ -7723,10 +7723,10 @@
         "Regular season",
         "San Jose Sharks"
       ],
-      "hash": "ae31f5451d97b315b1728f5de5e27beca89f5927bcc198dd569883e27e1a0de8",
+      "hash": "650e0b7f4c258ae241c269d76bc62ea0e2c14da6054508da5cd185df108c0c95",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
+      "modified": "2026-10-06T23:53:25.577Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401862844@football-watchlist",
