@@ -2803,7 +2803,7 @@
       "start": "2026-10-08T21:00:00.000Z",
       "end": "2026-10-09T00:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849832",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Parker Messick.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849832",
       "location": "Rate Field",
       "url": "https://www.mlb.com/gameday/849832",
       "status": "TENTATIVE",
@@ -2812,10 +2812,10 @@
         "Playoffs",
         "Cleveland Guardians"
       ],
-      "hash": "b4851d1d6d4c424d795e41ed33184ad1597b841e7686343209e5255ac289add4",
+      "hash": "9a0f743495c4bf70db4f3eaca55518b76d0c3358abf2d6e84968771127871b27",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-01T23:57:30.137Z",
-      "sequence": 8
+      "modified": "2026-10-07T20:01:14.881Z",
+      "sequence": 9
     },
     {
       "uid": "nhl-2026020061@football-watchlist",
@@ -2948,7 +2948,7 @@
       "start": "2026-10-09T20:30:00.000Z",
       "end": "2026-10-10T00:00:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849824",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Jacob Misiorowski.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849824",
       "location": "American Family Field",
       "url": "https://www.mlb.com/gameday/849824",
       "status": "TENTATIVE",
@@ -2957,10 +2957,10 @@
         "Playoffs",
         "San Diego Padres"
       ],
-      "hash": "1ce303951d4875b62859cf90d082e21a18a548747725f14b3b15275e5b2a3bd9",
+      "hash": "a57023a56e93f9dd5a69a4e0fffc4a6f9a8a98b7658b7212f82b3610aee4c555",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-04T18:12:38.845Z",
-      "sequence": 6
+      "modified": "2026-10-07T20:01:14.881Z",
+      "sequence": 7
     },
     {
       "uid": "mlb-849821@football-watchlist",
