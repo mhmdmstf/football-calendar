@@ -2770,7 +2770,7 @@
       "start": "2026-10-08T02:00:00.000Z",
       "end": "2026-10-08T05:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Walker Buehler.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849827",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Robert Gasser / Walker Buehler.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849827",
       "location": "Petco Park",
       "url": "https://www.mlb.com/gameday/849827",
       "status": "CONFIRMED",
@@ -2779,10 +2779,10 @@
         "Playoffs",
         "San Diego Padres"
       ],
-      "hash": "91b23ce4a64f0294b95fe274b5c03d61cbfd0aec3cf9d5b236a86995019d23d0",
+      "hash": "247f4700af875346379e9135196748fb1ba65445dced63d0ebada487b1207a03",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-07T08:51:21.705Z",
-      "sequence": 7
+      "modified": "2026-10-08T00:15:33.429Z",
+      "sequence": 8
     },
     {
       "uid": "mlb-849832@football-watchlist",
@@ -2791,7 +2791,7 @@
       "mlbGameType": "D",
       "mlbSeriesKey": "2026/D/2",
       "mlbSeriesGameNumber": 4,
-      "mlbIfNecessary": true,
+      "mlbIfNecessary": false,
       "mlbTeamIds": [
         "114",
         "145"
@@ -2799,23 +2799,23 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALDS 'B' Game 4 - Cleveland Guardians at Chicago White Sox [if necessary]",
+      "title": "MLB: ALDS 'B' Game 4 - Cleveland Guardians at Chicago White Sox",
       "start": "2026-10-08T21:00:00.000Z",
       "end": "2026-10-09T00:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Parker Messick.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849832",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Parker Messick.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849832",
       "location": "Rate Field",
       "url": "https://www.mlb.com/gameday/849832",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Playoffs",
         "Cleveland Guardians"
       ],
-      "hash": "9a0f743495c4bf70db4f3eaca55518b76d0c3358abf2d6e84968771127871b27",
+      "hash": "bdb0788d5af509ba91831122698a9657133ba90c5e942dbcaa1bcc2c52fa130f",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-07T20:01:14.881Z",
-      "sequence": 9
+      "modified": "2026-10-08T00:15:33.429Z",
+      "sequence": 10
     },
     {
       "uid": "nhl-2026020061@football-watchlist",
@@ -2866,7 +2866,7 @@
       "start": "2026-10-09T00:00:00.000Z",
       "end": "2026-10-09T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Carlos Rodón.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849837",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Drew Rasmussen / Carlos Rodón.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849837",
       "location": "Yankee Stadium",
       "url": "https://www.mlb.com/gameday/849837",
       "status": "TENTATIVE",
@@ -2875,10 +2875,10 @@
         "Playoffs",
         "Tampa Bay Rays"
       ],
-      "hash": "b3f96caba31e92304262d24c0920e846cf63ced0af6f52ceb7c95c4882e00c60",
+      "hash": "e2c71eb9e84d4b94d481ee60dd9ebdcc2082d8893158572cc3b8ecc6b00c7702",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-06T09:06:33.397Z",
-      "sequence": 7
+      "modified": "2026-10-08T00:15:33.429Z",
+      "sequence": 8
     },
     {
       "uid": "nhl-2026020063@football-watchlist",

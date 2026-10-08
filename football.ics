@@ -2329,18 +2329,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849827@football-watchlist
-DTSTAMP:20261007T085121Z
+DTSTAMP:20261008T001533Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261007T085121Z
-SEQUENCE:7
+LAST-MODIFIED:20261008T001533Z
+SEQUENCE:8
 DTSTART:20261008T020000Z
 DTEND:20261008T053000Z
 SUMMARY:MLB: NLDS 'A' Game 4  - Milwaukee Brewers at San Diego Padres
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nProbable pitchers (subject to change): Walker Buehler.\n\nListed broadcas
- ts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country
-  and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849827
+ nProbable pitchers (subject to change): Robert Gasser / Walker Buehler.\n\
+ nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability v
+ aries by country and provider.\n\nOfficial schedule: https://www.mlb.com/g
+ ameday/849827
 LOCATION:Petco Park
 URL:https://www.mlb.com/gameday/849827
 CATEGORIES:MLB,Playoffs,San Diego Padres
@@ -2349,25 +2350,22 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849832@football-watchlist
-DTSTAMP:20261007T200114Z
+DTSTAMP:20261008T001533Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261007T200114Z
-SEQUENCE:9
+LAST-MODIFIED:20261008T001533Z
+SEQUENCE:10
 DTSTART:20261008T210000Z
 DTEND:20261009T003000Z
-SUMMARY:MLB: ALDS 'B' Game 4 - Cleveland Guardians at Chicago White Sox [if
-  necessary]
+SUMMARY:MLB: ALDS 'B' Game 4 - Cleveland Guardians at Chicago White Sox
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
- .5 hours\; finish is approximate.\n\nProbable pitchers (subject to change)
- : Parker Messick.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ T
- UDN. Availability varies by country and provider.\n\nOfficial schedule: ht
- tps://www.mlb.com/gameday/849832
+ the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
+ nProbable pitchers (subject to change): Parker Messick.\n\nListed broadcas
+ ts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country 
+ and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849832
 LOCATION:Rate Field
 URL:https://www.mlb.com/gameday/849832
 CATEGORIES:MLB,Playoffs,Cleveland Guardians
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -2392,10 +2390,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849837@football-watchlist
-DTSTAMP:20261006T090633Z
+DTSTAMP:20261008T001533Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261006T090633Z
-SEQUENCE:7
+LAST-MODIFIED:20261008T001533Z
+SEQUENCE:8
 DTSTART:20261009T000000Z
 DTEND:20261009T033000Z
 SUMMARY:MLB: ALDS 'A' Game 4 - Tampa Bay Rays at New York Yankees [if neces
@@ -2404,9 +2402,9 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
  .5 hours\; finish is approximate.\n\nProbable pitchers (subject to change)
- : Carlos Rodón.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TU
- DN. Availability varies by country and provider.\n\nOfficial schedule: htt
- ps://www.mlb.com/gameday/849837
+ : Drew Rasmussen / Carlos Rodón.\n\nListed broadcasts: TBS/HBO MAX / TruT
+ V / Univision/ TUDN. Availability varies by country and provider.\n\nOffic
+ ial schedule: https://www.mlb.com/gameday/849837
 LOCATION:Yankee Stadium
 URL:https://www.mlb.com/gameday/849837
 CATEGORIES:MLB,Playoffs,Tampa Bay Rays
