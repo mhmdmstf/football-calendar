@@ -2749,18 +2749,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858485@football-watchlist
-DTSTAMP:20260929T084143Z
+DTSTAMP:20261008T195946Z
 CREATED:20260919T072420Z
-LAST-MODIFIED:20260929T084143Z
-SEQUENCE:1
+LAST-MODIFIED:20261008T195946Z
+SEQUENCE:2
 DTSTART:20261010T233000Z
 DTEND:20261011T030000Z
 SUMMARY:CFB: USC at Penn State
 DESCRIPTION:National pick: ranked matchup (#12 vs #14) at selection.\n\nTea
- ms: USC Trojans at Penn State Nittany Lions\n\nUS broadcast: NBC. Availabi
- lity elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champions
- hips)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-f
- ootball/game/_/gameId/401858485/usc-penn-state
+ ms: USC Trojans at Penn State Nittany Lions\n\nUS broadcast: NBC / ERADM. 
+ Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for c
+ hampionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/c
+ ollege-football/game/_/gameId/401858485/usc-penn-state
 LOCATION:Beaver Stadium\, University Park\, PA\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401858485/usc-penn-
  state

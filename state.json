@@ -3266,7 +3266,7 @@
       "start": "2026-10-10T23:30:00.000Z",
       "end": "2026-10-11T03:00:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#12 vs #14) at selection.\n\nTeams: USC Trojans at Penn State Nittany Lions\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858485/usc-penn-state",
+      "description": "National pick: ranked matchup (#12 vs #14) at selection.\n\nTeams: USC Trojans at Penn State Nittany Lions\n\nUS broadcast: NBC / ERADM. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858485/usc-penn-state",
       "location": "Beaver Stadium, University Park, PA, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401858485/usc-penn-state",
       "status": "CONFIRMED",
@@ -3275,10 +3275,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#12 vs #14) at selection.",
-      "hash": "0c645231c8b2bdd86d9eb8db80c32630b89291346159ccb137e39983bce0b432",
+      "hash": "9f88c6e9352f20312c15c9f35be0cd781ab3284315b2ed4aef638991c4710a30",
       "created": "2026-09-19T07:24:20.666Z",
-      "modified": "2026-09-29T08:41:43.964Z",
-      "sequence": 1
+      "modified": "2026-10-08T19:59:46.813Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-849809@football-watchlist",
