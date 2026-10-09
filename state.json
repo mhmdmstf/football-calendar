@@ -1,5 +1,5 @@
 {
-  "checkedOn": "2026-10-08",
+  "checkedOn": "2026-10-09",
   "season": 2026,
   "events": [
     {
@@ -2917,17 +2917,17 @@
       "start": "2026-10-09T00:15:00.000Z",
       "end": "2026-10-09T03:45:00.000Z",
       "allDay": false,
-      "description": "Thursday football, including Thanksgiving.\n\nTeams: Tampa Bay Buccaneers at Dallas Cowboys\n\nUS broadcast: Prime Video. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872980",
+      "description": "Thursday football, including Thanksgiving.\n\nTeams: Tampa Bay Buccaneers at Dallas Cowboys\n\nUS broadcast: Prime Video. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872980/buccaneers-cowboys",
       "location": "AT&T Stadium, Arlington, TX, USA",
-      "url": "https://www.espn.com/nfl/game/_/gameId/401872980",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872980/buccaneers-cowboys",
       "status": "CONFIRMED",
       "categories": [
         "NFL"
       ],
-      "hash": "32a1def4309aa28964fe2e0908895e1da4168e5a71375bd493423bfb5438c12d",
+      "hash": "742f4459dc2516bf95ecc1e23501b267a46f44396b9f32de4d3ab0bf41f7caf3",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-10-09T00:28:20.918Z",
-      "sequence": 2
+      "modified": "2026-10-09T09:16:05.583Z",
+      "sequence": 3
     },
     {
       "uid": "mlb-849824@football-watchlist",
@@ -3287,7 +3287,7 @@
       "mlbGameType": "D",
       "mlbSeriesKey": "2026/D/2",
       "mlbSeriesGameNumber": 5,
-      "mlbIfNecessary": true,
+      "mlbIfNecessary": false,
       "mlbTeamIds": [
         "145",
         "114"
@@ -3295,23 +3295,23 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALDS 'B' Game 5 - Chicago White Sox at Cleveland Guardians [if necessary]",
+      "title": "MLB: ALDS 'B' Game 5 - Chicago White Sox at Cleveland Guardians",
       "start": "2026-10-11T00:00:00.000Z",
       "end": "2026-10-11T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849831",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849831",
       "location": "Progressive Field",
       "url": "https://www.mlb.com/gameday/849831",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Playoffs",
         "Cleveland Guardians"
       ],
-      "hash": "d795b77e18b4446d2a9da9b8ae04763a97bf297a4e7368dbf2df96fdfaea2c37",
+      "hash": "de74b49b4aa305d6ea1f988b383d9c1bd3e391f8e6bbcde1cc1fc20a0d950c83",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-08T09:08:48.640Z",
-      "sequence": 9
+      "modified": "2026-10-09T09:16:05.583Z",
+      "sequence": 10
     },
     {
       "uid": "mlb-849836@football-watchlist",
@@ -12158,14 +12158,14 @@
   "nflGames": 285,
   "collegeGames": 949,
   "baseball": {
-    "checkedOn": "2026-10-08",
+    "checkedOn": "2026-10-09",
     "season": 2026,
     "scheduleGames": 407,
     "events": 54,
     "playoffEvents": 46
   },
   "hockey": {
-    "checkedOn": "2026-10-08",
+    "checkedOn": "2026-10-09",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -12182,7 +12182,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-10-08",
+    "checkedOn": "2026-10-09",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
