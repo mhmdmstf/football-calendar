@@ -2435,10 +2435,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401872980@football-watchlist
-DTSTAMP:20260905T145208Z
+DTSTAMP:20261009T002820Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:1
+LAST-MODIFIED:20261009T002820Z
+SEQUENCE:2
 DTSTART:20261009T001500Z
 DTEND:20261009T034500Z
 SUMMARY:NFL: Tampa Bay Buccaneers at Dallas Cowboys
@@ -2446,9 +2446,9 @@ DESCRIPTION:Thursday football\, including Thanksgiving.\n\nTeams: Tampa Bay
   Buccaneers at Dallas Cowboys\n\nUS broadcast: Prime Video. Availability e
  lsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)\
  ; finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/game
- Id/401872980/buccaneers-cowboys
+ Id/401872980
 LOCATION:AT&T Stadium\, Arlington\, TX\, USA
-URL:https://www.espn.com/nfl/game/_/gameId/401872980/buccaneers-cowboys
+URL:https://www.espn.com/nfl/game/_/gameId/401872980
 CATEGORIES:NFL
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -2769,27 +2769,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-849809@football-watchlist
-DTSTAMP:20261008T090848Z
-CREATED:20260919T111549Z
-LAST-MODIFIED:20261008T090848Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
-SUMMARY:MLB: NLCS Game 1 - Los Angeles Dodgers at Milwaukee Brewers [time T
- BA]
-DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nFirst pitch has not been announced. This all-day mark
- er will become a timed event when confirmed.\n\nListed broadcasts: FOX / F
- S1 / Fox Deportes / FOX ONE. Availability varies by country and provider.\
- n\nOfficial schedule: https://www.mlb.com/gameday/849809
-LOCATION:American Family Field
-URL:https://www.mlb.com/gameday/849809
-CATEGORIES:MLB,Playoffs
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-849831@football-watchlist
 DTSTAMP:20261008T090848Z
 CREATED:20260919T111549Z
@@ -2895,46 +2874,24 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-849812@football-watchlist
-DTSTAMP:20261008T090848Z
+UID:mlb-849809@football-watchlist
+DTSTAMP:20261009T002820Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261008T090848Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-SUMMARY:MLB: NLCS Game 2 - Los Angeles Dodgers at Milwaukee Brewers [time T
- BA]
-DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nFirst pitch has not been announced. This all-day mark
- er will become a timed event when confirmed.\n\nListed broadcasts: FOX / F
- S1 / Fox Deportes / FOX ONE. Availability varies by country and provider.\
- n\nOfficial schedule: https://www.mlb.com/gameday/849812
-LOCATION:American Family Field
-URL:https://www.mlb.com/gameday/849812
-CATEGORIES:MLB,Playoffs
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-849820@football-watchlist
-DTSTAMP:20261008T090848Z
-CREATED:20260919T111549Z
-LAST-MODIFIED:20261008T090848Z
+LAST-MODIFIED:20261009T002820Z
 SEQUENCE:3
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-SUMMARY:MLB: ALCS Game 1 - CLE/CWS at Tampa Bay Rays [time TBA]
+DTSTART:20261012T000000Z
+DTEND:20261012T033000Z
+SUMMARY:MLB: NLCS Game 1 - Los Angeles Dodgers at Milwaukee Brewers
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
- s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by count
- ry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849820
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/849820
-CATEGORIES:MLB,Playoffs,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+ the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
+ nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability v
+ aries by country and provider.\n\nOfficial schedule: https://www.mlb.com/g
+ ameday/849809
+LOCATION:American Family Field
+URL:https://www.mlb.com/gameday/849809
+CATEGORIES:MLB,Playoffs
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401872993@football-watchlist
@@ -2956,25 +2913,45 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-849813@football-watchlist
-DTSTAMP:20261008T090848Z
+UID:mlb-849812@football-watchlist
+DTSTAMP:20261009T002820Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261008T090848Z
+LAST-MODIFIED:20261009T002820Z
 SEQUENCE:3
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:MLB: ALCS Game 2 - CLE/CWS at Tampa Bay Rays [time TBA]
+DTSTART:20261012T210000Z
+DTEND:20261013T003000Z
+SUMMARY:MLB: NLCS Game 2 - Los Angeles Dodgers at Milwaukee Brewers
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
+ nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varie
+ s by country and provider.\n\nOfficial schedule: https://www.mlb.com/gamed
+ ay/849812
+LOCATION:American Family Field
+URL:https://www.mlb.com/gameday/849812
+CATEGORIES:MLB,Playoffs
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849820@football-watchlist
+DTSTAMP:20261009T002820Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20261009T002820Z
+SEQUENCE:4
+DTSTART:20261013T000000Z
+DTEND:20261013T033000Z
+SUMMARY:MLB: ALCS Game 1 - CLE/CWS at Tampa Bay Rays
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
- s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by count
- ry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849813
+  when MLB confirms the matchup.\n\nViewing window: 3.5 hours\; finish is a
+ pproximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. A
+ vailability varies by country and provider.\n\nOfficial schedule: https://
+ www.mlb.com/gameday/849820
 LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/849813
+URL:https://www.mlb.com/gameday/849820
 CATEGORIES:MLB,Playoffs,Tampa Bay Rays
 STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401872994@football-watchlist
@@ -3016,25 +2993,25 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-849811@football-watchlist
-DTSTAMP:20261008T090848Z
+UID:mlb-849813@football-watchlist
+DTSTAMP:20261009T002820Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261008T090848Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:MLB: NLCS Game 3 - Milwaukee Brewers at Los Angeles Dodgers [time T
- BA]
+LAST-MODIFIED:20261009T002820Z
+SEQUENCE:4
+DTSTART:20261014T000000Z
+DTEND:20261014T033000Z
+SUMMARY:MLB: ALCS Game 2 - CLE/CWS at Tampa Bay Rays
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nFirst pitch has not been announced. This all-day mark
- er will become a timed event when confirmed.\n\nListed broadcasts: FOX / F
- S1 / Fox Deportes / FOX ONE. Availability varies by country and provider.\
- n\nOfficial schedule: https://www.mlb.com/gameday/849811
-LOCATION:UNIQLO Field at Dodger Stadium
-URL:https://www.mlb.com/gameday/849811
-CATEGORIES:MLB,Playoffs
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nViewing window: 3.5 hours\; finish is a
+ pproximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. A
+ vailability varies by country and provider.\n\nOfficial schedule: https://
+ www.mlb.com/gameday/849813
+LOCATION:Tropicana Field
+URL:https://www.mlb.com/gameday/849813
+CATEGORIES:MLB,Playoffs,Tampa Bay Rays
 STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020105@football-watchlist
@@ -3057,90 +3034,45 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-849810@football-watchlist
-DTSTAMP:20261008T090848Z
+UID:mlb-849811@football-watchlist
+DTSTAMP:20261009T002820Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261008T090848Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-SUMMARY:MLB: NLCS Game 4 - Milwaukee Brewers at Los Angeles Dodgers [time T
- BA]
+LAST-MODIFIED:20261009T002820Z
+SEQUENCE:3
+DTSTART:20261015T000000Z
+DTEND:20261015T033000Z
+SUMMARY:MLB: NLCS Game 3 - Milwaukee Brewers at Los Angeles Dodgers
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nFirst pitch has not been announced. This all-day mark
- er will become a timed event when confirmed.\n\nListed broadcasts: FOX / F
- S1 / Fox Deportes / FOX ONE. Availability varies by country and provider.\
- n\nOfficial schedule: https://www.mlb.com/gameday/849810
+ the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
+ nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability v
+ aries by country and provider.\n\nOfficial schedule: https://www.mlb.com/g
+ ameday/849811
 LOCATION:UNIQLO Field at Dodger Stadium
-URL:https://www.mlb.com/gameday/849810
+URL:https://www.mlb.com/gameday/849811
 CATEGORIES:MLB,Playoffs
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849818@football-watchlist
-DTSTAMP:20261008T090848Z
+DTSTAMP:20261009T002820Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261008T090848Z
-SEQUENCE:3
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-SUMMARY:MLB: ALCS Game 3 - Tampa Bay Rays at CLE/CWS [time TBA]
+LAST-MODIFIED:20261009T002820Z
+SEQUENCE:4
+DTSTART:20261015T220000Z
+DTEND:20261016T013000Z
+SUMMARY:MLB: ALCS Game 3 - Tampa Bay Rays at CLE/CWS
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
- s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by count
- ry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849818
+  when MLB confirms the matchup.\n\nViewing window: 3.5 hours\; finish is a
+ pproximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. A
+ vailability varies by country and provider.\n\nOfficial schedule: https://
+ www.mlb.com/gameday/849818
 LOCATION:AL Stadium
 URL:https://www.mlb.com/gameday/849818
 CATEGORIES:MLB,Playoffs,Tampa Bay Rays
 STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-849808@football-watchlist
-DTSTAMP:20261008T090848Z
-CREATED:20260919T111549Z
-LAST-MODIFIED:20261008T090848Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:MLB: NLCS Game 5 - Milwaukee Brewers at Los Angeles Dodgers [if nec
- essary] [time TBA]
-DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nFirst pitch has n
- ot been announced. This all-day marker will become a timed event when conf
- irmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availabil
- ity varies by country and provider.\n\nOfficial schedule: https://www.mlb.
- com/gameday/849808
-LOCATION:UNIQLO Field at Dodger Stadium
-URL:https://www.mlb.com/gameday/849808
-CATEGORIES:MLB,Playoffs
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-849817@football-watchlist
-DTSTAMP:20261008T090848Z
-CREATED:20260919T111549Z
-LAST-MODIFIED:20261008T090848Z
-SEQUENCE:3
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:MLB: ALCS Game 4 - Tampa Bay Rays at CLE/CWS [time TBA]
-DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
- s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by count
- ry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849817
-LOCATION:AL Stadium
-URL:https://www.mlb.com/gameday/849817
-CATEGORIES:MLB,Playoffs,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020115@football-watchlist
@@ -3183,6 +3115,47 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-849810@football-watchlist
+DTSTAMP:20261009T002820Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20261009T002820Z
+SEQUENCE:3
+DTSTART:20261016T010000Z
+DTEND:20261016T043000Z
+SUMMARY:MLB: NLCS Game 4 - Milwaukee Brewers at Los Angeles Dodgers
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
+ nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability v
+ aries by country and provider.\n\nOfficial schedule: https://www.mlb.com/g
+ ameday/849810
+LOCATION:UNIQLO Field at Dodger Stadium
+URL:https://www.mlb.com/gameday/849810
+CATEGORIES:MLB,Playoffs
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849817@football-watchlist
+DTSTAMP:20261009T002820Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20261009T002820Z
+SEQUENCE:4
+DTSTART:20261016T220000Z
+DTEND:20261017T013000Z
+SUMMARY:MLB: ALCS Game 4 - Tampa Bay Rays at CLE/CWS
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nViewing window: 3.5 hours\; finish is a
+ pproximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. A
+ vailability varies by country and provider.\n\nOfficial schedule: https://
+ www.mlb.com/gameday/849817
+LOCATION:AL Stadium
+URL:https://www.mlb.com/gameday/849817
+CATEGORIES:MLB,Playoffs,Tampa Bay Rays
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:college-football-401858490@football-watchlist
 DTSTAMP:20260926T075051Z
 CREATED:20260926T075051Z
@@ -3204,28 +3177,26 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-849816@football-watchlist
-DTSTAMP:20261008T090848Z
+UID:mlb-849808@football-watchlist
+DTSTAMP:20261009T002820Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261008T090848Z
+LAST-MODIFIED:20261009T002820Z
 SEQUENCE:3
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:MLB: ALCS Game 5 - Tampa Bay Rays at CLE/CWS [if necessary] [time T
- BA]
+DTSTART:20261017T010000Z
+DTEND:20261017T043000Z
+SUMMARY:MLB: NLCS Game 5 - Milwaukee Brewers at Los Angeles Dodgers [if nec
+ essary]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nBracket positions
-  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
- st pitch has not been announced. This all-day marker will become a timed e
- vent when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision
- / TUDN. Availability varies by country and provider.\n\nOfficial schedule:
-  https://www.mlb.com/gameday/849816
-LOCATION:AL Stadium
-URL:https://www.mlb.com/gameday/849816
-CATEGORIES:MLB,Playoffs,Tampa Bay Rays
+ t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
+ .5 hours\; finish is approximate.\n\nListed broadcasts: FS1 / FOX ONE / Fo
+ x Deportes / FOX ONE. Availability varies by country and provider.\n\nOffi
+ cial schedule: https://www.mlb.com/gameday/849808
+LOCATION:UNIQLO Field at Dodger Stadium
+URL:https://www.mlb.com/gameday/849808
+CATEGORIES:MLB,Playoffs
 STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:chelsea-2645258@football-watchlist
@@ -3454,27 +3425,26 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-849806@football-watchlist
-DTSTAMP:20261008T090848Z
+UID:mlb-849816@football-watchlist
+DTSTAMP:20261009T002820Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261008T090848Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-SUMMARY:MLB: NLCS Game 6 - Los Angeles Dodgers at Milwaukee Brewers [if nec
- essary] [time TBA]
+LAST-MODIFIED:20261009T002820Z
+SEQUENCE:4
+DTSTART:20261018T000000Z
+DTEND:20261018T033000Z
+SUMMARY:MLB: ALCS Game 5 - Tampa Bay Rays at CLE/CWS [if necessary]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nFirst pitch has n
- ot been announced. This all-day marker will become a timed event when conf
- irmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availabil
- ity varies by country and provider.\n\nOfficial schedule: https://www.mlb.
- com/gameday/849806
-LOCATION:American Family Field
-URL:https://www.mlb.com/gameday/849806
-CATEGORIES:MLB,Playoffs
+ t will be cancelled in this feed if no longer needed.\n\nBracket positions
+  are placeholders. Teams will update when MLB confirms the matchup.\n\nVie
+ wing window: 3.5 hours\; finish is approximate.\n\nListed broadcasts: TBS/
+ HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and prov
+ ider.\n\nOfficial schedule: https://www.mlb.com/gameday/849816
+LOCATION:AL Stadium
+URL:https://www.mlb.com/gameday/849816
+CATEGORIES:MLB,Playoffs,Tampa Bay Rays
 STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401872996@football-watchlist
@@ -3516,51 +3486,26 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-849807@football-watchlist
-DTSTAMP:20261008T090848Z
+UID:mlb-849806@football-watchlist
+DTSTAMP:20261009T002820Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261008T090848Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:MLB: NLCS Game 7 - Los Angeles Dodgers at Milwaukee Brewers [if nec
- essary] [time TBA]
+LAST-MODIFIED:20261009T002820Z
+SEQUENCE:3
+DTSTART:20261019T000000Z
+DTEND:20261019T033000Z
+SUMMARY:MLB: NLCS Game 6 - Los Angeles Dodgers at Milwaukee Brewers [if nec
+ essary]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nFirst pitch has n
- ot been announced. This all-day marker will become a timed event when conf
- irmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availabil
- ity varies by country and provider.\n\nOfficial schedule: https://www.mlb.
- com/gameday/849807
+ t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
+ .5 hours\; finish is approximate.\n\nListed broadcasts: FS1 / FOX ONE / Fo
+ x Deportes / FOX ONE. Availability varies by country and provider.\n\nOffi
+ cial schedule: https://www.mlb.com/gameday/849806
 LOCATION:American Family Field
-URL:https://www.mlb.com/gameday/849807
+URL:https://www.mlb.com/gameday/849806
 CATEGORIES:MLB,Playoffs
 STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-849815@football-watchlist
-DTSTAMP:20261008T090848Z
-CREATED:20260919T111549Z
-LAST-MODIFIED:20261008T090848Z
-SEQUENCE:3
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:MLB: ALCS Game 6 - CLE/CWS at Tampa Bay Rays [if necessary] [time T
- BA]
-DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nBracket positions
-  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
- st pitch has not been announced. This all-day marker will become a timed e
- vent when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision
- / TUDN. Availability varies by country and provider.\n\nOfficial schedule:
-  https://www.mlb.com/gameday/849815
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/849815
-CATEGORIES:MLB,Playoffs,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020136@football-watchlist
@@ -3602,6 +3547,28 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-849815@football-watchlist
+DTSTAMP:20261009T002820Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20261009T002820Z
+SEQUENCE:4
+DTSTART:20261019T210000Z
+DTEND:20261020T003000Z
+SUMMARY:MLB: ALCS Game 6 - CLE/CWS at Tampa Bay Rays [if necessary]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nThis game is only played if the series requires it. I
+ t will be cancelled in this feed if no longer needed.\n\nBracket positions
+  are placeholders. Teams will update when MLB confirms the matchup.\n\nVie
+ wing window: 3.5 hours\; finish is approximate.\n\nListed broadcasts: TBS/
+ HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and prov
+ ider.\n\nOfficial schedule: https://www.mlb.com/gameday/849815
+LOCATION:Tropicana Field
+URL:https://www.mlb.com/gameday/849815
+CATEGORIES:MLB,Playoffs,Tampa Bay Rays
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nhl-2026020139@football-watchlist
 DTSTAMP:20261001T073711Z
 CREATED:20261001T073711Z
@@ -3622,28 +3589,26 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-849814@football-watchlist
-DTSTAMP:20261008T090848Z
+UID:mlb-849807@football-watchlist
+DTSTAMP:20261009T002820Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261008T090848Z
+LAST-MODIFIED:20261009T002820Z
 SEQUENCE:3
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
-SUMMARY:MLB: ALCS Game 7 - CLE/CWS at Tampa Bay Rays [if necessary] [time T
- BA]
+DTSTART:20261020T000000Z
+DTEND:20261020T033000Z
+SUMMARY:MLB: NLCS Game 7 - Los Angeles Dodgers at Milwaukee Brewers [if nec
+ essary]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nBracket positions
-  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
- st pitch has not been announced. This all-day marker will become a timed e
- vent when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision
- / TUDN. Availability varies by country and provider.\n\nOfficial schedule:
-  https://www.mlb.com/gameday/849814
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/849814
-CATEGORIES:MLB,Playoffs,Tampa Bay Rays
+ t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
+ .5 hours\; finish is approximate.\n\nListed broadcasts: FOX / FS1 / Fox De
+ portes / FOX ONE. Availability varies by country and provider.\n\nOfficial
+  schedule: https://www.mlb.com/gameday/849807
+LOCATION:American Family Field
+URL:https://www.mlb.com/gameday/849807
+CATEGORIES:MLB,Playoffs
 STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401873008@football-watchlist
@@ -3683,6 +3648,28 @@ LOCATION:Centre Bell
 URL:https://www.nhl.com/gamecenter/sjs-vs-mtl/2026/10/20/2026020141
 CATEGORIES:NHL,Regular season,San Jose Sharks
 STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849814@football-watchlist
+DTSTAMP:20261009T002820Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20261009T002820Z
+SEQUENCE:4
+DTSTART:20261021T000000Z
+DTEND:20261021T033000Z
+SUMMARY:MLB: ALCS Game 7 - CLE/CWS at Tampa Bay Rays [if necessary]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nThis game is only played if the series requires it. I
+ t will be cancelled in this feed if no longer needed.\n\nBracket positions
+  are placeholders. Teams will update when MLB confirms the matchup.\n\nVie
+ wing window: 3.5 hours\; finish is approximate.\n\nListed broadcasts: TBS/
+ HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and prov
+ ider.\n\nOfficial schedule: https://www.mlb.com/gameday/849814
+LOCATION:Tropicana Field
+URL:https://www.mlb.com/gameday/849814
+CATEGORIES:MLB,Playoffs,Tampa Bay Rays
+STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -3727,14 +3714,13 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849805@football-watchlist
-DTSTAMP:20261004T181238Z
+DTSTAMP:20261009T002820Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261004T181238Z
-SEQUENCE:2
+LAST-MODIFIED:20261009T002820Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:MLB: World Series Game 1 - Lower Seed League Champion at Higher See
- d League Champion [time TBA]
+SUMMARY:MLB: World Series Game 1 - AL Champion at NL Champion [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
@@ -3873,14 +3859,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849802@football-watchlist
-DTSTAMP:20261004T181238Z
+DTSTAMP:20261009T002820Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261004T181238Z
-SEQUENCE:2
+LAST-MODIFIED:20261009T002820Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-SUMMARY:MLB: World Series Game 2 - Lower Seed League Champion at Higher See
- d League Champion [time TBA]
+SUMMARY:MLB: World Series Game 2 - AL Champion at NL Champion [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
@@ -4034,14 +4019,13 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849804@football-watchlist
-DTSTAMP:20261004T181238Z
+DTSTAMP:20261009T002820Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261004T181238Z
-SEQUENCE:2
+LAST-MODIFIED:20261009T002820Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-SUMMARY:MLB: World Series Game 3 - Higher Seed League Champion at Lower See
- d League Champion [time TBA]
+SUMMARY:MLB: World Series Game 3 - NL Champion at AL Champion [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
@@ -4075,14 +4059,13 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849803@football-watchlist
-DTSTAMP:20261004T181238Z
+DTSTAMP:20261009T002820Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261004T181238Z
-SEQUENCE:2
+LAST-MODIFIED:20261009T002820Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-SUMMARY:MLB: World Series Game 4 - Higher Seed League Champion at Lower See
- d League Champion [time TBA]
+SUMMARY:MLB: World Series Game 4 - NL Champion at AL Champion [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
@@ -4097,18 +4080,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401873009@football-watchlist
-DTSTAMP:20260905T145208Z
+DTSTAMP:20261009T002820Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:1
+LAST-MODIFIED:20261009T002820Z
+SEQUENCE:2
 DTSTART:20261027T001500Z
 DTEND:20261027T034500Z
 SUMMARY:NFL: Dallas Cowboys at Philadelphia Eagles
 DESCRIPTION:Monday Night Football.\n\nTeams: Dallas Cowboys at Philadelphia
-  Eagles\n\nUS broadcast: ESPN / ABC. Availability elsewhere varies.\n\nVie
- wing window: 3.5 hours (4 hours for championships)\; finish is approximate
- .\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873009/cowboys-ea
- gles
+  Eagles\n\nUS broadcast: ESPN / ABC / Disney+. Availability elsewhere vari
+ es.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish is a
+ pproximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873009/
+ cowboys-eagles
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA\, USA
 URL:https://www.espn.com/nfl/game/_/gameId/401873009/cowboys-eagles
 CATEGORIES:NFL
@@ -4117,14 +4100,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849799@football-watchlist
-DTSTAMP:20261004T181238Z
+DTSTAMP:20261009T002820Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261004T181238Z
-SEQUENCE:2
+LAST-MODIFIED:20261009T002820Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:MLB: World Series Game 5 - Higher Seed League Champion at Lower See
- d League Champion [if necessary] [time TBA]
+SUMMARY:MLB: World Series Game 5 - NL Champion at AL Champion [if necessary
+ ] [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
@@ -4223,14 +4206,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849801@football-watchlist
-DTSTAMP:20261004T181238Z
+DTSTAMP:20261009T002820Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261004T181238Z
-SEQUENCE:2
+LAST-MODIFIED:20261009T002820Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:MLB: World Series Game 6 - Lower Seed League Champion at Higher See
- d League Champion [if necessary] [time TBA]
+SUMMARY:MLB: World Series Game 6 - AL Champion at NL Champion [if necessary
+ ] [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
@@ -4287,14 +4270,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849800@football-watchlist
-DTSTAMP:20261004T181238Z
+DTSTAMP:20261009T002820Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261004T181238Z
-SEQUENCE:2
+LAST-MODIFIED:20261009T002820Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:MLB: World Series Game 7 - Lower Seed League Champion at Higher See
- d League Champion [if necessary] [time TBA]
+SUMMARY:MLB: World Series Game 7 - AL Champion at NL Champion [if necessary
+ ] [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
@@ -8549,18 +8532,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401873270@football-watchlist
-DTSTAMP:20260905T144637Z
+DTSTAMP:20261009T002820Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
+LAST-MODIFIED:20261009T002820Z
+SEQUENCE:1
 DTSTART:20270214T233000Z
 DTEND:20270215T033000Z
 SUMMARY:Super Bowl LXI - teams TBA
 DESCRIPTION:NFL playoffs: every postseason game.\n\nSuper Bowl LXI\n\nTeams
- : TBD at TBD\n\nUS broadcast: ESPN / ABC. Availability elsewhere varies.\n
- \nViewing window: 3.5 hours (4 hours for championships)\; finish is approx
- imate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873270/tbd-t
- bd
+ : TBD at TBD\n\nUS broadcast: ESPN / ABC / Disney+. Availability elsewhere
+  varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish
+  is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/40187
+ 3270/tbd-tbd
 LOCATION:SoFi Stadium\, Inglewood\, CA\, USA
 URL:https://www.espn.com/nfl/game/_/gameId/401873270/tbd-tbd
 CATEGORIES:NFL,Playoffs

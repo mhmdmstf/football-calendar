@@ -2917,17 +2917,17 @@
       "start": "2026-10-09T00:15:00.000Z",
       "end": "2026-10-09T03:45:00.000Z",
       "allDay": false,
-      "description": "Thursday football, including Thanksgiving.\n\nTeams: Tampa Bay Buccaneers at Dallas Cowboys\n\nUS broadcast: Prime Video. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872980/buccaneers-cowboys",
+      "description": "Thursday football, including Thanksgiving.\n\nTeams: Tampa Bay Buccaneers at Dallas Cowboys\n\nUS broadcast: Prime Video. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872980",
       "location": "AT&T Stadium, Arlington, TX, USA",
-      "url": "https://www.espn.com/nfl/game/_/gameId/401872980/buccaneers-cowboys",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872980",
       "status": "CONFIRMED",
       "categories": [
         "NFL"
       ],
-      "hash": "742f4459dc2516bf95ecc1e23501b267a46f44396b9f32de4d3ab0bf41f7caf3",
+      "hash": "32a1def4309aa28964fe2e0908895e1da4168e5a71375bd493423bfb5438c12d",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 1
+      "modified": "2026-10-09T00:28:20.918Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-849824@football-watchlist",
@@ -3281,38 +3281,6 @@
       "sequence": 2
     },
     {
-      "uid": "mlb-849809@football-watchlist",
-      "gameId": "849809",
-      "mlbSeason": 2026,
-      "mlbGameType": "L",
-      "mlbSeriesKey": "2026/L/2",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "119",
-        "158"
-      ],
-      "selectionReasons": [
-        "MLB postseason: every game, from the Wild Card Series through the World Series."
-      ],
-      "title": "MLB: NLCS Game 1 - Los Angeles Dodgers at Milwaukee Brewers [time TBA]",
-      "start": "2026-10-11",
-      "end": "2026-10-12",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849809",
-      "location": "American Family Field",
-      "url": "https://www.mlb.com/gameday/849809",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Playoffs"
-      ],
-      "hash": "e921a405203a68784403ea5a03d4e12300b059c5bed407fc1e9558cc562a8673",
-      "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-08T09:08:48.640Z",
-      "sequence": 2
-    },
-    {
       "uid": "mlb-849831@football-watchlist",
       "gameId": "849831",
       "mlbSeason": 2026,
@@ -3447,12 +3415,12 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-849812@football-watchlist",
-      "gameId": "849812",
+      "uid": "mlb-849809@football-watchlist",
+      "gameId": "849809",
       "mlbSeason": 2026,
       "mlbGameType": "L",
       "mlbSeriesKey": "2026/L/2",
-      "mlbSeriesGameNumber": 2,
+      "mlbSeriesGameNumber": 1,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "119",
@@ -3461,54 +3429,21 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NLCS Game 2 - Los Angeles Dodgers at Milwaukee Brewers [time TBA]",
-      "start": "2026-10-12",
-      "end": "2026-10-13",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849812",
+      "title": "MLB: NLCS Game 1 - Los Angeles Dodgers at Milwaukee Brewers",
+      "start": "2026-10-12T00:00:00.000Z",
+      "end": "2026-10-12T03:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849809",
       "location": "American Family Field",
-      "url": "https://www.mlb.com/gameday/849812",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/849809",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Playoffs"
       ],
-      "hash": "2e9271680716497b040bfa0bd87d0d5dd279af691cdf39df96f6c65f9375789d",
+      "hash": "f427f4cb0bbbb9c521b59f01721c563e192dd0c69234b9a84185c3ead2d5d84b",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-08T09:08:48.640Z",
-      "sequence": 2
-    },
-    {
-      "uid": "mlb-849820@football-watchlist",
-      "gameId": "849820",
-      "mlbSeason": 2026,
-      "mlbGameType": "L",
-      "mlbSeriesKey": "2026/L/1",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "5521",
-        "139"
-      ],
-      "selectionReasons": [
-        "MLB postseason: every game, from the Wild Card Series through the World Series."
-      ],
-      "title": "MLB: ALCS Game 1 - CLE/CWS at Tampa Bay Rays [time TBA]",
-      "start": "2026-10-12",
-      "end": "2026-10-13",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849820",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/849820",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Playoffs",
-        "Tampa Bay Rays"
-      ],
-      "hash": "2d7ef22585df788d60de22df12b84fe96d4db927344ac9a3e5cc7948e5cffa81",
-      "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-08T09:08:48.640Z",
+      "modified": "2026-10-09T00:28:20.918Z",
       "sequence": 3
     },
     {
@@ -3531,12 +3466,44 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-849813@football-watchlist",
-      "gameId": "849813",
+      "uid": "mlb-849812@football-watchlist",
+      "gameId": "849812",
+      "mlbSeason": 2026,
+      "mlbGameType": "L",
+      "mlbSeriesKey": "2026/L/2",
+      "mlbSeriesGameNumber": 2,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "119",
+        "158"
+      ],
+      "selectionReasons": [
+        "MLB postseason: every game, from the Wild Card Series through the World Series."
+      ],
+      "title": "MLB: NLCS Game 2 - Los Angeles Dodgers at Milwaukee Brewers",
+      "start": "2026-10-12T21:00:00.000Z",
+      "end": "2026-10-13T00:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849812",
+      "location": "American Family Field",
+      "url": "https://www.mlb.com/gameday/849812",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Playoffs"
+      ],
+      "hash": "b0d943d556b6c42e5922e33e3d1c9e65edf995eadb8e539b3283ba81332501f9",
+      "created": "2026-09-19T11:15:49.893Z",
+      "modified": "2026-10-09T00:28:20.918Z",
+      "sequence": 3
+    },
+    {
+      "uid": "mlb-849820@football-watchlist",
+      "gameId": "849820",
       "mlbSeason": 2026,
       "mlbGameType": "L",
       "mlbSeriesKey": "2026/L/1",
-      "mlbSeriesGameNumber": 2,
+      "mlbSeriesGameNumber": 1,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "5521",
@@ -3545,23 +3512,23 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALCS Game 2 - CLE/CWS at Tampa Bay Rays [time TBA]",
-      "start": "2026-10-13",
-      "end": "2026-10-14",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849813",
+      "title": "MLB: ALCS Game 1 - CLE/CWS at Tampa Bay Rays",
+      "start": "2026-10-13T00:00:00.000Z",
+      "end": "2026-10-13T03:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849820",
       "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/849813",
+      "url": "https://www.mlb.com/gameday/849820",
       "status": "TENTATIVE",
       "categories": [
         "MLB",
         "Playoffs",
         "Tampa Bay Rays"
       ],
-      "hash": "56f611214a6db346a4fcaf69375be7398488228f83579951dc66b8b3607b81ef",
+      "hash": "b40d8413e35f7504b868eb22fbcf3ab5c70aec5d1be035850dcb8a891c8e8064",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-08T09:08:48.640Z",
-      "sequence": 3
+      "modified": "2026-10-09T00:28:20.918Z",
+      "sequence": 4
     },
     {
       "uid": "nfl-401872994@football-watchlist",
@@ -3613,36 +3580,37 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-849811@football-watchlist",
-      "gameId": "849811",
+      "uid": "mlb-849813@football-watchlist",
+      "gameId": "849813",
       "mlbSeason": 2026,
       "mlbGameType": "L",
-      "mlbSeriesKey": "2026/L/2",
-      "mlbSeriesGameNumber": 3,
+      "mlbSeriesKey": "2026/L/1",
+      "mlbSeriesGameNumber": 2,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
-        "158",
-        "119"
+        "5521",
+        "139"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NLCS Game 3 - Milwaukee Brewers at Los Angeles Dodgers [time TBA]",
-      "start": "2026-10-14",
-      "end": "2026-10-15",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849811",
-      "location": "UNIQLO Field at Dodger Stadium",
-      "url": "https://www.mlb.com/gameday/849811",
+      "title": "MLB: ALCS Game 2 - CLE/CWS at Tampa Bay Rays",
+      "start": "2026-10-14T00:00:00.000Z",
+      "end": "2026-10-14T03:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849813",
+      "location": "Tropicana Field",
+      "url": "https://www.mlb.com/gameday/849813",
       "status": "TENTATIVE",
       "categories": [
         "MLB",
-        "Playoffs"
+        "Playoffs",
+        "Tampa Bay Rays"
       ],
-      "hash": "477e597b8ecf012d79b2f7ad624b622f18863053d3131460412171f417b03487",
+      "hash": "fd25fa11497d22e9d3379c9adf456ff35834c6bfd3a046a4386253888dce4cb9",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-08T09:08:48.640Z",
-      "sequence": 2
+      "modified": "2026-10-09T00:28:20.918Z",
+      "sequence": 4
     },
     {
       "uid": "nhl-2026020105@football-watchlist",
@@ -3675,12 +3643,12 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-849810@football-watchlist",
-      "gameId": "849810",
+      "uid": "mlb-849811@football-watchlist",
+      "gameId": "849811",
       "mlbSeason": 2026,
       "mlbGameType": "L",
       "mlbSeriesKey": "2026/L/2",
-      "mlbSeriesGameNumber": 4,
+      "mlbSeriesGameNumber": 3,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "158",
@@ -3689,22 +3657,22 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NLCS Game 4 - Milwaukee Brewers at Los Angeles Dodgers [time TBA]",
-      "start": "2026-10-15",
-      "end": "2026-10-16",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849810",
+      "title": "MLB: NLCS Game 3 - Milwaukee Brewers at Los Angeles Dodgers",
+      "start": "2026-10-15T00:00:00.000Z",
+      "end": "2026-10-15T03:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849811",
       "location": "UNIQLO Field at Dodger Stadium",
-      "url": "https://www.mlb.com/gameday/849810",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/849811",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Playoffs"
       ],
-      "hash": "2f699deb1de4b0bfb3b2bbcdbe6b7d718534cc050de1b9c8db87d655b29d9aa4",
+      "hash": "9b6ad3dddf41508f7f24bb4158645ef7db98b8d2875ad63a04875e3406123205",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-08T09:08:48.640Z",
-      "sequence": 2
+      "modified": "2026-10-09T00:28:20.918Z",
+      "sequence": 3
     },
     {
       "uid": "mlb-849818@football-watchlist",
@@ -3721,11 +3689,11 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALCS Game 3 - Tampa Bay Rays at CLE/CWS [time TBA]",
-      "start": "2026-10-15",
-      "end": "2026-10-16",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849818",
+      "title": "MLB: ALCS Game 3 - Tampa Bay Rays at CLE/CWS",
+      "start": "2026-10-15T22:00:00.000Z",
+      "end": "2026-10-16T01:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849818",
       "location": "AL Stadium",
       "url": "https://www.mlb.com/gameday/849818",
       "status": "TENTATIVE",
@@ -3734,75 +3702,10 @@
         "Playoffs",
         "Tampa Bay Rays"
       ],
-      "hash": "92bbd4070c7277c9f9195cb39d6feacd8dd139ec23217eeed99b3ac4b3c27a77",
+      "hash": "b312a52b8c4f18e5b54b2cc29250a52fb91df7fb4f2ff25ab797d8a4ce5e9b02",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-08T09:08:48.640Z",
-      "sequence": 3
-    },
-    {
-      "uid": "mlb-849808@football-watchlist",
-      "gameId": "849808",
-      "mlbSeason": 2026,
-      "mlbGameType": "L",
-      "mlbSeriesKey": "2026/L/2",
-      "mlbSeriesGameNumber": 5,
-      "mlbIfNecessary": true,
-      "mlbTeamIds": [
-        "158",
-        "119"
-      ],
-      "selectionReasons": [
-        "MLB postseason: every game, from the Wild Card Series through the World Series."
-      ],
-      "title": "MLB: NLCS Game 5 - Milwaukee Brewers at Los Angeles Dodgers [if necessary] [time TBA]",
-      "start": "2026-10-16",
-      "end": "2026-10-17",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849808",
-      "location": "UNIQLO Field at Dodger Stadium",
-      "url": "https://www.mlb.com/gameday/849808",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Playoffs"
-      ],
-      "hash": "96847286048a58f23ad818f509e5c5fdc2d7fac857b9081ee47c540a6cd74ff3",
-      "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-08T09:08:48.640Z",
-      "sequence": 2
-    },
-    {
-      "uid": "mlb-849817@football-watchlist",
-      "gameId": "849817",
-      "mlbSeason": 2026,
-      "mlbGameType": "L",
-      "mlbSeriesKey": "2026/L/1",
-      "mlbSeriesGameNumber": 4,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "5521"
-      ],
-      "selectionReasons": [
-        "MLB postseason: every game, from the Wild Card Series through the World Series."
-      ],
-      "title": "MLB: ALCS Game 4 - Tampa Bay Rays at CLE/CWS [time TBA]",
-      "start": "2026-10-16",
-      "end": "2026-10-17",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849817",
-      "location": "AL Stadium",
-      "url": "https://www.mlb.com/gameday/849817",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Playoffs",
-        "Tampa Bay Rays"
-      ],
-      "hash": "913e210e1d1c877caf86da5abbce600df60c8960218122359f648b365481625d",
-      "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-08T09:08:48.640Z",
-      "sequence": 3
+      "modified": "2026-10-09T00:28:20.918Z",
+      "sequence": 4
     },
     {
       "uid": "nhl-2026020115@football-watchlist",
@@ -3854,6 +3757,71 @@
       "sequence": 1
     },
     {
+      "uid": "mlb-849810@football-watchlist",
+      "gameId": "849810",
+      "mlbSeason": 2026,
+      "mlbGameType": "L",
+      "mlbSeriesKey": "2026/L/2",
+      "mlbSeriesGameNumber": 4,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "158",
+        "119"
+      ],
+      "selectionReasons": [
+        "MLB postseason: every game, from the Wild Card Series through the World Series."
+      ],
+      "title": "MLB: NLCS Game 4 - Milwaukee Brewers at Los Angeles Dodgers",
+      "start": "2026-10-16T01:00:00.000Z",
+      "end": "2026-10-16T04:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849810",
+      "location": "UNIQLO Field at Dodger Stadium",
+      "url": "https://www.mlb.com/gameday/849810",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Playoffs"
+      ],
+      "hash": "26d4de8b8924e981b11b15bbf389f2c30a7a3b565c0a6e8f39d06fc424fa4bce",
+      "created": "2026-09-19T11:15:49.893Z",
+      "modified": "2026-10-09T00:28:20.918Z",
+      "sequence": 3
+    },
+    {
+      "uid": "mlb-849817@football-watchlist",
+      "gameId": "849817",
+      "mlbSeason": 2026,
+      "mlbGameType": "L",
+      "mlbSeriesKey": "2026/L/1",
+      "mlbSeriesGameNumber": 4,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "139",
+        "5521"
+      ],
+      "selectionReasons": [
+        "MLB postseason: every game, from the Wild Card Series through the World Series."
+      ],
+      "title": "MLB: ALCS Game 4 - Tampa Bay Rays at CLE/CWS",
+      "start": "2026-10-16T22:00:00.000Z",
+      "end": "2026-10-17T01:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849817",
+      "location": "AL Stadium",
+      "url": "https://www.mlb.com/gameday/849817",
+      "status": "TENTATIVE",
+      "categories": [
+        "MLB",
+        "Playoffs",
+        "Tampa Bay Rays"
+      ],
+      "hash": "1d3fec5f8cdda6d7788f1d3a26898d7cd38ca90dfa8932f669d778dd8a60a693",
+      "created": "2026-09-19T11:15:49.893Z",
+      "modified": "2026-10-09T00:28:20.918Z",
+      "sequence": 4
+    },
+    {
       "uid": "college-football-401858490@football-watchlist",
       "gameId": "401858490",
       "title": "CFB: Penn State at Michigan [time TBA]",
@@ -3875,36 +3843,35 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-849816@football-watchlist",
-      "gameId": "849816",
+      "uid": "mlb-849808@football-watchlist",
+      "gameId": "849808",
       "mlbSeason": 2026,
       "mlbGameType": "L",
-      "mlbSeriesKey": "2026/L/1",
+      "mlbSeriesKey": "2026/L/2",
       "mlbSeriesGameNumber": 5,
       "mlbIfNecessary": true,
       "mlbTeamIds": [
-        "139",
-        "5521"
+        "158",
+        "119"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALCS Game 5 - Tampa Bay Rays at CLE/CWS [if necessary] [time TBA]",
-      "start": "2026-10-17",
-      "end": "2026-10-18",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849816",
-      "location": "AL Stadium",
-      "url": "https://www.mlb.com/gameday/849816",
+      "title": "MLB: NLCS Game 5 - Milwaukee Brewers at Los Angeles Dodgers [if necessary]",
+      "start": "2026-10-17T01:00:00.000Z",
+      "end": "2026-10-17T04:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849808",
+      "location": "UNIQLO Field at Dodger Stadium",
+      "url": "https://www.mlb.com/gameday/849808",
       "status": "TENTATIVE",
       "categories": [
         "MLB",
-        "Playoffs",
-        "Tampa Bay Rays"
+        "Playoffs"
       ],
-      "hash": "fc80a094565a1c115336cd4e79770f11893fe0ceb6eb58846561fa5e8ccbfbff",
+      "hash": "1c72c45c43b20712c18a981d13fbfcae53c261c6d18a8f5dd0c44d692622d4c2",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-08T09:08:48.640Z",
+      "modified": "2026-10-09T00:28:20.918Z",
       "sequence": 3
     },
     {
@@ -4153,36 +4120,37 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-849806@football-watchlist",
-      "gameId": "849806",
+      "uid": "mlb-849816@football-watchlist",
+      "gameId": "849816",
       "mlbSeason": 2026,
       "mlbGameType": "L",
-      "mlbSeriesKey": "2026/L/2",
-      "mlbSeriesGameNumber": 6,
+      "mlbSeriesKey": "2026/L/1",
+      "mlbSeriesGameNumber": 5,
       "mlbIfNecessary": true,
       "mlbTeamIds": [
-        "119",
-        "158"
+        "139",
+        "5521"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NLCS Game 6 - Los Angeles Dodgers at Milwaukee Brewers [if necessary] [time TBA]",
-      "start": "2026-10-18",
-      "end": "2026-10-19",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849806",
-      "location": "American Family Field",
-      "url": "https://www.mlb.com/gameday/849806",
+      "title": "MLB: ALCS Game 5 - Tampa Bay Rays at CLE/CWS [if necessary]",
+      "start": "2026-10-18T00:00:00.000Z",
+      "end": "2026-10-18T03:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849816",
+      "location": "AL Stadium",
+      "url": "https://www.mlb.com/gameday/849816",
       "status": "TENTATIVE",
       "categories": [
         "MLB",
-        "Playoffs"
+        "Playoffs",
+        "Tampa Bay Rays"
       ],
-      "hash": "a3eeeac07d93fb4cb67c0f1bbb8d7016c469fc09b221e8a278c0cdc3ffd3d567",
+      "hash": "c2bec40395f47d5c9be9e60b5103f390b809510fa84aadffedad35b675adee6a",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-08T09:08:48.640Z",
-      "sequence": 2
+      "modified": "2026-10-09T00:28:20.918Z",
+      "sequence": 4
     },
     {
       "uid": "nfl-401872996@football-watchlist",
@@ -4223,12 +4191,12 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-849807@football-watchlist",
-      "gameId": "849807",
+      "uid": "mlb-849806@football-watchlist",
+      "gameId": "849806",
       "mlbSeason": 2026,
       "mlbGameType": "L",
       "mlbSeriesKey": "2026/L/2",
-      "mlbSeriesGameNumber": 7,
+      "mlbSeriesGameNumber": 6,
       "mlbIfNecessary": true,
       "mlbTeamIds": [
         "119",
@@ -4237,54 +4205,21 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: NLCS Game 7 - Los Angeles Dodgers at Milwaukee Brewers [if necessary] [time TBA]",
-      "start": "2026-10-19",
-      "end": "2026-10-20",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849807",
+      "title": "MLB: NLCS Game 6 - Los Angeles Dodgers at Milwaukee Brewers [if necessary]",
+      "start": "2026-10-19T00:00:00.000Z",
+      "end": "2026-10-19T03:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849806",
       "location": "American Family Field",
-      "url": "https://www.mlb.com/gameday/849807",
+      "url": "https://www.mlb.com/gameday/849806",
       "status": "TENTATIVE",
       "categories": [
         "MLB",
         "Playoffs"
       ],
-      "hash": "cfe4947af2e9f691d66d35f9e95cf6ae89bed062966a5ec382321040a9bdcbcb",
+      "hash": "a98eb11004f2e17c64919e9e42903ddaa1ac808f8e6fe569f5b286e45151a21d",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-08T09:08:48.640Z",
-      "sequence": 2
-    },
-    {
-      "uid": "mlb-849815@football-watchlist",
-      "gameId": "849815",
-      "mlbSeason": 2026,
-      "mlbGameType": "L",
-      "mlbSeriesKey": "2026/L/1",
-      "mlbSeriesGameNumber": 6,
-      "mlbIfNecessary": true,
-      "mlbTeamIds": [
-        "5521",
-        "139"
-      ],
-      "selectionReasons": [
-        "MLB postseason: every game, from the Wild Card Series through the World Series."
-      ],
-      "title": "MLB: ALCS Game 6 - CLE/CWS at Tampa Bay Rays [if necessary] [time TBA]",
-      "start": "2026-10-19",
-      "end": "2026-10-20",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849815",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/849815",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Playoffs",
-        "Tampa Bay Rays"
-      ],
-      "hash": "59588463601a500191fc1ab6dcdf22870771abebac1312b7e796898a6bd1de90",
-      "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-08T09:08:48.640Z",
+      "modified": "2026-10-09T00:28:20.918Z",
       "sequence": 3
     },
     {
@@ -4337,6 +4272,39 @@
       "sequence": 1
     },
     {
+      "uid": "mlb-849815@football-watchlist",
+      "gameId": "849815",
+      "mlbSeason": 2026,
+      "mlbGameType": "L",
+      "mlbSeriesKey": "2026/L/1",
+      "mlbSeriesGameNumber": 6,
+      "mlbIfNecessary": true,
+      "mlbTeamIds": [
+        "5521",
+        "139"
+      ],
+      "selectionReasons": [
+        "MLB postseason: every game, from the Wild Card Series through the World Series."
+      ],
+      "title": "MLB: ALCS Game 6 - CLE/CWS at Tampa Bay Rays [if necessary]",
+      "start": "2026-10-19T21:00:00.000Z",
+      "end": "2026-10-20T00:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849815",
+      "location": "Tropicana Field",
+      "url": "https://www.mlb.com/gameday/849815",
+      "status": "TENTATIVE",
+      "categories": [
+        "MLB",
+        "Playoffs",
+        "Tampa Bay Rays"
+      ],
+      "hash": "67b5a4424688b094c9bace4b83aa7af8de572323512245ed9155037cf9fdfe3e",
+      "created": "2026-09-19T11:15:49.893Z",
+      "modified": "2026-10-09T00:28:20.918Z",
+      "sequence": 4
+    },
+    {
       "uid": "nhl-2026020139@football-watchlist",
       "gameId": "2026020139",
       "nhlSeason": 20262027,
@@ -4367,36 +4335,35 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-849814@football-watchlist",
-      "gameId": "849814",
+      "uid": "mlb-849807@football-watchlist",
+      "gameId": "849807",
       "mlbSeason": 2026,
       "mlbGameType": "L",
-      "mlbSeriesKey": "2026/L/1",
+      "mlbSeriesKey": "2026/L/2",
       "mlbSeriesGameNumber": 7,
       "mlbIfNecessary": true,
       "mlbTeamIds": [
-        "5521",
-        "139"
+        "119",
+        "158"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALCS Game 7 - CLE/CWS at Tampa Bay Rays [if necessary] [time TBA]",
-      "start": "2026-10-20",
-      "end": "2026-10-21",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849814",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/849814",
+      "title": "MLB: NLCS Game 7 - Los Angeles Dodgers at Milwaukee Brewers [if necessary]",
+      "start": "2026-10-20T00:00:00.000Z",
+      "end": "2026-10-20T03:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849807",
+      "location": "American Family Field",
+      "url": "https://www.mlb.com/gameday/849807",
       "status": "TENTATIVE",
       "categories": [
         "MLB",
-        "Playoffs",
-        "Tampa Bay Rays"
+        "Playoffs"
       ],
-      "hash": "7bbbc2ed01222b17461223afde6846761357dffc647fb6f788abe0bd1a25acb2",
+      "hash": "bb9fc7195b3731d1001a2cc7473e25e3b271eef94ff239c09da7877c444011ee",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-08T09:08:48.640Z",
+      "modified": "2026-10-09T00:28:20.918Z",
       "sequence": 3
     },
     {
@@ -4447,6 +4414,39 @@
       "created": "2026-10-01T07:37:11.478Z",
       "modified": "2026-10-01T07:37:11.478Z",
       "sequence": 0
+    },
+    {
+      "uid": "mlb-849814@football-watchlist",
+      "gameId": "849814",
+      "mlbSeason": 2026,
+      "mlbGameType": "L",
+      "mlbSeriesKey": "2026/L/1",
+      "mlbSeriesGameNumber": 7,
+      "mlbIfNecessary": true,
+      "mlbTeamIds": [
+        "5521",
+        "139"
+      ],
+      "selectionReasons": [
+        "MLB postseason: every game, from the Wild Card Series through the World Series."
+      ],
+      "title": "MLB: ALCS Game 7 - CLE/CWS at Tampa Bay Rays [if necessary]",
+      "start": "2026-10-21T00:00:00.000Z",
+      "end": "2026-10-21T03:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849814",
+      "location": "Tropicana Field",
+      "url": "https://www.mlb.com/gameday/849814",
+      "status": "TENTATIVE",
+      "categories": [
+        "MLB",
+        "Playoffs",
+        "Tampa Bay Rays"
+      ],
+      "hash": "2b4cf2936906ebaac6720f7563a538ca7fd86f3c737618f17d2586eddd51fb28",
+      "created": "2026-09-19T11:15:49.893Z",
+      "modified": "2026-10-09T00:28:20.918Z",
+      "sequence": 4
     },
     {
       "uid": "nhl-2026020150@football-watchlist",
@@ -4517,13 +4517,13 @@
       "mlbSeriesGameNumber": 1,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
-        "2711",
-        "2710"
+        "21",
+        "31"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: World Series Game 1 - Lower Seed League Champion at Higher Seed League Champion [time TBA]",
+      "title": "MLB: World Series Game 1 - AL Champion at NL Champion [time TBA]",
       "start": "2026-10-23",
       "end": "2026-10-24",
       "allDay": true,
@@ -4535,10 +4535,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "3fb1528c22a102aa33f38eec52bac0e116aadd6e9886396b027b67d698f0359e",
+      "hash": "8028492c4752976192f9af27fe4301714a00169b09aa8f0d810514d1811952d9",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-04T18:12:38.845Z",
-      "sequence": 2
+      "modified": "2026-10-09T00:28:20.918Z",
+      "sequence": 3
     },
     {
       "uid": "nfl-401873010@football-watchlist",
@@ -4681,13 +4681,13 @@
       "mlbSeriesGameNumber": 2,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
-        "2711",
-        "2710"
+        "21",
+        "31"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: World Series Game 2 - Lower Seed League Champion at Higher Seed League Champion [time TBA]",
+      "title": "MLB: World Series Game 2 - AL Champion at NL Champion [time TBA]",
       "start": "2026-10-24",
       "end": "2026-10-25",
       "allDay": true,
@@ -4699,10 +4699,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "b973c967cd75fb117bc9852ddc30b54e7875a70a5b217b19645f3e05b3db919b",
+      "hash": "d9bcfc9bc1f26ff98190db473a9c8b78ea974d3cd5204f223c63576bc7d8648d",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-04T18:12:38.845Z",
-      "sequence": 2
+      "modified": "2026-10-09T00:28:20.918Z",
+      "sequence": 3
     },
     {
       "uid": "show-gameday-2026-10-24@football-watchlist",
@@ -4873,13 +4873,13 @@
       "mlbSeriesGameNumber": 3,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
-        "2710",
-        "2711"
+        "31",
+        "21"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: World Series Game 3 - Higher Seed League Champion at Lower Seed League Champion [time TBA]",
+      "title": "MLB: World Series Game 3 - NL Champion at AL Champion [time TBA]",
       "start": "2026-10-26",
       "end": "2026-10-27",
       "allDay": true,
@@ -4891,10 +4891,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "11fecd8ee5d33dea93e054eab70f77a59caaabf7b4a13252a9f50737954911ba",
+      "hash": "aa61a3e3a06d52c4eb8382ee35f3437a9b6f3985c3bb1182b1c8ebcaf5f9a632",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-04T18:12:38.845Z",
-      "sequence": 2
+      "modified": "2026-10-09T00:28:20.918Z",
+      "sequence": 3
     },
     {
       "uid": "nfl-401873022@football-watchlist",
@@ -4924,13 +4924,13 @@
       "mlbSeriesGameNumber": 4,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
-        "2710",
-        "2711"
+        "31",
+        "21"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: World Series Game 4 - Higher Seed League Champion at Lower Seed League Champion [time TBA]",
+      "title": "MLB: World Series Game 4 - NL Champion at AL Champion [time TBA]",
       "start": "2026-10-27",
       "end": "2026-10-28",
       "allDay": true,
@@ -4942,10 +4942,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "84b7cd04b3f5600ec4983ea899f5ef309db965f575134cd78eaa955da45d7cd3",
+      "hash": "bd06fb9cf5867ea241783cfa8ec86a17436b9628f17e92218e16103cc8347b3d",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-04T18:12:38.845Z",
-      "sequence": 2
+      "modified": "2026-10-09T00:28:20.918Z",
+      "sequence": 3
     },
     {
       "uid": "nfl-401873009@football-watchlist",
@@ -4954,17 +4954,17 @@
       "start": "2026-10-27T00:15:00.000Z",
       "end": "2026-10-27T03:45:00.000Z",
       "allDay": false,
-      "description": "Monday Night Football.\n\nTeams: Dallas Cowboys at Philadelphia Eagles\n\nUS broadcast: ESPN / ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873009/cowboys-eagles",
+      "description": "Monday Night Football.\n\nTeams: Dallas Cowboys at Philadelphia Eagles\n\nUS broadcast: ESPN / ABC / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873009/cowboys-eagles",
       "location": "Lincoln Financial Field, Philadelphia, PA, USA",
       "url": "https://www.espn.com/nfl/game/_/gameId/401873009/cowboys-eagles",
       "status": "CONFIRMED",
       "categories": [
         "NFL"
       ],
-      "hash": "589a6128aa75bcb79ed1bf4ea7dfa9b996db05b72d777bd516d57ec8da1136b2",
+      "hash": "b212551c310f4d7941e7d7f3ae77505aabb6d8b6e3534249dd6c2428e4e0b2b9",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 1
+      "modified": "2026-10-09T00:28:20.918Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-849799@football-watchlist",
@@ -4975,13 +4975,13 @@
       "mlbSeriesGameNumber": 5,
       "mlbIfNecessary": true,
       "mlbTeamIds": [
-        "2710",
-        "2711"
+        "31",
+        "21"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: World Series Game 5 - Higher Seed League Champion at Lower Seed League Champion [if necessary] [time TBA]",
+      "title": "MLB: World Series Game 5 - NL Champion at AL Champion [if necessary] [time TBA]",
       "start": "2026-10-28",
       "end": "2026-10-29",
       "allDay": true,
@@ -4993,10 +4993,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "cac2c2b33c89a1d209e79daa8651b0962b75c402591a5b3b3d7b67ec9bcd2401",
+      "hash": "972384e62d2acd29c344f20449e09ed9d5e6b6d7aec9acabca8edd5a96fd1391",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-04T18:12:38.845Z",
-      "sequence": 2
+      "modified": "2026-10-09T00:28:20.918Z",
+      "sequence": 3
     },
     {
       "uid": "nhl-2026020189@football-watchlist",
@@ -5121,13 +5121,13 @@
       "mlbSeriesGameNumber": 6,
       "mlbIfNecessary": true,
       "mlbTeamIds": [
-        "2711",
-        "2710"
+        "21",
+        "31"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: World Series Game 6 - Lower Seed League Champion at Higher Seed League Champion [if necessary] [time TBA]",
+      "title": "MLB: World Series Game 6 - AL Champion at NL Champion [if necessary] [time TBA]",
       "start": "2026-10-30",
       "end": "2026-10-31",
       "allDay": true,
@@ -5139,10 +5139,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "6dcf5cbfcd4740f0ba3a16eba539fed370057575e3243579d49f2e0ed81ade95",
+      "hash": "73cd7d6b6ca1a8eaac199f5ccecb497014d4d43dd9aeb6631faa829c8abab72f",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-04T18:12:38.845Z",
-      "sequence": 2
+      "modified": "2026-10-09T00:28:20.918Z",
+      "sequence": 3
     },
     {
       "uid": "nfl-401873023@football-watchlist",
@@ -5202,13 +5202,13 @@
       "mlbSeriesGameNumber": 7,
       "mlbIfNecessary": true,
       "mlbTeamIds": [
-        "2711",
-        "2710"
+        "21",
+        "31"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: World Series Game 7 - Lower Seed League Champion at Higher Seed League Champion [if necessary] [time TBA]",
+      "title": "MLB: World Series Game 7 - AL Champion at NL Champion [if necessary] [time TBA]",
       "start": "2026-10-31",
       "end": "2026-11-01",
       "allDay": true,
@@ -5220,10 +5220,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "a897286655fed029d338e841d5cc9074b62bae69a576d44201165ad54efc88ec",
+      "hash": "260d1a0ad30ac84f3a00c7b2ed44036d111455a850fec512c8e065f2d0ab82ea",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-04T18:12:38.845Z",
-      "sequence": 2
+      "modified": "2026-10-09T00:28:20.918Z",
+      "sequence": 3
     },
     {
       "uid": "chelsea-2645278@football-watchlist",
@@ -10297,7 +10297,7 @@
       "start": "2027-02-14T23:30:00.000Z",
       "end": "2027-02-15T03:30:00.000Z",
       "allDay": false,
-      "description": "NFL playoffs: every postseason game.\n\nSuper Bowl LXI\n\nTeams: TBD at TBD\n\nUS broadcast: ESPN / ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873270/tbd-tbd",
+      "description": "NFL playoffs: every postseason game.\n\nSuper Bowl LXI\n\nTeams: TBD at TBD\n\nUS broadcast: ESPN / ABC / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873270/tbd-tbd",
       "location": "SoFi Stadium, Inglewood, CA, USA",
       "url": "https://www.espn.com/nfl/game/_/gameId/401873270/tbd-tbd",
       "status": "CONFIRMED",
@@ -10305,10 +10305,10 @@
         "NFL",
         "Playoffs"
       ],
-      "hash": "c6ee93326283d1771fb70da70fffd53e6f4cf6864b8cdd8cade9d7db72b1b47d",
+      "hash": "459a851fbe252717fc65cb089f07563fc6c892093666bb409296e66f96b837b9",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
+      "modified": "2026-10-09T00:28:20.918Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026020935@football-watchlist",
