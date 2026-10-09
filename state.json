@@ -3001,7 +3001,7 @@
       "start": "2026-10-10T01:00:00.000Z",
       "end": "2026-10-10T04:30:00.000Z",
       "allDay": false,
-      "description": "National pick: a ranked team in a potentially competitive game (market spread 1.5 points at selection). Upset possibility is an estimate.\n\nTeams: Iowa Hawkeyes at Washington Huskies\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858487/iowa-washington",
+      "description": "National pick: a ranked team in a potentially competitive game (market spread 1.5 points at selection). Upset possibility is an estimate.\n\nTeams: Iowa Hawkeyes at Washington Huskies\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858487/iowa-washington",
       "location": "Husky Stadium, Seattle, WA, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401858487/iowa-washington",
       "status": "CONFIRMED",
@@ -3010,10 +3010,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 1.5 points at selection). Upset possibility is an estimate.",
-      "hash": "11d8b0a96fe48d42ce58bfcca7ea5b77f3e8dd26cad8c42340446a5e626ca263",
+      "hash": "37c260accd408152fbc96ae8fad8df9aa84dc74dce29a8acae7c19116f445f13",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
+      "modified": "2026-10-09T19:34:38.993Z",
+      "sequence": 1
     },
     {
       "uid": "show-gameday-2026-10-10@football-watchlist",
@@ -3299,7 +3299,7 @@
       "start": "2026-10-11T00:00:00.000Z",
       "end": "2026-10-11T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849831",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Sean Burke.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849831",
       "location": "Progressive Field",
       "url": "https://www.mlb.com/gameday/849831",
       "status": "CONFIRMED",
@@ -3308,10 +3308,10 @@
         "Playoffs",
         "Cleveland Guardians"
       ],
-      "hash": "de74b49b4aa305d6ea1f988b383d9c1bd3e391f8e6bbcde1cc1fc20a0d950c83",
+      "hash": "ed4f107af6888e306126a38f514f44748bfd7424ce47535be4b2a636c507bc8b",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-09T09:16:05.583Z",
-      "sequence": 10
+      "modified": "2026-10-09T19:34:38.993Z",
+      "sequence": 11
     },
     {
       "uid": "mlb-849836@football-watchlist",

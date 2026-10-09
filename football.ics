@@ -2502,19 +2502,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858487@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261009T193438Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261009T193438Z
+SEQUENCE:1
 DTSTART:20261010T010000Z
 DTEND:20261010T043000Z
 SUMMARY:CFB: Iowa at Washington
 DESCRIPTION:National pick: a ranked team in a potentially competitive game 
  (market spread 1.5 points at selection). Upset possibility is an estimate.
- \n\nTeams: Iowa Hawkeyes at Washington Huskies\n\nBroadcast to be announce
- d.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish is ap
- proximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameI
- d/401858487/iowa-washington
+ \n\nTeams: Iowa Hawkeyes at Washington Huskies\n\nUS broadcast: Fox. Avail
+ ability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champi
+ onships)\; finish is approximate.\n\nSchedule: https://www.espn.com/colleg
+ e-football/game/_/gameId/401858487/iowa-washington
 LOCATION:Husky Stadium\, Seattle\, WA\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401858487/iowa-wash
  ington
@@ -2770,18 +2770,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849831@football-watchlist
-DTSTAMP:20261009T091605Z
+DTSTAMP:20261009T193438Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261009T091605Z
-SEQUENCE:10
+LAST-MODIFIED:20261009T193438Z
+SEQUENCE:11
 DTSTART:20261011T000000Z
 DTEND:20261011T033000Z
 SUMMARY:MLB: ALDS 'B' Game 5 - Chicago White Sox at Cleveland Guardians
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability va
- ries by country and provider.\n\nOfficial schedule: https://www.mlb.com/ga
- meday/849831
+ nProbable pitchers (subject to change): Sean Burke.\n\nListed broadcasts: 
+ TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and 
+ provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849831
 LOCATION:Progressive Field
 URL:https://www.mlb.com/gameday/849831
 CATEGORIES:MLB,Playoffs,Cleveland Guardians
