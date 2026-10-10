@@ -2583,10 +2583,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856716@football-watchlist
-DTSTAMP:20261010T184214Z
+DTSTAMP:20261010T233940Z
 CREATED:20260919T072420Z
-LAST-MODIFIED:20261010T184214Z
-SEQUENCE:3
+LAST-MODIFIED:20261010T233940Z
+SEQUENCE:4
 DTSTART:20261010T160000Z
 DTEND:20261010T193000Z
 SUMMARY:CFB: Texas A&M at Missouri
@@ -2594,19 +2594,20 @@ DESCRIPTION:National pick: ranked matchup (#9 vs #20) at selection.\n\nTeam
  s: Texas A&M Aggies at Missouri Tigers\n\nUS broadcast: ABC / Disney+. Ava
  ilability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for cham
  pionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/coll
- ege-football/game/_/gameId/401856716
+ ege-football/game/_/gameId/401856716/texas-am-missouri
 LOCATION:Memorial Stadium\, Columbia\, MO\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856716
+URL:https://www.espn.com/college-football/game/_/gameId/401856716/texas-am-
+ missouri
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858481@football-watchlist
-DTSTAMP:20261010T184214Z
+DTSTAMP:20261010T233940Z
 CREATED:20261005T213612Z
-LAST-MODIFIED:20261010T184214Z
-SEQUENCE:1
+LAST-MODIFIED:20261010T233940Z
+SEQUENCE:2
 DTSTART:20261010T160000Z
 DTEND:20261010T193000Z
 SUMMARY:CFB: Indiana at Nebraska
@@ -2614,9 +2615,10 @@ DESCRIPTION:Confirmed College GameDay or Big Noon featured matchup.\n\nTeam
  s: Indiana Hoosiers at Nebraska Cornhuskers\n\nUS broadcast: Fox. Availabi
  lity elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champions
  hips)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-f
- ootball/game/_/gameId/401858481
+ ootball/game/_/gameId/401858481/indiana-nebraska
 LOCATION:Memorial Stadium (Lincoln\, NE)\, Lincoln\, NE\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858481
+URL:https://www.espn.com/college-football/game/_/gameId/401858481/indiana-n
+ ebraska
 CATEGORIES:College
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -2685,10 +2687,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856715@football-watchlist
-DTSTAMP:20260928T203617Z
+DTSTAMP:20261010T233940Z
 CREATED:20260927T230810Z
-LAST-MODIFIED:20260928T203617Z
-SEQUENCE:1
+LAST-MODIFIED:20261010T233940Z
+SEQUENCE:2
 DTSTART:20261010T230000Z
 DTEND:20261011T023000Z
 SUMMARY:CFB: LSU at Kentucky
@@ -2696,10 +2698,9 @@ DESCRIPTION:National pick: ranked matchup (#11 vs #24) at selection.\n\nTea
  ms: LSU Tigers at Kentucky Wildcats\n\nUS broadcast: ESPN. Availability el
  sewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)\;
   finish is approximate.\n\nSchedule: https://www.espn.com/college-football
- /game/_/gameId/401856715/lsu-kentucky
+ /game/_/gameId/401856715
 LOCATION:Kroger Field\, Lexington\, KY\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856715/lsu-kentu
- cky
+URL:https://www.espn.com/college-football/game/_/gameId/401856715
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -2747,10 +2748,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858485@football-watchlist
-DTSTAMP:20261008T195946Z
+DTSTAMP:20261010T233940Z
 CREATED:20260919T072420Z
-LAST-MODIFIED:20261008T195946Z
-SEQUENCE:2
+LAST-MODIFIED:20261010T233940Z
+SEQUENCE:3
 DTSTART:20261010T233000Z
 DTEND:20261011T030000Z
 SUMMARY:CFB: USC at Penn State
@@ -2758,10 +2759,9 @@ DESCRIPTION:National pick: ranked matchup (#12 vs #14) at selection.\n\nTea
  ms: USC Trojans at Penn State Nittany Lions\n\nUS broadcast: NBC / ERADM. 
  Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for c
  hampionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/c
- ollege-football/game/_/gameId/401858485/usc-penn-state
+ ollege-football/game/_/gameId/401858485
 LOCATION:Beaver Stadium\, University Park\, PA\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858485/usc-penn-
- state
+URL:https://www.espn.com/college-football/game/_/gameId/401858485
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE

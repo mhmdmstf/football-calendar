@@ -3085,19 +3085,19 @@
       "start": "2026-10-10T16:00:00.000Z",
       "end": "2026-10-10T19:30:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#9 vs #20) at selection.\n\nTeams: Texas A&M Aggies at Missouri Tigers\n\nUS broadcast: ABC / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856716",
+      "description": "National pick: ranked matchup (#9 vs #20) at selection.\n\nTeams: Texas A&M Aggies at Missouri Tigers\n\nUS broadcast: ABC / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856716/texas-am-missouri",
       "location": "Memorial Stadium, Columbia, MO, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856716",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856716/texas-am-missouri",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#9 vs #20) at selection.",
-      "hash": "bb4a4f3337bf07311b443d82551f3cd3382be166eb3d0196495c257a0df4e2b4",
+      "hash": "92d7ab4913434162ef047203d39c97cab4d642a1056b0b5d21f8e16b32f5fb8d",
       "created": "2026-09-19T07:24:20.666Z",
-      "modified": "2026-10-10T18:42:14.617Z",
-      "sequence": 3
+      "modified": "2026-10-10T23:39:40.936Z",
+      "sequence": 4
     },
     {
       "uid": "college-football-401858481@football-watchlist",
@@ -3106,17 +3106,17 @@
       "start": "2026-10-10T16:00:00.000Z",
       "end": "2026-10-10T19:30:00.000Z",
       "allDay": false,
-      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: Indiana Hoosiers at Nebraska Cornhuskers\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858481",
+      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: Indiana Hoosiers at Nebraska Cornhuskers\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858481/indiana-nebraska",
       "location": "Memorial Stadium (Lincoln, NE), Lincoln, NE, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858481",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858481/indiana-nebraska",
       "status": "CONFIRMED",
       "categories": [
         "College"
       ],
-      "hash": "e286436f6ea0407e522e7171c7311aad9cab56234193dd9bab70ee2b30562d4a",
+      "hash": "b2e53a4c153a61ba4fe784c0e17d716879dad09e089c3e3c61c8cdb5e975025b",
       "created": "2026-10-05T21:36:12.655Z",
-      "modified": "2026-10-10T18:42:14.617Z",
-      "sequence": 1
+      "modified": "2026-10-10T23:39:40.936Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401856717@football-watchlist",
@@ -3195,19 +3195,19 @@
       "start": "2026-10-10T23:00:00.000Z",
       "end": "2026-10-11T02:30:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#11 vs #24) at selection.\n\nTeams: LSU Tigers at Kentucky Wildcats\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856715/lsu-kentucky",
+      "description": "National pick: ranked matchup (#11 vs #24) at selection.\n\nTeams: LSU Tigers at Kentucky Wildcats\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856715",
       "location": "Kroger Field, Lexington, KY, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856715/lsu-kentucky",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856715",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#11 vs #24) at selection.",
-      "hash": "7e7904c9908f59dddedb1c4695eb08195c71089cb5031ec19275689cb004f94b",
+      "hash": "db532369cceb7a847f47b8a25b432d7ab3333026a9104c8abb17f16827dfd9e7",
       "created": "2026-09-27T23:08:10.280Z",
-      "modified": "2026-09-28T20:36:17.857Z",
-      "sequence": 1
+      "modified": "2026-10-10T23:39:40.936Z",
+      "sequence": 2
     },
     {
       "uid": "nhl-2026020078@football-watchlist",
@@ -3266,19 +3266,19 @@
       "start": "2026-10-10T23:30:00.000Z",
       "end": "2026-10-11T03:00:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#12 vs #14) at selection.\n\nTeams: USC Trojans at Penn State Nittany Lions\n\nUS broadcast: NBC / ERADM. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858485/usc-penn-state",
+      "description": "National pick: ranked matchup (#12 vs #14) at selection.\n\nTeams: USC Trojans at Penn State Nittany Lions\n\nUS broadcast: NBC / ERADM. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858485",
       "location": "Beaver Stadium, University Park, PA, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858485/usc-penn-state",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858485",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#12 vs #14) at selection.",
-      "hash": "9f88c6e9352f20312c15c9f35be0cd781ab3284315b2ed4aef638991c4710a30",
+      "hash": "86619e5dcc6a7d42068b82b399cdf2ed170bcecd5dfe302f1fad5c1ecbf93845",
       "created": "2026-09-19T07:24:20.666Z",
-      "modified": "2026-10-08T19:59:46.813Z",
-      "sequence": 2
+      "modified": "2026-10-10T23:39:40.936Z",
+      "sequence": 3
     },
     {
       "uid": "mlb-849831@football-watchlist",
