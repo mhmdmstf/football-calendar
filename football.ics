@@ -2770,18 +2770,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849831@football-watchlist
-DTSTAMP:20261009T193438Z
+DTSTAMP:20261010T000526Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261009T193438Z
-SEQUENCE:11
+LAST-MODIFIED:20261010T000526Z
+SEQUENCE:12
 DTSTART:20261011T000000Z
 DTEND:20261011T033000Z
 SUMMARY:MLB: ALDS 'B' Game 5 - Chicago White Sox at Cleveland Guardians
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nProbable pitchers (subject to change): Sean Burke.\n\nListed broadcasts: 
- TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and 
- provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849831
+ nProbable pitchers (subject to change): Sean Burke / Gavin Williams.\n\nLi
+ sted broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varie
+ s by country and provider.\n\nOfficial schedule: https://www.mlb.com/gamed
+ ay/849831
 LOCATION:Progressive Field
 URL:https://www.mlb.com/gameday/849831
 CATEGORIES:MLB,Playoffs,Cleveland Guardians
@@ -2873,18 +2874,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849809@football-watchlist
-DTSTAMP:20261009T002820Z
+DTSTAMP:20261010T000526Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261009T002820Z
-SEQUENCE:3
+LAST-MODIFIED:20261010T000526Z
+SEQUENCE:4
 DTSTART:20261012T000000Z
 DTEND:20261012T033000Z
 SUMMARY:MLB: NLCS Game 1 - Los Angeles Dodgers at Milwaukee Brewers
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability v
- aries by country and provider.\n\nOfficial schedule: https://www.mlb.com/g
- ameday/849809
+ nProbable pitchers (subject to change): Tarik Skubal.\n\nListed broadcasts
+ : FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country a
+ nd provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849809
 LOCATION:American Family Field
 URL:https://www.mlb.com/gameday/849809
 CATEGORIES:MLB,Playoffs
@@ -2912,18 +2913,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849812@football-watchlist
-DTSTAMP:20261009T002820Z
+DTSTAMP:20261010T000526Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261009T002820Z
-SEQUENCE:3
+LAST-MODIFIED:20261010T000526Z
+SEQUENCE:4
 DTSTART:20261012T210000Z
 DTEND:20261013T003000Z
 SUMMARY:MLB: NLCS Game 2 - Los Angeles Dodgers at Milwaukee Brewers
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varie
- s by country and provider.\n\nOfficial schedule: https://www.mlb.com/gamed
- ay/849812
+ nProbable pitchers (subject to change): Yoshinobu Yamamoto.\n\nListed broa
+ dcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country
+  and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849812
 LOCATION:American Family Field
 URL:https://www.mlb.com/gameday/849812
 CATEGORIES:MLB,Playoffs

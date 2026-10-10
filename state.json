@@ -3299,7 +3299,7 @@
       "start": "2026-10-11T00:00:00.000Z",
       "end": "2026-10-11T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Sean Burke.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849831",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Sean Burke / Gavin Williams.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849831",
       "location": "Progressive Field",
       "url": "https://www.mlb.com/gameday/849831",
       "status": "CONFIRMED",
@@ -3308,10 +3308,10 @@
         "Playoffs",
         "Cleveland Guardians"
       ],
-      "hash": "ed4f107af6888e306126a38f514f44748bfd7424ce47535be4b2a636c507bc8b",
+      "hash": "109d0ebb2411cef7b2f2dbfa382f1ec6818fcec60d5bd98e627f53f994518640",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-09T19:34:38.993Z",
-      "sequence": 11
+      "modified": "2026-10-10T00:05:26.564Z",
+      "sequence": 12
     },
     {
       "uid": "mlb-849836@football-watchlist",
@@ -3433,7 +3433,7 @@
       "start": "2026-10-12T00:00:00.000Z",
       "end": "2026-10-12T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849809",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Tarik Skubal.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849809",
       "location": "American Family Field",
       "url": "https://www.mlb.com/gameday/849809",
       "status": "CONFIRMED",
@@ -3441,10 +3441,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "f427f4cb0bbbb9c521b59f01721c563e192dd0c69234b9a84185c3ead2d5d84b",
+      "hash": "1e6ba8cd9fe47d5524a0e013bf5b7e6d902f2563944ed873522d122da57f66bd",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-09T00:28:20.918Z",
-      "sequence": 3
+      "modified": "2026-10-10T00:05:26.564Z",
+      "sequence": 4
     },
     {
       "uid": "nfl-401872993@football-watchlist",
@@ -3484,7 +3484,7 @@
       "start": "2026-10-12T21:00:00.000Z",
       "end": "2026-10-13T00:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849812",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Yoshinobu Yamamoto.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849812",
       "location": "American Family Field",
       "url": "https://www.mlb.com/gameday/849812",
       "status": "CONFIRMED",
@@ -3492,10 +3492,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "b0d943d556b6c42e5922e33e3d1c9e65edf995eadb8e539b3283ba81332501f9",
+      "hash": "09b7b501ac2609e9786b7f599cf2eeed962a218db2119737bee9f25c25330eb6",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-09T00:28:20.918Z",
-      "sequence": 3
+      "modified": "2026-10-10T00:05:26.564Z",
+      "sequence": 4
     },
     {
       "uid": "mlb-849820@football-watchlist",
