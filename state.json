@@ -1,5 +1,5 @@
 {
-  "checkedOn": "2026-10-09",
+  "checkedOn": "2026-10-10",
   "season": 2026,
   "events": [
     {
@@ -5191,6 +5191,48 @@
       "hash": "ea03e38e58dddf1a81c8d08c9276bc54c3f1f0e2f9405b2e1d9e539976cc1369",
       "created": "2026-10-01T07:37:11.478Z",
       "modified": "2026-10-01T07:37:11.478Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856737@football-watchlist",
+      "gameId": "401856737",
+      "title": "CFB: Mississippi State at Texas [time TBA]",
+      "start": "2026-10-31",
+      "end": "2026-11-01",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#1 vs #17) at selection.\n\nNIGHT: 6 - 8pm ET start\n\nTeams: Mississippi State Bulldogs at Texas Longhorns\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856737/mississippi-st-texas",
+      "location": "DKR-Texas Memorial Stadium, Austin, TX, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856737/mississippi-st-texas",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#1 vs #17) at selection.",
+      "hash": "0ee5926dd71bceab96011724b7e51266326c8e39425b1797ec8aa268f2a8b936",
+      "created": "2026-10-10T08:39:02.510Z",
+      "modified": "2026-10-10T08:39:02.510Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401858509@football-watchlist",
+      "gameId": "401858509",
+      "title": "CFB: Ohio State at USC [time TBA]",
+      "start": "2026-10-31",
+      "end": "2026-11-01",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#5 vs #19) at selection.\n\nTeams: Ohio State Buckeyes at USC Trojans\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858509/ohio-state-usc",
+      "location": "Los Angeles Memorial Coliseum, Los Angeles, CA, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858509/ohio-state-usc",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#5 vs #19) at selection.",
+      "hash": "c68e550c08b3b24e1aac55311b3da838ca71faa98d710e23fbfbc52181a2376a",
+      "created": "2026-10-10T08:39:02.510Z",
+      "modified": "2026-10-10T08:39:02.510Z",
       "sequence": 0
     },
     {
@@ -12158,14 +12200,14 @@
   "nflGames": 285,
   "collegeGames": 949,
   "baseball": {
-    "checkedOn": "2026-10-09",
+    "checkedOn": "2026-10-10",
     "season": 2026,
     "scheduleGames": 407,
     "events": 54,
     "playoffEvents": 46
   },
   "hockey": {
-    "checkedOn": "2026-10-09",
+    "checkedOn": "2026-10-10",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -12182,7 +12224,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-10-09",
+    "checkedOn": "2026-10-10",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,

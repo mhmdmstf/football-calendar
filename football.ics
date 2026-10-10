@@ -4268,6 +4268,49 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:college-football-401856737@football-watchlist
+DTSTAMP:20261010T083902Z
+CREATED:20261010T083902Z
+LAST-MODIFIED:20261010T083902Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:CFB: Mississippi State at Texas [time TBA]
+DESCRIPTION:National pick: ranked matchup (#1 vs #17) at selection.\n\nNIGH
+ T: 6 - 8pm ET start\n\nTeams: Mississippi State Bulldogs at Texas Longhorn
+ s\n\nBroadcast to be announced.\n\nKickoff has not been announced. This al
+ l-day marker will become a timed event when confirmed.\n\nSchedule: https:
+ //www.espn.com/college-football/game/_/gameId/401856737/mississippi-st-tex
+ as
+LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856737/mississip
+ pi-st-texas
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858509@football-watchlist
+DTSTAMP:20261010T083902Z
+CREATED:20261010T083902Z
+LAST-MODIFIED:20261010T083902Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:CFB: Ohio State at USC [time TBA]
+DESCRIPTION:National pick: ranked matchup (#5 vs #19) at selection.\n\nTeam
+ s: Ohio State Buckeyes at USC Trojans\n\nBroadcast to be announced.\n\nKic
+ koff has not been announced. This all-day marker will become a timed event
+  when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_
+ /gameId/401858509/ohio-state-usc
+LOCATION:Los Angeles Memorial Coliseum\, Los Angeles\, CA\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858509/ohio-stat
+ e-usc
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-849800@football-watchlist
 DTSTAMP:20261009T002820Z
 CREATED:20260919T111549Z
