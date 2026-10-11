@@ -2687,10 +2687,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856715@football-watchlist
-DTSTAMP:20261010T233940Z
+DTSTAMP:20261011T090307Z
 CREATED:20260927T230810Z
-LAST-MODIFIED:20261010T233940Z
-SEQUENCE:2
+LAST-MODIFIED:20261011T090307Z
+SEQUENCE:3
 DTSTART:20261010T230000Z
 DTEND:20261011T023000Z
 SUMMARY:CFB: LSU at Kentucky
@@ -2698,9 +2698,10 @@ DESCRIPTION:National pick: ranked matchup (#11 vs #24) at selection.\n\nTea
  ms: LSU Tigers at Kentucky Wildcats\n\nUS broadcast: ESPN. Availability el
  sewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)\;
   finish is approximate.\n\nSchedule: https://www.espn.com/college-football
- /game/_/gameId/401856715
+ /game/_/gameId/401856715/lsu-kentucky
 LOCATION:Kroger Field\, Lexington\, KY\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856715
+URL:https://www.espn.com/college-football/game/_/gameId/401856715/lsu-kentu
+ cky
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -2748,10 +2749,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858485@football-watchlist
-DTSTAMP:20261010T233940Z
+DTSTAMP:20261011T090307Z
 CREATED:20260919T072420Z
-LAST-MODIFIED:20261010T233940Z
-SEQUENCE:3
+LAST-MODIFIED:20261011T090307Z
+SEQUENCE:4
 DTSTART:20261010T233000Z
 DTEND:20261011T030000Z
 SUMMARY:CFB: USC at Penn State
@@ -2759,9 +2760,10 @@ DESCRIPTION:National pick: ranked matchup (#12 vs #14) at selection.\n\nTea
  ms: USC Trojans at Penn State Nittany Lions\n\nUS broadcast: NBC / ERADM. 
  Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for c
  hampionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/c
- ollege-football/game/_/gameId/401858485
+ ollege-football/game/_/gameId/401858485/usc-penn-state
 LOCATION:Beaver Stadium\, University Park\, PA\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858485
+URL:https://www.espn.com/college-football/game/_/gameId/401858485/usc-penn-
+ state
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -2932,23 +2934,22 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849820@football-watchlist
-DTSTAMP:20261009T002820Z
+DTSTAMP:20261011T090307Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261009T002820Z
-SEQUENCE:4
+LAST-MODIFIED:20261011T090307Z
+SEQUENCE:5
 DTSTART:20261013T000000Z
 DTEND:20261013T033000Z
-SUMMARY:MLB: ALCS Game 1 - CLE/CWS at Tampa Bay Rays
+SUMMARY:MLB: ALCS Game 1 - Cleveland Guardians at Tampa Bay Rays
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nViewing window: 3.5 hours\; finish is a
- pproximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. A
- vailability varies by country and provider.\n\nOfficial schedule: https://
- www.mlb.com/gameday/849820
+ the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
+ nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability va
+ ries by country and provider.\n\nOfficial schedule: https://www.mlb.com/ga
+ meday/849820
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/849820
-CATEGORIES:MLB,Playoffs,Tampa Bay Rays
-STATUS:TENTATIVE
+CATEGORIES:MLB,Playoffs,Cleveland Guardians,Tampa Bay Rays
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -2992,23 +2993,22 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849813@football-watchlist
-DTSTAMP:20261009T002820Z
+DTSTAMP:20261011T090307Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261009T002820Z
-SEQUENCE:4
+LAST-MODIFIED:20261011T090307Z
+SEQUENCE:5
 DTSTART:20261014T000000Z
 DTEND:20261014T033000Z
-SUMMARY:MLB: ALCS Game 2 - CLE/CWS at Tampa Bay Rays
+SUMMARY:MLB: ALCS Game 2 - Cleveland Guardians at Tampa Bay Rays
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nViewing window: 3.5 hours\; finish is a
- pproximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. A
- vailability varies by country and provider.\n\nOfficial schedule: https://
- www.mlb.com/gameday/849813
+ the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
+ nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability va
+ ries by country and provider.\n\nOfficial schedule: https://www.mlb.com/ga
+ meday/849813
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/849813
-CATEGORIES:MLB,Playoffs,Tampa Bay Rays
-STATUS:TENTATIVE
+CATEGORIES:MLB,Playoffs,Cleveland Guardians,Tampa Bay Rays
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -3053,23 +3053,22 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849818@football-watchlist
-DTSTAMP:20261009T002820Z
+DTSTAMP:20261011T090307Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261009T002820Z
-SEQUENCE:4
+LAST-MODIFIED:20261011T090307Z
+SEQUENCE:5
 DTSTART:20261015T220000Z
 DTEND:20261016T013000Z
-SUMMARY:MLB: ALCS Game 3 - Tampa Bay Rays at CLE/CWS
+SUMMARY:MLB: ALCS Game 3 - Tampa Bay Rays at Cleveland Guardians
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nViewing window: 3.5 hours\; finish is a
- pproximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. A
- vailability varies by country and provider.\n\nOfficial schedule: https://
- www.mlb.com/gameday/849818
-LOCATION:AL Stadium
+ the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
+ nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability va
+ ries by country and provider.\n\nOfficial schedule: https://www.mlb.com/ga
+ meday/849818
+LOCATION:Progressive Field
 URL:https://www.mlb.com/gameday/849818
-CATEGORIES:MLB,Playoffs,Tampa Bay Rays
-STATUS:TENTATIVE
+CATEGORIES:MLB,Playoffs,Tampa Bay Rays,Cleveland Guardians
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -3134,45 +3133,23 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849817@football-watchlist
-DTSTAMP:20261009T002820Z
+DTSTAMP:20261011T090307Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261009T002820Z
-SEQUENCE:4
+LAST-MODIFIED:20261011T090307Z
+SEQUENCE:5
 DTSTART:20261016T220000Z
 DTEND:20261017T013000Z
-SUMMARY:MLB: ALCS Game 4 - Tampa Bay Rays at CLE/CWS
+SUMMARY:MLB: ALCS Game 4 - Tampa Bay Rays at Cleveland Guardians
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nViewing window: 3.5 hours\; finish is a
- pproximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. A
- vailability varies by country and provider.\n\nOfficial schedule: https://
- www.mlb.com/gameday/849817
-LOCATION:AL Stadium
+ the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
+ nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability va
+ ries by country and provider.\n\nOfficial schedule: https://www.mlb.com/ga
+ meday/849817
+LOCATION:Progressive Field
 URL:https://www.mlb.com/gameday/849817
-CATEGORIES:MLB,Playoffs,Tampa Bay Rays
-STATUS:TENTATIVE
+CATEGORIES:MLB,Playoffs,Tampa Bay Rays,Cleveland Guardians
+STATUS:CONFIRMED
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401858490@football-watchlist
-DTSTAMP:20260926T075051Z
-CREATED:20260926T075051Z
-LAST-MODIFIED:20260926T075051Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:CFB: Penn State at Michigan [time TBA]
-DESCRIPTION:National pick: ranked matchup (#13 vs #18) at selection.\n\nTea
- ms: Penn State Nittany Lions at Michigan Wolverines\n\nBroadcast to be ann
- ounced.\n\nKickoff has not been announced. This all-day marker will become
-  a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-f
- ootball/game/_/gameId/401858490/penn-state-michigan
-LOCATION:Michigan Stadium\, Ann Arbor\, MI\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858490/penn-stat
- e-michigan
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849808@football-watchlist
@@ -3258,18 +3235,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856724@football-watchlist
-DTSTAMP:20261005T213612Z
+DTSTAMP:20261011T090307Z
 CREATED:20260926T075051Z
-LAST-MODIFIED:20261005T213612Z
-SEQUENCE:1
+LAST-MODIFIED:20261011T090307Z
+SEQUENCE:2
 DTSTART:20261017T160000Z
 DTEND:20261017T193000Z
 SUMMARY:CFB: Florida at Texas
 DESCRIPTION:National pick: ranked matchup (#1 vs #21) at selection.\n\nTeam
- s: Florida Gators at Texas Longhorns\n\nBroadcast to be announced.\n\nView
- ing window: 3.5 hours (4 hours for championships)\; finish is approximate.
- \n\nSchedule: https://www.espn.com/college-football/game/_/gameId/40185672
- 4/florida-texas
+ s: Florida Gators at Texas Longhorns\n\nUS broadcast: ABC. Availability el
+ sewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)\;
+  finish is approximate.\n\nSchedule: https://www.espn.com/college-football
+ /game/_/gameId/401856724/florida-texas
 LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856724/florida-t
  exas
@@ -3300,18 +3277,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856721@football-watchlist
-DTSTAMP:20261005T213612Z
+DTSTAMP:20261011T090307Z
 CREATED:20260926T075051Z
-LAST-MODIFIED:20261005T213612Z
-SEQUENCE:1
+LAST-MODIFIED:20261011T090307Z
+SEQUENCE:2
 DTSTART:20261017T193000Z
 DTEND:20261017T230000Z
 SUMMARY:CFB: Missouri at Ole Miss
 DESCRIPTION:National pick: ranked matchup (#4 vs #19) at selection.\n\nTeam
- s: Missouri Tigers at Ole Miss Rebels\n\nBroadcast to be announced.\n\nVie
- wing window: 3.5 hours (4 hours for championships)\; finish is approximate
- .\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/4018567
- 21/missouri-ole-miss
+ s: Missouri Tigers at Ole Miss Rebels\n\nUS broadcast: SEC Network. Availa
+ bility elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champio
+ nships)\; finish is approximate.\n\nSchedule: https://www.espn.com/college
+ -football/game/_/gameId/401856721/missouri-ole-miss
 LOCATION:Vaught-Hemingway Stadium\, Oxford\, MS\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856721/missouri-
  ole-miss
@@ -3321,22 +3298,43 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856723@football-watchlist
-DTSTAMP:20261005T213612Z
+DTSTAMP:20261011T090307Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20261005T213612Z
-SEQUENCE:1
+LAST-MODIFIED:20261011T090307Z
+SEQUENCE:2
 DTSTART:20261017T193000Z
 DTEND:20261017T230000Z
 SUMMARY:CFB: Alabama at Tennessee
 DESCRIPTION:Following Alabama: every game.\nMajor rivalry: Third Saturday i
- n October.\n\nTeams: Alabama Crimson Tide at Tennessee Volunteers\n\nBroad
- cast to be announced.\n\nViewing window: 3.5 hours (4 hours for championsh
- ips)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-fo
- otball/game/_/gameId/401856723/alabama-tennessee
+ n October.\n\nTeams: Alabama Crimson Tide at Tennessee Volunteers\n\nUS br
+ oadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours 
+ (4 hours for championships)\; finish is approximate.\n\nSchedule: https://
+ www.espn.com/college-football/game/_/gameId/401856723/alabama-tennessee
 LOCATION:Neyland Stadium\, Knoxville\, TN\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856723/alabama-t
  ennessee
 CATEGORIES:College,Alabama
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858490@football-watchlist
+DTSTAMP:20261011T090307Z
+CREATED:20260926T075051Z
+LAST-MODIFIED:20261011T090307Z
+SEQUENCE:1
+DTSTART:20261017T193000Z
+DTEND:20261017T230000Z
+SUMMARY:CFB: Penn State at Michigan
+DESCRIPTION:National pick: ranked matchup (#13 vs #18) at selection.\n\nTea
+ ms: Penn State Nittany Lions at Michigan Wolverines\n\nBroadcast to be ann
+ ounced.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish 
+ is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/
+ gameId/401858490/penn-state-michigan
+LOCATION:Michigan Stadium\, Ann Arbor\, MI\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858490/penn-stat
+ e-michigan
+CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -3424,23 +3422,23 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849816@football-watchlist
-DTSTAMP:20261009T002820Z
+DTSTAMP:20261011T090307Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261009T002820Z
-SEQUENCE:4
+LAST-MODIFIED:20261011T090307Z
+SEQUENCE:5
 DTSTART:20261018T000000Z
 DTEND:20261018T033000Z
-SUMMARY:MLB: ALCS Game 5 - Tampa Bay Rays at CLE/CWS [if necessary]
+SUMMARY:MLB: ALCS Game 5 - Tampa Bay Rays at Cleveland Guardians [if necess
+ ary]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nBracket positions
-  are placeholders. Teams will update when MLB confirms the matchup.\n\nVie
- wing window: 3.5 hours\; finish is approximate.\n\nListed broadcasts: TBS/
- HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and prov
- ider.\n\nOfficial schedule: https://www.mlb.com/gameday/849816
-LOCATION:AL Stadium
+ t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
+ .5 hours\; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruT
+ V / Univision/ TUDN. Availability varies by country and provider.\n\nOffic
+ ial schedule: https://www.mlb.com/gameday/849816
+LOCATION:Progressive Field
 URL:https://www.mlb.com/gameday/849816
-CATEGORIES:MLB,Playoffs,Tampa Bay Rays
+CATEGORIES:MLB,Playoffs,Tampa Bay Rays,Cleveland Guardians
 STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
@@ -3546,23 +3544,23 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849815@football-watchlist
-DTSTAMP:20261009T002820Z
+DTSTAMP:20261011T090307Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261009T002820Z
-SEQUENCE:4
+LAST-MODIFIED:20261011T090307Z
+SEQUENCE:5
 DTSTART:20261019T210000Z
 DTEND:20261020T003000Z
-SUMMARY:MLB: ALCS Game 6 - CLE/CWS at Tampa Bay Rays [if necessary]
+SUMMARY:MLB: ALCS Game 6 - Cleveland Guardians at Tampa Bay Rays [if necess
+ ary]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nBracket positions
-  are placeholders. Teams will update when MLB confirms the matchup.\n\nVie
- wing window: 3.5 hours\; finish is approximate.\n\nListed broadcasts: TBS/
- HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and prov
- ider.\n\nOfficial schedule: https://www.mlb.com/gameday/849815
+ t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
+ .5 hours\; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruT
+ V / Univision/ TUDN. Availability varies by country and provider.\n\nOffic
+ ial schedule: https://www.mlb.com/gameday/849815
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/849815
-CATEGORIES:MLB,Playoffs,Tampa Bay Rays
+CATEGORIES:MLB,Playoffs,Cleveland Guardians,Tampa Bay Rays
 STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
@@ -3650,23 +3648,23 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849814@football-watchlist
-DTSTAMP:20261009T002820Z
+DTSTAMP:20261011T090307Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261009T002820Z
-SEQUENCE:4
+LAST-MODIFIED:20261011T090307Z
+SEQUENCE:5
 DTSTART:20261021T000000Z
 DTEND:20261021T033000Z
-SUMMARY:MLB: ALCS Game 7 - CLE/CWS at Tampa Bay Rays [if necessary]
+SUMMARY:MLB: ALCS Game 7 - Cleveland Guardians at Tampa Bay Rays [if necess
+ ary]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nBracket positions
-  are placeholders. Teams will update when MLB confirms the matchup.\n\nVie
- wing window: 3.5 hours\; finish is approximate.\n\nListed broadcasts: TBS/
- HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and prov
- ider.\n\nOfficial schedule: https://www.mlb.com/gameday/849814
+ t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
+ .5 hours\; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruT
+ V / Univision/ TUDN. Availability varies by country and provider.\n\nOffic
+ ial schedule: https://www.mlb.com/gameday/849814
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/849814
-CATEGORIES:MLB,Playoffs,Tampa Bay Rays
+CATEGORIES:MLB,Playoffs,Cleveland Guardians,Tampa Bay Rays
 STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT

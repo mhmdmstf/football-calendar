@@ -1,5 +1,5 @@
 {
-  "checkedOn": "2026-10-10",
+  "checkedOn": "2026-10-11",
   "season": 2026,
   "events": [
     {
@@ -3195,19 +3195,19 @@
       "start": "2026-10-10T23:00:00.000Z",
       "end": "2026-10-11T02:30:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#11 vs #24) at selection.\n\nTeams: LSU Tigers at Kentucky Wildcats\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856715",
+      "description": "National pick: ranked matchup (#11 vs #24) at selection.\n\nTeams: LSU Tigers at Kentucky Wildcats\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856715/lsu-kentucky",
       "location": "Kroger Field, Lexington, KY, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856715",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856715/lsu-kentucky",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#11 vs #24) at selection.",
-      "hash": "db532369cceb7a847f47b8a25b432d7ab3333026a9104c8abb17f16827dfd9e7",
+      "hash": "7e7904c9908f59dddedb1c4695eb08195c71089cb5031ec19275689cb004f94b",
       "created": "2026-09-27T23:08:10.280Z",
-      "modified": "2026-10-10T23:39:40.936Z",
-      "sequence": 2
+      "modified": "2026-10-11T09:03:07.061Z",
+      "sequence": 3
     },
     {
       "uid": "nhl-2026020078@football-watchlist",
@@ -3266,19 +3266,19 @@
       "start": "2026-10-10T23:30:00.000Z",
       "end": "2026-10-11T03:00:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#12 vs #14) at selection.\n\nTeams: USC Trojans at Penn State Nittany Lions\n\nUS broadcast: NBC / ERADM. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858485",
+      "description": "National pick: ranked matchup (#12 vs #14) at selection.\n\nTeams: USC Trojans at Penn State Nittany Lions\n\nUS broadcast: NBC / ERADM. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858485/usc-penn-state",
       "location": "Beaver Stadium, University Park, PA, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858485",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858485/usc-penn-state",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#12 vs #14) at selection.",
-      "hash": "86619e5dcc6a7d42068b82b399cdf2ed170bcecd5dfe302f1fad5c1ecbf93845",
+      "hash": "9f88c6e9352f20312c15c9f35be0cd781ab3284315b2ed4aef638991c4710a30",
       "created": "2026-09-19T07:24:20.666Z",
-      "modified": "2026-10-10T23:39:40.936Z",
-      "sequence": 3
+      "modified": "2026-10-11T09:03:07.061Z",
+      "sequence": 4
     },
     {
       "uid": "mlb-849831@football-watchlist",
@@ -3506,29 +3506,30 @@
       "mlbSeriesGameNumber": 1,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
-        "5521",
+        "114",
         "139"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALCS Game 1 - CLE/CWS at Tampa Bay Rays",
+      "title": "MLB: ALCS Game 1 - Cleveland Guardians at Tampa Bay Rays",
       "start": "2026-10-13T00:00:00.000Z",
       "end": "2026-10-13T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849820",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849820",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/849820",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Playoffs",
+        "Cleveland Guardians",
         "Tampa Bay Rays"
       ],
-      "hash": "b40d8413e35f7504b868eb22fbcf3ab5c70aec5d1be035850dcb8a891c8e8064",
+      "hash": "9e7c9fba472c1c3a31e42817410eb0133e7acc3c909f0a0ac43fac5e351741a4",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-09T00:28:20.918Z",
-      "sequence": 4
+      "modified": "2026-10-11T09:03:07.061Z",
+      "sequence": 5
     },
     {
       "uid": "nfl-401872994@football-watchlist",
@@ -3588,29 +3589,30 @@
       "mlbSeriesGameNumber": 2,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
-        "5521",
+        "114",
         "139"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALCS Game 2 - CLE/CWS at Tampa Bay Rays",
+      "title": "MLB: ALCS Game 2 - Cleveland Guardians at Tampa Bay Rays",
       "start": "2026-10-14T00:00:00.000Z",
       "end": "2026-10-14T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849813",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849813",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/849813",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Playoffs",
+        "Cleveland Guardians",
         "Tampa Bay Rays"
       ],
-      "hash": "fd25fa11497d22e9d3379c9adf456ff35834c6bfd3a046a4386253888dce4cb9",
+      "hash": "3f0fb2f109544c6e2e02714f9f48ee1c558f4e3d5bb1d7ce9299dc901e618e3a",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-09T00:28:20.918Z",
-      "sequence": 4
+      "modified": "2026-10-11T09:03:07.061Z",
+      "sequence": 5
     },
     {
       "uid": "nhl-2026020105@football-watchlist",
@@ -3684,28 +3686,29 @@
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "139",
-        "5521"
+        "114"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALCS Game 3 - Tampa Bay Rays at CLE/CWS",
+      "title": "MLB: ALCS Game 3 - Tampa Bay Rays at Cleveland Guardians",
       "start": "2026-10-15T22:00:00.000Z",
       "end": "2026-10-16T01:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849818",
-      "location": "AL Stadium",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849818",
+      "location": "Progressive Field",
       "url": "https://www.mlb.com/gameday/849818",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Playoffs",
-        "Tampa Bay Rays"
+        "Tampa Bay Rays",
+        "Cleveland Guardians"
       ],
-      "hash": "b312a52b8c4f18e5b54b2cc29250a52fb91df7fb4f2ff25ab797d8a4ce5e9b02",
+      "hash": "005e9624bfec4a197e345c19029accb1edd6f6e143622fc6f66a230cc387748b",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-09T00:28:20.918Z",
-      "sequence": 4
+      "modified": "2026-10-11T09:03:07.061Z",
+      "sequence": 5
     },
     {
       "uid": "nhl-2026020115@football-watchlist",
@@ -3798,49 +3801,29 @@
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "139",
-        "5521"
+        "114"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALCS Game 4 - Tampa Bay Rays at CLE/CWS",
+      "title": "MLB: ALCS Game 4 - Tampa Bay Rays at Cleveland Guardians",
       "start": "2026-10-16T22:00:00.000Z",
       "end": "2026-10-17T01:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849817",
-      "location": "AL Stadium",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849817",
+      "location": "Progressive Field",
       "url": "https://www.mlb.com/gameday/849817",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Playoffs",
-        "Tampa Bay Rays"
+        "Tampa Bay Rays",
+        "Cleveland Guardians"
       ],
-      "hash": "1d3fec5f8cdda6d7788f1d3a26898d7cd38ca90dfa8932f669d778dd8a60a693",
+      "hash": "1c4b0bffc46b5a1672fd423522b05d102f0e7f34e4b6c0916587b4f4e50ebeeb",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-09T00:28:20.918Z",
-      "sequence": 4
-    },
-    {
-      "uid": "college-football-401858490@football-watchlist",
-      "gameId": "401858490",
-      "title": "CFB: Penn State at Michigan [time TBA]",
-      "start": "2026-10-17",
-      "end": "2026-10-18",
-      "allDay": true,
-      "description": "National pick: ranked matchup (#13 vs #18) at selection.\n\nTeams: Penn State Nittany Lions at Michigan Wolverines\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858490/penn-state-michigan",
-      "location": "Michigan Stadium, Ann Arbor, MI, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858490/penn-state-michigan",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#13 vs #18) at selection.",
-      "hash": "e1bf326c8572d4e461c00309fcf5ce39d4824c9cfeb87b4df5172d96fe266ad1",
-      "created": "2026-09-26T07:50:51.012Z",
-      "modified": "2026-09-26T07:50:51.012Z",
-      "sequence": 0
+      "modified": "2026-10-11T09:03:07.061Z",
+      "sequence": 5
     },
     {
       "uid": "mlb-849808@football-watchlist",
@@ -3943,7 +3926,7 @@
       "start": "2026-10-17T16:00:00.000Z",
       "end": "2026-10-17T19:30:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#1 vs #21) at selection.\n\nTeams: Florida Gators at Texas Longhorns\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856724/florida-texas",
+      "description": "National pick: ranked matchup (#1 vs #21) at selection.\n\nTeams: Florida Gators at Texas Longhorns\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856724/florida-texas",
       "location": "DKR-Texas Memorial Stadium, Austin, TX, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856724/florida-texas",
       "status": "CONFIRMED",
@@ -3952,10 +3935,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#1 vs #21) at selection.",
-      "hash": "1e524425544f1f0556b73e24e4232370a84dec16f6b56ffae4feca0664ced3f4",
+      "hash": "72a9b9ffb79bd03e530ac538d94910c70f88386700663764d4e1103935f79473",
       "created": "2026-09-26T07:50:51.012Z",
-      "modified": "2026-10-05T21:36:12.655Z",
-      "sequence": 1
+      "modified": "2026-10-11T09:03:07.061Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401858488@football-watchlist",
@@ -3985,7 +3968,7 @@
       "start": "2026-10-17T19:30:00.000Z",
       "end": "2026-10-17T23:00:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#4 vs #19) at selection.\n\nTeams: Missouri Tigers at Ole Miss Rebels\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856721/missouri-ole-miss",
+      "description": "National pick: ranked matchup (#4 vs #19) at selection.\n\nTeams: Missouri Tigers at Ole Miss Rebels\n\nUS broadcast: SEC Network. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856721/missouri-ole-miss",
       "location": "Vaught-Hemingway Stadium, Oxford, MS, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856721/missouri-ole-miss",
       "status": "CONFIRMED",
@@ -3994,10 +3977,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#4 vs #19) at selection.",
-      "hash": "c54e811f0fc3b3674f69692923a8a59a4c624ebd454f512c8a0092165e713697",
+      "hash": "75ca49c48f838ff725d3a70e1d2eeaa222a066146a8b4e53150cc38f1a9aae87",
       "created": "2026-09-26T07:50:51.012Z",
-      "modified": "2026-10-05T21:36:12.655Z",
-      "sequence": 1
+      "modified": "2026-10-11T09:03:07.061Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401856723@football-watchlist",
@@ -4006,7 +3989,7 @@
       "start": "2026-10-17T19:30:00.000Z",
       "end": "2026-10-17T23:00:00.000Z",
       "allDay": false,
-      "description": "Following Alabama: every game.\nMajor rivalry: Third Saturday in October.\n\nTeams: Alabama Crimson Tide at Tennessee Volunteers\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856723/alabama-tennessee",
+      "description": "Following Alabama: every game.\nMajor rivalry: Third Saturday in October.\n\nTeams: Alabama Crimson Tide at Tennessee Volunteers\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856723/alabama-tennessee",
       "location": "Neyland Stadium, Knoxville, TN, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856723/alabama-tennessee",
       "status": "CONFIRMED",
@@ -4014,9 +3997,30 @@
         "College",
         "Alabama"
       ],
-      "hash": "19874513862237df9a6b9690657f23fe36045eda61b5e5e8e8459e56f2ccad1a",
+      "hash": "ea1cdf40aec7a05d2ef72006883d7ad1f19175be547f49b8bed3a698a698c8cf",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-10-05T21:36:12.655Z",
+      "modified": "2026-10-11T09:03:07.061Z",
+      "sequence": 2
+    },
+    {
+      "uid": "college-football-401858490@football-watchlist",
+      "gameId": "401858490",
+      "title": "CFB: Penn State at Michigan",
+      "start": "2026-10-17T19:30:00.000Z",
+      "end": "2026-10-17T23:00:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#13 vs #18) at selection.\n\nTeams: Penn State Nittany Lions at Michigan Wolverines\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858490/penn-state-michigan",
+      "location": "Michigan Stadium, Ann Arbor, MI, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858490/penn-state-michigan",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#13 vs #18) at selection.",
+      "hash": "cb28dcedcd7b8c38327524a7b508583eee8efd9461e2fbc5465bdcc0e751ac27",
+      "created": "2026-09-26T07:50:51.012Z",
+      "modified": "2026-10-11T09:03:07.061Z",
       "sequence": 1
     },
     {
@@ -4129,28 +4133,29 @@
       "mlbIfNecessary": true,
       "mlbTeamIds": [
         "139",
-        "5521"
+        "114"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALCS Game 5 - Tampa Bay Rays at CLE/CWS [if necessary]",
+      "title": "MLB: ALCS Game 5 - Tampa Bay Rays at Cleveland Guardians [if necessary]",
       "start": "2026-10-18T00:00:00.000Z",
       "end": "2026-10-18T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849816",
-      "location": "AL Stadium",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849816",
+      "location": "Progressive Field",
       "url": "https://www.mlb.com/gameday/849816",
       "status": "TENTATIVE",
       "categories": [
         "MLB",
         "Playoffs",
-        "Tampa Bay Rays"
+        "Tampa Bay Rays",
+        "Cleveland Guardians"
       ],
-      "hash": "c2bec40395f47d5c9be9e60b5103f390b809510fa84aadffedad35b675adee6a",
+      "hash": "89ce74d178d245521b01403ee8ed092a78f014925fcd0e48ee8b13b93e449989",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-09T00:28:20.918Z",
-      "sequence": 4
+      "modified": "2026-10-11T09:03:07.061Z",
+      "sequence": 5
     },
     {
       "uid": "nfl-401872996@football-watchlist",
@@ -4280,29 +4285,30 @@
       "mlbSeriesGameNumber": 6,
       "mlbIfNecessary": true,
       "mlbTeamIds": [
-        "5521",
+        "114",
         "139"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALCS Game 6 - CLE/CWS at Tampa Bay Rays [if necessary]",
+      "title": "MLB: ALCS Game 6 - Cleveland Guardians at Tampa Bay Rays [if necessary]",
       "start": "2026-10-19T21:00:00.000Z",
       "end": "2026-10-20T00:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849815",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849815",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/849815",
       "status": "TENTATIVE",
       "categories": [
         "MLB",
         "Playoffs",
+        "Cleveland Guardians",
         "Tampa Bay Rays"
       ],
-      "hash": "67b5a4424688b094c9bace4b83aa7af8de572323512245ed9155037cf9fdfe3e",
+      "hash": "b2f2e9987ee491c50e74fac22781b1f49a13bc0832d64821501912b22b417370",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-09T00:28:20.918Z",
-      "sequence": 4
+      "modified": "2026-10-11T09:03:07.061Z",
+      "sequence": 5
     },
     {
       "uid": "nhl-2026020139@football-watchlist",
@@ -4424,29 +4430,30 @@
       "mlbSeriesGameNumber": 7,
       "mlbIfNecessary": true,
       "mlbTeamIds": [
-        "5521",
+        "114",
         "139"
       ],
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALCS Game 7 - CLE/CWS at Tampa Bay Rays [if necessary]",
+      "title": "MLB: ALCS Game 7 - Cleveland Guardians at Tampa Bay Rays [if necessary]",
       "start": "2026-10-21T00:00:00.000Z",
       "end": "2026-10-21T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849814",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849814",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/849814",
       "status": "TENTATIVE",
       "categories": [
         "MLB",
         "Playoffs",
+        "Cleveland Guardians",
         "Tampa Bay Rays"
       ],
-      "hash": "2b4cf2936906ebaac6720f7563a538ca7fd86f3c737618f17d2586eddd51fb28",
+      "hash": "780f085b6c597ee9dd6c8d779ca35d286a9a4508d1f359026af517bb714417ce",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-09T00:28:20.918Z",
-      "sequence": 4
+      "modified": "2026-10-11T09:03:07.061Z",
+      "sequence": 5
     },
     {
       "uid": "nhl-2026020150@football-watchlist",
@@ -12200,14 +12207,14 @@
   "nflGames": 285,
   "collegeGames": 949,
   "baseball": {
-    "checkedOn": "2026-10-10",
+    "checkedOn": "2026-10-11",
     "season": 2026,
     "scheduleGames": 407,
     "events": 54,
     "playoffEvents": 46
   },
   "hockey": {
-    "checkedOn": "2026-10-10",
+    "checkedOn": "2026-10-11",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -12224,7 +12231,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-10-10",
+    "checkedOn": "2026-10-11",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
