@@ -3516,7 +3516,7 @@
       "start": "2026-10-13T00:00:00.000Z",
       "end": "2026-10-13T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Drew Rasmussen.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849820",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Foster Griffin / Drew Rasmussen.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849820",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/849820",
       "status": "CONFIRMED",
@@ -3526,10 +3526,10 @@
         "Cleveland Guardians",
         "Tampa Bay Rays"
       ],
-      "hash": "7d60e395403f0bc95f404a9c09d5d4b64a97cb1e35ba87ac958fd681678bb971",
+      "hash": "113ba9b1826e483857c8867081f43d458a4076e5115da6d0ddcc40d7b0a21121",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-11T18:59:59.416Z",
-      "sequence": 6
+      "modified": "2026-10-11T23:44:41.954Z",
+      "sequence": 7
     },
     {
       "uid": "nfl-401872994@football-watchlist",

@@ -2935,18 +2935,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849820@football-watchlist
-DTSTAMP:20261011T185959Z
+DTSTAMP:20261011T234441Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261011T185959Z
-SEQUENCE:6
+LAST-MODIFIED:20261011T234441Z
+SEQUENCE:7
 DTSTART:20261013T000000Z
 DTEND:20261013T033000Z
 SUMMARY:MLB: ALCS Game 1 - Cleveland Guardians at Tampa Bay Rays
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nProbable pitchers (subject to change): Drew Rasmussen.\n\nListed broadcas
- ts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country 
- and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849820
+ nProbable pitchers (subject to change): Foster Griffin / Drew Rasmussen.\n
+ \nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability v
+ aries by country and provider.\n\nOfficial schedule: https://www.mlb.com/g
+ ameday/849820
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/849820
 CATEGORIES:MLB,Playoffs,Cleveland Guardians,Tampa Bay Rays
