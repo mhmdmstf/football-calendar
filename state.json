@@ -1913,7 +1913,7 @@
       "end": "2026-10-03T02:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / MNMT / SN / TVAS. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/wsh-vs-car/2026/10/02/2026020018",
+      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / MNMT / SN / TVAS / WRAL. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/wsh-vs-car/2026/10/02/2026020018",
       "location": "Lenovo Center",
       "url": "https://www.nhl.com/gamecenter/wsh-vs-car/2026/10/02/2026020018",
       "categories": [
@@ -1921,10 +1921,10 @@
         "Regular season",
         "Carolina Hurricanes"
       ],
-      "hash": "9e5f9ea135a0a4cfa85ef0446afac1cf94b52e375d8d3720489bdd85108378a3",
+      "hash": "a01da4b06a858e0cd94a4bebb854ff571b56fd8de4963a80260a318758f1aac7",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
+      "modified": "2026-10-12T22:10:04.220Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401858476@football-watchlist",
@@ -3484,7 +3484,7 @@
       "start": "2026-10-12T21:00:00.000Z",
       "end": "2026-10-13T00:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Yoshinobu Yamamoto / Logan Henderson.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849812",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Yoshinobu Yamamoto / Logan Henderson.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849812",
       "location": "American Family Field",
       "url": "https://www.mlb.com/gameday/849812",
       "status": "CONFIRMED",
@@ -3492,10 +3492,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "2239783e6405c04ee7754007f3370f7dd9f7d3f02727f1c908b9b498eb8825d2",
+      "hash": "f8069e70ee88896aac7a609b4919821f82640c9f352c471fd745c6fcc4763282",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-11T18:59:59.416Z",
-      "sequence": 5
+      "modified": "2026-10-12T22:10:04.220Z",
+      "sequence": 6
     },
     {
       "uid": "mlb-849820@football-watchlist",
@@ -3599,7 +3599,7 @@
       "start": "2026-10-14T00:00:00.000Z",
       "end": "2026-10-14T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849813",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Parker Messick / Freddy Peralta.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849813",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/849813",
       "status": "CONFIRMED",
@@ -3609,10 +3609,10 @@
         "Cleveland Guardians",
         "Tampa Bay Rays"
       ],
-      "hash": "3f0fb2f109544c6e2e02714f9f48ee1c558f4e3d5bb1d7ce9299dc901e618e3a",
+      "hash": "b2174fb987f548bfc0ca695041c99107b833dee109155832a85002b401fa0557",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-11T09:03:07.061Z",
-      "sequence": 5
+      "modified": "2026-10-12T22:10:04.220Z",
+      "sequence": 6
     },
     {
       "uid": "nhl-2026020105@football-watchlist",
@@ -3663,7 +3663,7 @@
       "start": "2026-10-15T00:00:00.000Z",
       "end": "2026-10-15T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849811",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Robert Gasser.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849811",
       "location": "UNIQLO Field at Dodger Stadium",
       "url": "https://www.mlb.com/gameday/849811",
       "status": "CONFIRMED",
@@ -3671,10 +3671,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "9b6ad3dddf41508f7f24bb4158645ef7db98b8d2875ad63a04875e3406123205",
+      "hash": "665317c293bbc46e3c8667ebab7057bdd806fdad660c3f8f237acd65fca85840",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-09T00:28:20.918Z",
-      "sequence": 3
+      "modified": "2026-10-12T22:10:04.220Z",
+      "sequence": 4
     },
     {
       "uid": "mlb-849818@football-watchlist",
@@ -4597,47 +4597,6 @@
       "sequence": 0
     },
     {
-      "uid": "college-football-401856727@football-watchlist",
-      "gameId": "401856727",
-      "title": "CFB: Texas A&M at Alabama [time TBA]",
-      "start": "2026-10-24",
-      "end": "2026-10-25",
-      "allDay": true,
-      "description": "Following Alabama: every game.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Texas A&M Aggies at Alabama Crimson Tide\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856727/texas-am-alabama",
-      "location": "Bryant-Denny Stadium, Tuscaloosa, AL, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856727/texas-am-alabama",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "Alabama"
-      ],
-      "hash": "b6a9ad01e5daed60397fd5c8616746dd03add373227127f524a398c5360d97d5",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401856732@football-watchlist",
-      "gameId": "401856732",
-      "title": "CFB: Ole Miss at Texas [time TBA]",
-      "start": "2026-10-24",
-      "end": "2026-10-25",
-      "allDay": true,
-      "description": "National pick: ranked matchup (#1 vs #9) at selection.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Ole Miss Rebels at Texas Longhorns\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856732/ole-miss-texas",
-      "location": "DKR-Texas Memorial Stadium, Austin, TX, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856732/ole-miss-texas",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#1 vs #9) at selection.",
-      "hash": "6deeb92730d480514673082296efb86184651bfed16ce00566bb73cb369e5161",
-      "created": "2026-10-03T08:17:20.619Z",
-      "modified": "2026-10-03T08:17:20.619Z",
-      "sequence": 0
-    },
-    {
       "uid": "college-football-401856837@football-watchlist",
       "gameId": "401856837",
       "title": "CFB: Houston at Utah [time TBA]",
@@ -4656,27 +4615,6 @@
       "hash": "e18387ab299c5f5063dbe62acaedf01ff3feca73b3f005d7e72dccd7a7ca3f1c",
       "created": "2026-10-03T08:17:20.619Z",
       "modified": "2026-10-03T08:17:20.619Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401858274@football-watchlist",
-      "gameId": "401858274",
-      "title": "CFB: Pittsburgh at Miami [time TBA]",
-      "start": "2026-10-24",
-      "end": "2026-10-25",
-      "allDay": true,
-      "description": "National pick: ranked matchup (#4 vs #25) at selection.\n\nTeams: Pittsburgh Panthers at Miami Hurricanes\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858274/pitt-miami",
-      "location": "Hard Rock Stadium, Miami Gardens, FL, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858274/pitt-miami",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#4 vs #25) at selection.",
-      "hash": "5dae2cf483659c86637765144972780466f2aee5e5ea99b2936e5d9fc924b55b",
-      "created": "2026-10-04T23:17:56.177Z",
-      "modified": "2026-10-04T23:17:56.177Z",
       "sequence": 0
     },
     {
@@ -4750,6 +4688,27 @@
       "sequence": 0
     },
     {
+      "uid": "college-football-401858274@football-watchlist",
+      "gameId": "401858274",
+      "title": "CFB: Pittsburgh at Miami",
+      "start": "2026-10-24T16:00:00.000Z",
+      "end": "2026-10-24T19:30:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#4 vs #25) at selection.\n\nTeams: Pittsburgh Panthers at Miami Hurricanes\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858274/pitt-miami",
+      "location": "Hard Rock Stadium, Miami Gardens, FL, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858274/pitt-miami",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#4 vs #25) at selection.",
+      "hash": "8409c8447abbcecbf2d105c06bb714550838c246e045d79b3bb2423c639b298c",
+      "created": "2026-10-04T23:17:56.177Z",
+      "modified": "2026-10-12T22:10:04.220Z",
+      "sequence": 1
+    },
+    {
       "uid": "chelsea-2645267@football-watchlist",
       "gameId": "2645267",
       "chelseaSeason": 2026,
@@ -4771,6 +4730,26 @@
       "hash": "9fedb06d4fd28711213bd02255c99fc8cb3594a584cc4096e5281b471944e45f",
       "created": "2026-10-03T13:22:58.480Z",
       "modified": "2026-10-03T13:23:45.745Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401856727@football-watchlist",
+      "gameId": "401856727",
+      "title": "CFB: Texas A&M at Alabama",
+      "start": "2026-10-24T19:30:00.000Z",
+      "end": "2026-10-24T23:00:00.000Z",
+      "allDay": false,
+      "description": "Following Alabama: every game.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Texas A&M Aggies at Alabama Crimson Tide\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856727/texas-am-alabama",
+      "location": "Bryant-Denny Stadium, Tuscaloosa, AL, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856727/texas-am-alabama",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "Alabama"
+      ],
+      "hash": "90ead83fe2a6b493afa9694e104aa59f0dcb9f50fd0d57af838724d25cb55ae3",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-10-12T22:10:04.220Z",
       "sequence": 1
     },
     {
@@ -4832,6 +4811,27 @@
       "created": "2026-10-01T07:37:11.478Z",
       "modified": "2026-10-01T07:37:11.478Z",
       "sequence": 0
+    },
+    {
+      "uid": "college-football-401856732@football-watchlist",
+      "gameId": "401856732",
+      "title": "CFB: Ole Miss at Texas",
+      "start": "2026-10-24T23:30:00.000Z",
+      "end": "2026-10-25T03:00:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#1 vs #9) at selection.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Ole Miss Rebels at Texas Longhorns\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856732/ole-miss-texas",
+      "location": "DKR-Texas Memorial Stadium, Austin, TX, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856732/ole-miss-texas",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#1 vs #9) at selection.",
+      "hash": "862f8a00556428af4535b1419646a8809e6a7756e83d248c4eb318cc8ff42145",
+      "created": "2026-10-03T08:17:20.619Z",
+      "modified": "2026-10-12T22:10:04.220Z",
+      "sequence": 1
     },
     {
       "uid": "nfl-401873011@football-watchlist",
@@ -6073,7 +6073,7 @@
       "end": "2026-11-15T05:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Following San Jose Sharks: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: NBCSCA / Utah16. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/sjs-vs-uta/2026/11/14/2026020323",
+      "description": "Following San Jose Sharks: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: Mammoth+ / NBCSCA / Utah16. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/sjs-vs-uta/2026/11/14/2026020323",
       "location": "Delta Center",
       "url": "https://www.nhl.com/gamecenter/sjs-vs-uta/2026/11/14/2026020323",
       "categories": [
@@ -6081,10 +6081,10 @@
         "Regular season",
         "San Jose Sharks"
       ],
-      "hash": "581584f2eb695fe8a6fdda46390b9942dcdc506802f8620b7440274b109fd787",
+      "hash": "978e8bba812d1bc2cd13f0228600fa9f2ef7908ac5b9ffd7485b66e097cfe364",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
+      "modified": "2026-10-12T22:10:04.220Z",
+      "sequence": 1
     },
     {
       "uid": "nfl-401873053@football-watchlist",
@@ -7453,7 +7453,7 @@
       "end": "2026-12-06T03:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / SN. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/tor-vs-car/2026/12/05/2026020471",
+      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / SN / WRAL. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/tor-vs-car/2026/12/05/2026020471",
       "location": "Lenovo Center",
       "url": "https://www.nhl.com/gamecenter/tor-vs-car/2026/12/05/2026020471",
       "categories": [
@@ -7461,10 +7461,10 @@
         "Regular season",
         "Carolina Hurricanes"
       ],
-      "hash": "b43360ebf3d03dcef2e3eec2d4609767bfb9b7c0bad58e466d0a202b29322ee1",
+      "hash": "067c3a47551268167070aacc18f1bd898228a6f243df3b31f1f9b0b884aa2aa8",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
+      "modified": "2026-10-12T22:10:04.220Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401869532@football-watchlist",
@@ -8016,7 +8016,7 @@
       "end": "2026-12-18T05:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / SN+ / TVAS / Utah16. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/car-vs-uta/2026/12/17/2026020558",
+      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / Mammoth+ / SN+ / TVAS / Utah16. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/car-vs-uta/2026/12/17/2026020558",
       "location": "Delta Center",
       "url": "https://www.nhl.com/gamecenter/car-vs-uta/2026/12/17/2026020558",
       "categories": [
@@ -8024,10 +8024,10 @@
         "Regular season",
         "Carolina Hurricanes"
       ],
-      "hash": "e92f6eac72251e32321151d97075954777cc7edab40ba0dce0093dd62560de06",
+      "hash": "934af40d956db98c0fb02f59ba4fb68fefdf1e5007de7b0956047cc15a70936a",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
+      "modified": "2026-10-12T22:10:04.220Z",
+      "sequence": 1
     },
     {
       "uid": "chelsea-2645349@football-watchlist",
@@ -8441,7 +8441,7 @@
       "end": "2026-12-27T03:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / SN-PIT. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/pit-vs-car/2026/12/26/2026020606",
+      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / SN-PIT / WRAL. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/pit-vs-car/2026/12/26/2026020606",
       "location": "Lenovo Center",
       "url": "https://www.nhl.com/gamecenter/pit-vs-car/2026/12/26/2026020606",
       "categories": [
@@ -8449,10 +8449,10 @@
         "Regular season",
         "Carolina Hurricanes"
       ],
-      "hash": "48550b56863ca88c8b0a55c144d48c677ce7d196894b8da55121f37075c121de",
+      "hash": "cc70db8ea3005938e9c0a0c7df346e8da2afcf57e3d325686f7c9d0c26cf0d2a",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
+      "modified": "2026-10-12T22:10:04.220Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026020611@football-watchlist",
@@ -8882,7 +8882,7 @@
       "end": "2027-01-03T03:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / SCRIPPS. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/nsh-vs-car/2027/01/02/2026020659",
+      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / SCRIPPS / WRAL. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/nsh-vs-car/2027/01/02/2026020659",
       "location": "Lenovo Center",
       "url": "https://www.nhl.com/gamecenter/nsh-vs-car/2027/01/02/2026020659",
       "categories": [
@@ -8890,10 +8890,10 @@
         "Regular season",
         "Carolina Hurricanes"
       ],
-      "hash": "65d923c4f637efcccb12dcf6b917c437afc56ecbdbfa670cb6071c0ec7d011c2",
+      "hash": "5024505f4a50d02cf96e3efdc4d75d9841ac68f092f94cfba3cad85564f96289",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
+      "modified": "2026-10-12T22:10:04.220Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026020663@football-watchlist",
@@ -9670,7 +9670,7 @@
       "end": "2027-01-19T00:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Following San Jose Sharks: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: NBCSCA / Utah16. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/uta-vs-sjs/2027/01/18/2026020781",
+      "description": "Following San Jose Sharks: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: Mammoth+ / NBCSCA / Utah16. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/uta-vs-sjs/2027/01/18/2026020781",
       "location": "SAP Center at San Jose",
       "url": "https://www.nhl.com/gamecenter/uta-vs-sjs/2027/01/18/2026020781",
       "categories": [
@@ -9678,10 +9678,10 @@
         "Regular season",
         "San Jose Sharks"
       ],
-      "hash": "a51a48f055d570617b1410c147aca2af7fc2a563c2a74736ca21940b833e8aef",
+      "hash": "3e49bdd06259e41f1309884585304aca053d847fcc67a42d5dffd1ce71fd7171",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
+      "modified": "2026-10-12T22:10:04.220Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026020800@football-watchlist",
@@ -9834,7 +9834,7 @@
       "end": "2027-01-24T03:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / Prime Video. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/ana-vs-car/2027/01/23/2026020817",
+      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / Prime Video / WRAL. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/ana-vs-car/2027/01/23/2026020817",
       "location": "Lenovo Center",
       "url": "https://www.nhl.com/gamecenter/ana-vs-car/2027/01/23/2026020817",
       "categories": [
@@ -9842,10 +9842,10 @@
         "Regular season",
         "Carolina Hurricanes"
       ],
-      "hash": "c4c931e7b731f29feb19939ee41ce1f74d59dfe0cfa0a1061fc5d487d67836ad",
+      "hash": "65378bb2b561c3d536a68c8c95d56cc110e0b968dd688f3127f588c638633b09",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
+      "modified": "2026-10-12T22:10:04.220Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026020823@football-watchlist",
@@ -10128,7 +10128,7 @@
       "end": "2027-01-31T03:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: ABTV  / CARNHL / HHN. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/lak-vs-car/2027/01/30/2026020872",
+      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: ABTV  / CARNHL / HHN / WRAL. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/lak-vs-car/2027/01/30/2026020872",
       "location": "Lenovo Center",
       "url": "https://www.nhl.com/gamecenter/lak-vs-car/2027/01/30/2026020872",
       "categories": [
@@ -10136,10 +10136,10 @@
         "Regular season",
         "Carolina Hurricanes"
       ],
-      "hash": "03e4ea88b68a3240b578882d2cab4369d02a449aaa51085e11d6856aba311c52",
+      "hash": "2a2573269843f6f40bf52c8ca464f61a6a5ea74464d2f1af154c8c4d0571ddd0",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
+      "modified": "2026-10-12T22:10:04.220Z",
+      "sequence": 1
     },
     {
       "uid": "chelsea-2645432@football-watchlist",
@@ -10326,7 +10326,7 @@
       "end": "2027-02-14T03:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / MSG-B. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/buf-vs-car/2027/02/13/2026020921",
+      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / MSG-B / WRAL. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/buf-vs-car/2027/02/13/2026020921",
       "location": "Lenovo Center",
       "url": "https://www.nhl.com/gamecenter/buf-vs-car/2027/02/13/2026020921",
       "categories": [
@@ -10334,10 +10334,10 @@
         "Regular season",
         "Carolina Hurricanes"
       ],
-      "hash": "7a55f9c90d94cb885da179718eac798bebc8f56208f2eb19f01aea1d5d9a5acc",
+      "hash": "e0c446e53857ef9a7e847ddd4d09dee9c33a8be77e9953751c4041dd73e48dfc",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
+      "modified": "2026-10-12T22:10:04.220Z",
+      "sequence": 1
     },
     {
       "uid": "nfl-401873270@football-watchlist",
@@ -10755,7 +10755,7 @@
       "end": "2027-02-28T03:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / The Spot. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/tbl-vs-car/2027/02/27/2026021024",
+      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / The Spot / WRAL. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/tbl-vs-car/2027/02/27/2026021024",
       "location": "Lenovo Center",
       "url": "https://www.nhl.com/gamecenter/tbl-vs-car/2027/02/27/2026021024",
       "categories": [
@@ -10763,10 +10763,10 @@
         "Regular season",
         "Carolina Hurricanes"
       ],
-      "hash": "920e43862bd4e52d125c397fc611d914698f9e47cc9374ea8b980337a33469ff",
+      "hash": "3efca50410e232ca221027b589518debc9420728ecf2e8bd77b870a676f17c44",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
+      "modified": "2026-10-12T22:10:04.220Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026021038@football-watchlist",
@@ -11019,7 +11019,7 @@
       "end": "2027-03-07T21:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / SN / Utah16. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/uta-vs-car/2027/03/07/2026021082",
+      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / Mammoth+ / SN / Utah16. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/uta-vs-car/2027/03/07/2026021082",
       "location": "Lenovo Center",
       "url": "https://www.nhl.com/gamecenter/uta-vs-car/2027/03/07/2026021082",
       "categories": [
@@ -11027,10 +11027,10 @@
         "Regular season",
         "Carolina Hurricanes"
       ],
-      "hash": "33a595a46d9db001535eceb6912e7d95a3f7332a140eaa4bf338a23ecdfd0669",
+      "hash": "e0dac3088887a4f804942618e9d8a88931ab1461ff30da4368d76baee41359d2",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
+      "modified": "2026-10-12T22:10:04.220Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026021098@football-watchlist",
@@ -11193,7 +11193,7 @@
       "end": "2027-03-14T03:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / MSG / MSG 2. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/njd-vs-car/2027/03/13/2026021128",
+      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / MSG / MSG 2 / WRAL. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/njd-vs-car/2027/03/13/2026021128",
       "location": "Lenovo Center",
       "url": "https://www.nhl.com/gamecenter/njd-vs-car/2027/03/13/2026021128",
       "categories": [
@@ -11201,10 +11201,10 @@
         "Regular season",
         "Carolina Hurricanes"
       ],
-      "hash": "cc38c302444033ae71c361cef7106953cfe9451eecee9deaecdae8957e403ef4",
+      "hash": "6da574269c2b666af21b45ffa18c3e9f764c5b44db9393b37d0155766150b92b",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
+      "modified": "2026-10-12T22:10:04.220Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026021129@football-watchlist",
@@ -11578,7 +11578,7 @@
       "end": "2027-03-27T04:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Following San Jose Sharks: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SN1 / TVAS / Utah16. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/sjs-vs-uta/2027/03/26/2026021226",
+      "description": "Following San Jose Sharks: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: Mammoth+ / NBCSCA / SN1 / TVAS / Utah16. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/sjs-vs-uta/2027/03/26/2026021226",
       "location": "Delta Center",
       "url": "https://www.nhl.com/gamecenter/sjs-vs-uta/2027/03/26/2026021226",
       "categories": [
@@ -11586,10 +11586,10 @@
         "Regular season",
         "San Jose Sharks"
       ],
-      "hash": "3e0f646e59beaaf16bb35e05ccf849ab1ab9741281cac8737c786b0586aab939",
+      "hash": "6a4676ecc0f9175e2810b2d44112327deafeb1c29fd9444189696c62b5349baa",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
+      "modified": "2026-10-12T22:10:04.220Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026021234@football-watchlist",
@@ -11788,7 +11788,7 @@
       "end": "2027-04-04T00:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / MSGSN. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/njd-vs-car/2027/04/03/2026021281",
+      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / MSGSN / WRAL. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/njd-vs-car/2027/04/03/2026021281",
       "location": "Lenovo Center",
       "url": "https://www.nhl.com/gamecenter/njd-vs-car/2027/04/03/2026021281",
       "categories": [
@@ -11796,10 +11796,10 @@
         "Regular season",
         "Carolina Hurricanes"
       ],
-      "hash": "e13f3a8271034e823a11cb3088db3f602d29d529a71d5062102df7eb2d464009",
+      "hash": "0f2e12714de354bdff8d45935ea112ea6ca541074b683b8eaff3e9dab5483faa",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
+      "modified": "2026-10-12T22:10:04.220Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026021287@football-watchlist",

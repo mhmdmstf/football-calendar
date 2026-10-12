@@ -1672,18 +1672,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020018@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261012T221004Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261012T221004Z
+SEQUENCE:1
 DTSTART:20261002T230000Z
 DTEND:20261003T020000Z
 SUMMARY:NHL: Washington Capitals at Carolina Hurricanes
 DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
  nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
  nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / M
- NMT / SN / TVAS. Availability varies by country and provider.\n\nOfficial 
- schedule: https://www.nhl.com/gamecenter/wsh-vs-car/2026/10/02/2026020018
+ NMT / SN / TVAS / WRAL. Availability varies by country and provider.\n\nOf
+ ficial schedule: https://www.nhl.com/gamecenter/wsh-vs-car/2026/10/02/2026
+ 020018
 LOCATION:Lenovo Center
 URL:https://www.nhl.com/gamecenter/wsh-vs-car/2026/10/02/2026020018
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
@@ -2914,19 +2915,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849812@football-watchlist
-DTSTAMP:20261011T185959Z
+DTSTAMP:20261012T221004Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261011T185959Z
-SEQUENCE:5
+LAST-MODIFIED:20261012T221004Z
+SEQUENCE:6
 DTSTART:20261012T210000Z
 DTEND:20261013T003000Z
 SUMMARY:MLB: NLCS Game 2 - Los Angeles Dodgers at Milwaukee Brewers
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
  nProbable pitchers (subject to change): Yoshinobu Yamamoto / Logan Henders
- on.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX ONE. Availability
-  varies by country and provider.\n\nOfficial schedule: https://www.mlb.com
- /gameday/849812
+ on.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availabi
+ lity varies by country and provider.\n\nOfficial schedule: https://www.mlb
+ .com/gameday/849812
 LOCATION:American Family Field
 URL:https://www.mlb.com/gameday/849812
 CATEGORIES:MLB,Playoffs
@@ -2995,18 +2996,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849813@football-watchlist
-DTSTAMP:20261011T090307Z
+DTSTAMP:20261012T221004Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261011T090307Z
-SEQUENCE:5
+LAST-MODIFIED:20261012T221004Z
+SEQUENCE:6
 DTSTART:20261014T000000Z
 DTEND:20261014T033000Z
 SUMMARY:MLB: ALCS Game 2 - Cleveland Guardians at Tampa Bay Rays
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability va
- ries by country and provider.\n\nOfficial schedule: https://www.mlb.com/ga
- meday/849813
+ nProbable pitchers (subject to change): Parker Messick / Freddy Peralta.\n
+ \nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability v
+ aries by country and provider.\n\nOfficial schedule: https://www.mlb.com/g
+ ameday/849813
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/849813
 CATEGORIES:MLB,Playoffs,Cleveland Guardians,Tampa Bay Rays
@@ -3035,18 +3037,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849811@football-watchlist
-DTSTAMP:20261009T002820Z
+DTSTAMP:20261012T221004Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261009T002820Z
-SEQUENCE:3
+LAST-MODIFIED:20261012T221004Z
+SEQUENCE:4
 DTSTART:20261015T000000Z
 DTEND:20261015T033000Z
 SUMMARY:MLB: NLCS Game 3 - Milwaukee Brewers at Los Angeles Dodgers
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability v
- aries by country and provider.\n\nOfficial schedule: https://www.mlb.com/g
- ameday/849811
+ nProbable pitchers (subject to change): Robert Gasser.\n\nListed broadcast
+ s: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country 
+ and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849811
 LOCATION:UNIQLO Field at Dodger Stadium
 URL:https://www.mlb.com/gameday/849811
 CATEGORIES:MLB,Playoffs
@@ -3772,48 +3774,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:college-football-401856727@football-watchlist
-DTSTAMP:20260905T144637Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:CFB: Texas A&M at Alabama [time TBA]
-DESCRIPTION:Following Alabama: every game.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8p
- m ET start\n\nTeams: Texas A&M Aggies at Alabama Crimson Tide\n\nBroadcast
-  to be announced.\n\nKickoff has not been announced. This all-day marker w
- ill become a timed event when confirmed.\n\nSchedule: https://www.espn.com
- /college-football/game/_/gameId/401856727/texas-am-alabama
-LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856727/texas-am-
- alabama
-CATEGORIES:College,Alabama
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401856732@football-watchlist
-DTSTAMP:20261003T081720Z
-CREATED:20261003T081720Z
-LAST-MODIFIED:20261003T081720Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:CFB: Ole Miss at Texas [time TBA]
-DESCRIPTION:National pick: ranked matchup (#1 vs #9) at selection.\n\nFLEX:
-  3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Ole Miss Rebels at Texas Long
- horns\n\nBroadcast to be announced.\n\nKickoff has not been announced. Thi
- s all-day marker will become a timed event when confirmed.\n\nSchedule: ht
- tps://www.espn.com/college-football/game/_/gameId/401856732/ole-miss-texas
-LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856732/ole-miss-
- texas
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:college-football-401856837@football-watchlist
 DTSTAMP:20261003T081720Z
 CREATED:20261003T081720Z
@@ -3830,27 +3790,6 @@ DESCRIPTION:National pick: ranked matchup (#13 vs #20) at selection.\n\nTea
 LOCATION:Rice-Eccles Stadium\, Salt Lake City\, UT\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856837/houston-u
  tah
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401858274@football-watchlist
-DTSTAMP:20261004T231756Z
-CREATED:20261004T231756Z
-LAST-MODIFIED:20261004T231756Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:CFB: Pittsburgh at Miami [time TBA]
-DESCRIPTION:National pick: ranked matchup (#4 vs #25) at selection.\n\nTeam
- s: Pittsburgh Panthers at Miami Hurricanes\n\nBroadcast to be announced.\n
- \nKickoff has not been announced. This all-day marker will become a timed 
- event when confirmed.\n\nSchedule: https://www.espn.com/college-football/g
- ame/_/gameId/401858274/pitt-miami
-LOCATION:Hard Rock Stadium\, Miami Gardens\, FL\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858274/pitt-miam
- i
 CATEGORIES:College,National pick
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -3915,6 +3854,27 @@ STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:college-football-401858274@football-watchlist
+DTSTAMP:20261012T221004Z
+CREATED:20261004T231756Z
+LAST-MODIFIED:20261012T221004Z
+SEQUENCE:1
+DTSTART:20261024T160000Z
+DTEND:20261024T193000Z
+SUMMARY:CFB: Pittsburgh at Miami
+DESCRIPTION:National pick: ranked matchup (#4 vs #25) at selection.\n\nTeam
+ s: Pittsburgh Panthers at Miami Hurricanes\n\nBroadcast to be announced.\n
+ \nViewing window: 3.5 hours (4 hours for championships)\; finish is approx
+ imate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/40
+ 1858274/pitt-miami
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858274/pitt-miam
+ i
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:chelsea-2645267@football-watchlist
 DTSTAMP:20261003T132345Z
 CREATED:20261003T132258Z
@@ -3933,6 +3893,27 @@ LOCATION:Stamford Bridge
 URL:https://www.chelseafc.com/en/match/chelsea-vs-tottenham-hotspur-english
  -premier-league-2026-10-24
 CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856727@football-watchlist
+DTSTAMP:20261012T221004Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20261012T221004Z
+SEQUENCE:1
+DTSTART:20261024T193000Z
+DTEND:20261024T230000Z
+SUMMARY:CFB: Texas A&M at Alabama
+DESCRIPTION:Following Alabama: every game.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8p
+ m ET start\n\nTeams: Texas A&M Aggies at Alabama Crimson Tide\n\nUS broadc
+ ast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 h
+ ours for championships)\; finish is approximate.\n\nSchedule: https://www.
+ espn.com/college-football/game/_/gameId/401856727/texas-am-alabama
+LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856727/texas-am-
+ alabama
+CATEGORIES:College,Alabama
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -3973,6 +3954,28 @@ DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
 LOCATION:Enterprise Center
 URL:https://www.nhl.com/gamecenter/car-vs-stl/2026/10/24/2026020175
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856732@football-watchlist
+DTSTAMP:20261012T221004Z
+CREATED:20261003T081720Z
+LAST-MODIFIED:20261012T221004Z
+SEQUENCE:1
+DTSTART:20261024T233000Z
+DTEND:20261025T030000Z
+SUMMARY:CFB: Ole Miss at Texas
+DESCRIPTION:National pick: ranked matchup (#1 vs #9) at selection.\n\nFLEX:
+  3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Ole Miss Rebels at Texas Long
+ horns\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing wind
+ ow: 3.5 hours (4 hours for championships)\; finish is approximate.\n\nSche
+ dule: https://www.espn.com/college-football/game/_/gameId/401856732/ole-mi
+ ss-texas
+LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856732/ole-miss-
+ texas
+CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -4994,18 +4997,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020323@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261012T221004Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261012T221004Z
+SEQUENCE:1
 DTSTART:20261115T020000Z
 DTEND:20261115T050000Z
 SUMMARY:NHL: San Jose Sharks at Utah Mammoth
 DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
  ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
- layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / Utah16. Ava
- ilability varies by country and provider.\n\nOfficial schedule: https://ww
- w.nhl.com/gamecenter/sjs-vs-uta/2026/11/14/2026020323
+ layoff overtime can run longer.\n\nListed broadcasts: Mammoth+ / NBCSCA / 
+ Utah16. Availability varies by country and provider.\n\nOfficial schedule:
+  https://www.nhl.com/gamecenter/sjs-vs-uta/2026/11/14/2026020323
 LOCATION:Delta Center
 URL:https://www.nhl.com/gamecenter/sjs-vs-uta/2026/11/14/2026020323
 CATEGORIES:NHL,Regular season,San Jose Sharks
@@ -6226,18 +6229,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020471@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261012T221004Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261012T221004Z
+SEQUENCE:1
 DTSTART:20261206T000000Z
 DTEND:20261206T030000Z
 SUMMARY:NHL: Toronto Maple Leafs at Carolina Hurricanes
 DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
  nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
  nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / S
- N. Availability varies by country and provider.\n\nOfficial schedule: http
- s://www.nhl.com/gamecenter/tor-vs-car/2026/12/05/2026020471
+ N / WRAL. Availability varies by country and provider.\n\nOfficial schedul
+ e: https://www.nhl.com/gamecenter/tor-vs-car/2026/12/05/2026020471
 LOCATION:Lenovo Center
 URL:https://www.nhl.com/gamecenter/tor-vs-car/2026/12/05/2026020471
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
@@ -6685,19 +6688,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020558@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261012T221004Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261012T221004Z
+SEQUENCE:1
 DTSTART:20261218T020000Z
 DTEND:20261218T050000Z
 SUMMARY:NHL: Carolina Hurricanes at Utah Mammoth
 DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
  nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
- nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / S
- N+ / TVAS / Utah16. Availability varies by country and provider.\n\nOffici
- al schedule: https://www.nhl.com/gamecenter/car-vs-uta/2026/12/17/20260205
- 58
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / M
+ ammoth+ / SN+ / TVAS / Utah16. Availability varies by country and provider
+ .\n\nOfficial schedule: https://www.nhl.com/gamecenter/car-vs-uta/2026/12/
+ 17/2026020558
 LOCATION:Delta Center
 URL:https://www.nhl.com/gamecenter/car-vs-uta/2026/12/17/2026020558
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
@@ -7068,18 +7071,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020606@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261012T221004Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261012T221004Z
+SEQUENCE:1
 DTSTART:20261227T000000Z
 DTEND:20261227T030000Z
 SUMMARY:NHL: Pittsburgh Penguins at Carolina Hurricanes
 DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
  nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
  nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / S
- N-PIT. Availability varies by country and provider.\n\nOfficial schedule: 
- https://www.nhl.com/gamecenter/pit-vs-car/2026/12/26/2026020606
+ N-PIT / WRAL. Availability varies by country and provider.\n\nOfficial sch
+ edule: https://www.nhl.com/gamecenter/pit-vs-car/2026/12/26/2026020606
 LOCATION:Lenovo Center
 URL:https://www.nhl.com/gamecenter/pit-vs-car/2026/12/26/2026020606
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
@@ -7426,18 +7429,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020659@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261012T221004Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261012T221004Z
+SEQUENCE:1
 DTSTART:20270103T000000Z
 DTEND:20270103T030000Z
 SUMMARY:NHL: Nashville Predators at Carolina Hurricanes
 DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
  nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
  nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / S
- CRIPPS. Availability varies by country and provider.\n\nOfficial schedule:
-  https://www.nhl.com/gamecenter/nsh-vs-car/2027/01/02/2026020659
+ CRIPPS / WRAL. Availability varies by country and provider.\n\nOfficial sc
+ hedule: https://www.nhl.com/gamecenter/nsh-vs-car/2027/01/02/2026020659
 LOCATION:Lenovo Center
 URL:https://www.nhl.com/gamecenter/nsh-vs-car/2027/01/02/2026020659
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
@@ -8044,18 +8047,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020781@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261012T221004Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261012T221004Z
+SEQUENCE:1
 DTSTART:20270118T210000Z
 DTEND:20270119T000000Z
 SUMMARY:NHL: Utah Mammoth at San Jose Sharks
 DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
  ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
- layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / Utah16. Ava
- ilability varies by country and provider.\n\nOfficial schedule: https://ww
- w.nhl.com/gamecenter/uta-vs-sjs/2027/01/18/2026020781
+ layoff overtime can run longer.\n\nListed broadcasts: Mammoth+ / NBCSCA / 
+ Utah16. Availability varies by country and provider.\n\nOfficial schedule:
+  https://www.nhl.com/gamecenter/uta-vs-sjs/2027/01/18/2026020781
 LOCATION:SAP Center at San Jose
 URL:https://www.nhl.com/gamecenter/uta-vs-sjs/2027/01/18/2026020781
 CATEGORIES:NHL,Regular season,San Jose Sharks
@@ -8184,18 +8187,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020817@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261012T221004Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261012T221004Z
+SEQUENCE:1
 DTSTART:20270124T000000Z
 DTEND:20270124T030000Z
 SUMMARY:NHL: Anaheim Ducks at Carolina Hurricanes
 DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
  nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
  nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / P
- rime Video. Availability varies by country and provider.\n\nOfficial sched
- ule: https://www.nhl.com/gamecenter/ana-vs-car/2027/01/23/2026020817
+ rime Video / WRAL. Availability varies by country and provider.\n\nOfficia
+ l schedule: https://www.nhl.com/gamecenter/ana-vs-car/2027/01/23/202602081
+ 7
 LOCATION:Lenovo Center
 URL:https://www.nhl.com/gamecenter/ana-vs-car/2027/01/23/2026020817
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
@@ -8405,18 +8409,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020872@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261012T221004Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261012T221004Z
+SEQUENCE:1
 DTSTART:20270131T000000Z
 DTEND:20270131T030000Z
 SUMMARY:NHL: Los Angeles Kings at Carolina Hurricanes
 DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
  nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
  nd playoff overtime can run longer.\n\nListed broadcasts: ABTV  / CARNHL /
-  HHN. Availability varies by country and provider.\n\nOfficial schedule: h
- ttps://www.nhl.com/gamecenter/lak-vs-car/2027/01/30/2026020872
+  HHN / WRAL. Availability varies by country and provider.\n\nOfficial sche
+ dule: https://www.nhl.com/gamecenter/lak-vs-car/2027/01/30/2026020872
 LOCATION:Lenovo Center
 URL:https://www.nhl.com/gamecenter/lak-vs-car/2027/01/30/2026020872
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
@@ -8553,18 +8557,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020921@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261012T221004Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261012T221004Z
+SEQUENCE:1
 DTSTART:20270214T000000Z
 DTEND:20270214T030000Z
 SUMMARY:NHL: Buffalo Sabres at Carolina Hurricanes
 DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
  nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
  nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / M
- SG-B. Availability varies by country and provider.\n\nOfficial schedule: h
- ttps://www.nhl.com/gamecenter/buf-vs-car/2027/02/13/2026020921
+ SG-B / WRAL. Availability varies by country and provider.\n\nOfficial sche
+ dule: https://www.nhl.com/gamecenter/buf-vs-car/2027/02/13/2026020921
 LOCATION:Lenovo Center
 URL:https://www.nhl.com/gamecenter/buf-vs-car/2027/02/13/2026020921
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
@@ -8860,18 +8864,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026021024@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261012T221004Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261012T221004Z
+SEQUENCE:1
 DTSTART:20270228T000000Z
 DTEND:20270228T030000Z
 SUMMARY:NHL: Tampa Bay Lightning at Carolina Hurricanes
 DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
  nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
  nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / T
- he Spot. Availability varies by country and provider.\n\nOfficial schedule
- : https://www.nhl.com/gamecenter/tbl-vs-car/2027/02/27/2026021024
+ he Spot / WRAL. Availability varies by country and provider.\n\nOfficial s
+ chedule: https://www.nhl.com/gamecenter/tbl-vs-car/2027/02/27/2026021024
 LOCATION:Lenovo Center
 URL:https://www.nhl.com/gamecenter/tbl-vs-car/2027/02/27/2026021024
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
@@ -9043,18 +9047,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026021082@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261012T221004Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261012T221004Z
+SEQUENCE:1
 DTSTART:20270307T180000Z
 DTEND:20270307T210000Z
 SUMMARY:NHL: Utah Mammoth at Carolina Hurricanes
 DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
  nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
- nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / S
- N / Utah16. Availability varies by country and provider.\n\nOfficial sched
- ule: https://www.nhl.com/gamecenter/uta-vs-car/2027/03/07/2026021082
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / M
+ ammoth+ / SN / Utah16. Availability varies by country and provider.\n\nOff
+ icial schedule: https://www.nhl.com/gamecenter/uta-vs-car/2027/03/07/20260
+ 21082
 LOCATION:Lenovo Center
 URL:https://www.nhl.com/gamecenter/uta-vs-car/2027/03/07/2026021082
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
@@ -9166,18 +9171,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026021128@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261012T221004Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261012T221004Z
+SEQUENCE:1
 DTSTART:20270314T000000Z
 DTEND:20270314T030000Z
 SUMMARY:NHL: New Jersey Devils at Carolina Hurricanes
 DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
  nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
  nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / M
- SG / MSG 2. Availability varies by country and provider.\n\nOfficial sched
- ule: https://www.nhl.com/gamecenter/njd-vs-car/2027/03/13/2026021128
+ SG / MSG 2 / WRAL. Availability varies by country and provider.\n\nOfficia
+ l schedule: https://www.nhl.com/gamecenter/njd-vs-car/2027/03/13/202602112
+ 8
 LOCATION:Lenovo Center
 URL:https://www.nhl.com/gamecenter/njd-vs-car/2027/03/13/2026021128
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
@@ -9433,18 +9439,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026021226@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261012T221004Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261012T221004Z
+SEQUENCE:1
 DTSTART:20270327T010000Z
 DTEND:20270327T040000Z
 SUMMARY:NHL: San Jose Sharks at Utah Mammoth
 DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
  ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
- layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SN1 / TVAS 
- / Utah16. Availability varies by country and provider.\n\nOfficial schedul
- e: https://www.nhl.com/gamecenter/sjs-vs-uta/2027/03/26/2026021226
+ layoff overtime can run longer.\n\nListed broadcasts: Mammoth+ / NBCSCA / 
+ SN1 / TVAS / Utah16. Availability varies by country and provider.\n\nOffic
+ ial schedule: https://www.nhl.com/gamecenter/sjs-vs-uta/2027/03/26/2026021
+ 226
 LOCATION:Delta Center
 URL:https://www.nhl.com/gamecenter/sjs-vs-uta/2027/03/26/2026021226
 CATEGORIES:NHL,Regular season,San Jose Sharks
@@ -9573,18 +9580,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026021281@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261012T221004Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261012T221004Z
+SEQUENCE:1
 DTSTART:20270403T210000Z
 DTEND:20270404T000000Z
 SUMMARY:NHL: New Jersey Devils at Carolina Hurricanes
 DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
  nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
  nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / M
- SGSN. Availability varies by country and provider.\n\nOfficial schedule: h
- ttps://www.nhl.com/gamecenter/njd-vs-car/2027/04/03/2026021281
+ SGSN / WRAL. Availability varies by country and provider.\n\nOfficial sche
+ dule: https://www.nhl.com/gamecenter/njd-vs-car/2027/04/03/2026021281
 LOCATION:Lenovo Center
 URL:https://www.nhl.com/gamecenter/njd-vs-car/2027/04/03/2026021281
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
