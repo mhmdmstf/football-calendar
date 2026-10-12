@@ -3321,18 +3321,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858490@football-watchlist
-DTSTAMP:20261011T090307Z
+DTSTAMP:20261012T092427Z
 CREATED:20260926T075051Z
-LAST-MODIFIED:20261011T090307Z
-SEQUENCE:1
+LAST-MODIFIED:20261012T092427Z
+SEQUENCE:2
 DTSTART:20261017T193000Z
 DTEND:20261017T230000Z
 SUMMARY:CFB: Penn State at Michigan
 DESCRIPTION:National pick: ranked matchup (#13 vs #18) at selection.\n\nTea
- ms: Penn State Nittany Lions at Michigan Wolverines\n\nBroadcast to be ann
- ounced.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish 
- is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/
- gameId/401858490/penn-state-michigan
+ ms: Penn State Nittany Lions at Michigan Wolverines\n\nUS broadcast: CBS. 
+ Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for c
+ hampionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/c
+ ollege-football/game/_/gameId/401858490/penn-state-michigan
 LOCATION:Michigan Stadium\, Ann Arbor\, MI\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401858490/penn-stat
  e-michigan

@@ -1,5 +1,5 @@
 {
-  "checkedOn": "2026-10-11",
+  "checkedOn": "2026-10-12",
   "season": 2026,
   "events": [
     {
@@ -4009,7 +4009,7 @@
       "start": "2026-10-17T19:30:00.000Z",
       "end": "2026-10-17T23:00:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#13 vs #18) at selection.\n\nTeams: Penn State Nittany Lions at Michigan Wolverines\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858490/penn-state-michigan",
+      "description": "National pick: ranked matchup (#13 vs #18) at selection.\n\nTeams: Penn State Nittany Lions at Michigan Wolverines\n\nUS broadcast: CBS. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858490/penn-state-michigan",
       "location": "Michigan Stadium, Ann Arbor, MI, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401858490/penn-state-michigan",
       "status": "CONFIRMED",
@@ -4018,10 +4018,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#13 vs #18) at selection.",
-      "hash": "cb28dcedcd7b8c38327524a7b508583eee8efd9461e2fbc5465bdcc0e751ac27",
+      "hash": "58d663b62ab147902371ac296d18d34853e47cb18b11db6af064f67ca69aaea4",
       "created": "2026-09-26T07:50:51.012Z",
-      "modified": "2026-10-11T09:03:07.061Z",
-      "sequence": 1
+      "modified": "2026-10-12T09:24:27.386Z",
+      "sequence": 2
     },
     {
       "uid": "nhl-2026020122@football-watchlist",
@@ -12207,14 +12207,14 @@
   "nflGames": 285,
   "collegeGames": 949,
   "baseball": {
-    "checkedOn": "2026-10-11",
+    "checkedOn": "2026-10-12",
     "season": 2026,
     "scheduleGames": 407,
     "events": 54,
     "playoffEvents": 46
   },
   "hockey": {
-    "checkedOn": "2026-10-11",
+    "checkedOn": "2026-10-12",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -12231,7 +12231,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-10-11",
+    "checkedOn": "2026-10-12",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
