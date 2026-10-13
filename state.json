@@ -1,5 +1,5 @@
 {
-  "checkedOn": "2026-10-12",
+  "checkedOn": "2026-10-13",
   "season": 2026,
   "events": [
     {
@@ -3902,22 +3902,23 @@
     },
     {
       "uid": "show-bignoon-2026-10-17@football-watchlist",
-      "title": "Big Noon Kickoff: location TBA",
+      "title": "Big Noon Kickoff: Indiana vs. Ohio State",
+      "gameId": "401858488",
       "start": "2026-10-17T14:00:00.000Z",
       "end": "2026-10-17T16:00:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Usual Saturday broadcast window: 10:00 a.m. to noon Eastern on FOX. Location and this week's broadcast hours have not been confirmed. Tentative placeholder, subject to broadcast changes.\nSource: https://www.foxsports.com/big-noon-kickoff-experience",
+      "status": "CONFIRMED",
+      "description": "Big Noon Kickoff on FOX. Featured game: Indiana vs. Ohio State. Broadcast window: 10:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://www.foxsports.com/big-noon-kickoff-experience",
       "location": "",
       "url": "https://www.foxsports.com/big-noon-kickoff-experience",
       "categories": [
         "College",
         "Pregame"
       ],
-      "hash": "32961136e10e4003ed68ec48d368ad782c1c7e1a7ac358b3aa9c880b4008cada",
+      "hash": "30c4c91acd18e972d17c73996559d348616c66768d98046d2da84292864d9848",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
+      "modified": "2026-10-13T09:33:20.280Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401856724@football-watchlist",
@@ -3947,7 +3948,7 @@
       "start": "2026-10-17T16:00:00.000Z",
       "end": "2026-10-17T19:30:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#5 vs #7) at selection.\n\nTeams: Ohio State Buckeyes at Indiana Hoosiers\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858488/ohio-state-indiana",
+      "description": "Confirmed College GameDay or Big Noon featured matchup.\nNational pick: ranked matchup (#5 vs #7) at selection.\n\nTeams: Ohio State Buckeyes at Indiana Hoosiers\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858488/ohio-state-indiana",
       "location": "Memorial Stadium (Bloomington, IN), Bloomington, IN, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401858488/ohio-state-indiana",
       "status": "CONFIRMED",
@@ -3956,10 +3957,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#5 vs #7) at selection.",
-      "hash": "e4e11550bff9d2ced116dc2601954e2e10f3a776827d8b8f18778e76cd3fed0d",
+      "hash": "5b074a036e9e9e4024c10a6b0e5629725a80278b414546364f9807b98ee6212d",
       "created": "2026-09-26T07:50:51.012Z",
-      "modified": "2026-10-06T19:36:04.641Z",
-      "sequence": 1
+      "modified": "2026-10-13T09:33:20.280Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401856721@football-watchlist",
@@ -4060,17 +4061,17 @@
       "start": "2026-10-17T23:00:00.000Z",
       "end": "2026-10-18T02:30:00.000Z",
       "allDay": false,
-      "description": "Major rivalry: Florida State-Miami.\n\nTeams: Florida State Seminoles at Miami Hurricanes\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858263/florida-st-miami",
+      "description": "Major rivalry: Florida State-Miami.\n\nTeams: Florida State Seminoles at Miami Hurricanes\n\nUS broadcast: ESPN / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858263/florida-st-miami",
       "location": "Hard Rock Stadium, Miami Gardens, FL, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401858263/florida-st-miami",
       "status": "CONFIRMED",
       "categories": [
         "College"
       ],
-      "hash": "5576c829c551f4059f3bb57f07e6e83322467eb0657ea2f1bda7f9d00cc6abf3",
+      "hash": "ecfa0d3b1eaeffdd9ea8da123fe84093485be7683474bd3cc194c10142346b64",
       "created": "2026-09-05T14:52:08.096Z",
-      "modified": "2026-10-05T21:36:12.655Z",
-      "sequence": 1
+      "modified": "2026-10-13T09:33:20.280Z",
+      "sequence": 2
     },
     {
       "uid": "nhl-2026020127@football-watchlist",
@@ -12207,14 +12208,14 @@
   "nflGames": 285,
   "collegeGames": 949,
   "baseball": {
-    "checkedOn": "2026-10-12",
+    "checkedOn": "2026-10-13",
     "season": 2026,
     "scheduleGames": 407,
     "events": 54,
     "playoffEvents": 46
   },
   "hockey": {
-    "checkedOn": "2026-10-12",
+    "checkedOn": "2026-10-13",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -12231,7 +12232,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-10-12",
+    "checkedOn": "2026-10-13",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
