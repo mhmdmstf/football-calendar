@@ -3037,18 +3037,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849811@football-watchlist
-DTSTAMP:20261012T221004Z
+DTSTAMP:20261013T201653Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261012T221004Z
-SEQUENCE:4
+LAST-MODIFIED:20261013T201653Z
+SEQUENCE:5
 DTSTART:20261015T000000Z
 DTEND:20261015T033000Z
 SUMMARY:MLB: NLCS Game 3 - Milwaukee Brewers at Los Angeles Dodgers
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nProbable pitchers (subject to change): Robert Gasser.\n\nListed broadcast
- s: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country 
- and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849811
+ nProbable pitchers (subject to change): Robert Gasser / Blake Snell.\n\nLi
+ sted broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability vari
+ es by country and provider.\n\nOfficial schedule: https://www.mlb.com/game
+ day/849811
 LOCATION:UNIQLO Field at Dodger Stadium
 URL:https://www.mlb.com/gameday/849811
 CATEGORIES:MLB,Playoffs
@@ -9108,18 +9109,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026021111@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261013T201653Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261013T201653Z
+SEQUENCE:1
 DTSTART:20270312T010000Z
 DTEND:20270312T040000Z
 SUMMARY:NHL: San Jose Sharks at St. Louis Blues
 DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
  ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
- layoff overtime can run longer.\n\nListed broadcasts: BN+ / NBCSCA / STLNH
- L. Availability varies by country and provider.\n\nOfficial schedule: http
- s://www.nhl.com/gamecenter/sjs-vs-stl/2027/03/11/2026021111
+ layoff overtime can run longer.\n\nListed broadcasts: ABC32 / BN+ / NBCSCA
+  / STLNHL. Availability varies by country and provider.\n\nOfficial schedu
+ le: https://www.nhl.com/gamecenter/sjs-vs-stl/2027/03/11/2026021111
 LOCATION:Enterprise Center
 URL:https://www.nhl.com/gamecenter/sjs-vs-stl/2027/03/11/2026021111
 CATEGORIES:NHL,Regular season,San Jose Sharks

@@ -3663,7 +3663,7 @@
       "start": "2026-10-15T00:00:00.000Z",
       "end": "2026-10-15T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Robert Gasser.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849811",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Robert Gasser / Blake Snell.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849811",
       "location": "UNIQLO Field at Dodger Stadium",
       "url": "https://www.mlb.com/gameday/849811",
       "status": "CONFIRMED",
@@ -3671,10 +3671,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "665317c293bbc46e3c8667ebab7057bdd806fdad660c3f8f237acd65fca85840",
+      "hash": "04e6c981bb3210cdfa97445103b1f79fa7f4466e0c614d1f37c1ecc803423331",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-12T22:10:04.220Z",
-      "sequence": 4
+      "modified": "2026-10-13T20:16:53.396Z",
+      "sequence": 5
     },
     {
       "uid": "mlb-849818@football-watchlist",
@@ -11110,7 +11110,7 @@
       "end": "2027-03-12T04:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Following San Jose Sharks: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: BN+ / NBCSCA / STLNHL. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/sjs-vs-stl/2027/03/11/2026021111",
+      "description": "Following San Jose Sharks: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: ABC32 / BN+ / NBCSCA / STLNHL. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/sjs-vs-stl/2027/03/11/2026021111",
       "location": "Enterprise Center",
       "url": "https://www.nhl.com/gamecenter/sjs-vs-stl/2027/03/11/2026021111",
       "categories": [
@@ -11118,10 +11118,10 @@
         "Regular season",
         "San Jose Sharks"
       ],
-      "hash": "2cca2c167cf408f000ccc5e1e8511435d8387828ef34760b8e14780428c91b00",
+      "hash": "1eede40b864de4b604fb6fd3212dcac6954cd2f61a70b9c6e3b0fe1978cde2b8",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
+      "modified": "2026-10-13T20:16:53.396Z",
+      "sequence": 1
     },
     {
       "uid": "chelsea-2645477@football-watchlist",
