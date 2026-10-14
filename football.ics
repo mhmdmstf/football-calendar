@@ -3058,21 +3058,42 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849818@football-watchlist
-DTSTAMP:20261014T184332Z
+DTSTAMP:20261014T231819Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261014T184332Z
-SEQUENCE:7
+LAST-MODIFIED:20261014T231819Z
+SEQUENCE:8
 DTSTART:20261015T170000Z
 DTEND:20261015T203000Z
 SUMMARY:MLB: ALCS Game 3 - Tampa Bay Rays at Cleveland Guardians
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nProbable pitchers (subject to change): Griffin Jax.\n\nListed broadcasts:
-  TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and
-  provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849818
+ nProbable pitchers (subject to change): Griffin Jax / Gavin Williams.\n\nL
+ isted broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability vari
+ es by country and provider.\n\nOfficial schedule: https://www.mlb.com/game
+ day/849818
 LOCATION:Progressive Field
 URL:https://www.mlb.com/gameday/849818
 CATEGORIES:MLB,Playoffs,Tampa Bay Rays,Cleveland Guardians
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849810@football-watchlist
+DTSTAMP:20261014T231819Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20261014T231819Z
+SEQUENCE:5
+DTSTART:20261016T000000Z
+DTEND:20261016T033000Z
+SUMMARY:MLB: NLCS Game 4 - Milwaukee Brewers at Los Angeles Dodgers
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
+ nProbable pitchers (subject to change): Tyler Glasnow.\n\nListed broadcast
+ s: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country 
+ and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849810
+LOCATION:UNIQLO Field at Dodger Stadium
+URL:https://www.mlb.com/gameday/849810
+CATEGORIES:MLB,Playoffs
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -3113,26 +3134,6 @@ DESCRIPTION:Thursday football\, including Thanksgiving.\n\nTeams: Seattle S
 LOCATION:Empower Field at Mile High\, Denver\, CO\, USA
 URL:https://www.espn.com/nfl/game/_/gameId/401872995/seahawks-broncos
 CATEGORIES:NFL
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-849810@football-watchlist
-DTSTAMP:20261014T184332Z
-CREATED:20260919T111549Z
-LAST-MODIFIED:20261014T184332Z
-SEQUENCE:4
-DTSTART:20261016T010000Z
-DTEND:20261016T043000Z
-SUMMARY:MLB: NLCS Game 4 - Milwaukee Brewers at Los Angeles Dodgers
-DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nProbable pitchers (subject to change): Tyler Glasnow.\n\nListed broadcast
- s: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country 
- and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849810
-LOCATION:UNIQLO Field at Dodger Stadium
-URL:https://www.mlb.com/gameday/849810
-CATEGORIES:MLB,Playoffs
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -3773,6 +3774,27 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:college-football-401856835@football-watchlist
+DTSTAMP:20261014T231819Z
+CREATED:20261014T231819Z
+LAST-MODIFIED:20261014T231819Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:CFB: BYU at UCF [time TBA]
+DESCRIPTION:National pick: a ranked team in a potentially competitive game 
+ (market spread 9.5 points at selection). Upset possibility is an estimate.
+ \n\nTeams: BYU Cougars at UCF Knights\n\nBroadcast to be announced.\n\nKic
+ koff has not been announced. This all-day marker will become a timed event
+  when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_
+ /gameId/401856835/byu-ucf
+LOCATION:Acrisure Bounce House\, Orlando\, FL\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856835/byu-ucf
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:college-football-401856837@football-watchlist
 DTSTAMP:20261003T081720Z
 CREATED:20261003T081720Z
@@ -3874,6 +3896,28 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:college-football-401858496@football-watchlist
+DTSTAMP:20261014T231819Z
+CREATED:20261014T231819Z
+LAST-MODIFIED:20261014T231819Z
+SEQUENCE:0
+DTSTART:20261024T160000Z
+DTEND:20261024T193000Z
+SUMMARY:CFB: Indiana at Michigan
+DESCRIPTION:National pick: a ranked team in a potentially competitive game 
+ (market spread 9.5 points at selection). Upset possibility is an estimate.
+ \n\nTeams: Indiana Hoosiers at Michigan Wolverines\n\nUS broadcast: Fox. A
+ vailability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for ch
+ ampionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/co
+ llege-football/game/_/gameId/401858496/indiana-michigan
+LOCATION:Michigan Stadium\, Ann Arbor\, MI\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858496/indiana-m
+ ichigan
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:chelsea-2645267@football-watchlist
 DTSTAMP:20261003T132345Z
 CREATED:20261003T132258Z
@@ -3913,6 +3957,29 @@ LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856727/texas-am-
  alabama
 CATEGORIES:College,Alabama
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856731@football-watchlist
+DTSTAMP:20261014T231819Z
+CREATED:20261014T231819Z
+LAST-MODIFIED:20261014T231819Z
+SEQUENCE:0
+DTSTART:20261024T193000Z
+DTEND:20261024T230000Z
+SUMMARY:CFB: Tennessee at South Carolina
+DESCRIPTION:National pick: a ranked team in a potentially competitive game 
+ (market spread 2.5 points at selection). Upset possibility is an estimate.
+ \n\nAFTERNOON: 3:30 - 4:30pm ET start\n\nTeams: Tennessee Volunteers at So
+ uth Carolina Gamecocks\n\nBroadcast to be announced.\n\nViewing window: 3.
+ 5 hours (4 hours for championships)\; finish is approximate.\n\nSchedule: 
+ https://www.espn.com/college-football/game/_/gameId/401856731/tennessee-so
+ uth-carolina
+LOCATION:Williams-Brice Stadium\, Columbia\, SC\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856731/tennessee
+ -south-carolina
+CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT

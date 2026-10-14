@@ -3695,7 +3695,7 @@
       "start": "2026-10-15T17:00:00.000Z",
       "end": "2026-10-15T20:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Griffin Jax.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849818",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Griffin Jax / Gavin Williams.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849818",
       "location": "Progressive Field",
       "url": "https://www.mlb.com/gameday/849818",
       "status": "CONFIRMED",
@@ -3705,10 +3705,42 @@
         "Tampa Bay Rays",
         "Cleveland Guardians"
       ],
-      "hash": "b373fde92cb820fb172eba40365b150f7f63a93499b950cd099abae4ebe1f6c7",
+      "hash": "365098df2cb51f7defc80365d6f98a8f784bc670aa4f9169d9e83bce41a4201a",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-14T18:43:32.065Z",
-      "sequence": 7
+      "modified": "2026-10-14T23:18:19.360Z",
+      "sequence": 8
+    },
+    {
+      "uid": "mlb-849810@football-watchlist",
+      "gameId": "849810",
+      "mlbSeason": 2026,
+      "mlbGameType": "L",
+      "mlbSeriesKey": "2026/L/2",
+      "mlbSeriesGameNumber": 4,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "158",
+        "119"
+      ],
+      "selectionReasons": [
+        "MLB postseason: every game, from the Wild Card Series through the World Series."
+      ],
+      "title": "MLB: NLCS Game 4 - Milwaukee Brewers at Los Angeles Dodgers",
+      "start": "2026-10-16T00:00:00.000Z",
+      "end": "2026-10-16T03:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Tyler Glasnow.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849810",
+      "location": "UNIQLO Field at Dodger Stadium",
+      "url": "https://www.mlb.com/gameday/849810",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Playoffs"
+      ],
+      "hash": "a1ff9a3b02b046f9120f1d908a0266fa9fadf2118a7d017403245f88398eb591",
+      "created": "2026-09-19T11:15:49.893Z",
+      "modified": "2026-10-14T23:18:19.360Z",
+      "sequence": 5
     },
     {
       "uid": "nhl-2026020115@football-watchlist",
@@ -3758,38 +3790,6 @@
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-05T14:52:08.096Z",
       "sequence": 1
-    },
-    {
-      "uid": "mlb-849810@football-watchlist",
-      "gameId": "849810",
-      "mlbSeason": 2026,
-      "mlbGameType": "L",
-      "mlbSeriesKey": "2026/L/2",
-      "mlbSeriesGameNumber": 4,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "158",
-        "119"
-      ],
-      "selectionReasons": [
-        "MLB postseason: every game, from the Wild Card Series through the World Series."
-      ],
-      "title": "MLB: NLCS Game 4 - Milwaukee Brewers at Los Angeles Dodgers",
-      "start": "2026-10-16T01:00:00.000Z",
-      "end": "2026-10-16T04:30:00.000Z",
-      "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Tyler Glasnow.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849810",
-      "location": "UNIQLO Field at Dodger Stadium",
-      "url": "https://www.mlb.com/gameday/849810",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Playoffs"
-      ],
-      "hash": "6ca8bdd6bd8dd21df93ebd7028b5e2fb8498001b9fa2489e6f34ede4d6ad2a8d",
-      "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-14T18:43:32.065Z",
-      "sequence": 4
     },
     {
       "uid": "mlb-849817@football-watchlist",
@@ -4598,6 +4598,27 @@
       "sequence": 0
     },
     {
+      "uid": "college-football-401856835@football-watchlist",
+      "gameId": "401856835",
+      "title": "CFB: BYU at UCF [time TBA]",
+      "start": "2026-10-24",
+      "end": "2026-10-25",
+      "allDay": true,
+      "description": "National pick: a ranked team in a potentially competitive game (market spread 9.5 points at selection). Upset possibility is an estimate.\n\nTeams: BYU Cougars at UCF Knights\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856835/byu-ucf",
+      "location": "Acrisure Bounce House, Orlando, FL, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856835/byu-ucf",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 9.5 points at selection). Upset possibility is an estimate.",
+      "hash": "61fb20f2c5893e9488115339c76fadc2295e44373e0b5dfe0e066e1f98831d52",
+      "created": "2026-10-14T23:18:19.360Z",
+      "modified": "2026-10-14T23:18:19.360Z",
+      "sequence": 0
+    },
+    {
       "uid": "college-football-401856837@football-watchlist",
       "gameId": "401856837",
       "title": "CFB: Houston at Utah [time TBA]",
@@ -4710,6 +4731,27 @@
       "sequence": 1
     },
     {
+      "uid": "college-football-401858496@football-watchlist",
+      "gameId": "401858496",
+      "title": "CFB: Indiana at Michigan",
+      "start": "2026-10-24T16:00:00.000Z",
+      "end": "2026-10-24T19:30:00.000Z",
+      "allDay": false,
+      "description": "National pick: a ranked team in a potentially competitive game (market spread 9.5 points at selection). Upset possibility is an estimate.\n\nTeams: Indiana Hoosiers at Michigan Wolverines\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858496/indiana-michigan",
+      "location": "Michigan Stadium, Ann Arbor, MI, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858496/indiana-michigan",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 9.5 points at selection). Upset possibility is an estimate.",
+      "hash": "b395bfee5aa08c6734ad5cf4f213f6374b76be45894ff66b0a1f248a06e3cf49",
+      "created": "2026-10-14T23:18:19.360Z",
+      "modified": "2026-10-14T23:18:19.360Z",
+      "sequence": 0
+    },
+    {
       "uid": "chelsea-2645267@football-watchlist",
       "gameId": "2645267",
       "chelseaSeason": 2026,
@@ -4752,6 +4794,27 @@
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-10-12T22:10:04.220Z",
       "sequence": 1
+    },
+    {
+      "uid": "college-football-401856731@football-watchlist",
+      "gameId": "401856731",
+      "title": "CFB: Tennessee at South Carolina",
+      "start": "2026-10-24T19:30:00.000Z",
+      "end": "2026-10-24T23:00:00.000Z",
+      "allDay": false,
+      "description": "National pick: a ranked team in a potentially competitive game (market spread 2.5 points at selection). Upset possibility is an estimate.\n\nAFTERNOON: 3:30 - 4:30pm ET start\n\nTeams: Tennessee Volunteers at South Carolina Gamecocks\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856731/tennessee-south-carolina",
+      "location": "Williams-Brice Stadium, Columbia, SC, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856731/tennessee-south-carolina",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 2.5 points at selection). Upset possibility is an estimate.",
+      "hash": "6221d3d12b104c276607f5f441cc6f11434bfa94a9bb888b9b697eea8354b2e9",
+      "created": "2026-10-14T23:18:19.360Z",
+      "modified": "2026-10-14T23:18:19.360Z",
+      "sequence": 0
     },
     {
       "uid": "nhl-2026020170@football-watchlist",
