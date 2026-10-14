@@ -972,7 +972,7 @@
       "start": "2026-09-23T01:40:00.000Z",
       "end": "2026-09-23T04:40:00.000Z",
       "allDay": false,
-      "description": "Two teams with live postseason stakes meet directly.\nHouston Astros: 1 game behind the division lead.\nHouston Astros: 3 games behind the final wild-card spot.\nSeattle Mariners: 5 games behind the division lead.\nStandings snapshot: 2026-09-22.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Cristian Javier / Logan Gilbert.\n\nListed broadcasts: Space City Home Network / Mariners.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823089",
+      "description": "Two teams with live postseason stakes meet directly.\nHouston Astros: 1 game behind the division lead.\nHouston Astros: 3 games behind the final wild-card spot.\nSeattle Mariners: 5 games behind the division lead.\nStandings snapshot: 2026-09-22.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Cristian Javier / Logan Gilbert.\n\nListed broadcasts: Mariners.TV / Space City Home Network. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823089",
       "location": "T-Mobile Park",
       "url": "https://www.mlb.com/gameday/823089",
       "status": "CONFIRMED",
@@ -980,10 +980,10 @@
         "MLB",
         "Pennant race"
       ],
-      "hash": "6382914f31333dd99649f668aed313cda81f5cbbb536a60af3735ca7dfe2c21e",
+      "hash": "5fcd17a0bac5beb372d054dace910af482a6ee67bef1666daa4cc6abf1dd81a2",
       "created": "2026-09-20T22:32:28.050Z",
-      "modified": "2026-09-22T07:47:06.563Z",
-      "sequence": 2
+      "modified": "2026-10-14T18:43:32.065Z",
+      "sequence": 3
     },
     {
       "uid": "mlb-822841@football-watchlist",
@@ -3692,8 +3692,8 @@
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
       "title": "MLB: ALCS Game 3 - Tampa Bay Rays at Cleveland Guardians",
-      "start": "2026-10-15T22:00:00.000Z",
-      "end": "2026-10-16T01:30:00.000Z",
+      "start": "2026-10-15T17:00:00.000Z",
+      "end": "2026-10-15T20:30:00.000Z",
       "allDay": false,
       "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Griffin Jax.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849818",
       "location": "Progressive Field",
@@ -3705,10 +3705,10 @@
         "Tampa Bay Rays",
         "Cleveland Guardians"
       ],
-      "hash": "147a84416aa85d4e575d4280792c1f260fe2cfa328fc500b47a86fd9abbc10dd",
+      "hash": "b373fde92cb820fb172eba40365b150f7f63a93499b950cd099abae4ebe1f6c7",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-14T07:47:13.119Z",
-      "sequence": 6
+      "modified": "2026-10-14T18:43:32.065Z",
+      "sequence": 7
     },
     {
       "uid": "nhl-2026020115@football-watchlist",
@@ -3778,7 +3778,7 @@
       "start": "2026-10-16T01:00:00.000Z",
       "end": "2026-10-16T04:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849810",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Tyler Glasnow.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849810",
       "location": "UNIQLO Field at Dodger Stadium",
       "url": "https://www.mlb.com/gameday/849810",
       "status": "CONFIRMED",
@@ -3786,10 +3786,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "26d4de8b8924e981b11b15bbf389f2c30a7a3b565c0a6e8f39d06fc424fa4bce",
+      "hash": "6ca8bdd6bd8dd21df93ebd7028b5e2fb8498001b9fa2489e6f34ede4d6ad2a8d",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-09T00:28:20.918Z",
-      "sequence": 3
+      "modified": "2026-10-14T18:43:32.065Z",
+      "sequence": 4
     },
     {
       "uid": "mlb-849817@football-watchlist",
