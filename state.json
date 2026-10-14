@@ -1,5 +1,5 @@
 {
-  "checkedOn": "2026-10-13",
+  "checkedOn": "2026-10-14",
   "season": 2026,
   "events": [
     {
@@ -3695,7 +3695,7 @@
       "start": "2026-10-15T22:00:00.000Z",
       "end": "2026-10-16T01:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849818",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Griffin Jax.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849818",
       "location": "Progressive Field",
       "url": "https://www.mlb.com/gameday/849818",
       "status": "CONFIRMED",
@@ -3705,10 +3705,10 @@
         "Tampa Bay Rays",
         "Cleveland Guardians"
       ],
-      "hash": "005e9624bfec4a197e345c19029accb1edd6f6e143622fc6f66a230cc387748b",
+      "hash": "147a84416aa85d4e575d4280792c1f260fe2cfa328fc500b47a86fd9abbc10dd",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-11T09:03:07.061Z",
-      "sequence": 5
+      "modified": "2026-10-14T07:47:13.119Z",
+      "sequence": 6
     },
     {
       "uid": "nhl-2026020115@football-watchlist",
@@ -4131,7 +4131,7 @@
       "mlbGameType": "L",
       "mlbSeriesKey": "2026/L/1",
       "mlbSeriesGameNumber": 5,
-      "mlbIfNecessary": true,
+      "mlbIfNecessary": false,
       "mlbTeamIds": [
         "139",
         "114"
@@ -4139,24 +4139,24 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALCS Game 5 - Tampa Bay Rays at Cleveland Guardians [if necessary]",
+      "title": "MLB: ALCS Game 5 - Tampa Bay Rays at Cleveland Guardians",
       "start": "2026-10-18T00:00:00.000Z",
       "end": "2026-10-18T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849816",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849816",
       "location": "Progressive Field",
       "url": "https://www.mlb.com/gameday/849816",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Playoffs",
         "Tampa Bay Rays",
         "Cleveland Guardians"
       ],
-      "hash": "89ce74d178d245521b01403ee8ed092a78f014925fcd0e48ee8b13b93e449989",
+      "hash": "e4339f5986d49f36ffc7b5792b20b7c4ee5f653466c1cac63c5363a89cbf68b9",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-11T09:03:07.061Z",
-      "sequence": 5
+      "modified": "2026-10-14T07:47:13.119Z",
+      "sequence": 6
     },
     {
       "uid": "nfl-401872996@football-watchlist",
@@ -12208,14 +12208,14 @@
   "nflGames": 285,
   "collegeGames": 949,
   "baseball": {
-    "checkedOn": "2026-10-13",
+    "checkedOn": "2026-10-14",
     "season": 2026,
     "scheduleGames": 407,
     "events": 54,
     "playoffEvents": 46
   },
   "hockey": {
-    "checkedOn": "2026-10-13",
+    "checkedOn": "2026-10-14",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -12232,7 +12232,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-10-13",
+    "checkedOn": "2026-10-14",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
