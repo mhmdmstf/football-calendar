@@ -932,10 +932,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-823089@football-watchlist
-DTSTAMP:20261015T073350Z
+DTSTAMP:20261015T133134Z
 CREATED:20260920T223228Z
-LAST-MODIFIED:20261015T073350Z
-SEQUENCE:4
+LAST-MODIFIED:20261015T133134Z
+SEQUENCE:5
 DTSTART:20260923T014000Z
 DTEND:20260923T044000Z
 SUMMARY:MLB: Houston Astros at Seattle Mariners
@@ -944,7 +944,7 @@ DESCRIPTION:Two teams with live postseason stakes meet directly.\nHouston A
  e final wild-card spot.\nSeattle Mariners: 5 games behind the division lea
  d.\nStandings snapshot: 2026-09-22.\n\nViewing window: 3 hours\; finish is
   approximate.\n\nProbable pitchers (subject to change): Cristian Javier / 
- Logan Gilbert.\n\nListed broadcasts: Space City Home Network / Mariners.TV
+ Logan Gilbert.\n\nListed broadcasts: Mariners.TV / Space City Home Network
  . Availability varies by country and provider.\n\nOfficial schedule: https
  ://www.mlb.com/gameday/823089
 LOCATION:T-Mobile Park
@@ -3240,18 +3240,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856724@football-watchlist
-DTSTAMP:20261011T090307Z
+DTSTAMP:20261015T133134Z
 CREATED:20260926T075051Z
-LAST-MODIFIED:20261011T090307Z
-SEQUENCE:2
+LAST-MODIFIED:20261015T133134Z
+SEQUENCE:3
 DTSTART:20261017T160000Z
 DTEND:20261017T193000Z
 SUMMARY:CFB: Florida at Texas
 DESCRIPTION:National pick: ranked matchup (#1 vs #21) at selection.\n\nTeam
- s: Florida Gators at Texas Longhorns\n\nUS broadcast: ABC. Availability el
- sewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)\;
-  finish is approximate.\n\nSchedule: https://www.espn.com/college-football
- /game/_/gameId/401856724/florida-texas
+ s: Florida Gators at Texas Longhorns\n\nUS broadcast: ABC / ERADM. Availab
+ ility elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champion
+ ships)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-
+ football/game/_/gameId/401856724/florida-texas
 LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856724/florida-t
  exas
@@ -3304,18 +3304,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856723@football-watchlist
-DTSTAMP:20261011T090307Z
+DTSTAMP:20261015T133134Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20261011T090307Z
-SEQUENCE:2
+LAST-MODIFIED:20261015T133134Z
+SEQUENCE:3
 DTSTART:20261017T193000Z
 DTEND:20261017T230000Z
 SUMMARY:CFB: Alabama at Tennessee
 DESCRIPTION:Following Alabama: every game.\nMajor rivalry: Third Saturday i
  n October.\n\nTeams: Alabama Crimson Tide at Tennessee Volunteers\n\nUS br
- oadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours 
- (4 hours for championships)\; finish is approximate.\n\nSchedule: https://
- www.espn.com/college-football/game/_/gameId/401856723/alabama-tennessee
+ oadcast: ABC / ERADM. Availability elsewhere varies.\n\nViewing window: 3.
+ 5 hours (4 hours for championships)\; finish is approximate.\n\nSchedule: 
+ https://www.espn.com/college-football/game/_/gameId/401856723/alabama-tenn
+ essee
 LOCATION:Neyland Stadium\, Knoxville\, TN\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856723/alabama-t
  ennessee

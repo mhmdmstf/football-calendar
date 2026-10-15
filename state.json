@@ -972,7 +972,7 @@
       "start": "2026-09-23T01:40:00.000Z",
       "end": "2026-09-23T04:40:00.000Z",
       "allDay": false,
-      "description": "Two teams with live postseason stakes meet directly.\nHouston Astros: 1 game behind the division lead.\nHouston Astros: 3 games behind the final wild-card spot.\nSeattle Mariners: 5 games behind the division lead.\nStandings snapshot: 2026-09-22.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Cristian Javier / Logan Gilbert.\n\nListed broadcasts: Space City Home Network / Mariners.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823089",
+      "description": "Two teams with live postseason stakes meet directly.\nHouston Astros: 1 game behind the division lead.\nHouston Astros: 3 games behind the final wild-card spot.\nSeattle Mariners: 5 games behind the division lead.\nStandings snapshot: 2026-09-22.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Cristian Javier / Logan Gilbert.\n\nListed broadcasts: Mariners.TV / Space City Home Network. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823089",
       "location": "T-Mobile Park",
       "url": "https://www.mlb.com/gameday/823089",
       "status": "CONFIRMED",
@@ -980,10 +980,10 @@
         "MLB",
         "Pennant race"
       ],
-      "hash": "6382914f31333dd99649f668aed313cda81f5cbbb536a60af3735ca7dfe2c21e",
+      "hash": "5fcd17a0bac5beb372d054dace910af482a6ee67bef1666daa4cc6abf1dd81a2",
       "created": "2026-09-20T22:32:28.050Z",
-      "modified": "2026-10-15T07:33:50.773Z",
-      "sequence": 4
+      "modified": "2026-10-15T13:31:34.724Z",
+      "sequence": 5
     },
     {
       "uid": "mlb-822841@football-watchlist",
@@ -3927,7 +3927,7 @@
       "start": "2026-10-17T16:00:00.000Z",
       "end": "2026-10-17T19:30:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#1 vs #21) at selection.\n\nTeams: Florida Gators at Texas Longhorns\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856724/florida-texas",
+      "description": "National pick: ranked matchup (#1 vs #21) at selection.\n\nTeams: Florida Gators at Texas Longhorns\n\nUS broadcast: ABC / ERADM. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856724/florida-texas",
       "location": "DKR-Texas Memorial Stadium, Austin, TX, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856724/florida-texas",
       "status": "CONFIRMED",
@@ -3936,10 +3936,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#1 vs #21) at selection.",
-      "hash": "72a9b9ffb79bd03e530ac538d94910c70f88386700663764d4e1103935f79473",
+      "hash": "a4b296b24ad0b6a9339b5234f89191ca05ea6f9d2c9909afb8ae3610ac89b8d8",
       "created": "2026-09-26T07:50:51.012Z",
-      "modified": "2026-10-11T09:03:07.061Z",
-      "sequence": 2
+      "modified": "2026-10-15T13:31:34.724Z",
+      "sequence": 3
     },
     {
       "uid": "college-football-401858488@football-watchlist",
@@ -3990,7 +3990,7 @@
       "start": "2026-10-17T19:30:00.000Z",
       "end": "2026-10-17T23:00:00.000Z",
       "allDay": false,
-      "description": "Following Alabama: every game.\nMajor rivalry: Third Saturday in October.\n\nTeams: Alabama Crimson Tide at Tennessee Volunteers\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856723/alabama-tennessee",
+      "description": "Following Alabama: every game.\nMajor rivalry: Third Saturday in October.\n\nTeams: Alabama Crimson Tide at Tennessee Volunteers\n\nUS broadcast: ABC / ERADM. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856723/alabama-tennessee",
       "location": "Neyland Stadium, Knoxville, TN, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856723/alabama-tennessee",
       "status": "CONFIRMED",
@@ -3998,10 +3998,10 @@
         "College",
         "Alabama"
       ],
-      "hash": "ea1cdf40aec7a05d2ef72006883d7ad1f19175be547f49b8bed3a698a698c8cf",
+      "hash": "230e7fa0573e5193175206369ad17dbb29489d30ebcd0cd9e768f5ae341eda6e",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-10-11T09:03:07.061Z",
-      "sequence": 2
+      "modified": "2026-10-15T13:31:34.724Z",
+      "sequence": 3
     },
     {
       "uid": "college-football-401858490@football-watchlist",
