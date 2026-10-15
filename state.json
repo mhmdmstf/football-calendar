@@ -972,7 +972,7 @@
       "start": "2026-09-23T01:40:00.000Z",
       "end": "2026-09-23T04:40:00.000Z",
       "allDay": false,
-      "description": "Two teams with live postseason stakes meet directly.\nHouston Astros: 1 game behind the division lead.\nHouston Astros: 3 games behind the final wild-card spot.\nSeattle Mariners: 5 games behind the division lead.\nStandings snapshot: 2026-09-22.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Cristian Javier / Logan Gilbert.\n\nListed broadcasts: Space City Home Network / Mariners.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823089",
+      "description": "Two teams with live postseason stakes meet directly.\nHouston Astros: 1 game behind the division lead.\nHouston Astros: 3 games behind the final wild-card spot.\nSeattle Mariners: 5 games behind the division lead.\nStandings snapshot: 2026-09-22.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Cristian Javier / Logan Gilbert.\n\nListed broadcasts: Mariners.TV / Space City Home Network. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823089",
       "location": "T-Mobile Park",
       "url": "https://www.mlb.com/gameday/823089",
       "status": "CONFIRMED",
@@ -980,10 +980,10 @@
         "MLB",
         "Pennant race"
       ],
-      "hash": "6382914f31333dd99649f668aed313cda81f5cbbb536a60af3735ca7dfe2c21e",
+      "hash": "5fcd17a0bac5beb372d054dace910af482a6ee67bef1666daa4cc6abf1dd81a2",
       "created": "2026-09-20T22:32:28.050Z",
-      "modified": "2026-10-15T18:23:16.566Z",
-      "sequence": 6
+      "modified": "2026-10-15T23:06:28.336Z",
+      "sequence": 7
     },
     {
       "uid": "mlb-822841@football-watchlist",
@@ -1063,7 +1063,7 @@
       "start": "2026-09-25T02:10:00.000Z",
       "end": "2026-09-25T05:10:00.000Z",
       "allDay": false,
-      "description": "Two teams with live postseason stakes meet directly.\nSan Diego Padres: 3.5 games ahead of the first team outside the wild cards.\nLos Angeles Dodgers: already qualified; close records keep postseason home-field positioning in play.\nFollowing San Diego Padres.\nStandings snapshot: 2026-09-24.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Pivetta / Tyler Glasnow.\n\nListed broadcasts: SportsNet LA / Padres.TV Presented by UC San Diego Health / MLB Network. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823895",
+      "description": "Two teams with live postseason stakes meet directly.\nSan Diego Padres: 3.5 games ahead of the first team outside the wild cards.\nLos Angeles Dodgers: already qualified; close records keep postseason home-field positioning in play.\nFollowing San Diego Padres.\nStandings snapshot: 2026-09-24.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Pivetta / Tyler Glasnow.\n\nListed broadcasts: Padres.TV Presented by UC San Diego Health / SportsNet LA / MLB Network. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823895",
       "location": "UNIQLO Field at Dodger Stadium",
       "url": "https://www.mlb.com/gameday/823895",
       "status": "CONFIRMED",
@@ -1072,10 +1072,10 @@
         "Pennant race",
         "San Diego Padres"
       ],
-      "hash": "d1dae1f1556d65ac9176706fadc81596acf29697cac5786ccade94a06f310075",
+      "hash": "25d0ebd6db4e2473f85516e7782cbe015da98be2235a21b3012c44f7db205649",
       "created": "2026-09-23T07:50:04.909Z",
-      "modified": "2026-09-24T23:15:28.372Z",
-      "sequence": 2
+      "modified": "2026-10-15T23:06:28.336Z",
+      "sequence": 3
     },
     {
       "uid": "mlb-823248@football-watchlist",
@@ -3810,7 +3810,7 @@
       "start": "2026-10-16T22:00:00.000Z",
       "end": "2026-10-17T01:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849817",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Martinez.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849817",
       "location": "Progressive Field",
       "url": "https://www.mlb.com/gameday/849817",
       "status": "CONFIRMED",
@@ -3820,10 +3820,10 @@
         "Tampa Bay Rays",
         "Cleveland Guardians"
       ],
-      "hash": "1c4b0bffc46b5a1672fd423522b05d102f0e7f34e4b6c0916587b4f4e50ebeeb",
+      "hash": "801eb62150b53963e9adf44d3ef9a3754e9955e734a17f5d4cdb691bc32b3707",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-11T09:03:07.061Z",
-      "sequence": 5
+      "modified": "2026-10-15T23:06:28.336Z",
+      "sequence": 6
     },
     {
       "uid": "mlb-849808@football-watchlist",
@@ -6660,7 +6660,7 @@
       "end": "2026-11-26T06:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Following San Jose Sharks: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: KCOP-13 / NBCSCA / Prime Video. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/sjs-vs-ana/2026/11/25/2026020398",
+      "description": "Following San Jose Sharks: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: FOXLA+ / NBCSCA / Prime Video. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/sjs-vs-ana/2026/11/25/2026020398",
       "location": "Honda Center",
       "url": "https://www.nhl.com/gamecenter/sjs-vs-ana/2026/11/25/2026020398",
       "categories": [
@@ -6668,10 +6668,10 @@
         "Regular season",
         "San Jose Sharks"
       ],
-      "hash": "1fa28f417b2054a19ec99dc0236a11e69fbb1626894cf01d363505a95c491194",
+      "hash": "90bcac4b756ada357fa69427746335d69e16f3c27d1ce817c257d91f050e336a",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
+      "modified": "2026-10-15T23:06:28.336Z",
+      "sequence": 1
     },
     {
       "uid": "nfl-401873081@football-watchlist",
@@ -11522,7 +11522,7 @@
       "end": "2027-03-23T05:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Following San Jose Sharks: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: KCOP-13 / NBCSCA / Prime Video / SN+. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/sjs-vs-ana/2027/03/22/2026021195",
+      "description": "Following San Jose Sharks: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: FOXLA+ / NBCSCA / Prime Video / SN+. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/sjs-vs-ana/2027/03/22/2026021195",
       "location": "Honda Center",
       "url": "https://www.nhl.com/gamecenter/sjs-vs-ana/2027/03/22/2026021195",
       "categories": [
@@ -11530,10 +11530,10 @@
         "Regular season",
         "San Jose Sharks"
       ],
-      "hash": "b079e73a7ac156a408ff79f592f93a04dbe4e02ee94f1485da86cc935bda0a1c",
+      "hash": "708695cb9c533b383bb947d58991d6be837741a6b01f04a0a2eaf91bd3dba03e",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
+      "modified": "2026-10-15T23:06:28.336Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026021201@football-watchlist",
@@ -11582,7 +11582,7 @@
       "end": "2027-03-25T05:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Following San Jose Sharks: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: KCOP-13 / NBCSCA / Prime Video. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/ana-vs-sjs/2027/03/24/2026021210",
+      "description": "Following San Jose Sharks: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: FOXLA+ / NBCSCA / Prime Video. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/ana-vs-sjs/2027/03/24/2026021210",
       "location": "SAP Center at San Jose",
       "url": "https://www.nhl.com/gamecenter/ana-vs-sjs/2027/03/24/2026021210",
       "categories": [
@@ -11590,10 +11590,10 @@
         "Regular season",
         "San Jose Sharks"
       ],
-      "hash": "d3c08590f0851c71fd94d7f8c7d157233a2915831685b5e3e09f2138a40b6a45",
+      "hash": "88cb6989361a33e728d88de5f04145dd70a8ad28caf0e6befd62faec103f0e63",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
+      "modified": "2026-10-15T23:06:28.336Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026021216@football-watchlist",
@@ -12056,7 +12056,7 @@
       "end": "2027-04-10T23:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Following San Jose Sharks: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: KCOP-13 / NBCSCA / Prime Video / SN+. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/ana-vs-sjs/2027/04/10/2026021331",
+      "description": "Following San Jose Sharks: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: FOXLA+ / NBCSCA / Prime Video / SN+. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/ana-vs-sjs/2027/04/10/2026021331",
       "location": "SAP Center at San Jose",
       "url": "https://www.nhl.com/gamecenter/ana-vs-sjs/2027/04/10/2026021331",
       "categories": [
@@ -12064,10 +12064,10 @@
         "Regular season",
         "San Jose Sharks"
       ],
-      "hash": "294bda521ddc3ddade8d25c8617292548182673183fdf540c1f3d05ac0c261ba",
+      "hash": "f15c9dcc501e68dc82a32178f6d247510e114075d87445c62ff788b9a998209f",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
+      "modified": "2026-10-15T23:06:28.336Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026021334@football-watchlist",

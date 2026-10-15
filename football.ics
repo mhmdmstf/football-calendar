@@ -932,10 +932,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-823089@football-watchlist
-DTSTAMP:20261015T182316Z
+DTSTAMP:20261015T230628Z
 CREATED:20260920T223228Z
-LAST-MODIFIED:20261015T182316Z
-SEQUENCE:6
+LAST-MODIFIED:20261015T230628Z
+SEQUENCE:7
 DTSTART:20260923T014000Z
 DTEND:20260923T044000Z
 SUMMARY:MLB: Houston Astros at Seattle Mariners
@@ -944,7 +944,7 @@ DESCRIPTION:Two teams with live postseason stakes meet directly.\nHouston A
  e final wild-card spot.\nSeattle Mariners: 5 games behind the division lea
  d.\nStandings snapshot: 2026-09-22.\n\nViewing window: 3 hours\; finish is
   approximate.\n\nProbable pitchers (subject to change): Cristian Javier / 
- Logan Gilbert.\n\nListed broadcasts: Space City Home Network / Mariners.TV
+ Logan Gilbert.\n\nListed broadcasts: Mariners.TV / Space City Home Network
  . Availability varies by country and provider.\n\nOfficial schedule: https
  ://www.mlb.com/gameday/823089
 LOCATION:T-Mobile Park
@@ -997,10 +997,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-823895@football-watchlist
-DTSTAMP:20260924T231528Z
+DTSTAMP:20261015T230628Z
 CREATED:20260923T075004Z
-LAST-MODIFIED:20260924T231528Z
-SEQUENCE:2
+LAST-MODIFIED:20261015T230628Z
+SEQUENCE:3
 DTSTART:20260925T021000Z
 DTEND:20260925T051000Z
 SUMMARY:MLB: San Diego Padres at Los Angeles Dodgers
@@ -1010,7 +1010,7 @@ DESCRIPTION:Two teams with live postseason stakes meet directly.\nSan Diego
  d positioning in play.\nFollowing San Diego Padres.\nStandings snapshot: 2
  026-09-24.\n\nViewing window: 3 hours\; finish is approximate.\n\nProbable
   pitchers (subject to change): Nick Pivetta / Tyler Glasnow.\n\nListed bro
- adcasts: SportsNet LA / Padres.TV Presented by UC San Diego Health / MLB N
+ adcasts: Padres.TV Presented by UC San Diego Health / SportsNet LA / MLB N
  etwork. Availability varies by country and provider.\n\nOfficial schedule:
   https://www.mlb.com/gameday/823895
 LOCATION:UNIQLO Field at Dodger Stadium
@@ -3140,18 +3140,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849817@football-watchlist
-DTSTAMP:20261011T090307Z
+DTSTAMP:20261015T230628Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261011T090307Z
-SEQUENCE:5
+LAST-MODIFIED:20261015T230628Z
+SEQUENCE:6
 DTSTART:20261016T220000Z
 DTEND:20261017T013000Z
 SUMMARY:MLB: ALCS Game 4 - Tampa Bay Rays at Cleveland Guardians
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability va
- ries by country and provider.\n\nOfficial schedule: https://www.mlb.com/ga
- meday/849817
+ nProbable pitchers (subject to change): Nick Martinez.\n\nListed broadcast
+ s: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country a
+ nd provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849817
 LOCATION:Progressive Field
 URL:https://www.mlb.com/gameday/849817
 CATEGORIES:MLB,Playoffs,Tampa Bay Rays,Cleveland Guardians
@@ -5504,18 +5504,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020398@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261015T230628Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261015T230628Z
+SEQUENCE:1
 DTSTART:20261126T030000Z
 DTEND:20261126T060000Z
 SUMMARY:NHL: San Jose Sharks at Anaheim Ducks
 DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
  ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
- layoff overtime can run longer.\n\nListed broadcasts: KCOP-13 / NBCSCA / P
- rime Video. Availability varies by country and provider.\n\nOfficial sched
- ule: https://www.nhl.com/gamecenter/sjs-vs-ana/2026/11/25/2026020398
+ layoff overtime can run longer.\n\nListed broadcasts: FOXLA+ / NBCSCA / Pr
+ ime Video. Availability varies by country and provider.\n\nOfficial schedu
+ le: https://www.nhl.com/gamecenter/sjs-vs-ana/2026/11/25/2026020398
 LOCATION:Honda Center
 URL:https://www.nhl.com/gamecenter/sjs-vs-ana/2026/11/25/2026020398
 CATEGORIES:NHL,Regular season,San Jose Sharks
@@ -9425,18 +9425,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026021195@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261015T230628Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261015T230628Z
+SEQUENCE:1
 DTSTART:20270323T020000Z
 DTEND:20270323T050000Z
 SUMMARY:NHL: San Jose Sharks at Anaheim Ducks
 DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
  ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
- layoff overtime can run longer.\n\nListed broadcasts: KCOP-13 / NBCSCA / P
- rime Video / SN+. Availability varies by country and provider.\n\nOfficial
-  schedule: https://www.nhl.com/gamecenter/sjs-vs-ana/2027/03/22/2026021195
+ layoff overtime can run longer.\n\nListed broadcasts: FOXLA+ / NBCSCA / Pr
+ ime Video / SN+. Availability varies by country and provider.\n\nOfficial 
+ schedule: https://www.nhl.com/gamecenter/sjs-vs-ana/2027/03/22/2026021195
 LOCATION:Honda Center
 URL:https://www.nhl.com/gamecenter/sjs-vs-ana/2027/03/22/2026021195
 CATEGORIES:NHL,Regular season,San Jose Sharks
@@ -9466,18 +9466,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026021210@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261015T230628Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261015T230628Z
+SEQUENCE:1
 DTSTART:20270325T020000Z
 DTEND:20270325T050000Z
 SUMMARY:NHL: Anaheim Ducks at San Jose Sharks
 DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
  ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
- layoff overtime can run longer.\n\nListed broadcasts: KCOP-13 / NBCSCA / P
- rime Video. Availability varies by country and provider.\n\nOfficial sched
- ule: https://www.nhl.com/gamecenter/ana-vs-sjs/2027/03/24/2026021210
+ layoff overtime can run longer.\n\nListed broadcasts: FOXLA+ / NBCSCA / Pr
+ ime Video. Availability varies by country and provider.\n\nOfficial schedu
+ le: https://www.nhl.com/gamecenter/ana-vs-sjs/2027/03/24/2026021210
 LOCATION:SAP Center at San Jose
 URL:https://www.nhl.com/gamecenter/ana-vs-sjs/2027/03/24/2026021210
 CATEGORIES:NHL,Regular season,San Jose Sharks
@@ -9791,18 +9791,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026021331@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261015T230628Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261015T230628Z
+SEQUENCE:1
 DTSTART:20270410T200000Z
 DTEND:20270410T230000Z
 SUMMARY:NHL: Anaheim Ducks at San Jose Sharks
 DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
  ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
- layoff overtime can run longer.\n\nListed broadcasts: KCOP-13 / NBCSCA / P
- rime Video / SN+. Availability varies by country and provider.\n\nOfficial
-  schedule: https://www.nhl.com/gamecenter/ana-vs-sjs/2027/04/10/2026021331
+ layoff overtime can run longer.\n\nListed broadcasts: FOXLA+ / NBCSCA / Pr
+ ime Video / SN+. Availability varies by country and provider.\n\nOfficial 
+ schedule: https://www.nhl.com/gamecenter/ana-vs-sjs/2027/04/10/2026021331
 LOCATION:SAP Center at San Jose
 URL:https://www.nhl.com/gamecenter/ana-vs-sjs/2027/04/10/2026021331
 CATEGORIES:NHL,Regular season,San Jose Sharks
