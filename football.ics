@@ -932,10 +932,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-823089@football-watchlist
-DTSTAMP:20261014T184332Z
+DTSTAMP:20261015T073350Z
 CREATED:20260920T223228Z
-LAST-MODIFIED:20261014T184332Z
-SEQUENCE:3
+LAST-MODIFIED:20261015T073350Z
+SEQUENCE:4
 DTSTART:20260923T014000Z
 DTEND:20260923T044000Z
 SUMMARY:MLB: Houston Astros at Seattle Mariners
@@ -944,7 +944,7 @@ DESCRIPTION:Two teams with live postseason stakes meet directly.\nHouston A
  e final wild-card spot.\nSeattle Mariners: 5 games behind the division lea
  d.\nStandings snapshot: 2026-09-22.\n\nViewing window: 3 hours\; finish is
   approximate.\n\nProbable pitchers (subject to change): Cristian Javier / 
- Logan Gilbert.\n\nListed broadcasts: Mariners.TV / Space City Home Network
+ Logan Gilbert.\n\nListed broadcasts: Space City Home Network / Mariners.TV
  . Availability varies by country and provider.\n\nOfficial schedule: https
  ://www.mlb.com/gameday/823089
 LOCATION:T-Mobile Park
