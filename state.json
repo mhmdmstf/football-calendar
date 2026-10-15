@@ -972,7 +972,7 @@
       "start": "2026-09-23T01:40:00.000Z",
       "end": "2026-09-23T04:40:00.000Z",
       "allDay": false,
-      "description": "Two teams with live postseason stakes meet directly.\nHouston Astros: 1 game behind the division lead.\nHouston Astros: 3 games behind the final wild-card spot.\nSeattle Mariners: 5 games behind the division lead.\nStandings snapshot: 2026-09-22.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Cristian Javier / Logan Gilbert.\n\nListed broadcasts: Mariners.TV / Space City Home Network. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823089",
+      "description": "Two teams with live postseason stakes meet directly.\nHouston Astros: 1 game behind the division lead.\nHouston Astros: 3 games behind the final wild-card spot.\nSeattle Mariners: 5 games behind the division lead.\nStandings snapshot: 2026-09-22.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Cristian Javier / Logan Gilbert.\n\nListed broadcasts: Space City Home Network / Mariners.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823089",
       "location": "T-Mobile Park",
       "url": "https://www.mlb.com/gameday/823089",
       "status": "CONFIRMED",
@@ -980,10 +980,10 @@
         "MLB",
         "Pennant race"
       ],
-      "hash": "5fcd17a0bac5beb372d054dace910af482a6ee67bef1666daa4cc6abf1dd81a2",
+      "hash": "6382914f31333dd99649f668aed313cda81f5cbbb536a60af3735ca7dfe2c21e",
       "created": "2026-09-20T22:32:28.050Z",
-      "modified": "2026-10-15T13:31:34.724Z",
-      "sequence": 5
+      "modified": "2026-10-15T18:23:16.566Z",
+      "sequence": 6
     },
     {
       "uid": "mlb-822841@football-watchlist",
@@ -3729,7 +3729,7 @@
       "start": "2026-10-16T00:00:00.000Z",
       "end": "2026-10-16T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Tyler Glasnow.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849810",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Shane Drohan / Tyler Glasnow.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849810",
       "location": "UNIQLO Field at Dodger Stadium",
       "url": "https://www.mlb.com/gameday/849810",
       "status": "CONFIRMED",
@@ -3737,10 +3737,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "a1ff9a3b02b046f9120f1d908a0266fa9fadf2118a7d017403245f88398eb591",
+      "hash": "3607983593ddfb1f33ba894d1bbcc8bc632b1473111ab5fd4d2ac69304a19c08",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-14T23:18:19.360Z",
-      "sequence": 5
+      "modified": "2026-10-15T18:23:16.566Z",
+      "sequence": 6
     },
     {
       "uid": "nhl-2026020115@football-watchlist",
