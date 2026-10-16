@@ -3140,12 +3140,12 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849817@football-watchlist
-DTSTAMP:20261015T230628Z
+DTSTAMP:20261016T071936Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261015T230628Z
-SEQUENCE:6
-DTSTART:20261016T220000Z
-DTEND:20261017T013000Z
+LAST-MODIFIED:20261016T071936Z
+SEQUENCE:7
+DTSTART:20261017T000000Z
+DTEND:20261017T033000Z
 SUMMARY:MLB: ALCS Game 4 - Tampa Bay Rays at Cleveland Guardians
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
@@ -3160,25 +3160,26 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849808@football-watchlist
-DTSTAMP:20261009T002820Z
+DTSTAMP:20261016T071936Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261009T002820Z
-SEQUENCE:3
+LAST-MODIFIED:20261016T071936Z
+SEQUENCE:4
 DTSTART:20261017T010000Z
 DTEND:20261017T043000Z
-SUMMARY:MLB: NLCS Game 5 - Milwaukee Brewers at Los Angeles Dodgers [if nec
- essary]
-DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
- .5 hours\; finish is approximate.\n\nListed broadcasts: FS1 / FOX ONE / Fo
- x Deportes / FOX ONE. Availability varies by country and provider.\n\nOffi
- cial schedule: https://www.mlb.com/gameday/849808
+SUMMARY:Cancelled: MLB: NLCS Game 5 - Milwaukee Brewers at Los Angeles Dodg
+ ers [if necessary]
+DESCRIPTION:No longer necessary: this postseason series has finished.\n\nML
+ B postseason: every game\, from the Wild Card Series through the World Ser
+ ies.\n\nThis game is only played if the series requires it. It will be can
+ celled in this feed if no longer needed.\n\nViewing window: 3.5 hours\; fi
+ nish is approximate.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / 
+ FOX ONE. Availability varies by country and provider.\n\nOfficial schedule
+ : https://www.mlb.com/gameday/849808
 LOCATION:UNIQLO Field at Dodger Stadium
 URL:https://www.mlb.com/gameday/849808
 CATEGORIES:MLB,Playoffs
-STATUS:TENTATIVE
-TRANSP:OPAQUE
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:chelsea-2645258@football-watchlist
@@ -3489,25 +3490,26 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849806@football-watchlist
-DTSTAMP:20261009T002820Z
+DTSTAMP:20261016T071936Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261009T002820Z
-SEQUENCE:3
+LAST-MODIFIED:20261016T071936Z
+SEQUENCE:4
 DTSTART:20261019T000000Z
 DTEND:20261019T033000Z
-SUMMARY:MLB: NLCS Game 6 - Los Angeles Dodgers at Milwaukee Brewers [if nec
- essary]
-DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
- .5 hours\; finish is approximate.\n\nListed broadcasts: FS1 / FOX ONE / Fo
- x Deportes / FOX ONE. Availability varies by country and provider.\n\nOffi
- cial schedule: https://www.mlb.com/gameday/849806
+SUMMARY:Cancelled: MLB: NLCS Game 6 - Los Angeles Dodgers at Milwaukee Brew
+ ers [if necessary]
+DESCRIPTION:No longer necessary: this postseason series has finished.\n\nML
+ B postseason: every game\, from the Wild Card Series through the World Ser
+ ies.\n\nThis game is only played if the series requires it. It will be can
+ celled in this feed if no longer needed.\n\nViewing window: 3.5 hours\; fi
+ nish is approximate.\n\nListed broadcasts: FS1 / FOX ONE / Fox Deportes / 
+ FOX ONE. Availability varies by country and provider.\n\nOfficial schedule
+ : https://www.mlb.com/gameday/849806
 LOCATION:American Family Field
 URL:https://www.mlb.com/gameday/849806
 CATEGORIES:MLB,Playoffs
-STATUS:TENTATIVE
-TRANSP:OPAQUE
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020136@football-watchlist
@@ -3549,28 +3551,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-849815@football-watchlist
-DTSTAMP:20261011T090307Z
-CREATED:20260919T111549Z
-LAST-MODIFIED:20261011T090307Z
-SEQUENCE:5
-DTSTART:20261019T210000Z
-DTEND:20261020T003000Z
-SUMMARY:MLB: ALCS Game 6 - Cleveland Guardians at Tampa Bay Rays [if necess
- ary]
-DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
- .5 hours\; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruT
- V / Univision/ TUDN. Availability varies by country and provider.\n\nOffic
- ial schedule: https://www.mlb.com/gameday/849815
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/849815
-CATEGORIES:MLB,Playoffs,Cleveland Guardians,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:nhl-2026020139@football-watchlist
 DTSTAMP:20261001T073711Z
 CREATED:20261001T073711Z
@@ -3592,23 +3572,46 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849807@football-watchlist
-DTSTAMP:20261009T002820Z
+DTSTAMP:20261016T071936Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261009T002820Z
-SEQUENCE:3
+LAST-MODIFIED:20261016T071936Z
+SEQUENCE:4
 DTSTART:20261020T000000Z
 DTEND:20261020T033000Z
-SUMMARY:MLB: NLCS Game 7 - Los Angeles Dodgers at Milwaukee Brewers [if nec
- essary]
-DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
- .5 hours\; finish is approximate.\n\nListed broadcasts: FOX / FS1 / Fox De
- portes / FOX ONE. Availability varies by country and provider.\n\nOfficial
-  schedule: https://www.mlb.com/gameday/849807
+SUMMARY:Cancelled: MLB: NLCS Game 7 - Los Angeles Dodgers at Milwaukee Brew
+ ers [if necessary]
+DESCRIPTION:No longer necessary: this postseason series has finished.\n\nML
+ B postseason: every game\, from the Wild Card Series through the World Ser
+ ies.\n\nThis game is only played if the series requires it. It will be can
+ celled in this feed if no longer needed.\n\nViewing window: 3.5 hours\; fi
+ nish is approximate.\n\nListed broadcasts: FOX / FS1 / Fox Deportes / FOX 
+ ONE. Availability varies by country and provider.\n\nOfficial schedule: ht
+ tps://www.mlb.com/gameday/849807
 LOCATION:American Family Field
 URL:https://www.mlb.com/gameday/849807
 CATEGORIES:MLB,Playoffs
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849815@football-watchlist
+DTSTAMP:20261016T071936Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20261016T071936Z
+SEQUENCE:6
+DTSTART:20261020T000000Z
+DTEND:20261020T033000Z
+SUMMARY:MLB: ALCS Game 6 - Cleveland Guardians at Tampa Bay Rays [if necess
+ ary]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nThis game is only played if the series requires it. I
+ t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
+ .5 hours\; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruT
+ V / Univision/ TUDN. Availability varies by country and provider.\n\nOffic
+ ial schedule: https://www.mlb.com/gameday/849815
+LOCATION:Tropicana Field
+URL:https://www.mlb.com/gameday/849815
+CATEGORIES:MLB,Playoffs,Cleveland Guardians,Tampa Bay Rays
 STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
@@ -3716,20 +3719,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849805@football-watchlist
-DTSTAMP:20261009T002820Z
+DTSTAMP:20261016T071936Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261009T002820Z
-SEQUENCE:3
+LAST-MODIFIED:20261016T071936Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:MLB: World Series Game 1 - AL Champion at NL Champion [time TBA]
+SUMMARY:MLB: World Series Game 1 - AL Champion at Milwaukee Brewers [time T
+ BA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
  s all-day marker will become a timed event when confirmed.\n\nListed broad
  casts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by coun
  try and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849805
-LOCATION:TBD
+LOCATION:American Family Field
 URL:https://www.mlb.com/gameday/849805
 CATEGORIES:MLB,Playoffs
 STATUS:TENTATIVE
@@ -3819,20 +3823,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849802@football-watchlist
-DTSTAMP:20261009T002820Z
+DTSTAMP:20261016T071936Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261009T002820Z
-SEQUENCE:3
+LAST-MODIFIED:20261016T071936Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-SUMMARY:MLB: World Series Game 2 - AL Champion at NL Champion [time TBA]
+SUMMARY:MLB: World Series Game 2 - AL Champion at Milwaukee Brewers [time T
+ BA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
  s all-day marker will become a timed event when confirmed.\n\nListed broad
  casts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by coun
  try and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849802
-LOCATION:TBD
+LOCATION:American Family Field
 URL:https://www.mlb.com/gameday/849802
 CATEGORIES:MLB,Playoffs
 STATUS:TENTATIVE
@@ -4088,13 +4093,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849804@football-watchlist
-DTSTAMP:20261009T002820Z
+DTSTAMP:20261016T071936Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261009T002820Z
-SEQUENCE:3
+LAST-MODIFIED:20261016T071936Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-SUMMARY:MLB: World Series Game 3 - NL Champion at AL Champion [time TBA]
+SUMMARY:MLB: World Series Game 3 - Milwaukee Brewers at AL Champion [time T
+ BA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
@@ -4128,13 +4134,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849803@football-watchlist
-DTSTAMP:20261009T002820Z
+DTSTAMP:20261016T071936Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261009T002820Z
-SEQUENCE:3
+LAST-MODIFIED:20261016T071936Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-SUMMARY:MLB: World Series Game 4 - NL Champion at AL Champion [time TBA]
+SUMMARY:MLB: World Series Game 4 - Milwaukee Brewers at AL Champion [time T
+ BA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
@@ -4169,14 +4176,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849799@football-watchlist
-DTSTAMP:20261009T002820Z
+DTSTAMP:20261016T071936Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261009T002820Z
-SEQUENCE:3
+LAST-MODIFIED:20261016T071936Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:MLB: World Series Game 5 - NL Champion at AL Champion [if necessary
- ] [time TBA]
+SUMMARY:MLB: World Series Game 5 - Milwaukee Brewers at AL Champion [if nec
+ essary] [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
@@ -4275,14 +4282,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849801@football-watchlist
-DTSTAMP:20261009T002820Z
+DTSTAMP:20261016T071936Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261009T002820Z
-SEQUENCE:3
+LAST-MODIFIED:20261016T071936Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:MLB: World Series Game 6 - AL Champion at NL Champion [if necessary
- ] [time TBA]
+SUMMARY:MLB: World Series Game 6 - AL Champion at Milwaukee Brewers [if nec
+ essary] [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
@@ -4291,7 +4298,7 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  vent when confirmed.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / 
  FOX ONE. Availability varies by country and provider.\n\nOfficial schedule
  : https://www.mlb.com/gameday/849801
-LOCATION:TBD
+LOCATION:American Family Field
 URL:https://www.mlb.com/gameday/849801
 CATEGORIES:MLB,Playoffs
 STATUS:TENTATIVE
@@ -4382,14 +4389,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849800@football-watchlist
-DTSTAMP:20261009T002820Z
+DTSTAMP:20261016T071936Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261009T002820Z
-SEQUENCE:3
+LAST-MODIFIED:20261016T071936Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:MLB: World Series Game 7 - AL Champion at NL Champion [if necessary
- ] [time TBA]
+SUMMARY:MLB: World Series Game 7 - AL Champion at Milwaukee Brewers [if nec
+ essary] [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
@@ -4398,7 +4405,7 @@ DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through
  vent when confirmed.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / 
  FOX ONE. Availability varies by country and provider.\n\nOfficial schedule
  : https://www.mlb.com/gameday/849800
-LOCATION:TBD
+LOCATION:American Family Field
 URL:https://www.mlb.com/gameday/849800
 CATEGORIES:MLB,Playoffs
 STATUS:TENTATIVE
