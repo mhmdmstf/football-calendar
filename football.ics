@@ -932,10 +932,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-823089@football-watchlist
-DTSTAMP:20261015T230628Z
+DTSTAMP:20261016T225347Z
 CREATED:20260920T223228Z
-LAST-MODIFIED:20261015T230628Z
-SEQUENCE:7
+LAST-MODIFIED:20261016T225347Z
+SEQUENCE:8
 DTSTART:20260923T014000Z
 DTEND:20260923T044000Z
 SUMMARY:MLB: Houston Astros at Seattle Mariners
@@ -944,7 +944,7 @@ DESCRIPTION:Two teams with live postseason stakes meet directly.\nHouston A
  e final wild-card spot.\nSeattle Mariners: 5 games behind the division lea
  d.\nStandings snapshot: 2026-09-22.\n\nViewing window: 3 hours\; finish is
   approximate.\n\nProbable pitchers (subject to change): Cristian Javier / 
- Logan Gilbert.\n\nListed broadcasts: Mariners.TV / Space City Home Network
+ Logan Gilbert.\n\nListed broadcasts: Space City Home Network / Mariners.TV
  . Availability varies by country and provider.\n\nOfficial schedule: https
  ://www.mlb.com/gameday/823089
 LOCATION:T-Mobile Park
@@ -997,10 +997,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-823895@football-watchlist
-DTSTAMP:20261015T230628Z
+DTSTAMP:20261016T225347Z
 CREATED:20260923T075004Z
-LAST-MODIFIED:20261015T230628Z
-SEQUENCE:3
+LAST-MODIFIED:20261016T225347Z
+SEQUENCE:4
 DTSTART:20260925T021000Z
 DTEND:20260925T051000Z
 SUMMARY:MLB: San Diego Padres at Los Angeles Dodgers
@@ -1010,7 +1010,7 @@ DESCRIPTION:Two teams with live postseason stakes meet directly.\nSan Diego
  d positioning in play.\nFollowing San Diego Padres.\nStandings snapshot: 2
  026-09-24.\n\nViewing window: 3 hours\; finish is approximate.\n\nProbable
   pitchers (subject to change): Nick Pivetta / Tyler Glasnow.\n\nListed bro
- adcasts: Padres.TV Presented by UC San Diego Health / SportsNet LA / MLB N
+ adcasts: SportsNet LA / Padres.TV Presented by UC San Diego Health / MLB N
  etwork. Availability varies by country and provider.\n\nOfficial schedule:
   https://www.mlb.com/gameday/823895
 LOCATION:UNIQLO Field at Dodger Stadium
@@ -3719,27 +3719,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-849805@football-watchlist
-DTSTAMP:20261016T181009Z
-CREATED:20260919T111549Z
-LAST-MODIFIED:20261016T181009Z
-SEQUENCE:5
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:MLB: World Series Game 1 - TB/CLE at Milwaukee Brewers [time TBA]
-DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
- s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by coun
- try and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849805
-LOCATION:American Family Field
-URL:https://www.mlb.com/gameday/849805
-CATEGORIES:MLB,Playoffs
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:nfl-401873010@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T144637Z
@@ -3822,25 +3801,25 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-849802@football-watchlist
-DTSTAMP:20261016T181009Z
+UID:mlb-849805@football-watchlist
+DTSTAMP:20261016T225347Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261016T181009Z
-SEQUENCE:5
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:MLB: World Series Game 2 - TB/CLE at Milwaukee Brewers [time TBA]
+LAST-MODIFIED:20261016T225347Z
+SEQUENCE:6
+DTSTART:20261024T000000Z
+DTEND:20261024T033000Z
+SUMMARY:MLB: World Series Game 1 - TB/CLE at Milwaukee Brewers
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
- s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by coun
- try and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849802
+  when MLB confirms the matchup.\n\nViewing window: 3.5 hours\; finish is a
+ pproximate.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. 
+ Availability varies by country and provider.\n\nOfficial schedule: https:/
+ /www.mlb.com/gameday/849805
 LOCATION:American Family Field
-URL:https://www.mlb.com/gameday/849802
+URL:https://www.mlb.com/gameday/849805
 CATEGORIES:MLB,Playoffs
 STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:show-gameday-2026-10-24@football-watchlist
@@ -4052,6 +4031,27 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-849802@football-watchlist
+DTSTAMP:20261016T225347Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20261016T225347Z
+SEQUENCE:6
+DTSTART:20261025T000000Z
+DTEND:20261025T033000Z
+SUMMARY:MLB: World Series Game 2 - TB/CLE at Milwaukee Brewers
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nViewing window: 3.5 hours\; finish is a
+ pproximate.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. 
+ Availability varies by country and provider.\n\nOfficial schedule: https:/
+ /www.mlb.com/gameday/849802
+LOCATION:American Family Field
+URL:https://www.mlb.com/gameday/849802
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nfl-401873011@football-watchlist
 DTSTAMP:20260905T145457Z
 CREATED:20260905T144637Z
@@ -4091,27 +4091,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-849804@football-watchlist
-DTSTAMP:20261016T181009Z
-CREATED:20260919T111549Z
-LAST-MODIFIED:20261016T181009Z
-SEQUENCE:5
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
-SUMMARY:MLB: World Series Game 3 - Milwaukee Brewers at TB/CLE [time TBA]
-DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
- s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by coun
- try and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849804
-LOCATION:TBD
-URL:https://www.mlb.com/gameday/849804
-CATEGORIES:MLB,Playoffs
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:nfl-401873022@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T144637Z
@@ -4131,25 +4110,25 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-849803@football-watchlist
-DTSTAMP:20261016T181009Z
+UID:mlb-849804@football-watchlist
+DTSTAMP:20261016T225347Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261016T181009Z
-SEQUENCE:5
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:MLB: World Series Game 4 - Milwaukee Brewers at TB/CLE [time TBA]
+LAST-MODIFIED:20261016T225347Z
+SEQUENCE:6
+DTSTART:20261027T000000Z
+DTEND:20261027T033000Z
+SUMMARY:MLB: World Series Game 3 - Milwaukee Brewers at TB/CLE
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
- s all-day marker will become a timed event when confirmed.\n\nListed broad
- casts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by coun
- try and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849803
+  when MLB confirms the matchup.\n\nViewing window: 3.5 hours\; finish is a
+ pproximate.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. 
+ Availability varies by country and provider.\n\nOfficial schedule: https:/
+ /www.mlb.com/gameday/849804
 LOCATION:TBD
-URL:https://www.mlb.com/gameday/849803
+URL:https://www.mlb.com/gameday/849804
 CATEGORIES:MLB,Playoffs
 STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401873009@football-watchlist
@@ -4172,28 +4151,25 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-849799@football-watchlist
-DTSTAMP:20261016T181009Z
+UID:mlb-849803@football-watchlist
+DTSTAMP:20261016T225347Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261016T181009Z
-SEQUENCE:5
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-SUMMARY:MLB: World Series Game 5 - Milwaukee Brewers at TB/CLE [if necessar
- y] [time TBA]
+LAST-MODIFIED:20261016T225347Z
+SEQUENCE:6
+DTSTART:20261028T000000Z
+DTEND:20261028T033000Z
+SUMMARY:MLB: World Series Game 4 - Milwaukee Brewers at TB/CLE
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nBracket positions
-  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
- st pitch has not been announced. This all-day marker will become a timed e
- vent when confirmed.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / 
- FOX ONE. Availability varies by country and provider.\n\nOfficial schedule
- : https://www.mlb.com/gameday/849799
+ the World Series.\n\nBracket positions are placeholders. Teams will update
+  when MLB confirms the matchup.\n\nViewing window: 3.5 hours\; finish is a
+ pproximate.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. 
+ Availability varies by country and provider.\n\nOfficial schedule: https:/
+ /www.mlb.com/gameday/849803
 LOCATION:TBD
-URL:https://www.mlb.com/gameday/849799
+URL:https://www.mlb.com/gameday/849803
 CATEGORIES:MLB,Playoffs
 STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020189@football-watchlist
@@ -4258,6 +4234,29 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-849799@football-watchlist
+DTSTAMP:20261016T225347Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20261016T225347Z
+SEQUENCE:6
+DTSTART:20261029T000000Z
+DTEND:20261029T033000Z
+SUMMARY:MLB: World Series Game 5 - Milwaukee Brewers at TB/CLE [if necessar
+ y]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nThis game is only played if the series requires it. I
+ t will be cancelled in this feed if no longer needed.\n\nBracket positions
+  are placeholders. Teams will update when MLB confirms the matchup.\n\nVie
+ wing window: 3.5 hours\; finish is approximate.\n\nListed broadcasts: FOX 
+ / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and pro
+ vider.\n\nOfficial schedule: https://www.mlb.com/gameday/849799
+LOCATION:TBD
+URL:https://www.mlb.com/gameday/849799
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nhl-2026020206@football-watchlist
 DTSTAMP:20261001T073711Z
 CREATED:20261001T073711Z
@@ -4276,30 +4275,6 @@ URL:https://www.nhl.com/gamecenter/cbj-vs-car/2026/10/29/2026020206
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-849801@football-watchlist
-DTSTAMP:20261016T181009Z
-CREATED:20260919T111549Z
-LAST-MODIFIED:20261016T181009Z
-SEQUENCE:5
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:MLB: World Series Game 6 - TB/CLE at Milwaukee Brewers [if necessar
- y] [time TBA]
-DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nBracket positions
-  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
- st pitch has not been announced. This all-day marker will become a timed e
- vent when confirmed.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / 
- FOX ONE. Availability varies by country and provider.\n\nOfficial schedule
- : https://www.mlb.com/gameday/849801
-LOCATION:American Family Field
-URL:https://www.mlb.com/gameday/849801
-CATEGORIES:MLB,Playoffs
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401873023@football-watchlist
@@ -4385,28 +4360,27 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-849800@football-watchlist
-DTSTAMP:20261016T181009Z
+UID:mlb-849801@football-watchlist
+DTSTAMP:20261016T225347Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261016T181009Z
-SEQUENCE:5
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:MLB: World Series Game 7 - TB/CLE at Milwaukee Brewers [if necessar
- y] [time TBA]
+LAST-MODIFIED:20261016T225347Z
+SEQUENCE:6
+DTSTART:20261031T000000Z
+DTEND:20261031T033000Z
+SUMMARY:MLB: World Series Game 6 - TB/CLE at Milwaukee Brewers [if necessar
+ y]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
-  are placeholders. Teams will update when MLB confirms the matchup.\n\nFir
- st pitch has not been announced. This all-day marker will become a timed e
- vent when confirmed.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / 
- FOX ONE. Availability varies by country and provider.\n\nOfficial schedule
- : https://www.mlb.com/gameday/849800
+  are placeholders. Teams will update when MLB confirms the matchup.\n\nVie
+ wing window: 3.5 hours\; finish is approximate.\n\nListed broadcasts: FOX 
+ / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and pro
+ vider.\n\nOfficial schedule: https://www.mlb.com/gameday/849801
 LOCATION:American Family Field
-URL:https://www.mlb.com/gameday/849800
+URL:https://www.mlb.com/gameday/849801
 CATEGORIES:MLB,Playoffs
 STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:chelsea-2645278@football-watchlist
@@ -4507,6 +4481,29 @@ LOCATION:SAP Center at San Jose
 URL:https://www.nhl.com/gamecenter/ott-vs-sjs/2026/10/31/2026020222
 CATEGORIES:NHL,Regular season,San Jose Sharks
 STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849800@football-watchlist
+DTSTAMP:20261016T225347Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20261016T225347Z
+SEQUENCE:6
+DTSTART:20261101T000000Z
+DTEND:20261101T033000Z
+SUMMARY:MLB: World Series Game 7 - TB/CLE at Milwaukee Brewers [if necessar
+ y]
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nThis game is only played if the series requires it. I
+ t will be cancelled in this feed if no longer needed.\n\nBracket positions
+  are placeholders. Teams will update when MLB confirms the matchup.\n\nVie
+ wing window: 3.5 hours\; finish is approximate.\n\nListed broadcasts: FOX 
+ / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and pro
+ vider.\n\nOfficial schedule: https://www.mlb.com/gameday/849800
+LOCATION:American Family Field
+URL:https://www.mlb.com/gameday/849800
+CATEGORIES:MLB,Playoffs
+STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT

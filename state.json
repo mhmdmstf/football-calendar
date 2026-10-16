@@ -972,7 +972,7 @@
       "start": "2026-09-23T01:40:00.000Z",
       "end": "2026-09-23T04:40:00.000Z",
       "allDay": false,
-      "description": "Two teams with live postseason stakes meet directly.\nHouston Astros: 1 game behind the division lead.\nHouston Astros: 3 games behind the final wild-card spot.\nSeattle Mariners: 5 games behind the division lead.\nStandings snapshot: 2026-09-22.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Cristian Javier / Logan Gilbert.\n\nListed broadcasts: Mariners.TV / Space City Home Network. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823089",
+      "description": "Two teams with live postseason stakes meet directly.\nHouston Astros: 1 game behind the division lead.\nHouston Astros: 3 games behind the final wild-card spot.\nSeattle Mariners: 5 games behind the division lead.\nStandings snapshot: 2026-09-22.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Cristian Javier / Logan Gilbert.\n\nListed broadcasts: Space City Home Network / Mariners.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823089",
       "location": "T-Mobile Park",
       "url": "https://www.mlb.com/gameday/823089",
       "status": "CONFIRMED",
@@ -980,10 +980,10 @@
         "MLB",
         "Pennant race"
       ],
-      "hash": "5fcd17a0bac5beb372d054dace910af482a6ee67bef1666daa4cc6abf1dd81a2",
+      "hash": "6382914f31333dd99649f668aed313cda81f5cbbb536a60af3735ca7dfe2c21e",
       "created": "2026-09-20T22:32:28.050Z",
-      "modified": "2026-10-15T23:06:28.336Z",
-      "sequence": 7
+      "modified": "2026-10-16T22:53:47.068Z",
+      "sequence": 8
     },
     {
       "uid": "mlb-822841@football-watchlist",
@@ -1063,7 +1063,7 @@
       "start": "2026-09-25T02:10:00.000Z",
       "end": "2026-09-25T05:10:00.000Z",
       "allDay": false,
-      "description": "Two teams with live postseason stakes meet directly.\nSan Diego Padres: 3.5 games ahead of the first team outside the wild cards.\nLos Angeles Dodgers: already qualified; close records keep postseason home-field positioning in play.\nFollowing San Diego Padres.\nStandings snapshot: 2026-09-24.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Pivetta / Tyler Glasnow.\n\nListed broadcasts: Padres.TV Presented by UC San Diego Health / SportsNet LA / MLB Network. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823895",
+      "description": "Two teams with live postseason stakes meet directly.\nSan Diego Padres: 3.5 games ahead of the first team outside the wild cards.\nLos Angeles Dodgers: already qualified; close records keep postseason home-field positioning in play.\nFollowing San Diego Padres.\nStandings snapshot: 2026-09-24.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Pivetta / Tyler Glasnow.\n\nListed broadcasts: SportsNet LA / Padres.TV Presented by UC San Diego Health / MLB Network. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823895",
       "location": "UNIQLO Field at Dodger Stadium",
       "url": "https://www.mlb.com/gameday/823895",
       "status": "CONFIRMED",
@@ -1072,10 +1072,10 @@
         "Pennant race",
         "San Diego Padres"
       ],
-      "hash": "25d0ebd6db4e2473f85516e7782cbe015da98be2235a21b3012c44f7db205649",
+      "hash": "d1dae1f1556d65ac9176706fadc81596acf29697cac5786ccade94a06f310075",
       "created": "2026-09-23T07:50:04.909Z",
-      "modified": "2026-10-15T23:06:28.336Z",
-      "sequence": 3
+      "modified": "2026-10-16T22:53:47.068Z",
+      "sequence": 4
     },
     {
       "uid": "mlb-823248@football-watchlist",
@@ -4517,38 +4517,6 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-849805@football-watchlist",
-      "gameId": "849805",
-      "mlbSeason": 2026,
-      "mlbGameType": "W",
-      "mlbSeriesKey": "2026/W/1",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "21",
-        "158"
-      ],
-      "selectionReasons": [
-        "MLB postseason: every game, from the Wild Card Series through the World Series."
-      ],
-      "title": "MLB: World Series Game 1 - TB/CLE at Milwaukee Brewers [time TBA]",
-      "start": "2026-10-23",
-      "end": "2026-10-24",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849805",
-      "location": "American Family Field",
-      "url": "https://www.mlb.com/gameday/849805",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Playoffs"
-      ],
-      "hash": "b3eceddaefe063da9fb062b3b9905b943d09cc102cd6bba5cf152c8a7863427f",
-      "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-16T18:10:09.203Z",
-      "sequence": 5
-    },
-    {
       "uid": "nfl-401873010@football-watchlist",
       "gameId": "401873010",
       "title": "NFL: New England Patriots at Chicago Bears",
@@ -4640,12 +4608,12 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-849802@football-watchlist",
-      "gameId": "849802",
+      "uid": "mlb-849805@football-watchlist",
+      "gameId": "849805",
       "mlbSeason": 2026,
       "mlbGameType": "W",
       "mlbSeriesKey": "2026/W/1",
-      "mlbSeriesGameNumber": 2,
+      "mlbSeriesGameNumber": 1,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "21",
@@ -4654,22 +4622,22 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: World Series Game 2 - TB/CLE at Milwaukee Brewers [time TBA]",
-      "start": "2026-10-24",
-      "end": "2026-10-25",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849802",
+      "title": "MLB: World Series Game 1 - TB/CLE at Milwaukee Brewers",
+      "start": "2026-10-24T00:00:00.000Z",
+      "end": "2026-10-24T03:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849805",
       "location": "American Family Field",
-      "url": "https://www.mlb.com/gameday/849802",
+      "url": "https://www.mlb.com/gameday/849805",
       "status": "TENTATIVE",
       "categories": [
         "MLB",
         "Playoffs"
       ],
-      "hash": "5ac9aae16e1995b5d6b175dd64f671a57321655b7f1deff439a0769329754d00",
+      "hash": "4415c53a38b2e333c1228073cd63901f39cd40d88a2caf774752ec22eb6e2d3d",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-16T18:10:09.203Z",
-      "sequence": 5
+      "modified": "2026-10-16T22:53:47.068Z",
+      "sequence": 6
     },
     {
       "uid": "show-gameday-2026-10-24@football-watchlist",
@@ -4898,6 +4866,38 @@
       "sequence": 1
     },
     {
+      "uid": "mlb-849802@football-watchlist",
+      "gameId": "849802",
+      "mlbSeason": 2026,
+      "mlbGameType": "W",
+      "mlbSeriesKey": "2026/W/1",
+      "mlbSeriesGameNumber": 2,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "21",
+        "158"
+      ],
+      "selectionReasons": [
+        "MLB postseason: every game, from the Wild Card Series through the World Series."
+      ],
+      "title": "MLB: World Series Game 2 - TB/CLE at Milwaukee Brewers",
+      "start": "2026-10-25T00:00:00.000Z",
+      "end": "2026-10-25T03:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849802",
+      "location": "American Family Field",
+      "url": "https://www.mlb.com/gameday/849802",
+      "status": "TENTATIVE",
+      "categories": [
+        "MLB",
+        "Playoffs"
+      ],
+      "hash": "670a6affeafe408f8276dff1c9b5b119f8fa97f8110b0000c9cdb489654b866d",
+      "created": "2026-09-19T11:15:49.893Z",
+      "modified": "2026-10-16T22:53:47.068Z",
+      "sequence": 6
+    },
+    {
       "uid": "nfl-401873011@football-watchlist",
       "gameId": "401873011",
       "title": "NFL: Pittsburgh Steelers vs New Orleans Saints",
@@ -4936,38 +4936,6 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-849804@football-watchlist",
-      "gameId": "849804",
-      "mlbSeason": 2026,
-      "mlbGameType": "W",
-      "mlbSeriesKey": "2026/W/1",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "158",
-        "21"
-      ],
-      "selectionReasons": [
-        "MLB postseason: every game, from the Wild Card Series through the World Series."
-      ],
-      "title": "MLB: World Series Game 3 - Milwaukee Brewers at TB/CLE [time TBA]",
-      "start": "2026-10-26",
-      "end": "2026-10-27",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849804",
-      "location": "TBD",
-      "url": "https://www.mlb.com/gameday/849804",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Playoffs"
-      ],
-      "hash": "d0f41a904022e9b05f66f6edea43d764fad285dc9763f62e6ae5a4256739815c",
-      "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-16T18:10:09.203Z",
-      "sequence": 5
-    },
-    {
       "uid": "nfl-401873022@football-watchlist",
       "gameId": "401873022",
       "title": "NFL: Kansas City Chiefs at Seattle Seahawks",
@@ -4987,12 +4955,12 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-849803@football-watchlist",
-      "gameId": "849803",
+      "uid": "mlb-849804@football-watchlist",
+      "gameId": "849804",
       "mlbSeason": 2026,
       "mlbGameType": "W",
       "mlbSeriesKey": "2026/W/1",
-      "mlbSeriesGameNumber": 4,
+      "mlbSeriesGameNumber": 3,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "158",
@@ -5001,22 +4969,22 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: World Series Game 4 - Milwaukee Brewers at TB/CLE [time TBA]",
-      "start": "2026-10-27",
-      "end": "2026-10-28",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849803",
+      "title": "MLB: World Series Game 3 - Milwaukee Brewers at TB/CLE",
+      "start": "2026-10-27T00:00:00.000Z",
+      "end": "2026-10-27T03:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849804",
       "location": "TBD",
-      "url": "https://www.mlb.com/gameday/849803",
+      "url": "https://www.mlb.com/gameday/849804",
       "status": "TENTATIVE",
       "categories": [
         "MLB",
         "Playoffs"
       ],
-      "hash": "fd1f94ce12ba76cbfe83f6014826300e6228c77649d12f7eb9d75207ed55222c",
+      "hash": "ceea85db2e9b6df3af9dfebaa56d4c6ef7c8045667f1639a0f3185dcad3a2fed",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-16T18:10:09.203Z",
-      "sequence": 5
+      "modified": "2026-10-16T22:53:47.068Z",
+      "sequence": 6
     },
     {
       "uid": "nfl-401873009@football-watchlist",
@@ -5038,13 +5006,13 @@
       "sequence": 2
     },
     {
-      "uid": "mlb-849799@football-watchlist",
-      "gameId": "849799",
+      "uid": "mlb-849803@football-watchlist",
+      "gameId": "849803",
       "mlbSeason": 2026,
       "mlbGameType": "W",
       "mlbSeriesKey": "2026/W/1",
-      "mlbSeriesGameNumber": 5,
-      "mlbIfNecessary": true,
+      "mlbSeriesGameNumber": 4,
+      "mlbIfNecessary": false,
       "mlbTeamIds": [
         "158",
         "21"
@@ -5052,22 +5020,22 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: World Series Game 5 - Milwaukee Brewers at TB/CLE [if necessary] [time TBA]",
-      "start": "2026-10-28",
-      "end": "2026-10-29",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849799",
+      "title": "MLB: World Series Game 4 - Milwaukee Brewers at TB/CLE",
+      "start": "2026-10-28T00:00:00.000Z",
+      "end": "2026-10-28T03:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849803",
       "location": "TBD",
-      "url": "https://www.mlb.com/gameday/849799",
+      "url": "https://www.mlb.com/gameday/849803",
       "status": "TENTATIVE",
       "categories": [
         "MLB",
         "Playoffs"
       ],
-      "hash": "0e5a1f230161795e27761f81b83a5f55f9335e45ee266ad4086ce01f35d7292e",
+      "hash": "78a48ab6b22af0348cadc02a851065155d8c685ee4378b338fb22580f743da70",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-16T18:10:09.203Z",
-      "sequence": 5
+      "modified": "2026-10-16T22:53:47.068Z",
+      "sequence": 6
     },
     {
       "uid": "nhl-2026020189@football-watchlist",
@@ -5154,6 +5122,38 @@
       "sequence": 1
     },
     {
+      "uid": "mlb-849799@football-watchlist",
+      "gameId": "849799",
+      "mlbSeason": 2026,
+      "mlbGameType": "W",
+      "mlbSeriesKey": "2026/W/1",
+      "mlbSeriesGameNumber": 5,
+      "mlbIfNecessary": true,
+      "mlbTeamIds": [
+        "158",
+        "21"
+      ],
+      "selectionReasons": [
+        "MLB postseason: every game, from the Wild Card Series through the World Series."
+      ],
+      "title": "MLB: World Series Game 5 - Milwaukee Brewers at TB/CLE [if necessary]",
+      "start": "2026-10-29T00:00:00.000Z",
+      "end": "2026-10-29T03:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849799",
+      "location": "TBD",
+      "url": "https://www.mlb.com/gameday/849799",
+      "status": "TENTATIVE",
+      "categories": [
+        "MLB",
+        "Playoffs"
+      ],
+      "hash": "6390143752d0af10ce2fe7d1b7337cf746fe24846aa5f0b9cb60c459bcf5ccb3",
+      "created": "2026-09-19T11:15:49.893Z",
+      "modified": "2026-10-16T22:53:47.068Z",
+      "sequence": 6
+    },
+    {
       "uid": "nhl-2026020206@football-watchlist",
       "gameId": "2026020206",
       "nhlSeason": 20262027,
@@ -5182,38 +5182,6 @@
       "created": "2026-10-01T07:37:11.478Z",
       "modified": "2026-10-01T07:37:11.478Z",
       "sequence": 0
-    },
-    {
-      "uid": "mlb-849801@football-watchlist",
-      "gameId": "849801",
-      "mlbSeason": 2026,
-      "mlbGameType": "W",
-      "mlbSeriesKey": "2026/W/1",
-      "mlbSeriesGameNumber": 6,
-      "mlbIfNecessary": true,
-      "mlbTeamIds": [
-        "21",
-        "158"
-      ],
-      "selectionReasons": [
-        "MLB postseason: every game, from the Wild Card Series through the World Series."
-      ],
-      "title": "MLB: World Series Game 6 - TB/CLE at Milwaukee Brewers [if necessary] [time TBA]",
-      "start": "2026-10-30",
-      "end": "2026-10-31",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849801",
-      "location": "American Family Field",
-      "url": "https://www.mlb.com/gameday/849801",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Playoffs"
-      ],
-      "hash": "b900ff2181158f10ef4153fee190366e811872b9d2de08966ad5cadbe0fbe32c",
-      "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-16T18:10:09.203Z",
-      "sequence": 5
     },
     {
       "uid": "nfl-401873023@football-watchlist",
@@ -5307,12 +5275,12 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-849800@football-watchlist",
-      "gameId": "849800",
+      "uid": "mlb-849801@football-watchlist",
+      "gameId": "849801",
       "mlbSeason": 2026,
       "mlbGameType": "W",
       "mlbSeriesKey": "2026/W/1",
-      "mlbSeriesGameNumber": 7,
+      "mlbSeriesGameNumber": 6,
       "mlbIfNecessary": true,
       "mlbTeamIds": [
         "21",
@@ -5321,22 +5289,22 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: World Series Game 7 - TB/CLE at Milwaukee Brewers [if necessary] [time TBA]",
-      "start": "2026-10-31",
-      "end": "2026-11-01",
-      "allDay": true,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849800",
+      "title": "MLB: World Series Game 6 - TB/CLE at Milwaukee Brewers [if necessary]",
+      "start": "2026-10-31T00:00:00.000Z",
+      "end": "2026-10-31T03:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849801",
       "location": "American Family Field",
-      "url": "https://www.mlb.com/gameday/849800",
+      "url": "https://www.mlb.com/gameday/849801",
       "status": "TENTATIVE",
       "categories": [
         "MLB",
         "Playoffs"
       ],
-      "hash": "e81de934176a445045ae7a7db9509028f8dcf8226205f4a96332f8a9faa32b41",
+      "hash": "44490e6c46568ae0392f931b03999e9429d416aacc5a986877eaab3aa499bcaf",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-16T18:10:09.203Z",
-      "sequence": 5
+      "modified": "2026-10-16T22:53:47.068Z",
+      "sequence": 6
     },
     {
       "uid": "chelsea-2645278@football-watchlist",
@@ -5448,6 +5416,38 @@
       "created": "2026-10-01T07:37:11.478Z",
       "modified": "2026-10-01T07:37:11.478Z",
       "sequence": 0
+    },
+    {
+      "uid": "mlb-849800@football-watchlist",
+      "gameId": "849800",
+      "mlbSeason": 2026,
+      "mlbGameType": "W",
+      "mlbSeriesKey": "2026/W/1",
+      "mlbSeriesGameNumber": 7,
+      "mlbIfNecessary": true,
+      "mlbTeamIds": [
+        "21",
+        "158"
+      ],
+      "selectionReasons": [
+        "MLB postseason: every game, from the Wild Card Series through the World Series."
+      ],
+      "title": "MLB: World Series Game 7 - TB/CLE at Milwaukee Brewers [if necessary]",
+      "start": "2026-11-01T00:00:00.000Z",
+      "end": "2026-11-01T03:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nBracket positions are placeholders. Teams will update when MLB confirms the matchup.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849800",
+      "location": "American Family Field",
+      "url": "https://www.mlb.com/gameday/849800",
+      "status": "TENTATIVE",
+      "categories": [
+        "MLB",
+        "Playoffs"
+      ],
+      "hash": "438c315bcf4ef1cf3fbe5d03a85ad20c297cb2386063c41684afc7b1110165f0",
+      "created": "2026-09-19T11:15:49.893Z",
+      "modified": "2026-10-16T22:53:47.068Z",
+      "sequence": 6
     },
     {
       "uid": "nhl-2026020227@football-watchlist",
