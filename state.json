@@ -3810,7 +3810,7 @@
       "start": "2026-10-17T00:00:00.000Z",
       "end": "2026-10-17T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Martinez.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849817",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Martinez / Shawn Armstrong.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849817",
       "location": "Progressive Field",
       "url": "https://www.mlb.com/gameday/849817",
       "status": "CONFIRMED",
@@ -3820,10 +3820,10 @@
         "Tampa Bay Rays",
         "Cleveland Guardians"
       ],
-      "hash": "d0d94237203c64a1d9c5a714e16a1873204d379dfdf13a40af48a7207bd8d956",
+      "hash": "fe852a438f84ef2a2ba44529f012dd4939be5ee77aad29ec715c0885a51d698a",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-16T07:19:36.562Z",
-      "sequence": 7
+      "modified": "2026-10-16T18:10:09.203Z",
+      "sequence": 8
     },
     {
       "uid": "mlb-849808@football-watchlist",
@@ -4531,7 +4531,7 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: World Series Game 1 - AL Champion at Milwaukee Brewers [time TBA]",
+      "title": "MLB: World Series Game 1 - TB/CLE at Milwaukee Brewers [time TBA]",
       "start": "2026-10-23",
       "end": "2026-10-24",
       "allDay": true,
@@ -4543,10 +4543,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "a44e11a79d61651aaa7f24837a6535ece4e75531606ab9203abf4b3c11b755e0",
+      "hash": "b3eceddaefe063da9fb062b3b9905b943d09cc102cd6bba5cf152c8a7863427f",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-16T07:19:36.562Z",
-      "sequence": 4
+      "modified": "2026-10-16T18:10:09.203Z",
+      "sequence": 5
     },
     {
       "uid": "nfl-401873010@football-watchlist",
@@ -4654,7 +4654,7 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: World Series Game 2 - AL Champion at Milwaukee Brewers [time TBA]",
+      "title": "MLB: World Series Game 2 - TB/CLE at Milwaukee Brewers [time TBA]",
       "start": "2026-10-24",
       "end": "2026-10-25",
       "allDay": true,
@@ -4666,10 +4666,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "b40594c134fffaa3d27b8acbe54608293da551ba8eb3b537cd90e070facbf3e0",
+      "hash": "5ac9aae16e1995b5d6b175dd64f671a57321655b7f1deff439a0769329754d00",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-16T07:19:36.562Z",
-      "sequence": 4
+      "modified": "2026-10-16T18:10:09.203Z",
+      "sequence": 5
     },
     {
       "uid": "show-gameday-2026-10-24@football-watchlist",
@@ -4950,7 +4950,7 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: World Series Game 3 - Milwaukee Brewers at AL Champion [time TBA]",
+      "title": "MLB: World Series Game 3 - Milwaukee Brewers at TB/CLE [time TBA]",
       "start": "2026-10-26",
       "end": "2026-10-27",
       "allDay": true,
@@ -4962,10 +4962,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "2515223f37308226a68d6f631ba35dc4f9f5148b3d8fc5b4fd5e5a200be3ac96",
+      "hash": "d0f41a904022e9b05f66f6edea43d764fad285dc9763f62e6ae5a4256739815c",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-16T07:19:36.562Z",
-      "sequence": 4
+      "modified": "2026-10-16T18:10:09.203Z",
+      "sequence": 5
     },
     {
       "uid": "nfl-401873022@football-watchlist",
@@ -5001,7 +5001,7 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: World Series Game 4 - Milwaukee Brewers at AL Champion [time TBA]",
+      "title": "MLB: World Series Game 4 - Milwaukee Brewers at TB/CLE [time TBA]",
       "start": "2026-10-27",
       "end": "2026-10-28",
       "allDay": true,
@@ -5013,10 +5013,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "0298a3999503cf70bcdf7b35b01f293a317fc74bdafa1807893ae5083a9262ba",
+      "hash": "fd1f94ce12ba76cbfe83f6014826300e6228c77649d12f7eb9d75207ed55222c",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-16T07:19:36.562Z",
-      "sequence": 4
+      "modified": "2026-10-16T18:10:09.203Z",
+      "sequence": 5
     },
     {
       "uid": "nfl-401873009@football-watchlist",
@@ -5052,7 +5052,7 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: World Series Game 5 - Milwaukee Brewers at AL Champion [if necessary] [time TBA]",
+      "title": "MLB: World Series Game 5 - Milwaukee Brewers at TB/CLE [if necessary] [time TBA]",
       "start": "2026-10-28",
       "end": "2026-10-29",
       "allDay": true,
@@ -5064,10 +5064,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "752e54fa25e058074cb22d4781d451949a95f00e3031dec67ddff27478aa5688",
+      "hash": "0e5a1f230161795e27761f81b83a5f55f9335e45ee266ad4086ce01f35d7292e",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-16T07:19:36.562Z",
-      "sequence": 4
+      "modified": "2026-10-16T18:10:09.203Z",
+      "sequence": 5
     },
     {
       "uid": "nhl-2026020189@football-watchlist",
@@ -5198,7 +5198,7 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: World Series Game 6 - AL Champion at Milwaukee Brewers [if necessary] [time TBA]",
+      "title": "MLB: World Series Game 6 - TB/CLE at Milwaukee Brewers [if necessary] [time TBA]",
       "start": "2026-10-30",
       "end": "2026-10-31",
       "allDay": true,
@@ -5210,10 +5210,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "971783ed075697b9d426af00725595692734d05e818ce0abf08be467b3d157da",
+      "hash": "b900ff2181158f10ef4153fee190366e811872b9d2de08966ad5cadbe0fbe32c",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-16T07:19:36.562Z",
-      "sequence": 4
+      "modified": "2026-10-16T18:10:09.203Z",
+      "sequence": 5
     },
     {
       "uid": "nfl-401873023@football-watchlist",
@@ -5321,7 +5321,7 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: World Series Game 7 - AL Champion at Milwaukee Brewers [if necessary] [time TBA]",
+      "title": "MLB: World Series Game 7 - TB/CLE at Milwaukee Brewers [if necessary] [time TBA]",
       "start": "2026-10-31",
       "end": "2026-11-01",
       "allDay": true,
@@ -5333,10 +5333,10 @@
         "MLB",
         "Playoffs"
       ],
-      "hash": "bf848c3ab36d064f967a4a9c832f2b724590b9a496a6e46cd0f9ec10c4e9ef5d",
+      "hash": "e81de934176a445045ae7a7db9509028f8dcf8226205f4a96332f8a9faa32b41",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-16T07:19:36.562Z",
-      "sequence": 4
+      "modified": "2026-10-16T18:10:09.203Z",
+      "sequence": 5
     },
     {
       "uid": "chelsea-2645278@football-watchlist",

@@ -3140,18 +3140,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849817@football-watchlist
-DTSTAMP:20261016T071936Z
+DTSTAMP:20261016T181009Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261016T071936Z
-SEQUENCE:7
+LAST-MODIFIED:20261016T181009Z
+SEQUENCE:8
 DTSTART:20261017T000000Z
 DTEND:20261017T033000Z
 SUMMARY:MLB: ALCS Game 4 - Tampa Bay Rays at Cleveland Guardians
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nProbable pitchers (subject to change): Nick Martinez.\n\nListed broadcast
- s: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country a
- nd provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849817
+ nProbable pitchers (subject to change): Nick Martinez / Shawn Armstrong.\n
+ \nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability v
+ aries by country and provider.\n\nOfficial schedule: https://www.mlb.com/g
+ ameday/849817
 LOCATION:Progressive Field
 URL:https://www.mlb.com/gameday/849817
 CATEGORIES:MLB,Playoffs,Tampa Bay Rays,Cleveland Guardians
@@ -3719,14 +3720,13 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849805@football-watchlist
-DTSTAMP:20261016T071936Z
+DTSTAMP:20261016T181009Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261016T071936Z
-SEQUENCE:4
+LAST-MODIFIED:20261016T181009Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:MLB: World Series Game 1 - AL Champion at Milwaukee Brewers [time T
- BA]
+SUMMARY:MLB: World Series Game 1 - TB/CLE at Milwaukee Brewers [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
@@ -3823,14 +3823,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849802@football-watchlist
-DTSTAMP:20261016T071936Z
+DTSTAMP:20261016T181009Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261016T071936Z
-SEQUENCE:4
+LAST-MODIFIED:20261016T181009Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-SUMMARY:MLB: World Series Game 2 - AL Champion at Milwaukee Brewers [time T
- BA]
+SUMMARY:MLB: World Series Game 2 - TB/CLE at Milwaukee Brewers [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
@@ -4093,14 +4092,13 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849804@football-watchlist
-DTSTAMP:20261016T071936Z
+DTSTAMP:20261016T181009Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261016T071936Z
-SEQUENCE:4
+LAST-MODIFIED:20261016T181009Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-SUMMARY:MLB: World Series Game 3 - Milwaukee Brewers at AL Champion [time T
- BA]
+SUMMARY:MLB: World Series Game 3 - Milwaukee Brewers at TB/CLE [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
@@ -4134,14 +4132,13 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849803@football-watchlist
-DTSTAMP:20261016T071936Z
+DTSTAMP:20261016T181009Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261016T071936Z
-SEQUENCE:4
+LAST-MODIFIED:20261016T181009Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-SUMMARY:MLB: World Series Game 4 - Milwaukee Brewers at AL Champion [time T
- BA]
+SUMMARY:MLB: World Series Game 4 - Milwaukee Brewers at TB/CLE [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nBracket positions are placeholders. Teams will update
   when MLB confirms the matchup.\n\nFirst pitch has not been announced. Thi
@@ -4176,14 +4173,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849799@football-watchlist
-DTSTAMP:20261016T071936Z
+DTSTAMP:20261016T181009Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261016T071936Z
-SEQUENCE:4
+LAST-MODIFIED:20261016T181009Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:MLB: World Series Game 5 - Milwaukee Brewers at AL Champion [if nec
- essary] [time TBA]
+SUMMARY:MLB: World Series Game 5 - Milwaukee Brewers at TB/CLE [if necessar
+ y] [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
@@ -4282,14 +4279,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849801@football-watchlist
-DTSTAMP:20261016T071936Z
+DTSTAMP:20261016T181009Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261016T071936Z
-SEQUENCE:4
+LAST-MODIFIED:20261016T181009Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:MLB: World Series Game 6 - AL Champion at Milwaukee Brewers [if nec
- essary] [time TBA]
+SUMMARY:MLB: World Series Game 6 - TB/CLE at Milwaukee Brewers [if necessar
+ y] [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
@@ -4389,14 +4386,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849800@football-watchlist
-DTSTAMP:20261016T071936Z
+DTSTAMP:20261016T181009Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261016T071936Z
-SEQUENCE:4
+LAST-MODIFIED:20261016T181009Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:MLB: World Series Game 7 - AL Champion at Milwaukee Brewers [if nec
- essary] [time TBA]
+SUMMARY:MLB: World Series Game 7 - TB/CLE at Milwaukee Brewers [if necessar
+ y] [time TBA]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
  t will be cancelled in this feed if no longer needed.\n\nBracket positions
