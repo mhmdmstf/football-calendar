@@ -4106,8 +4106,8 @@
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
       "title": "MLB: ALCS Game 4 - Tampa Bay Rays at Cleveland Guardians",
-      "start": "2026-10-18T00:00:00.000Z",
-      "end": "2026-10-18T03:30:00.000Z",
+      "start": "2026-10-18T00:08:00.000Z",
+      "end": "2026-10-18T03:38:00.000Z",
       "allDay": false,
       "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Martinez / Shawn Armstrong.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849816",
       "location": "Progressive Field",
@@ -4119,10 +4119,10 @@
         "Tampa Bay Rays",
         "Cleveland Guardians"
       ],
-      "hash": "fbb2f9cf3efc15e99fc4763fc6f60d39db69186376c18487eae579236c5987ca",
+      "hash": "5791c35871475863b5a763dff5687cc4cec4b13dcb99adba54b905fe0b23856b",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-17T07:02:36.015Z",
-      "sequence": 7
+      "modified": "2026-10-17T12:15:37.196Z",
+      "sequence": 8
     },
     {
       "uid": "nfl-401872996@football-watchlist",
@@ -4178,8 +4178,8 @@
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
       "title": "MLB: ALCS Game 5, Makeup of 10/16 - Tampa Bay Rays at Cleveland Guardians",
-      "start": "2026-10-18T21:00:00.000Z",
-      "end": "2026-10-19T00:30:00.000Z",
+      "start": "2026-10-18T21:08:00.000Z",
+      "end": "2026-10-19T00:38:00.000Z",
       "allDay": false,
       "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849817",
       "location": "Progressive Field",
@@ -4191,10 +4191,10 @@
         "Tampa Bay Rays",
         "Cleveland Guardians"
       ],
-      "hash": "cbb9237a7635a17abe8177b30d91f84f1b809fad2c0af8ed8b05e9c886f35e81",
+      "hash": "5f6de5efc89facd7f3c221228956d261d48c293bf0259bc1ebcc15e757dce242",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-17T07:02:36.015Z",
-      "sequence": 9
+      "modified": "2026-10-17T12:15:37.196Z",
+      "sequence": 10
     },
     {
       "uid": "mlb-849806@football-watchlist",
@@ -4355,8 +4355,8 @@
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
       "title": "MLB: ALCS Game 6 - Cleveland Guardians at Tampa Bay Rays [if necessary]",
-      "start": "2026-10-20T00:00:00.000Z",
-      "end": "2026-10-20T03:30:00.000Z",
+      "start": "2026-10-20T00:08:00.000Z",
+      "end": "2026-10-20T03:38:00.000Z",
       "allDay": false,
       "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849815",
       "location": "Tropicana Field",
@@ -4368,10 +4368,10 @@
         "Cleveland Guardians",
         "Tampa Bay Rays"
       ],
-      "hash": "9527ccf46c168ac086762813595d7422da88c7f9d07ac630704d99a270ce8dae",
+      "hash": "2df0830ae87a01773c0dd1eb06faf14f44c9c7f65c955353ef8b7e3a590b8e70",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-16T07:19:36.562Z",
-      "sequence": 6
+      "modified": "2026-10-17T12:15:37.196Z",
+      "sequence": 7
     },
     {
       "uid": "nfl-401873008@football-watchlist",
@@ -4438,8 +4438,8 @@
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
       "title": "MLB: ALCS Game 7 - Cleveland Guardians at Tampa Bay Rays [if necessary]",
-      "start": "2026-10-21T00:00:00.000Z",
-      "end": "2026-10-21T03:30:00.000Z",
+      "start": "2026-10-21T00:08:00.000Z",
+      "end": "2026-10-21T03:38:00.000Z",
       "allDay": false,
       "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849814",
       "location": "Tropicana Field",
@@ -4451,10 +4451,10 @@
         "Cleveland Guardians",
         "Tampa Bay Rays"
       ],
-      "hash": "780f085b6c597ee9dd6c8d779ca35d286a9a4508d1f359026af517bb714417ce",
+      "hash": "b396ac1c243fc99261ce4ff333b8254fcd2607e6a5317b3b568debd34202b368",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-11T09:03:07.061Z",
-      "sequence": 5
+      "modified": "2026-10-17T12:15:37.196Z",
+      "sequence": 6
     },
     {
       "uid": "nhl-2026020150@football-watchlist",
