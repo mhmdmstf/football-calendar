@@ -3222,10 +3222,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856724@football-watchlist
-DTSTAMP:20261015T133134Z
+DTSTAMP:20261017T171841Z
 CREATED:20260926T075051Z
-LAST-MODIFIED:20261015T133134Z
-SEQUENCE:3
+LAST-MODIFIED:20261017T171841Z
+SEQUENCE:4
 DTSTART:20261017T160000Z
 DTEND:20261017T193000Z
 SUMMARY:CFB: Florida at Texas
@@ -3233,20 +3233,19 @@ DESCRIPTION:National pick: ranked matchup (#1 vs #21) at selection.\n\nTeam
  s: Florida Gators at Texas Longhorns\n\nUS broadcast: ABC / ERADM. Availab
  ility elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champion
  ships)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-
- football/game/_/gameId/401856724/florida-texas
+ football/game/_/gameId/401856724
 LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856724/florida-t
- exas
+URL:https://www.espn.com/college-football/game/_/gameId/401856724
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858488@football-watchlist
-DTSTAMP:20261013T093320Z
+DTSTAMP:20261017T171841Z
 CREATED:20260926T075051Z
-LAST-MODIFIED:20261013T093320Z
-SEQUENCE:2
+LAST-MODIFIED:20261017T171841Z
+SEQUENCE:3
 DTSTART:20261017T160000Z
 DTEND:20261017T193000Z
 SUMMARY:CFB: Ohio State at Indiana
@@ -3255,10 +3254,9 @@ DESCRIPTION:Confirmed College GameDay or Big Noon featured matchup.\nNation
  eyes at Indiana Hoosiers\n\nUS broadcast: Fox. Availability elsewhere vari
  es.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish is a
  pproximate.\n\nSchedule: https://www.espn.com/college-football/game/_/game
- Id/401858488/ohio-state-indiana
+ Id/401858488
 LOCATION:Memorial Stadium (Bloomington\, IN)\, Bloomington\, IN\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858488/ohio-stat
- e-indiana
+URL:https://www.espn.com/college-football/game/_/gameId/401858488
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
