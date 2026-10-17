@@ -1,5 +1,5 @@
 {
-  "checkedOn": "2026-10-16",
+  "checkedOn": "2026-10-17",
   "season": 2026,
   "events": [
     {
@@ -972,7 +972,7 @@
       "start": "2026-09-23T01:40:00.000Z",
       "end": "2026-09-23T04:40:00.000Z",
       "allDay": false,
-      "description": "Two teams with live postseason stakes meet directly.\nHouston Astros: 1 game behind the division lead.\nHouston Astros: 3 games behind the final wild-card spot.\nSeattle Mariners: 5 games behind the division lead.\nStandings snapshot: 2026-09-22.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Cristian Javier / Logan Gilbert.\n\nListed broadcasts: Space City Home Network / Mariners.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823089",
+      "description": "Two teams with live postseason stakes meet directly.\nHouston Astros: 1 game behind the division lead.\nHouston Astros: 3 games behind the final wild-card spot.\nSeattle Mariners: 5 games behind the division lead.\nStandings snapshot: 2026-09-22.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Cristian Javier / Logan Gilbert.\n\nListed broadcasts: Mariners.TV / Space City Home Network. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823089",
       "location": "T-Mobile Park",
       "url": "https://www.mlb.com/gameday/823089",
       "status": "CONFIRMED",
@@ -980,10 +980,10 @@
         "MLB",
         "Pennant race"
       ],
-      "hash": "6382914f31333dd99649f668aed313cda81f5cbbb536a60af3735ca7dfe2c21e",
+      "hash": "5fcd17a0bac5beb372d054dace910af482a6ee67bef1666daa4cc6abf1dd81a2",
       "created": "2026-09-20T22:32:28.050Z",
-      "modified": "2026-10-16T22:53:47.068Z",
-      "sequence": 8
+      "modified": "2026-10-17T07:02:36.015Z",
+      "sequence": 9
     },
     {
       "uid": "mlb-822841@football-watchlist",
@@ -1063,7 +1063,7 @@
       "start": "2026-09-25T02:10:00.000Z",
       "end": "2026-09-25T05:10:00.000Z",
       "allDay": false,
-      "description": "Two teams with live postseason stakes meet directly.\nSan Diego Padres: 3.5 games ahead of the first team outside the wild cards.\nLos Angeles Dodgers: already qualified; close records keep postseason home-field positioning in play.\nFollowing San Diego Padres.\nStandings snapshot: 2026-09-24.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Pivetta / Tyler Glasnow.\n\nListed broadcasts: SportsNet LA / Padres.TV Presented by UC San Diego Health / MLB Network. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823895",
+      "description": "Two teams with live postseason stakes meet directly.\nSan Diego Padres: 3.5 games ahead of the first team outside the wild cards.\nLos Angeles Dodgers: already qualified; close records keep postseason home-field positioning in play.\nFollowing San Diego Padres.\nStandings snapshot: 2026-09-24.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Pivetta / Tyler Glasnow.\n\nListed broadcasts: Padres.TV Presented by UC San Diego Health / SportsNet LA / MLB Network. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823895",
       "location": "UNIQLO Field at Dodger Stadium",
       "url": "https://www.mlb.com/gameday/823895",
       "status": "CONFIRMED",
@@ -1072,10 +1072,10 @@
         "Pennant race",
         "San Diego Padres"
       ],
-      "hash": "d1dae1f1556d65ac9176706fadc81596acf29697cac5786ccade94a06f310075",
+      "hash": "25d0ebd6db4e2473f85516e7782cbe015da98be2235a21b3012c44f7db205649",
       "created": "2026-09-23T07:50:04.909Z",
-      "modified": "2026-10-16T22:53:47.068Z",
-      "sequence": 4
+      "modified": "2026-10-17T07:02:36.015Z",
+      "sequence": 5
     },
     {
       "uid": "mlb-823248@football-watchlist",
@@ -3792,40 +3792,6 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-849817@football-watchlist",
-      "gameId": "849817",
-      "mlbSeason": 2026,
-      "mlbGameType": "L",
-      "mlbSeriesKey": "2026/L/1",
-      "mlbSeriesGameNumber": 4,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "114"
-      ],
-      "selectionReasons": [
-        "MLB postseason: every game, from the Wild Card Series through the World Series."
-      ],
-      "title": "MLB: ALCS Game 4 - Tampa Bay Rays at Cleveland Guardians",
-      "start": "2026-10-17T00:00:00.000Z",
-      "end": "2026-10-17T03:30:00.000Z",
-      "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Martinez / Shawn Armstrong.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849817",
-      "location": "Progressive Field",
-      "url": "https://www.mlb.com/gameday/849817",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Playoffs",
-        "Tampa Bay Rays",
-        "Cleveland Guardians"
-      ],
-      "hash": "fe852a438f84ef2a2ba44529f012dd4939be5ee77aad29ec715c0885a51d698a",
-      "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-16T18:10:09.203Z",
-      "sequence": 8
-    },
-    {
       "uid": "mlb-849808@football-watchlist",
       "gameId": "849808",
       "mlbSeason": 2026,
@@ -4130,7 +4096,7 @@
       "mlbSeason": 2026,
       "mlbGameType": "L",
       "mlbSeriesKey": "2026/L/1",
-      "mlbSeriesGameNumber": 5,
+      "mlbSeriesGameNumber": 4,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "139",
@@ -4139,11 +4105,11 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALCS Game 5 - Tampa Bay Rays at Cleveland Guardians",
+      "title": "MLB: ALCS Game 4 - Tampa Bay Rays at Cleveland Guardians",
       "start": "2026-10-18T00:00:00.000Z",
       "end": "2026-10-18T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849816",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Martinez / Shawn Armstrong.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849816",
       "location": "Progressive Field",
       "url": "https://www.mlb.com/gameday/849816",
       "status": "CONFIRMED",
@@ -4153,10 +4119,10 @@
         "Tampa Bay Rays",
         "Cleveland Guardians"
       ],
-      "hash": "e4339f5986d49f36ffc7b5792b20b7c4ee5f653466c1cac63c5363a89cbf68b9",
+      "hash": "fbb2f9cf3efc15e99fc4763fc6f60d39db69186376c18487eae579236c5987ca",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-14T07:47:13.119Z",
-      "sequence": 6
+      "modified": "2026-10-17T07:02:36.015Z",
+      "sequence": 7
     },
     {
       "uid": "nfl-401872996@football-watchlist",
@@ -4195,6 +4161,40 @@
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-05T14:46:37.855Z",
       "sequence": 0
+    },
+    {
+      "uid": "mlb-849817@football-watchlist",
+      "gameId": "849817",
+      "mlbSeason": 2026,
+      "mlbGameType": "L",
+      "mlbSeriesKey": "2026/L/1",
+      "mlbSeriesGameNumber": 5,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "139",
+        "114"
+      ],
+      "selectionReasons": [
+        "MLB postseason: every game, from the Wild Card Series through the World Series."
+      ],
+      "title": "MLB: ALCS Game 5, Makeup of 10/16 - Tampa Bay Rays at Cleveland Guardians",
+      "start": "2026-10-18T21:00:00.000Z",
+      "end": "2026-10-19T00:30:00.000Z",
+      "allDay": false,
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849817",
+      "location": "Progressive Field",
+      "url": "https://www.mlb.com/gameday/849817",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Playoffs",
+        "Tampa Bay Rays",
+        "Cleveland Guardians"
+      ],
+      "hash": "cbb9237a7635a17abe8177b30d91f84f1b809fad2c0af8ed8b05e9c886f35e81",
+      "created": "2026-09-19T11:15:49.893Z",
+      "modified": "2026-10-17T07:02:36.015Z",
+      "sequence": 9
     },
     {
       "uid": "mlb-849806@football-watchlist",
@@ -5693,6 +5693,111 @@
       "hash": "bd907c03cbf9b45e589ff938e99e5ec136db6dee942f62c3358076bf9de08333",
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856741@football-watchlist",
+      "gameId": "401856741",
+      "title": "CFB: Georgia at Ole Miss [time TBA]",
+      "start": "2026-11-07",
+      "end": "2026-11-08",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#1 vs #9) at selection.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Georgia Bulldogs at Ole Miss Rebels\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856741/georgia-ole-miss",
+      "location": "Vaught-Hemingway Stadium, Oxford, MS, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856741/georgia-ole-miss",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#1 vs #9) at selection.",
+      "hash": "846b0b0d2a198f802578bb8c9af80de565fe3981a109ad404c23c960ca330b93",
+      "created": "2026-10-17T07:02:36.015Z",
+      "modified": "2026-10-17T07:02:36.015Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856743@football-watchlist",
+      "gameId": "401856743",
+      "title": "CFB: Texas at Missouri [time TBA]",
+      "start": "2026-11-07",
+      "end": "2026-11-08",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#7 vs #13) at selection.\n\nEARLY: Noon - 1pm ET start\n\nTeams: Texas Longhorns at Missouri Tigers\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856743/texas-missouri",
+      "location": "Memorial Stadium, Columbia, MO, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856743/texas-missouri",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#7 vs #13) at selection.",
+      "hash": "3720e85661779eefe2d7eba2c83e8253fe39903d031994360c98f3f32168f16d",
+      "created": "2026-10-17T07:02:36.015Z",
+      "modified": "2026-10-17T07:02:36.015Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856745@football-watchlist",
+      "gameId": "401856745",
+      "title": "CFB: Kentucky at Tennessee [time TBA]",
+      "start": "2026-11-07",
+      "end": "2026-11-08",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#14 vs #15) at selection.\n\nNIGHT: 6 - 8pm ET start\n\nTeams: Kentucky Wildcats at Tennessee Volunteers\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856745/kentucky-tennessee",
+      "location": "Neyland Stadium, Knoxville, TN, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856745/kentucky-tennessee",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#14 vs #15) at selection.",
+      "hash": "1f3262c1bd27dd5c1714ff2484246901485e1e846d10e12c1e680ac9f05f4aed",
+      "created": "2026-10-17T07:02:36.015Z",
+      "modified": "2026-10-17T07:02:36.015Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856849@football-watchlist",
+      "gameId": "401856849",
+      "title": "CFB: BYU at Utah [time TBA]",
+      "start": "2026-11-07",
+      "end": "2026-11-08",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#8 vs #11) at selection.\n\nTeams: BYU Cougars at Utah Utes\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856849/byu-utah",
+      "location": "Rice-Eccles Stadium, Salt Lake City, UT, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856849/byu-utah",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#8 vs #11) at selection.",
+      "hash": "e5a13610fdcdd2abfacff375f012a946b6d83b16233831002f700e9d6e224245",
+      "created": "2026-10-17T07:02:36.015Z",
+      "modified": "2026-10-17T07:02:36.015Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401858513@football-watchlist",
+      "gameId": "401858513",
+      "title": "CFB: Iowa at Northwestern [time TBA]",
+      "start": "2026-11-07",
+      "end": "2026-11-08",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#17 vs #25) at selection.\n\nTeams: Iowa Hawkeyes at Northwestern Wildcats\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858513/iowa-northwestern",
+      "location": "Ryan Field, Evanston, IL, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858513/iowa-northwestern",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#17 vs #25) at selection.",
+      "hash": "c33561354727b60e46d3899945f3a3f133cb6ec746dc71520568d90e510516b3",
+      "created": "2026-10-17T07:02:36.015Z",
+      "modified": "2026-10-17T07:02:36.015Z",
       "sequence": 0
     },
     {
@@ -12271,14 +12376,14 @@
   "nflGames": 285,
   "collegeGames": 949,
   "baseball": {
-    "checkedOn": "2026-10-16",
+    "checkedOn": "2026-10-17",
     "season": 2026,
     "scheduleGames": 404,
     "events": 51,
     "playoffEvents": 43
   },
   "hockey": {
-    "checkedOn": "2026-10-16",
+    "checkedOn": "2026-10-17",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -12295,7 +12400,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-10-16",
+    "checkedOn": "2026-10-17",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,

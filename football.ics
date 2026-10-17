@@ -932,10 +932,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-823089@football-watchlist
-DTSTAMP:20261016T225347Z
+DTSTAMP:20261017T070236Z
 CREATED:20260920T223228Z
-LAST-MODIFIED:20261016T225347Z
-SEQUENCE:8
+LAST-MODIFIED:20261017T070236Z
+SEQUENCE:9
 DTSTART:20260923T014000Z
 DTEND:20260923T044000Z
 SUMMARY:MLB: Houston Astros at Seattle Mariners
@@ -944,7 +944,7 @@ DESCRIPTION:Two teams with live postseason stakes meet directly.\nHouston A
  e final wild-card spot.\nSeattle Mariners: 5 games behind the division lea
  d.\nStandings snapshot: 2026-09-22.\n\nViewing window: 3 hours\; finish is
   approximate.\n\nProbable pitchers (subject to change): Cristian Javier / 
- Logan Gilbert.\n\nListed broadcasts: Space City Home Network / Mariners.TV
+ Logan Gilbert.\n\nListed broadcasts: Mariners.TV / Space City Home Network
  . Availability varies by country and provider.\n\nOfficial schedule: https
  ://www.mlb.com/gameday/823089
 LOCATION:T-Mobile Park
@@ -997,10 +997,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-823895@football-watchlist
-DTSTAMP:20261016T225347Z
+DTSTAMP:20261017T070236Z
 CREATED:20260923T075004Z
-LAST-MODIFIED:20261016T225347Z
-SEQUENCE:4
+LAST-MODIFIED:20261017T070236Z
+SEQUENCE:5
 DTSTART:20260925T021000Z
 DTEND:20260925T051000Z
 SUMMARY:MLB: San Diego Padres at Los Angeles Dodgers
@@ -1010,7 +1010,7 @@ DESCRIPTION:Two teams with live postseason stakes meet directly.\nSan Diego
  d positioning in play.\nFollowing San Diego Padres.\nStandings snapshot: 2
  026-09-24.\n\nViewing window: 3 hours\; finish is approximate.\n\nProbable
   pitchers (subject to change): Nick Pivetta / Tyler Glasnow.\n\nListed bro
- adcasts: SportsNet LA / Padres.TV Presented by UC San Diego Health / MLB N
+ adcasts: Padres.TV Presented by UC San Diego Health / SportsNet LA / MLB N
  etwork. Availability varies by country and provider.\n\nOfficial schedule:
   https://www.mlb.com/gameday/823895
 LOCATION:UNIQLO Field at Dodger Stadium
@@ -3139,27 +3139,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-849817@football-watchlist
-DTSTAMP:20261016T181009Z
-CREATED:20260919T111549Z
-LAST-MODIFIED:20261016T181009Z
-SEQUENCE:8
-DTSTART:20261017T000000Z
-DTEND:20261017T033000Z
-SUMMARY:MLB: ALCS Game 4 - Tampa Bay Rays at Cleveland Guardians
-DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nProbable pitchers (subject to change): Nick Martinez / Shawn Armstrong.\n
- \nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability v
- aries by country and provider.\n\nOfficial schedule: https://www.mlb.com/g
- ameday/849817
-LOCATION:Progressive Field
-URL:https://www.mlb.com/gameday/849817
-CATEGORIES:MLB,Playoffs,Tampa Bay Rays,Cleveland Guardians
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-849808@football-watchlist
 DTSTAMP:20261016T071936Z
 CREATED:20260919T111549Z
@@ -3432,18 +3411,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849816@football-watchlist
-DTSTAMP:20261014T074713Z
+DTSTAMP:20261017T070236Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261014T074713Z
-SEQUENCE:6
+LAST-MODIFIED:20261017T070236Z
+SEQUENCE:7
 DTSTART:20261018T000000Z
 DTEND:20261018T033000Z
-SUMMARY:MLB: ALCS Game 5 - Tampa Bay Rays at Cleveland Guardians
+SUMMARY:MLB: ALCS Game 4 - Tampa Bay Rays at Cleveland Guardians
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability va
- ries by country and provider.\n\nOfficial schedule: https://www.mlb.com/ga
- meday/849816
+ nProbable pitchers (subject to change): Nick Martinez / Shawn Armstrong.\n
+ \nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability v
+ aries by country and provider.\n\nOfficial schedule: https://www.mlb.com/g
+ ameday/849816
 LOCATION:Progressive Field
 URL:https://www.mlb.com/gameday/849816
 CATEGORIES:MLB,Playoffs,Tampa Bay Rays,Cleveland Guardians
@@ -3486,6 +3466,27 @@ LOCATION:NFL RedZone
 URL:https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-Re
  dZone
 CATEGORIES:NFL,RedZone
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-849817@football-watchlist
+DTSTAMP:20261017T070236Z
+CREATED:20260919T111549Z
+LAST-MODIFIED:20261017T070236Z
+SEQUENCE:9
+DTSTART:20261018T210000Z
+DTEND:20261019T003000Z
+SUMMARY:MLB: ALCS Game 5\, Makeup of 10/16 - Tampa Bay Rays at Cleveland Gu
+ ardians
+DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
+ the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
+ nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability va
+ ries by country and provider.\n\nOfficial schedule: https://www.mlb.com/ga
+ meday/849817
+LOCATION:Progressive Field
+URL:https://www.mlb.com/gameday/849817
+CATEGORIES:MLB,Playoffs,Tampa Bay Rays,Cleveland Guardians
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -4703,6 +4704,111 @@ LOCATION:Tiger Stadium (LA)\, Baton Rouge\, LA\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856740/alabama-l
  su
 CATEGORIES:College,Alabama
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856741@football-watchlist
+DTSTAMP:20261017T070236Z
+CREATED:20261017T070236Z
+LAST-MODIFIED:20261017T070236Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:CFB: Georgia at Ole Miss [time TBA]
+DESCRIPTION:National pick: ranked matchup (#1 vs #9) at selection.\n\nFLEX:
+  3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Georgia Bulldogs at Ole Miss 
+ Rebels\n\nBroadcast to be announced.\n\nKickoff has not been announced. Th
+ is all-day marker will become a timed event when confirmed.\n\nSchedule: h
+ ttps://www.espn.com/college-football/game/_/gameId/401856741/georgia-ole-m
+ iss
+LOCATION:Vaught-Hemingway Stadium\, Oxford\, MS\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856741/georgia-o
+ le-miss
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856743@football-watchlist
+DTSTAMP:20261017T070236Z
+CREATED:20261017T070236Z
+LAST-MODIFIED:20261017T070236Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:CFB: Texas at Missouri [time TBA]
+DESCRIPTION:National pick: ranked matchup (#7 vs #13) at selection.\n\nEARL
+ Y: Noon - 1pm ET start\n\nTeams: Texas Longhorns at Missouri Tigers\n\nBro
+ adcast to be announced.\n\nKickoff has not been announced. This all-day ma
+ rker will become a timed event when confirmed.\n\nSchedule: https://www.es
+ pn.com/college-football/game/_/gameId/401856743/texas-missouri
+LOCATION:Memorial Stadium\, Columbia\, MO\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856743/texas-mis
+ souri
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856745@football-watchlist
+DTSTAMP:20261017T070236Z
+CREATED:20261017T070236Z
+LAST-MODIFIED:20261017T070236Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:CFB: Kentucky at Tennessee [time TBA]
+DESCRIPTION:National pick: ranked matchup (#14 vs #15) at selection.\n\nNIG
+ HT: 6 - 8pm ET start\n\nTeams: Kentucky Wildcats at Tennessee Volunteers\n
+ \nBroadcast to be announced.\n\nKickoff has not been announced. This all-d
+ ay marker will become a timed event when confirmed.\n\nSchedule: https://w
+ ww.espn.com/college-football/game/_/gameId/401856745/kentucky-tennessee
+LOCATION:Neyland Stadium\, Knoxville\, TN\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856745/kentucky-
+ tennessee
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856849@football-watchlist
+DTSTAMP:20261017T070236Z
+CREATED:20261017T070236Z
+LAST-MODIFIED:20261017T070236Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:CFB: BYU at Utah [time TBA]
+DESCRIPTION:National pick: ranked matchup (#8 vs #11) at selection.\n\nTeam
+ s: BYU Cougars at Utah Utes\n\nBroadcast to be announced.\n\nKickoff has n
+ ot been announced. This all-day marker will become a timed event when conf
+ irmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/40
+ 1856849/byu-utah
+LOCATION:Rice-Eccles Stadium\, Salt Lake City\, UT\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856849/byu-utah
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858513@football-watchlist
+DTSTAMP:20261017T070236Z
+CREATED:20261017T070236Z
+LAST-MODIFIED:20261017T070236Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:CFB: Iowa at Northwestern [time TBA]
+DESCRIPTION:National pick: ranked matchup (#17 vs #25) at selection.\n\nTea
+ ms: Iowa Hawkeyes at Northwestern Wildcats\n\nBroadcast to be announced.\n
+ \nKickoff has not been announced. This all-day marker will become a timed 
+ event when confirmed.\n\nSchedule: https://www.espn.com/college-football/g
+ ame/_/gameId/401858513/iowa-northwestern
+LOCATION:Ryan Field\, Evanston\, IL\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858513/iowa-nort
+ hwestern
+CATEGORIES:College,National pick
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
