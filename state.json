@@ -1,5 +1,5 @@
 {
-  "checkedOn": "2026-10-17",
+  "checkedOn": "2026-10-18",
   "season": 2026,
   "events": [
     {
@@ -972,7 +972,7 @@
       "start": "2026-09-23T01:40:00.000Z",
       "end": "2026-09-23T04:40:00.000Z",
       "allDay": false,
-      "description": "Two teams with live postseason stakes meet directly.\nHouston Astros: 1 game behind the division lead.\nHouston Astros: 3 games behind the final wild-card spot.\nSeattle Mariners: 5 games behind the division lead.\nStandings snapshot: 2026-09-22.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Cristian Javier / Logan Gilbert.\n\nListed broadcasts: Mariners.TV / Space City Home Network. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823089",
+      "description": "Two teams with live postseason stakes meet directly.\nHouston Astros: 1 game behind the division lead.\nHouston Astros: 3 games behind the final wild-card spot.\nSeattle Mariners: 5 games behind the division lead.\nStandings snapshot: 2026-09-22.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Cristian Javier / Logan Gilbert.\n\nListed broadcasts: Space City Home Network / Mariners.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823089",
       "location": "T-Mobile Park",
       "url": "https://www.mlb.com/gameday/823089",
       "status": "CONFIRMED",
@@ -980,10 +980,10 @@
         "MLB",
         "Pennant race"
       ],
-      "hash": "5fcd17a0bac5beb372d054dace910af482a6ee67bef1666daa4cc6abf1dd81a2",
+      "hash": "6382914f31333dd99649f668aed313cda81f5cbbb536a60af3735ca7dfe2c21e",
       "created": "2026-09-20T22:32:28.050Z",
-      "modified": "2026-10-17T07:02:36.015Z",
-      "sequence": 9
+      "modified": "2026-10-18T07:17:58.958Z",
+      "sequence": 10
     },
     {
       "uid": "mlb-822841@football-watchlist",
@@ -1063,7 +1063,7 @@
       "start": "2026-09-25T02:10:00.000Z",
       "end": "2026-09-25T05:10:00.000Z",
       "allDay": false,
-      "description": "Two teams with live postseason stakes meet directly.\nSan Diego Padres: 3.5 games ahead of the first team outside the wild cards.\nLos Angeles Dodgers: already qualified; close records keep postseason home-field positioning in play.\nFollowing San Diego Padres.\nStandings snapshot: 2026-09-24.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Pivetta / Tyler Glasnow.\n\nListed broadcasts: Padres.TV Presented by UC San Diego Health / SportsNet LA / MLB Network. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823895",
+      "description": "Two teams with live postseason stakes meet directly.\nSan Diego Padres: 3.5 games ahead of the first team outside the wild cards.\nLos Angeles Dodgers: already qualified; close records keep postseason home-field positioning in play.\nFollowing San Diego Padres.\nStandings snapshot: 2026-09-24.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Pivetta / Tyler Glasnow.\n\nListed broadcasts: SportsNet LA / Padres.TV Presented by UC San Diego Health / MLB Network. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823895",
       "location": "UNIQLO Field at Dodger Stadium",
       "url": "https://www.mlb.com/gameday/823895",
       "status": "CONFIRMED",
@@ -1072,10 +1072,10 @@
         "Pennant race",
         "San Diego Padres"
       ],
-      "hash": "25d0ebd6db4e2473f85516e7782cbe015da98be2235a21b3012c44f7db205649",
+      "hash": "d1dae1f1556d65ac9176706fadc81596acf29697cac5786ccade94a06f310075",
       "created": "2026-09-23T07:50:04.909Z",
-      "modified": "2026-10-17T07:02:36.015Z",
-      "sequence": 5
+      "modified": "2026-10-18T07:17:58.958Z",
+      "sequence": 6
     },
     {
       "uid": "mlb-823248@football-watchlist",
@@ -3935,19 +3935,19 @@
       "start": "2026-10-17T19:30:00.000Z",
       "end": "2026-10-17T23:00:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#4 vs #19) at selection.\n\nTeams: Missouri Tigers at Ole Miss Rebels\n\nUS broadcast: SEC Network. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856721",
+      "description": "National pick: ranked matchup (#4 vs #19) at selection.\n\nTeams: Missouri Tigers at Ole Miss Rebels\n\nUS broadcast: SEC Network. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856721/missouri-ole-miss",
       "location": "Vaught-Hemingway Stadium, Oxford, MS, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856721",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856721/missouri-ole-miss",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#4 vs #19) at selection.",
-      "hash": "0f4eb6acc64995da10208b53cb8825fd8aebcd2e6a5773305ccda75528255e8c",
+      "hash": "75ca49c48f838ff725d3a70e1d2eeaa222a066146a8b4e53150cc38f1a9aae87",
       "created": "2026-09-26T07:50:51.012Z",
-      "modified": "2026-10-17T22:26:27.214Z",
-      "sequence": 3
+      "modified": "2026-10-18T07:17:58.958Z",
+      "sequence": 4
     },
     {
       "uid": "college-football-401856723@football-watchlist",
@@ -3956,18 +3956,18 @@
       "start": "2026-10-17T19:30:00.000Z",
       "end": "2026-10-17T23:00:00.000Z",
       "allDay": false,
-      "description": "Following Alabama: every game.\nMajor rivalry: Third Saturday in October.\n\nTeams: Alabama Crimson Tide at Tennessee Volunteers\n\nUS broadcast: ABC / ERADM. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856723",
+      "description": "Following Alabama: every game.\nMajor rivalry: Third Saturday in October.\n\nTeams: Alabama Crimson Tide at Tennessee Volunteers\n\nUS broadcast: ABC / ERADM. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856723/alabama-tennessee",
       "location": "Neyland Stadium, Knoxville, TN, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856723",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856723/alabama-tennessee",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "Alabama"
       ],
-      "hash": "481b8b2b6448a3fe87615624999df157b0289318310bd68728030321b10e101e",
+      "hash": "230e7fa0573e5193175206369ad17dbb29489d30ebcd0cd9e768f5ae341eda6e",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-10-17T22:26:27.214Z",
-      "sequence": 4
+      "modified": "2026-10-18T07:17:58.958Z",
+      "sequence": 5
     },
     {
       "uid": "college-football-401858490@football-watchlist",
@@ -3976,19 +3976,19 @@
       "start": "2026-10-17T19:30:00.000Z",
       "end": "2026-10-17T23:00:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#13 vs #18) at selection.\n\nTeams: Penn State Nittany Lions at Michigan Wolverines\n\nUS broadcast: CBS. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858490",
+      "description": "National pick: ranked matchup (#13 vs #18) at selection.\n\nTeams: Penn State Nittany Lions at Michigan Wolverines\n\nUS broadcast: CBS. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858490/penn-state-michigan",
       "location": "Michigan Stadium, Ann Arbor, MI, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858490",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858490/penn-state-michigan",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#13 vs #18) at selection.",
-      "hash": "7f2216769376024cf7faa9381fabc15670d66c03bf02e0fd0cddec9f139f9b2c",
+      "hash": "58d663b62ab147902371ac296d18d34853e47cb18b11db6af064f67ca69aaea4",
       "created": "2026-09-26T07:50:51.012Z",
-      "modified": "2026-10-17T22:26:27.214Z",
-      "sequence": 3
+      "modified": "2026-10-18T07:17:58.958Z",
+      "sequence": 4
     },
     {
       "uid": "nhl-2026020122@football-watchlist",
@@ -4181,7 +4181,7 @@
       "start": "2026-10-18T21:08:00.000Z",
       "end": "2026-10-19T00:38:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849817",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Drew Rasmussen / Parker Messick.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849817",
       "location": "Progressive Field",
       "url": "https://www.mlb.com/gameday/849817",
       "status": "CONFIRMED",
@@ -4191,10 +4191,10 @@
         "Tampa Bay Rays",
         "Cleveland Guardians"
       ],
-      "hash": "5f6de5efc89facd7f3c221228956d261d48c293bf0259bc1ebcc15e757dce242",
+      "hash": "b17f61dd1274c63a5206964e45c3ac4cac6d148cf603bc9f98dce71bd03719fa",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-17T12:15:37.196Z",
-      "sequence": 10
+      "modified": "2026-10-18T07:17:58.958Z",
+      "sequence": 11
     },
     {
       "uid": "mlb-849806@football-watchlist",
@@ -4346,7 +4346,7 @@
       "mlbGameType": "L",
       "mlbSeriesKey": "2026/L/1",
       "mlbSeriesGameNumber": 6,
-      "mlbIfNecessary": true,
+      "mlbIfNecessary": false,
       "mlbTeamIds": [
         "114",
         "139"
@@ -4354,24 +4354,24 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: ALCS Game 6 - Cleveland Guardians at Tampa Bay Rays [if necessary]",
+      "title": "MLB: ALCS Game 6 - Cleveland Guardians at Tampa Bay Rays",
       "start": "2026-10-20T00:08:00.000Z",
       "end": "2026-10-20T03:38:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849815",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849815",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/849815",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Playoffs",
         "Cleveland Guardians",
         "Tampa Bay Rays"
       ],
-      "hash": "2df0830ae87a01773c0dd1eb06faf14f44c9c7f65c955353ef8b7e3a590b8e70",
+      "hash": "4e6e7450afce6736c10e10491615d2a40775749fc9b0a7d435fa44e1b3d8cdf8",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-17T12:15:37.196Z",
-      "sequence": 7
+      "modified": "2026-10-18T07:17:58.958Z",
+      "sequence": 8
     },
     {
       "uid": "nfl-401873008@football-watchlist",
@@ -5866,6 +5866,27 @@
       "hash": "bf9f9de7171f8377f4cd72a1fb3e46d8d129386cda2b97b1ac7a8ef72216cb7b",
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401858291@football-watchlist",
+      "gameId": "401858291",
+      "title": "CFB: Miami at Notre Dame",
+      "start": "2026-11-08T00:30:00.000Z",
+      "end": "2026-11-08T04:00:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#2 vs #3) at selection.\n\nTeams: Miami Hurricanes at Notre Dame Fighting Irish\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858291/miami-notre-dame",
+      "location": "Notre Dame Stadium, Notre Dame, IN, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858291/miami-notre-dame",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#2 vs #3) at selection.",
+      "hash": "ef2d6584f5305b972ab78ca5c0d8951b97fc409c3e6ec3c88ab98baa091c4254",
+      "created": "2026-10-18T07:17:58.958Z",
+      "modified": "2026-10-18T07:17:58.958Z",
       "sequence": 0
     },
     {
@@ -12376,14 +12397,14 @@
   "nflGames": 285,
   "collegeGames": 949,
   "baseball": {
-    "checkedOn": "2026-10-17",
+    "checkedOn": "2026-10-18",
     "season": 2026,
     "scheduleGames": 404,
     "events": 51,
     "playoffEvents": 43
   },
   "hockey": {
-    "checkedOn": "2026-10-17",
+    "checkedOn": "2026-10-18",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -12400,7 +12421,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-10-17",
+    "checkedOn": "2026-10-18",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
