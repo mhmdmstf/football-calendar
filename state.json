@@ -4566,27 +4566,6 @@
       "sequence": 0
     },
     {
-      "uid": "college-football-401856835@football-watchlist",
-      "gameId": "401856835",
-      "title": "CFB: BYU at UCF [time TBA]",
-      "start": "2026-10-24",
-      "end": "2026-10-25",
-      "allDay": true,
-      "description": "National pick: a ranked team in a potentially competitive game (market spread 9.5 points at selection). Upset possibility is an estimate.\n\nTeams: BYU Cougars at UCF Knights\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856835/byu-ucf",
-      "location": "Acrisure Bounce House, Orlando, FL, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856835/byu-ucf",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 9.5 points at selection). Upset possibility is an estimate.",
-      "hash": "61fb20f2c5893e9488115339c76fadc2295e44373e0b5dfe0e066e1f98831d52",
-      "created": "2026-10-14T23:18:19.360Z",
-      "modified": "2026-10-14T23:18:19.360Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-849805@football-watchlist",
       "gameId": "849805",
       "mlbSeason": 2026,
@@ -4761,6 +4740,27 @@
       "hash": "d7de00e7edd179e6675ab4c128194ea32eb38abd0f9b9e44a382e34265f914b4",
       "created": "2026-10-14T23:18:19.360Z",
       "modified": "2026-10-18T17:25:57.690Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401856835@football-watchlist",
+      "gameId": "401856835",
+      "title": "CFB: BYU at UCF",
+      "start": "2026-10-24T19:30:00.000Z",
+      "end": "2026-10-24T23:00:00.000Z",
+      "allDay": false,
+      "description": "National pick: a ranked team in a potentially competitive game (market spread 9.5 points at selection). Upset possibility is an estimate.\n\nTeams: BYU Cougars at UCF Knights\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856835/byu-ucf",
+      "location": "Acrisure Bounce House, Orlando, FL, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856835/byu-ucf",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 9.5 points at selection). Upset possibility is an estimate.",
+      "hash": "2900d8927389c2ffe62e8fab8a555e3a232d26167082b4b67d2420f68ff200fa",
+      "created": "2026-10-14T23:18:19.360Z",
+      "modified": "2026-10-18T22:28:29.718Z",
       "sequence": 1
     },
     {
@@ -5251,6 +5251,27 @@
       "hash": "0ee5926dd71bceab96011724b7e51266326c8e39425b1797ec8aa268f2a8b936",
       "created": "2026-10-10T08:39:02.510Z",
       "modified": "2026-10-10T08:39:02.510Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856842@football-watchlist",
+      "gameId": "401856842",
+      "title": "CFB: Arizona at Texas Tech [time TBA]",
+      "start": "2026-10-31",
+      "end": "2026-11-01",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#8 vs #25) at selection.\n\nTeams: Arizona Wildcats at Texas Tech Red Raiders\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856842/arizona-texas-tech",
+      "location": "Galaxy Stadium, Lubbock, TX, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856842/arizona-texas-tech",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#8 vs #25) at selection.",
+      "hash": "cd8b2ebbc2431e3dcfe4b90f380e77c6182cf68f290c4d46dd18a1e69f0ea844",
+      "created": "2026-10-18T22:28:29.718Z",
+      "modified": "2026-10-18T22:28:29.718Z",
       "sequence": 0
     },
     {

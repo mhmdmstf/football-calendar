@@ -3759,27 +3759,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:college-football-401856835@football-watchlist
-DTSTAMP:20261014T231819Z
-CREATED:20261014T231819Z
-LAST-MODIFIED:20261014T231819Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:CFB: BYU at UCF [time TBA]
-DESCRIPTION:National pick: a ranked team in a potentially competitive game 
- (market spread 9.5 points at selection). Upset possibility is an estimate.
- \n\nTeams: BYU Cougars at UCF Knights\n\nBroadcast to be announced.\n\nKic
- koff has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_
- /gameId/401856835/byu-ucf
-LOCATION:Acrisure Bounce House\, Orlando\, FL\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856835/byu-ucf
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-849805@football-watchlist
 DTSTAMP:20261016T225347Z
 CREATED:20260919T111549Z
@@ -3942,6 +3921,27 @@ DESCRIPTION:National pick: a ranked team in a potentially competitive game
 LOCATION:Williams-Brice Stadium\, Columbia\, SC\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856731/tennessee
  -south-carolina
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856835@football-watchlist
+DTSTAMP:20261018T222829Z
+CREATED:20261014T231819Z
+LAST-MODIFIED:20261018T222829Z
+SEQUENCE:1
+DTSTART:20261024T193000Z
+DTEND:20261024T230000Z
+SUMMARY:CFB: BYU at UCF
+DESCRIPTION:National pick: a ranked team in a potentially competitive game 
+ (market spread 9.5 points at selection). Upset possibility is an estimate.
+ \n\nTeams: BYU Cougars at UCF Knights\n\nUS broadcast: Fox. Availability e
+ lsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)\
+ ; finish is approximate.\n\nSchedule: https://www.espn.com/college-footbal
+ l/game/_/gameId/401856835/byu-ucf
+LOCATION:Acrisure Bounce House\, Orlando\, FL\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856835/byu-ucf
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -4332,6 +4332,27 @@ DESCRIPTION:National pick: ranked matchup (#1 vs #17) at selection.\n\nNIGH
 LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856737/mississip
  pi-st-texas
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856842@football-watchlist
+DTSTAMP:20261018T222829Z
+CREATED:20261018T222829Z
+LAST-MODIFIED:20261018T222829Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:CFB: Arizona at Texas Tech [time TBA]
+DESCRIPTION:National pick: ranked matchup (#8 vs #25) at selection.\n\nTeam
+ s: Arizona Wildcats at Texas Tech Red Raiders\n\nBroadcast to be announced
+ .\n\nKickoff has not been announced. This all-day marker will become a tim
+ ed event when confirmed.\n\nSchedule: https://www.espn.com/college-footbal
+ l/game/_/gameId/401856842/arizona-texas-tech
+LOCATION:Galaxy Stadium\, Lubbock\, TX\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856842/arizona-t
+ exas-tech
 CATEGORIES:College,National pick
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
