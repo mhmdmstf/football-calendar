@@ -972,7 +972,7 @@
       "start": "2026-09-23T01:40:00.000Z",
       "end": "2026-09-23T04:40:00.000Z",
       "allDay": false,
-      "description": "Two teams with live postseason stakes meet directly.\nHouston Astros: 1 game behind the division lead.\nHouston Astros: 3 games behind the final wild-card spot.\nSeattle Mariners: 5 games behind the division lead.\nStandings snapshot: 2026-09-22.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Cristian Javier / Logan Gilbert.\n\nListed broadcasts: Space City Home Network / Mariners.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823089",
+      "description": "Two teams with live postseason stakes meet directly.\nHouston Astros: 1 game behind the division lead.\nHouston Astros: 3 games behind the final wild-card spot.\nSeattle Mariners: 5 games behind the division lead.\nStandings snapshot: 2026-09-22.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Cristian Javier / Logan Gilbert.\n\nListed broadcasts: Mariners.TV / Space City Home Network. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823089",
       "location": "T-Mobile Park",
       "url": "https://www.mlb.com/gameday/823089",
       "status": "CONFIRMED",
@@ -980,10 +980,10 @@
         "MLB",
         "Pennant race"
       ],
-      "hash": "6382914f31333dd99649f668aed313cda81f5cbbb536a60af3735ca7dfe2c21e",
+      "hash": "5fcd17a0bac5beb372d054dace910af482a6ee67bef1666daa4cc6abf1dd81a2",
       "created": "2026-09-20T22:32:28.050Z",
-      "modified": "2026-10-18T07:17:58.958Z",
-      "sequence": 10
+      "modified": "2026-10-18T12:39:25.616Z",
+      "sequence": 11
     },
     {
       "uid": "mlb-822841@football-watchlist",
@@ -1063,7 +1063,7 @@
       "start": "2026-09-25T02:10:00.000Z",
       "end": "2026-09-25T05:10:00.000Z",
       "allDay": false,
-      "description": "Two teams with live postseason stakes meet directly.\nSan Diego Padres: 3.5 games ahead of the first team outside the wild cards.\nLos Angeles Dodgers: already qualified; close records keep postseason home-field positioning in play.\nFollowing San Diego Padres.\nStandings snapshot: 2026-09-24.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Pivetta / Tyler Glasnow.\n\nListed broadcasts: SportsNet LA / Padres.TV Presented by UC San Diego Health / MLB Network. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823895",
+      "description": "Two teams with live postseason stakes meet directly.\nSan Diego Padres: 3.5 games ahead of the first team outside the wild cards.\nLos Angeles Dodgers: already qualified; close records keep postseason home-field positioning in play.\nFollowing San Diego Padres.\nStandings snapshot: 2026-09-24.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Pivetta / Tyler Glasnow.\n\nListed broadcasts: Padres.TV Presented by UC San Diego Health / SportsNet LA / MLB Network. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823895",
       "location": "UNIQLO Field at Dodger Stadium",
       "url": "https://www.mlb.com/gameday/823895",
       "status": "CONFIRMED",
@@ -1072,10 +1072,10 @@
         "Pennant race",
         "San Diego Padres"
       ],
-      "hash": "d1dae1f1556d65ac9176706fadc81596acf29697cac5786ccade94a06f310075",
+      "hash": "25d0ebd6db4e2473f85516e7782cbe015da98be2235a21b3012c44f7db205649",
       "created": "2026-09-23T07:50:04.909Z",
-      "modified": "2026-10-18T07:17:58.958Z",
-      "sequence": 6
+      "modified": "2026-10-18T12:39:25.616Z",
+      "sequence": 7
     },
     {
       "uid": "mlb-823248@football-watchlist",

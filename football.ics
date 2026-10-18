@@ -932,10 +932,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-823089@football-watchlist
-DTSTAMP:20261018T071758Z
+DTSTAMP:20261018T123925Z
 CREATED:20260920T223228Z
-LAST-MODIFIED:20261018T071758Z
-SEQUENCE:10
+LAST-MODIFIED:20261018T123925Z
+SEQUENCE:11
 DTSTART:20260923T014000Z
 DTEND:20260923T044000Z
 SUMMARY:MLB: Houston Astros at Seattle Mariners
@@ -944,7 +944,7 @@ DESCRIPTION:Two teams with live postseason stakes meet directly.\nHouston A
  e final wild-card spot.\nSeattle Mariners: 5 games behind the division lea
  d.\nStandings snapshot: 2026-09-22.\n\nViewing window: 3 hours\; finish is
   approximate.\n\nProbable pitchers (subject to change): Cristian Javier / 
- Logan Gilbert.\n\nListed broadcasts: Space City Home Network / Mariners.TV
+ Logan Gilbert.\n\nListed broadcasts: Mariners.TV / Space City Home Network
  . Availability varies by country and provider.\n\nOfficial schedule: https
  ://www.mlb.com/gameday/823089
 LOCATION:T-Mobile Park
@@ -997,10 +997,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-823895@football-watchlist
-DTSTAMP:20261018T071758Z
+DTSTAMP:20261018T123925Z
 CREATED:20260923T075004Z
-LAST-MODIFIED:20261018T071758Z
-SEQUENCE:6
+LAST-MODIFIED:20261018T123925Z
+SEQUENCE:7
 DTSTART:20260925T021000Z
 DTEND:20260925T051000Z
 SUMMARY:MLB: San Diego Padres at Los Angeles Dodgers
@@ -1010,7 +1010,7 @@ DESCRIPTION:Two teams with live postseason stakes meet directly.\nSan Diego
  d positioning in play.\nFollowing San Diego Padres.\nStandings snapshot: 2
  026-09-24.\n\nViewing window: 3 hours\; finish is approximate.\n\nProbable
   pitchers (subject to change): Nick Pivetta / Tyler Glasnow.\n\nListed bro
- adcasts: SportsNet LA / Padres.TV Presented by UC San Diego Health / MLB N
+ adcasts: Padres.TV Presented by UC San Diego Health / SportsNet LA / MLB N
  etwork. Availability varies by country and provider.\n\nOfficial schedule:
   https://www.mlb.com/gameday/823895
 LOCATION:UNIQLO Field at Dodger Stadium
