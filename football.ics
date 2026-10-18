@@ -3780,27 +3780,6 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:college-football-401856837@football-watchlist
-DTSTAMP:20261003T081720Z
-CREATED:20261003T081720Z
-LAST-MODIFIED:20261003T081720Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:CFB: Houston at Utah [time TBA]
-DESCRIPTION:National pick: ranked matchup (#13 vs #20) at selection.\n\nTea
- ms: Houston Cougars at Utah Utes\n\nBroadcast to be announced.\n\nKickoff 
- has not been announced. This all-day marker will become a timed event when
-  confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/game
- Id/401856837/houston-utah
-LOCATION:Rice-Eccles Stadium\, Salt Lake City\, UT\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856837/houston-u
- tah
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-849805@football-watchlist
 DTSTAMP:20261016T225347Z
 CREATED:20260919T111549Z
@@ -3861,18 +3840,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858274@football-watchlist
-DTSTAMP:20261012T221004Z
+DTSTAMP:20261018T172557Z
 CREATED:20261004T231756Z
-LAST-MODIFIED:20261012T221004Z
-SEQUENCE:1
+LAST-MODIFIED:20261018T172557Z
+SEQUENCE:2
 DTSTART:20261024T160000Z
 DTEND:20261024T193000Z
 SUMMARY:CFB: Pittsburgh at Miami
 DESCRIPTION:National pick: ranked matchup (#4 vs #25) at selection.\n\nTeam
- s: Pittsburgh Panthers at Miami Hurricanes\n\nBroadcast to be announced.\n
- \nViewing window: 3.5 hours (4 hours for championships)\; finish is approx
- imate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/40
- 1858274/pitt-miami
+ s: Pittsburgh Panthers at Miami Hurricanes\n\nUS broadcast: ESPN. Availabi
+ lity elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champions
+ hips)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-f
+ ootball/game/_/gameId/401858274/pitt-miami
 LOCATION:Hard Rock Stadium\, Miami Gardens\, FL\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401858274/pitt-miam
  i
@@ -3926,18 +3905,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856727@football-watchlist
-DTSTAMP:20261012T221004Z
+DTSTAMP:20261018T172557Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20261012T221004Z
-SEQUENCE:1
+LAST-MODIFIED:20261018T172557Z
+SEQUENCE:2
 DTSTART:20261024T193000Z
 DTEND:20261024T230000Z
 SUMMARY:CFB: Texas A&M at Alabama
-DESCRIPTION:Following Alabama: every game.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8p
- m ET start\n\nTeams: Texas A&M Aggies at Alabama Crimson Tide\n\nUS broadc
- ast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 h
- ours for championships)\; finish is approximate.\n\nSchedule: https://www.
- espn.com/college-football/game/_/gameId/401856727/texas-am-alabama
+DESCRIPTION:Following Alabama: every game.\n\nTeams: Texas A&M Aggies at Al
+ abama Crimson Tide\n\nUS broadcast: ABC. Availability elsewhere varies.\n\
+ nViewing window: 3.5 hours (4 hours for championships)\; finish is approxi
+ mate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401
+ 856727/texas-am-alabama
 LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856727/texas-am-
  alabama
@@ -3947,20 +3926,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856731@football-watchlist
-DTSTAMP:20261014T231819Z
+DTSTAMP:20261018T172557Z
 CREATED:20261014T231819Z
-LAST-MODIFIED:20261014T231819Z
-SEQUENCE:0
+LAST-MODIFIED:20261018T172557Z
+SEQUENCE:1
 DTSTART:20261024T193000Z
 DTEND:20261024T230000Z
 SUMMARY:CFB: Tennessee at South Carolina
 DESCRIPTION:National pick: a ranked team in a potentially competitive game 
  (market spread 2.5 points at selection). Upset possibility is an estimate.
- \n\nAFTERNOON: 3:30 - 4:30pm ET start\n\nTeams: Tennessee Volunteers at So
- uth Carolina Gamecocks\n\nBroadcast to be announced.\n\nViewing window: 3.
- 5 hours (4 hours for championships)\; finish is approximate.\n\nSchedule: 
- https://www.espn.com/college-football/game/_/gameId/401856731/tennessee-so
- uth-carolina
+ \n\nTeams: Tennessee Volunteers at South Carolina Gamecocks\n\nUS broadcas
+ t: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 ho
+ urs for championships)\; finish is approximate.\n\nSchedule: https://www.e
+ spn.com/college-football/game/_/gameId/401856731/tennessee-south-carolina
 LOCATION:Williams-Brice Stadium\, Columbia\, SC\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856731/tennessee
  -south-carolina
@@ -4010,19 +3988,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856732@football-watchlist
-DTSTAMP:20261012T221004Z
+DTSTAMP:20261018T172557Z
 CREATED:20261003T081720Z
-LAST-MODIFIED:20261012T221004Z
-SEQUENCE:1
+LAST-MODIFIED:20261018T172557Z
+SEQUENCE:2
 DTSTART:20261024T233000Z
 DTEND:20261025T030000Z
 SUMMARY:CFB: Ole Miss at Texas
-DESCRIPTION:National pick: ranked matchup (#1 vs #9) at selection.\n\nFLEX:
-  3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Ole Miss Rebels at Texas Long
- horns\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing wind
- ow: 3.5 hours (4 hours for championships)\; finish is approximate.\n\nSche
- dule: https://www.espn.com/college-football/game/_/gameId/401856732/ole-mi
- ss-texas
+DESCRIPTION:National pick: ranked matchup (#1 vs #9) at selection.\n\nTeams
+ : Ole Miss Rebels at Texas Longhorns\n\nUS broadcast: ABC. Availability el
+ sewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)\;
+  finish is approximate.\n\nSchedule: https://www.espn.com/college-football
+ /game/_/gameId/401856732/ole-miss-texas
 LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856732/ole-miss-
  texas
@@ -4049,6 +4026,27 @@ LOCATION:American Family Field
 URL:https://www.mlb.com/gameday/849802
 CATEGORIES:MLB,Playoffs
 STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856837@football-watchlist
+DTSTAMP:20261018T172557Z
+CREATED:20261003T081720Z
+LAST-MODIFIED:20261018T172557Z
+SEQUENCE:1
+DTSTART:20261025T021500Z
+DTEND:20261025T054500Z
+SUMMARY:CFB: Houston at Utah
+DESCRIPTION:National pick: ranked matchup (#13 vs #20) at selection.\n\nTea
+ ms: Houston Cougars at Utah Utes\n\nUS broadcast: ESPN. Availability elsew
+ here varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; fi
+ nish is approximate.\n\nSchedule: https://www.espn.com/college-football/ga
+ me/_/gameId/401856837/houston-utah
+LOCATION:Rice-Eccles Stadium\, Salt Lake City\, UT\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856837/houston-u
+ tah
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT

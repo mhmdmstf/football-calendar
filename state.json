@@ -4587,27 +4587,6 @@
       "sequence": 0
     },
     {
-      "uid": "college-football-401856837@football-watchlist",
-      "gameId": "401856837",
-      "title": "CFB: Houston at Utah [time TBA]",
-      "start": "2026-10-24",
-      "end": "2026-10-25",
-      "allDay": true,
-      "description": "National pick: ranked matchup (#13 vs #20) at selection.\n\nTeams: Houston Cougars at Utah Utes\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856837/houston-utah",
-      "location": "Rice-Eccles Stadium, Salt Lake City, UT, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856837/houston-utah",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#13 vs #20) at selection.",
-      "hash": "e18387ab299c5f5063dbe62acaedf01ff3feca73b3f005d7e72dccd7a7ca3f1c",
-      "created": "2026-10-03T08:17:20.619Z",
-      "modified": "2026-10-03T08:17:20.619Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-849805@football-watchlist",
       "gameId": "849805",
       "mlbSeason": 2026,
@@ -4684,7 +4663,7 @@
       "start": "2026-10-24T16:00:00.000Z",
       "end": "2026-10-24T19:30:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#4 vs #25) at selection.\n\nTeams: Pittsburgh Panthers at Miami Hurricanes\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858274/pitt-miami",
+      "description": "National pick: ranked matchup (#4 vs #25) at selection.\n\nTeams: Pittsburgh Panthers at Miami Hurricanes\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858274/pitt-miami",
       "location": "Hard Rock Stadium, Miami Gardens, FL, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401858274/pitt-miami",
       "status": "CONFIRMED",
@@ -4693,10 +4672,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#4 vs #25) at selection.",
-      "hash": "8409c8447abbcecbf2d105c06bb714550838c246e045d79b3bb2423c639b298c",
+      "hash": "ed1141a25fdff6f6e05a2ef9398cd8b44bc45ec491ebb96cccfef4731bb5ae57",
       "created": "2026-10-04T23:17:56.177Z",
-      "modified": "2026-10-12T22:10:04.220Z",
-      "sequence": 1
+      "modified": "2026-10-18T17:25:57.690Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401858496@football-watchlist",
@@ -4750,7 +4729,7 @@
       "start": "2026-10-24T19:30:00.000Z",
       "end": "2026-10-24T23:00:00.000Z",
       "allDay": false,
-      "description": "Following Alabama: every game.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Texas A&M Aggies at Alabama Crimson Tide\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856727/texas-am-alabama",
+      "description": "Following Alabama: every game.\n\nTeams: Texas A&M Aggies at Alabama Crimson Tide\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856727/texas-am-alabama",
       "location": "Bryant-Denny Stadium, Tuscaloosa, AL, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856727/texas-am-alabama",
       "status": "CONFIRMED",
@@ -4758,10 +4737,10 @@
         "College",
         "Alabama"
       ],
-      "hash": "90ead83fe2a6b493afa9694e104aa59f0dcb9f50fd0d57af838724d25cb55ae3",
+      "hash": "055d1f4285d6f3ca6c0195f03360fb166a827cd2b39e0b12f66913a152e52476",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-10-12T22:10:04.220Z",
-      "sequence": 1
+      "modified": "2026-10-18T17:25:57.690Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401856731@football-watchlist",
@@ -4770,7 +4749,7 @@
       "start": "2026-10-24T19:30:00.000Z",
       "end": "2026-10-24T23:00:00.000Z",
       "allDay": false,
-      "description": "National pick: a ranked team in a potentially competitive game (market spread 2.5 points at selection). Upset possibility is an estimate.\n\nAFTERNOON: 3:30 - 4:30pm ET start\n\nTeams: Tennessee Volunteers at South Carolina Gamecocks\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856731/tennessee-south-carolina",
+      "description": "National pick: a ranked team in a potentially competitive game (market spread 2.5 points at selection). Upset possibility is an estimate.\n\nTeams: Tennessee Volunteers at South Carolina Gamecocks\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856731/tennessee-south-carolina",
       "location": "Williams-Brice Stadium, Columbia, SC, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856731/tennessee-south-carolina",
       "status": "CONFIRMED",
@@ -4779,10 +4758,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 2.5 points at selection). Upset possibility is an estimate.",
-      "hash": "6221d3d12b104c276607f5f441cc6f11434bfa94a9bb888b9b697eea8354b2e9",
+      "hash": "d7de00e7edd179e6675ab4c128194ea32eb38abd0f9b9e44a382e34265f914b4",
       "created": "2026-10-14T23:18:19.360Z",
-      "modified": "2026-10-14T23:18:19.360Z",
-      "sequence": 0
+      "modified": "2026-10-18T17:25:57.690Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026020170@football-watchlist",
@@ -4851,7 +4830,7 @@
       "start": "2026-10-24T23:30:00.000Z",
       "end": "2026-10-25T03:00:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#1 vs #9) at selection.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Ole Miss Rebels at Texas Longhorns\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856732/ole-miss-texas",
+      "description": "National pick: ranked matchup (#1 vs #9) at selection.\n\nTeams: Ole Miss Rebels at Texas Longhorns\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856732/ole-miss-texas",
       "location": "DKR-Texas Memorial Stadium, Austin, TX, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856732/ole-miss-texas",
       "status": "CONFIRMED",
@@ -4860,10 +4839,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#1 vs #9) at selection.",
-      "hash": "862f8a00556428af4535b1419646a8809e6a7756e83d248c4eb318cc8ff42145",
+      "hash": "ae2927dc8e0e64700ac828d70518c7ee697aaf46f6899d6d9d08444f86682878",
       "created": "2026-10-03T08:17:20.619Z",
-      "modified": "2026-10-12T22:10:04.220Z",
-      "sequence": 1
+      "modified": "2026-10-18T17:25:57.690Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-849802@football-watchlist",
@@ -4896,6 +4875,27 @@
       "created": "2026-09-19T11:15:49.893Z",
       "modified": "2026-10-16T22:53:47.068Z",
       "sequence": 6
+    },
+    {
+      "uid": "college-football-401856837@football-watchlist",
+      "gameId": "401856837",
+      "title": "CFB: Houston at Utah",
+      "start": "2026-10-25T02:15:00.000Z",
+      "end": "2026-10-25T05:45:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#13 vs #20) at selection.\n\nTeams: Houston Cougars at Utah Utes\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856837/houston-utah",
+      "location": "Rice-Eccles Stadium, Salt Lake City, UT, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856837/houston-utah",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#13 vs #20) at selection.",
+      "hash": "4a6e50bc401c9323238358990e86c2e140c66ad1f8a16586664ae0911dee0706",
+      "created": "2026-10-03T08:17:20.619Z",
+      "modified": "2026-10-18T17:25:57.690Z",
+      "sequence": 1
     },
     {
       "uid": "nfl-401873011@football-watchlist",
