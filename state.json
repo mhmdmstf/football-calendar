@@ -1,5 +1,5 @@
 {
-  "checkedOn": "2026-10-18",
+  "checkedOn": "2026-10-19",
   "season": 2026,
   "events": [
     {
@@ -4358,7 +4358,7 @@
       "start": "2026-10-20T00:08:00.000Z",
       "end": "2026-10-20T03:38:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849815",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Freddy Peralta.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision/ TUDN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849815",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/849815",
       "status": "CONFIRMED",
@@ -4368,10 +4368,10 @@
         "Cleveland Guardians",
         "Tampa Bay Rays"
       ],
-      "hash": "4e6e7450afce6736c10e10491615d2a40775749fc9b0a7d435fa44e1b3d8cdf8",
+      "hash": "ae0e321821ed11bb6fba6c6b0c306a337c029a7c6ca465a2bd02c9c50d77e973",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-18T07:17:58.958Z",
-      "sequence": 8
+      "modified": "2026-10-19T07:54:56.822Z",
+      "sequence": 9
     },
     {
       "uid": "nfl-401873008@football-watchlist",
@@ -12418,14 +12418,14 @@
   "nflGames": 285,
   "collegeGames": 949,
   "baseball": {
-    "checkedOn": "2026-10-18",
+    "checkedOn": "2026-10-19",
     "season": 2026,
     "scheduleGames": 404,
     "events": 51,
     "playoffEvents": 43
   },
   "hockey": {
-    "checkedOn": "2026-10-18",
+    "checkedOn": "2026-10-19",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -12442,7 +12442,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-10-18",
+    "checkedOn": "2026-10-19",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
