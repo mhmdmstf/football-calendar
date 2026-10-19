@@ -3681,18 +3681,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020150@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261019T234748Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261019T234748Z
+SEQUENCE:1
 DTSTART:20261021T020000Z
 DTEND:20261021T050000Z
 SUMMARY:NHL: Carolina Hurricanes at Vancouver Canucks
 DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
  nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
  nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / S
- N360 / SNP. Availability varies by country and provider.\n\nOfficial sched
- ule: https://www.nhl.com/gamecenter/car-vs-van/2026/10/20/2026020150
+ N. Availability varies by country and provider.\n\nOfficial schedule: http
+ s://www.nhl.com/gamecenter/car-vs-van/2026/10/20/2026020150
 LOCATION:Rogers Arena
 URL:https://www.nhl.com/gamecenter/car-vs-van/2026/10/20/2026020150
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
@@ -4316,70 +4316,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:college-football-401856737@football-watchlist
-DTSTAMP:20261010T083902Z
-CREATED:20261010T083902Z
-LAST-MODIFIED:20261010T083902Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:CFB: Mississippi State at Texas [time TBA]
-DESCRIPTION:National pick: ranked matchup (#1 vs #17) at selection.\n\nNIGH
- T: 6 - 8pm ET start\n\nTeams: Mississippi State Bulldogs at Texas Longhorn
- s\n\nBroadcast to be announced.\n\nKickoff has not been announced. This al
- l-day marker will become a timed event when confirmed.\n\nSchedule: https:
- //www.espn.com/college-football/game/_/gameId/401856737/mississippi-st-tex
- as
-LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856737/mississip
- pi-st-texas
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401856842@football-watchlist
-DTSTAMP:20261018T222829Z
-CREATED:20261018T222829Z
-LAST-MODIFIED:20261018T222829Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:CFB: Arizona at Texas Tech [time TBA]
-DESCRIPTION:National pick: ranked matchup (#8 vs #25) at selection.\n\nTeam
- s: Arizona Wildcats at Texas Tech Red Raiders\n\nBroadcast to be announced
- .\n\nKickoff has not been announced. This all-day marker will become a tim
- ed event when confirmed.\n\nSchedule: https://www.espn.com/college-footbal
- l/game/_/gameId/401856842/arizona-texas-tech
-LOCATION:Galaxy Stadium\, Lubbock\, TX\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856842/arizona-t
- exas-tech
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401858509@football-watchlist
-DTSTAMP:20261010T083902Z
-CREATED:20261010T083902Z
-LAST-MODIFIED:20261010T083902Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:CFB: Ohio State at USC [time TBA]
-DESCRIPTION:National pick: ranked matchup (#5 vs #19) at selection.\n\nTeam
- s: Ohio State Buckeyes at USC Trojans\n\nBroadcast to be announced.\n\nKic
- koff has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_
- /gameId/401858509/ohio-state-usc
-LOCATION:Los Angeles Memorial Coliseum\, Los Angeles\, CA\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858509/ohio-stat
- e-usc
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-849801@football-watchlist
 DTSTAMP:20261016T225347Z
 CREATED:20260919T111549Z
@@ -4463,6 +4399,27 @@ STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:college-football-401856842@football-watchlist
+DTSTAMP:20261019T234748Z
+CREATED:20261018T222829Z
+LAST-MODIFIED:20261019T234748Z
+SEQUENCE:1
+DTSTART:20261031T160000Z
+DTEND:20261031T193000Z
+SUMMARY:CFB: Arizona at Texas Tech
+DESCRIPTION:National pick: ranked matchup (#8 vs #25) at selection.\n\nTeam
+ s: Arizona Wildcats at Texas Tech Red Raiders\n\nBroadcast to be announced
+ .\n\nViewing window: 3.5 hours (4 hours for championships)\; finish is app
+ roximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId
+ /401856842/arizona-texas-tech
+LOCATION:Galaxy Stadium\, Lubbock\, TX\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856842/arizona-t
+ exas-tech
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:college-football-401856734@football-watchlist
 DTSTAMP:20260905T145457Z
 CREATED:20260905T145208Z
@@ -4500,6 +4457,48 @@ DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
 LOCATION:SAP Center at San Jose
 URL:https://www.nhl.com/gamecenter/ott-vs-sjs/2026/10/31/2026020222
 CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856737@football-watchlist
+DTSTAMP:20261019T234748Z
+CREATED:20261010T083902Z
+LAST-MODIFIED:20261019T234748Z
+SEQUENCE:1
+DTSTART:20261031T233000Z
+DTEND:20261101T030000Z
+SUMMARY:CFB: Mississippi State at Texas
+DESCRIPTION:National pick: ranked matchup (#1 vs #17) at selection.\n\nNIGH
+ T: 6 - 8pm ET start\n\nTeams: Mississippi State Bulldogs at Texas Longhorn
+ s\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for 
+ championships)\; finish is approximate.\n\nSchedule: https://www.espn.com/
+ college-football/game/_/gameId/401856737/mississippi-st-texas
+LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856737/mississip
+ pi-st-texas
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858509@football-watchlist
+DTSTAMP:20261019T234748Z
+CREATED:20261010T083902Z
+LAST-MODIFIED:20261019T234748Z
+SEQUENCE:1
+DTSTART:20261031T233000Z
+DTEND:20261101T030000Z
+SUMMARY:CFB: Ohio State at USC
+DESCRIPTION:National pick: ranked matchup (#5 vs #19) at selection.\n\nTeam
+ s: Ohio State Buckeyes at USC Trojans\n\nUS broadcast: NBC. Availability e
+ lsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)\
+ ; finish is approximate.\n\nSchedule: https://www.espn.com/college-footbal
+ l/game/_/gameId/401858509/ohio-state-usc
+LOCATION:Los Angeles Memorial Coliseum\, Los Angeles\, CA\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858509/ohio-stat
+ e-usc
+CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -4833,18 +4832,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020263@football-watchlist
-DTSTAMP:20261005T213612Z
+DTSTAMP:20261019T234748Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261005T213612Z
-SEQUENCE:1
+LAST-MODIFIED:20261019T234748Z
+SEQUENCE:2
 DTSTART:20261107T010000Z
 DTEND:20261107T040000Z
 SUMMARY:NHL: San Jose Sharks at Minnesota Wild
 DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
  ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
  layoff overtime can run longer.\n\nListed broadcasts: KSTP / MINNHL / NBCS
- CA / Wild+. Availability varies by country and provider.\n\nOfficial sched
- ule: https://www.nhl.com/gamecenter/sjs-vs-min/2026/11/06/2026020263
+ CA / NHLN / Wild+. Availability varies by country and provider.\n\nOfficia
+ l schedule: https://www.nhl.com/gamecenter/sjs-vs-min/2026/11/06/202602026
+ 3
 LOCATION:Grand Casino Arena
 URL:https://www.nhl.com/gamecenter/sjs-vs-min/2026/11/06/2026020263
 CATEGORIES:NHL,Regular season,San Jose Sharks
@@ -5091,19 +5091,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020309@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261019T234748Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261019T234748Z
+SEQUENCE:1
 DTSTART:20261112T170000Z
 DTEND:20261112T200000Z
 SUMMARY:NHL: Carolina Hurricanes at Seattle Kraken
 DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
  nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
  nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / K
- ONG / Prime Video / SN+ / TVAS. Availability varies by country and provide
- r.\n\nOfficial schedule: https://www.nhl.com/gamecenter/car-vs-sea/2026/11
- /12/2026020309
+ ONG / NHLN / Prime Video / SN+ / TVAS. Availability varies by country and 
+ provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/car-vs-sea/
+ 2026/11/12/2026020309
 LOCATION:Veikkaus Arena
 URL:https://www.nhl.com/gamecenter/car-vs-sea/2026/11/12/2026020309
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
@@ -5191,19 +5191,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020321@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261019T234748Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261019T234748Z
+SEQUENCE:1
 DTSTART:20261114T180000Z
 DTEND:20261114T210000Z
 SUMMARY:NHL: Seattle Kraken at Carolina Hurricanes
 DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
  nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
  nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / K
- ING / KONG / Prime Video / SN1. Availability varies by country and provide
- r.\n\nOfficial schedule: https://www.nhl.com/gamecenter/sea-vs-car/2026/11
- /14/2026020321
+ ING / KONG / NHLN / Prime Video / SN1. Availability varies by country and 
+ provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/sea-vs-car/
+ 2026/11/14/2026020321
 LOCATION:Veikkaus Arena
 URL:https://www.nhl.com/gamecenter/sea-vs-car/2026/11/14/2026020321
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
@@ -5451,18 +5451,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020359@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261019T234748Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261019T234748Z
+SEQUENCE:1
 DTSTART:20261121T180000Z
 DTEND:20261121T210000Z
 SUMMARY:NHL: Edmonton Oilers at Carolina Hurricanes
 DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
  nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
- nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / S
- N. Availability varies by country and provider.\n\nOfficial schedule: http
- s://www.nhl.com/gamecenter/edm-vs-car/2026/11/21/2026020359
+ nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / N
+ HLN / SN. Availability varies by country and provider.\n\nOfficial schedul
+ e: https://www.nhl.com/gamecenter/edm-vs-car/2026/11/21/2026020359
 LOCATION:Lenovo Center
 URL:https://www.nhl.com/gamecenter/edm-vs-car/2026/11/21/2026020359
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
@@ -5512,18 +5512,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020373@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261019T234748Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261019T234748Z
+SEQUENCE:1
 DTSTART:20261122T173000Z
 DTEND:20261122T203000Z
 SUMMARY:NHL: Carolina Hurricanes at New York Rangers
 DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
  nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
  nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / M
- SG / SN1 / TVAS. Availability varies by country and provider.\n\nOfficial 
- schedule: https://www.nhl.com/gamecenter/car-vs-nyr/2026/11/22/2026020373
+ SG / NHLN / SN1 / TVAS. Availability varies by country and provider.\n\nOf
+ ficial schedule: https://www.nhl.com/gamecenter/car-vs-nyr/2026/11/22/2026
+ 020373
 LOCATION:Madison Square Garden
 URL:https://www.nhl.com/gamecenter/car-vs-nyr/2026/11/22/2026020373
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
@@ -7099,6 +7100,29 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:chelsea-2645349@football-watchlist
+DTSTAMP:20261019T234748Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261019T234748Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Chelsea vs Aston Villa - Premier League [date/time TBC]
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club marks this fixture TBC. The date shown is provisional\; the dat
+ e and kickoff may change for television or cup scheduling. This transparen
+ t all-day marker will update when confirmed.\n\nFixtures remain subject to
+  later rescheduling. The feed refreshes from Chelsea’s official schedule
+ .\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-aston-v
+ illa-english-premier-league-2026-12-21
+LOCATION:Stamford Bridge
+URL:https://www.chelseafc.com/en/match/chelsea-vs-aston-villa-english-premi
+ er-league-2026-12-21
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:nfl-401873138@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T144637Z
@@ -7114,28 +7138,6 @@ DESCRIPTION:Sunday Night Football.\n\nTeams: Detroit Lions at Minnesota Vik
 LOCATION:U.S. Bank Stadium\, Minneapolis\, MN\, USA
 URL:https://www.espn.com/nfl/game/_/gameId/401873138/lions-vikings
 CATEGORIES:NFL
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:chelsea-2645349@football-watchlist
-DTSTAMP:20261019T154322Z
-CREATED:20261003T132258Z
-LAST-MODIFIED:20261019T154322Z
-SEQUENCE:2
-DTSTART:20261221T200000Z
-DTEND:20261221T220000Z
-SUMMARY:Chelsea vs Aston Villa - Premier League
-DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
- \nThe club currently lists this kickoff as confirmed. Viewing window: 2 ho
- urs\; finish is approximate.\n\nFixtures remain subject to later reschedul
- ing. The feed refreshes from Chelsea’s official schedule.\n\nOfficial ma
- tch: https://www.chelseafc.com/en/match/chelsea-vs-aston-villa-english-pre
- mier-league-2026-12-21
-LOCATION:Stamford Bridge
-URL:https://www.chelseafc.com/en/match/chelsea-vs-aston-villa-english-premi
- er-league-2026-12-21
-CATEGORIES:Soccer,Chelsea,Premier League
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
