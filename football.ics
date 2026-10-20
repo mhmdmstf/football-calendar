@@ -3659,25 +3659,26 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849814@football-watchlist
-DTSTAMP:20261017T121537Z
+DTSTAMP:20261020T074407Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261017T121537Z
-SEQUENCE:6
+LAST-MODIFIED:20261020T074407Z
+SEQUENCE:7
 DTSTART:20261021T000800Z
 DTEND:20261021T033800Z
-SUMMARY:MLB: ALCS Game 7 - Cleveland Guardians at Tampa Bay Rays [if necess
- ary]
-DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
- .5 hours\; finish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruT
- V / Univision/ TUDN. Availability varies by country and provider.\n\nOffic
- ial schedule: https://www.mlb.com/gameday/849814
+SUMMARY:Cancelled: MLB: ALCS Game 7 - Cleveland Guardians at Tampa Bay Rays
+  [if necessary]
+DESCRIPTION:No longer necessary: this postseason series has finished.\n\nML
+ B postseason: every game\, from the Wild Card Series through the World Ser
+ ies.\n\nThis game is only played if the series requires it. It will be can
+ celled in this feed if no longer needed.\n\nViewing window: 3.5 hours\; fi
+ nish is approximate.\n\nListed broadcasts: TBS/HBO MAX / TruTV / Univision
+ / TUDN. Availability varies by country and provider.\n\nOfficial schedule:
+  https://www.mlb.com/gameday/849814
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/849814
 CATEGORIES:MLB,Playoffs,Cleveland Guardians,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:OPAQUE
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020150@football-watchlist
@@ -3761,23 +3762,22 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849805@football-watchlist
-DTSTAMP:20261016T225347Z
+DTSTAMP:20261020T074407Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261016T225347Z
-SEQUENCE:6
+LAST-MODIFIED:20261020T074407Z
+SEQUENCE:7
 DTSTART:20261024T000000Z
 DTEND:20261024T033000Z
-SUMMARY:MLB: World Series Game 1 - TB/CLE at Milwaukee Brewers
+SUMMARY:MLB: World Series Game 1 - Tampa Bay Rays at Milwaukee Brewers
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nViewing window: 3.5 hours\; finish is a
- pproximate.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. 
- Availability varies by country and provider.\n\nOfficial schedule: https:/
- /www.mlb.com/gameday/849805
+ the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
+ nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability v
+ aries by country and provider.\n\nOfficial schedule: https://www.mlb.com/g
+ ameday/849805
 LOCATION:American Family Field
 URL:https://www.mlb.com/gameday/849805
-CATEGORIES:MLB,Playoffs
-STATUS:TENTATIVE
+CATEGORIES:MLB,Playoffs,Tampa Bay Rays
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -4010,23 +4010,22 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849802@football-watchlist
-DTSTAMP:20261016T225347Z
+DTSTAMP:20261020T074407Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261016T225347Z
-SEQUENCE:6
+LAST-MODIFIED:20261020T074407Z
+SEQUENCE:7
 DTSTART:20261025T000000Z
 DTEND:20261025T033000Z
-SUMMARY:MLB: World Series Game 2 - TB/CLE at Milwaukee Brewers
+SUMMARY:MLB: World Series Game 2 - Tampa Bay Rays at Milwaukee Brewers
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nViewing window: 3.5 hours\; finish is a
- pproximate.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. 
- Availability varies by country and provider.\n\nOfficial schedule: https:/
- /www.mlb.com/gameday/849802
+ the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
+ nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability v
+ aries by country and provider.\n\nOfficial schedule: https://www.mlb.com/g
+ ameday/849802
 LOCATION:American Family Field
 URL:https://www.mlb.com/gameday/849802
-CATEGORIES:MLB,Playoffs
-STATUS:TENTATIVE
+CATEGORIES:MLB,Playoffs,Tampa Bay Rays
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -4110,23 +4109,22 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849804@football-watchlist
-DTSTAMP:20261016T225347Z
+DTSTAMP:20261020T074407Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261016T225347Z
-SEQUENCE:6
+LAST-MODIFIED:20261020T074407Z
+SEQUENCE:7
 DTSTART:20261027T000000Z
 DTEND:20261027T033000Z
-SUMMARY:MLB: World Series Game 3 - Milwaukee Brewers at TB/CLE
+SUMMARY:MLB: World Series Game 3 - Milwaukee Brewers at Tampa Bay Rays
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nViewing window: 3.5 hours\; finish is a
- pproximate.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. 
- Availability varies by country and provider.\n\nOfficial schedule: https:/
- /www.mlb.com/gameday/849804
-LOCATION:TBD
+ the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
+ nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability v
+ aries by country and provider.\n\nOfficial schedule: https://www.mlb.com/g
+ ameday/849804
+LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/849804
-CATEGORIES:MLB,Playoffs
-STATUS:TENTATIVE
+CATEGORIES:MLB,Playoffs,Tampa Bay Rays
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -4151,23 +4149,22 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849803@football-watchlist
-DTSTAMP:20261016T225347Z
+DTSTAMP:20261020T074407Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261016T225347Z
-SEQUENCE:6
+LAST-MODIFIED:20261020T074407Z
+SEQUENCE:7
 DTSTART:20261028T000000Z
 DTEND:20261028T033000Z
-SUMMARY:MLB: World Series Game 4 - Milwaukee Brewers at TB/CLE
+SUMMARY:MLB: World Series Game 4 - Milwaukee Brewers at Tampa Bay Rays
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nBracket positions are placeholders. Teams will update
-  when MLB confirms the matchup.\n\nViewing window: 3.5 hours\; finish is a
- pproximate.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. 
- Availability varies by country and provider.\n\nOfficial schedule: https:/
- /www.mlb.com/gameday/849803
-LOCATION:TBD
+ the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
+ nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability v
+ aries by country and provider.\n\nOfficial schedule: https://www.mlb.com/g
+ ameday/849803
+LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/849803
-CATEGORIES:MLB,Playoffs
-STATUS:TENTATIVE
+CATEGORIES:MLB,Playoffs,Tampa Bay Rays
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -4234,24 +4231,23 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849799@football-watchlist
-DTSTAMP:20261016T225347Z
+DTSTAMP:20261020T074407Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261016T225347Z
-SEQUENCE:6
+LAST-MODIFIED:20261020T074407Z
+SEQUENCE:7
 DTSTART:20261029T000000Z
 DTEND:20261029T033000Z
-SUMMARY:MLB: World Series Game 5 - Milwaukee Brewers at TB/CLE [if necessar
- y]
+SUMMARY:MLB: World Series Game 5 - Milwaukee Brewers at Tampa Bay Rays [if 
+ necessary]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nBracket positions
-  are placeholders. Teams will update when MLB confirms the matchup.\n\nVie
- wing window: 3.5 hours\; finish is approximate.\n\nListed broadcasts: FOX 
- / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and pro
- vider.\n\nOfficial schedule: https://www.mlb.com/gameday/849799
-LOCATION:TBD
+ t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
+ .5 hours\; finish is approximate.\n\nListed broadcasts: FOX / FOX ONE / Fo
+ x Deportes / FOX ONE. Availability varies by country and provider.\n\nOffi
+ cial schedule: https://www.mlb.com/gameday/849799
+LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/849799
-CATEGORIES:MLB,Playoffs
+CATEGORIES:MLB,Playoffs,Tampa Bay Rays
 STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
@@ -4317,24 +4313,23 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849801@football-watchlist
-DTSTAMP:20261016T225347Z
+DTSTAMP:20261020T074407Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261016T225347Z
-SEQUENCE:6
+LAST-MODIFIED:20261020T074407Z
+SEQUENCE:7
 DTSTART:20261031T000000Z
 DTEND:20261031T033000Z
-SUMMARY:MLB: World Series Game 6 - TB/CLE at Milwaukee Brewers [if necessar
- y]
+SUMMARY:MLB: World Series Game 6 - Tampa Bay Rays at Milwaukee Brewers [if 
+ necessary]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nBracket positions
-  are placeholders. Teams will update when MLB confirms the matchup.\n\nVie
- wing window: 3.5 hours\; finish is approximate.\n\nListed broadcasts: FOX 
- / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and pro
- vider.\n\nOfficial schedule: https://www.mlb.com/gameday/849801
+ t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
+ .5 hours\; finish is approximate.\n\nListed broadcasts: FOX / FOX ONE / Fo
+ x Deportes / FOX ONE. Availability varies by country and provider.\n\nOffi
+ cial schedule: https://www.mlb.com/gameday/849801
 LOCATION:American Family Field
 URL:https://www.mlb.com/gameday/849801
-CATEGORIES:MLB,Playoffs
+CATEGORIES:MLB,Playoffs,Tampa Bay Rays
 STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
@@ -4504,24 +4499,23 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849800@football-watchlist
-DTSTAMP:20261016T225347Z
+DTSTAMP:20261020T074407Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261016T225347Z
-SEQUENCE:6
+LAST-MODIFIED:20261020T074407Z
+SEQUENCE:7
 DTSTART:20261101T000000Z
 DTEND:20261101T033000Z
-SUMMARY:MLB: World Series Game 7 - TB/CLE at Milwaukee Brewers [if necessar
- y]
+SUMMARY:MLB: World Series Game 7 - Tampa Bay Rays at Milwaukee Brewers [if 
+ necessary]
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nBracket positions
-  are placeholders. Teams will update when MLB confirms the matchup.\n\nVie
- wing window: 3.5 hours\; finish is approximate.\n\nListed broadcasts: FOX 
- / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and pro
- vider.\n\nOfficial schedule: https://www.mlb.com/gameday/849800
+ t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
+ .5 hours\; finish is approximate.\n\nListed broadcasts: FOX / FOX ONE / Fo
+ x Deportes / FOX ONE. Availability varies by country and provider.\n\nOffi
+ cial schedule: https://www.mlb.com/gameday/849800
 LOCATION:American Family Field
 URL:https://www.mlb.com/gameday/849800
-CATEGORIES:MLB,Playoffs
+CATEGORIES:MLB,Playoffs,Tampa Bay Rays
 STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
