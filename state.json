@@ -1063,7 +1063,7 @@
       "start": "2026-09-25T02:10:00.000Z",
       "end": "2026-09-25T05:10:00.000Z",
       "allDay": false,
-      "description": "Two teams with live postseason stakes meet directly.\nSan Diego Padres: 3.5 games ahead of the first team outside the wild cards.\nLos Angeles Dodgers: already qualified; close records keep postseason home-field positioning in play.\nFollowing San Diego Padres.\nStandings snapshot: 2026-09-24.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Pivetta / Tyler Glasnow.\n\nListed broadcasts: SportsNet LA / Padres.TV Presented by UC San Diego Health / MLB Network. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823895",
+      "description": "Two teams with live postseason stakes meet directly.\nSan Diego Padres: 3.5 games ahead of the first team outside the wild cards.\nLos Angeles Dodgers: already qualified; close records keep postseason home-field positioning in play.\nFollowing San Diego Padres.\nStandings snapshot: 2026-09-24.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Pivetta / Tyler Glasnow.\n\nListed broadcasts: Padres.TV Presented by UC San Diego Health / SportsNet LA / MLB Network. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823895",
       "location": "UNIQLO Field at Dodger Stadium",
       "url": "https://www.mlb.com/gameday/823895",
       "status": "CONFIRMED",
@@ -1072,10 +1072,10 @@
         "Pennant race",
         "San Diego Padres"
       ],
-      "hash": "d1dae1f1556d65ac9176706fadc81596acf29697cac5786ccade94a06f310075",
+      "hash": "25d0ebd6db4e2473f85516e7782cbe015da98be2235a21b3012c44f7db205649",
       "created": "2026-09-23T07:50:04.909Z",
-      "modified": "2026-10-20T18:31:54.497Z",
-      "sequence": 8
+      "modified": "2026-10-20T23:13:47.701Z",
+      "sequence": 9
     },
     {
       "uid": "mlb-823248@football-watchlist",
@@ -4644,7 +4644,7 @@
       "start": "2026-10-24T16:00:00.000Z",
       "end": "2026-10-24T19:30:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#4 vs #25) at selection.\n\nTeams: Pittsburgh Panthers at Miami Hurricanes\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858274/pitt-miami",
+      "description": "National pick: ranked matchup (#4 vs #25) at selection.\n\nTeams: Pittsburgh Panthers at Miami Hurricanes\n\nUS broadcast: ESPN / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858274/pitt-miami",
       "location": "Hard Rock Stadium, Miami Gardens, FL, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401858274/pitt-miami",
       "status": "CONFIRMED",
@@ -4653,10 +4653,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#4 vs #25) at selection.",
-      "hash": "ed1141a25fdff6f6e05a2ef9398cd8b44bc45ec491ebb96cccfef4731bb5ae57",
+      "hash": "2eb7d4bdd97508acbc6634c2a6add9de8b66f86bd60805ac7754f3714376b786",
       "created": "2026-10-04T23:17:56.177Z",
-      "modified": "2026-10-18T17:25:57.690Z",
-      "sequence": 2
+      "modified": "2026-10-20T23:13:47.701Z",
+      "sequence": 3
     },
     {
       "uid": "college-football-401858496@football-watchlist",
@@ -4730,7 +4730,7 @@
       "start": "2026-10-24T19:30:00.000Z",
       "end": "2026-10-24T23:00:00.000Z",
       "allDay": false,
-      "description": "National pick: a ranked team in a potentially competitive game (market spread 2.5 points at selection). Upset possibility is an estimate.\n\nTeams: Tennessee Volunteers at South Carolina Gamecocks\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856731/tennessee-south-carolina",
+      "description": "National pick: a ranked team in a potentially competitive game (market spread 2.5 points at selection). Upset possibility is an estimate.\n\nTeams: Tennessee Volunteers at South Carolina Gamecocks\n\nUS broadcast: ESPN / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856731/tennessee-south-carolina",
       "location": "Williams-Brice Stadium, Columbia, SC, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856731/tennessee-south-carolina",
       "status": "CONFIRMED",
@@ -4739,10 +4739,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 2.5 points at selection). Upset possibility is an estimate.",
-      "hash": "d7de00e7edd179e6675ab4c128194ea32eb38abd0f9b9e44a382e34265f914b4",
+      "hash": "4bccfd34db8faf1b4f7d5ec98da473908c3329280210fa418b66caf8d217a9f4",
       "created": "2026-10-14T23:18:19.360Z",
-      "modified": "2026-10-18T17:25:57.690Z",
-      "sequence": 1
+      "modified": "2026-10-20T23:13:47.701Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401856835@football-watchlist",
@@ -7524,17 +7524,17 @@
       "start": "2026-12-05T01:00:00.000Z",
       "end": "2026-12-05T05:00:00.000Z",
       "allDay": false,
-      "description": "Conference championship.\n\nBig 12 Championship\n\nTeams: TBD at TBD\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401869533/tbd-tbd",
+      "description": "Conference championship.\n\nEdward Jones Big 12 Championship\n\nTeams: TBD at TBD\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401869533/tbd-tbd",
       "location": "AT&T Stadium, Arlington, TX, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401869533/tbd-tbd",
       "status": "CONFIRMED",
       "categories": [
         "College"
       ],
-      "hash": "aca563a70821702b74a1cc06a3d16d06d5d7b1496d4f3b196532482c986e4d03",
+      "hash": "c6037d4eefb0bbb5c025abe60e68a53b1fe385313407503a5f700a8a18f99df6",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:54:57.145Z",
-      "sequence": 1
+      "modified": "2026-10-20T23:13:47.701Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401869542@football-watchlist",
