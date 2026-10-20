@@ -932,10 +932,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-823089@football-watchlist
-DTSTAMP:20261018T123925Z
+DTSTAMP:20261020T183154Z
 CREATED:20260920T223228Z
-LAST-MODIFIED:20261018T123925Z
-SEQUENCE:11
+LAST-MODIFIED:20261020T183154Z
+SEQUENCE:12
 DTSTART:20260923T014000Z
 DTEND:20260923T044000Z
 SUMMARY:MLB: Houston Astros at Seattle Mariners
@@ -944,7 +944,7 @@ DESCRIPTION:Two teams with live postseason stakes meet directly.\nHouston A
  e final wild-card spot.\nSeattle Mariners: 5 games behind the division lea
  d.\nStandings snapshot: 2026-09-22.\n\nViewing window: 3 hours\; finish is
   approximate.\n\nProbable pitchers (subject to change): Cristian Javier / 
- Logan Gilbert.\n\nListed broadcasts: Mariners.TV / Space City Home Network
+ Logan Gilbert.\n\nListed broadcasts: Space City Home Network / Mariners.TV
  . Availability varies by country and provider.\n\nOfficial schedule: https
  ://www.mlb.com/gameday/823089
 LOCATION:T-Mobile Park
@@ -997,10 +997,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-823895@football-watchlist
-DTSTAMP:20261018T123925Z
+DTSTAMP:20261020T183154Z
 CREATED:20260923T075004Z
-LAST-MODIFIED:20261018T123925Z
-SEQUENCE:7
+LAST-MODIFIED:20261020T183154Z
+SEQUENCE:8
 DTSTART:20260925T021000Z
 DTEND:20260925T051000Z
 SUMMARY:MLB: San Diego Padres at Los Angeles Dodgers
@@ -1010,7 +1010,7 @@ DESCRIPTION:Two teams with live postseason stakes meet directly.\nSan Diego
  d positioning in play.\nFollowing San Diego Padres.\nStandings snapshot: 2
  026-09-24.\n\nViewing window: 3 hours\; finish is approximate.\n\nProbable
   pitchers (subject to change): Nick Pivetta / Tyler Glasnow.\n\nListed bro
- adcasts: Padres.TV Presented by UC San Diego Health / SportsNet LA / MLB N
+ adcasts: SportsNet LA / Padres.TV Presented by UC San Diego Health / MLB N
  etwork. Availability varies by country and provider.\n\nOfficial schedule:
   https://www.mlb.com/gameday/823895
 LOCATION:UNIQLO Field at Dodger Stadium
@@ -3801,21 +3801,20 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:show-bignoon-2026-10-24@football-watchlist
-DTSTAMP:20260905T144637Z
+DTSTAMP:20261020T183154Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
+LAST-MODIFIED:20261020T183154Z
+SEQUENCE:1
 DTSTART:20261024T140000Z
 DTEND:20261024T160000Z
-SUMMARY:Big Noon Kickoff: location TBA
-DESCRIPTION:Usual Saturday broadcast window: 10:00 a.m. to noon Eastern on 
- FOX. Location and this week's broadcast hours have not been confirmed. Ten
- tative placeholder\, subject to broadcast changes.\nSource: https://www.fo
- xsports.com/big-noon-kickoff-experience
+SUMMARY:Big Noon Kickoff: Michigan vs. Indiana
+DESCRIPTION:Big Noon Kickoff on FOX. Featured game: Michigan vs. Indiana. B
+ roadcast window: 10:00 a.m. to noon Eastern. Broadcast schedules can chang
+ e.\nSource: https://www.foxsports.com/big-noon-kickoff-experience
 LOCATION:
 URL:https://www.foxsports.com/big-noon-kickoff-experience
 CATEGORIES:College,Pregame
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -3841,19 +3840,20 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858496@football-watchlist
-DTSTAMP:20261014T231819Z
+DTSTAMP:20261020T183154Z
 CREATED:20261014T231819Z
-LAST-MODIFIED:20261014T231819Z
-SEQUENCE:0
+LAST-MODIFIED:20261020T183154Z
+SEQUENCE:1
 DTSTART:20261024T160000Z
 DTEND:20261024T193000Z
 SUMMARY:CFB: Indiana at Michigan
-DESCRIPTION:National pick: a ranked team in a potentially competitive game 
- (market spread 9.5 points at selection). Upset possibility is an estimate.
- \n\nTeams: Indiana Hoosiers at Michigan Wolverines\n\nUS broadcast: Fox. A
- vailability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for ch
- ampionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/co
- llege-football/game/_/gameId/401858496/indiana-michigan
+DESCRIPTION:Confirmed College GameDay or Big Noon featured matchup.\nNation
+ al pick: a ranked team in a potentially competitive game (market spread 9.
+ 5 points at selection). Upset possibility is an estimate.\n\nTeams: Indian
+ a Hoosiers at Michigan Wolverines\n\nUS broadcast: Fox. Availability elsew
+ here varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; fi
+ nish is approximate.\n\nSchedule: https://www.espn.com/college-football/ga
+ me/_/gameId/401858496/indiana-michigan
 LOCATION:Michigan Stadium\, Ann Arbor\, MI\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401858496/indiana-m
  ichigan
