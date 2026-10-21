@@ -5355,6 +5355,27 @@
       "sequence": 1
     },
     {
+      "uid": "college-football-401858502@football-watchlist",
+      "gameId": "401858502",
+      "title": "CFB: Wisconsin at Iowa",
+      "start": "2026-10-31T16:00:00.000Z",
+      "end": "2026-10-31T19:30:00.000Z",
+      "allDay": false,
+      "description": "National pick: a ranked team in a potentially competitive game (market spread 4.5 points at selection). Upset possibility is an estimate.\n\nTeams: Wisconsin Badgers at Iowa Hawkeyes\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858502/wisconsin-iowa",
+      "location": "Kinnick Stadium, Iowa City, IA, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858502/wisconsin-iowa",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 4.5 points at selection). Upset possibility is an estimate.",
+      "hash": "cc1368c1fa63eb4fbc32747eca318197260d27955dd45c2bb9582e17c528dbb3",
+      "created": "2026-10-21T23:26:53.169Z",
+      "modified": "2026-10-21T23:26:53.169Z",
+      "sequence": 0
+    },
+    {
       "uid": "college-football-401856734@football-watchlist",
       "gameId": "401856734",
       "title": "CFB: Florida vs Georgia",
@@ -5372,6 +5393,27 @@
       "created": "2026-09-05T14:52:08.096Z",
       "modified": "2026-09-05T14:54:57.145Z",
       "sequence": 1
+    },
+    {
+      "uid": "college-football-401856848@football-watchlist",
+      "gameId": "401856848",
+      "title": "CFB: Utah at Cincinnati",
+      "start": "2026-10-31T19:45:00.000Z",
+      "end": "2026-10-31T23:15:00.000Z",
+      "allDay": false,
+      "description": "National pick: a ranked team in a potentially competitive game (market spread 9.5 points at selection). Upset possibility is an estimate.\n\nTeams: Utah Utes at Cincinnati Bearcats\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856848/utah-cincinnati",
+      "location": "Nippert Stadium, Cincinnati, OH, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856848/utah-cincinnati",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 9.5 points at selection). Upset possibility is an estimate.",
+      "hash": "6f041d4a7a872c7bbd3f8fcca776da417712641e3201b4d5edb7b7b49adfcbd1",
+      "created": "2026-10-21T23:26:53.169Z",
+      "modified": "2026-10-21T23:26:53.169Z",
+      "sequence": 0
     },
     {
       "uid": "nhl-2026020222@football-watchlist",
