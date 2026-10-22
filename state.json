@@ -4584,7 +4584,7 @@
       "start": "2026-10-24T00:00:00.000Z",
       "end": "2026-10-24T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Jacob Misiorowski.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849805",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Martinez / Jacob Misiorowski.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849805",
       "location": "American Family Field",
       "url": "https://www.mlb.com/gameday/849805",
       "status": "CONFIRMED",
@@ -4593,10 +4593,10 @@
         "Playoffs",
         "Tampa Bay Rays"
       ],
-      "hash": "68ac8fa04de79c321e8c8364d2ed980e0fa29d7dbbd2b257df994f1beb015b8c",
+      "hash": "dadc1dd44d05f50b7ef48bd06705e865b1a3b53fbc9827538986afc3b8ec3656",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-21T18:45:16.733Z",
-      "sequence": 8
+      "modified": "2026-10-22T23:27:22.448Z",
+      "sequence": 9
     },
     {
       "uid": "show-gameday-2026-10-24@football-watchlist",
@@ -4865,7 +4865,7 @@
       "start": "2026-10-25T00:00:00.000Z",
       "end": "2026-10-25T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849802",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Drew Rasmussen / Logan Henderson.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849802",
       "location": "American Family Field",
       "url": "https://www.mlb.com/gameday/849802",
       "status": "CONFIRMED",
@@ -4874,10 +4874,10 @@
         "Playoffs",
         "Tampa Bay Rays"
       ],
-      "hash": "0d83945511ca94c9ca61d2c912f919f9af941410bbcba5e0239b4b53c656c1cc",
+      "hash": "752caee0567c983933eaf768e584c5214994831fd59396aec738de9951219f47",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-20T07:44:07.650Z",
-      "sequence": 7
+      "modified": "2026-10-22T23:27:22.448Z",
+      "sequence": 8
     },
     {
       "uid": "college-football-401856837@football-watchlist",
