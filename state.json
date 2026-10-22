@@ -1063,7 +1063,7 @@
       "start": "2026-09-25T02:10:00.000Z",
       "end": "2026-09-25T05:10:00.000Z",
       "allDay": false,
-      "description": "Two teams with live postseason stakes meet directly.\nSan Diego Padres: 3.5 games ahead of the first team outside the wild cards.\nLos Angeles Dodgers: already qualified; close records keep postseason home-field positioning in play.\nFollowing San Diego Padres.\nStandings snapshot: 2026-09-24.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Pivetta / Tyler Glasnow.\n\nListed broadcasts: Padres.TV Presented by UC San Diego Health / SportsNet LA / MLB Network. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823895",
+      "description": "Two teams with live postseason stakes meet directly.\nSan Diego Padres: 3.5 games ahead of the first team outside the wild cards.\nLos Angeles Dodgers: already qualified; close records keep postseason home-field positioning in play.\nFollowing San Diego Padres.\nStandings snapshot: 2026-09-24.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Pivetta / Tyler Glasnow.\n\nListed broadcasts: SportsNet LA / Padres.TV Presented by UC San Diego Health / MLB Network. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823895",
       "location": "UNIQLO Field at Dodger Stadium",
       "url": "https://www.mlb.com/gameday/823895",
       "status": "CONFIRMED",
@@ -1072,10 +1072,10 @@
         "Pennant race",
         "San Diego Padres"
       ],
-      "hash": "25d0ebd6db4e2473f85516e7782cbe015da98be2235a21b3012c44f7db205649",
+      "hash": "d1dae1f1556d65ac9176706fadc81596acf29697cac5786ccade94a06f310075",
       "created": "2026-09-23T07:50:04.909Z",
-      "modified": "2026-10-20T23:13:47.701Z",
-      "sequence": 9
+      "modified": "2026-10-22T13:54:29.426Z",
+      "sequence": 10
     },
     {
       "uid": "mlb-823248@football-watchlist",
