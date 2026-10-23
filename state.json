@@ -6691,7 +6691,7 @@
       "end": "2026-11-22T20:30:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / MSG / NHLN / SN1 / TVAS. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/car-vs-nyr/2026/11/22/2026020373",
+      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / MSG / NHLN / SN / TVAS. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/car-vs-nyr/2026/11/22/2026020373",
       "location": "Madison Square Garden",
       "url": "https://www.nhl.com/gamecenter/car-vs-nyr/2026/11/22/2026020373",
       "categories": [
@@ -6699,10 +6699,10 @@
         "Regular season",
         "Carolina Hurricanes"
       ],
-      "hash": "2a1106a6471df11ea7fef3598989eb0494f6ee4503960bbda6fd90491fe48d09",
+      "hash": "3e912e1aff334ea12afe5604c75a6d7ffbee906af8376b229f3afc3ba098da4b",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-19T23:47:48.193Z",
-      "sequence": 1
+      "modified": "2026-10-23T18:28:57.725Z",
+      "sequence": 2
     },
     {
       "uid": "redzone-2026-11-22@football-watchlist",
@@ -10811,7 +10811,7 @@
       "end": "2027-02-21T21:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: HBO MAX / SN / TNT / truTV. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/nyr-vs-car/2027/02/21/2026020977",
+      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: HBO MAX / SN1 / TNT / truTV. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/nyr-vs-car/2027/02/21/2026020977",
       "location": "Lenovo Center",
       "url": "https://www.nhl.com/gamecenter/nyr-vs-car/2027/02/21/2026020977",
       "categories": [
@@ -10819,10 +10819,10 @@
         "Regular season",
         "Carolina Hurricanes"
       ],
-      "hash": "5ff8a2159ad77018fb481faab15c2d0c11262be75906f84ac5ea5139c643821a",
+      "hash": "873002adeda529fee3c91d66a766caf8a6592c84890bfdfc030a7b5202c40f1d",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
+      "modified": "2026-10-23T18:28:57.725Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026020980@football-watchlist",
