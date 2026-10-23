@@ -10841,7 +10841,7 @@
       "end": "2027-02-22T02:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Following San Jose Sharks: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SCRIPPS / SN / TVAS. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/sjs-vs-fla/2027/02/21/2026020980",
+      "description": "Following San Jose Sharks: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SCRIPPS / SN / SN360 / TVAS. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/sjs-vs-fla/2027/02/21/2026020980",
       "location": "Amerant Bank Arena",
       "url": "https://www.nhl.com/gamecenter/sjs-vs-fla/2027/02/21/2026020980",
       "categories": [
@@ -10849,10 +10849,10 @@
         "Regular season",
         "San Jose Sharks"
       ],
-      "hash": "39b6a28f3196f8cf27d5b06a632962180396acd1773ace90be3f9995a9873caf",
+      "hash": "a6974157153151c5cbb695352f078f0a77f28141c31c43620ec059cbf87c5aaf",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
+      "modified": "2026-10-23T23:13:45.080Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026020992@football-watchlist",
@@ -11280,7 +11280,7 @@
       "end": "2027-03-07T21:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / Mammoth+ / SN / Utah16. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/uta-vs-car/2027/03/07/2026021082",
+      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / Mammoth+ / SN / SN360 / Utah16. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/uta-vs-car/2027/03/07/2026021082",
       "location": "Lenovo Center",
       "url": "https://www.nhl.com/gamecenter/uta-vs-car/2027/03/07/2026021082",
       "categories": [
@@ -11288,10 +11288,10 @@
         "Regular season",
         "Carolina Hurricanes"
       ],
-      "hash": "e0dac3088887a4f804942618e9d8a88931ab1461ff30da4368d76baee41359d2",
+      "hash": "51a6557ea4d868b3bd731f72b787e641efe4b6d6d059319e48d22b18f358ae41",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-12T22:10:04.220Z",
-      "sequence": 1
+      "modified": "2026-10-23T23:13:45.080Z",
+      "sequence": 2
     },
     {
       "uid": "nhl-2026021098@football-watchlist",

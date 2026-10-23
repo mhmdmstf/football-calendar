@@ -8994,18 +8994,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020980@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261023T231345Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261023T231345Z
+SEQUENCE:1
 DTSTART:20270221T230000Z
 DTEND:20270222T020000Z
 SUMMARY:NHL: San Jose Sharks at Florida Panthers
 DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
  ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
  layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SCRIPPS / S
- N / TVAS. Availability varies by country and provider.\n\nOfficial schedul
- e: https://www.nhl.com/gamecenter/sjs-vs-fla/2027/02/21/2026020980
+ N / SN360 / TVAS. Availability varies by country and provider.\n\nOfficial
+  schedule: https://www.nhl.com/gamecenter/sjs-vs-fla/2027/02/21/2026020980
 LOCATION:Amerant Bank Arena
 URL:https://www.nhl.com/gamecenter/sjs-vs-fla/2027/02/21/2026020980
 CATEGORIES:NHL,Regular season,San Jose Sharks
@@ -9301,19 +9301,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026021082@football-watchlist
-DTSTAMP:20261012T221004Z
+DTSTAMP:20261023T231345Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261012T221004Z
-SEQUENCE:1
+LAST-MODIFIED:20261023T231345Z
+SEQUENCE:2
 DTSTART:20270307T180000Z
 DTEND:20270307T210000Z
 SUMMARY:NHL: Utah Mammoth at Carolina Hurricanes
 DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
  nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
  nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / M
- ammoth+ / SN / Utah16. Availability varies by country and provider.\n\nOff
- icial schedule: https://www.nhl.com/gamecenter/uta-vs-car/2027/03/07/20260
- 21082
+ ammoth+ / SN / SN360 / Utah16. Availability varies by country and provider
+ .\n\nOfficial schedule: https://www.nhl.com/gamecenter/uta-vs-car/2027/03/
+ 07/2026021082
 LOCATION:Lenovo Center
 URL:https://www.nhl.com/gamecenter/uta-vs-car/2027/03/07/2026021082
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
