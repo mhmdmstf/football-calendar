@@ -4620,19 +4620,19 @@
       "start": "2026-10-24T16:00:00.000Z",
       "end": "2026-10-24T19:30:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#4 vs #25) at selection.\n\nTeams: Pittsburgh Panthers at Miami Hurricanes\n\nUS broadcast: ESPN / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858274",
+      "description": "National pick: ranked matchup (#4 vs #25) at selection.\n\nTeams: Pittsburgh Panthers at Miami Hurricanes\n\nUS broadcast: ESPNEWS / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858274/pitt-miami",
       "location": "Hard Rock Stadium, Miami Gardens, FL, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858274",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858274/pitt-miami",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#4 vs #25) at selection.",
-      "hash": "108c87f0e21baded47b7b110e3b44f21cc244be15f5154fda4e397aed938ef41",
+      "hash": "01a467a596608f0c762bb9166e476e2ee1032e26e6c2cafbe347bcad18f4a643",
       "created": "2026-10-04T23:17:56.177Z",
-      "modified": "2026-10-24T17:29:39.177Z",
-      "sequence": 4
+      "modified": "2026-10-24T22:34:20.422Z",
+      "sequence": 5
     },
     {
       "uid": "college-football-401858496@football-watchlist",
@@ -4641,19 +4641,19 @@
       "start": "2026-10-24T16:00:00.000Z",
       "end": "2026-10-24T19:30:00.000Z",
       "allDay": false,
-      "description": "Confirmed College GameDay or Big Noon featured matchup.\nNational pick: a ranked team in a potentially competitive game (market spread 9.5 points at selection). Upset possibility is an estimate.\n\nTeams: Indiana Hoosiers at Michigan Wolverines\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858496",
+      "description": "Confirmed College GameDay or Big Noon featured matchup.\nNational pick: a ranked team in a potentially competitive game (market spread 9.5 points at selection). Upset possibility is an estimate.\n\nTeams: Indiana Hoosiers at Michigan Wolverines\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858496/indiana-michigan",
       "location": "Michigan Stadium, Ann Arbor, MI, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858496",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858496/indiana-michigan",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 9.5 points at selection). Upset possibility is an estimate.",
-      "hash": "04b7e9fb5cb6852bdb483cfc2b629b09e28d6b38c3d82867c28a4f316deb6751",
+      "hash": "f268e1ab6d69371ad311885f80a61fd4034b063bb2111e0efdcd34867b874fbf",
       "created": "2026-10-14T23:18:19.360Z",
-      "modified": "2026-10-24T17:29:39.177Z",
-      "sequence": 2
+      "modified": "2026-10-24T22:34:20.422Z",
+      "sequence": 3
     },
     {
       "uid": "chelsea-2645267@football-watchlist",
@@ -4686,18 +4686,18 @@
       "start": "2026-10-24T19:30:00.000Z",
       "end": "2026-10-24T23:00:00.000Z",
       "allDay": false,
-      "description": "Following Alabama: every game.\n\nTeams: Texas A&M Aggies at Alabama Crimson Tide\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856727/texas-am-alabama",
+      "description": "Following Alabama: every game.\n\nTeams: Texas A&M Aggies at Alabama Crimson Tide\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856727",
       "location": "Bryant-Denny Stadium, Tuscaloosa, AL, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856727/texas-am-alabama",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856727",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "Alabama"
       ],
-      "hash": "055d1f4285d6f3ca6c0195f03360fb166a827cd2b39e0b12f66913a152e52476",
+      "hash": "156f02a23adb973e7bcc226b971068166657c6153625433bd403756ce485ea59",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-10-18T17:25:57.690Z",
-      "sequence": 2
+      "modified": "2026-10-24T22:34:20.422Z",
+      "sequence": 3
     },
     {
       "uid": "college-football-401856731@football-watchlist",
@@ -4706,19 +4706,19 @@
       "start": "2026-10-24T19:30:00.000Z",
       "end": "2026-10-24T23:00:00.000Z",
       "allDay": false,
-      "description": "National pick: a ranked team in a potentially competitive game (market spread 2.5 points at selection). Upset possibility is an estimate.\n\nTeams: Tennessee Volunteers at South Carolina Gamecocks\n\nUS broadcast: ESPN / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856731/tennessee-south-carolina",
+      "description": "National pick: a ranked team in a potentially competitive game (market spread 2.5 points at selection). Upset possibility is an estimate.\n\nTeams: Tennessee Volunteers at South Carolina Gamecocks\n\nUS broadcast: ESPN / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856731",
       "location": "Williams-Brice Stadium, Columbia, SC, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856731/tennessee-south-carolina",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856731",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 2.5 points at selection). Upset possibility is an estimate.",
-      "hash": "4bccfd34db8faf1b4f7d5ec98da473908c3329280210fa418b66caf8d217a9f4",
+      "hash": "e854a75e3b13c3a1d965e33e17eb3f20a4ff228a835f950c51a4e7fede8475b1",
       "created": "2026-10-14T23:18:19.360Z",
-      "modified": "2026-10-20T23:13:47.701Z",
-      "sequence": 2
+      "modified": "2026-10-24T22:34:20.422Z",
+      "sequence": 3
     },
     {
       "uid": "college-football-401856835@football-watchlist",
@@ -4727,19 +4727,19 @@
       "start": "2026-10-24T19:30:00.000Z",
       "end": "2026-10-24T23:00:00.000Z",
       "allDay": false,
-      "description": "National pick: a ranked team in a potentially competitive game (market spread 9.5 points at selection). Upset possibility is an estimate.\n\nTeams: BYU Cougars at UCF Knights\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856835/byu-ucf",
+      "description": "National pick: a ranked team in a potentially competitive game (market spread 9.5 points at selection). Upset possibility is an estimate.\n\nTeams: BYU Cougars at UCF Knights\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856835",
       "location": "Acrisure Bounce House, Orlando, FL, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856835/byu-ucf",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856835",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 9.5 points at selection). Upset possibility is an estimate.",
-      "hash": "2900d8927389c2ffe62e8fab8a555e3a232d26167082b4b67d2420f68ff200fa",
+      "hash": "46f46c9ec798d63c51dde281ab0c8b9a2b741966cf85752b0cbf31dc3fa50861",
       "created": "2026-10-14T23:18:19.360Z",
-      "modified": "2026-10-18T22:28:29.718Z",
-      "sequence": 1
+      "modified": "2026-10-24T22:34:20.422Z",
+      "sequence": 2
     },
     {
       "uid": "nhl-2026020170@football-watchlist",

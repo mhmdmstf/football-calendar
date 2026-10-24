@@ -3798,30 +3798,31 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858274@football-watchlist
-DTSTAMP:20261024T172939Z
+DTSTAMP:20261024T223420Z
 CREATED:20261004T231756Z
-LAST-MODIFIED:20261024T172939Z
-SEQUENCE:4
+LAST-MODIFIED:20261024T223420Z
+SEQUENCE:5
 DTSTART:20261024T160000Z
 DTEND:20261024T193000Z
 SUMMARY:CFB: Pittsburgh at Miami
 DESCRIPTION:National pick: ranked matchup (#4 vs #25) at selection.\n\nTeam
- s: Pittsburgh Panthers at Miami Hurricanes\n\nUS broadcast: ESPN / Disney+
- . Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for
-  championships)\; finish is approximate.\n\nSchedule: https://www.espn.com
- /college-football/game/_/gameId/401858274
+ s: Pittsburgh Panthers at Miami Hurricanes\n\nUS broadcast: ESPNEWS / Disn
+ ey+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours 
+ for championships)\; finish is approximate.\n\nSchedule: https://www.espn.
+ com/college-football/game/_/gameId/401858274/pitt-miami
 LOCATION:Hard Rock Stadium\, Miami Gardens\, FL\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858274
+URL:https://www.espn.com/college-football/game/_/gameId/401858274/pitt-miam
+ i
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858496@football-watchlist
-DTSTAMP:20261024T172939Z
+DTSTAMP:20261024T223420Z
 CREATED:20261014T231819Z
-LAST-MODIFIED:20261024T172939Z
-SEQUENCE:2
+LAST-MODIFIED:20261024T223420Z
+SEQUENCE:3
 DTSTART:20261024T160000Z
 DTEND:20261024T193000Z
 SUMMARY:CFB: Indiana at Michigan
@@ -3831,9 +3832,10 @@ DESCRIPTION:Confirmed College GameDay or Big Noon featured matchup.\nNation
  a Hoosiers at Michigan Wolverines\n\nUS broadcast: Fox. Availability elsew
  here varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; fi
  nish is approximate.\n\nSchedule: https://www.espn.com/college-football/ga
- me/_/gameId/401858496
+ me/_/gameId/401858496/indiana-michigan
 LOCATION:Michigan Stadium\, Ann Arbor\, MI\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858496
+URL:https://www.espn.com/college-football/game/_/gameId/401858496/indiana-m
+ ichigan
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -3862,10 +3864,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856727@football-watchlist
-DTSTAMP:20261018T172557Z
+DTSTAMP:20261024T223420Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20261018T172557Z
-SEQUENCE:2
+LAST-MODIFIED:20261024T223420Z
+SEQUENCE:3
 DTSTART:20261024T193000Z
 DTEND:20261024T230000Z
 SUMMARY:CFB: Texas A&M at Alabama
@@ -3873,20 +3875,19 @@ DESCRIPTION:Following Alabama: every game.\n\nTeams: Texas A&M Aggies at Al
  abama Crimson Tide\n\nUS broadcast: ABC. Availability elsewhere varies.\n\
  nViewing window: 3.5 hours (4 hours for championships)\; finish is approxi
  mate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401
- 856727/texas-am-alabama
+ 856727
 LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856727/texas-am-
- alabama
+URL:https://www.espn.com/college-football/game/_/gameId/401856727
 CATEGORIES:College,Alabama
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856731@football-watchlist
-DTSTAMP:20261020T231347Z
+DTSTAMP:20261024T223420Z
 CREATED:20261014T231819Z
-LAST-MODIFIED:20261020T231347Z
-SEQUENCE:2
+LAST-MODIFIED:20261024T223420Z
+SEQUENCE:3
 DTSTART:20261024T193000Z
 DTEND:20261024T230000Z
 SUMMARY:CFB: Tennessee at South Carolina
@@ -3895,21 +3896,19 @@ DESCRIPTION:National pick: a ranked team in a potentially competitive game
  \n\nTeams: Tennessee Volunteers at South Carolina Gamecocks\n\nUS broadcas
  t: ESPN / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 h
  ours (4 hours for championships)\; finish is approximate.\n\nSchedule: htt
- ps://www.espn.com/college-football/game/_/gameId/401856731/tennessee-south
- -carolina
+ ps://www.espn.com/college-football/game/_/gameId/401856731
 LOCATION:Williams-Brice Stadium\, Columbia\, SC\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856731/tennessee
- -south-carolina
+URL:https://www.espn.com/college-football/game/_/gameId/401856731
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856835@football-watchlist
-DTSTAMP:20261018T222829Z
+DTSTAMP:20261024T223420Z
 CREATED:20261014T231819Z
-LAST-MODIFIED:20261018T222829Z
-SEQUENCE:1
+LAST-MODIFIED:20261024T223420Z
+SEQUENCE:2
 DTSTART:20261024T193000Z
 DTEND:20261024T230000Z
 SUMMARY:CFB: BYU at UCF
@@ -3918,9 +3917,9 @@ DESCRIPTION:National pick: a ranked team in a potentially competitive game
  \n\nTeams: BYU Cougars at UCF Knights\n\nUS broadcast: Fox. Availability e
  lsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)\
  ; finish is approximate.\n\nSchedule: https://www.espn.com/college-footbal
- l/game/_/gameId/401856835/byu-ucf
+ l/game/_/gameId/401856835
 LOCATION:Acrisure Bounce House\, Orlando\, FL\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856835/byu-ucf
+URL:https://www.espn.com/college-football/game/_/gameId/401856835
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
