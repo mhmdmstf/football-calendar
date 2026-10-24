@@ -4620,19 +4620,19 @@
       "start": "2026-10-24T16:00:00.000Z",
       "end": "2026-10-24T19:30:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#4 vs #25) at selection.\n\nTeams: Pittsburgh Panthers at Miami Hurricanes\n\nUS broadcast: ESPN / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858274/pitt-miami",
+      "description": "National pick: ranked matchup (#4 vs #25) at selection.\n\nTeams: Pittsburgh Panthers at Miami Hurricanes\n\nUS broadcast: ESPN / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858274",
       "location": "Hard Rock Stadium, Miami Gardens, FL, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858274/pitt-miami",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858274",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#4 vs #25) at selection.",
-      "hash": "2eb7d4bdd97508acbc6634c2a6add9de8b66f86bd60805ac7754f3714376b786",
+      "hash": "108c87f0e21baded47b7b110e3b44f21cc244be15f5154fda4e397aed938ef41",
       "created": "2026-10-04T23:17:56.177Z",
-      "modified": "2026-10-20T23:13:47.701Z",
-      "sequence": 3
+      "modified": "2026-10-24T17:29:39.177Z",
+      "sequence": 4
     },
     {
       "uid": "college-football-401858496@football-watchlist",
@@ -4641,19 +4641,19 @@
       "start": "2026-10-24T16:00:00.000Z",
       "end": "2026-10-24T19:30:00.000Z",
       "allDay": false,
-      "description": "Confirmed College GameDay or Big Noon featured matchup.\nNational pick: a ranked team in a potentially competitive game (market spread 9.5 points at selection). Upset possibility is an estimate.\n\nTeams: Indiana Hoosiers at Michigan Wolverines\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858496/indiana-michigan",
+      "description": "Confirmed College GameDay or Big Noon featured matchup.\nNational pick: a ranked team in a potentially competitive game (market spread 9.5 points at selection). Upset possibility is an estimate.\n\nTeams: Indiana Hoosiers at Michigan Wolverines\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858496",
       "location": "Michigan Stadium, Ann Arbor, MI, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858496/indiana-michigan",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858496",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 9.5 points at selection). Upset possibility is an estimate.",
-      "hash": "f268e1ab6d69371ad311885f80a61fd4034b063bb2111e0efdcd34867b874fbf",
+      "hash": "04b7e9fb5cb6852bdb483cfc2b629b09e28d6b38c3d82867c28a4f316deb6751",
       "created": "2026-10-14T23:18:19.360Z",
-      "modified": "2026-10-20T18:31:54.497Z",
-      "sequence": 1
+      "modified": "2026-10-24T17:29:39.177Z",
+      "sequence": 2
     },
     {
       "uid": "chelsea-2645267@football-watchlist",
@@ -4952,7 +4952,7 @@
       "start": "2026-10-27T00:00:00.000Z",
       "end": "2026-10-27T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849804",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Robert Gasser / Freddy Peralta.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849804",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/849804",
       "status": "CONFIRMED",
@@ -4961,10 +4961,10 @@
         "Playoffs",
         "Tampa Bay Rays"
       ],
-      "hash": "fd930cb554263c80228314f75cc23e71b359379aa9a1dd9e7f5f4f7905f3a2e8",
+      "hash": "b3f595b7f7ea2eb35febde07ba1d9f8ccdb1c044a07cea874eb63733ef136312",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-20T07:44:07.650Z",
-      "sequence": 7
+      "modified": "2026-10-24T17:29:39.177Z",
+      "sequence": 8
     },
     {
       "uid": "nfl-401873009@football-watchlist",
