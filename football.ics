@@ -8,28 +8,6 @@ X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:chelsea-2645204@football-watchlist
-DTSTAMP:20261003T132345Z
-CREATED:20261003T132258Z
-LAST-MODIFIED:20261003T132345Z
-SEQUENCE:1
-DTSTART:20260824T190000Z
-DTEND:20260824T210000Z
-SUMMARY:Fulham vs Chelsea - Premier League
-DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
- \nThe club currently lists this kickoff as confirmed. Viewing window: 2 ho
- urs\; finish is approximate.\n\nFixtures remain subject to later reschedul
- ing. The feed refreshes from Chelsea’s official schedule.\n\nOfficial ma
- tch: https://www.chelseafc.com/en/match/fulham-vs-chelsea-english-premier-
- league-2026-08-24
-LOCATION:Craven Cottage
-URL:https://www.chelseafc.com/en/match/fulham-vs-chelsea-english-premier-le
- ague-2026-08-24
-CATEGORIES:Soccer,Chelsea,Premier League
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:chelsea-2679897@football-watchlist
 DTSTAMP:20261003T132345Z
 CREATED:20261003T132258Z
@@ -5172,6 +5150,90 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:college-football-401856864@football-watchlist
+DTSTAMP:20261024T072439Z
+CREATED:20261024T072439Z
+LAST-MODIFIED:20261024T072439Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:CFB: Utah at Arizona [time TBA]
+DESCRIPTION:National pick: ranked matchup (#10 vs #25) at selection.\n\nTea
+ ms: Utah Utes at Arizona Wildcats\n\nBroadcast to be announced.\n\nKickoff
+  has not been announced. This all-day marker will become a timed event whe
+ n confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gam
+ eId/401856864/utah-arizona
+LOCATION:Casino Del Sol Stadium\, Tucson\, AZ\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856864/utah-ariz
+ ona
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856883@football-watchlist
+DTSTAMP:20261024T072439Z
+CREATED:20261024T072439Z
+LAST-MODIFIED:20261024T072439Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:CFB: Missouri at Georgia [time TBA]
+DESCRIPTION:National pick: ranked matchup (#5 vs #22) at selection.\n\nFLEX
+ : 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Missouri Tigers at Georgia B
+ ulldogs\n\nBroadcast to be announced.\n\nKickoff has not been announced. T
+ his all-day marker will become a timed event when confirmed.\n\nSchedule: 
+ https://www.espn.com/college-football/game/_/gameId/401856883/missouri-geo
+ rgia
+LOCATION:Sanford Stadium\, Athens\, GA\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856883/missouri-
+ georgia
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856884@football-watchlist
+DTSTAMP:20261024T072439Z
+CREATED:20261024T072439Z
+LAST-MODIFIED:20261024T072439Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:CFB: Florida at Kentucky [time TBA]
+DESCRIPTION:National pick: ranked matchup (#12 vs #20) at selection.\n\nNIG
+ HT: 6 - 8pm ET start\n\nTeams: Florida Gators at Kentucky Wildcats\n\nBroa
+ dcast to be announced.\n\nKickoff has not been announced. This all-day mar
+ ker will become a timed event when confirmed.\n\nSchedule: https://www.esp
+ n.com/college-football/game/_/gameId/401856884/florida-kentucky
+LOCATION:Kroger Field\, Lexington\, KY\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856884/florida-k
+ entucky
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856885@football-watchlist
+DTSTAMP:20261024T072439Z
+CREATED:20261024T072439Z
+LAST-MODIFIED:20261024T072439Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:CFB: Texas at LSU [time TBA]
+DESCRIPTION:National pick: ranked matchup (#18 vs #19) at selection.\n\nFLE
+ X: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Texas Longhorns at LSU Tige
+ rs\n\nBroadcast to be announced.\n\nKickoff has not been announced. This a
+ ll-day marker will become a timed event when confirmed.\n\nSchedule: https
+ ://www.espn.com/college-football/game/_/gameId/401856885/texas-lsu
+LOCATION:Tiger Stadium (LA)\, Baton Rouge\, LA\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856885/texas-lsu
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:college-football-401856889@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -5189,6 +5251,48 @@ LOCATION:FirstBank Stadium\, Nashville\, TN\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856889/alabama-v
  anderbilt
 CATEGORIES:College,Alabama
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858518@football-watchlist
+DTSTAMP:20261024T072439Z
+CREATED:20261024T072439Z
+LAST-MODIFIED:20261024T072439Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:CFB: USC at Indiana [time TBA]
+DESCRIPTION:National pick: ranked matchup (#6 vs #16) at selection.\n\nTeam
+ s: USC Trojans at Indiana Hoosiers\n\nBroadcast to be announced.\n\nKickof
+ f has not been announced. This all-day marker will become a timed event wh
+ en confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/ga
+ meId/401858518/usc-indiana
+LOCATION:Memorial Stadium (Bloomington\, IN)\, Bloomington\, IN\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858518/usc-india
+ na
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858522@football-watchlist
+DTSTAMP:20261024T072439Z
+CREATED:20261024T072439Z
+LAST-MODIFIED:20261024T072439Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:CFB: Northwestern at Ohio State [time TBA]
+DESCRIPTION:National pick: ranked matchup (#3 vs #24) at selection.\n\nTeam
+ s: Northwestern Wildcats at Ohio State Buckeyes\n\nBroadcast to be announc
+ ed.\n\nKickoff has not been announced. This all-day marker will become a t
+ imed event when confirmed.\n\nSchedule: https://www.espn.com/college-footb
+ all/game/_/gameId/401858522/northwestern-ohio-state
+LOCATION:Ohio Stadium\, Columbus\, OH\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858522/northwest
+ ern-ohio-state
+CATEGORIES:College,National pick
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

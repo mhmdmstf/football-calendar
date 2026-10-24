@@ -1,31 +1,7 @@
 {
-  "checkedOn": "2026-10-23",
+  "checkedOn": "2026-10-24",
   "season": 2026,
   "events": [
-    {
-      "uid": "chelsea-2645204@football-watchlist",
-      "gameId": "2645204",
-      "chelseaSeason": 2026,
-      "chelseaCompetition": "eng.1",
-      "chelseaFriendly": false,
-      "title": "Fulham vs Chelsea - Premier League",
-      "start": "2026-08-24T19:00:00.000Z",
-      "end": "2026-08-24T21:00:00.000Z",
-      "allDay": false,
-      "status": "CONFIRMED",
-      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club currently lists this kickoff as confirmed. Viewing window: 2 hours; finish is approximate.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/fulham-vs-chelsea-english-premier-league-2026-08-24",
-      "location": "Craven Cottage",
-      "url": "https://www.chelseafc.com/en/match/fulham-vs-chelsea-english-premier-league-2026-08-24",
-      "categories": [
-        "Soccer",
-        "Chelsea",
-        "Premier League"
-      ],
-      "hash": "39f85c984b5a02be6162b84b33821aa1538f97f02c67635492bbbd4f9181492a",
-      "created": "2026-10-03T13:22:58.480Z",
-      "modified": "2026-10-03T13:23:45.745Z",
-      "sequence": 1
-    },
     {
       "uid": "chelsea-2679897@football-watchlist",
       "gameId": "2679897",
@@ -6230,6 +6206,90 @@
       "sequence": 1
     },
     {
+      "uid": "college-football-401856864@football-watchlist",
+      "gameId": "401856864",
+      "title": "CFB: Utah at Arizona [time TBA]",
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#10 vs #25) at selection.\n\nTeams: Utah Utes at Arizona Wildcats\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856864/utah-arizona",
+      "location": "Casino Del Sol Stadium, Tucson, AZ, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856864/utah-arizona",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#10 vs #25) at selection.",
+      "hash": "5b09c4b0a417357c4ce811310f25dd9c89797c5dc3a503b76cca41f6fa7ea8e0",
+      "created": "2026-10-24T07:24:39.719Z",
+      "modified": "2026-10-24T07:24:39.719Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856883@football-watchlist",
+      "gameId": "401856883",
+      "title": "CFB: Missouri at Georgia [time TBA]",
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#5 vs #22) at selection.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Missouri Tigers at Georgia Bulldogs\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856883/missouri-georgia",
+      "location": "Sanford Stadium, Athens, GA, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856883/missouri-georgia",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#5 vs #22) at selection.",
+      "hash": "a760028d780e49ec0ec992e714e907519c4ecd182d70a94c6690f0b7090ab00c",
+      "created": "2026-10-24T07:24:39.719Z",
+      "modified": "2026-10-24T07:24:39.719Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856884@football-watchlist",
+      "gameId": "401856884",
+      "title": "CFB: Florida at Kentucky [time TBA]",
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#12 vs #20) at selection.\n\nNIGHT: 6 - 8pm ET start\n\nTeams: Florida Gators at Kentucky Wildcats\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856884/florida-kentucky",
+      "location": "Kroger Field, Lexington, KY, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856884/florida-kentucky",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#12 vs #20) at selection.",
+      "hash": "8fdd40e61426050ee32c377a633a7909671df7bee2ddbfba5b776717445fdda6",
+      "created": "2026-10-24T07:24:39.719Z",
+      "modified": "2026-10-24T07:24:39.719Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856885@football-watchlist",
+      "gameId": "401856885",
+      "title": "CFB: Texas at LSU [time TBA]",
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#18 vs #19) at selection.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Texas Longhorns at LSU Tigers\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856885/texas-lsu",
+      "location": "Tiger Stadium (LA), Baton Rouge, LA, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856885/texas-lsu",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#18 vs #19) at selection.",
+      "hash": "b57ef18618d90a46cdb19bd2ba8850d0802946acc232063d690e8ddeffbbe095",
+      "created": "2026-10-24T07:24:39.719Z",
+      "modified": "2026-10-24T07:24:39.719Z",
+      "sequence": 0
+    },
+    {
       "uid": "college-football-401856889@football-watchlist",
       "gameId": "401856889",
       "title": "CFB: Alabama at Vanderbilt [time TBA]",
@@ -6247,6 +6307,48 @@
       "hash": "33860a85f41b05b4269ecb13e05057dcf61689d0a2b5ebef20207955c04d97e6",
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401858518@football-watchlist",
+      "gameId": "401858518",
+      "title": "CFB: USC at Indiana [time TBA]",
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#6 vs #16) at selection.\n\nTeams: USC Trojans at Indiana Hoosiers\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858518/usc-indiana",
+      "location": "Memorial Stadium (Bloomington, IN), Bloomington, IN, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858518/usc-indiana",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#6 vs #16) at selection.",
+      "hash": "aa65a0166ef1a5745524e431aa86579999121500b0507cfe3fef41265363dd9d",
+      "created": "2026-10-24T07:24:39.719Z",
+      "modified": "2026-10-24T07:24:39.719Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401858522@football-watchlist",
+      "gameId": "401858522",
+      "title": "CFB: Northwestern at Ohio State [time TBA]",
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#3 vs #24) at selection.\n\nTeams: Northwestern Wildcats at Ohio State Buckeyes\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858522/northwestern-ohio-state",
+      "location": "Ohio Stadium, Columbus, OH, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858522/northwestern-ohio-state",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#3 vs #24) at selection.",
+      "hash": "f966d9f028bfd7d2b43554e85348500333f57e71786f479f27871a05065fc1ce",
+      "created": "2026-10-24T07:24:39.719Z",
+      "modified": "2026-10-24T07:24:39.719Z",
       "sequence": 0
     },
     {
@@ -12468,14 +12570,14 @@
   "nflGames": 285,
   "collegeGames": 949,
   "baseball": {
-    "checkedOn": "2026-10-23",
+    "checkedOn": "2026-10-24",
     "season": 2026,
     "scheduleGames": 403,
     "events": 50,
     "playoffEvents": 42
   },
   "hockey": {
-    "checkedOn": "2026-10-23",
+    "checkedOn": "2026-10-24",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -12492,7 +12594,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-10-23",
+    "checkedOn": "2026-10-24",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
