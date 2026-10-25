@@ -3864,10 +3864,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856727@football-watchlist
-DTSTAMP:20261024T223420Z
+DTSTAMP:20261025T074009Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20261024T223420Z
-SEQUENCE:3
+LAST-MODIFIED:20261025T074009Z
+SEQUENCE:4
 DTSTART:20261024T193000Z
 DTEND:20261024T230000Z
 SUMMARY:CFB: Texas A&M at Alabama
@@ -3875,19 +3875,20 @@ DESCRIPTION:Following Alabama: every game.\n\nTeams: Texas A&M Aggies at Al
  abama Crimson Tide\n\nUS broadcast: ABC. Availability elsewhere varies.\n\
  nViewing window: 3.5 hours (4 hours for championships)\; finish is approxi
  mate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401
- 856727
+ 856727/texas-am-alabama
 LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856727
+URL:https://www.espn.com/college-football/game/_/gameId/401856727/texas-am-
+ alabama
 CATEGORIES:College,Alabama
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856731@football-watchlist
-DTSTAMP:20261024T223420Z
+DTSTAMP:20261025T074009Z
 CREATED:20261014T231819Z
-LAST-MODIFIED:20261024T223420Z
-SEQUENCE:3
+LAST-MODIFIED:20261025T074009Z
+SEQUENCE:4
 DTSTART:20261024T193000Z
 DTEND:20261024T230000Z
 SUMMARY:CFB: Tennessee at South Carolina
@@ -3896,19 +3897,21 @@ DESCRIPTION:National pick: a ranked team in a potentially competitive game
  \n\nTeams: Tennessee Volunteers at South Carolina Gamecocks\n\nUS broadcas
  t: ESPN / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 h
  ours (4 hours for championships)\; finish is approximate.\n\nSchedule: htt
- ps://www.espn.com/college-football/game/_/gameId/401856731
+ ps://www.espn.com/college-football/game/_/gameId/401856731/tennessee-south
+ -carolina
 LOCATION:Williams-Brice Stadium\, Columbia\, SC\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856731
+URL:https://www.espn.com/college-football/game/_/gameId/401856731/tennessee
+ -south-carolina
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856835@football-watchlist
-DTSTAMP:20261024T223420Z
+DTSTAMP:20261025T074009Z
 CREATED:20261014T231819Z
-LAST-MODIFIED:20261024T223420Z
-SEQUENCE:2
+LAST-MODIFIED:20261025T074009Z
+SEQUENCE:3
 DTSTART:20261024T193000Z
 DTEND:20261024T230000Z
 SUMMARY:CFB: BYU at UCF
@@ -3917,9 +3920,9 @@ DESCRIPTION:National pick: a ranked team in a potentially competitive game
  \n\nTeams: BYU Cougars at UCF Knights\n\nUS broadcast: Fox. Availability e
  lsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)\
  ; finish is approximate.\n\nSchedule: https://www.espn.com/college-footbal
- l/game/_/gameId/401856835
+ l/game/_/gameId/401856835/byu-ucf
 LOCATION:Acrisure Bounce House\, Orlando\, FL\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856835
+URL:https://www.espn.com/college-football/game/_/gameId/401856835/byu-ucf
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -4374,18 +4377,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856842@football-watchlist
-DTSTAMP:20261019T234748Z
+DTSTAMP:20261025T074009Z
 CREATED:20261018T222829Z
-LAST-MODIFIED:20261019T234748Z
-SEQUENCE:1
+LAST-MODIFIED:20261025T074009Z
+SEQUENCE:2
 DTSTART:20261031T160000Z
 DTEND:20261031T193000Z
 SUMMARY:CFB: Arizona at Texas Tech
 DESCRIPTION:National pick: ranked matchup (#8 vs #25) at selection.\n\nTeam
- s: Arizona Wildcats at Texas Tech Red Raiders\n\nBroadcast to be announced
- .\n\nViewing window: 3.5 hours (4 hours for championships)\; finish is app
- roximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId
- /401856842/arizona-texas-tech
+ s: Arizona Wildcats at Texas Tech Red Raiders\n\nUS broadcast: ESPN. Avail
+ ability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champi
+ onships)\; finish is approximate.\n\nSchedule: https://www.espn.com/colleg
+ e-football/game/_/gameId/401856842/arizona-texas-tech
 LOCATION:Galaxy Stadium\, Lubbock\, TX\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856842/arizona-t
  exas-tech
@@ -4438,19 +4441,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856848@football-watchlist
-DTSTAMP:20261021T232653Z
+DTSTAMP:20261025T074009Z
 CREATED:20261021T232653Z
-LAST-MODIFIED:20261021T232653Z
-SEQUENCE:0
+LAST-MODIFIED:20261025T074009Z
+SEQUENCE:1
 DTSTART:20261031T194500Z
 DTEND:20261031T231500Z
 SUMMARY:CFB: Utah at Cincinnati
 DESCRIPTION:National pick: a ranked team in a potentially competitive game 
  (market spread 9.5 points at selection). Upset possibility is an estimate.
- \n\nTeams: Utah Utes at Cincinnati Bearcats\n\nBroadcast to be announced.\
- n\nViewing window: 3.5 hours (4 hours for championships)\; finish is appro
- ximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/4
- 01856848/utah-cincinnati
+ \n\nTeams: Utah Utes at Cincinnati Bearcats\n\nUS broadcast: ESPN. Availab
+ ility elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champion
+ ships)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-
+ football/game/_/gameId/401856848/utah-cincinnati
 LOCATION:Nippert Stadium\, Cincinnati\, OH\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856848/utah-cinc
  innati
@@ -4480,18 +4483,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856737@football-watchlist
-DTSTAMP:20261019T234748Z
+DTSTAMP:20261025T074009Z
 CREATED:20261010T083902Z
-LAST-MODIFIED:20261019T234748Z
-SEQUENCE:1
+LAST-MODIFIED:20261025T074009Z
+SEQUENCE:2
 DTSTART:20261031T233000Z
 DTEND:20261101T030000Z
 SUMMARY:CFB: Mississippi State at Texas
-DESCRIPTION:National pick: ranked matchup (#1 vs #17) at selection.\n\nNIGH
- T: 6 - 8pm ET start\n\nTeams: Mississippi State Bulldogs at Texas Longhorn
- s\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for 
- championships)\; finish is approximate.\n\nSchedule: https://www.espn.com/
- college-football/game/_/gameId/401856737/mississippi-st-texas
+DESCRIPTION:National pick: ranked matchup (#1 vs #17) at selection.\n\nTeam
+ s: Mississippi State Bulldogs at Texas Longhorns\n\nUS broadcast: ESPN. Av
+ ailability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for cha
+ mpionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/col
+ lege-football/game/_/gameId/401856737/mississippi-st-texas
 LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856737/mississip
  pi-st-texas
