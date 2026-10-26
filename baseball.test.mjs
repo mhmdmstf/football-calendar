@@ -36,6 +36,43 @@ function playoff(id, overrides = {}) {
 const data = games => ({ games, standings });
 const build = (games, previous = [], at = now) => buildBaseballEvents(data(games), config, at, previous);
 
+test('followed teams include every regular game year-round, beyond race quotas and horizon', () => {
+  const followedConfig = { ...config, alwaysIncludeTeamIds: ['121', '139'] };
+  const rays = team('139', 'Tampa Bay Rays');
+  const games = [
+    game('early-mets', '2027-03-25', { season: 2027, home: mets, away: cubs, timeKnown: false }),
+    game('late-rays', '2027-09-26', { season: 2027, home: rays, away: cubs }),
+    game('spring-training', '2027-03-15', { season: 2027, type: 'S', home: mets, away: cubs }),
+    game('other-clubs', '2027-03-25', { season: 2027 }),
+  ];
+  const picks = selectBaseball(games, standings, followedConfig, '2027-03-01');
+  assert.deepEqual([...picks.keys()], ['early-mets', 'late-rays']);
+  const events = buildBaseballEvents(data(games), followedConfig, '2027-03-01').events;
+  assert.equal(events[0].allDay, true);
+  assert.equal(events[0].status, 'TENTATIVE');
+  assert.ok(events.every(event => event.categories.includes('Followed team')));
+  assert.match(events[0].description, /every regular-season game/);
+});
+
+test('full-team games do not consume the separate national shortlist allowance', () => {
+  const followedConfig = { ...config, alwaysIncludeTeamIds: ['121', '139'] };
+  const rays = team('139', 'Tampa Bay Rays');
+  const games = [game('mets-cubs', undefined, { away: mets, home: cubs }),
+    game('rays-cubs', undefined, { away: rays, home: cubs }), game('national-race')];
+  assert.deepEqual([...selectBaseball(games, standings, followedConfig, now).keys()], ['mets-cubs', 'rays-cubs', 'national-race']);
+  const excluded = selectBaseball(games, standings, { ...followedConfig, excludeGameIds: ['mets-cubs'] }, now);
+  assert.equal(excluded.has('mets-cubs'), false);
+});
+
+test('missing followed-team fixtures retain their stable entries and warn instead of disappearing', () => {
+  const followedConfig = { ...config, alwaysIncludeTeamIds: ['121'] };
+  const fixture = game('mets-future', '2027-05-01', { season: 2027, home: mets, away: cubs });
+  const first = stabilize(buildBaseballEvents(data([fixture]), followedConfig, now).events, [], now);
+  const next = buildBaseballEvents(data([]), followedConfig, '2026-09-20', first);
+  assert.deepEqual(stabilize(next.events, first, '2026-09-20'), first);
+  assert.match(next.warnings[0], /missing followed-team game/);
+});
+
 test('live division and wildcard cutoffs create stakes; eliminated favorites do not', () => {
   const ratings = baseballRaceRatings(standings);
   assert.ok(ratings.get(boston.id).score > 0);

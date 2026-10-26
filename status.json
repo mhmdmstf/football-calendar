@@ -1,14 +1,24 @@
 {
   "checkedOn": "2026-10-26",
   "season": 2026,
-  "events": 501,
+  "events": 978,
   "nflGames": 285,
   "collegeGames": 949,
   "baseball": {
     "checkedOn": "2026-10-26",
     "season": 2026,
-    "scheduleGames": 403,
-    "events": 50,
+    "scheduleGames": 998,
+    "followedRegularSeasons": {
+      "2026": {
+        "121": 162,
+        "139": 162
+      },
+      "2027": {
+        "121": 162,
+        "139": 162
+      }
+    },
+    "events": 425,
     "playoffEvents": 42
   },
   "hockey": {
@@ -36,7 +46,38 @@
       "eng.1": 38,
       "eng.league_cup": 3
     },
-    "events": 41
+    "events": 40
+  },
+  "soccer": {
+    "checkedOn": "2026-10-26",
+    "season": 2026,
+    "window": {
+      "start": "2026-10-26",
+      "end": "2026-11-09"
+    },
+    "sourceCounts": {
+      "teams": {
+        "175": {
+          "name": "RC Lens",
+          "leagueGames": 34,
+          "competitive": 43
+        },
+        "2572": {
+          "name": "Como",
+          "leagueGames": 38,
+          "competitive": 47
+        }
+      },
+      "leagues": {
+        "eng.1": 20,
+        "ita.1": 30,
+        "esp.1": 21,
+        "ger.1": 18,
+        "fra.1": 19,
+        "uefa.champions": 18
+      }
+    },
+    "events": 102
   },
   "warnings": [
     "College GameDay: no unambiguous current announcement matched the game schedule; retaining verified announcements and TBA placeholders."

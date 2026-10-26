@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { normalizeBaseballGame, baseballSeriesKey, deduplicateBaseballGames, validateBaseballSchedule,
-  validateBaseballStandings, fetchBaseballData } from './baseball-source.mjs';
+  validateBaseballStandings, validateBaseballData, fetchBaseballData } from './baseball-source.mjs';
 
 const NOW = '2026-09-19T12:00:00Z';
 const rawGame = (id = 100, type = 'R', day = '2026-09-19') => ({
@@ -173,4 +173,92 @@ test('Oversized responses stop after three attempts', async () => {
     calls++; return new Response('{}', { headers: { 'content-length': '20000000' } });
   } }), /3 attempts.*size limit/);
   assert.equal(calls, 3);
+});
+
+function teamSchedule(teamId, year, count = 162) {
+  const dates = Array.from({ length: count }, (_, index) => {
+    const day = new Date(Date.UTC(year, 2, 25 + index)).toISOString().slice(0, 10);
+    const raw = rawGame(year * 1000000 + Number(teamId) * 1000 + index, 'R', day);
+    raw.season = String(year);
+    for (const side of ['away', 'home']) raw.teams[side].team.season = year;
+    raw.teams.home.team.id = Number(teamId);
+    return { date: day, totalGames: 1, games: [raw] };
+  });
+  return { totalGames: count, dates };
+}
+
+test('followed-team schedules require every regular game and exclude spring training', () => {
+  const payload = teamSchedule('139', 2027);
+  assert.equal(validateBaseballSchedule(payload, 2027, NOW, { teamId: '139' }).length, 162);
+  assert.throws(() => validateBaseballSchedule(teamSchedule('139', 2027, 161), 2027, NOW, { teamId: '139' }), /161\/162/);
+  assert.throws(() => validateBaseballSchedule(payload, 2027, NOW, { teamId: '121' }), /participants/);
+  const spring = structuredClone(payload); spring.dates[0].games[0].gameType = 'S';
+  assert.throws(() => validateBaseballSchedule(spring, 2027, NOW, { teamId: '139' }), /type/);
+  const empty = { totalGames: 0, dates: [] };
+  assert.deepEqual(validateBaseballSchedule(empty, 2027, NOW, { teamId: '139', allowEmpty: true }), []);
+  assert.throws(() => validateBaseballSchedule(empty, 2026, NOW, { teamId: '139' }), /schedule/);
+});
+
+test('year-round followed schedules do not request early-season standings or national picks', async () => {
+  const urls = [];
+  const result = await fetchBaseballData(2027, '2027-02-01T12:00:00Z', {
+    alwaysIncludeTeamIds: ['139', '121'],
+    fetchImpl: async url => {
+      urls.push(new URL(url));
+      return Response.json(teamSchedule(new URL(url).searchParams.get('teamId'), 2027));
+    },
+  });
+  assert.equal(urls.length, 2);
+  assert.ok(urls.every(url => url.pathname.endsWith('/schedule') && url.searchParams.get('gameTypes') === 'R'));
+  assert.equal(result.games.length, 324);
+  assert.deepEqual(result.standings, []);
+  assert.deepEqual(result.followedRegularSeasons, { 2027: { 139: 162, 121: 162 } });
+  assert.equal(result.source.national, null);
+});
+
+test('published next-season schedules are included and raw cache validation catches later truncation', async () => {
+  const result = await fetchBaseballData(2026, '2026-12-01T12:00:00Z', {
+    alwaysIncludeTeamIds: ['139', '121'],
+    fetchImpl: async url => {
+      const query = new URL(url).searchParams;
+      return Response.json(teamSchedule(query.get('teamId'), Number(query.get('season'))));
+    },
+  });
+  assert.equal(result.games.length, 648);
+  assert.deepEqual(result.followedRegularSeasons, { 2026: { 139: 162, 121: 162 }, 2027: { 139: 162, 121: 162 } });
+  assert.deepEqual(validateBaseballData(result, 2026, '2026-12-01', { alwaysIncludeTeamIds: ['139', '121'] }).games, result.games);
+  const broken = structuredClone(result);
+  broken.source.regular[2027][139].dates.pop();
+  assert.throws(() => validateBaseballData(broken, 2026, '2026-12-01', { alwaysIncludeTeamIds: ['139', '121'] }), /incomplete schedule/);
+});
+
+test('an unpublished next season requires an explicitly empty, well-formed source response', async () => {
+  const result = await fetchBaseballData(2026, '2026-07-01T12:00:00Z', {
+    alwaysIncludeTeamIds: ['139'],
+    fetchImpl: async url => Response.json(new URL(url).searchParams.get('season') === '2026'
+      ? teamSchedule('139', 2026) : { totalGames: 0, dates: [] }),
+  });
+  assert.equal(result.games.length, 162);
+  assert.deepEqual(result.followedRegularSeasons, { 2026: { 139: 162 }, 2027: { 139: 0 } });
+  const broken = structuredClone(result); broken.source.regular[2027][139] = {};
+  assert.throws(() => validateBaseballData(broken, 2026, '2026-07-01', { alwaysIncludeTeamIds: ['139'] }), /schedule/);
+});
+
+test('a Rays-Mets game appears once while distinct doubleheader games retain separate IDs', async () => {
+  const rays = teamSchedule('139', 2027), mets = teamSchedule('121', 2027);
+  for (let index = 0; index < 2; index++) {
+    rays.dates[index].games[0].teams.away.team.id = 121;
+    mets.dates[index] = structuredClone(rays.dates[index]);
+  }
+  const second = rays.dates[1].games[0];
+  second.officialDate = rays.dates[0].date;
+  second.gameDate = `${second.officialDate}T23:00:00Z`;
+  rays.dates[1].date = second.officialDate;
+  mets.dates[1] = structuredClone(rays.dates[1]);
+  const result = await fetchBaseballData(2027, '2027-02-01T12:00:00Z', {
+    alwaysIncludeTeamIds: ['139', '121'],
+    fetchImpl: async url => Response.json(new URL(url).searchParams.get('teamId') === '139' ? rays : mets),
+  });
+  assert.equal(result.games.length, 322);
+  assert.equal(result.games.filter(game => game.day === rays.dates[0].date).length, 2);
 });

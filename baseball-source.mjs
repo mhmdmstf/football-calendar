@@ -95,10 +95,15 @@ export function normalizeBaseballSchedule(payload) {
 }
 
 /** Validate before replacing any published schedule. Call on raw cached payloads too. */
-export function validateBaseballSchedule(payload, year, now = new Date()) {
+export function validateBaseballSchedule(payload, year, now = new Date(), { teamId, allowEmpty = false } = {}) {
   if (!Number.isInteger(year) || year < 2022 || year > 2100) fail('invalid season');
-  if (!payload || !Array.isArray(payload.dates) || payload.dates.length > 150 ||
-      !integer(payload.totalGames) || payload.totalGames < 1 || payload.totalGames > MAX_GAMES) fail('missing or oversized schedule');
+  if (teamId != null && !validId(teamId)) fail('invalid followed team');
+  if (!payload || !Array.isArray(payload.dates) || payload.dates.length > (teamId ? 370 : 150) ||
+      !integer(payload.totalGames) || payload.totalGames < (allowEmpty ? 0 : 1) || payload.totalGames > MAX_GAMES) fail('missing or oversized schedule');
+  if (payload.totalGames === 0) {
+    if (!teamId || !allowEmpty || payload.dates.length) fail('invalid empty schedule');
+    return [];
+  }
   let count = 0;
   for (const date of payload.dates) {
     if (!validDay(date.date) || !date.date.startsWith(`${year}-`) || !Array.isArray(date.games) || !integer(date.totalGames) || date.totalGames !== date.games.length) fail('invalid schedule date bucket');
@@ -114,10 +119,17 @@ export function validateBaseballSchedule(payload, year, now = new Date()) {
         if (!team || !validId(team.id) || typeof team.name !== 'string' || !team.name.trim()) fail(`missing ${side} team for ${raw.gamePk}`);
         if (team.season != null && Number(team.season) !== year) fail(`wrong team season for ${raw.gamePk}`);
       }
+      if (teamId && (raw.gameType !== 'R' || !['away', 'home'].some(side => String(raw.teams[side].team.id) === String(teamId)))) {
+        fail(`wrong game type or participants for followed team ${teamId}`);
+      }
     }
   }
   if (count !== payload.totalGames) fail(`incomplete schedule: advertised ${payload.totalGames}, received ${count}`);
   const games = normalizeBaseballSchedule(payload);
+  if (teamId) {
+    if (games.length !== 162) fail(`incomplete regular season for team ${teamId}: ${games.length}/162 games`);
+    return games;
+  }
   const counts = Object.fromEntries(Object.keys(POSTSEASON_MAX).map(type => [type, games.filter(g => g.type === type).length]));
   const firstPost = games.filter(g => g.type !== 'R').map(g => g.day).sort()[0];
   const today = easternDay(now);
@@ -205,17 +217,80 @@ async function request(url, validate, { fetchImpl, sleep, warn }) {
   }
 }
 
-export async function fetchBaseballData(year, now = new Date(), { fetchImpl = fetch, sleep = defaultSleep, warn } = {}) {
-  const options = { fetchImpl, sleep, warn };
+function followedIds(ids) {
+  if (!Array.isArray(ids) || ids.length > 30 || ids.some(id => !validId(id)) || new Set(ids.map(String)).size !== ids.length) fail('invalid followed team IDs');
+  return ids.map(String);
+}
+
+function activeNationalWindow(now) {
+  const month = new Date(now).getUTCMonth();
+  return month >= 8 && month <= 10;
+}
+
+function followedSeasons(year, now) {
+  // MLB normally releases next year's schedule during the summer. An explicit
+  // empty next-season response is valid until publication; a partial one is not.
+  return new Date(now).getUTCMonth() >= 6 ? [year, year + 1] : [year];
+}
+
+/** Validate raw online/cache snapshots before publishing either followed team. */
+export function validateBaseballData(data, year, now = new Date(), { alwaysIncludeTeamIds = [] } = {}) {
+  const ids = followedIds(alwaysIncludeTeamIds);
+  const source = data?.source;
+  if (!source || source.year !== year) fail('missing or wrong-season source cache');
+  const national = activeNationalWindow(now) ? validateBaseballSchedule(source.national, year, now) : [];
+  const rawGames = [...(source.national && activeNationalWindow(now) ? source.national.dates.flatMap(date => date.games) : [])];
+  const followedRegularSeasons = {};
+  for (const season of followedSeasons(year, now)) {
+    if (!ids.length) continue;
+    followedRegularSeasons[season] = {};
+    for (const teamId of ids) {
+      const payload = source.regular?.[season]?.[teamId];
+      const games = validateBaseballSchedule(payload, season, now, { teamId, allowEmpty: season > year });
+      followedRegularSeasons[season][teamId] = games.length;
+      rawGames.push(...payload.dates.flatMap(date => date.games));
+    }
+  }
   const today = easternDay(now);
-  const query = new URLSearchParams({ sportId: '1', season: String(year), startDate: `${year}-09-01`, endDate: `${year}-11-30`,
-    gameTypes: 'R,F,D,L,W', hydrate: HYDRATE });
-  const games = await request(`${API}/schedule?${query}`, payload => validateBaseballSchedule(payload, year, now), options);
-  const needStandings = games.some(g => g.type === 'R' && g.day >= today && !g.finished && g.status !== 'CANCELLED');
-  let standings = [];
+  const needStandings = national.some(g => g.type === 'R' && g.day >= today && !g.finished && g.status !== 'CANCELLED');
+  const standings = needStandings ? validateBaseballStandings(source.standings, year, now) : [];
+  return { games: deduplicateBaseballGames(rawGames).map(normalizeBaseballGame), standings, followedRegularSeasons, source };
+}
+
+export async function fetchBaseballData(year, now = new Date(), { fetchImpl = fetch, sleep = defaultSleep, warn, alwaysIncludeTeamIds = [] } = {}) {
+  const options = { fetchImpl, sleep, warn };
+  const ids = followedIds(alwaysIncludeTeamIds);
+  const today = easternDay(now);
+  const source = { year, national: null, regular: {}, standings: null };
+  let national = [];
+  if (activeNationalWindow(now)) {
+    const query = new URLSearchParams({ sportId: '1', season: String(year), startDate: `${year}-09-01`, endDate: `${year}-11-30`,
+      gameTypes: 'R,F,D,L,W', hydrate: HYDRATE });
+    const result = await request(`${API}/schedule?${query}`, payload => ({ payload, games: validateBaseballSchedule(payload, year, now) }), options);
+    source.national = result.payload;
+    national = result.games;
+  }
+  const fetched = await Promise.allSettled(followedSeasons(year, now).flatMap(season => ids.map(async teamId => {
+    const query = new URLSearchParams({ sportId: '1', season: String(season), teamId, gameTypes: 'R', hydrate: HYDRATE });
+    const payload = await request(`${API}/schedule?${query}`, payload => {
+      validateBaseballSchedule(payload, season, now, { teamId, allowEmpty: season > year });
+      return payload;
+    }, options);
+    return { season, teamId, payload };
+  })));
+  const failed = fetched.find(result => result.status === 'rejected');
+  if (failed) throw failed.reason;
+  for (const result of fetched) {
+    const { season, teamId, payload } = result.value;
+    (source.regular[season] ||= {})[teamId] = payload;
+  }
+  const needStandings = national.some(g => g.type === 'R' && g.day >= today && !g.finished && g.status !== 'CANCELLED');
   if (needStandings) {
     const query = new URLSearchParams({ leagueId: '103,104', season: String(year), standingsTypes: 'regularSeason', date: today, hydrate: 'team' });
-    standings = await request(`${API}/standings?${query}`, payload => validateBaseballStandings(payload, year, now), options);
+    source.standings = await request(`${API}/standings?${query}`, payload => {
+      validateBaseballStandings(payload, year, now);
+      return payload;
+    }, options);
   }
-  return { games, standings };
+  return validateBaseballData({ source }, year, now, { alwaysIncludeTeamIds: ids });
 }

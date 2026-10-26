@@ -17,10 +17,12 @@ WHAT IS INCLUDED
 - NFL Sunday/Monday/Thursday night games, every international game, standalone
   Wednesday/Friday/Saturday games (including holidays), and every playoff game.
 - NFL RedZone, regular Sundays 1-8 p.m. US Eastern. Finish is approximate.
+- Every Tampa Bay Rays and New York Mets regular-season game. Next season's
+  games appear once MLB publishes the schedule. Spring training is excluded.
 - MLB stretch-run picks across the league, with extra weight for the Rays, Mets,
   Guardians and Padres. About one regular-season game per day, no more than two
-  per series, looking ten days ahead. Favorites qualify through live race stakes;
-  this is not a subscription to every game those teams play.
+  per series, looking ten days ahead. These extra picks qualify through live race
+  stakes; the complete Rays and Mets schedules do not count against these limits.
 - Every MLB postseason game, including clearly labelled if-necessary games.
   Unknown first-pitch times are all-day markers until announced. Teams and times
   update under stable IDs; unneeded games are cancelled when a series ends.
@@ -31,6 +33,12 @@ WHAT IS INCLUDED
   appear across the published season; cup matches are added as draws
   assign Chelsea a fixture. Friendlies are excluded. League viewing windows are
   two hours and cup windows two and a half hours, both estimated.
+- Every Como and RC Lens men's competitive match, including assigned cup and
+  European fixtures. Shared games appear once. Friendlies are excluded.
+- A European watchlist for the current and following week: up to six domestic
+  matches across the Premier League, Serie A, La Liga, Bundesliga and Ligue 1,
+  with at most two per league, plus up to four Champions League matches per week.
+  Chelsea, Como and Lens games are additional and are never duplicated.
 
 HOW IT UPDATES
 GitHub runs the updater four times a day. Your calendar app decides how quickly
@@ -52,11 +60,12 @@ then retries a normal push (up to three attempts). It never force-pushes.
 GitHub reports failed runs in its Actions tab and through account notifications.
 
 MLB supplies its own official schedules, current division/wild-card standings,
-probable pitchers and broadcast listings. Regular-season picks prioritize close races
+probable pitchers and broadcast listings. Extra regular-season picks prioritize close races
 and direct meetings between contenders, then favor the four followed teams. Each
 pick explains the standings at selection. Choices are refreshed as the races
-change; a favorite with no playoff stakes needs a meaningful opponent to qualify.
-The baseball module runs September-November, including the full postseason.
+change; an extra pick needs meaningful playoff stakes to qualify.
+The baseball module updates Rays and Mets schedules throughout the year.
+The national stretch-run picks and full postseason update September-November.
 It preserves its last good events if MLB is unavailable, while football can
 continue updating; status.json shows a warning and the last MLB refresh date.
 All 53 potential 2026 postseason games are initially present. Games beyond the
@@ -74,8 +83,21 @@ use UK local time converted to UTC. Dates still marked TBC by Chelsea and
 unresolved postponements appear as transparent all-day markers. Fixture changes
 update the same event; generic cup rounds or finals are not added unless Chelsea
 has an assigned match. A source problem preserves Chelsea's previous entries
-while other sports can refresh,
-with the last successful Chelsea check and any warning recorded in status.json.
+while other sports can refresh, with the last successful Chelsea check and any
+warning recorded in status.json.
+
+Como, Lens and the European watchlist use ESPN's public soccer schedules and
+standings. Club results and upcoming fixtures are checked together against a
+complete league schedule (38 Como games and 34 Lens games). Daily scoreboards
+cover the two-week watchlist window. Choices favor strong table positions,
+major rivalries, strong club matchups and later Champions League rounds. Each
+pick explains its selection. Existing picks are kept to avoid constant churn
+and count against their week's limits, including games already played.
+ESPN does not reliably distinguish TV-confirmed kickoffs from provisional ones.
+Its listed future times are therefore marked provisional; explicit unknown
+times and postponements use transparent all-day markers. Stable match IDs keep
+reschedules in the same calendar event. Failed soccer refreshes retain the last
+good soccer entries and leave a warning while the other sports keep updating.
 
 The existing football.ics URL is permanent even as other sports are added.
 The feed advertises "Football and Friends". Calendar apps may retain a locally
@@ -98,11 +120,16 @@ favoriteCollegeTeamIds, nationalGamesPerWeek, includeGameIds and excludeGameIds
 control the selection. No calendar URL change is needed.
 The baseball section stores MLB team IDs (Rays 139, Mets 121, Guardians 114,
 Padres 135), daily/series limits, the selection horizon and baseball-only game
-overrides. It can be disabled independently. Other sports can be added later.
+overrides. alwaysIncludeTeamIds controls complete regular-season subscriptions
+(Rays and Mets); favoriteTeamIds controls extra stretch-run selection weights.
+It can be disabled independently. Other sports can be added later.
 The hockey section stores NHL team abbreviations (CAR and SJS), preseason
 preference and hockey-only game overrides. It can be disabled independently.
 The chelsea section controls Chelsea's inclusion, friendlies and excluded match
 IDs. It can be disabled independently without changing the subscription URL.
+The soccer section stores Como (2572) and Lens (175), the eligible leagues,
+weekly watchlist limits and excluded match IDs. Chelsea stays in its official
+source module; its matches are excluded from the separate European selection.
 
 MAINTENANCE
 Node 20+; no packages or API keys needed. Run 'node --test', then
@@ -113,6 +140,9 @@ repository active even in the offseason, avoiding GitHub's inactivity cutoff.
 
 PRIMARY SCHEDULE REFERENCES
 https://www.chelseafc.com/en/matches/mens-fixtures-and-results
+https://www.espn.com/soccer/team/fixtures/_/id/2572/como
+https://www.espn.com/soccer/team/fixtures/_/id/175/lens
+https://www.uefa.com/uefachampionsleague/fixtures-results/
 https://www.nhl.com/hurricanes/schedule
 https://www.nhl.com/sharks/schedule
 https://api-web.nhle.com/v1/club-schedule-season/CAR/now

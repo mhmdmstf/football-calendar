@@ -2,10 +2,12 @@ import fs from 'node:fs/promises';
 import { etDay, etParts, atEastern, addDays, gameEvent, nflReasons, selectCollege, stabilize, renderCalendar, newYearCfpSlots } from './calendar.mjs';
 import { getShows } from './shows.mjs';
 import { fetchSeasonSchedule, validateSchedule } from './schedules.mjs';
-import { fetchBaseballData } from './baseball-source.mjs';
+import { fetchBaseballData, validateBaseballData } from './baseball-source.mjs';
 import { buildBaseballEvents, retainBaseballEvents } from './baseball.mjs';
 import { hockeySeason, fetchHockeySchedules, validateHockeySchedules, buildHockeyEvents, retainHockeyEvents } from './hockey.mjs';
 import { chelseaSeason, fetchChelseaSchedules, validateChelseaSchedules, buildChelseaEvents, retainChelseaEvents } from './chelsea.mjs';
+import { fetchSoccerData, validateSoccerData } from './soccer-source.mjs';
+import { buildSoccerEvents, retainSoccerEvents } from './soccer.mjs';
 
 const offline = process.argv.includes('--offline');
 const now = process.env.CALENDAR_NOW || new Date().toISOString();
@@ -73,21 +75,21 @@ for(const day of sundays) generated.push({uid:`redzone-${day}@football-watchlist
 generated.push(...shows.events);
 const warnings = [...shows.warnings];
 let baseballStatus;
-if (config.baseball?.enabled && new Date(now).getUTCMonth() >= 8 && new Date(now).getUTCMonth() <= 10) {
+if (config.baseball?.enabled) {
   try {
     let data;
     if (offline) {
       const cached = JSON.parse(await fs.readFile('.cache/baseball.json','utf8'));
-      if (cached.season !== year || !Array.isArray(cached.games) || !Array.isArray(cached.standings)) throw new Error('Invalid MLB cache');
-      data = cached;
+      data = validateBaseballData(cached,year,now,{alwaysIncludeTeamIds:config.baseball.alwaysIncludeTeamIds});
     } else {
-      data = await fetchBaseballData(year,now);
+      data = await fetchBaseballData(year,now,{alwaysIncludeTeamIds:config.baseball.alwaysIncludeTeamIds});
       await fs.writeFile('.cache/baseball.json',JSON.stringify({season:year,...data}));
     }
     const baseball = buildBaseballEvents(data,config.baseball,now,previous.events);
     generated.push(...baseball.events);
-    warnings.push(...baseball.warnings);
+    warnings.push(...(data.warnings || []),...baseball.warnings);
     baseballStatus = {checkedOn:etDay(now),season:year,scheduleGames:data.games.length,
+      followedRegularSeasons:data.followedRegularSeasons,
       events:baseball.events.filter(e=>e.status !== 'CANCELLED').length,
       playoffEvents:baseball.events.filter(e=>e.categories.includes('Playoffs') && e.status !== 'CANCELLED').length};
   } catch (error) {
@@ -98,9 +100,6 @@ if (config.baseball?.enabled && new Date(now).getUTCMonth() >= 8 && new Date(now
     baseballStatus = previous.baseball || {checkedOn:null};
     warnings.push(`MLB refresh failed; retaining its last good events. ${error.message}`);
   }
-} else if (config.baseball?.enabled) {
-  generated.push(...retainBaseballEvents(previous.events));
-  if(previous.baseball) baseballStatus = {...previous.baseball,active:false};
 }
 let hockeyStatus;
 if (config.hockey?.enabled) {
@@ -144,12 +143,32 @@ if (config.chelsea?.enabled) {
     warnings.push(`Chelsea refresh failed; retaining its last good events. ${error.message}`);
   }
 }
+let soccerStatus;
+if (config.soccer?.enabled) {
+  try {
+    const data = offline
+      ? validateSoccerData(JSON.parse(await fs.readFile('.cache/soccer.json','utf8')).raw,config.soccer,now)
+      : await fetchSoccerData(config.soccer,now);
+    if(!offline) await fs.writeFile('.cache/soccer.json',JSON.stringify(data));
+    const soccer = buildSoccerEvents(data,config.soccer,now,previous.events);
+    generated.push(...soccer.events);
+    warnings.push(...(data.warnings || []),...soccer.warnings);
+    soccerStatus = {checkedOn:etDay(now),season:data.season,window:data.window,sourceCounts:data.counts,
+      events:soccer.events.filter(e=>e.status !== 'CANCELLED').length};
+  } catch (error) {
+    const retained = retainSoccerEvents(previous.events);
+    if (!retained.length) throw error;
+    generated.push(...retained);
+    soccerStatus = previous.soccer || {checkedOn:null};
+    warnings.push(`European soccer refresh failed; retaining its last good events. ${error.message}`);
+  }
+}
 const floor=addDays(etDay(now),-60);
 // Preserve the historical watchlist. A rankings change must not rewrite a game already played.
 const merged=new Map(generated.map(e=>[e.uid,e]));
 for(const old of previous.events) {
   // Independently managed sports handle their own history, including cancellations.
-  if(old.categories.includes('MLB') || old.categories.includes('NHL') || old.categories.includes('Chelsea')) continue;
+  if(old.categories.includes('MLB') || old.categories.includes('NHL') || old.categories.includes('Soccer')) continue;
   const day=old.start.slice(0,10);
   if(day>=floor && Date.parse(old.allDay ? `${old.start}T23:59:59Z` : old.start)<Date.parse(now) && !merged.has(old.uid)) {
     const {hash,created,modified,sequence,...event}=old; merged.set(old.uid,event);
@@ -158,9 +177,19 @@ for(const old of previous.events) {
 const events=stabilize([...merged.values()].filter(e=>e.start.slice(0,10)>=floor).sort((a,b)=>a.start.localeCompare(b.start)||a.uid.localeCompare(b.uid)),previous.events,now);
 if(new Set(events.map(e=>e.uid)).size!==events.length) throw new Error('Duplicate calendar IDs');
 const ics=renderCalendar(events,config.name);
+// Report what is actually in the feed after applying the history window.
+const active = category => events.filter(e=>e.status !== 'CANCELLED' && e.categories.includes(category));
+if (baseballStatus) {
+  const baseballEvents = active('MLB');
+  baseballStatus = {...baseballStatus,events:baseballEvents.length,
+    playoffEvents:baseballEvents.filter(e=>e.categories.includes('Playoffs')).length};
+}
+if (hockeyStatus) hockeyStatus = {...hockeyStatus,events:active('NHL').length};
+if (chelseaStatus) chelseaStatus = {...chelseaStatus,events:active('Chelsea').length};
+if (soccerStatus) soccerStatus = {...soccerStatus,events:active('Soccer').filter(e=>e.uid.startsWith('soccer-')).length};
 const status={checkedOn:etDay(now),season,events:events.length,nflGames:nfl.length,collegeGames:college.length,
   ...(baseballStatus ? {baseball:baseballStatus} : {}),...(hockeyStatus ? {hockey:hockeyStatus} : {}),
-  ...(chelseaStatus ? {chelsea:chelseaStatus} : {}),warnings};
+  ...(chelseaStatus ? {chelsea:chelseaStatus} : {}),...(soccerStatus ? {soccer:soccerStatus} : {}),warnings};
 // All fetches, selection and validation finish before either output is replaced.
 await fs.writeFile('football.ics.tmp',ics);
 await fs.writeFile('state.json.tmp',JSON.stringify({...status,events},null,2)+'\n');

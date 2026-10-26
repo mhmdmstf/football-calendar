@@ -47,16 +47,23 @@ export function selectBaseball(games, standings, config, now, previous = []) {
   const selected = new Map();
   const today = etDay(now), limit = addDays(today, config.selectionHorizonDays ?? 10);
   const favorites = new Set((config.favoriteTeamIds || []).map(String));
+  const always = new Set((config.alwaysIncludeTeamIds || []).map(String));
+  const followed = game => [game.away, game.home].filter(team => always.has(team.id));
   const excluded = new Set((config.excludeGameIds || []).map(String));
   const included = new Set((config.includeGameIds || []).map(String));
   const old = new Set(previous.filter(e => e.categories.includes('MLB')).map(e => e.gameId));
   for (const game of games) {
     if (excluded.has(game.id)) continue;
     if (postseason(game.type)) selected.set(game.id, ['MLB postseason: every game, from the Wild Card Series through the World Series.']);
+    else if (game.type === 'R' && followed(game).length) selected.set(game.id,
+      [`Following ${followed(game).map(team => team.name).join(' and ')}: every regular-season game.`]);
     else if (included.has(game.id)) selected.set(game.id, ['Added to the baseball watchlist.']);
   }
+  // Full team schedules run year-round; the national pennant-race shortlist
+  // remains a September-November feature and has its own allowance.
+  if (new Date(now).getUTCMonth() < 8 || new Date(now).getUTCMonth() > 10) return selected;
   const ratings = baseballRaceRatings(standings, config.gamesBackThreshold ?? 5);
-  const candidates = games.filter(g => g.type === 'R' && g.day >= today && g.day < limit &&
+  const candidates = games.filter(g => g.type === 'R' && !followed(g).length && g.day >= today && g.day < limit &&
     !g.finished && g.status !== 'CANCELLED' && !/postpon|suspend/i.test(g.state) &&
     (!g.timeKnown || Date.parse(g.date) >= Date.parse(now)) && !excluded.has(g.id)).map(game => {
     const teams = [game.away, game.home];
@@ -74,6 +81,7 @@ export function selectBaseball(games, standings, config, now, previous = []) {
   const seriesCounts = new Map(), playedByDay = new Map();
   // Earlier picks in this same series still consume its allowance tomorrow.
   for (const event of previous.filter(e=>e.mlbGameType === 'R' && e.status !== 'CANCELLED')) {
+    if (event.mlbTeamIds?.some(id => always.has(String(id)))) continue;
     const game = games.find(g=>g.id === event.gameId);
     if (game && game.status !== 'CANCELLED' && (game.finished || Date.parse(game.date) < Date.parse(now) && !/postpon|suspend/i.test(game.state))) {
       if(event.mlbSeriesKey) seriesCounts.set(event.mlbSeriesKey,(seriesCounts.get(event.mlbSeriesKey) || 0)+1);
@@ -84,7 +92,7 @@ export function selectBaseball(games, standings, config, now, previous = []) {
     const choices = candidates.filter(c=>c.game.day === day).sort((a,b) =>
       (b.score - (seriesCounts.get(b.series) || 0)*25) - (a.score - (seriesCounts.get(a.series) || 0)*25) ||
       a.game.date.localeCompare(b.game.date) || a.game.id.localeCompare(b.game.id));
-    let count = games.filter(g=>g.type === 'R' && g.day === day && selected.has(g.id)).length + (playedByDay.get(day) || 0);
+    let count = games.filter(g=>g.type === 'R' && !followed(g).length && g.day === day && selected.has(g.id)).length + (playedByDay.get(day) || 0);
     for (const candidate of choices) {
       if (count >= (config.gamesPerDay ?? 1)) break;
       if (selected.has(candidate.game.id) || (seriesCounts.get(candidate.series) || 0) >= (config.gamesPerSeries ?? 2)) continue;
@@ -98,6 +106,9 @@ export function selectBaseball(games, standings, config, now, previous = []) {
 
 export function baseballEvent(game, reasons, config = {}) {
   const playoff = postseason(game.type);
+  const always = new Set((config.alwaysIncludeTeamIds || []).map(String));
+  const favorites = new Set([...(config.favoriteTeamIds || []), ...always].map(String));
+  const followed = [game.away, game.home].some(team => always.has(team.id));
   const postponed = /postpon|suspend/i.test(game.state);
   const timed = game.timeKnown && !postponed;
   const matchup = `${game.away.name} at ${game.home.name}`;
@@ -121,11 +132,12 @@ export function baseballEvent(game, reasons, config = {}) {
     end:timed ? new Date(Date.parse(game.date)+(playoff ? 3.5 : 3)*3600000).toISOString() : addDays(game.day,1),
     allDay:!timed,description,location:game.venue,url:game.url,
     status:game.status === 'CANCELLED' ? 'CANCELLED' : !timed || game.ifNecessary || [game.away,game.home].some(t=>t.placeholder) ? 'TENTATIVE' : game.status,
-    categories:['MLB',playoff ? 'Playoffs' : 'Pennant race',...[game.away,game.home].filter(t=>(config.favoriteTeamIds || []).includes(t.id)).map(t=>t.name)]};
+    categories:['MLB',playoff ? 'Playoffs' : followed ? 'Followed team' : 'Pennant race',...[game.away,game.home].filter(t=>favorites.has(t.id)).map(t=>t.name)]};
 }
 
 export function buildBaseballEvents(data, config, now, previous = []) {
   const prior = previous.filter(e=>e.categories.includes('MLB'));
+  const always = new Set((config.alwaysIncludeTeamIds || []).map(String));
   const games = new Map(data.games.map(g=>[g.id,g]));
   const picks = selectBaseball(data.games,data.standings,config,now,prior);
   const events = new Map(), warnings = [];
@@ -141,9 +153,9 @@ export function buildBaseballEvents(data, config, now, previous = []) {
         description:`No longer necessary: this postseason series has finished.\n\n${old.description}`});
     } else if (game?.status === 'CANCELLED' || game && (past || /postpon|suspend/i.test(game.state))) {
       events.set(old.uid,baseballEvent(game,old.selectionReasons || ['Previously selected for the watchlist.'],config));
-    } else if (!events.has(old.uid) && !game && (past || old.categories.includes('Playoffs'))) {
+    } else if (!events.has(old.uid) && !game && (past || old.categories.includes('Playoffs') || old.mlbTeamIds?.some(id => always.has(String(id))))) {
       events.set(old.uid,bare(old));
-      if (!past && old.status !== 'CANCELLED') warnings.push(`MLB: awaiting confirmation for missing playoff game ${old.gameId}; retained its previous entry.`);
+      if (!past && old.status !== 'CANCELLED') warnings.push(`MLB: awaiting confirmation for missing ${old.categories.includes('Playoffs') ? 'playoff' : 'followed-team'} game ${old.gameId}; retained its previous entry.`);
     }
   }
   return {events:[...events.values()],warnings};
