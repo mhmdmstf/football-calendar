@@ -5547,25 +5547,23 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401876422@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261026T235629Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
+LAST-MODIFIED:20261026T235629Z
+SEQUENCE:1
 DTSTART:20261026T193000Z
 DTEND:20261026T213000Z
-SUMMARY:Paris Saint-Germain vs Lyon - French Ligue 1 [provisional]
+SUMMARY:Paris Saint-Germain vs Lyon - French Ligue 1
 DESCRIPTION:Both clubs are in the current top 6: Paris Saint-Germain #5\, L
  yon #4.\nHigh-profile club matchup.\n\nSelection made 2026-10-26. Table po
  sitions describe that snapshot\, not predicted results. Picks are kept onc
- e added.\n\nProvisional source-listed date and kickoff. ESPN does not reli
- ably distinguish TV-confirmed dates from provisional fixtures\; both may c
- hange. The calendar updates when the schedule changes.\n\nViewing window: 
- 2 hours\; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/
- match/_/gameId/401876422
+ e added.\n\nKickoff shown in your calendar’s local time.\n\nViewing wind
+ ow: 2 hours\; finish is approximate.\n\nSchedule: https://www.espn.com/soc
+ cer/match/_/gameId/401876422
 LOCATION:Parc des Princes
 URL:https://www.espn.com/soccer/match/_/gameId/401876422
 CATEGORIES:Soccer,European pick,French Ligue 1
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -5878,21 +5876,20 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:show-bignoon-2026-10-31@football-watchlist
-DTSTAMP:20260905T144637Z
+DTSTAMP:20261026T235629Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
+LAST-MODIFIED:20261026T235629Z
+SEQUENCE:1
 DTSTART:20261031T140000Z
 DTEND:20261031T160000Z
-SUMMARY:Big Noon Kickoff: location TBA
-DESCRIPTION:Usual Saturday broadcast window: 10:00 a.m. to noon Eastern on 
- FOX. Location and this week's broadcast hours have not been confirmed. Ten
- tative placeholder\, subject to broadcast changes.\nSource: https://www.fo
- xsports.com/big-noon-kickoff-experience
+SUMMARY:Big Noon Kickoff: Iowa vs. Wisconsin
+DESCRIPTION:Big Noon Kickoff on FOX. Featured game: Iowa vs. Wisconsin. Bro
+ adcast window: 10:00 a.m. to noon Eastern. Broadcast schedules can change.
+ \nSource: https://www.foxsports.com/big-noon-kickoff-experience
 LOCATION:
 URL:https://www.foxsports.com/big-noon-kickoff-experience
 CATEGORIES:College,Pregame
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -5942,19 +5939,20 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858502@football-watchlist
-DTSTAMP:20261021T232653Z
+DTSTAMP:20261026T235629Z
 CREATED:20261021T232653Z
-LAST-MODIFIED:20261021T232653Z
-SEQUENCE:0
+LAST-MODIFIED:20261026T235629Z
+SEQUENCE:1
 DTSTART:20261031T160000Z
 DTEND:20261031T193000Z
 SUMMARY:CFB: Wisconsin at Iowa
-DESCRIPTION:National pick: a ranked team in a potentially competitive game 
- (market spread 4.5 points at selection). Upset possibility is an estimate.
- \n\nTeams: Wisconsin Badgers at Iowa Hawkeyes\n\nUS broadcast: Fox. Availa
- bility elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champio
- nships)\; finish is approximate.\n\nSchedule: https://www.espn.com/college
- -football/game/_/gameId/401858502/wisconsin-iowa
+DESCRIPTION:Confirmed College GameDay or Big Noon featured matchup.\nNation
+ al pick: a ranked team in a potentially competitive game (market spread 4.
+ 5 points at selection). Upset possibility is an estimate.\n\nTeams: Wiscon
+ sin Badgers at Iowa Hawkeyes\n\nUS broadcast: Fox. Availability elsewhere 
+ varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish 
+ is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/
+ gameId/401858502/wisconsin-iowa
 LOCATION:Kinnick Stadium\, Iowa City\, IA\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401858502/wisconsin
  -iowa
@@ -6501,111 +6499,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:college-football-401856740@football-watchlist
-DTSTAMP:20260905T144637Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-SUMMARY:CFB: Alabama at LSU [time TBA]
-DESCRIPTION:Following Alabama: every game.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8p
- m ET start\n\nTeams: Alabama Crimson Tide at LSU Tigers\n\nBroadcast to be
-  announced.\n\nKickoff has not been announced. This all-day marker will be
- come a timed event when confirmed.\n\nSchedule: https://www.espn.com/colle
- ge-football/game/_/gameId/401856740/alabama-lsu
-LOCATION:Tiger Stadium (LA)\, Baton Rouge\, LA\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856740/alabama-l
- su
-CATEGORIES:College,Alabama
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401856741@football-watchlist
-DTSTAMP:20261017T070236Z
-CREATED:20261017T070236Z
-LAST-MODIFIED:20261017T070236Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-SUMMARY:CFB: Georgia at Ole Miss [time TBA]
-DESCRIPTION:National pick: ranked matchup (#1 vs #9) at selection.\n\nFLEX:
-  3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Georgia Bulldogs at Ole Miss 
- Rebels\n\nBroadcast to be announced.\n\nKickoff has not been announced. Th
- is all-day marker will become a timed event when confirmed.\n\nSchedule: h
- ttps://www.espn.com/college-football/game/_/gameId/401856741/georgia-ole-m
- iss
-LOCATION:Vaught-Hemingway Stadium\, Oxford\, MS\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856741/georgia-o
- le-miss
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401856743@football-watchlist
-DTSTAMP:20261017T070236Z
-CREATED:20261017T070236Z
-LAST-MODIFIED:20261017T070236Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-SUMMARY:CFB: Texas at Missouri [time TBA]
-DESCRIPTION:National pick: ranked matchup (#7 vs #13) at selection.\n\nEARL
- Y: Noon - 1pm ET start\n\nTeams: Texas Longhorns at Missouri Tigers\n\nBro
- adcast to be announced.\n\nKickoff has not been announced. This all-day ma
- rker will become a timed event when confirmed.\n\nSchedule: https://www.es
- pn.com/college-football/game/_/gameId/401856743/texas-missouri
-LOCATION:Memorial Stadium\, Columbia\, MO\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856743/texas-mis
- souri
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401856745@football-watchlist
-DTSTAMP:20261017T070236Z
-CREATED:20261017T070236Z
-LAST-MODIFIED:20261017T070236Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-SUMMARY:CFB: Kentucky at Tennessee [time TBA]
-DESCRIPTION:National pick: ranked matchup (#14 vs #15) at selection.\n\nNIG
- HT: 6 - 8pm ET start\n\nTeams: Kentucky Wildcats at Tennessee Volunteers\n
- \nBroadcast to be announced.\n\nKickoff has not been announced. This all-d
- ay marker will become a timed event when confirmed.\n\nSchedule: https://w
- ww.espn.com/college-football/game/_/gameId/401856745/kentucky-tennessee
-LOCATION:Neyland Stadium\, Knoxville\, TN\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856745/kentucky-
- tennessee
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401856849@football-watchlist
-DTSTAMP:20261017T070236Z
-CREATED:20261017T070236Z
-LAST-MODIFIED:20261017T070236Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-SUMMARY:CFB: BYU at Utah [time TBA]
-DESCRIPTION:National pick: ranked matchup (#8 vs #11) at selection.\n\nTeam
- s: BYU Cougars at Utah Utes\n\nBroadcast to be announced.\n\nKickoff has n
- ot been announced. This all-day marker will become a timed event when conf
- irmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/40
- 1856849/byu-utah
-LOCATION:Rice-Eccles Stadium\, Salt Lake City\, UT\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856849/byu-utah
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:college-football-401858513@football-watchlist
 DTSTAMP:20261017T070236Z
 CREATED:20261017T070236Z
@@ -6756,19 +6649,123 @@ STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:college-football-401856743@football-watchlist
+DTSTAMP:20261026T235629Z
+CREATED:20261017T070236Z
+LAST-MODIFIED:20261026T235629Z
+SEQUENCE:1
+DTSTART:20261107T170000Z
+DTEND:20261107T203000Z
+SUMMARY:CFB: Texas at Missouri
+DESCRIPTION:National pick: ranked matchup (#7 vs #13) at selection.\n\nTeam
+ s: Texas Longhorns at Missouri Tigers\n\nBroadcast to be announced.\n\nVie
+ wing window: 3.5 hours (4 hours for championships)\; finish is approximate
+ .\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/4018567
+ 43/texas-missouri
+LOCATION:Memorial Stadium\, Columbia\, MO\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856743/texas-mis
+ souri
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856849@football-watchlist
+DTSTAMP:20261026T235629Z
+CREATED:20261017T070236Z
+LAST-MODIFIED:20261026T235629Z
+SEQUENCE:1
+DTSTART:20261107T170000Z
+DTEND:20261107T203000Z
+SUMMARY:CFB: BYU at Utah
+DESCRIPTION:National pick: ranked matchup (#8 vs #11) at selection.\n\nTeam
+ s: BYU Cougars at Utah Utes\n\nBroadcast to be announced.\n\nViewing windo
+ w: 3.5 hours (4 hours for championships)\; finish is approximate.\n\nSched
+ ule: https://www.espn.com/college-football/game/_/gameId/401856849/byu-uta
+ h
+LOCATION:Rice-Eccles Stadium\, Salt Lake City\, UT\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856849/byu-utah
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856740@football-watchlist
+DTSTAMP:20261026T235629Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20261026T235629Z
+SEQUENCE:1
+DTSTART:20261107T203000Z
+DTEND:20261108T000000Z
+SUMMARY:CFB: Alabama at LSU
+DESCRIPTION:Following Alabama: every game.\n\nTeams: Alabama Crimson Tide a
+ t LSU Tigers\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewi
+ ng window: 3.5 hours (4 hours for championships)\; finish is approximate.\
+ n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856740
+ /alabama-lsu
+LOCATION:Tiger Stadium (LA)\, Baton Rouge\, LA\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856740/alabama-l
+ su
+CATEGORIES:College,Alabama
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856745@football-watchlist
+DTSTAMP:20261026T235629Z
+CREATED:20261017T070236Z
+LAST-MODIFIED:20261026T235629Z
+SEQUENCE:1
+DTSTART:20261107T231500Z
+DTEND:20261108T024500Z
+SUMMARY:CFB: Kentucky at Tennessee
+DESCRIPTION:National pick: ranked matchup (#14 vs #15) at selection.\n\nTea
+ ms: Kentucky Wildcats at Tennessee Volunteers\n\nUS broadcast: ESPN. Avail
+ ability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champi
+ onships)\; finish is approximate.\n\nSchedule: https://www.espn.com/colleg
+ e-football/game/_/gameId/401856745/kentucky-tennessee
+LOCATION:Neyland Stadium\, Knoxville\, TN\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856745/kentucky-
+ tennessee
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856741@football-watchlist
+DTSTAMP:20261026T235629Z
+CREATED:20261017T070236Z
+LAST-MODIFIED:20261026T235629Z
+SEQUENCE:1
+DTSTART:20261108T003000Z
+DTEND:20261108T040000Z
+SUMMARY:CFB: Georgia at Ole Miss
+DESCRIPTION:National pick: ranked matchup (#1 vs #9) at selection.\n\nTeams
+ : Georgia Bulldogs at Ole Miss Rebels\n\nUS broadcast: ABC. Availability e
+ lsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)\
+ ; finish is approximate.\n\nSchedule: https://www.espn.com/college-footbal
+ l/game/_/gameId/401856741/georgia-ole-miss
+LOCATION:Vaught-Hemingway Stadium\, Oxford\, MS\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856741/georgia-o
+ le-miss
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:college-football-401858291@football-watchlist
-DTSTAMP:20261018T071758Z
+DTSTAMP:20261026T235629Z
 CREATED:20261018T071758Z
-LAST-MODIFIED:20261018T071758Z
-SEQUENCE:0
+LAST-MODIFIED:20261026T235629Z
+SEQUENCE:1
 DTSTART:20261108T003000Z
 DTEND:20261108T040000Z
 SUMMARY:CFB: Miami at Notre Dame
 DESCRIPTION:National pick: ranked matchup (#2 vs #3) at selection.\n\nTeams
- : Miami Hurricanes at Notre Dame Fighting Irish\n\nUS broadcast: NBC. Avai
- lability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champ
- ionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/colle
- ge-football/game/_/gameId/401858291/miami-notre-dame
+ : Miami Hurricanes at Notre Dame Fighting Irish\n\nUS broadcast: NBC / Pea
+ cock. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours
+  for championships)\; finish is approximate.\n\nSchedule: https://www.espn
+ .com/college-football/game/_/gameId/401858291/miami-notre-dame
 LOCATION:Notre Dame Stadium\, Notre Dame\, IN\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401858291/miami-not
  re-dame
@@ -14480,41 +14477,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852976@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261026T235629Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270503
-DTEND;VALUE=DATE:20270504
-SUMMARY:MLB: Tampa Bay Rays at New York Yankees [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852976
+LAST-MODIFIED:20261026T235629Z
+SEQUENCE:1
+DTSTART:20270503T230500Z
+DTEND:20270504T020500Z
+SUMMARY:MLB: Tampa Bay Rays at New York Yankees
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852976
 LOCATION:Yankee Stadium
 URL:https://www.mlb.com/gameday/852976
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-852961@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270504
-DTEND;VALUE=DATE:20270505
-SUMMARY:MLB: Tampa Bay Rays at New York Yankees [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852961
-LOCATION:Yankee Stadium
-URL:https://www.mlb.com/gameday/852961
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852898@football-watchlist
@@ -14535,23 +14512,22 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852971@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-852961@football-watchlist
+DTSTAMP:20261026T235629Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270505
-DTEND;VALUE=DATE:20270506
-SUMMARY:MLB: Tampa Bay Rays at New York Yankees [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852971
+LAST-MODIFIED:20261026T235629Z
+SEQUENCE:1
+DTSTART:20270504T230500Z
+DTEND:20270505T020500Z
+SUMMARY:MLB: Tampa Bay Rays at New York Yankees
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852961
 LOCATION:Yankee Stadium
-URL:https://www.mlb.com/gameday/852971
+URL:https://www.mlb.com/gameday/852961
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852895@football-watchlist
@@ -14572,23 +14548,40 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852962@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-852971@football-watchlist
+DTSTAMP:20261026T235629Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270506
-DTEND;VALUE=DATE:20270507
-SUMMARY:MLB: Tampa Bay Rays at New York Yankees [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852962
+LAST-MODIFIED:20261026T235629Z
+SEQUENCE:1
+DTSTART:20270505T230500Z
+DTEND:20270506T020500Z
+SUMMARY:MLB: Tampa Bay Rays at New York Yankees
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852971
+LOCATION:Yankee Stadium
+URL:https://www.mlb.com/gameday/852971
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-852962@football-watchlist
+DTSTAMP:20261026T235629Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261026T235629Z
+SEQUENCE:1
+DTSTART:20270506T163500Z
+DTEND:20270506T193500Z
+SUMMARY:MLB: Tampa Bay Rays at New York Yankees
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852962
 LOCATION:Yankee Stadium
 URL:https://www.mlb.com/gameday/852962
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852900@football-watchlist
@@ -17007,25 +17000,6 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852942@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270716
-DTEND;VALUE=DATE:20270717
-SUMMARY:MLB: New York Mets at New York Yankees [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/852942
-LOCATION:Yankee Stadium
-URL:https://www.mlb.com/gameday/852942
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-853261@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -17045,23 +17019,22 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852931@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-852942@football-watchlist
+DTSTAMP:20261026T235629Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270717
-DTEND;VALUE=DATE:20270718
-SUMMARY:MLB: New York Mets at New York Yankees [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/852931
+LAST-MODIFIED:20261026T235629Z
+SEQUENCE:1
+DTSTART:20270716T230500Z
+DTEND:20270717T020500Z
+SUMMARY:MLB: New York Mets at New York Yankees
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/852942
 LOCATION:Yankee Stadium
-URL:https://www.mlb.com/gameday/852931
+URL:https://www.mlb.com/gameday/852942
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853264@football-watchlist
@@ -17083,23 +17056,22 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852939@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-852931@football-watchlist
+DTSTAMP:20261026T235629Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270718
-DTEND;VALUE=DATE:20270719
-SUMMARY:MLB: New York Mets at New York Yankees [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/852939
+LAST-MODIFIED:20261026T235629Z
+SEQUENCE:1
+DTSTART:20270717T173500Z
+DTEND:20270717T203500Z
+SUMMARY:MLB: New York Mets at New York Yankees
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/852931
 LOCATION:Yankee Stadium
-URL:https://www.mlb.com/gameday/852939
+URL:https://www.mlb.com/gameday/852931
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853267@football-watchlist
@@ -17119,6 +17091,24 @@ URL:https://www.mlb.com/gameday/853267
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-852939@football-watchlist
+DTSTAMP:20261026T235629Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261026T235629Z
+SEQUENCE:1
+DTSTART:20270718T173500Z
+DTEND:20270718T203500Z
+SUMMARY:MLB: New York Mets at New York Yankees
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/852939
+LOCATION:Yankee Stadium
+URL:https://www.mlb.com/gameday/852939
+CATEGORIES:MLB,Followed team,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853915@football-watchlist
@@ -18657,25 +18647,6 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852915@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270903
-DTEND;VALUE=DATE:20270904
-SUMMARY:MLB: Tampa Bay Rays at New York Yankees [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852915
-LOCATION:Yankee Stadium
-URL:https://www.mlb.com/gameday/852915
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-852831@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -18694,23 +18665,40 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852924@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-852915@football-watchlist
+DTSTAMP:20261026T235629Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270904
-DTEND;VALUE=DATE:20270905
-SUMMARY:MLB: Tampa Bay Rays at New York Yankees [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852924
+LAST-MODIFIED:20261026T235629Z
+SEQUENCE:1
+DTSTART:20270903T230500Z
+DTEND:20270904T020500Z
+SUMMARY:MLB: Tampa Bay Rays at New York Yankees
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852915
+LOCATION:Yankee Stadium
+URL:https://www.mlb.com/gameday/852915
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-852924@football-watchlist
+DTSTAMP:20261026T235629Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261026T235629Z
+SEQUENCE:1
+DTSTART:20270904T173500Z
+DTEND:20270904T203500Z
+SUMMARY:MLB: Tampa Bay Rays at New York Yankees
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852924
 LOCATION:Yankee Stadium
 URL:https://www.mlb.com/gameday/852924
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852832@football-watchlist
@@ -18731,25 +18719,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852917@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270905
-DTEND;VALUE=DATE:20270906
-SUMMARY:MLB: Tampa Bay Rays at New York Yankees [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852917
-LOCATION:Yankee Stadium
-URL:https://www.mlb.com/gameday/852917
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-852839@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -18764,6 +18733,24 @@ DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing
 LOCATION:Citizens Bank Park
 URL:https://www.mlb.com/gameday/852839
 CATEGORIES:MLB,Followed team,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-852917@football-watchlist
+DTSTAMP:20261026T235629Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261026T235629Z
+SEQUENCE:1
+DTSTART:20270905T173500Z
+DTEND:20270905T203500Z
+SUMMARY:MLB: Tampa Bay Rays at New York Yankees
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852917
+LOCATION:Yankee Stadium
+URL:https://www.mlb.com/gameday/852917
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT

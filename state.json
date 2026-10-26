@@ -7418,12 +7418,12 @@
         "High-profile club matchup."
       ],
       "soccerSelectedOn": "2026-10-26",
-      "title": "Paris Saint-Germain vs Lyon - French Ligue 1 [provisional]",
+      "title": "Paris Saint-Germain vs Lyon - French Ligue 1",
       "start": "2026-10-26T19:30:00.000Z",
       "end": "2026-10-26T21:30:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Both clubs are in the current top 6: Paris Saint-Germain #5, Lyon #4.\nHigh-profile club matchup.\n\nSelection made 2026-10-26. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401876422",
+      "status": "CONFIRMED",
+      "description": "Both clubs are in the current top 6: Paris Saint-Germain #5, Lyon #4.\nHigh-profile club matchup.\n\nSelection made 2026-10-26. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401876422",
       "location": "Parc des Princes",
       "url": "https://www.espn.com/soccer/match/_/gameId/401876422",
       "categories": [
@@ -7431,10 +7431,10 @@
         "European pick",
         "French Ligue 1"
       ],
-      "hash": "d8d9574781be1c1f1e86c7643fb762ef8c3fca722e806d2450624d7d374cb1c6",
+      "hash": "1b95e0e3bbd76b1bbd757fa6be872c9afadb119a4532441f5338491165652f46",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-10-26T23:56:29.378Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-849804@football-watchlist",
@@ -7863,22 +7863,23 @@
     },
     {
       "uid": "show-bignoon-2026-10-31@football-watchlist",
-      "title": "Big Noon Kickoff: location TBA",
+      "title": "Big Noon Kickoff: Iowa vs. Wisconsin",
+      "gameId": "401858502",
       "start": "2026-10-31T14:00:00.000Z",
       "end": "2026-10-31T16:00:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Usual Saturday broadcast window: 10:00 a.m. to noon Eastern on FOX. Location and this week's broadcast hours have not been confirmed. Tentative placeholder, subject to broadcast changes.\nSource: https://www.foxsports.com/big-noon-kickoff-experience",
+      "status": "CONFIRMED",
+      "description": "Big Noon Kickoff on FOX. Featured game: Iowa vs. Wisconsin. Broadcast window: 10:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://www.foxsports.com/big-noon-kickoff-experience",
       "location": "",
       "url": "https://www.foxsports.com/big-noon-kickoff-experience",
       "categories": [
         "College",
         "Pregame"
       ],
-      "hash": "023a951cacb7a881f16aece0a3e4c983c78c346050554dce8b59096e16a5ea06",
+      "hash": "1c4458a8e7932d71e7581681418b2850214d501cb12f5cbdc0a266d1cf9fb2ec",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
+      "modified": "2026-10-26T23:56:29.378Z",
+      "sequence": 1
     },
     {
       "uid": "soccer-401879245@football-watchlist",
@@ -7943,7 +7944,7 @@
       "start": "2026-10-31T16:00:00.000Z",
       "end": "2026-10-31T19:30:00.000Z",
       "allDay": false,
-      "description": "National pick: a ranked team in a potentially competitive game (market spread 4.5 points at selection). Upset possibility is an estimate.\n\nTeams: Wisconsin Badgers at Iowa Hawkeyes\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858502/wisconsin-iowa",
+      "description": "Confirmed College GameDay or Big Noon featured matchup.\nNational pick: a ranked team in a potentially competitive game (market spread 4.5 points at selection). Upset possibility is an estimate.\n\nTeams: Wisconsin Badgers at Iowa Hawkeyes\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858502/wisconsin-iowa",
       "location": "Kinnick Stadium, Iowa City, IA, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401858502/wisconsin-iowa",
       "status": "CONFIRMED",
@@ -7952,10 +7953,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 4.5 points at selection). Upset possibility is an estimate.",
-      "hash": "cc1368c1fa63eb4fbc32747eca318197260d27955dd45c2bb9582e17c528dbb3",
+      "hash": "808b8e7490624a4f98e1ce3a80900d843efb0b938d2b7cb8f91fd1e6e893e304",
       "created": "2026-10-21T23:26:53.169Z",
-      "modified": "2026-10-21T23:26:53.169Z",
-      "sequence": 0
+      "modified": "2026-10-26T23:56:29.378Z",
+      "sequence": 1
     },
     {
       "uid": "soccer-401884754@football-watchlist",
@@ -8683,110 +8684,6 @@
       "sequence": 1
     },
     {
-      "uid": "college-football-401856740@football-watchlist",
-      "gameId": "401856740",
-      "title": "CFB: Alabama at LSU [time TBA]",
-      "start": "2026-11-07",
-      "end": "2026-11-08",
-      "allDay": true,
-      "description": "Following Alabama: every game.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Alabama Crimson Tide at LSU Tigers\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856740/alabama-lsu",
-      "location": "Tiger Stadium (LA), Baton Rouge, LA, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856740/alabama-lsu",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "Alabama"
-      ],
-      "hash": "bd907c03cbf9b45e589ff938e99e5ec136db6dee942f62c3358076bf9de08333",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401856741@football-watchlist",
-      "gameId": "401856741",
-      "title": "CFB: Georgia at Ole Miss [time TBA]",
-      "start": "2026-11-07",
-      "end": "2026-11-08",
-      "allDay": true,
-      "description": "National pick: ranked matchup (#1 vs #9) at selection.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Georgia Bulldogs at Ole Miss Rebels\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856741/georgia-ole-miss",
-      "location": "Vaught-Hemingway Stadium, Oxford, MS, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856741/georgia-ole-miss",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#1 vs #9) at selection.",
-      "hash": "846b0b0d2a198f802578bb8c9af80de565fe3981a109ad404c23c960ca330b93",
-      "created": "2026-10-17T07:02:36.015Z",
-      "modified": "2026-10-17T07:02:36.015Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401856743@football-watchlist",
-      "gameId": "401856743",
-      "title": "CFB: Texas at Missouri [time TBA]",
-      "start": "2026-11-07",
-      "end": "2026-11-08",
-      "allDay": true,
-      "description": "National pick: ranked matchup (#7 vs #13) at selection.\n\nEARLY: Noon - 1pm ET start\n\nTeams: Texas Longhorns at Missouri Tigers\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856743/texas-missouri",
-      "location": "Memorial Stadium, Columbia, MO, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856743/texas-missouri",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#7 vs #13) at selection.",
-      "hash": "3720e85661779eefe2d7eba2c83e8253fe39903d031994360c98f3f32168f16d",
-      "created": "2026-10-17T07:02:36.015Z",
-      "modified": "2026-10-17T07:02:36.015Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401856745@football-watchlist",
-      "gameId": "401856745",
-      "title": "CFB: Kentucky at Tennessee [time TBA]",
-      "start": "2026-11-07",
-      "end": "2026-11-08",
-      "allDay": true,
-      "description": "National pick: ranked matchup (#14 vs #15) at selection.\n\nNIGHT: 6 - 8pm ET start\n\nTeams: Kentucky Wildcats at Tennessee Volunteers\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856745/kentucky-tennessee",
-      "location": "Neyland Stadium, Knoxville, TN, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856745/kentucky-tennessee",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#14 vs #15) at selection.",
-      "hash": "1f3262c1bd27dd5c1714ff2484246901485e1e846d10e12c1e680ac9f05f4aed",
-      "created": "2026-10-17T07:02:36.015Z",
-      "modified": "2026-10-17T07:02:36.015Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401856849@football-watchlist",
-      "gameId": "401856849",
-      "title": "CFB: BYU at Utah [time TBA]",
-      "start": "2026-11-07",
-      "end": "2026-11-08",
-      "allDay": true,
-      "description": "National pick: ranked matchup (#8 vs #11) at selection.\n\nTeams: BYU Cougars at Utah Utes\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856849/byu-utah",
-      "location": "Rice-Eccles Stadium, Salt Lake City, UT, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856849/byu-utah",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#8 vs #11) at selection.",
-      "hash": "e5a13610fdcdd2abfacff375f012a946b6d83b16233831002f700e9d6e224245",
-      "created": "2026-10-17T07:02:36.015Z",
-      "modified": "2026-10-17T07:02:36.015Z",
-      "sequence": 0
-    },
-    {
       "uid": "college-football-401858513@football-watchlist",
       "gameId": "401858513",
       "title": "CFB: Iowa at Northwestern [time TBA]",
@@ -8978,13 +8875,117 @@
       "sequence": 0
     },
     {
+      "uid": "college-football-401856743@football-watchlist",
+      "gameId": "401856743",
+      "title": "CFB: Texas at Missouri",
+      "start": "2026-11-07T17:00:00.000Z",
+      "end": "2026-11-07T20:30:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#7 vs #13) at selection.\n\nTeams: Texas Longhorns at Missouri Tigers\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856743/texas-missouri",
+      "location": "Memorial Stadium, Columbia, MO, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856743/texas-missouri",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#7 vs #13) at selection.",
+      "hash": "3a639e3fb572104b21938e4b49614bf589c0d920f33472c3fe7e475482c0a721",
+      "created": "2026-10-17T07:02:36.015Z",
+      "modified": "2026-10-26T23:56:29.378Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401856849@football-watchlist",
+      "gameId": "401856849",
+      "title": "CFB: BYU at Utah",
+      "start": "2026-11-07T17:00:00.000Z",
+      "end": "2026-11-07T20:30:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#8 vs #11) at selection.\n\nTeams: BYU Cougars at Utah Utes\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856849/byu-utah",
+      "location": "Rice-Eccles Stadium, Salt Lake City, UT, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856849/byu-utah",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#8 vs #11) at selection.",
+      "hash": "b5b558d8ba937a3d7b050c78249c24864ad9daec12f998ea73a3c5278100e099",
+      "created": "2026-10-17T07:02:36.015Z",
+      "modified": "2026-10-26T23:56:29.378Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401856740@football-watchlist",
+      "gameId": "401856740",
+      "title": "CFB: Alabama at LSU",
+      "start": "2026-11-07T20:30:00.000Z",
+      "end": "2026-11-08T00:00:00.000Z",
+      "allDay": false,
+      "description": "Following Alabama: every game.\n\nTeams: Alabama Crimson Tide at LSU Tigers\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856740/alabama-lsu",
+      "location": "Tiger Stadium (LA), Baton Rouge, LA, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856740/alabama-lsu",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "Alabama"
+      ],
+      "hash": "114182102f51618bed138d05fc89e7a146fd061594ab0b07b5c4d13953f8839a",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-10-26T23:56:29.378Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401856745@football-watchlist",
+      "gameId": "401856745",
+      "title": "CFB: Kentucky at Tennessee",
+      "start": "2026-11-07T23:15:00.000Z",
+      "end": "2026-11-08T02:45:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#14 vs #15) at selection.\n\nTeams: Kentucky Wildcats at Tennessee Volunteers\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856745/kentucky-tennessee",
+      "location": "Neyland Stadium, Knoxville, TN, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856745/kentucky-tennessee",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#14 vs #15) at selection.",
+      "hash": "f37c6d316732efd7fc5de6861da020d1771b43eeb513574d15ec3c4268ffda8b",
+      "created": "2026-10-17T07:02:36.015Z",
+      "modified": "2026-10-26T23:56:29.378Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401856741@football-watchlist",
+      "gameId": "401856741",
+      "title": "CFB: Georgia at Ole Miss",
+      "start": "2026-11-08T00:30:00.000Z",
+      "end": "2026-11-08T04:00:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#1 vs #9) at selection.\n\nTeams: Georgia Bulldogs at Ole Miss Rebels\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856741/georgia-ole-miss",
+      "location": "Vaught-Hemingway Stadium, Oxford, MS, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856741/georgia-ole-miss",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#1 vs #9) at selection.",
+      "hash": "a1c28c780a0891ce74244555b1e3c20821662fe49da1a46c1574e0c446aa25bf",
+      "created": "2026-10-17T07:02:36.015Z",
+      "modified": "2026-10-26T23:56:29.378Z",
+      "sequence": 1
+    },
+    {
       "uid": "college-football-401858291@football-watchlist",
       "gameId": "401858291",
       "title": "CFB: Miami at Notre Dame",
       "start": "2026-11-08T00:30:00.000Z",
       "end": "2026-11-08T04:00:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#2 vs #3) at selection.\n\nTeams: Miami Hurricanes at Notre Dame Fighting Irish\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858291/miami-notre-dame",
+      "description": "National pick: ranked matchup (#2 vs #3) at selection.\n\nTeams: Miami Hurricanes at Notre Dame Fighting Irish\n\nUS broadcast: NBC / Peacock. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858291/miami-notre-dame",
       "location": "Notre Dame Stadium, Notre Dame, IN, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401858291/miami-notre-dame",
       "status": "CONFIRMED",
@@ -8993,10 +8994,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#2 vs #3) at selection.",
-      "hash": "ef2d6584f5305b972ab78ca5c0d8951b97fc409c3e6ec3c88ab98baa091c4254",
+      "hash": "527daa3cc105ca732283c353d159974706aa35e8af36ad7f6bf5dbe3493eb39e",
       "created": "2026-10-18T07:17:58.958Z",
-      "modified": "2026-10-18T07:17:58.958Z",
-      "sequence": 0
+      "modified": "2026-10-26T23:56:29.378Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026020271@football-watchlist",
@@ -19798,56 +19799,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Tampa Bay Rays at New York Yankees [time TBA]",
-      "start": "2027-05-03",
-      "end": "2027-05-04",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852976",
+      "title": "MLB: Tampa Bay Rays at New York Yankees",
+      "start": "2027-05-03T23:05:00.000Z",
+      "end": "2027-05-04T02:05:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852976",
       "location": "Yankee Stadium",
       "url": "https://www.mlb.com/gameday/852976",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "72ae25d5107c70818087230046e3445d7a75313f5080f04f8b32d596c9a71394",
+      "hash": "a9c47ed9b58a576aa16d051907267a53c7417cf02796c6576b8a903b51f82836",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-852961@football-watchlist",
-      "gameId": "852961",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/139:12/147:12",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "147"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Tampa Bay Rays at New York Yankees [time TBA]",
-      "start": "2027-05-04",
-      "end": "2027-05-05",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852961",
-      "location": "Yankee Stadium",
-      "url": "https://www.mlb.com/gameday/852961",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "b658067ec88c537e661762e0f223a8518be95c658e60ae7c6496ca9d66cc00ab",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-10-26T23:56:29.378Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852898@football-watchlist",
@@ -19883,12 +19851,12 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-852971@football-watchlist",
-      "gameId": "852971",
+      "uid": "mlb-852961@football-watchlist",
+      "gameId": "852961",
       "mlbSeason": 2027,
       "mlbGameType": "R",
       "mlbSeriesKey": "2027/R/139:12/147:12",
-      "mlbSeriesGameNumber": 3,
+      "mlbSeriesGameNumber": 2,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "139",
@@ -19897,23 +19865,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Tampa Bay Rays at New York Yankees [time TBA]",
-      "start": "2027-05-05",
-      "end": "2027-05-06",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852971",
+      "title": "MLB: Tampa Bay Rays at New York Yankees",
+      "start": "2027-05-04T23:05:00.000Z",
+      "end": "2027-05-05T02:05:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852961",
       "location": "Yankee Stadium",
-      "url": "https://www.mlb.com/gameday/852971",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/852961",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "8dee804ae840163e838297f00b71f195aabdb3f7cdf84385ed5454370cfd19bd",
+      "hash": "52238271a01053da4ae47442481ee132319542ac30e383838e77f6a8012c804f",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-10-26T23:56:29.378Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852895@football-watchlist",
@@ -19949,6 +19917,39 @@
       "sequence": 0
     },
     {
+      "uid": "mlb-852971@football-watchlist",
+      "gameId": "852971",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/139:12/147:12",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "139",
+        "147"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Tampa Bay Rays at New York Yankees",
+      "start": "2027-05-05T23:05:00.000Z",
+      "end": "2027-05-06T02:05:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852971",
+      "location": "Yankee Stadium",
+      "url": "https://www.mlb.com/gameday/852971",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "a7ba0baad0abe7dd16ad2ce86cbd356a08e8ed3013d595cd098db91b238ffd1c",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-10-26T23:56:29.378Z",
+      "sequence": 1
+    },
+    {
       "uid": "mlb-852962@football-watchlist",
       "gameId": "852962",
       "mlbSeason": 2027,
@@ -19963,23 +19964,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Tampa Bay Rays at New York Yankees [time TBA]",
-      "start": "2027-05-06",
-      "end": "2027-05-07",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852962",
+      "title": "MLB: Tampa Bay Rays at New York Yankees",
+      "start": "2027-05-06T16:35:00.000Z",
+      "end": "2027-05-06T19:35:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852962",
       "location": "Yankee Stadium",
       "url": "https://www.mlb.com/gameday/852962",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "1d3e501e99fb0eb0701b94e0fbc1122ed62cb2e75a5253e3bbb4383f4ff4c0d2",
+      "hash": "6112ef94900d7ac517dc00b0823f7b48ca9986aaa61b75343636acabb746e8e5",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-10-26T23:56:29.378Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852900@football-watchlist",
@@ -24160,39 +24161,6 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-852942@football-watchlist",
-      "gameId": "852942",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/121:32/147:32",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "121",
-        "147"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: New York Mets at New York Yankees [time TBA]",
-      "start": "2027-07-16",
-      "end": "2027-07-17",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852942",
-      "location": "Yankee Stadium",
-      "url": "https://www.mlb.com/gameday/852942",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "6fde605bacadf5196f471e7ee24a8d63b8c9266ea465c9842399a3234355f2bf",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-853261@football-watchlist",
       "gameId": "853261",
       "mlbSeason": 2027,
@@ -24226,12 +24194,12 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-852931@football-watchlist",
-      "gameId": "852931",
+      "uid": "mlb-852942@football-watchlist",
+      "gameId": "852942",
       "mlbSeason": 2027,
       "mlbGameType": "R",
       "mlbSeriesKey": "2027/R/121:32/147:32",
-      "mlbSeriesGameNumber": 2,
+      "mlbSeriesGameNumber": 1,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "121",
@@ -24240,23 +24208,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: New York Mets at New York Yankees [time TBA]",
-      "start": "2027-07-17",
-      "end": "2027-07-18",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852931",
+      "title": "MLB: New York Mets at New York Yankees",
+      "start": "2027-07-16T23:05:00.000Z",
+      "end": "2027-07-17T02:05:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852942",
       "location": "Yankee Stadium",
-      "url": "https://www.mlb.com/gameday/852931",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/852942",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "c7135719ab6207a6f59c93bd72c8a38a3256742953d385eb4b5eda2d2e7205cc",
+      "hash": "bf8b10799b8a8de99f4c0c09b703b31813384643679307309ff626ad65caffb9",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-10-26T23:56:29.378Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853264@football-watchlist",
@@ -24292,12 +24260,12 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-852939@football-watchlist",
-      "gameId": "852939",
+      "uid": "mlb-852931@football-watchlist",
+      "gameId": "852931",
       "mlbSeason": 2027,
       "mlbGameType": "R",
       "mlbSeriesKey": "2027/R/121:32/147:32",
-      "mlbSeriesGameNumber": 3,
+      "mlbSeriesGameNumber": 2,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "121",
@@ -24306,23 +24274,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: New York Mets at New York Yankees [time TBA]",
-      "start": "2027-07-18",
-      "end": "2027-07-19",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852939",
+      "title": "MLB: New York Mets at New York Yankees",
+      "start": "2027-07-17T17:35:00.000Z",
+      "end": "2027-07-17T20:35:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852931",
       "location": "Yankee Stadium",
-      "url": "https://www.mlb.com/gameday/852939",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/852931",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "65ef00c39721a64f1167c9b2c028667ff0862a1fda4438b383c295e1474adf99",
+      "hash": "59ac0b71cccd3397f183de9c9cd57999216fa1ececfefea1388fac2658aae5bc",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-10-26T23:56:29.378Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853267@football-watchlist",
@@ -24356,6 +24324,39 @@
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
+    },
+    {
+      "uid": "mlb-852939@football-watchlist",
+      "gameId": "852939",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/121:32/147:32",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "121",
+        "147"
+      ],
+      "selectionReasons": [
+        "Following New York Mets: every regular-season game."
+      ],
+      "title": "MLB: New York Mets at New York Yankees",
+      "start": "2027-07-18T17:35:00.000Z",
+      "end": "2027-07-18T20:35:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852939",
+      "location": "Yankee Stadium",
+      "url": "https://www.mlb.com/gameday/852939",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "New York Mets"
+      ],
+      "hash": "db9d689bb0c58866b4cbaf2c370effcd92f910704b031937513be0abc9d4f907",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-10-26T23:56:29.378Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853915@football-watchlist",
@@ -27034,39 +27035,6 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-852915@football-watchlist",
-      "gameId": "852915",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/139:46/147:46",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "147"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Tampa Bay Rays at New York Yankees [time TBA]",
-      "start": "2027-09-03",
-      "end": "2027-09-04",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852915",
-      "location": "Yankee Stadium",
-      "url": "https://www.mlb.com/gameday/852915",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "9770578070625ae376fda457ebd2c11e3917ef087b542c275bb22ead27f59a31",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-852831@football-watchlist",
       "gameId": "852831",
       "mlbSeason": 2027,
@@ -27100,6 +27068,39 @@
       "sequence": 0
     },
     {
+      "uid": "mlb-852915@football-watchlist",
+      "gameId": "852915",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/139:46/147:46",
+      "mlbSeriesGameNumber": 1,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "139",
+        "147"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Tampa Bay Rays at New York Yankees",
+      "start": "2027-09-03T23:05:00.000Z",
+      "end": "2027-09-04T02:05:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852915",
+      "location": "Yankee Stadium",
+      "url": "https://www.mlb.com/gameday/852915",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "fff6121ea69922d5c2d110eabe6f35f507419a736e41bfec22ca05baf60c7d7e",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-10-26T23:56:29.378Z",
+      "sequence": 1
+    },
+    {
       "uid": "mlb-852924@football-watchlist",
       "gameId": "852924",
       "mlbSeason": 2027,
@@ -27114,23 +27115,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Tampa Bay Rays at New York Yankees [time TBA]",
-      "start": "2027-09-04",
-      "end": "2027-09-05",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852924",
+      "title": "MLB: Tampa Bay Rays at New York Yankees",
+      "start": "2027-09-04T17:35:00.000Z",
+      "end": "2027-09-04T20:35:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852924",
       "location": "Yankee Stadium",
       "url": "https://www.mlb.com/gameday/852924",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "2b960adc20b7a7af9c2941f6a9e92aedc7ee56e06ede4bb2b1f19b61b0a507d4",
+      "hash": "9f15ffbe08983231970a4822a7e6a8954daac92da10635e665ba8aaa5e64f6e9",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-10-26T23:56:29.378Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852832@football-watchlist",
@@ -27161,39 +27162,6 @@
         "New York Mets"
       ],
       "hash": "1ca434359489c560cad83379d0152314409cd2f5eb6268e779b798682b26b94f",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-852917@football-watchlist",
-      "gameId": "852917",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/139:46/147:46",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "147"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Tampa Bay Rays at New York Yankees [time TBA]",
-      "start": "2027-09-05",
-      "end": "2027-09-06",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852917",
-      "location": "Yankee Stadium",
-      "url": "https://www.mlb.com/gameday/852917",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "6d21fb72b927a53a7ffc9f92ddc29a59e59e8174fa3ceaa3587ed85b7635f8f2",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
@@ -27230,6 +27198,39 @@
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
+    },
+    {
+      "uid": "mlb-852917@football-watchlist",
+      "gameId": "852917",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/139:46/147:46",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "139",
+        "147"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Tampa Bay Rays at New York Yankees",
+      "start": "2027-09-05T17:35:00.000Z",
+      "end": "2027-09-05T20:35:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852917",
+      "location": "Yankee Stadium",
+      "url": "https://www.mlb.com/gameday/852917",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "af176ae9d26d95283b5fd5e4643732efd7630d5c93af0138816c456e593d3897",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-10-26T23:56:29.378Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853012@football-watchlist",
