@@ -1,5 +1,5 @@
 {
-  "checkedOn": "2026-10-25",
+  "checkedOn": "2026-10-26",
   "season": 2026,
   "events": [
     {
@@ -12570,14 +12570,14 @@
   "nflGames": 285,
   "collegeGames": 949,
   "baseball": {
-    "checkedOn": "2026-10-25",
+    "checkedOn": "2026-10-26",
     "season": 2026,
     "scheduleGames": 403,
     "events": 50,
     "playoffEvents": 42
   },
   "hockey": {
-    "checkedOn": "2026-10-25",
+    "checkedOn": "2026-10-26",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -12594,7 +12594,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-10-25",
+    "checkedOn": "2026-10-26",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
