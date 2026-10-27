@@ -7447,12 +7447,12 @@
         "Following Como: every competitive fixture."
       ],
       "soccerSelectedOn": "2026-10-26",
-      "title": "Torino vs Como - Italian Serie A [provisional]",
+      "title": "Torino vs Como - Italian Serie A",
       "start": "2026-10-27T19:45:00.000Z",
       "end": "2026-10-27T21:45:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Following Como: every competitive fixture.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401874786",
+      "status": "CONFIRMED",
+      "description": "Following Como: every competitive fixture.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401874786",
       "location": "Stadio Olimpico Grande Torino",
       "url": "https://www.espn.com/soccer/match/_/gameId/401874786",
       "categories": [
@@ -7460,10 +7460,10 @@
         "Followed team",
         "Italian Serie A"
       ],
-      "hash": "42b71dddb80877ec0b4cbb9c1e3e4c84a6485823bd4b53258a201b3bac25fc32",
+      "hash": "7879e6134dd7ac591216ad266d71513f3ff5533ae8b0a0c0e073cd540acfa902",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-10-27T23:50:47.873Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-849803@football-watchlist",
@@ -7484,7 +7484,7 @@
       "start": "2026-10-28T00:00:00.000Z",
       "end": "2026-10-28T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Griffin Jax.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849803",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Dustin May / Griffin Jax.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849803",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/849803",
       "status": "CONFIRMED",
@@ -7493,10 +7493,10 @@
         "Playoffs",
         "Tampa Bay Rays"
       ],
-      "hash": "778f0a79bccaf672671335cb38bcde3bd0ac3c43708706481e545f0701b1df02",
+      "hash": "f2c593a09e7bde42e64043d206ce35d65a694ee8b0957a0364fa6e657cb3af2d",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-27T08:01:22.337Z",
-      "sequence": 8
+      "modified": "2026-10-27T23:50:47.873Z",
+      "sequence": 9
     },
     {
       "uid": "nhl-2026020189@football-watchlist",
@@ -8928,7 +8928,7 @@
       "start": "2026-11-08T00:30:00.000Z",
       "end": "2026-11-08T04:00:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#2 vs #3) at selection.\n\nTeams: Miami Hurricanes at Notre Dame Fighting Irish\n\nUS broadcast: NBC / Peacock. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858291/miami-notre-dame",
+      "description": "National pick: ranked matchup (#2 vs #3) at selection.\n\nTeams: Miami Hurricanes at Notre Dame Fighting Irish\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858291/miami-notre-dame",
       "location": "Notre Dame Stadium, Notre Dame, IN, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401858291/miami-notre-dame",
       "status": "CONFIRMED",
@@ -8937,10 +8937,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#2 vs #3) at selection.",
-      "hash": "527daa3cc105ca732283c353d159974706aa35e8af36ad7f6bf5dbe3493eb39e",
+      "hash": "ef2d6584f5305b972ab78ca5c0d8951b97fc409c3e6ec3c88ab98baa091c4254",
       "created": "2026-10-18T07:17:58.958Z",
-      "modified": "2026-10-26T23:56:29.378Z",
-      "sequence": 1
+      "modified": "2026-10-27T23:50:47.873Z",
+      "sequence": 2
     },
     {
       "uid": "nhl-2026020271@football-watchlist",
@@ -11030,40 +11030,6 @@
       "sequence": 1
     },
     {
-      "uid": "soccer-401876385@football-watchlist",
-      "gameId": "401876385",
-      "soccerSeason": 2026,
-      "soccerLeague": "fra.1",
-      "soccerTeamIds": [
-        "175",
-        "3236"
-      ],
-      "soccerFriendly": false,
-      "soccerSelectionKind": "followed",
-      "soccerSelectionWeek": "2026-11-30",
-      "soccerSelectionReasons": [
-        "Following RC Lens: every competitive fixture."
-      ],
-      "soccerSelectedOn": "2026-10-26",
-      "title": "Lens vs Le Havre AC - French Ligue 1 [date/time TBC]",
-      "start": "2026-12-05",
-      "end": "2026-12-06",
-      "allDay": true,
-      "status": "TENTATIVE",
-      "description": "Following RC Lens: every competitive fixture.\n\nThe date or kickoff is unconfirmed. This transparent all-day marker will update when a time is listed.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401876385",
-      "location": "Stade Bollaert-Delelis",
-      "url": "https://www.espn.com/soccer/match/_/gameId/401876385",
-      "categories": [
-        "Soccer",
-        "Followed team",
-        "French Ligue 1"
-      ],
-      "hash": "bc2cd47ed3af69f52084eb0560a77b06c95f46a4f8865ae32870412b561e26f4",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "college-football-401869546@football-watchlist",
       "gameId": "401869546",
       "title": "CFB: TBD at TBD",
@@ -11263,6 +11229,40 @@
       "hash": "7c4c5ee4acc318a0324c814f2038d01ec277983c4b06500be52a5e5d305e56e3",
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-05T14:54:57.145Z",
+      "sequence": 1
+    },
+    {
+      "uid": "soccer-401876385@football-watchlist",
+      "gameId": "401876385",
+      "soccerSeason": 2026,
+      "soccerLeague": "fra.1",
+      "soccerTeamIds": [
+        "175",
+        "3236"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2026-11-30",
+      "soccerSelectionReasons": [
+        "Following RC Lens: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-10-26",
+      "title": "Lens vs Le Havre AC - French Ligue 1 [provisional]",
+      "start": "2026-12-05T19:45:00.000Z",
+      "end": "2026-12-05T21:45:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Following RC Lens: every competitive fixture.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401876385",
+      "location": "Stade Bollaert-Delelis",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401876385",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "French Ligue 1"
+      ],
+      "hash": "7a31d17a41f0bcfb48c01744e85ab163a4bf6ed91e7fa704af755dfb1edfb557",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-10-27T23:50:47.873Z",
       "sequence": 1
     },
     {
@@ -21670,23 +21670,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: New York Mets at Baltimore Orioles [time TBA]",
-      "start": "2027-05-31",
-      "end": "2027-06-01",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854247",
+      "title": "MLB: New York Mets at Baltimore Orioles",
+      "start": "2027-05-31T17:35:00.000Z",
+      "end": "2027-05-31T20:35:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854247",
       "location": "Oriole Park at Camden Yards",
       "url": "https://www.mlb.com/gameday/854247",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "5aa3a427fcc6d2760e9ab182a9bf5ce1ca9429802da9892dcaf28ef654c4718f",
+      "hash": "1c7f924940a3c74792e042352a9a54e40886a0c494ce7304c85685f10447e0fc",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-10-27T23:50:47.873Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-854010@football-watchlist",
@@ -21736,23 +21736,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: New York Mets at Baltimore Orioles [time TBA]",
-      "start": "2027-06-01",
-      "end": "2027-06-02",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854258",
+      "title": "MLB: New York Mets at Baltimore Orioles",
+      "start": "2027-06-01T22:35:00.000Z",
+      "end": "2027-06-02T01:35:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854258",
       "location": "Oriole Park at Camden Yards",
       "url": "https://www.mlb.com/gameday/854258",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "92f99932be4f02603db86c2cb015bc3c0fc35ae9901db0ec89063c1faf8e5824",
+      "hash": "cb6a35174670af8d909924efdfb57dbc5561b706a65e049ce327c049cf3f1ce4",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-10-27T23:50:47.873Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-854013@football-watchlist",
@@ -21802,23 +21802,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: New York Mets at Baltimore Orioles [time TBA]",
-      "start": "2027-06-02",
-      "end": "2027-06-03",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854250",
+      "title": "MLB: New York Mets at Baltimore Orioles",
+      "start": "2027-06-02T22:35:00.000Z",
+      "end": "2027-06-03T01:35:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854250",
       "location": "Oriole Park at Camden Yards",
       "url": "https://www.mlb.com/gameday/854250",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "f1cbb52a7506f0d3897795f8ce1a12e499f2efb1bc1d8ceccaf0baef3180ad3b",
+      "hash": "a1f5da52393de4416c830924b55f877ab504976b5f2f3115af3debabe6518ed6",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-10-27T23:50:47.873Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853048@football-watchlist",
@@ -22297,23 +22297,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Tampa Bay Rays at Baltimore Orioles [time TBA]",
-      "start": "2027-06-11",
-      "end": "2027-06-12",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854256",
+      "title": "MLB: Tampa Bay Rays at Baltimore Orioles",
+      "start": "2027-06-11T23:05:00.000Z",
+      "end": "2027-06-12T02:05:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854256",
       "location": "Oriole Park at Camden Yards",
       "url": "https://www.mlb.com/gameday/854256",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "888f39cf4770fb825769e6cf70c2036c091e12f48d93e6e391409199abaab5f3",
+      "hash": "8186d79f899bf1ac89893d71df6ddd8c187a19f2d3f9352acda90a6bdf62c69b",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-10-27T23:50:47.873Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852619@football-watchlist",
@@ -22363,23 +22363,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Tampa Bay Rays at Baltimore Orioles [time TBA]",
-      "start": "2027-06-12",
-      "end": "2027-06-13",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854254",
+      "title": "MLB: Tampa Bay Rays at Baltimore Orioles",
+      "start": "2027-06-12T20:05:00.000Z",
+      "end": "2027-06-12T23:05:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854254",
       "location": "Oriole Park at Camden Yards",
       "url": "https://www.mlb.com/gameday/854254",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "4100af6ec6a931842f38ae0845000ca5fd5002af0395a0dbcb6aaf9b5c7ebc27",
+      "hash": "d047f04f05c2b4e89467fea449e15fabfbc5b25522ccb88c8c1a64d11f579aac",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-10-27T23:50:47.873Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852630@football-watchlist",
@@ -22429,23 +22429,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Tampa Bay Rays at Baltimore Orioles [time TBA]",
-      "start": "2027-06-13",
-      "end": "2027-06-14",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854251",
+      "title": "MLB: Tampa Bay Rays at Baltimore Orioles",
+      "start": "2027-06-13T17:35:00.000Z",
+      "end": "2027-06-13T20:35:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854251",
       "location": "Oriole Park at Camden Yards",
       "url": "https://www.mlb.com/gameday/854251",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "e42cf98efb5bb811c67aff6a9e7815b2a006811ff2cda961635d47dc08b2d6a8",
+      "hash": "35fa304f825f544e4b5394960d47d98842533c6667027ff3eb6d35aa9aee63f6",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-10-27T23:50:47.873Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-854257@football-watchlist",
@@ -22462,23 +22462,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Tampa Bay Rays at Baltimore Orioles [time TBA]",
-      "start": "2027-06-14",
-      "end": "2027-06-15",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854257",
+      "title": "MLB: Tampa Bay Rays at Baltimore Orioles",
+      "start": "2027-06-14T22:35:00.000Z",
+      "end": "2027-06-15T01:35:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854257",
       "location": "Oriole Park at Camden Yards",
       "url": "https://www.mlb.com/gameday/854257",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "2af4c269af935df5b49b7e37af60097635ce0d61c313675f63a138bef7e94e8f",
+      "hash": "0544dc2ae293ab19065de2e63cc450b3e310e4562c32b322d4c030851975f986",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-10-27T23:50:47.873Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852386@football-watchlist",
@@ -23078,39 +23078,6 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-852456@football-watchlist",
-      "gameId": "852456",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/121:27/138:27",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "121",
-        "138"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: New York Mets at St. Louis Cardinals [time TBA]",
-      "start": "2027-06-25",
-      "end": "2027-06-26",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852456",
-      "location": "Busch Stadium",
-      "url": "https://www.mlb.com/gameday/852456",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "62e46606e09e9125d60564e8a7455be13720a5e2a189a053698ed1189905acb3",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-853430@football-watchlist",
       "gameId": "853430",
       "mlbSeason": 2027,
@@ -23210,12 +23177,12 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-852461@football-watchlist",
-      "gameId": "852461",
+      "uid": "mlb-852456@football-watchlist",
+      "gameId": "852456",
       "mlbSeason": 2027,
       "mlbGameType": "R",
       "mlbSeriesKey": "2027/R/121:27/138:27",
-      "mlbSeriesGameNumber": 3,
+      "mlbSeriesGameNumber": 1,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "121",
@@ -23224,23 +23191,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: New York Mets at St. Louis Cardinals [time TBA]",
-      "start": "2027-06-27",
-      "end": "2027-06-28",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852461",
+      "title": "MLB: New York Mets at St. Louis Cardinals",
+      "start": "2027-06-26T00:15:00.000Z",
+      "end": "2027-06-26T03:15:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852456",
       "location": "Busch Stadium",
-      "url": "https://www.mlb.com/gameday/852461",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/852456",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "5c3e40285f332954de379206048a14240574760fd426a055c948ea25c2070df5",
+      "hash": "4d4391e74636721d6db3780a2028d54bf581387bdbdf047d5cb31d26fb4acaaf",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-10-27T23:50:47.873Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853428@football-watchlist",
@@ -23274,6 +23241,39 @@
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
+    },
+    {
+      "uid": "mlb-852461@football-watchlist",
+      "gameId": "852461",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/121:27/138:27",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "121",
+        "138"
+      ],
+      "selectionReasons": [
+        "Following New York Mets: every regular-season game."
+      ],
+      "title": "MLB: New York Mets at St. Louis Cardinals",
+      "start": "2027-06-27T18:15:00.000Z",
+      "end": "2027-06-27T21:15:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852461",
+      "location": "Busch Stadium",
+      "url": "https://www.mlb.com/gameday/852461",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "New York Mets"
+      ],
+      "hash": "e69ed20bf5bd95e1bc7fcdadb34700c5c4cfd121908b8fe74719a646b6498a32",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-10-27T23:50:47.873Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852632@football-watchlist",
@@ -27223,23 +27223,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Tampa Bay Rays at Baltimore Orioles [time TBA]",
-      "start": "2027-09-06",
-      "end": "2027-09-07",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854210",
+      "title": "MLB: Tampa Bay Rays at Baltimore Orioles",
+      "start": "2027-09-06T17:35:00.000Z",
+      "end": "2027-09-06T20:35:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854210",
       "location": "Oriole Park at Camden Yards",
       "url": "https://www.mlb.com/gameday/854210",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "09fbc8bb3b19ebffd9d178624a72816866a12dd9909a0688137b344bf6ae8b48",
+      "hash": "a897ae31931bae363ec7184478fdc0671bfd3a86d97ef6922df49c2a77bf11fd",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-10-27T23:50:47.873Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853005@football-watchlist",
@@ -27289,23 +27289,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Tampa Bay Rays at Baltimore Orioles [time TBA]",
-      "start": "2027-09-07",
-      "end": "2027-09-08",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854207",
+      "title": "MLB: Tampa Bay Rays at Baltimore Orioles",
+      "start": "2027-09-07T22:35:00.000Z",
+      "end": "2027-09-08T01:35:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854207",
       "location": "Oriole Park at Camden Yards",
       "url": "https://www.mlb.com/gameday/854207",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "21f6c8a99960731d69f867358d2543b1669ebfcebe3377737f44ea4fc7dfc937",
+      "hash": "973e1d4156e19ebe59fb9a5081d3b6f7ee9b8314e4e4fddc271a38a9becdb6ce",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-10-27T23:50:47.873Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853002@football-watchlist",
@@ -27355,23 +27355,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Tampa Bay Rays at Baltimore Orioles [time TBA]",
-      "start": "2027-09-08",
-      "end": "2027-09-09",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854217",
+      "title": "MLB: Tampa Bay Rays at Baltimore Orioles",
+      "start": "2027-09-08T22:35:00.000Z",
+      "end": "2027-09-09T01:35:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854217",
       "location": "Oriole Park at Camden Yards",
       "url": "https://www.mlb.com/gameday/854217",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "a726d9063987fa05cc0945567da2175f77a9ebe4b2066a08fcf9a34e207294a1",
+      "hash": "4e4a72be49c89297b26e0508a1d98bb1d8420e14a5be693f977f963202338a63",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-10-27T23:50:47.873Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852340@football-watchlist",
@@ -28401,7 +28401,7 @@
     }
   ],
   "nflGames": 285,
-  "collegeGames": 949,
+  "collegeGames": 950,
   "baseball": {
     "checkedOn": "2026-10-27",
     "season": 2026,

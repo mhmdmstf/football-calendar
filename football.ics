@@ -5567,38 +5567,37 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401874786@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261027T235047Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
+LAST-MODIFIED:20261027T235047Z
+SEQUENCE:1
 DTSTART:20261027T194500Z
 DTEND:20261027T214500Z
-SUMMARY:Torino vs Como - Italian Serie A [provisional]
-DESCRIPTION:Following Como: every competitive fixture.\n\nProvisional sourc
- e-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed
-  dates from provisional fixtures\; both may change. The calendar updates w
- hen the schedule changes.\n\nViewing window: 2 hours\; finish is approxima
- te.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401874786
+SUMMARY:Torino vs Como - Italian Serie A
+DESCRIPTION:Following Como: every competitive fixture.\n\nKickoff shown in 
+ your calendar’s local time.\n\nViewing window: 2 hours\; finish is appro
+ ximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401874786
 LOCATION:Stadio Olimpico Grande Torino
 URL:https://www.espn.com/soccer/match/_/gameId/401874786
 CATEGORIES:Soccer,Followed team,Italian Serie A
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849803@football-watchlist
-DTSTAMP:20261027T080122Z
+DTSTAMP:20261027T235047Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261027T080122Z
-SEQUENCE:8
+LAST-MODIFIED:20261027T235047Z
+SEQUENCE:9
 DTSTART:20261028T000000Z
 DTEND:20261028T033000Z
 SUMMARY:MLB: World Series Game 4 - Milwaukee Brewers at Tampa Bay Rays
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nProbable pitchers (subject to change): Griffin Jax.\n\nListed broadcasts:
-  FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country an
- d provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849803
+ nProbable pitchers (subject to change): Dustin May / Griffin Jax.\n\nListe
+ d broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies 
+ by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday
+ /849803
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/849803
 CATEGORIES:MLB,Playoffs,Tampa Bay Rays
@@ -6712,18 +6711,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858291@football-watchlist
-DTSTAMP:20261026T235629Z
+DTSTAMP:20261027T235047Z
 CREATED:20261018T071758Z
-LAST-MODIFIED:20261026T235629Z
-SEQUENCE:1
+LAST-MODIFIED:20261027T235047Z
+SEQUENCE:2
 DTSTART:20261108T003000Z
 DTEND:20261108T040000Z
 SUMMARY:CFB: Miami at Notre Dame
 DESCRIPTION:National pick: ranked matchup (#2 vs #3) at selection.\n\nTeams
- : Miami Hurricanes at Notre Dame Fighting Irish\n\nUS broadcast: NBC / Pea
- cock. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours
-  for championships)\; finish is approximate.\n\nSchedule: https://www.espn
- .com/college-football/game/_/gameId/401858291/miami-notre-dame
+ : Miami Hurricanes at Notre Dame Fighting Irish\n\nUS broadcast: NBC. Avai
+ lability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champ
+ ionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/colle
+ ge-football/game/_/gameId/401858291/miami-notre-dame
 LOCATION:Notre Dame Stadium\, Notre Dame\, IN\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401858291/miami-not
  re-dame
@@ -8461,25 +8460,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:soccer-401876385@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
-SUMMARY:Lens vs Le Havre AC - French Ligue 1 [date/time TBC]
-DESCRIPTION:Following RC Lens: every competitive fixture.\n\nThe date or ki
- ckoff is unconfirmed. This transparent all-day marker will update when a t
- ime is listed.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401
- 876385
-LOCATION:Stade Bollaert-Delelis
-URL:https://www.espn.com/soccer/match/_/gameId/401876385
-CATEGORIES:Soccer,Followed team,French Ligue 1
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:college-football-401869546@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -8657,6 +8637,26 @@ LOCATION:Ford Field\, Detroit\, MI\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401869536/tbd-tbd
 CATEGORIES:College
 STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401876385@football-watchlist
+DTSTAMP:20261027T235047Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261027T235047Z
+SEQUENCE:1
+DTSTART:20261205T194500Z
+DTEND:20261205T214500Z
+SUMMARY:Lens vs Le Havre AC - French Ligue 1 [provisional]
+DESCRIPTION:Following RC Lens: every competitive fixture.\n\nProvisional so
+ urce-listed date and kickoff. ESPN does not reliably distinguish TV-confir
+ med dates from provisional fixtures\; both may change. The calendar update
+ s when the schedule changes.\n\nViewing window: 2 hours\; finish is approx
+ imate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401876385
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.espn.com/soccer/match/_/gameId/401876385
+CATEGORIES:Soccer,Followed team,French Ligue 1
+STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -15559,22 +15559,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854247@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261027T235047Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270531
-DTEND;VALUE=DATE:20270601
-SUMMARY:MLB: New York Mets at Baltimore Orioles [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/854247
+LAST-MODIFIED:20261027T235047Z
+SEQUENCE:1
+DTSTART:20270531T173500Z
+DTEND:20270531T203500Z
+SUMMARY:MLB: New York Mets at Baltimore Orioles
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/854247
 LOCATION:Oriole Park at Camden Yards
 URL:https://www.mlb.com/gameday/854247
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854010@football-watchlist
@@ -15597,22 +15596,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854258@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261027T235047Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270601
-DTEND;VALUE=DATE:20270602
-SUMMARY:MLB: New York Mets at Baltimore Orioles [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/854258
+LAST-MODIFIED:20261027T235047Z
+SEQUENCE:1
+DTSTART:20270601T223500Z
+DTEND:20270602T013500Z
+SUMMARY:MLB: New York Mets at Baltimore Orioles
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/854258
 LOCATION:Oriole Park at Camden Yards
 URL:https://www.mlb.com/gameday/854258
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854013@football-watchlist
@@ -15635,22 +15633,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854250@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261027T235047Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270602
-DTEND;VALUE=DATE:20270603
-SUMMARY:MLB: New York Mets at Baltimore Orioles [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/854250
+LAST-MODIFIED:20261027T235047Z
+SEQUENCE:1
+DTSTART:20270602T223500Z
+DTEND:20270603T013500Z
+SUMMARY:MLB: New York Mets at Baltimore Orioles
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/854250
 LOCATION:Oriole Park at Camden Yards
 URL:https://www.mlb.com/gameday/854250
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853048@football-watchlist
@@ -15917,22 +15914,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854256@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261027T235047Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270611
-DTEND;VALUE=DATE:20270612
-SUMMARY:MLB: Tampa Bay Rays at Baltimore Orioles [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/854256
+LAST-MODIFIED:20261027T235047Z
+SEQUENCE:1
+DTSTART:20270611T230500Z
+DTEND:20270612T020500Z
+SUMMARY:MLB: Tampa Bay Rays at Baltimore Orioles
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/854256
 LOCATION:Oriole Park at Camden Yards
 URL:https://www.mlb.com/gameday/854256
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852619@football-watchlist
@@ -15955,22 +15951,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854254@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261027T235047Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270612
-DTEND;VALUE=DATE:20270613
-SUMMARY:MLB: Tampa Bay Rays at Baltimore Orioles [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/854254
+LAST-MODIFIED:20261027T235047Z
+SEQUENCE:1
+DTSTART:20270612T200500Z
+DTEND:20270612T230500Z
+SUMMARY:MLB: Tampa Bay Rays at Baltimore Orioles
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/854254
 LOCATION:Oriole Park at Camden Yards
 URL:https://www.mlb.com/gameday/854254
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852630@football-watchlist
@@ -15993,41 +15988,39 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854251@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261027T235047Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270613
-DTEND;VALUE=DATE:20270614
-SUMMARY:MLB: Tampa Bay Rays at Baltimore Orioles [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/854251
+LAST-MODIFIED:20261027T235047Z
+SEQUENCE:1
+DTSTART:20270613T173500Z
+DTEND:20270613T203500Z
+SUMMARY:MLB: Tampa Bay Rays at Baltimore Orioles
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/854251
 LOCATION:Oriole Park at Camden Yards
 URL:https://www.mlb.com/gameday/854251
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854257@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261027T235047Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270614
-DTEND;VALUE=DATE:20270615
-SUMMARY:MLB: Tampa Bay Rays at Baltimore Orioles [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/854257
+LAST-MODIFIED:20261027T235047Z
+SEQUENCE:1
+DTSTART:20270614T223500Z
+DTEND:20270615T013500Z
+SUMMARY:MLB: Tampa Bay Rays at Baltimore Orioles
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/854257
 LOCATION:Oriole Park at Camden Yards
 URL:https://www.mlb.com/gameday/854257
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852386@football-watchlist
@@ -16372,25 +16365,6 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852456@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270625
-DTEND;VALUE=DATE:20270626
-SUMMARY:MLB: New York Mets at St. Louis Cardinals [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/852456
-LOCATION:Busch Stadium
-URL:https://www.mlb.com/gameday/852456
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-853430@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -16448,23 +16422,22 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852461@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-852456@football-watchlist
+DTSTAMP:20261027T235047Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270627
-DTEND;VALUE=DATE:20270628
-SUMMARY:MLB: New York Mets at St. Louis Cardinals [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/852461
+LAST-MODIFIED:20261027T235047Z
+SEQUENCE:1
+DTSTART:20270626T001500Z
+DTEND:20270626T031500Z
+SUMMARY:MLB: New York Mets at St. Louis Cardinals
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/852456
 LOCATION:Busch Stadium
-URL:https://www.mlb.com/gameday/852461
+URL:https://www.mlb.com/gameday/852456
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853428@football-watchlist
@@ -16484,6 +16457,24 @@ URL:https://www.mlb.com/gameday/853428
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-852461@football-watchlist
+DTSTAMP:20261027T235047Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261027T235047Z
+SEQUENCE:1
+DTSTART:20270627T181500Z
+DTEND:20270627T211500Z
+SUMMARY:MLB: New York Mets at St. Louis Cardinals
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/852461
+LOCATION:Busch Stadium
+URL:https://www.mlb.com/gameday/852461
+CATEGORIES:MLB,Followed team,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852632@football-watchlist
@@ -18733,22 +18724,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854210@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261027T235047Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270906
-DTEND;VALUE=DATE:20270907
-SUMMARY:MLB: Tampa Bay Rays at Baltimore Orioles [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/854210
+LAST-MODIFIED:20261027T235047Z
+SEQUENCE:1
+DTSTART:20270906T173500Z
+DTEND:20270906T203500Z
+SUMMARY:MLB: Tampa Bay Rays at Baltimore Orioles
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/854210
 LOCATION:Oriole Park at Camden Yards
 URL:https://www.mlb.com/gameday/854210
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853005@football-watchlist
@@ -18771,22 +18761,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854207@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261027T235047Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270907
-DTEND;VALUE=DATE:20270908
-SUMMARY:MLB: Tampa Bay Rays at Baltimore Orioles [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/854207
+LAST-MODIFIED:20261027T235047Z
+SEQUENCE:1
+DTSTART:20270907T223500Z
+DTEND:20270908T013500Z
+SUMMARY:MLB: Tampa Bay Rays at Baltimore Orioles
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/854207
 LOCATION:Oriole Park at Camden Yards
 URL:https://www.mlb.com/gameday/854207
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853002@football-watchlist
@@ -18809,22 +18798,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854217@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261027T235047Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270908
-DTEND;VALUE=DATE:20270909
-SUMMARY:MLB: Tampa Bay Rays at Baltimore Orioles [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/854217
+LAST-MODIFIED:20261027T235047Z
+SEQUENCE:1
+DTSTART:20270908T223500Z
+DTEND:20270909T013500Z
+SUMMARY:MLB: Tampa Bay Rays at Baltimore Orioles
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/854217
 LOCATION:Oriole Park at Camden Yards
 URL:https://www.mlb.com/gameday/854217
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852340@football-watchlist
