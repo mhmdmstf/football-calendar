@@ -1,64 +1,7 @@
 {
-  "checkedOn": "2026-10-26",
+  "checkedOn": "2026-10-27",
   "season": 2026,
   "events": [
-    {
-      "uid": "chelsea-2679897@football-watchlist",
-      "gameId": "2679897",
-      "chelseaSeason": 2026,
-      "chelseaCompetition": "eng.league_cup",
-      "chelseaFriendly": false,
-      "title": "Chelsea vs Luton Town - Carabao Cup",
-      "start": "2026-08-27T18:30:00.000Z",
-      "end": "2026-08-27T21:00:00.000Z",
-      "allDay": false,
-      "status": "CONFIRMED",
-      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club currently lists this kickoff as confirmed. Viewing window: 2.5 hours; finish is approximate and extra time or penalties may run longer.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-luton-town-english-league-cup-2026-08-27",
-      "location": "Stamford Bridge",
-      "url": "https://www.chelseafc.com/en/match/chelsea-vs-luton-town-english-league-cup-2026-08-27",
-      "categories": [
-        "Soccer",
-        "Chelsea",
-        "Carabao Cup"
-      ],
-      "hash": "0cf4f87b7af6f36f5b7e7a5a086be25dfbf8827dd2c52a574c77610fc69d8d46",
-      "created": "2026-10-03T13:22:58.480Z",
-      "modified": "2026-10-03T13:23:45.745Z",
-      "sequence": 1
-    },
-    {
-      "uid": "mlb-823581@football-watchlist",
-      "gameId": "823581",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/158:43/121:43",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "158",
-        "121"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: Milwaukee Brewers at New York Mets",
-      "start": "2026-08-27T23:10:00.000Z",
-      "end": "2026-08-28T02:10:00.000Z",
-      "allDay": false,
-      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Jacob Misiorowski / Sean Manaea.\n\nListed broadcasts: SNY / Brewers.TV Presented by Potawatomi Sportsbook. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823581",
-      "location": "Citi Field",
-      "url": "https://www.mlb.com/gameday/823581",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "0c3b3a6a9a998e3cfcc878323b88917ea3ab8cd4f0efd558c670eb4ca4c5cbfb",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
     {
       "uid": "mlb-822935@football-watchlist",
       "gameId": "822935",
@@ -7541,7 +7484,7 @@
       "start": "2026-10-28T00:00:00.000Z",
       "end": "2026-10-28T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849803",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Griffin Jax.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849803",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/849803",
       "status": "CONFIRMED",
@@ -7550,10 +7493,10 @@
         "Playoffs",
         "Tampa Bay Rays"
       ],
-      "hash": "40d29efbe82fed7d4e9e5040c1d7b094fc754ff71633b246c30e51f02315304e",
+      "hash": "778f0a79bccaf672671335cb38bcde3bd0ac3c43708706481e545f0701b1df02",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-20T07:44:07.650Z",
-      "sequence": 7
+      "modified": "2026-10-27T08:01:22.337Z",
+      "sequence": 8
     },
     {
       "uid": "nhl-2026020189@football-watchlist",
@@ -28460,7 +28403,7 @@
   "nflGames": 285,
   "collegeGames": 949,
   "baseball": {
-    "checkedOn": "2026-10-26",
+    "checkedOn": "2026-10-27",
     "season": 2026,
     "scheduleGames": 998,
     "followedRegularSeasons": {
@@ -28473,11 +28416,11 @@
         "139": 162
       }
     },
-    "events": 425,
+    "events": 424,
     "playoffEvents": 42
   },
   "hockey": {
-    "checkedOn": "2026-10-26",
+    "checkedOn": "2026-10-27",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -28494,17 +28437,17 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-10-26",
+    "checkedOn": "2026-10-27",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
       "eng.1": 38,
       "eng.league_cup": 3
     },
-    "events": 40
+    "events": 39
   },
   "soccer": {
-    "checkedOn": "2026-10-26",
+    "checkedOn": "2026-10-27",
     "season": 2026,
     "window": {
       "start": "2026-10-26",
