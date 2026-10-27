@@ -1940,17 +1940,17 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-822840@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261027T143933Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
+LAST-MODIFIED:20261027T143933Z
+SEQUENCE:1
 DTSTART:20260923T000500Z
 DTEND:20260923T030500Z
 SUMMARY:MLB: New York Mets at Texas Rangers
 DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
  window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to 
- change): Sean Manaea / MacKenzie Gore.\n\nListed broadcasts: SNY / Rangers
-  Sports Network\, presented by Progressive. Availability varies by country
+ change): Sean Manaea / MacKenzie Gore.\n\nListed broadcasts: Rangers Sport
+ s Network\, presented by Progressive / SNY. Availability varies by country
   and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822840
 LOCATION:Globe Life Field
 URL:https://www.mlb.com/gameday/822840
