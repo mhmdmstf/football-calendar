@@ -8,46 +8,6 @@ X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:mlb-822935@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260828T231000Z
-DTEND:20260829T021000Z
-SUMMARY:MLB: San Diego Padres at Tampa Bay Rays
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
-  window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to
-  change): Casey Mize / Shane McClanahan.\n\nListed broadcasts: Padres.TV P
- resented by UC San Diego Health / Rays.TV. Availability varies by country 
- and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822935
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/822935
-CATEGORIES:MLB,Followed team,San Diego Padres,Tampa Bay Rays
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-823583@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260828T231000Z
-DTEND:20260829T021000Z
-SUMMARY:MLB: Houston Astros at New York Mets
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
- window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to 
- change): Hunter Brown / Christian Scott.\n\nListed broadcasts: SNY / Space
-  City Home Network. Availability varies by country and provider.\n\nOffici
- al schedule: https://www.mlb.com/gameday/823583
-LOCATION:Citi Field
-URL:https://www.mlb.com/gameday/823583
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:soccer-401876477@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -5668,24 +5628,22 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849799@football-watchlist
-DTSTAMP:20261020T074407Z
+DTSTAMP:20261028T084316Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261020T074407Z
-SEQUENCE:7
+LAST-MODIFIED:20261028T084316Z
+SEQUENCE:8
 DTSTART:20261029T000000Z
 DTEND:20261029T033000Z
-SUMMARY:MLB: World Series Game 5 - Milwaukee Brewers at Tampa Bay Rays [if 
- necessary]
+SUMMARY:MLB: World Series Game 5 - Milwaukee Brewers at Tampa Bay Rays
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
- .5 hours\; finish is approximate.\n\nListed broadcasts: FOX / FOX ONE / Fo
- x Deportes / FOX ONE. Availability varies by country and provider.\n\nOffi
- cial schedule: https://www.mlb.com/gameday/849799
+ the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
+ nProbable pitchers (subject to change): Jacob Misiorowski.\n\nListed broad
+ casts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by coun
+ try and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849799
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/849799
 CATEGORIES:MLB,Playoffs,Tampa Bay Rays
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT

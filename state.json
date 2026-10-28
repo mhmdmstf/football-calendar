@@ -1,74 +1,7 @@
 {
-  "checkedOn": "2026-10-27",
+  "checkedOn": "2026-10-28",
   "season": 2026,
   "events": [
-    {
-      "uid": "mlb-822935@football-watchlist",
-      "gameId": "822935",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/135:44/139:44",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "135",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: San Diego Padres at Tampa Bay Rays",
-      "start": "2026-08-28T23:10:00.000Z",
-      "end": "2026-08-29T02:10:00.000Z",
-      "allDay": false,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Casey Mize / Shane McClanahan.\n\nListed broadcasts: Padres.TV Presented by UC San Diego Health / Rays.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822935",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/822935",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "San Diego Padres",
-        "Tampa Bay Rays"
-      ],
-      "hash": "54e399e1b2aec406a8714c26e9b24d57e386238e92e7b9ac5dfdd9aba0d778e5",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-823583@football-watchlist",
-      "gameId": "823583",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/117:44/121:44",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "117",
-        "121"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: Houston Astros at New York Mets",
-      "start": "2026-08-28T23:10:00.000Z",
-      "end": "2026-08-29T02:10:00.000Z",
-      "allDay": false,
-      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Hunter Brown / Christian Scott.\n\nListed broadcasts: SNY / Space City Home Network. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823583",
-      "location": "Citi Field",
-      "url": "https://www.mlb.com/gameday/823583",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "4496df60cd69b9c320aa5c7e1d635745b14253b148fcd7aec19c91cc6fff39b2",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
     {
       "uid": "soccer-401876477@football-watchlist",
       "gameId": "401876477",
@@ -7589,7 +7522,7 @@
       "mlbGameType": "W",
       "mlbSeriesKey": "2026/W/1",
       "mlbSeriesGameNumber": 5,
-      "mlbIfNecessary": true,
+      "mlbIfNecessary": false,
       "mlbTeamIds": [
         "158",
         "139"
@@ -7597,23 +7530,23 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: World Series Game 5 - Milwaukee Brewers at Tampa Bay Rays [if necessary]",
+      "title": "MLB: World Series Game 5 - Milwaukee Brewers at Tampa Bay Rays",
       "start": "2026-10-29T00:00:00.000Z",
       "end": "2026-10-29T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849799",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Jacob Misiorowski.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849799",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/849799",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Playoffs",
         "Tampa Bay Rays"
       ],
-      "hash": "41d01b6527e230f68db8a0549ff1fb919e4e12b682580ddd53e6580084f95392",
+      "hash": "523594eee277a4cc02d5c2fa49b66178870862c2883515e3f2d540b5b83c7a08",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-20T07:44:07.650Z",
-      "sequence": 7
+      "modified": "2026-10-28T08:43:16.134Z",
+      "sequence": 8
     },
     {
       "uid": "nhl-2026020206@football-watchlist",
@@ -28403,7 +28336,7 @@
   "nflGames": 285,
   "collegeGames": 950,
   "baseball": {
-    "checkedOn": "2026-10-27",
+    "checkedOn": "2026-10-28",
     "season": 2026,
     "scheduleGames": 998,
     "followedRegularSeasons": {
@@ -28416,11 +28349,11 @@
         "139": 162
       }
     },
-    "events": 424,
+    "events": 422,
     "playoffEvents": 42
   },
   "hockey": {
-    "checkedOn": "2026-10-27",
+    "checkedOn": "2026-10-28",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -28437,7 +28370,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-10-27",
+    "checkedOn": "2026-10-28",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
@@ -28447,7 +28380,7 @@
     "events": 39
   },
   "soccer": {
-    "checkedOn": "2026-10-27",
+    "checkedOn": "2026-10-28",
     "season": 2026,
     "window": {
       "start": "2026-10-26",
