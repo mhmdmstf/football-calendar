@@ -5628,18 +5628,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849799@football-watchlist
-DTSTAMP:20261028T084316Z
+DTSTAMP:20261028T193935Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261028T084316Z
-SEQUENCE:8
+LAST-MODIFIED:20261028T193935Z
+SEQUENCE:9
 DTSTART:20261029T000000Z
 DTEND:20261029T033000Z
 SUMMARY:MLB: World Series Game 5 - Milwaukee Brewers at Tampa Bay Rays
 DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
  the World Series.\n\nViewing window: 3.5 hours\; finish is approximate.\n\
- nProbable pitchers (subject to change): Jacob Misiorowski.\n\nListed broad
- casts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by coun
- try and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849799
+ nProbable pitchers (subject to change): Jacob Misiorowski / Drew Rasmussen
+ .\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availabili
+ ty varies by country and provider.\n\nOfficial schedule: https://www.mlb.c
+ om/gameday/849799
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/849799
 CATEGORIES:MLB,Playoffs,Tampa Bay Rays

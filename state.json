@@ -7534,7 +7534,7 @@
       "start": "2026-10-29T00:00:00.000Z",
       "end": "2026-10-29T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Jacob Misiorowski.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849799",
+      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nViewing window: 3.5 hours; finish is approximate.\n\nProbable pitchers (subject to change): Jacob Misiorowski / Drew Rasmussen.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849799",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/849799",
       "status": "CONFIRMED",
@@ -7543,10 +7543,10 @@
         "Playoffs",
         "Tampa Bay Rays"
       ],
-      "hash": "523594eee277a4cc02d5c2fa49b66178870862c2883515e3f2d540b5b83c7a08",
+      "hash": "6058df52ac53b30356974bfbb74eae451cf0b94afa3a36e4d2e645ba6def69cb",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-28T08:43:16.134Z",
-      "sequence": 8
+      "modified": "2026-10-28T19:39:35.713Z",
+      "sequence": 9
     },
     {
       "uid": "nhl-2026020206@football-watchlist",
