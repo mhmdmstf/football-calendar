@@ -8,65 +8,6 @@ X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:soccer-401876477@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260829T151500Z
-DTEND:20260829T171500Z
-SUMMARY:Strasbourg vs Lens - French Ligue 1
-DESCRIPTION:Following RC Lens: every competitive fixture.\n\nKickoff shown 
- in your calendar’s local time.\n\nViewing window: 2 hours\; finish is ap
- proximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/4018764
- 77
-LOCATION:Stade de la Meinau
-URL:https://www.espn.com/soccer/match/_/gameId/401876477
-CATEGORIES:Soccer,Followed team,French Ligue 1
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-822936@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260829T201000Z
-DTEND:20260829T231000Z
-SUMMARY:MLB: San Diego Padres at Tampa Bay Rays
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
-  window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to
-  change): Walker Buehler / Nick Martinez.\n\nListed broadcasts: Padres.TV 
- Presented by UC San Diego Health / Rays.TV. Availability varies by country
-  and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822936
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/822936
-CATEGORIES:MLB,Followed team,San Diego Padres,Tampa Bay Rays
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-823582@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260829T201000Z
-DTEND:20260829T231000Z
-SUMMARY:MLB: Houston Astros at New York Mets
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
- window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to 
- change): Bennett Sousa / Nolan McLean.\n\nListed broadcasts: SNY / Space C
- ity Home Network. Availability varies by country and provider.\n\nOfficial
-  schedule: https://www.mlb.com/gameday/823582
-LOCATION:Citi Field
-URL:https://www.mlb.com/gameday/823582
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:chelsea-2645207@football-watchlist
 DTSTAMP:20261003T132345Z
 CREATED:20261003T132258Z
@@ -1900,17 +1841,17 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-822840@football-watchlist
-DTSTAMP:20261027T143933Z
+DTSTAMP:20261029T083846Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261027T143933Z
-SEQUENCE:1
+LAST-MODIFIED:20261029T083846Z
+SEQUENCE:2
 DTSTART:20260923T000500Z
 DTEND:20260923T030500Z
 SUMMARY:MLB: New York Mets at Texas Rangers
 DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
  window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to 
- change): Sean Manaea / MacKenzie Gore.\n\nListed broadcasts: Rangers Sport
- s Network\, presented by Progressive / SNY. Availability varies by country
+ change): Sean Manaea / MacKenzie Gore.\n\nListed broadcasts: SNY / Rangers
+  Sports Network\, presented by Progressive. Availability varies by country
   and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822840
 LOCATION:Globe Life Field
 URL:https://www.mlb.com/gameday/822840
@@ -5729,25 +5670,26 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849801@football-watchlist
-DTSTAMP:20261020T074407Z
+DTSTAMP:20261029T083846Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261020T074407Z
-SEQUENCE:7
+LAST-MODIFIED:20261029T083846Z
+SEQUENCE:8
 DTSTART:20261031T000000Z
 DTEND:20261031T033000Z
-SUMMARY:MLB: World Series Game 6 - Tampa Bay Rays at Milwaukee Brewers [if 
- necessary]
-DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
- .5 hours\; finish is approximate.\n\nListed broadcasts: FOX / FOX ONE / Fo
- x Deportes / FOX ONE. Availability varies by country and provider.\n\nOffi
- cial schedule: https://www.mlb.com/gameday/849801
+SUMMARY:Cancelled: MLB: World Series Game 6 - Tampa Bay Rays at Milwaukee B
+ rewers [if necessary]
+DESCRIPTION:No longer necessary: this postseason series has finished.\n\nML
+ B postseason: every game\, from the Wild Card Series through the World Ser
+ ies.\n\nThis game is only played if the series requires it. It will be can
+ celled in this feed if no longer needed.\n\nViewing window: 3.5 hours\; fi
+ nish is approximate.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / 
+ FOX ONE. Availability varies by country and provider.\n\nOfficial schedule
+ : https://www.mlb.com/gameday/849801
 LOCATION:American Family Field
 URL:https://www.mlb.com/gameday/849801
 CATEGORIES:MLB,Playoffs,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:OPAQUE
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:chelsea-2645278@football-watchlist
@@ -6032,25 +5974,26 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-849800@football-watchlist
-DTSTAMP:20261020T074407Z
+DTSTAMP:20261029T083846Z
 CREATED:20260919T111549Z
-LAST-MODIFIED:20261020T074407Z
-SEQUENCE:7
+LAST-MODIFIED:20261029T083846Z
+SEQUENCE:8
 DTSTART:20261101T000000Z
 DTEND:20261101T033000Z
-SUMMARY:MLB: World Series Game 7 - Tampa Bay Rays at Milwaukee Brewers [if 
- necessary]
-DESCRIPTION:MLB postseason: every game\, from the Wild Card Series through 
- the World Series.\n\nThis game is only played if the series requires it. I
- t will be cancelled in this feed if no longer needed.\n\nViewing window: 3
- .5 hours\; finish is approximate.\n\nListed broadcasts: FOX / FOX ONE / Fo
- x Deportes / FOX ONE. Availability varies by country and provider.\n\nOffi
- cial schedule: https://www.mlb.com/gameday/849800
+SUMMARY:Cancelled: MLB: World Series Game 7 - Tampa Bay Rays at Milwaukee B
+ rewers [if necessary]
+DESCRIPTION:No longer necessary: this postseason series has finished.\n\nML
+ B postseason: every game\, from the Wild Card Series through the World Ser
+ ies.\n\nThis game is only played if the series requires it. It will be can
+ celled in this feed if no longer needed.\n\nViewing window: 3.5 hours\; fi
+ nish is approximate.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / 
+ FOX ONE. Availability varies by country and provider.\n\nOfficial schedule
+ : https://www.mlb.com/gameday/849800
 LOCATION:American Family Field
 URL:https://www.mlb.com/gameday/849800
 CATEGORIES:MLB,Playoffs,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:OPAQUE
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401875002@football-watchlist
@@ -9396,29 +9339,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:chelsea-2645349@football-watchlist
-DTSTAMP:20261019T234748Z
-CREATED:20261003T132258Z
-LAST-MODIFIED:20261019T234748Z
-SEQUENCE:3
-DTSTART;VALUE=DATE:20261221
-DTEND;VALUE=DATE:20261222
-SUMMARY:Chelsea vs Aston Villa - Premier League [date/time TBC]
-DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
- \nThe club marks this fixture TBC. The date shown is provisional\; the dat
- e and kickoff may change for television or cup scheduling. This transparen
- t all-day marker will update when confirmed.\n\nFixtures remain subject to
-  later rescheduling. The feed refreshes from Chelsea’s official schedule
- .\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-aston-v
- illa-english-premier-league-2026-12-21
-LOCATION:Stamford Bridge
-URL:https://www.chelseafc.com/en/match/chelsea-vs-aston-villa-english-premi
- er-league-2026-12-21
-CATEGORIES:Soccer,Chelsea,Premier League
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:nfl-401873138@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T144637Z
@@ -9434,6 +9354,28 @@ DESCRIPTION:Sunday Night Football.\n\nTeams: Detroit Lions at Minnesota Vik
 LOCATION:U.S. Bank Stadium\, Minneapolis\, MN\, USA
 URL:https://www.espn.com/nfl/game/_/gameId/401873138/lions-vikings
 CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:chelsea-2645349@football-watchlist
+DTSTAMP:20261029T083846Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261029T083846Z
+SEQUENCE:4
+DTSTART:20261221T200000Z
+DTEND:20261221T220000Z
+SUMMARY:Chelsea vs Aston Villa - Premier League
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club currently lists this kickoff as confirmed. Viewing window: 2 ho
+ urs\; finish is approximate.\n\nFixtures remain subject to later reschedul
+ ing. The feed refreshes from Chelsea’s official schedule.\n\nOfficial ma
+ tch: https://www.chelseafc.com/en/match/chelsea-vs-aston-villa-english-pre
+ mier-league-2026-12-21
+LOCATION:Stamford Bridge
+URL:https://www.chelseafc.com/en/match/chelsea-vs-aston-villa-english-premi
+ er-league-2026-12-21
+CATEGORIES:Soccer,Chelsea,Premier League
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT

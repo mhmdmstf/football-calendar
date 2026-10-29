@@ -1,108 +1,7 @@
 {
-  "checkedOn": "2026-10-28",
+  "checkedOn": "2026-10-29",
   "season": 2026,
   "events": [
-    {
-      "uid": "soccer-401876477@football-watchlist",
-      "gameId": "401876477",
-      "soccerSeason": 2026,
-      "soccerLeague": "fra.1",
-      "soccerTeamIds": [
-        "180",
-        "175"
-      ],
-      "soccerFriendly": false,
-      "soccerSelectionKind": "followed",
-      "soccerSelectionWeek": "2026-08-24",
-      "soccerSelectionReasons": [
-        "Following RC Lens: every competitive fixture."
-      ],
-      "soccerSelectedOn": "2026-10-26",
-      "title": "Strasbourg vs Lens - French Ligue 1",
-      "start": "2026-08-29T15:15:00.000Z",
-      "end": "2026-08-29T17:15:00.000Z",
-      "allDay": false,
-      "status": "CONFIRMED",
-      "description": "Following RC Lens: every competitive fixture.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401876477",
-      "location": "Stade de la Meinau",
-      "url": "https://www.espn.com/soccer/match/_/gameId/401876477",
-      "categories": [
-        "Soccer",
-        "Followed team",
-        "French Ligue 1"
-      ],
-      "hash": "4b6cd7e894562f22d86bc241d79ba996cd31f1c4cd75d1402bbd2d15d9b17bb5",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-822936@football-watchlist",
-      "gameId": "822936",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/135:44/139:44",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "135",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: San Diego Padres at Tampa Bay Rays",
-      "start": "2026-08-29T20:10:00.000Z",
-      "end": "2026-08-29T23:10:00.000Z",
-      "allDay": false,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Walker Buehler / Nick Martinez.\n\nListed broadcasts: Padres.TV Presented by UC San Diego Health / Rays.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822936",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/822936",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "San Diego Padres",
-        "Tampa Bay Rays"
-      ],
-      "hash": "93630ad13664cb931fb43258586ea7526cd8b329df291054dba294b7b270c68c",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-823582@football-watchlist",
-      "gameId": "823582",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/117:44/121:44",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "117",
-        "121"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: Houston Astros at New York Mets",
-      "start": "2026-08-29T20:10:00.000Z",
-      "end": "2026-08-29T23:10:00.000Z",
-      "allDay": false,
-      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Bennett Sousa / Nolan McLean.\n\nListed broadcasts: SNY / Space City Home Network. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823582",
-      "location": "Citi Field",
-      "url": "https://www.mlb.com/gameday/823582",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "f230e058366a90c94fff1539b3ef32851974cb9039faf8c80fa77edaf498002f",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
     {
       "uid": "chelsea-2645207@football-watchlist",
       "gameId": "2645207",
@@ -2618,7 +2517,7 @@
       "start": "2026-09-23T00:05:00.000Z",
       "end": "2026-09-23T03:05:00.000Z",
       "allDay": false,
-      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Sean Manaea / MacKenzie Gore.\n\nListed broadcasts: Rangers Sports Network, presented by Progressive / SNY. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822840",
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Sean Manaea / MacKenzie Gore.\n\nListed broadcasts: SNY / Rangers Sports Network, presented by Progressive. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822840",
       "location": "Globe Life Field",
       "url": "https://www.mlb.com/gameday/822840",
       "status": "CONFIRMED",
@@ -2627,10 +2526,10 @@
         "Followed team",
         "New York Mets"
       ],
-      "hash": "887b73332f6c483fb642506cf668dcecb8d9197805ff0bc4269056dd01a174a7",
+      "hash": "bdd731f8f3414fe17ec95a1f4d53b392f42f4c0877463dbaa32b4d1cd7becce4",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-27T14:39:33.049Z",
-      "sequence": 1
+      "modified": "2026-10-29T08:38:46.442Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-823089@football-watchlist",
@@ -7676,23 +7575,23 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: World Series Game 6 - Tampa Bay Rays at Milwaukee Brewers [if necessary]",
+      "title": "Cancelled: MLB: World Series Game 6 - Tampa Bay Rays at Milwaukee Brewers [if necessary]",
       "start": "2026-10-31T00:00:00.000Z",
       "end": "2026-10-31T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849801",
+      "description": "No longer necessary: this postseason series has finished.\n\nMLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849801",
       "location": "American Family Field",
       "url": "https://www.mlb.com/gameday/849801",
-      "status": "TENTATIVE",
+      "status": "CANCELLED",
       "categories": [
         "MLB",
         "Playoffs",
         "Tampa Bay Rays"
       ],
-      "hash": "740c7e991bf0c145b96bf36ead6bd3e990da2c1b364d6a13afd792a812ef9daa",
+      "hash": "7ac71d952ddd808f19f4e3fe05551dc52e02443cc5279997796516c8b962e60e",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-20T07:44:07.650Z",
-      "sequence": 7
+      "modified": "2026-10-29T08:38:46.442Z",
+      "sequence": 8
     },
     {
       "uid": "chelsea-2645278@football-watchlist",
@@ -8035,23 +7934,23 @@
       "selectionReasons": [
         "MLB postseason: every game, from the Wild Card Series through the World Series."
       ],
-      "title": "MLB: World Series Game 7 - Tampa Bay Rays at Milwaukee Brewers [if necessary]",
+      "title": "Cancelled: MLB: World Series Game 7 - Tampa Bay Rays at Milwaukee Brewers [if necessary]",
       "start": "2026-11-01T00:00:00.000Z",
       "end": "2026-11-01T03:30:00.000Z",
       "allDay": false,
-      "description": "MLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849800",
+      "description": "No longer necessary: this postseason series has finished.\n\nMLB postseason: every game, from the Wild Card Series through the World Series.\n\nThis game is only played if the series requires it. It will be cancelled in this feed if no longer needed.\n\nViewing window: 3.5 hours; finish is approximate.\n\nListed broadcasts: FOX / FOX ONE / Fox Deportes / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/849800",
       "location": "American Family Field",
       "url": "https://www.mlb.com/gameday/849800",
-      "status": "TENTATIVE",
+      "status": "CANCELLED",
       "categories": [
         "MLB",
         "Playoffs",
         "Tampa Bay Rays"
       ],
-      "hash": "5bb1c44766c8611d9b00c924949aefb5d10385bc36c495a114ed86736dbc26f7",
+      "hash": "4954dd5c28e6421813b96e9fbff59cd0d8f94c3a1712f55eb9475f536f0d2e40",
       "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-10-20T07:44:07.650Z",
-      "sequence": 7
+      "modified": "2026-10-29T08:38:46.442Z",
+      "sequence": 8
     },
     {
       "uid": "soccer-401875002@football-watchlist",
@@ -12178,30 +12077,6 @@
       "sequence": 0
     },
     {
-      "uid": "chelsea-2645349@football-watchlist",
-      "gameId": "2645349",
-      "chelseaSeason": 2026,
-      "chelseaCompetition": "eng.1",
-      "chelseaFriendly": false,
-      "title": "Chelsea vs Aston Villa - Premier League [date/time TBC]",
-      "start": "2026-12-21",
-      "end": "2026-12-22",
-      "allDay": true,
-      "status": "TENTATIVE",
-      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club marks this fixture TBC. The date shown is provisional; the date and kickoff may change for television or cup scheduling. This transparent all-day marker will update when confirmed.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-aston-villa-english-premier-league-2026-12-21",
-      "location": "Stamford Bridge",
-      "url": "https://www.chelseafc.com/en/match/chelsea-vs-aston-villa-english-premier-league-2026-12-21",
-      "categories": [
-        "Soccer",
-        "Chelsea",
-        "Premier League"
-      ],
-      "hash": "3bc9a5c2c1af71277d89052e45c4420830bc1917fd5cbff39c56c189afb19d56",
-      "created": "2026-10-03T13:22:58.480Z",
-      "modified": "2026-10-19T23:47:48.193Z",
-      "sequence": 3
-    },
-    {
       "uid": "nfl-401873138@football-watchlist",
       "gameId": "401873138",
       "title": "NFL: Detroit Lions at Minnesota Vikings",
@@ -12219,6 +12094,30 @@
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-05T14:52:08.096Z",
       "sequence": 1
+    },
+    {
+      "uid": "chelsea-2645349@football-watchlist",
+      "gameId": "2645349",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Chelsea vs Aston Villa - Premier League",
+      "start": "2026-12-21T20:00:00.000Z",
+      "end": "2026-12-21T22:00:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club currently lists this kickoff as confirmed. Viewing window: 2 hours; finish is approximate.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-aston-villa-english-premier-league-2026-12-21",
+      "location": "Stamford Bridge",
+      "url": "https://www.chelseafc.com/en/match/chelsea-vs-aston-villa-english-premier-league-2026-12-21",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "a821b984b73bca4c3966882b01035c9bba561d292cef5a0879684a713f3bc49a",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-10-29T08:38:46.442Z",
+      "sequence": 4
     },
     {
       "uid": "nfl-401873139@football-watchlist",
@@ -28336,9 +28235,9 @@
   "nflGames": 285,
   "collegeGames": 950,
   "baseball": {
-    "checkedOn": "2026-10-28",
+    "checkedOn": "2026-10-29",
     "season": 2026,
-    "scheduleGames": 998,
+    "scheduleGames": 996,
     "followedRegularSeasons": {
       "2026": {
         "121": 162,
@@ -28349,11 +28248,11 @@
         "139": 162
       }
     },
-    "events": 422,
-    "playoffEvents": 42
+    "events": 418,
+    "playoffEvents": 40
   },
   "hockey": {
-    "checkedOn": "2026-10-28",
+    "checkedOn": "2026-10-29",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -28370,7 +28269,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-10-28",
+    "checkedOn": "2026-10-29",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
@@ -28380,7 +28279,7 @@
     "events": 39
   },
   "soccer": {
-    "checkedOn": "2026-10-28",
+    "checkedOn": "2026-10-29",
     "season": 2026,
     "window": {
       "start": "2026-10-26",
@@ -28408,7 +28307,7 @@
         "uefa.champions": 18
       }
     },
-    "events": 102
+    "events": 101
   },
   "warnings": [
     "College GameDay: no unambiguous current announcement matched the game schedule; retaining verified announcements and TBA placeholders."
