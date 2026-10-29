@@ -2517,7 +2517,7 @@
       "start": "2026-09-23T00:05:00.000Z",
       "end": "2026-09-23T03:05:00.000Z",
       "allDay": false,
-      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Sean Manaea / MacKenzie Gore.\n\nListed broadcasts: SNY / Rangers Sports Network, presented by Progressive. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822840",
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Sean Manaea / MacKenzie Gore.\n\nListed broadcasts: Rangers Sports Network, presented by Progressive / SNY. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822840",
       "location": "Globe Life Field",
       "url": "https://www.mlb.com/gameday/822840",
       "status": "CONFIRMED",
@@ -2526,10 +2526,10 @@
         "Followed team",
         "New York Mets"
       ],
-      "hash": "bdd731f8f3414fe17ec95a1f4d53b392f42f4c0877463dbaa32b4d1cd7becce4",
+      "hash": "887b73332f6c483fb642506cf668dcecb8d9197805ff0bc4269056dd01a174a7",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-29T08:38:46.442Z",
-      "sequence": 2
+      "modified": "2026-10-29T23:59:28.409Z",
+      "sequence": 3
     },
     {
       "uid": "mlb-823089@football-watchlist",
