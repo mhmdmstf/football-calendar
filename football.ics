@@ -1761,17 +1761,17 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-822840@football-watchlist
-DTSTAMP:20261029T235928Z
+DTSTAMP:20261030T192920Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261029T235928Z
-SEQUENCE:3
+LAST-MODIFIED:20261030T192920Z
+SEQUENCE:4
 DTSTART:20260923T000500Z
 DTEND:20260923T030500Z
 SUMMARY:MLB: New York Mets at Texas Rangers
 DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
  window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to 
- change): Sean Manaea / MacKenzie Gore.\n\nListed broadcasts: Rangers Sport
- s Network\, presented by Progressive / SNY. Availability varies by country
+ change): Sean Manaea / MacKenzie Gore.\n\nListed broadcasts: SNY / Rangers
+  Sports Network\, presented by Progressive. Availability varies by country
   and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822840
 LOCATION:Globe Life Field
 URL:https://www.mlb.com/gameday/822840
@@ -5765,18 +5765,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856734@football-watchlist
-DTSTAMP:20260905T145457Z
+DTSTAMP:20261030T192920Z
 CREATED:20260905T145208Z
-LAST-MODIFIED:20260905T145457Z
-SEQUENCE:1
+LAST-MODIFIED:20261030T192920Z
+SEQUENCE:2
 DTSTART:20261031T193000Z
 DTEND:20261031T230000Z
 SUMMARY:CFB: Florida vs Georgia
 DESCRIPTION:Major rivalry: Florida-Georgia.\n\nTeams: Florida Gators at Geo
- rgia Bulldogs\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nView
- ing window: 3.5 hours (4 hours for championships)\; finish is approximate.
- \n\nSchedule: https://www.espn.com/college-football/game/_/gameId/40185673
- 4/florida-georgia
+ rgia Bulldogs\n\nUS broadcast: ABC / Disney+. Availability elsewhere varie
+ s.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish is ap
+ proximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameI
+ d/401856734/florida-georgia
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856734/florida-g
  eorgia
@@ -5852,18 +5852,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856737@football-watchlist
-DTSTAMP:20261025T074009Z
+DTSTAMP:20261030T192920Z
 CREATED:20261010T083902Z
-LAST-MODIFIED:20261025T074009Z
-SEQUENCE:2
+LAST-MODIFIED:20261030T192920Z
+SEQUENCE:3
 DTSTART:20261031T233000Z
 DTEND:20261101T030000Z
 SUMMARY:CFB: Mississippi State at Texas
 DESCRIPTION:National pick: ranked matchup (#1 vs #17) at selection.\n\nTeam
- s: Mississippi State Bulldogs at Texas Longhorns\n\nUS broadcast: ESPN. Av
- ailability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for cha
- mpionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/col
- lege-football/game/_/gameId/401856737/mississippi-st-texas
+ s: Mississippi State Bulldogs at Texas Longhorns\n\nUS broadcast: ESPN / D
+ isney+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hou
+ rs for championships)\; finish is approximate.\n\nSchedule: https://www.es
+ pn.com/college-football/game/_/gameId/401856737/mississippi-st-texas
 LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856737/mississip
  pi-st-texas
