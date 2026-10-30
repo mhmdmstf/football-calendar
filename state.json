@@ -2359,7 +2359,7 @@
       "start": "2026-09-22T23:05:00.000Z",
       "end": "2026-09-23T02:05:00.000Z",
       "allDay": false,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Drew Rasmussen / Max Fried.\n\nListed broadcasts: Rays.TV / YES / TBS (out-of-market only). Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823494",
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Drew Rasmussen / Max Fried.\n\nListed broadcasts: YES / Rays.TV / TBS (out-of-market only). Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823494",
       "location": "Yankee Stadium",
       "url": "https://www.mlb.com/gameday/823494",
       "status": "CONFIRMED",
@@ -2368,10 +2368,10 @@
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "51be04c09dccc3bab5aec6cd0f38e768053ffda5091b6f214e48456893e94d6b",
+      "hash": "2623fd32f001a0c02f651f5d09b964e03d5b555e8cebb1ee0ce8ebb67807aa2e",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-10-30T23:54:05.315Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-822840@football-watchlist",
@@ -7417,12 +7417,12 @@
         "Following RC Lens: every competitive fixture."
       ],
       "soccerSelectedOn": "2026-10-26",
-      "title": "Lille vs Lens - French Ligue 1 [provisional]",
+      "title": "Lille vs Lens - French Ligue 1",
       "start": "2026-10-30T20:05:00.000Z",
       "end": "2026-10-30T22:05:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Following RC Lens: every competitive fixture.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401876420",
+      "status": "CONFIRMED",
+      "description": "Following RC Lens: every competitive fixture.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401876420",
       "location": "Decathlon Arena - Stade Pierre-Mauroy",
       "url": "https://www.espn.com/soccer/match/_/gameId/401876420",
       "categories": [
@@ -7430,10 +7430,10 @@
         "Followed team",
         "French Ligue 1"
       ],
-      "hash": "0c564212c002bfcc095a10caf887b6810fc8267c372ff9a849b1afd4a9b1289b",
+      "hash": "7922348cafff4a9b68da351cf7a70adcdb8af3b157227d1b080a0956a4cf2f62",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-10-30T23:54:05.315Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-849801@football-watchlist",

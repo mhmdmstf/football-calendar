@@ -1741,16 +1741,16 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-823494@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261030T235405Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
+LAST-MODIFIED:20261030T235405Z
+SEQUENCE:1
 DTSTART:20260922T230500Z
 DTEND:20260923T020500Z
 SUMMARY:MLB: Tampa Bay Rays at New York Yankees
 DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
   window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to
-  change): Drew Rasmussen / Max Fried.\n\nListed broadcasts: Rays.TV / YES 
+  change): Drew Rasmussen / Max Fried.\n\nListed broadcasts: YES / Rays.TV 
  / TBS (out-of-market only). Availability varies by country and provider.\n
  \nOfficial schedule: https://www.mlb.com/gameday/823494
 LOCATION:Yankee Stadium
@@ -5570,22 +5570,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401876420@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261030T235405Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
+LAST-MODIFIED:20261030T235405Z
+SEQUENCE:1
 DTSTART:20261030T200500Z
 DTEND:20261030T220500Z
-SUMMARY:Lille vs Lens - French Ligue 1 [provisional]
-DESCRIPTION:Following RC Lens: every competitive fixture.\n\nProvisional so
- urce-listed date and kickoff. ESPN does not reliably distinguish TV-confir
- med dates from provisional fixtures\; both may change. The calendar update
- s when the schedule changes.\n\nViewing window: 2 hours\; finish is approx
- imate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401876420
+SUMMARY:Lille vs Lens - French Ligue 1
+DESCRIPTION:Following RC Lens: every competitive fixture.\n\nKickoff shown 
+ in your calendar’s local time.\n\nViewing window: 2 hours\; finish is ap
+ proximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/4018764
+ 20
 LOCATION:Decathlon Arena - Stade Pierre-Mauroy
 URL:https://www.espn.com/soccer/match/_/gameId/401876420
 CATEGORIES:Soccer,Followed team,French Ligue 1
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
