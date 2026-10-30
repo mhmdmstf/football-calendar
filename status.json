@@ -1,11 +1,11 @@
 {
-  "checkedOn": "2026-10-29",
+  "checkedOn": "2026-10-30",
   "season": 2026,
-  "events": 971,
+  "events": 967,
   "nflGames": 285,
   "collegeGames": 950,
   "baseball": {
-    "checkedOn": "2026-10-29",
+    "checkedOn": "2026-10-30",
     "season": 2026,
     "scheduleGames": 996,
     "followedRegularSeasons": {
@@ -18,11 +18,11 @@
         "139": 162
       }
     },
-    "events": 418,
+    "events": 416,
     "playoffEvents": 40
   },
   "hockey": {
-    "checkedOn": "2026-10-29",
+    "checkedOn": "2026-10-30",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -39,17 +39,17 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-10-29",
+    "checkedOn": "2026-10-30",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
       "eng.1": 38,
       "eng.league_cup": 3
     },
-    "events": 39
+    "events": 38
   },
   "soccer": {
-    "checkedOn": "2026-10-29",
+    "checkedOn": "2026-10-30",
     "season": 2026,
     "window": {
       "start": "2026-10-26",
@@ -77,7 +77,7 @@
         "uefa.champions": 18
       }
     },
-    "events": 101
+    "events": 100
   },
   "warnings": [
     "College GameDay: no unambiguous current announcement matched the game schedule; retaining verified announcements and TBA placeholders."

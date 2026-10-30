@@ -1,132 +1,7 @@
 {
-  "checkedOn": "2026-10-29",
+  "checkedOn": "2026-10-30",
   "season": 2026,
   "events": [
-    {
-      "uid": "chelsea-2645207@football-watchlist",
-      "gameId": "2645207",
-      "chelseaSeason": 2026,
-      "chelseaCompetition": "eng.1",
-      "chelseaFriendly": false,
-      "title": "Chelsea vs Brighton & Hove Albion - Premier League",
-      "start": "2026-08-30T13:00:00.000Z",
-      "end": "2026-08-30T15:00:00.000Z",
-      "allDay": false,
-      "status": "CONFIRMED",
-      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club currently lists this kickoff as confirmed. Viewing window: 2 hours; finish is approximate.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-brighton-and-hove-albion-english-premier-league-2026-08-30",
-      "location": "Stamford Bridge",
-      "url": "https://www.chelseafc.com/en/match/chelsea-vs-brighton-and-hove-albion-english-premier-league-2026-08-30",
-      "categories": [
-        "Soccer",
-        "Chelsea",
-        "Premier League"
-      ],
-      "hash": "f358beab2da619437a486d96f1e9c980b4ce0c6c6b5d2a26298f3a32abb7db85",
-      "created": "2026-10-03T13:22:58.480Z",
-      "modified": "2026-10-03T13:23:45.745Z",
-      "sequence": 1
-    },
-    {
-      "uid": "soccer-401874755@football-watchlist",
-      "gameId": "401874755",
-      "soccerSeason": 2026,
-      "soccerLeague": "ita.1",
-      "soccerTeamIds": [
-        "114",
-        "2572"
-      ],
-      "soccerFriendly": false,
-      "soccerSelectionKind": "followed",
-      "soccerSelectionWeek": "2026-08-24",
-      "soccerSelectionReasons": [
-        "Following Como: every competitive fixture."
-      ],
-      "soccerSelectedOn": "2026-10-26",
-      "title": "Napoli vs Como - Italian Serie A",
-      "start": "2026-08-30T16:30:00.000Z",
-      "end": "2026-08-30T18:30:00.000Z",
-      "allDay": false,
-      "status": "CONFIRMED",
-      "description": "Following Como: every competitive fixture.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401874755",
-      "location": "Stadio Diego Armando Maradona",
-      "url": "https://www.espn.com/soccer/match/_/gameId/401874755",
-      "categories": [
-        "Soccer",
-        "Followed team",
-        "Italian Serie A"
-      ],
-      "hash": "641d98938cdfed66249434a9129934ad257fc69c8013bc506d025081115ef632",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-822933@football-watchlist",
-      "gameId": "822933",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/135:44/139:44",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "135",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: San Diego Padres at Tampa Bay Rays",
-      "start": "2026-08-30T17:40:00.000Z",
-      "end": "2026-08-30T20:40:00.000Z",
-      "allDay": false,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Robbie Ray / Drew Rasmussen.\n\nListed broadcasts: Padres.TV Presented by UC San Diego Health / Rays.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822933",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/822933",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "San Diego Padres",
-        "Tampa Bay Rays"
-      ],
-      "hash": "597d83b4804f6eeeb9afedb16d6fca533f7ab93e724b5dd273f0674601027e88",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-823580@football-watchlist",
-      "gameId": "823580",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/117:44/121:44",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "117",
-        "121"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: Houston Astros at New York Mets",
-      "start": "2026-08-30T19:10:00.000Z",
-      "end": "2026-08-30T22:10:00.000Z",
-      "allDay": false,
-      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Ethan Pecko / Zac Thornton.\n\nListed broadcasts: NBC/Peacock. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823580",
-      "location": "Citi Field",
-      "url": "https://www.mlb.com/gameday/823580",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "5f8e8cd96893e2ef12d895c44bf24abcc3d1100fea8bf0cae375f6e035561c3c",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
     {
       "uid": "mlb-822932@football-watchlist",
       "gameId": "822932",
@@ -28235,7 +28110,7 @@
   "nflGames": 285,
   "collegeGames": 950,
   "baseball": {
-    "checkedOn": "2026-10-29",
+    "checkedOn": "2026-10-30",
     "season": 2026,
     "scheduleGames": 996,
     "followedRegularSeasons": {
@@ -28248,11 +28123,11 @@
         "139": 162
       }
     },
-    "events": 418,
+    "events": 416,
     "playoffEvents": 40
   },
   "hockey": {
-    "checkedOn": "2026-10-29",
+    "checkedOn": "2026-10-30",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -28269,17 +28144,17 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-10-29",
+    "checkedOn": "2026-10-30",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
       "eng.1": 38,
       "eng.league_cup": 3
     },
-    "events": 39
+    "events": 38
   },
   "soccer": {
-    "checkedOn": "2026-10-29",
+    "checkedOn": "2026-10-30",
     "season": 2026,
     "window": {
       "start": "2026-10-26",
@@ -28307,7 +28182,7 @@
         "uefa.champions": 18
       }
     },
-    "events": 101
+    "events": 100
   },
   "warnings": [
     "College GameDay: no unambiguous current announcement matched the game schedule; retaining verified announcements and TBA placeholders."
