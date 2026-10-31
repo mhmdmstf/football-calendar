@@ -7539,19 +7539,19 @@
       "start": "2026-10-31T16:00:00.000Z",
       "end": "2026-10-31T19:30:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#8 vs #25) at selection.\n\nTeams: Arizona Wildcats at Texas Tech Red Raiders\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856842",
+      "description": "National pick: ranked matchup (#8 vs #25) at selection.\n\nTeams: Arizona Wildcats at Texas Tech Red Raiders\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856842/arizona-texas-tech",
       "location": "Galaxy Stadium, Lubbock, TX, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856842",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856842/arizona-texas-tech",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#8 vs #25) at selection.",
-      "hash": "99f58029cafcb8762b7966162143c64db64f0dfa2d13596021da4dd5880265a1",
+      "hash": "d0de43f21120a4eb87e8ea5ed64a34111c0c9be465e0cc1abb3f9237020f4065",
       "created": "2026-10-18T22:28:29.718Z",
-      "modified": "2026-10-31T18:38:25.096Z",
-      "sequence": 3
+      "modified": "2026-10-31T23:28:14.373Z",
+      "sequence": 4
     },
     {
       "uid": "college-football-401858502@football-watchlist",
@@ -7560,19 +7560,19 @@
       "start": "2026-10-31T16:00:00.000Z",
       "end": "2026-10-31T19:30:00.000Z",
       "allDay": false,
-      "description": "Confirmed College GameDay or Big Noon featured matchup.\nNational pick: a ranked team in a potentially competitive game (market spread 4.5 points at selection). Upset possibility is an estimate.\n\nTeams: Wisconsin Badgers at Iowa Hawkeyes\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858502",
+      "description": "Confirmed College GameDay or Big Noon featured matchup.\nNational pick: a ranked team in a potentially competitive game (market spread 4.5 points at selection). Upset possibility is an estimate.\n\nTeams: Wisconsin Badgers at Iowa Hawkeyes\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858502/wisconsin-iowa",
       "location": "Kinnick Stadium, Iowa City, IA, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858502",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858502/wisconsin-iowa",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 4.5 points at selection). Upset possibility is an estimate.",
-      "hash": "79138372389f9d0448c6f3d5e9805d270b41927df33292e301ce18ce4d5c2f14",
+      "hash": "808b8e7490624a4f98e1ce3a80900d843efb0b938d2b7cb8f91fd1e6e893e304",
       "created": "2026-10-21T23:26:53.169Z",
-      "modified": "2026-10-31T18:38:25.096Z",
-      "sequence": 2
+      "modified": "2026-10-31T23:28:14.373Z",
+      "sequence": 3
     },
     {
       "uid": "soccer-401884754@football-watchlist",
@@ -7670,12 +7670,12 @@
         "High-profile club matchup."
       ],
       "soccerSelectedOn": "2026-10-26",
-      "title": "AC Milan vs Internazionale - Italian Serie A [provisional]",
+      "title": "AC Milan vs Internazionale - Italian Serie A",
       "start": "2026-10-31T19:45:00.000Z",
       "end": "2026-10-31T21:45:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Major rivalry: Milan derby.\nBoth clubs are in the current top 6: AC Milan #4, Internazionale #1.\nTop-four meeting with 4 points separating the teams.\nHigh-profile club matchup.\n\nSelection made 2026-10-26. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401874795",
+      "status": "CONFIRMED",
+      "description": "Major rivalry: Milan derby.\nBoth clubs are in the current top 6: AC Milan #4, Internazionale #1.\nTop-four meeting with 4 points separating the teams.\nHigh-profile club matchup.\n\nSelection made 2026-10-26. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401874795",
       "location": "San Siro",
       "url": "https://www.espn.com/soccer/match/_/gameId/401874795",
       "categories": [
@@ -7683,10 +7683,10 @@
         "European pick",
         "Italian Serie A"
       ],
-      "hash": "91234a8270ed86c587c2cecd372e45aef06fe276e18d888a381d0020176e5648",
+      "hash": "4edb15ec1a5d7d4c1626079e6612592c8d9e175ea20d8ea86206e1e0336a8be8",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-10-31T23:28:14.373Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026020222@football-watchlist",
@@ -28193,6 +28193,6 @@
     "events": 100
   },
   "warnings": [
-    "College GameDay: no unambiguous current announcement matched the game schedule; retaining verified announcements and TBA placeholders."
+    "College GameDay announcement refresh failed: The operation was aborted due to timeout. Retaining verified announcements; other sites remain TBA."
   ]
 }

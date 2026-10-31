@@ -80,6 +80,6 @@
     "events": 100
   },
   "warnings": [
-    "College GameDay: no unambiguous current announcement matched the game schedule; retaining verified announcements and TBA placeholders."
+    "College GameDay announcement refresh failed: The operation was aborted due to timeout. Retaining verified announcements; other sites remain TBA."
   ]
 }

@@ -5672,10 +5672,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856842@football-watchlist
-DTSTAMP:20261031T183825Z
+DTSTAMP:20261031T232814Z
 CREATED:20261018T222829Z
-LAST-MODIFIED:20261031T183825Z
-SEQUENCE:3
+LAST-MODIFIED:20261031T232814Z
+SEQUENCE:4
 DTSTART:20261031T160000Z
 DTEND:20261031T193000Z
 SUMMARY:CFB: Arizona at Texas Tech
@@ -5683,19 +5683,20 @@ DESCRIPTION:National pick: ranked matchup (#8 vs #25) at selection.\n\nTeam
  s: Arizona Wildcats at Texas Tech Red Raiders\n\nUS broadcast: ESPN. Avail
  ability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champi
  onships)\; finish is approximate.\n\nSchedule: https://www.espn.com/colleg
- e-football/game/_/gameId/401856842
+ e-football/game/_/gameId/401856842/arizona-texas-tech
 LOCATION:Galaxy Stadium\, Lubbock\, TX\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856842
+URL:https://www.espn.com/college-football/game/_/gameId/401856842/arizona-t
+ exas-tech
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858502@football-watchlist
-DTSTAMP:20261031T183825Z
+DTSTAMP:20261031T232814Z
 CREATED:20261021T232653Z
-LAST-MODIFIED:20261031T183825Z
-SEQUENCE:2
+LAST-MODIFIED:20261031T232814Z
+SEQUENCE:3
 DTSTART:20261031T160000Z
 DTEND:20261031T193000Z
 SUMMARY:CFB: Wisconsin at Iowa
@@ -5705,9 +5706,10 @@ DESCRIPTION:Confirmed College GameDay or Big Noon featured matchup.\nNation
  sin Badgers at Iowa Hawkeyes\n\nUS broadcast: Fox. Availability elsewhere 
  varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish 
  is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/
- gameId/401858502
+ gameId/401858502/wisconsin-iowa
 LOCATION:Kinnick Stadium\, Iowa City\, IA\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858502
+URL:https://www.espn.com/college-football/game/_/gameId/401858502/wisconsin
+ -iowa
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -5779,26 +5781,24 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401874795@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261031T232814Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
+LAST-MODIFIED:20261031T232814Z
+SEQUENCE:1
 DTSTART:20261031T194500Z
 DTEND:20261031T214500Z
-SUMMARY:AC Milan vs Internazionale - Italian Serie A [provisional]
+SUMMARY:AC Milan vs Internazionale - Italian Serie A
 DESCRIPTION:Major rivalry: Milan derby.\nBoth clubs are in the current top 
  6: AC Milan #4\, Internazionale #1.\nTop-four meeting with 4 points separa
  ting the teams.\nHigh-profile club matchup.\n\nSelection made 2026-10-26. 
  Table positions describe that snapshot\, not predicted results. Picks are 
- kept once added.\n\nProvisional source-listed date and kickoff. ESPN does 
- not reliably distinguish TV-confirmed dates from provisional fixtures\; bo
- th may change. The calendar updates when the schedule changes.\n\nViewing 
- window: 2 hours\; finish is approximate.\n\nSchedule: https://www.espn.com
- /soccer/match/_/gameId/401874795
+ kept once added.\n\nKickoff shown in your calendar’s local time.\n\nView
+ ing window: 2 hours\; finish is approximate.\n\nSchedule: https://www.espn
+ .com/soccer/match/_/gameId/401874795
 LOCATION:San Siro
 URL:https://www.espn.com/soccer/match/_/gameId/401874795
 CATEGORIES:Soccer,European pick,Italian Serie A
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
