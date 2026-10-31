@@ -7514,12 +7514,12 @@
         "Top-four meeting with 5 points separating the teams."
       ],
       "soccerSelectedOn": "2026-10-26",
-      "title": "Manchester City vs Brighton & Hove Albion - English Premier League [provisional]",
+      "title": "Manchester City vs Brighton & Hove Albion - English Premier League",
       "start": "2026-10-31T15:00:00.000Z",
       "end": "2026-10-31T17:00:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Both clubs are in the current top 6: Manchester City #1, Brighton & Hove Albion #3.\nTop-four meeting with 5 points separating the teams.\n\nSelection made 2026-10-26. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401879245",
+      "status": "CONFIRMED",
+      "description": "Both clubs are in the current top 6: Manchester City #1, Brighton & Hove Albion #3.\nTop-four meeting with 5 points separating the teams.\n\nSelection made 2026-10-26. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401879245",
       "location": "Etihad Stadium",
       "url": "https://www.espn.com/soccer/match/_/gameId/401879245",
       "categories": [
@@ -7527,10 +7527,10 @@
         "European pick",
         "English Premier League"
       ],
-      "hash": "ff36dd94cf2885d4946b29bf1eada1d309fde1bf70de0f35cfb29e397351f664",
+      "hash": "df122024ca7da2b2917878c7b85ae94f02259734598fb070fe9ede8f60b73c35",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-10-31T18:38:25.096Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401856842@football-watchlist",
@@ -7539,19 +7539,19 @@
       "start": "2026-10-31T16:00:00.000Z",
       "end": "2026-10-31T19:30:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#8 vs #25) at selection.\n\nTeams: Arizona Wildcats at Texas Tech Red Raiders\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856842/arizona-texas-tech",
+      "description": "National pick: ranked matchup (#8 vs #25) at selection.\n\nTeams: Arizona Wildcats at Texas Tech Red Raiders\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856842",
       "location": "Galaxy Stadium, Lubbock, TX, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856842/arizona-texas-tech",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856842",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#8 vs #25) at selection.",
-      "hash": "d0de43f21120a4eb87e8ea5ed64a34111c0c9be465e0cc1abb3f9237020f4065",
+      "hash": "99f58029cafcb8762b7966162143c64db64f0dfa2d13596021da4dd5880265a1",
       "created": "2026-10-18T22:28:29.718Z",
-      "modified": "2026-10-25T07:40:09.676Z",
-      "sequence": 2
+      "modified": "2026-10-31T18:38:25.096Z",
+      "sequence": 3
     },
     {
       "uid": "college-football-401858502@football-watchlist",
@@ -7560,19 +7560,19 @@
       "start": "2026-10-31T16:00:00.000Z",
       "end": "2026-10-31T19:30:00.000Z",
       "allDay": false,
-      "description": "Confirmed College GameDay or Big Noon featured matchup.\nNational pick: a ranked team in a potentially competitive game (market spread 4.5 points at selection). Upset possibility is an estimate.\n\nTeams: Wisconsin Badgers at Iowa Hawkeyes\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858502/wisconsin-iowa",
+      "description": "Confirmed College GameDay or Big Noon featured matchup.\nNational pick: a ranked team in a potentially competitive game (market spread 4.5 points at selection). Upset possibility is an estimate.\n\nTeams: Wisconsin Badgers at Iowa Hawkeyes\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858502",
       "location": "Kinnick Stadium, Iowa City, IA, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858502/wisconsin-iowa",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858502",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 4.5 points at selection). Upset possibility is an estimate.",
-      "hash": "808b8e7490624a4f98e1ce3a80900d843efb0b938d2b7cb8f91fd1e6e893e304",
+      "hash": "79138372389f9d0448c6f3d5e9805d270b41927df33292e301ce18ce4d5c2f14",
       "created": "2026-10-21T23:26:53.169Z",
-      "modified": "2026-10-26T23:56:29.378Z",
-      "sequence": 1
+      "modified": "2026-10-31T18:38:25.096Z",
+      "sequence": 2
     },
     {
       "uid": "soccer-401884754@football-watchlist",
@@ -7593,12 +7593,12 @@
         "High-profile club matchup."
       ],
       "soccerSelectedOn": "2026-10-26",
-      "title": "Bayern Munich vs Borussia Dortmund - German Bundesliga [provisional]",
+      "title": "Bayern Munich vs Borussia Dortmund - German Bundesliga",
       "start": "2026-10-31T17:30:00.000Z",
       "end": "2026-10-31T19:30:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Major rivalry: Bayern-Dortmund rivalry.\nBoth clubs are in the current top 6: Bayern Munich #1, Borussia Dortmund #2.\nTop-four meeting with 0 points separating the teams.\nHigh-profile club matchup.\n\nSelection made 2026-10-26. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884754",
+      "status": "CONFIRMED",
+      "description": "Major rivalry: Bayern-Dortmund rivalry.\nBoth clubs are in the current top 6: Bayern Munich #1, Borussia Dortmund #2.\nTop-four meeting with 0 points separating the teams.\nHigh-profile club matchup.\n\nSelection made 2026-10-26. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884754",
       "location": "Allianz Arena",
       "url": "https://www.espn.com/soccer/match/_/gameId/401884754",
       "categories": [
@@ -7606,10 +7606,10 @@
         "European pick",
         "German Bundesliga"
       ],
-      "hash": "3035f70d321930c46e9182e0a8e284f1e1325d8dcc97cbd6412fe16e160631ac",
+      "hash": "01f3b09124b170237b4ed53d8dbb78d937bbe98ca0446ef19223e74e4d1c4e6c",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-10-31T18:38:25.096Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401856734@football-watchlist",

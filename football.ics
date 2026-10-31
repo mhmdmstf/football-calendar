@@ -5651,34 +5651,31 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401879245@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261031T183825Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
+LAST-MODIFIED:20261031T183825Z
+SEQUENCE:1
 DTSTART:20261031T150000Z
 DTEND:20261031T170000Z
-SUMMARY:Manchester City vs Brighton & Hove Albion - English Premier League 
- [provisional]
+SUMMARY:Manchester City vs Brighton & Hove Albion - English Premier League
 DESCRIPTION:Both clubs are in the current top 6: Manchester City #1\, Brigh
  ton & Hove Albion #3.\nTop-four meeting with 5 points separating the teams
  .\n\nSelection made 2026-10-26. Table positions describe that snapshot\, n
- ot predicted results. Picks are kept once added.\n\nProvisional source-lis
- ted date and kickoff. ESPN does not reliably distinguish TV-confirmed date
- s from provisional fixtures\; both may change. The calendar updates when t
- he schedule changes.\n\nViewing window: 2 hours\; finish is approximate.\n
- \nSchedule: https://www.espn.com/soccer/match/_/gameId/401879245
+ ot predicted results. Picks are kept once added.\n\nKickoff shown in your 
+ calendar’s local time.\n\nViewing window: 2 hours\; finish is approximat
+ e.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401879245
 LOCATION:Etihad Stadium
 URL:https://www.espn.com/soccer/match/_/gameId/401879245
 CATEGORIES:Soccer,European pick,English Premier League
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856842@football-watchlist
-DTSTAMP:20261025T074009Z
+DTSTAMP:20261031T183825Z
 CREATED:20261018T222829Z
-LAST-MODIFIED:20261025T074009Z
-SEQUENCE:2
+LAST-MODIFIED:20261031T183825Z
+SEQUENCE:3
 DTSTART:20261031T160000Z
 DTEND:20261031T193000Z
 SUMMARY:CFB: Arizona at Texas Tech
@@ -5686,20 +5683,19 @@ DESCRIPTION:National pick: ranked matchup (#8 vs #25) at selection.\n\nTeam
  s: Arizona Wildcats at Texas Tech Red Raiders\n\nUS broadcast: ESPN. Avail
  ability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champi
  onships)\; finish is approximate.\n\nSchedule: https://www.espn.com/colleg
- e-football/game/_/gameId/401856842/arizona-texas-tech
+ e-football/game/_/gameId/401856842
 LOCATION:Galaxy Stadium\, Lubbock\, TX\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856842/arizona-t
- exas-tech
+URL:https://www.espn.com/college-football/game/_/gameId/401856842
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858502@football-watchlist
-DTSTAMP:20261026T235629Z
+DTSTAMP:20261031T183825Z
 CREATED:20261021T232653Z
-LAST-MODIFIED:20261026T235629Z
-SEQUENCE:1
+LAST-MODIFIED:20261031T183825Z
+SEQUENCE:2
 DTSTART:20261031T160000Z
 DTEND:20261031T193000Z
 SUMMARY:CFB: Wisconsin at Iowa
@@ -5709,37 +5705,33 @@ DESCRIPTION:Confirmed College GameDay or Big Noon featured matchup.\nNation
  sin Badgers at Iowa Hawkeyes\n\nUS broadcast: Fox. Availability elsewhere 
  varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish 
  is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/
- gameId/401858502/wisconsin-iowa
+ gameId/401858502
 LOCATION:Kinnick Stadium\, Iowa City\, IA\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858502/wisconsin
- -iowa
+URL:https://www.espn.com/college-football/game/_/gameId/401858502
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401884754@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261031T183825Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
+LAST-MODIFIED:20261031T183825Z
+SEQUENCE:1
 DTSTART:20261031T173000Z
 DTEND:20261031T193000Z
-SUMMARY:Bayern Munich vs Borussia Dortmund - German Bundesliga [provisional
- ]
+SUMMARY:Bayern Munich vs Borussia Dortmund - German Bundesliga
 DESCRIPTION:Major rivalry: Bayern-Dortmund rivalry.\nBoth clubs are in the 
  current top 6: Bayern Munich #1\, Borussia Dortmund #2.\nTop-four meeting 
  with 0 points separating the teams.\nHigh-profile club matchup.\n\nSelecti
  on made 2026-10-26. Table positions describe that snapshot\, not predicted
-  results. Picks are kept once added.\n\nProvisional source-listed date and
-  kickoff. ESPN does not reliably distinguish TV-confirmed dates from provi
- sional fixtures\; both may change. The calendar updates when the schedule 
- changes.\n\nViewing window: 2 hours\; finish is approximate.\n\nSchedule: 
- https://www.espn.com/soccer/match/_/gameId/401884754
+  results. Picks are kept once added.\n\nKickoff shown in your calendar’s
+  local time.\n\nViewing window: 2 hours\; finish is approximate.\n\nSchedu
+ le: https://www.espn.com/soccer/match/_/gameId/401884754
 LOCATION:Allianz Arena
 URL:https://www.espn.com/soccer/match/_/gameId/401884754
 CATEGORIES:Soccer,European pick,German Bundesliga
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
