@@ -1,11 +1,11 @@
 {
-  "checkedOn": "2026-10-30",
+  "checkedOn": "2026-10-31",
   "season": 2026,
-  "events": 967,
+  "events": 968,
   "nflGames": 285,
   "collegeGames": 950,
   "baseball": {
-    "checkedOn": "2026-10-30",
+    "checkedOn": "2026-10-31",
     "season": 2026,
     "scheduleGames": 996,
     "followedRegularSeasons": {
@@ -18,11 +18,11 @@
         "139": 162
       }
     },
-    "events": 416,
+    "events": 415,
     "playoffEvents": 40
   },
   "hockey": {
-    "checkedOn": "2026-10-30",
+    "checkedOn": "2026-10-31",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -39,7 +39,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-10-30",
+    "checkedOn": "2026-10-31",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
@@ -49,7 +49,7 @@
     "events": 38
   },
   "soccer": {
-    "checkedOn": "2026-10-30",
+    "checkedOn": "2026-10-31",
     "season": 2026,
     "window": {
       "start": "2026-10-26",

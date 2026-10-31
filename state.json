@@ -1,41 +1,7 @@
 {
-  "checkedOn": "2026-10-30",
+  "checkedOn": "2026-10-31",
   "season": 2026,
   "events": [
-    {
-      "uid": "mlb-822932@football-watchlist",
-      "gameId": "822932",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/121:45/139:45",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "121",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following New York Mets and Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: New York Mets at Tampa Bay Rays",
-      "start": "2026-08-31T22:40:00.000Z",
-      "end": "2026-09-01T01:40:00.000Z",
-      "allDay": false,
-      "description": "Following New York Mets and Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Robert Stock / Ian Seymour.\n\nListed broadcasts: SNY / Rays.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822932",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/822932",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets",
-        "Tampa Bay Rays"
-      ],
-      "hash": "71d77043f19b7ded860c72cdfde94b269a294b1a05b9193cf763029a88b5eaeb",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
     {
       "uid": "mlb-822929@football-watchlist",
       "gameId": "822929",
@@ -9519,6 +9485,48 @@
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-05T14:52:08.096Z",
       "sequence": 1
+    },
+    {
+      "uid": "college-football-401856751@football-watchlist",
+      "gameId": "401856751",
+      "title": "CFB: Kentucky at Missouri [time TBA]",
+      "start": "2026-11-21",
+      "end": "2026-11-22",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#9 vs #23) at selection.\n\nNIGHT: 6 - 8pm ET start\n\nTeams: Kentucky Wildcats at Missouri Tigers\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856751/kentucky-missouri",
+      "location": "Memorial Stadium, Columbia, MO, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856751/kentucky-missouri",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#9 vs #23) at selection.",
+      "hash": "55e32b5bb69ab3296ce6e5c0ae8833b7adfd2a25531fd6ad6c594dbcedb823db",
+      "created": "2026-10-31T08:32:39.093Z",
+      "modified": "2026-10-31T08:32:39.093Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856754@football-watchlist",
+      "gameId": "401856754",
+      "title": "CFB: LSU at Tennessee [time TBA]",
+      "start": "2026-11-21",
+      "end": "2026-11-22",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#15 vs #16) at selection.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: LSU Tigers at Tennessee Volunteers\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856754/lsu-tennessee",
+      "location": "Neyland Stadium, Knoxville, TN, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856754/lsu-tennessee",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#15 vs #16) at selection.",
+      "hash": "8d51cbf8280cec6d4cbbc059a8b038bf7bc8f1a7a703ea180b34590251e420fc",
+      "created": "2026-10-31T08:32:39.093Z",
+      "modified": "2026-10-31T08:32:39.093Z",
+      "sequence": 0
     },
     {
       "uid": "show-gameday-2026-11-21@football-watchlist",
@@ -28110,7 +28118,7 @@
   "nflGames": 285,
   "collegeGames": 950,
   "baseball": {
-    "checkedOn": "2026-10-30",
+    "checkedOn": "2026-10-31",
     "season": 2026,
     "scheduleGames": 996,
     "followedRegularSeasons": {
@@ -28123,11 +28131,11 @@
         "139": 162
       }
     },
-    "events": 416,
+    "events": 415,
     "playoffEvents": 40
   },
   "hockey": {
-    "checkedOn": "2026-10-30",
+    "checkedOn": "2026-10-31",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -28144,7 +28152,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-10-30",
+    "checkedOn": "2026-10-31",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
@@ -28154,7 +28162,7 @@
     "events": 38
   },
   "soccer": {
-    "checkedOn": "2026-10-30",
+    "checkedOn": "2026-10-31",
     "season": 2026,
     "window": {
       "start": "2026-10-26",

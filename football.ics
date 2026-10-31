@@ -8,26 +8,6 @@ X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:mlb-822932@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260831T224000Z
-DTEND:20260901T014000Z
-SUMMARY:MLB: New York Mets at Tampa Bay Rays
-DESCRIPTION:Following New York Mets and Tampa Bay Rays: every regular-seaso
- n game.\n\nViewing window: 3 hours\; finish is approximate.\n\nProbable pi
- tchers (subject to change): Robert Stock / Ian Seymour.\n\nListed broadcas
- ts: SNY / Rays.TV. Availability varies by country and provider.\n\nOfficia
- l schedule: https://www.mlb.com/gameday/822932
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/822932
-CATEGORIES:MLB,Followed team,New York Mets,Tampa Bay Rays
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-822929@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -7266,6 +7246,49 @@ URL:https://www.espn.com/nfl/game/_/gameId/401873066/colts-texans
 CATEGORIES:NFL
 STATUS:CONFIRMED
 TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856751@football-watchlist
+DTSTAMP:20261031T083239Z
+CREATED:20261031T083239Z
+LAST-MODIFIED:20261031T083239Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:CFB: Kentucky at Missouri [time TBA]
+DESCRIPTION:National pick: ranked matchup (#9 vs #23) at selection.\n\nNIGH
+ T: 6 - 8pm ET start\n\nTeams: Kentucky Wildcats at Missouri Tigers\n\nBroa
+ dcast to be announced.\n\nKickoff has not been announced. This all-day mar
+ ker will become a timed event when confirmed.\n\nSchedule: https://www.esp
+ n.com/college-football/game/_/gameId/401856751/kentucky-missouri
+LOCATION:Memorial Stadium\, Columbia\, MO\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856751/kentucky-
+ missouri
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856754@football-watchlist
+DTSTAMP:20261031T083239Z
+CREATED:20261031T083239Z
+LAST-MODIFIED:20261031T083239Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:CFB: LSU at Tennessee [time TBA]
+DESCRIPTION:National pick: ranked matchup (#15 vs #16) at selection.\n\nFLE
+ X: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: LSU Tigers at Tennessee Vol
+ unteers\n\nBroadcast to be announced.\n\nKickoff has not been announced. T
+ his all-day marker will become a timed event when confirmed.\n\nSchedule: 
+ https://www.espn.com/college-football/game/_/gameId/401856754/lsu-tennesse
+ e
+LOCATION:Neyland Stadium\, Knoxville\, TN\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856754/lsu-tenne
+ ssee
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:show-gameday-2026-11-21@football-watchlist
