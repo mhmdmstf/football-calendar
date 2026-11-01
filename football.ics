@@ -5868,45 +5868,42 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401875002@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261101T185930Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
+LAST-MODIFIED:20261101T185930Z
+SEQUENCE:1
 DTSTART:20261101T113000Z
 DTEND:20261101T133000Z
-SUMMARY:Como vs Venezia - Italian Serie A [provisional]
-DESCRIPTION:Following Como: every competitive fixture.\n\nProvisional sourc
- e-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed
-  dates from provisional fixtures\; both may change. The calendar updates w
- hen the schedule changes.\n\nViewing window: 2 hours\; finish is approxima
- te.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401875002
+SUMMARY:Como vs Venezia - Italian Serie A
+DESCRIPTION:Following Como: every competitive fixture.\n\nKickoff shown in 
+ your calendar’s local time.\n\nViewing window: 2 hours\; finish is appro
+ ximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401875002
 LOCATION:Giuseppe Sinigaglia
 URL:https://www.espn.com/soccer/match/_/gameId/401875002
 CATEGORIES:Soccer,Followed team,Italian Serie A
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401879246@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261101T185930Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
+LAST-MODIFIED:20261101T185930Z
+SEQUENCE:1
 DTSTART:20261101T163000Z
 DTEND:20261101T183000Z
-SUMMARY:Liverpool vs Arsenal - English Premier League [provisional]
+SUMMARY:Liverpool vs Arsenal - English Premier League
 DESCRIPTION:Both clubs are in the current top 6: Liverpool #4\, Arsenal #2.
  \nTop-four meeting with 6 points separating the teams.\nHigh-profile club 
  matchup.\n\nSelection made 2026-10-26. Table positions describe that snaps
- hot\, not predicted results. Picks are kept once added.\n\nProvisional sou
- rce-listed date and kickoff. ESPN does not reliably distinguish TV-confirm
- ed dates from provisional fixtures\; both may change. The calendar updates
-  when the schedule changes.\n\nViewing window: 2 hours\; finish is approxi
- mate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401879246
+ hot\, not predicted results. Picks are kept once added.\n\nKickoff shown i
+ n your calendar’s local time.\n\nViewing window: 2 hours\; finish is app
+ roximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/40187924
+ 6
 LOCATION:Anfield
 URL:https://www.espn.com/soccer/match/_/gameId/401879246
 CATEGORIES:Soccer,European pick,English Premier League
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -6229,27 +6226,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:college-football-401858513@football-watchlist
-DTSTAMP:20261017T070236Z
-CREATED:20261017T070236Z
-LAST-MODIFIED:20261017T070236Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-SUMMARY:CFB: Iowa at Northwestern [time TBA]
-DESCRIPTION:National pick: ranked matchup (#17 vs #25) at selection.\n\nTea
- ms: Iowa Hawkeyes at Northwestern Wildcats\n\nBroadcast to be announced.\n
- \nKickoff has not been announced. This all-day marker will become a timed 
- event when confirmed.\n\nSchedule: https://www.espn.com/college-football/g
- ame/_/gameId/401858513/iowa-northwestern
-LOCATION:Ryan Field\, Evanston\, IL\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858513/iowa-nort
- hwestern
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:nhl-2026020263@football-watchlist
 DTSTAMP:20261019T234748Z
 CREATED:20261001T073711Z
@@ -6499,6 +6475,27 @@ DESCRIPTION:National pick: ranked matchup (#2 vs #3) at selection.\n\nTeams
 LOCATION:Notre Dame Stadium\, Notre Dame\, IN\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401858291/miami-not
  re-dame
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858513@football-watchlist
+DTSTAMP:20261101T185930Z
+CREATED:20261017T070236Z
+LAST-MODIFIED:20261101T185930Z
+SEQUENCE:1
+DTSTART:20261108T003000Z
+DTEND:20261108T040000Z
+SUMMARY:CFB: Iowa at Northwestern
+DESCRIPTION:National pick: ranked matchup (#17 vs #25) at selection.\n\nTea
+ ms: Iowa Hawkeyes at Northwestern Wildcats\n\nUS broadcast: Fox. Availabil
+ ity elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championsh
+ ips)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-fo
+ otball/game/_/gameId/401858513/iowa-northwestern
+LOCATION:Ryan Field\, Evanston\, IL\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858513/iowa-nort
+ hwestern
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
