@@ -1,7 +1,7 @@
 {
   "checkedOn": "2026-11-01",
   "season": 2026,
-  "events": 968,
+  "events": 969,
   "nflGames": 285,
   "collegeGames": 950,
   "baseball": {
@@ -52,8 +52,8 @@
     "checkedOn": "2026-11-01",
     "season": 2026,
     "window": {
-      "start": "2026-10-26",
-      "end": "2026-11-09"
+      "start": "2026-11-02",
+      "end": "2026-11-16"
     },
     "sourceCounts": {
       "teams": {
@@ -69,11 +69,11 @@
         }
       },
       "leagues": {
-        "eng.1": 20,
-        "ita.1": 30,
-        "esp.1": 21,
-        "ger.1": 18,
-        "fra.1": 19,
+        "eng.1": 11,
+        "ita.1": 12,
+        "esp.1": 11,
+        "ger.1": 9,
+        "fra.1": 10,
         "uefa.champions": 18
       }
     },

@@ -1701,16 +1701,16 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-823494@football-watchlist
-DTSTAMP:20261101T092342Z
+DTSTAMP:20261101T234138Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261101T092342Z
-SEQUENCE:2
+LAST-MODIFIED:20261101T234138Z
+SEQUENCE:3
 DTSTART:20260922T230500Z
 DTEND:20260923T020500Z
 SUMMARY:MLB: Tampa Bay Rays at New York Yankees
 DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
   window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to
-  change): Drew Rasmussen / Max Fried.\n\nListed broadcasts: Rays.TV / YES 
+  change): Drew Rasmussen / Max Fried.\n\nListed broadcasts: YES / Rays.TV 
  / TBS (out-of-market only). Availability varies by country and provider.\n
  \nOfficial schedule: https://www.mlb.com/gameday/823494
 LOCATION:Yankee Stadium
@@ -7233,6 +7233,28 @@ DESCRIPTION:National pick: ranked matchup (#9 vs #23) at selection.\n\nNIGH
 LOCATION:Memorial Stadium\, Columbia\, MO\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856751/kentucky-
  missouri
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856753@football-watchlist
+DTSTAMP:20261101T234138Z
+CREATED:20261101T234138Z
+LAST-MODIFIED:20261101T234138Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:CFB: Georgia at South Carolina [time TBA]
+DESCRIPTION:National pick: ranked matchup (#2 vs #23) at selection.\n\nFLEX
+ : 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Georgia Bulldogs at South Ca
+ rolina Gamecocks\n\nBroadcast to be announced.\n\nKickoff has not been ann
+ ounced. This all-day marker will become a timed event when confirmed.\n\nS
+ chedule: https://www.espn.com/college-football/game/_/gameId/401856753/geo
+ rgia-south-carolina
+LOCATION:Williams-Brice Stadium\, Columbia\, SC\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856753/georgia-s
+ outh-carolina
 CATEGORIES:College,National pick
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT

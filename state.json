@@ -2291,7 +2291,7 @@
       "start": "2026-09-22T23:05:00.000Z",
       "end": "2026-09-23T02:05:00.000Z",
       "allDay": false,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Drew Rasmussen / Max Fried.\n\nListed broadcasts: Rays.TV / YES / TBS (out-of-market only). Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823494",
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Drew Rasmussen / Max Fried.\n\nListed broadcasts: YES / Rays.TV / TBS (out-of-market only). Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823494",
       "location": "Yankee Stadium",
       "url": "https://www.mlb.com/gameday/823494",
       "status": "CONFIRMED",
@@ -2300,10 +2300,10 @@
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "51be04c09dccc3bab5aec6cd0f38e768053ffda5091b6f214e48456893e94d6b",
+      "hash": "2623fd32f001a0c02f651f5d09b964e03d5b555e8cebb1ee0ce8ebb67807aa2e",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-11-01T09:23:42.690Z",
-      "sequence": 2
+      "modified": "2026-11-01T23:41:38.747Z",
+      "sequence": 3
     },
     {
       "uid": "mlb-822840@football-watchlist",
@@ -9471,6 +9471,27 @@
       "hash": "55e32b5bb69ab3296ce6e5c0ae8833b7adfd2a25531fd6ad6c594dbcedb823db",
       "created": "2026-10-31T08:32:39.093Z",
       "modified": "2026-10-31T08:32:39.093Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401856753@football-watchlist",
+      "gameId": "401856753",
+      "title": "CFB: Georgia at South Carolina [time TBA]",
+      "start": "2026-11-21",
+      "end": "2026-11-22",
+      "allDay": true,
+      "description": "National pick: ranked matchup (#2 vs #23) at selection.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Georgia Bulldogs at South Carolina Gamecocks\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856753/georgia-south-carolina",
+      "location": "Williams-Brice Stadium, Columbia, SC, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856753/georgia-south-carolina",
+      "status": "TENTATIVE",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#2 vs #23) at selection.",
+      "hash": "607597611cc686737d24321d25ac4cb44997bafc2bcb4e009ad37bc4e8bc3cbe",
+      "created": "2026-11-01T23:41:38.747Z",
+      "modified": "2026-11-01T23:41:38.747Z",
       "sequence": 0
     },
     {
@@ -28152,8 +28173,8 @@
     "checkedOn": "2026-11-01",
     "season": 2026,
     "window": {
-      "start": "2026-10-26",
-      "end": "2026-11-09"
+      "start": "2026-11-02",
+      "end": "2026-11-16"
     },
     "sourceCounts": {
       "teams": {
@@ -28169,11 +28190,11 @@
         }
       },
       "leagues": {
-        "eng.1": 20,
-        "ita.1": 30,
-        "esp.1": 21,
-        "ger.1": 18,
-        "fra.1": 19,
+        "eng.1": 11,
+        "ita.1": 12,
+        "esp.1": 11,
+        "ger.1": 9,
+        "fra.1": 10,
         "uefa.champions": 18
       }
     },
