@@ -8,26 +8,6 @@ X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:mlb-822929@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260901T224000Z
-DTEND:20260902T014000Z
-SUMMARY:MLB: New York Mets at Tampa Bay Rays
-DESCRIPTION:Following New York Mets and Tampa Bay Rays: every regular-seaso
- n game.\n\nViewing window: 3 hours\; finish is approximate.\n\nProbable pi
- tchers (subject to change): Sean Manaea / Freddy Peralta.\n\nListed broadc
- asts: SNY / Rays.TV. Availability varies by country and provider.\n\nOffic
- ial schedule: https://www.mlb.com/gameday/822929
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/822929
-CATEGORIES:MLB,Followed team,New York Mets,Tampa Bay Rays
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-822931@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -1721,16 +1701,16 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-823494@football-watchlist
-DTSTAMP:20261030T235405Z
+DTSTAMP:20261101T092342Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261030T235405Z
-SEQUENCE:1
+LAST-MODIFIED:20261101T092342Z
+SEQUENCE:2
 DTSTART:20260922T230500Z
 DTEND:20260923T020500Z
 SUMMARY:MLB: Tampa Bay Rays at New York Yankees
 DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
   window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to
-  change): Drew Rasmussen / Max Fried.\n\nListed broadcasts: YES / Rays.TV 
+  change): Drew Rasmussen / Max Fried.\n\nListed broadcasts: Rays.TV / YES 
  / TBS (out-of-market only). Availability varies by country and provider.\n
  \nOfficial schedule: https://www.mlb.com/gameday/823494
 LOCATION:Yankee Stadium
@@ -6400,18 +6380,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856743@football-watchlist
-DTSTAMP:20261026T235629Z
+DTSTAMP:20261101T092342Z
 CREATED:20261017T070236Z
-LAST-MODIFIED:20261026T235629Z
-SEQUENCE:1
+LAST-MODIFIED:20261101T092342Z
+SEQUENCE:2
 DTSTART:20261107T170000Z
 DTEND:20261107T203000Z
 SUMMARY:CFB: Texas at Missouri
 DESCRIPTION:National pick: ranked matchup (#7 vs #13) at selection.\n\nTeam
- s: Texas Longhorns at Missouri Tigers\n\nBroadcast to be announced.\n\nVie
- wing window: 3.5 hours (4 hours for championships)\; finish is approximate
- .\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/4018567
- 43/texas-missouri
+ s: Texas Longhorns at Missouri Tigers\n\nUS broadcast: ESPN. Availability 
+ elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)
+ \; finish is approximate.\n\nSchedule: https://www.espn.com/college-footba
+ ll/game/_/gameId/401856743/texas-missouri
 LOCATION:Memorial Stadium\, Columbia\, MO\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856743/texas-mis
  souri
@@ -6421,18 +6401,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856849@football-watchlist
-DTSTAMP:20261026T235629Z
+DTSTAMP:20261101T092342Z
 CREATED:20261017T070236Z
-LAST-MODIFIED:20261026T235629Z
-SEQUENCE:1
+LAST-MODIFIED:20261101T092342Z
+SEQUENCE:2
 DTSTART:20261107T170000Z
 DTEND:20261107T203000Z
 SUMMARY:CFB: BYU at Utah
 DESCRIPTION:National pick: ranked matchup (#8 vs #11) at selection.\n\nTeam
- s: BYU Cougars at Utah Utes\n\nBroadcast to be announced.\n\nViewing windo
- w: 3.5 hours (4 hours for championships)\; finish is approximate.\n\nSched
- ule: https://www.espn.com/college-football/game/_/gameId/401856849/byu-uta
- h
+ s: BYU Cougars at Utah Utes\n\nUS broadcast: ABC. Availability elsewhere v
+ aries.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish i
+ s approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/g
+ ameId/401856849/byu-utah
 LOCATION:Rice-Eccles Stadium\, Salt Lake City\, UT\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856849/byu-utah
 CATEGORIES:College,National pick
@@ -7421,6 +7401,27 @@ LOCATION:Stade Bollaert-Delelis
 URL:https://www.espn.com/soccer/match/_/gameId/401876403
 CATEGORIES:Soccer,Followed team,French Ligue 1
 STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858307@football-watchlist
+DTSTAMP:20261101T092342Z
+CREATED:20261101T092342Z
+LAST-MODIFIED:20261101T092342Z
+SEQUENCE:0
+DTSTART:20261122T003000Z
+DTEND:20261122T040000Z
+SUMMARY:CFB: SMU at Notre Dame
+DESCRIPTION:National pick: ranked matchup (#5 vs #19) at selection.\n\nTeam
+ s: SMU Mustangs at Notre Dame Fighting Irish\n\nUS broadcast: NBC. Availab
+ ility elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champion
+ ships)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-
+ football/game/_/gameId/401858307/smu-notre-dame
+LOCATION:Notre Dame Stadium\, Notre Dame\, IN\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858307/smu-notre
+ -dame
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT

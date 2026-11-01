@@ -1,41 +1,7 @@
 {
-  "checkedOn": "2026-10-31",
+  "checkedOn": "2026-11-01",
   "season": 2026,
   "events": [
-    {
-      "uid": "mlb-822929@football-watchlist",
-      "gameId": "822929",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/121:45/139:45",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "121",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following New York Mets and Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: New York Mets at Tampa Bay Rays",
-      "start": "2026-09-01T22:40:00.000Z",
-      "end": "2026-09-02T01:40:00.000Z",
-      "allDay": false,
-      "description": "Following New York Mets and Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Sean Manaea / Freddy Peralta.\n\nListed broadcasts: SNY / Rays.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822929",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/822929",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets",
-        "Tampa Bay Rays"
-      ],
-      "hash": "172ad7649c592fa2c3f36196f57e4a508bbdb254af67ad22ed1f649f23355996",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
     {
       "uid": "mlb-822931@football-watchlist",
       "gameId": "822931",
@@ -2325,7 +2291,7 @@
       "start": "2026-09-22T23:05:00.000Z",
       "end": "2026-09-23T02:05:00.000Z",
       "allDay": false,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Drew Rasmussen / Max Fried.\n\nListed broadcasts: YES / Rays.TV / TBS (out-of-market only). Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823494",
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Drew Rasmussen / Max Fried.\n\nListed broadcasts: Rays.TV / YES / TBS (out-of-market only). Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823494",
       "location": "Yankee Stadium",
       "url": "https://www.mlb.com/gameday/823494",
       "status": "CONFIRMED",
@@ -2334,10 +2300,10 @@
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "2623fd32f001a0c02f651f5d09b964e03d5b555e8cebb1ee0ce8ebb67807aa2e",
+      "hash": "51be04c09dccc3bab5aec6cd0f38e768053ffda5091b6f214e48456893e94d6b",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-30T23:54:05.315Z",
-      "sequence": 1
+      "modified": "2026-11-01T09:23:42.690Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-822840@football-watchlist",
@@ -8497,7 +8463,7 @@
       "start": "2026-11-07T17:00:00.000Z",
       "end": "2026-11-07T20:30:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#7 vs #13) at selection.\n\nTeams: Texas Longhorns at Missouri Tigers\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856743/texas-missouri",
+      "description": "National pick: ranked matchup (#7 vs #13) at selection.\n\nTeams: Texas Longhorns at Missouri Tigers\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856743/texas-missouri",
       "location": "Memorial Stadium, Columbia, MO, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856743/texas-missouri",
       "status": "CONFIRMED",
@@ -8506,10 +8472,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#7 vs #13) at selection.",
-      "hash": "3a639e3fb572104b21938e4b49614bf589c0d920f33472c3fe7e475482c0a721",
+      "hash": "de373b793b805a4a9b3f7d6213d712fbb822b3c363e44bf0f9ab1f44f4bce426",
       "created": "2026-10-17T07:02:36.015Z",
-      "modified": "2026-10-26T23:56:29.378Z",
-      "sequence": 1
+      "modified": "2026-11-01T09:23:42.690Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401856849@football-watchlist",
@@ -8518,7 +8484,7 @@
       "start": "2026-11-07T17:00:00.000Z",
       "end": "2026-11-07T20:30:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#8 vs #11) at selection.\n\nTeams: BYU Cougars at Utah Utes\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856849/byu-utah",
+      "description": "National pick: ranked matchup (#8 vs #11) at selection.\n\nTeams: BYU Cougars at Utah Utes\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856849/byu-utah",
       "location": "Rice-Eccles Stadium, Salt Lake City, UT, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856849/byu-utah",
       "status": "CONFIRMED",
@@ -8527,10 +8493,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#8 vs #11) at selection.",
-      "hash": "b5b558d8ba937a3d7b050c78249c24864ad9daec12f998ea73a3c5278100e099",
+      "hash": "c79e624150b328e47832389b1325e264807c7a88308666489603932fc9906637",
       "created": "2026-10-17T07:02:36.015Z",
-      "modified": "2026-10-26T23:56:29.378Z",
-      "sequence": 1
+      "modified": "2026-11-01T09:23:42.690Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401856740@football-watchlist",
@@ -9706,6 +9672,27 @@
       "hash": "c6cf11749940a8e420e2423935f80515f65c7d4b855ed35d1ade0fd988bfab5c",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
+      "sequence": 0
+    },
+    {
+      "uid": "college-football-401858307@football-watchlist",
+      "gameId": "401858307",
+      "title": "CFB: SMU at Notre Dame",
+      "start": "2026-11-22T00:30:00.000Z",
+      "end": "2026-11-22T04:00:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#5 vs #19) at selection.\n\nTeams: SMU Mustangs at Notre Dame Fighting Irish\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858307/smu-notre-dame",
+      "location": "Notre Dame Stadium, Notre Dame, IN, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858307/smu-notre-dame",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#5 vs #19) at selection.",
+      "hash": "7c4810a22807b504be769eea614a018d9f970531c58f4ad01825a6c55f503d63",
+      "created": "2026-11-01T09:23:42.690Z",
+      "modified": "2026-11-01T09:23:42.690Z",
       "sequence": 0
     },
     {
@@ -28118,7 +28105,7 @@
   "nflGames": 285,
   "collegeGames": 950,
   "baseball": {
-    "checkedOn": "2026-10-31",
+    "checkedOn": "2026-11-01",
     "season": 2026,
     "scheduleGames": 996,
     "followedRegularSeasons": {
@@ -28131,11 +28118,11 @@
         "139": 162
       }
     },
-    "events": 415,
+    "events": 414,
     "playoffEvents": 40
   },
   "hockey": {
-    "checkedOn": "2026-10-31",
+    "checkedOn": "2026-11-01",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -28152,7 +28139,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-10-31",
+    "checkedOn": "2026-11-01",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
@@ -28162,7 +28149,7 @@
     "events": 38
   },
   "soccer": {
-    "checkedOn": "2026-10-31",
+    "checkedOn": "2026-11-01",
     "season": 2026,
     "window": {
       "start": "2026-10-26",
@@ -28193,6 +28180,6 @@
     "events": 100
   },
   "warnings": [
-    "College GameDay announcement refresh failed: The operation was aborted due to timeout. Retaining verified announcements; other sites remain TBA."
+    "College GameDay: no unambiguous current announcement matched the game schedule; retaining verified announcements and TBA placeholders."
   ]
 }
