@@ -8450,7 +8450,7 @@
       "start": "2026-11-07T20:30:00.000Z",
       "end": "2026-11-08T00:00:00.000Z",
       "allDay": false,
-      "description": "Following Alabama: every game.\n\nTeams: Alabama Crimson Tide at LSU Tigers\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856740/alabama-lsu",
+      "description": "Following Alabama: every game.\n\nTeams: Alabama Crimson Tide at LSU Tigers\n\nUS broadcast: ABC / ERADM. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856740/alabama-lsu",
       "location": "Tiger Stadium (LA), Baton Rouge, LA, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856740/alabama-lsu",
       "status": "CONFIRMED",
@@ -8458,10 +8458,10 @@
         "College",
         "Alabama"
       ],
-      "hash": "114182102f51618bed138d05fc89e7a146fd061594ab0b07b5c4d13953f8839a",
+      "hash": "73828ea4652e1b263661bb569bec85c2af9eb3aeb7a696accf6686cdf054c77b",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-10-26T23:56:29.378Z",
-      "sequence": 1
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401856745@football-watchlist",
@@ -8491,7 +8491,7 @@
       "start": "2026-11-08T00:30:00.000Z",
       "end": "2026-11-08T04:00:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#1 vs #9) at selection.\n\nTeams: Georgia Bulldogs at Ole Miss Rebels\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856741/georgia-ole-miss",
+      "description": "National pick: ranked matchup (#1 vs #9) at selection.\n\nTeams: Georgia Bulldogs at Ole Miss Rebels\n\nUS broadcast: ABC / ERADM. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856741/georgia-ole-miss",
       "location": "Vaught-Hemingway Stadium, Oxford, MS, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856741/georgia-ole-miss",
       "status": "CONFIRMED",
@@ -8500,10 +8500,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#1 vs #9) at selection.",
-      "hash": "a1c28c780a0891ce74244555b1e3c20821662fe49da1a46c1574e0c446aa25bf",
+      "hash": "d13c54047a0fb7614c4e896927aec6e7025d9f59aede38d25521d53e7c5a77f5",
       "created": "2026-10-17T07:02:36.015Z",
-      "modified": "2026-10-26T23:56:29.378Z",
-      "sequence": 1
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401858291@football-watchlist",
@@ -9017,7 +9017,7 @@
       "start": "2026-11-14",
       "end": "2026-11-15",
       "allDay": true,
-      "description": "National pick: ranked matchup (#5 vs #22) at selection.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Missouri Tigers at Georgia Bulldogs\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856883/missouri-georgia",
+      "description": "National pick: ranked matchup (#5 vs #22) at selection.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Missouri Tigers at Georgia Bulldogs\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856883/missouri-georgia",
       "location": "Sanford Stadium, Athens, GA, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856883/missouri-georgia",
       "status": "TENTATIVE",
@@ -9026,10 +9026,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#5 vs #22) at selection.",
-      "hash": "a760028d780e49ec0ec992e714e907519c4ecd182d70a94c6690f0b7090ab00c",
+      "hash": "800e231264e3c69b1ccca5cac325ff1ab8361de418528993bb1629516cd554af",
       "created": "2026-10-24T07:24:39.719Z",
-      "modified": "2026-10-24T07:24:39.719Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401856884@football-watchlist",
@@ -9038,7 +9038,7 @@
       "start": "2026-11-14",
       "end": "2026-11-15",
       "allDay": true,
-      "description": "National pick: ranked matchup (#12 vs #20) at selection.\n\nNIGHT: 6 - 8pm ET start\n\nTeams: Florida Gators at Kentucky Wildcats\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856884/florida-kentucky",
+      "description": "National pick: ranked matchup (#12 vs #20) at selection.\n\nNIGHT: 6 - 8pm ET start\n\nTeams: Florida Gators at Kentucky Wildcats\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856884/florida-kentucky",
       "location": "Kroger Field, Lexington, KY, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856884/florida-kentucky",
       "status": "TENTATIVE",
@@ -9047,10 +9047,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#12 vs #20) at selection.",
-      "hash": "8fdd40e61426050ee32c377a633a7909671df7bee2ddbfba5b776717445fdda6",
+      "hash": "ef334aaab375334bd788ac04f4e5619a9f4097a54fd85806e233f71b07a9bb3a",
       "created": "2026-10-24T07:24:39.719Z",
-      "modified": "2026-10-24T07:24:39.719Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401856885@football-watchlist",
@@ -9059,7 +9059,7 @@
       "start": "2026-11-14",
       "end": "2026-11-15",
       "allDay": true,
-      "description": "National pick: ranked matchup (#18 vs #19) at selection.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Texas Longhorns at LSU Tigers\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856885/texas-lsu",
+      "description": "National pick: ranked matchup (#18 vs #19) at selection.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Texas Longhorns at LSU Tigers\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856885/texas-lsu",
       "location": "Tiger Stadium (LA), Baton Rouge, LA, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856885/texas-lsu",
       "status": "TENTATIVE",
@@ -9068,30 +9068,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#18 vs #19) at selection.",
-      "hash": "b57ef18618d90a46cdb19bd2ba8850d0802946acc232063d690e8ddeffbbe095",
+      "hash": "06ada202b9ee0a8a246b4b1c4e5191c3a060247b63c422b3f88e3fddb5d9e6fd",
       "created": "2026-10-24T07:24:39.719Z",
-      "modified": "2026-10-24T07:24:39.719Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401856889@football-watchlist",
-      "gameId": "401856889",
-      "title": "CFB: Alabama at Vanderbilt [time TBA]",
-      "start": "2026-11-14",
-      "end": "2026-11-15",
-      "allDay": true,
-      "description": "Following Alabama: every game.\n\nEARLY: Noon - 1pm ET start\n\nTeams: Alabama Crimson Tide at Vanderbilt Commodores\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856889/alabama-vanderbilt",
-      "location": "FirstBank Stadium, Nashville, TN, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856889/alabama-vanderbilt",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "Alabama"
-      ],
-      "hash": "33860a85f41b05b4269ecb13e05057dcf61689d0a2b5ebef20207955c04d97e6",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401858518@football-watchlist",
@@ -9172,6 +9152,26 @@
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-05T14:46:37.855Z",
       "sequence": 0
+    },
+    {
+      "uid": "college-football-401856889@football-watchlist",
+      "gameId": "401856889",
+      "title": "CFB: Alabama at Vanderbilt",
+      "start": "2026-11-14T17:45:00.000Z",
+      "end": "2026-11-14T21:15:00.000Z",
+      "allDay": false,
+      "description": "Following Alabama: every game.\n\nEARLY: Noon - 1pm ET start\n\nTeams: Alabama Crimson Tide at Vanderbilt Commodores\n\nUS broadcast: SEC Network. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856889/alabama-vanderbilt",
+      "location": "FirstBank Stadium, Nashville, TN, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856889/alabama-vanderbilt",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "Alabama"
+      ],
+      "hash": "8a57e3616d011bd3b0b46e89890e3f5337f0c4ea62d5a6dcec572ff889de88e4",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026020321@football-watchlist",
@@ -16811,23 +16811,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: San Francisco Giants at New York Mets [time TBA]",
-      "start": "2027-04-02",
-      "end": "2027-04-03",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853075",
+      "title": "MLB: San Francisco Giants at New York Mets",
+      "start": "2027-04-02T19:10:00.000Z",
+      "end": "2027-04-02T22:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853075",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853075",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "44583e42896b9b1b8915f7472ab15507c401d0c2433ac5bcd93723a176097690",
+      "hash": "c75062c127cf26b2f0cd12affec60d10ac9503f5eae64c8d9d29987d263d7a3f",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853158@football-watchlist",
@@ -16890,39 +16890,6 @@
       "hash": "bfabdcf4e8691ca99281365071697a41bfb8f60869cbbe00c0a2613912d7af19",
       "created": "2026-10-01T07:37:11.478Z",
       "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-853077@football-watchlist",
-      "gameId": "853077",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/137:3/121:3",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "137",
-        "121"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: San Francisco Giants at New York Mets [time TBA]",
-      "start": "2027-04-03",
-      "end": "2027-04-04",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853077",
-      "location": "Citi Field",
-      "url": "https://www.mlb.com/gameday/853077",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "052d43f77eda2bcdf6dfffbb6dd4239505eb9f3c9a336540e5bea852188e50d2",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
     },
     {
@@ -16990,6 +16957,39 @@
       "sequence": 1
     },
     {
+      "uid": "mlb-853077@football-watchlist",
+      "gameId": "853077",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/137:3/121:3",
+      "mlbSeriesGameNumber": 2,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "137",
+        "121"
+      ],
+      "selectionReasons": [
+        "Following New York Mets: every regular-season game."
+      ],
+      "title": "MLB: San Francisco Giants at New York Mets",
+      "start": "2027-04-03T23:10:00.000Z",
+      "end": "2027-04-04T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853077",
+      "location": "Citi Field",
+      "url": "https://www.mlb.com/gameday/853077",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "New York Mets"
+      ],
+      "hash": "b96281481b29baac8d1652324a6e3a5de942f85d569011aa0bd32046748a7f2b",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
+    },
+    {
       "uid": "mlb-853141@football-watchlist",
       "gameId": "853141",
       "mlbSeason": 2027,
@@ -17018,39 +17018,6 @@
         "Tampa Bay Rays"
       ],
       "hash": "e38764f39ca5f1229338563e6f17b1702df6e6fae0523afeb8ab2f54bd1cae80",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-853073@football-watchlist",
-      "gameId": "853073",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/137:3/121:3",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "137",
-        "121"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: San Francisco Giants at New York Mets [time TBA]",
-      "start": "2027-04-04",
-      "end": "2027-04-05",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853073",
-      "location": "Citi Field",
-      "url": "https://www.mlb.com/gameday/853073",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "046f8e659a8fc9be3ead7b154546476ab566c6ee88894c49804c1b3bb3afa66e",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
@@ -17120,6 +17087,39 @@
       "sequence": 0
     },
     {
+      "uid": "mlb-853073@football-watchlist",
+      "gameId": "853073",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/137:3/121:3",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "137",
+        "121"
+      ],
+      "selectionReasons": [
+        "Following New York Mets: every regular-season game."
+      ],
+      "title": "MLB: San Francisco Giants at New York Mets",
+      "start": "2027-04-04T17:40:00.000Z",
+      "end": "2027-04-04T20:40:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853073",
+      "location": "Citi Field",
+      "url": "https://www.mlb.com/gameday/853073",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "New York Mets"
+      ],
+      "hash": "402ca9574d80f0b858305f2370363ec08d3c6c2198317d371ef20566f1d7c9ab",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
+    },
+    {
       "uid": "mlb-853143@football-watchlist",
       "gameId": "853143",
       "mlbSeason": 2027,
@@ -17148,39 +17148,6 @@
         "Tampa Bay Rays"
       ],
       "hash": "9193e266b4e7ca254169ccd81e1f93c28c7b662136289198cadb51b342d6e122",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-853068@football-watchlist",
-      "gameId": "853068",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/113:4/121:4",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "113",
-        "121"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: Cincinnati Reds at New York Mets [time TBA]",
-      "start": "2027-04-05",
-      "end": "2027-04-06",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853068",
-      "location": "Citi Field",
-      "url": "https://www.mlb.com/gameday/853068",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "3425f059ca062190b8b7759738072d899539853101bab9fc9391e6021e8a9f89",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
@@ -17279,6 +17246,39 @@
       "sequence": 0
     },
     {
+      "uid": "mlb-853068@football-watchlist",
+      "gameId": "853068",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/113:4/121:4",
+      "mlbSeriesGameNumber": 1,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "113",
+        "121"
+      ],
+      "selectionReasons": [
+        "Following New York Mets: every regular-season game."
+      ],
+      "title": "MLB: Cincinnati Reds at New York Mets",
+      "start": "2027-04-05T23:10:00.000Z",
+      "end": "2027-04-06T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853068",
+      "location": "Citi Field",
+      "url": "https://www.mlb.com/gameday/853068",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "New York Mets"
+      ],
+      "hash": "a81654cbbde2144eeccd0768f895b9b12a10572e0cbe1334a2f83833891b24a0",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
+    },
+    {
       "uid": "mlb-852327@football-watchlist",
       "gameId": "852327",
       "mlbSeason": 2027,
@@ -17326,23 +17326,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Cincinnati Reds at New York Mets [time TBA]",
-      "start": "2027-04-06",
-      "end": "2027-04-07",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853066",
+      "title": "MLB: Cincinnati Reds at New York Mets",
+      "start": "2027-04-06T23:10:00.000Z",
+      "end": "2027-04-07T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853066",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853066",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "7ee8b5d3bfd2dd7c139944f278fc1271c17574ca94ed8e5489a73bf9ea890eb5",
+      "hash": "f026589f5763b6de2ba6abb1bf9fbb758a47f8b3689bcf2aa884eee320039ab5",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852326@football-watchlist",
@@ -17967,23 +17967,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Los Angeles Angels at New York Mets [time TBA]",
-      "start": "2027-04-13",
-      "end": "2027-04-14",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853063",
+      "title": "MLB: Los Angeles Angels at New York Mets",
+      "start": "2027-04-13T23:10:00.000Z",
+      "end": "2027-04-14T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853063",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853063",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "5663b4af8fb1c52b3d61a8ec85b561887917cb676919f7b987e1f7bece4f15b7",
+      "hash": "a249ce871c6c6a1e72e9593d7731c6c3b5c3ca8354622a663954266d655b0ea0",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852412@football-watchlist",
@@ -18033,23 +18033,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Los Angeles Angels at New York Mets [time TBA]",
-      "start": "2027-04-14",
-      "end": "2027-04-15",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853057",
+      "title": "MLB: Los Angeles Angels at New York Mets",
+      "start": "2027-04-14T23:10:00.000Z",
+      "end": "2027-04-15T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853057",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853057",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "c1f4b2a1bddea4a37127ba6a3d409982077efc309de98bfb68339afcb6a4e943",
+      "hash": "326fa05ceb04a4d8f277b23c649da87d64840964ca329bd282c4abb2b9a100d5",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852397@football-watchlist",
@@ -18099,23 +18099,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Los Angeles Angels at New York Mets [time TBA]",
-      "start": "2027-04-15",
-      "end": "2027-04-16",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853056",
+      "title": "MLB: Los Angeles Angels at New York Mets",
+      "start": "2027-04-15T17:10:00.000Z",
+      "end": "2027-04-15T20:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853056",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853056",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "2e9692200076209a4d9e3b549b6be37c0ce1c487c17d20d22a0d7f1496ad38cc",
+      "hash": "75c6fdfd45c55c1555c50252182bf32da4892b5cd4c429dbb868edda6d83d4ab",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853550@football-watchlist",
@@ -18653,23 +18653,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Texas Rangers at New York Mets [time TBA]",
-      "start": "2027-04-23",
-      "end": "2027-04-24",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853058",
+      "title": "MLB: Texas Rangers at New York Mets",
+      "start": "2027-04-23T23:10:00.000Z",
+      "end": "2027-04-24T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853058",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853058",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "3acf060db17cd451fa94cfc83e9f3a05e8eeff1278f314e5d4b0cc9a0a1bb33d",
+      "hash": "aa4fdfa86dfe10149813704171f5f11c45595b52e7ae060982e32824ee7a84b7",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "chelsea-2645518@football-watchlist",
@@ -18729,39 +18729,6 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-853060@football-watchlist",
-      "gameId": "853060",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/140:9/121:9",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "140",
-        "121"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: Texas Rangers at New York Mets [time TBA]",
-      "start": "2027-04-24",
-      "end": "2027-04-25",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853060",
-      "location": "Citi Field",
-      "url": "https://www.mlb.com/gameday/853060",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "fac0eebfdebcda66394602fefa0cf85d2eb9fcce98fba63b3f4baf43d48551aa",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "soccer-401876235@football-watchlist",
       "gameId": "401876235",
       "soccerSeason": 2026,
@@ -18796,6 +18763,39 @@
       "sequence": 0
     },
     {
+      "uid": "mlb-853060@football-watchlist",
+      "gameId": "853060",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/140:9/121:9",
+      "mlbSeriesGameNumber": 2,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "140",
+        "121"
+      ],
+      "selectionReasons": [
+        "Following New York Mets: every regular-season game."
+      ],
+      "title": "MLB: Texas Rangers at New York Mets",
+      "start": "2027-04-24T20:10:00.000Z",
+      "end": "2027-04-24T23:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853060",
+      "location": "Citi Field",
+      "url": "https://www.mlb.com/gameday/853060",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "New York Mets"
+      ],
+      "hash": "d2008e46e0f48fbbb5cfa3f8e727cb6b2ed2d62e600bbb18dac6a1a47f7b379b",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
+    },
+    {
       "uid": "mlb-852402@football-watchlist",
       "gameId": "852402",
       "mlbSeason": 2027,
@@ -18824,39 +18824,6 @@
         "Tampa Bay Rays"
       ],
       "hash": "36c904b0cb26b1a9fa0e1ffe7cc010b50746d48e26d76a3a65cdb17bd58d8e65",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-853061@football-watchlist",
-      "gameId": "853061",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/140:9/121:9",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "140",
-        "121"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: Texas Rangers at New York Mets [time TBA]",
-      "start": "2027-04-25",
-      "end": "2027-04-26",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853061",
-      "location": "Citi Field",
-      "url": "https://www.mlb.com/gameday/853061",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "159bdd0857e41b7488b5beeb521539d6a3e91e9747111ff7c4c9280fa49f7bf0",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
@@ -18896,6 +18863,39 @@
       "sequence": 0
     },
     {
+      "uid": "mlb-853061@football-watchlist",
+      "gameId": "853061",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/140:9/121:9",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "140",
+        "121"
+      ],
+      "selectionReasons": [
+        "Following New York Mets: every regular-season game."
+      ],
+      "title": "MLB: Texas Rangers at New York Mets",
+      "start": "2027-04-25T17:40:00.000Z",
+      "end": "2027-04-25T20:40:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853061",
+      "location": "Citi Field",
+      "url": "https://www.mlb.com/gameday/853061",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "New York Mets"
+      ],
+      "hash": "6dc2c92f7ac8b85ecf9b11061c8c8f37e261531a533fddada9c3ea2951679ce0",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
+    },
+    {
       "uid": "mlb-853065@football-watchlist",
       "gameId": "853065",
       "mlbSeason": 2027,
@@ -18910,23 +18910,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Toronto Blue Jays at New York Mets [time TBA]",
-      "start": "2027-04-26",
-      "end": "2027-04-27",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853065",
+      "title": "MLB: Toronto Blue Jays at New York Mets",
+      "start": "2027-04-26T23:10:00.000Z",
+      "end": "2027-04-27T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853065",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853065",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "84585d2122bf6996c31fae67edaa27e269d8af6dc4094d02302b50382018b676",
+      "hash": "69d5f0f7c8d1575bae5c6c56bc1b8e6a3dd9875b85c34a6e6f328041f546e40b",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852406@football-watchlist",
@@ -18976,23 +18976,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Toronto Blue Jays at New York Mets [time TBA]",
-      "start": "2027-04-27",
-      "end": "2027-04-28",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853064",
+      "title": "MLB: Toronto Blue Jays at New York Mets",
+      "start": "2027-04-27T23:10:00.000Z",
+      "end": "2027-04-28T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853064",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853064",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "7f02b3d0147186e949d10befd8abddc5b402b90e0c009126838f5b264b5a3e0e",
+      "hash": "148c8aa15ae3a475be2d3d82a0d4b3554b64b1ea2844aac363dd53c2fe62aae6",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852411@football-watchlist",
@@ -19042,23 +19042,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Toronto Blue Jays at New York Mets [time TBA]",
-      "start": "2027-04-28",
-      "end": "2027-04-29",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853055",
+      "title": "MLB: Toronto Blue Jays at New York Mets",
+      "start": "2027-04-28T17:10:00.000Z",
+      "end": "2027-04-28T20:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853055",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853055",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "62f45d87ae4b0ebed772d33056df4bbcce3a923f6ef5a1b84755025ca3853b01",
+      "hash": "b80a0652e66a876e2c7726c42c06f583f0f81f8fec6f12b3642d577a508d8ea2",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852410@football-watchlist",
@@ -19662,24 +19662,24 @@
       "selectionReasons": [
         "Following Tampa Bay Rays and New York Mets: every regular-season game."
       ],
-      "title": "MLB: Tampa Bay Rays at New York Mets [time TBA]",
-      "start": "2027-05-07",
-      "end": "2027-05-08",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays and New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853054",
+      "title": "MLB: Tampa Bay Rays at New York Mets",
+      "start": "2027-05-07T23:10:00.000Z",
+      "end": "2027-05-08T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays and New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853054",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853054",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays",
         "New York Mets"
       ],
-      "hash": "ee6aa7beb46652e5782b68a38e7ea7ba87ea602846dd60268ca381e446f0cf1e",
+      "hash": "513947c3c8b5a4eea6bfe0757bc60729b8fe26bbad7199dc380b5768545602ae",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "chelsea-2645544@football-watchlist",
@@ -19704,40 +19704,6 @@
       "created": "2026-10-03T13:22:58.480Z",
       "modified": "2026-10-03T13:23:45.745Z",
       "sequence": 1
-    },
-    {
-      "uid": "mlb-853059@football-watchlist",
-      "gameId": "853059",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/139:13/121:13",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "121"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays and New York Mets: every regular-season game."
-      ],
-      "title": "MLB: Tampa Bay Rays at New York Mets [time TBA]",
-      "start": "2027-05-08",
-      "end": "2027-05-09",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays and New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853059",
-      "location": "Citi Field",
-      "url": "https://www.mlb.com/gameday/853059",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays",
-        "New York Mets"
-      ],
-      "hash": "6aaa881fce7b74e6306155b40041ee1f8c86c892ae71eba06c3d9da4d783d630",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
     },
     {
       "uid": "soccer-401876220@football-watchlist",
@@ -19774,12 +19740,12 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-853043@football-watchlist",
-      "gameId": "853043",
+      "uid": "mlb-853059@football-watchlist",
+      "gameId": "853059",
       "mlbSeason": 2027,
       "mlbGameType": "R",
       "mlbSeriesKey": "2027/R/139:13/121:13",
-      "mlbSeriesGameNumber": 3,
+      "mlbSeriesGameNumber": 2,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "139",
@@ -19788,24 +19754,24 @@
       "selectionReasons": [
         "Following Tampa Bay Rays and New York Mets: every regular-season game."
       ],
-      "title": "MLB: Tampa Bay Rays at New York Mets [time TBA]",
-      "start": "2027-05-09",
-      "end": "2027-05-10",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays and New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853043",
+      "title": "MLB: Tampa Bay Rays at New York Mets",
+      "start": "2027-05-08T20:10:00.000Z",
+      "end": "2027-05-08T23:10:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays and New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853059",
       "location": "Citi Field",
-      "url": "https://www.mlb.com/gameday/853043",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/853059",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays",
         "New York Mets"
       ],
-      "hash": "7f2ad10fe30688d295be6d6d427861c3c8dac9871dfbff7da83b8e9334c9cdd4",
+      "hash": "d2c9d4de5f230e87f72f2bfe46777e49da99680a3f5fb37eb96bf06c3439e9f6",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "soccer-401875138@football-watchlist",
@@ -19840,6 +19806,40 @@
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
+    },
+    {
+      "uid": "mlb-853043@football-watchlist",
+      "gameId": "853043",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/139:13/121:13",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "139",
+        "121"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays and New York Mets: every regular-season game."
+      ],
+      "title": "MLB: Tampa Bay Rays at New York Mets",
+      "start": "2027-05-09T17:40:00.000Z",
+      "end": "2027-05-09T20:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays and New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853043",
+      "location": "Citi Field",
+      "url": "https://www.mlb.com/gameday/853043",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays",
+        "New York Mets"
+      ],
+      "hash": "ccd8eaf1a6c42bcf6e4bd6fa26aa61c2e519ca8e32da70eeb605ab2b2cede3b8",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852400@football-watchlist",
@@ -19889,23 +19889,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Philadelphia Phillies at New York Mets [time TBA]",
-      "start": "2027-05-11",
-      "end": "2027-05-12",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853045",
+      "title": "MLB: Philadelphia Phillies at New York Mets",
+      "start": "2027-05-11T23:10:00.000Z",
+      "end": "2027-05-12T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853045",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853045",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "e294e87226afcae1c7e53c7f41d8181571809c9da24496c94443ce71b642c6f6",
+      "hash": "fe4502709a061962a745933a5698c7f56b566911888cbf47d8bb89b45781e163",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852404@football-watchlist",
@@ -19955,23 +19955,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Philadelphia Phillies at New York Mets [time TBA]",
-      "start": "2027-05-12",
-      "end": "2027-05-13",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853040",
+      "title": "MLB: Philadelphia Phillies at New York Mets",
+      "start": "2027-05-12T23:10:00.000Z",
+      "end": "2027-05-13T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853040",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853040",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "566f8e24319f54c251a1d62c4d6b7d454ddfbf3cd2530f80dace577e795912cd",
+      "hash": "537f30a9471c53dcb8d757f936d1ca6cb03cb0d98d3672f4ae4e1c55290379ad",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852408@football-watchlist",
@@ -20021,23 +20021,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Philadelphia Phillies at New York Mets [time TBA]",
-      "start": "2027-05-13",
-      "end": "2027-05-14",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853041",
+      "title": "MLB: Philadelphia Phillies at New York Mets",
+      "start": "2027-05-13T17:10:00.000Z",
+      "end": "2027-05-13T20:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853041",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853041",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "55b4ded04818da319e3cad257293045553fcaed6fd262d23e442ecc03101739b",
+      "hash": "f5de088dbf0ce953e2fa8bdf40ba4d30157d80db3f2dce63bb26d77ac6480d0c",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852401@football-watchlist",
@@ -20835,23 +20835,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Atlanta Braves at New York Mets [time TBA]",
-      "start": "2027-05-24",
-      "end": "2027-05-25",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853042",
+      "title": "MLB: Atlanta Braves at New York Mets",
+      "start": "2027-05-24T23:10:00.000Z",
+      "end": "2027-05-25T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853042",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853042",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "47d25c18d7c4d350f2aa956ecf7f9c13117ab23c02712486ccb57d05d40407eb",
+      "hash": "b6421cb52ddd399b523540cfbe63ae8bf1cfc1baffb48dbf3c5772ccb2f053c7",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852409@football-watchlist",
@@ -20901,23 +20901,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Atlanta Braves at New York Mets [time TBA]",
-      "start": "2027-05-25",
-      "end": "2027-05-26",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853044",
+      "title": "MLB: Atlanta Braves at New York Mets",
+      "start": "2027-05-25T23:10:00.000Z",
+      "end": "2027-05-26T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853044",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853044",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "fdbc3f131854cda3f0ee6e189626e002e5adb44b111353c9286f33b3eb236738",
+      "hash": "699618bb86cba88ff546bea1b37c766d898400dce8ea31c75b1b95d976e12e66",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852407@football-watchlist",
@@ -20967,23 +20967,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Atlanta Braves at New York Mets [time TBA]",
-      "start": "2027-05-26",
-      "end": "2027-05-27",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853050",
+      "title": "MLB: Atlanta Braves at New York Mets",
+      "start": "2027-05-26T16:10:00.000Z",
+      "end": "2027-05-26T19:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853050",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853050",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "16091c2f36674d1198979b4c196e9f49c87d4588a797065a150d3022cd4e228d",
+      "hash": "17c7b301c66f7e7d510f9ad2d159e8bcdec5c181b73f20ba2b5af6147ea9eaa1",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852391@football-watchlist",
@@ -21067,23 +21067,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: New York Yankees at New York Mets [time TBA]",
-      "start": "2027-05-28",
-      "end": "2027-05-29",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853051",
+      "title": "MLB: New York Yankees at New York Mets",
+      "start": "2027-05-28T23:10:00.000Z",
+      "end": "2027-05-29T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853051",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853051",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "467efffa8356f92a02e8cd4a66ba938f294ea80ccc64abb73eb7a838f21e9685",
+      "hash": "5060215b4f49dd72eaf7567d05965e5f8f411931a404245a1946b5df3f2c5781",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852388@football-watchlist",
@@ -21115,39 +21115,6 @@
         "Tampa Bay Rays"
       ],
       "hash": "ed99c01546331fd5b4c6a65aa01f8b13ead3ee2f63343b25f60ab402f53bd680",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-853053@football-watchlist",
-      "gameId": "853053",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/147:19/121:19",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "147",
-        "121"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: New York Yankees at New York Mets [time TBA]",
-      "start": "2027-05-29",
-      "end": "2027-05-30",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853053",
-      "location": "Citi Field",
-      "url": "https://www.mlb.com/gameday/853053",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "e81136c5fec70ef41db87b45c54e1baecda53301ec3a5328ddd5edee846c99bf",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
@@ -21185,6 +21152,39 @@
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
+    },
+    {
+      "uid": "mlb-853053@football-watchlist",
+      "gameId": "853053",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/147:19/121:19",
+      "mlbSeriesGameNumber": 2,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "147",
+        "121"
+      ],
+      "selectionReasons": [
+        "Following New York Mets: every regular-season game."
+      ],
+      "title": "MLB: New York Yankees at New York Mets",
+      "start": "2027-05-29T20:10:00.000Z",
+      "end": "2027-05-29T23:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853053",
+      "location": "Citi Field",
+      "url": "https://www.mlb.com/gameday/853053",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "New York Mets"
+      ],
+      "hash": "6f4515de314f44ceb5a46861151b25d7b6456b4ee56516158d6b92bffd45f705",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "chelsea-2645567@football-watchlist",
@@ -21245,39 +21245,6 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-853052@football-watchlist",
-      "gameId": "853052",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/147:19/121:19",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "147",
-        "121"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: New York Yankees at New York Mets [time TBA]",
-      "start": "2027-05-30",
-      "end": "2027-05-31",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853052",
-      "location": "Citi Field",
-      "url": "https://www.mlb.com/gameday/853052",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "a2084bb95522bfc3e13cf952326e01ef47e5cc5b20db57a5b0ddc006de81a5c5",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "soccer-401875084@football-watchlist",
       "gameId": "401875084",
       "soccerSeason": 2026,
@@ -21310,6 +21277,39 @@
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
+    },
+    {
+      "uid": "mlb-853052@football-watchlist",
+      "gameId": "853052",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/147:19/121:19",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "147",
+        "121"
+      ],
+      "selectionReasons": [
+        "Following New York Mets: every regular-season game."
+      ],
+      "title": "MLB: New York Yankees at New York Mets",
+      "start": "2027-05-30T17:40:00.000Z",
+      "end": "2027-05-30T20:40:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853052",
+      "location": "Citi Field",
+      "url": "https://www.mlb.com/gameday/853052",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "New York Mets"
+      ],
+      "hash": "6a0b964c235878f2a974736da2f8318939c31ef0e5645faafb5fd6ba595999a3",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-854020@football-watchlist",
@@ -21524,23 +21524,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Miami Marlins at New York Mets [time TBA]",
-      "start": "2027-06-03",
-      "end": "2027-06-04",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853048",
+      "title": "MLB: Miami Marlins at New York Mets",
+      "start": "2027-06-03T23:10:00.000Z",
+      "end": "2027-06-04T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853048",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853048",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "afa42db364a29fb1afdb0cd7a35bff9e1c587fab85ad05e80932315c173a74f2",
+      "hash": "d943f601f796a7d2c61f55f21353fbd5a98bd8332136dd5a543e1d6828dd9374",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852396@football-watchlist",
@@ -21590,23 +21590,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Miami Marlins at New York Mets [time TBA]",
-      "start": "2027-06-04",
-      "end": "2027-06-05",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853046",
+      "title": "MLB: Miami Marlins at New York Mets",
+      "start": "2027-06-04T23:10:00.000Z",
+      "end": "2027-06-05T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853046",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853046",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "52a4e7d3b81383e654671a9114622ed615bc99b1d2cdd2a21e9a6a27d020a02b",
+      "hash": "f2fc7bfeb03b4ed10462c83215686cb5d60e80c15c306ac457d477c3d1776080",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852392@football-watchlist",
@@ -21656,23 +21656,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Miami Marlins at New York Mets [time TBA]",
-      "start": "2027-06-05",
-      "end": "2027-06-06",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853047",
+      "title": "MLB: Miami Marlins at New York Mets",
+      "start": "2027-06-05T20:10:00.000Z",
+      "end": "2027-06-05T23:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853047",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853047",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "81ae009538e17cf423ce70f9d16321fc8555758a5e1d997a3709a7a30d0f9453",
+      "hash": "392439b21d61fd982181252ac6e02a0ae51426f42b9e83c779bec3b356d39cdc",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852390@football-watchlist",
@@ -21722,23 +21722,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Miami Marlins at New York Mets [time TBA]",
-      "start": "2027-06-06",
-      "end": "2027-06-07",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853049",
+      "title": "MLB: Miami Marlins at New York Mets",
+      "start": "2027-06-06T17:40:00.000Z",
+      "end": "2027-06-06T20:40:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853049",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853049",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "6017e160f7a4dbc62c2da46702d915c4626176ee6d638488d6dd59f1acdc6bda",
+      "hash": "e657bad2365d2bfb9afe83294d0ca94ace5ed43e9a51ac67f12b69e4b3316b9f",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853523@football-watchlist",
@@ -22217,24 +22217,24 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: San Diego Padres at New York Mets [time TBA]",
-      "start": "2027-06-15",
-      "end": "2027-06-16",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853033",
+      "title": "MLB: San Diego Padres at New York Mets",
+      "start": "2027-06-15T23:10:00.000Z",
+      "end": "2027-06-16T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853033",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853033",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "San Diego Padres",
         "New York Mets"
       ],
-      "hash": "72dca3323da584ee591d9a3003e87371a3631b6f61342f3aa56efe545b589d0b",
+      "hash": "e05c6da04e47bb685e304ce7c98b8f2b5040d1183248039d4ba3fd938a3f37e7",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852385@football-watchlist",
@@ -22284,24 +22284,24 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: San Diego Padres at New York Mets [time TBA]",
-      "start": "2027-06-16",
-      "end": "2027-06-17",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853029",
+      "title": "MLB: San Diego Padres at New York Mets",
+      "start": "2027-06-16T23:10:00.000Z",
+      "end": "2027-06-17T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853029",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853029",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "San Diego Padres",
         "New York Mets"
       ],
-      "hash": "09a595d24bd898f0c8465b359de66b1d39ea877cd5fe2e25d36fa9f85a4a0615",
+      "hash": "a5b1c341c27406176abdb17557b0ed28b4e3709c93c11911e268e2846ec573a3",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852387@football-watchlist",
@@ -22351,24 +22351,24 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: San Diego Padres at New York Mets [time TBA]",
-      "start": "2027-06-17",
-      "end": "2027-06-18",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853026",
+      "title": "MLB: San Diego Padres at New York Mets",
+      "start": "2027-06-17T17:10:00.000Z",
+      "end": "2027-06-17T20:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853026",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853026",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "San Diego Padres",
         "New York Mets"
       ],
-      "hash": "58a6f6a6c8b99016a91948f7c7018e59a91fd886cc3e6e13f9d4c3266028e51d",
+      "hash": "470c418037a3e3ed392bf1438bc1672ce985678d3676a616ac90db6956a7839d",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852389@football-watchlist",
@@ -22418,23 +22418,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Washington Nationals at New York Mets [time TBA]",
-      "start": "2027-06-18",
-      "end": "2027-06-19",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853038",
+      "title": "MLB: Washington Nationals at New York Mets",
+      "start": "2027-06-18T23:10:00.000Z",
+      "end": "2027-06-19T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853038",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853038",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "41391bf2bd7ffc9730c9868c61b841554a1db21a910254708b507f2ebd1c31ad",
+      "hash": "286e9d152a0b1201b70929d3b8b88b75facae5e37e45f49c9491cc63c6b2797f",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852383@football-watchlist",
@@ -22484,23 +22484,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Washington Nationals at New York Mets [time TBA]",
-      "start": "2027-06-19",
-      "end": "2027-06-20",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853027",
+      "title": "MLB: Washington Nationals at New York Mets",
+      "start": "2027-06-19T20:10:00.000Z",
+      "end": "2027-06-19T23:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853027",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853027",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "7f815a42140f5702a28de4c2fab63e6e97d679cfc3f9232bf1cc5fc8f42391d0",
+      "hash": "b32b0d9e1cbe20a2ad1ee36cdbc64298613fdf6561224534520f9ea211c8d772",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852384@football-watchlist",
@@ -22550,23 +22550,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Washington Nationals at New York Mets [time TBA]",
-      "start": "2027-06-20",
-      "end": "2027-06-21",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853036",
+      "title": "MLB: Washington Nationals at New York Mets",
+      "start": "2027-06-20T17:40:00.000Z",
+      "end": "2027-06-20T20:40:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853036",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853036",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "428e3839155884ba9ac4394ff68fa1a63e1d86b9c068ae55b68aad4c3c9a6610",
+      "hash": "c71c2cb54eb7abe9063abb83bd82ae723dc024f5e342928d8ca7a06cba6f31f0",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853039@football-watchlist",
@@ -22583,23 +22583,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Milwaukee Brewers at New York Mets [time TBA]",
-      "start": "2027-06-21",
-      "end": "2027-06-22",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853039",
+      "title": "MLB: Milwaukee Brewers at New York Mets",
+      "start": "2027-06-21T23:10:00.000Z",
+      "end": "2027-06-22T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853039",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853039",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "d5752afec202f307b61f9da3961a57aa6b967f51824ed73cc8049a43da1dba8d",
+      "hash": "22eaa9decb3e65c6f08fdf11404af1fd94178ea2de73756f1a4e0515cec80f14",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852394@football-watchlist",
@@ -22649,23 +22649,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Milwaukee Brewers at New York Mets [time TBA]",
-      "start": "2027-06-22",
-      "end": "2027-06-23",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853031",
+      "title": "MLB: Milwaukee Brewers at New York Mets",
+      "start": "2027-06-22T23:10:00.000Z",
+      "end": "2027-06-23T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853031",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853031",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "b556086a346949cdb5b51c0c538df12af2192492367628f1c9de5742a0ce2a18",
+      "hash": "30a25b531eca67870b4c4e59a2fe8cd71bda9c0475926a8d1148c992be1774ac",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852368@football-watchlist",
@@ -22715,23 +22715,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Milwaukee Brewers at New York Mets [time TBA]",
-      "start": "2027-06-23",
-      "end": "2027-06-24",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853032",
+      "title": "MLB: Milwaukee Brewers at New York Mets",
+      "start": "2027-06-23T23:10:00.000Z",
+      "end": "2027-06-24T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853032",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853032",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "9cfe3ff0a986e483b560943ab20cff850b26fe2083c79600c6315ccb87e0c75e",
+      "hash": "f0d27ec835e742797c60825df36754742a85578656877767610762c9ad6eb5d1",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852372@football-watchlist",
@@ -23444,23 +23444,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Miami Marlins at New York Mets [time TBA]",
-      "start": "2027-07-06",
-      "end": "2027-07-07",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853035",
+      "title": "MLB: Miami Marlins at New York Mets",
+      "start": "2027-07-06T23:10:00.000Z",
+      "end": "2027-07-07T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853035",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853035",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "1c058470345b2931e1f3d1701c5cb99824c7905d0c277a324cfe0370a19f588b",
+      "hash": "a41ef03369678506f49173aaf5ba210e9b2f5e534ce61c0cfa7de0c8bbfb2ea0",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852381@football-watchlist",
@@ -23510,23 +23510,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Miami Marlins at New York Mets [time TBA]",
-      "start": "2027-07-07",
-      "end": "2027-07-08",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853030",
+      "title": "MLB: Miami Marlins at New York Mets",
+      "start": "2027-07-07T23:10:00.000Z",
+      "end": "2027-07-08T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853030",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853030",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "4e9e5e8bba5c1aaaf4da14b259ed8ad6b726dc1c6f46a210254a7e069fb6f443",
+      "hash": "46fe4c3498c7b48e4747d0142c8cf00a925152213fb0faaacd65c9ca1aa82335",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852370@football-watchlist",
@@ -23576,23 +23576,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Miami Marlins at New York Mets [time TBA]",
-      "start": "2027-07-08",
-      "end": "2027-07-09",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853037",
+      "title": "MLB: Miami Marlins at New York Mets",
+      "start": "2027-07-08T23:10:00.000Z",
+      "end": "2027-07-09T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853037",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853037",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "825b1253e223a11a2b35fb3e93e5051e7524c5b604be33d223083a1fd68bf407",
+      "hash": "7ee916070d381f61e36874fba706e1d59f5ca45961efd0e5e0b7c0019f82730e",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852371@football-watchlist",
@@ -23642,23 +23642,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Los Angeles Dodgers at New York Mets [time TBA]",
-      "start": "2027-07-09",
-      "end": "2027-07-10",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853034",
+      "title": "MLB: Los Angeles Dodgers at New York Mets",
+      "start": "2027-07-09T23:10:00.000Z",
+      "end": "2027-07-10T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853034",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853034",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "951ede2017ed2e611bd2a86038cf752077c437261dce188cc1ab63e739c802ec",
+      "hash": "112bf283e61a282c63694b69e771e05f42dcb4a1e7a747089217ac0fbb3231ce",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852379@football-watchlist",
@@ -23708,23 +23708,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Los Angeles Dodgers at New York Mets [time TBA]",
-      "start": "2027-07-10",
-      "end": "2027-07-11",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853028",
+      "title": "MLB: Los Angeles Dodgers at New York Mets",
+      "start": "2027-07-10T20:10:00.000Z",
+      "end": "2027-07-10T23:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853028",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853028",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "b5177837f386cef502fdf6163dbb9fac8b227c3bafda7d3da39949f3242660ed",
+      "hash": "e7fb2ddd54d15bf33dfaf673b54689996dcd5ac3a3c6d7c03edef44c2613dc93",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852382@football-watchlist",
@@ -23774,23 +23774,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Los Angeles Dodgers at New York Mets [time TBA]",
-      "start": "2027-07-11",
-      "end": "2027-07-12",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853016",
+      "title": "MLB: Los Angeles Dodgers at New York Mets",
+      "start": "2027-07-11T17:40:00.000Z",
+      "end": "2027-07-11T20:40:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853016",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853016",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "79b15a9deb77bdfa8c793b08760e5c6af3dff77d199d0a9c6a8d2d900a4060a7",
+      "hash": "4008859c872445b5df5f7e61737f6639390c6af6105d01135e1ae9034ef3ea03",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853261@football-watchlist",
@@ -23991,39 +23991,6 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-853915@football-watchlist",
-      "gameId": "853915",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/139:33/113:33",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "113"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Tampa Bay Rays at Cincinnati Reds [time TBA]",
-      "start": "2027-07-19",
-      "end": "2027-07-20",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853915",
-      "location": "Great American Ball Park",
-      "url": "https://www.mlb.com/gameday/853915",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "6a15d54307cb9fcff2b72f353b4bb2ebded02276d1fa3cc1031e78dd3653f823",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-854165@football-watchlist",
       "gameId": "854165",
       "mlbSeason": 2027,
@@ -24057,12 +24024,12 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-853914@football-watchlist",
-      "gameId": "853914",
+      "uid": "mlb-853915@football-watchlist",
+      "gameId": "853915",
       "mlbSeason": 2027,
       "mlbGameType": "R",
       "mlbSeriesKey": "2027/R/139:33/113:33",
-      "mlbSeriesGameNumber": 2,
+      "mlbSeriesGameNumber": 1,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "139",
@@ -24071,23 +24038,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Tampa Bay Rays at Cincinnati Reds [time TBA]",
-      "start": "2027-07-20",
-      "end": "2027-07-21",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853914",
+      "title": "MLB: Tampa Bay Rays at Cincinnati Reds",
+      "start": "2027-07-19T22:10:00.000Z",
+      "end": "2027-07-20T01:10:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853915",
       "location": "Great American Ball Park",
-      "url": "https://www.mlb.com/gameday/853914",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/853915",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "91fcf1712b00269a5e305e4e9a7a7aabf5452db01a9c43c1580115f4f6eb559c",
+      "hash": "ca35685b4bc424e8ca3d9b91a78f9233bfb08b395fa90198c1116d84aaeefa9e",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-854150@football-watchlist",
@@ -24123,12 +24090,12 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-853905@football-watchlist",
-      "gameId": "853905",
+      "uid": "mlb-853914@football-watchlist",
+      "gameId": "853914",
       "mlbSeason": 2027,
       "mlbGameType": "R",
       "mlbSeriesKey": "2027/R/139:33/113:33",
-      "mlbSeriesGameNumber": 3,
+      "mlbSeriesGameNumber": 2,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "139",
@@ -24137,23 +24104,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Tampa Bay Rays at Cincinnati Reds [time TBA]",
-      "start": "2027-07-21",
-      "end": "2027-07-22",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853905",
+      "title": "MLB: Tampa Bay Rays at Cincinnati Reds",
+      "start": "2027-07-20T23:10:00.000Z",
+      "end": "2027-07-21T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853914",
       "location": "Great American Ball Park",
-      "url": "https://www.mlb.com/gameday/853905",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/853914",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "1a31af32aab7595e317002ad83fbfd67352b99f66b2c4b52d8d92194904a074d",
+      "hash": "2278676dce678b8f41ae3fd2d12e2449d3ba839cd6ea7366f57e4b44d458be29",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-854155@football-watchlist",
@@ -24189,6 +24156,39 @@
       "sequence": 0
     },
     {
+      "uid": "mlb-853905@football-watchlist",
+      "gameId": "853905",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/139:33/113:33",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "139",
+        "113"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Tampa Bay Rays at Cincinnati Reds",
+      "start": "2027-07-21T16:40:00.000Z",
+      "end": "2027-07-21T19:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853905",
+      "location": "Great American Ball Park",
+      "url": "https://www.mlb.com/gameday/853905",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "c78c5d1567d56ff8718ebaaeb67099e6c5de5389fd913629c1e6b6307ac4743c",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
+    },
+    {
       "uid": "mlb-853025@football-watchlist",
       "gameId": "853025",
       "mlbSeason": 2027,
@@ -24203,23 +24203,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Philadelphia Phillies at New York Mets [time TBA]",
-      "start": "2027-07-22",
-      "end": "2027-07-23",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853025",
+      "title": "MLB: Philadelphia Phillies at New York Mets",
+      "start": "2027-07-22T23:10:00.000Z",
+      "end": "2027-07-23T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853025",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853025",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "cae23f6c4b5d2fdd6aebbc4cf5ebca358e1eaab94090c587324b135f7ada3416",
+      "hash": "5075df88b35f191a56c157280c5cab065f75bf940e5c11f6a56f7ea8038ba807",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852369@football-watchlist",
@@ -24269,23 +24269,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Philadelphia Phillies at New York Mets [time TBA]",
-      "start": "2027-07-23",
-      "end": "2027-07-24",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853021",
+      "title": "MLB: Philadelphia Phillies at New York Mets",
+      "start": "2027-07-23T17:10:00.000Z",
+      "end": "2027-07-23T20:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853021",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853021",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "828f2e83f4ce05536d18cfd6e922a79b8d5d376b01e33832b1df5364bc156214",
+      "hash": "95f20ad2d13ace1a33ad68f286ebc09aeac84a66b20db8b0f444bde828a8c6ab",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852380@football-watchlist",
@@ -24335,23 +24335,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Philadelphia Phillies at New York Mets [time TBA]",
-      "start": "2027-07-24",
-      "end": "2027-07-25",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853014",
+      "title": "MLB: Philadelphia Phillies at New York Mets",
+      "start": "2027-07-24T20:10:00.000Z",
+      "end": "2027-07-24T23:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853014",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853014",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "611f52e21e77568a7e7af0d85a120a3e86abce63df784c8196f1c586d065cb69",
+      "hash": "f46e6604b6ec27e56810784e8ffbcfa8d9377bc8765be151e3b7c0c6ccae1f97",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852378@football-watchlist",
@@ -24401,23 +24401,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Philadelphia Phillies at New York Mets [time TBA]",
-      "start": "2027-07-25",
-      "end": "2027-07-26",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853023",
+      "title": "MLB: Philadelphia Phillies at New York Mets",
+      "start": "2027-07-25T17:40:00.000Z",
+      "end": "2027-07-25T20:40:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853023",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853023",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "34d6a97c9e4902cea7e7cdc64955755c4391015aeb210ce60d6b35c5fd000381",
+      "hash": "35ea710211ab6c83f6cfd3c4bf89b8fc0297a6c1d57362bfbede3b9a0190f3f1",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852375@football-watchlist",
@@ -24467,23 +24467,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Arizona Diamondbacks at New York Mets [time TBA]",
-      "start": "2027-07-26",
-      "end": "2027-07-27",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853024",
+      "title": "MLB: Arizona Diamondbacks at New York Mets",
+      "start": "2027-07-26T23:10:00.000Z",
+      "end": "2027-07-27T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853024",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853024",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "e8860cc35a02bd241327bedc43cdb901bc8dd0f5375527bd597817a3e8677682",
+      "hash": "3b4c94325b01a1250bdd43367d59cab93118c823753345e67db641b906397271",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852376@football-watchlist",
@@ -24533,23 +24533,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Arizona Diamondbacks at New York Mets [time TBA]",
-      "start": "2027-07-27",
-      "end": "2027-07-28",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853017",
+      "title": "MLB: Arizona Diamondbacks at New York Mets",
+      "start": "2027-07-27T23:10:00.000Z",
+      "end": "2027-07-28T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853017",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853017",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "9ec07832072fb2aae5b85c8281161312954d3c0948612ddb4f1e52f01fcd27d0",
+      "hash": "d88295db1fa35e858a9ce5f7e5054838111273f496289605710cafe1c368f943",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852374@football-watchlist",
@@ -24599,23 +24599,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Arizona Diamondbacks at New York Mets [time TBA]",
-      "start": "2027-07-28",
-      "end": "2027-07-29",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853015",
+      "title": "MLB: Arizona Diamondbacks at New York Mets",
+      "start": "2027-07-28T17:10:00.000Z",
+      "end": "2027-07-28T20:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853015",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853015",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "cad5ddc5b52919443e0550ad3c62d5c2944421af8f713417f5d71ee045871322",
+      "hash": "a977edeefae65f9726b24c066ba9245908a066ed2732e5becbf1bea27fa9c5eb",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852377@football-watchlist",
@@ -24849,39 +24849,6 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-853910@football-watchlist",
-      "gameId": "853910",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/121:37/113:37",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "121",
-        "113"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: New York Mets at Cincinnati Reds [time TBA]",
-      "start": "2027-08-02",
-      "end": "2027-08-03",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853910",
-      "location": "Great American Ball Park",
-      "url": "https://www.mlb.com/gameday/853910",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "4bb4666a2031edb43db3ff6c3daae9a7a345802483aff329a646152f09e73fef",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-854478@football-watchlist",
       "gameId": "854478",
       "mlbSeason": 2027,
@@ -24915,12 +24882,12 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-853907@football-watchlist",
-      "gameId": "853907",
+      "uid": "mlb-853910@football-watchlist",
+      "gameId": "853910",
       "mlbSeason": 2027,
       "mlbGameType": "R",
       "mlbSeriesKey": "2027/R/121:37/113:37",
-      "mlbSeriesGameNumber": 2,
+      "mlbSeriesGameNumber": 1,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "121",
@@ -24929,23 +24896,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: New York Mets at Cincinnati Reds [time TBA]",
-      "start": "2027-08-03",
-      "end": "2027-08-04",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853907",
+      "title": "MLB: New York Mets at Cincinnati Reds",
+      "start": "2027-08-02T22:40:00.000Z",
+      "end": "2027-08-03T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853910",
       "location": "Great American Ball Park",
-      "url": "https://www.mlb.com/gameday/853907",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/853910",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "670e369608f4a18fa44e842baea7d209fa20b0579fcbd06187009b87c6b03f4f",
+      "hash": "41472d33a405bc7664fbff6f2133ae171546eb64349acb0fe8c02cfc8e9965b8",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-854477@football-watchlist",
@@ -24981,12 +24948,12 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-853913@football-watchlist",
-      "gameId": "853913",
+      "uid": "mlb-853907@football-watchlist",
+      "gameId": "853907",
       "mlbSeason": 2027,
       "mlbGameType": "R",
       "mlbSeriesKey": "2027/R/121:37/113:37",
-      "mlbSeriesGameNumber": 3,
+      "mlbSeriesGameNumber": 2,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "121",
@@ -24995,23 +24962,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: New York Mets at Cincinnati Reds [time TBA]",
-      "start": "2027-08-04",
-      "end": "2027-08-05",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853913",
+      "title": "MLB: New York Mets at Cincinnati Reds",
+      "start": "2027-08-03T22:40:00.000Z",
+      "end": "2027-08-04T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853907",
       "location": "Great American Ball Park",
-      "url": "https://www.mlb.com/gameday/853913",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/853907",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "7172f12e0867183640876525ffcd534a9f2ce64b886f65f731996bd0cf34f190",
+      "hash": "30de45fa8057e282bac398727a3589ca4bb256f10d943d09d1d3b89b6fb305e1",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-854476@football-watchlist",
@@ -25045,6 +25012,39 @@
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
+    },
+    {
+      "uid": "mlb-853913@football-watchlist",
+      "gameId": "853913",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/121:37/113:37",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "121",
+        "113"
+      ],
+      "selectionReasons": [
+        "Following New York Mets: every regular-season game."
+      ],
+      "title": "MLB: New York Mets at Cincinnati Reds",
+      "start": "2027-08-04T22:40:00.000Z",
+      "end": "2027-08-05T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853913",
+      "location": "Great American Ball Park",
+      "url": "https://www.mlb.com/gameday/853913",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "New York Mets"
+      ],
+      "hash": "766dd27706fadbe6704dd1a3666a3ca677ae9910856c3b04c3a9f516dffdf484",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852358@football-watchlist",
@@ -25094,23 +25094,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Washington Nationals at New York Mets [time TBA]",
-      "start": "2027-08-06",
-      "end": "2027-08-07",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853020",
+      "title": "MLB: Washington Nationals at New York Mets",
+      "start": "2027-08-06T23:10:00.000Z",
+      "end": "2027-08-07T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853020",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853020",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "7c98e099993deb5bd63a505cd785955ce3c951f5bff82089ce7824d40e6e6049",
+      "hash": "c985763e892d3ab1537f6dea9104934097d7787d79d70c9b1b3793707a3b2bd6",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852357@football-watchlist",
@@ -25160,23 +25160,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Washington Nationals at New York Mets [time TBA]",
-      "start": "2027-08-07",
-      "end": "2027-08-08",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853019",
+      "title": "MLB: Washington Nationals at New York Mets",
+      "start": "2027-08-07T20:10:00.000Z",
+      "end": "2027-08-07T23:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853019",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853019",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "ce08bfed9bdcc1d70bf7ae5a00d6f898a713f7fc79518c5d0ef4d7606042ec78",
+      "hash": "d9f047c0e91bf906cab9b30d107291d64e85dd98494c029ee7cc64a002f73c68",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852366@football-watchlist",
@@ -25226,23 +25226,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Washington Nationals at New York Mets [time TBA]",
-      "start": "2027-08-08",
-      "end": "2027-08-09",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853013",
+      "title": "MLB: Washington Nationals at New York Mets",
+      "start": "2027-08-08T17:40:00.000Z",
+      "end": "2027-08-08T20:40:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853013",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853013",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "43dcd317c0ca5ed151e40d6fe3de244f0bf746365da25db60958ca2fcb38ec74",
+      "hash": "c775caf1437812a315a0d1488791254e3a9f9f1b7474698893a5ba984047c49e",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852362@football-watchlist",
@@ -25292,23 +25292,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Atlanta Braves at New York Mets [time TBA]",
-      "start": "2027-08-09",
-      "end": "2027-08-10",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853018",
+      "title": "MLB: Atlanta Braves at New York Mets",
+      "start": "2027-08-09T23:10:00.000Z",
+      "end": "2027-08-10T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853018",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853018",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "81dec7c78bd26f7572bd818bcf1daf173eea7ffe69da744a3e0b63396c6d8b25",
+      "hash": "a3b2fe650ffb12b8c8481df68956fab37d221f908603a105230136465c8d63ae",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852367@football-watchlist",
@@ -25358,23 +25358,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Atlanta Braves at New York Mets [time TBA]",
-      "start": "2027-08-10",
-      "end": "2027-08-11",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853022",
+      "title": "MLB: Atlanta Braves at New York Mets",
+      "start": "2027-08-10T23:10:00.000Z",
+      "end": "2027-08-11T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853022",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853022",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "554c7fe62196b81d0444581dde99c7ca5f744949e998b478d935e9017140994f",
+      "hash": "397ba69aa8ac372be55b22ec53a6b159b56bef11f938a919f262c0f3173388ce",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852360@football-watchlist",
@@ -25424,56 +25424,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Atlanta Braves at New York Mets [time TBA]",
-      "start": "2027-08-11",
-      "end": "2027-08-12",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853006",
+      "title": "MLB: Atlanta Braves at New York Mets",
+      "start": "2027-08-11T17:10:00.000Z",
+      "end": "2027-08-11T20:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853006",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853006",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "e301e58d1926a2a85305425f4e22f9597a99b5ea0bcd6438e6cfc8e24226aeb0",
+      "hash": "813a51d2f3b9a19576215d4077e224ffc3c4e0911c75de26d35c3c7b5b646892",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-853001@football-watchlist",
-      "gameId": "853001",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/138:40/121:40",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "138",
-        "121"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: St. Louis Cardinals at New York Mets [time TBA]",
-      "start": "2027-08-13",
-      "end": "2027-08-14",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853001",
-      "location": "Citi Field",
-      "url": "https://www.mlb.com/gameday/853001",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "a7bcea36b08d3c8ff32c7ef8e421a394a3a98d90b7ed7f712d835f5257cdc834",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-854061@football-watchlist",
@@ -25509,12 +25476,12 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-853007@football-watchlist",
-      "gameId": "853007",
+      "uid": "mlb-853001@football-watchlist",
+      "gameId": "853001",
       "mlbSeason": 2027,
       "mlbGameType": "R",
       "mlbSeriesKey": "2027/R/138:40/121:40",
-      "mlbSeriesGameNumber": 2,
+      "mlbSeriesGameNumber": 1,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "138",
@@ -25523,23 +25490,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: St. Louis Cardinals at New York Mets [time TBA]",
-      "start": "2027-08-14",
-      "end": "2027-08-15",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853007",
+      "title": "MLB: St. Louis Cardinals at New York Mets",
+      "start": "2027-08-13T23:10:00.000Z",
+      "end": "2027-08-14T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853001",
       "location": "Citi Field",
-      "url": "https://www.mlb.com/gameday/853007",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/853001",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "3247457bf48e25ae3502688b81ee56a045ff10aeec37c1c37184f8687405e519",
+      "hash": "65352884e8b81025bb6058b85862409134feba89137b33ef43dee548dd9cc41d",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-854067@football-watchlist",
@@ -25575,12 +25542,12 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-853008@football-watchlist",
-      "gameId": "853008",
+      "uid": "mlb-853007@football-watchlist",
+      "gameId": "853007",
       "mlbSeason": 2027,
       "mlbGameType": "R",
       "mlbSeriesKey": "2027/R/138:40/121:40",
-      "mlbSeriesGameNumber": 3,
+      "mlbSeriesGameNumber": 2,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "138",
@@ -25589,23 +25556,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: St. Louis Cardinals at New York Mets [time TBA]",
-      "start": "2027-08-15",
-      "end": "2027-08-16",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853008",
+      "title": "MLB: St. Louis Cardinals at New York Mets",
+      "start": "2027-08-14T20:10:00.000Z",
+      "end": "2027-08-14T23:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853007",
       "location": "Citi Field",
-      "url": "https://www.mlb.com/gameday/853008",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/853007",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "08a50e818560c9dc87afd4c384138ee656bada4177327afa16bc4c430ccd6c80",
+      "hash": "fc53b1f9851d7f22e3bce183b3a9849302a7fb14f04b1ae7d33067fd9b2fe9d1",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-854056@football-watchlist",
@@ -25639,6 +25606,39 @@
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
+    },
+    {
+      "uid": "mlb-853008@football-watchlist",
+      "gameId": "853008",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/138:40/121:40",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "138",
+        "121"
+      ],
+      "selectionReasons": [
+        "Following New York Mets: every regular-season game."
+      ],
+      "title": "MLB: St. Louis Cardinals at New York Mets",
+      "start": "2027-08-15T17:40:00.000Z",
+      "end": "2027-08-15T20:40:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853008",
+      "location": "Citi Field",
+      "url": "https://www.mlb.com/gameday/853008",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "New York Mets"
+      ],
+      "hash": "b53909cfd4677a8d012fa1f6fd3a95b43af46e1571db5695327fc558e6ec4246",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853574@football-watchlist",
@@ -26087,23 +26087,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Colorado Rockies at New York Mets [time TBA]",
-      "start": "2027-08-24",
-      "end": "2027-08-25",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853000",
+      "title": "MLB: Colorado Rockies at New York Mets",
+      "start": "2027-08-24T23:10:00.000Z",
+      "end": "2027-08-25T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853000",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853000",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "7108384dc46716a6b2ba58f36a0e00075bb351bbf0c90c9f4dd686e50d187228",
+      "hash": "cc8e06e632f91b5662ef033c9b13ff900825a4bb0f986cd5f2a05b6d07d4daa9",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852356@football-watchlist",
@@ -26153,23 +26153,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Colorado Rockies at New York Mets [time TBA]",
-      "start": "2027-08-25",
-      "end": "2027-08-26",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853010",
+      "title": "MLB: Colorado Rockies at New York Mets",
+      "start": "2027-08-25T23:10:00.000Z",
+      "end": "2027-08-26T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853010",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853010",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "35a7d1e430cdbe728c8d8b58464b8a8e491a68d985502f56b26f07176ac4753f",
+      "hash": "82d8b2bb8d1cfcb7e9b82d192dd17146a56f4da5d93e0e09e9778b53ccee6bf5",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852365@football-watchlist",
@@ -26219,23 +26219,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Colorado Rockies at New York Mets [time TBA]",
-      "start": "2027-08-26",
-      "end": "2027-08-27",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853004",
+      "title": "MLB: Colorado Rockies at New York Mets",
+      "start": "2027-08-26T23:10:00.000Z",
+      "end": "2027-08-27T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853004",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853004",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "3495281b0dc149f46757a6da3927e1b3be0e3bb671a01a8f581229ffda12be4c",
+      "hash": "fe45b59f8d0c905c1e17cda004d506609bbd3c2bb12ccdc03bc90595fd4560a4",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852355@football-watchlist",
@@ -26285,23 +26285,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Chicago White Sox at New York Mets [time TBA]",
-      "start": "2027-08-27",
-      "end": "2027-08-28",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852999",
+      "title": "MLB: Chicago White Sox at New York Mets",
+      "start": "2027-08-27T23:10:00.000Z",
+      "end": "2027-08-28T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852999",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/852999",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "d45832b1909d34db17768ad8bf5aee47929947bf00e774ca0ad516b6269e6a6c",
+      "hash": "3047b16e1ca075b3abdfd0c310db9bb8cc18687ba771a0e110ee90de21c3f33a",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852361@football-watchlist",
@@ -26351,23 +26351,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Chicago White Sox at New York Mets [time TBA]",
-      "start": "2027-08-28",
-      "end": "2027-08-29",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853011",
+      "title": "MLB: Chicago White Sox at New York Mets",
+      "start": "2027-08-28T20:10:00.000Z",
+      "end": "2027-08-28T23:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853011",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853011",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "e1f493d62150d1323416904ec753bea4544f7c0561df2675d01320764bf2d038",
+      "hash": "7868f98c92dffac88515f2928e0001e1728c71aa0842d7664c4ebc8002bd8f66",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852364@football-watchlist",
@@ -26417,23 +26417,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Chicago White Sox at New York Mets [time TBA]",
-      "start": "2027-08-29",
-      "end": "2027-08-30",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853003",
+      "title": "MLB: Chicago White Sox at New York Mets",
+      "start": "2027-08-29T17:40:00.000Z",
+      "end": "2027-08-29T20:40:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853003",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853003",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "9984577212ff690180cc0b30c238ddbbb4f8584a53ebbb67c3d18a0b1d6a0dc6",
+      "hash": "5faa7e37adcace2a1da1831f69b30058a0582bf4cd2115c070d47f5ab0e11ec1",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852359@football-watchlist",
@@ -26865,39 +26865,6 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-853012@football-watchlist",
-      "gameId": "853012",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/136:47/121:47",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "136",
-        "121"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: Seattle Mariners at New York Mets [time TBA]",
-      "start": "2027-09-06",
-      "end": "2027-09-07",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853012",
-      "location": "Citi Field",
-      "url": "https://www.mlb.com/gameday/853012",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "ff7729392d1b8a46946917b0e0e21c7a7a3d9fa0dac92c149aa7485b46f3763a",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-854210@football-watchlist",
       "gameId": "854210",
       "mlbSeason": 2027,
@@ -26931,12 +26898,12 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-853005@football-watchlist",
-      "gameId": "853005",
+      "uid": "mlb-853012@football-watchlist",
+      "gameId": "853012",
       "mlbSeason": 2027,
       "mlbGameType": "R",
       "mlbSeriesKey": "2027/R/136:47/121:47",
-      "mlbSeriesGameNumber": 2,
+      "mlbSeriesGameNumber": 1,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "136",
@@ -26945,23 +26912,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Seattle Mariners at New York Mets [time TBA]",
-      "start": "2027-09-07",
-      "end": "2027-09-08",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853005",
+      "title": "MLB: Seattle Mariners at New York Mets",
+      "start": "2027-09-06T20:10:00.000Z",
+      "end": "2027-09-06T23:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853012",
       "location": "Citi Field",
-      "url": "https://www.mlb.com/gameday/853005",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/853012",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "51cf8812922475e9609d8a29fb450c9210b8ab7200eaf369593fb5787881292d",
+      "hash": "19cfa4c828769d415327392009deac314d66331bc19e4940b62e5490a4287edb",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-854207@football-watchlist",
@@ -26997,12 +26964,12 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-853002@football-watchlist",
-      "gameId": "853002",
+      "uid": "mlb-853005@football-watchlist",
+      "gameId": "853005",
       "mlbSeason": 2027,
       "mlbGameType": "R",
       "mlbSeriesKey": "2027/R/136:47/121:47",
-      "mlbSeriesGameNumber": 3,
+      "mlbSeriesGameNumber": 2,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "136",
@@ -27011,23 +26978,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Seattle Mariners at New York Mets [time TBA]",
-      "start": "2027-09-08",
-      "end": "2027-09-09",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853002",
+      "title": "MLB: Seattle Mariners at New York Mets",
+      "start": "2027-09-07T23:10:00.000Z",
+      "end": "2027-09-08T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853005",
       "location": "Citi Field",
-      "url": "https://www.mlb.com/gameday/853002",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/853005",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "d86bce9a432386fc2b4f9682589a495c4cd3058520b84a7b6a7eceabfc896643",
+      "hash": "97f100ddc2568306c82fc94b40871b0784cb419ba00e864af211fe80a258c4b3",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-854217@football-watchlist",
@@ -27060,6 +27027,39 @@
       "hash": "4e4a72be49c89297b26e0508a1d98bb1d8420e14a5be693f977f963202338a63",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-27T23:50:47.873Z",
+      "sequence": 1
+    },
+    {
+      "uid": "mlb-853002@football-watchlist",
+      "gameId": "853002",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/136:47/121:47",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "136",
+        "121"
+      ],
+      "selectionReasons": [
+        "Following New York Mets: every regular-season game."
+      ],
+      "title": "MLB: Seattle Mariners at New York Mets",
+      "start": "2027-09-08T23:10:00.000Z",
+      "end": "2027-09-09T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853002",
+      "location": "Citi Field",
+      "url": "https://www.mlb.com/gameday/853002",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "New York Mets"
+      ],
+      "hash": "16c1f8dc46d9f0bf3029dddac310847b4ee56ef603db5dd096f23c6b1dcefc65",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-02T22:48:51.042Z",
       "sequence": 1
     },
     {
@@ -27110,24 +27110,24 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Cleveland Guardians at New York Mets [time TBA]",
-      "start": "2027-09-10",
-      "end": "2027-09-11",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853009",
+      "title": "MLB: Cleveland Guardians at New York Mets",
+      "start": "2027-09-10T23:10:00.000Z",
+      "end": "2027-09-11T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853009",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/853009",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Cleveland Guardians",
         "New York Mets"
       ],
-      "hash": "b48c14c9af82a00fcb92869ff595751370f8e83570d55dcebfdcc63ecf1977e4",
+      "hash": "82a73afffc280114e12ee660e02c71325f28c78922a44b5ca871a08476ce9437",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852342@football-watchlist",
@@ -27177,24 +27177,24 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Cleveland Guardians at New York Mets [time TBA]",
-      "start": "2027-09-11",
-      "end": "2027-09-12",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852995",
+      "title": "MLB: Cleveland Guardians at New York Mets",
+      "start": "2027-09-11T20:10:00.000Z",
+      "end": "2027-09-11T23:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852995",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/852995",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Cleveland Guardians",
         "New York Mets"
       ],
-      "hash": "a8fdc96c61b6a3de88ddb6b73372ef7edfcf313552b5c5f1141b9a54b50a2f19",
+      "hash": "accc56f8fb1fda20f10dc0b9cafa7038d22c57da3f6da4cf6ab37fd960561da2",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852348@football-watchlist",
@@ -27244,24 +27244,24 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Cleveland Guardians at New York Mets [time TBA]",
-      "start": "2027-09-12",
-      "end": "2027-09-13",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852994",
+      "title": "MLB: Cleveland Guardians at New York Mets",
+      "start": "2027-09-12T17:40:00.000Z",
+      "end": "2027-09-12T20:40:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852994",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/852994",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Cleveland Guardians",
         "New York Mets"
       ],
-      "hash": "571d18e211dcc55cf02be1e5dc603b0ff877022b20da18cdadefdafbedefc860",
+      "hash": "f73e7c8ad4044623b1a0f89b28c38026e5c78a4ffb44c9afbf8629144f099473",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852109@football-watchlist",
@@ -27693,39 +27693,6 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-852992@football-watchlist",
-      "gameId": "852992",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/134:51/121:51",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "134",
-        "121"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: Pittsburgh Pirates at New York Mets [time TBA]",
-      "start": "2027-09-21",
-      "end": "2027-09-22",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852992",
-      "location": "Citi Field",
-      "url": "https://www.mlb.com/gameday/852992",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "daf8da9c8425e3b127146c715e5feee6652469d8a9b8306cb7eb042ef7fe793e",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-854125@football-watchlist",
       "gameId": "854125",
       "mlbSeason": 2027,
@@ -27759,12 +27726,12 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-852997@football-watchlist",
-      "gameId": "852997",
+      "uid": "mlb-852992@football-watchlist",
+      "gameId": "852992",
       "mlbSeason": 2027,
       "mlbGameType": "R",
       "mlbSeriesKey": "2027/R/134:51/121:51",
-      "mlbSeriesGameNumber": 2,
+      "mlbSeriesGameNumber": 1,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "134",
@@ -27773,23 +27740,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Pittsburgh Pirates at New York Mets [time TBA]",
-      "start": "2027-09-22",
-      "end": "2027-09-23",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852997",
+      "title": "MLB: Pittsburgh Pirates at New York Mets",
+      "start": "2027-09-21T23:10:00.000Z",
+      "end": "2027-09-22T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852992",
       "location": "Citi Field",
-      "url": "https://www.mlb.com/gameday/852997",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/852992",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "b8a5296b9d7116cad8164e8f341313b89bb13dfeba7bff2b388c5d0d00cbb197",
+      "hash": "da0d4067958c33e680b29aa60bca3b8876c773f171a204f0e26bd46bb5626088",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-854123@football-watchlist",
@@ -27825,12 +27792,12 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-852985@football-watchlist",
-      "gameId": "852985",
+      "uid": "mlb-852997@football-watchlist",
+      "gameId": "852997",
       "mlbSeason": 2027,
       "mlbGameType": "R",
       "mlbSeriesKey": "2027/R/134:51/121:51",
-      "mlbSeriesGameNumber": 3,
+      "mlbSeriesGameNumber": 2,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "134",
@@ -27839,23 +27806,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Pittsburgh Pirates at New York Mets [time TBA]",
-      "start": "2027-09-23",
-      "end": "2027-09-24",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852985",
+      "title": "MLB: Pittsburgh Pirates at New York Mets",
+      "start": "2027-09-22T23:10:00.000Z",
+      "end": "2027-09-23T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852997",
       "location": "Citi Field",
-      "url": "https://www.mlb.com/gameday/852985",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/852997",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "1a15bb5f4ee92fa1bd47add697cc425762be3c7f82fec86270792489bcf162e8",
+      "hash": "200a5cc1cac9b97b3ba704e1804d43abf53cd77ac2211471bcbb4eff667b6a5b",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-854126@football-watchlist",
@@ -27889,6 +27856,39 @@
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
+    },
+    {
+      "uid": "mlb-852985@football-watchlist",
+      "gameId": "852985",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/134:51/121:51",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "134",
+        "121"
+      ],
+      "selectionReasons": [
+        "Following New York Mets: every regular-season game."
+      ],
+      "title": "MLB: Pittsburgh Pirates at New York Mets",
+      "start": "2027-09-23T23:10:00.000Z",
+      "end": "2027-09-24T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852985",
+      "location": "Citi Field",
+      "url": "https://www.mlb.com/gameday/852985",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "New York Mets"
+      ],
+      "hash": "175690c3adcd1991fb926e9822d662c016a2799bb59517d5d5ace5cfec819ec7",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852182@football-watchlist",
@@ -27938,23 +27938,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Chicago Cubs at New York Mets [time TBA]",
-      "start": "2027-09-24",
-      "end": "2027-09-25",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852986",
+      "title": "MLB: Chicago Cubs at New York Mets",
+      "start": "2027-09-24T23:10:00.000Z",
+      "end": "2027-09-25T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852986",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/852986",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "5eb7a2680578399a7bfdba16cedd2ccda859784f25e13dcfe61c5dea65189fa1",
+      "hash": "b310854b698e9d9be901cc525583c4322211fcee3160d8daaf304b8230a7509a",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852183@football-watchlist",
@@ -28004,23 +28004,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Chicago Cubs at New York Mets [time TBA]",
-      "start": "2027-09-25",
-      "end": "2027-09-26",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852993",
+      "title": "MLB: Chicago Cubs at New York Mets",
+      "start": "2027-09-25T20:10:00.000Z",
+      "end": "2027-09-25T23:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852993",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/852993",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "1f2da68a81ce79df61b999f9b06813c1a50332d07772da6987793003cd6af1ae",
+      "hash": "4f6c7858282a4401a49fc48d9bbd4ce82f25302c1ac77abecc0e1736f45912f6",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852186@football-watchlist",
@@ -28070,23 +28070,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: Chicago Cubs at New York Mets [time TBA]",
-      "start": "2027-09-26",
-      "end": "2027-09-27",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852990",
+      "title": "MLB: Chicago Cubs at New York Mets",
+      "start": "2027-09-26T19:10:00.000Z",
+      "end": "2027-09-26T22:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852990",
       "location": "Citi Field",
       "url": "https://www.mlb.com/gameday/852990",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "d96142948e72229760557f043f9900f4e60c49cbc1b5d5d066a9cf70f062c934",
+      "hash": "cfc671d388bdad0691a6c8ac726f147d8687cf747195a14076cff50f228c479f",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
     }
   ],
   "nflGames": 285,

@@ -6377,18 +6377,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856740@football-watchlist
-DTSTAMP:20261026T235629Z
+DTSTAMP:20261102T224851Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20261026T235629Z
-SEQUENCE:1
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:2
 DTSTART:20261107T203000Z
 DTEND:20261108T000000Z
 SUMMARY:CFB: Alabama at LSU
 DESCRIPTION:Following Alabama: every game.\n\nTeams: Alabama Crimson Tide a
- t LSU Tigers\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewi
- ng window: 3.5 hours (4 hours for championships)\; finish is approximate.\
- n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856740
- /alabama-lsu
+ t LSU Tigers\n\nUS broadcast: ABC / ERADM. Availability elsewhere varies.\
+ n\nViewing window: 3.5 hours (4 hours for championships)\; finish is appro
+ ximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/4
+ 01856740/alabama-lsu
 LOCATION:Tiger Stadium (LA)\, Baton Rouge\, LA\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856740/alabama-l
  su
@@ -6419,18 +6419,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856741@football-watchlist
-DTSTAMP:20261026T235629Z
+DTSTAMP:20261102T224851Z
 CREATED:20261017T070236Z
-LAST-MODIFIED:20261026T235629Z
-SEQUENCE:1
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:2
 DTSTART:20261108T003000Z
 DTEND:20261108T040000Z
 SUMMARY:CFB: Georgia at Ole Miss
 DESCRIPTION:National pick: ranked matchup (#1 vs #9) at selection.\n\nTeams
- : Georgia Bulldogs at Ole Miss Rebels\n\nUS broadcast: ABC. Availability e
- lsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)\
- ; finish is approximate.\n\nSchedule: https://www.espn.com/college-footbal
- l/game/_/gameId/401856741/georgia-ole-miss
+ : Georgia Bulldogs at Ole Miss Rebels\n\nUS broadcast: ABC / ERADM. Availa
+ bility elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champio
+ nships)\; finish is approximate.\n\nSchedule: https://www.espn.com/college
+ -football/game/_/gameId/401856741/georgia-ole-miss
 LOCATION:Vaught-Hemingway Stadium\, Oxford\, MS\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856741/georgia-o
  le-miss
@@ -6834,19 +6834,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856883@football-watchlist
-DTSTAMP:20261024T072439Z
+DTSTAMP:20261102T224851Z
 CREATED:20261024T072439Z
-LAST-MODIFIED:20261024T072439Z
-SEQUENCE:0
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:CFB: Missouri at Georgia [time TBA]
 DESCRIPTION:National pick: ranked matchup (#5 vs #22) at selection.\n\nFLEX
  : 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Missouri Tigers at Georgia B
- ulldogs\n\nBroadcast to be announced.\n\nKickoff has not been announced. T
- his all-day marker will become a timed event when confirmed.\n\nSchedule: 
- https://www.espn.com/college-football/game/_/gameId/401856883/missouri-geo
- rgia
+ ulldogs\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nKickoff ha
+ s not been announced. This all-day marker will become a timed event when c
+ onfirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId
+ /401856883/missouri-georgia
 LOCATION:Sanford Stadium\, Athens\, GA\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856883/missouri-
  georgia
@@ -6856,18 +6856,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856884@football-watchlist
-DTSTAMP:20261024T072439Z
+DTSTAMP:20261102T224851Z
 CREATED:20261024T072439Z
-LAST-MODIFIED:20261024T072439Z
-SEQUENCE:0
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:CFB: Florida at Kentucky [time TBA]
 DESCRIPTION:National pick: ranked matchup (#12 vs #20) at selection.\n\nNIG
- HT: 6 - 8pm ET start\n\nTeams: Florida Gators at Kentucky Wildcats\n\nBroa
- dcast to be announced.\n\nKickoff has not been announced. This all-day mar
- ker will become a timed event when confirmed.\n\nSchedule: https://www.esp
- n.com/college-football/game/_/gameId/401856884/florida-kentucky
+ HT: 6 - 8pm ET start\n\nTeams: Florida Gators at Kentucky Wildcats\n\nUS b
+ roadcast: ESPN. Availability elsewhere varies.\n\nKickoff has not been ann
+ ounced. This all-day marker will become a timed event when confirmed.\n\nS
+ chedule: https://www.espn.com/college-football/game/_/gameId/401856884/flo
+ rida-kentucky
 LOCATION:Kroger Field\, Lexington\, KY\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856884/florida-k
  entucky
@@ -6877,42 +6878,22 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856885@football-watchlist
-DTSTAMP:20261024T072439Z
+DTSTAMP:20261102T224851Z
 CREATED:20261024T072439Z
-LAST-MODIFIED:20261024T072439Z
-SEQUENCE:0
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:CFB: Texas at LSU [time TBA]
 DESCRIPTION:National pick: ranked matchup (#18 vs #19) at selection.\n\nFLE
  X: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Texas Longhorns at LSU Tige
- rs\n\nBroadcast to be announced.\n\nKickoff has not been announced. This a
- ll-day marker will become a timed event when confirmed.\n\nSchedule: https
- ://www.espn.com/college-football/game/_/gameId/401856885/texas-lsu
+ rs\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nKickoff has not
+  been announced. This all-day marker will become a timed event when confir
+ med.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/4018
+ 56885/texas-lsu
 LOCATION:Tiger Stadium (LA)\, Baton Rouge\, LA\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856885/texas-lsu
 CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401856889@football-watchlist
-DTSTAMP:20260905T144637Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:CFB: Alabama at Vanderbilt [time TBA]
-DESCRIPTION:Following Alabama: every game.\n\nEARLY: Noon - 1pm ET start\n\
- nTeams: Alabama Crimson Tide at Vanderbilt Commodores\n\nBroadcast to be a
- nnounced.\n\nKickoff has not been announced. This all-day marker will beco
- me a timed event when confirmed.\n\nSchedule: https://www.espn.com/college
- -football/game/_/gameId/401856889/alabama-vanderbilt
-LOCATION:FirstBank Stadium\, Nashville\, TN\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856889/alabama-v
- anderbilt
-CATEGORIES:College,Alabama
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6994,6 +6975,27 @@ LOCATION:
 URL:https://www.foxsports.com/big-noon-kickoff-experience
 CATEGORIES:College,Pregame
 STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856889@football-watchlist
+DTSTAMP:20261102T224851Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20261114T174500Z
+DTEND:20261114T211500Z
+SUMMARY:CFB: Alabama at Vanderbilt
+DESCRIPTION:Following Alabama: every game.\n\nEARLY: Noon - 1pm ET start\n\
+ nTeams: Alabama Crimson Tide at Vanderbilt Commodores\n\nUS broadcast: SEC
+  Network. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 h
+ ours for championships)\; finish is approximate.\n\nSchedule: https://www.
+ espn.com/college-football/game/_/gameId/401856889/alabama-vanderbilt
+LOCATION:FirstBank Stadium\, Nashville\, TN\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856889/alabama-v
+ anderbilt
+CATEGORIES:College,Alabama
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -12714,22 +12716,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853075@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270402
-DTEND;VALUE=DATE:20270403
-SUMMARY:MLB: San Francisco Giants at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853075
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270402T191000Z
+DTEND:20270402T221000Z
+SUMMARY:MLB: San Francisco Giants at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853075
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853075
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853158@football-watchlist
@@ -12768,25 +12769,6 @@ URL:https://www.nhl.com/gamecenter/car-vs-det/2027/04/02/2026021272
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-853077@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270403
-DTEND;VALUE=DATE:20270404
-SUMMARY:MLB: San Francisco Giants at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853077
-LOCATION:Citi Field
-URL:https://www.mlb.com/gameday/853077
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401876267@football-watchlist
@@ -12828,6 +12810,24 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-853077@football-watchlist
+DTSTAMP:20261102T224851Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270403T231000Z
+DTEND:20270404T021000Z
+SUMMARY:MLB: San Francisco Giants at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853077
+LOCATION:Citi Field
+URL:https://www.mlb.com/gameday/853077
+CATEGORIES:MLB,Followed team,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-853141@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -12844,25 +12844,6 @@ URL:https://www.mlb.com/gameday/853141
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-853073@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270404
-DTEND;VALUE=DATE:20270405
-SUMMARY:MLB: San Francisco Giants at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853073
-LOCATION:Citi Field
-URL:https://www.mlb.com/gameday/853073
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401875065@football-watchlist
@@ -12904,6 +12885,24 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-853073@football-watchlist
+DTSTAMP:20261102T224851Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270404T174000Z
+DTEND:20270404T204000Z
+SUMMARY:MLB: San Francisco Giants at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853073
+LOCATION:Citi Field
+URL:https://www.mlb.com/gameday/853073
+CATEGORIES:MLB,Followed team,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-853143@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -12920,25 +12919,6 @@ URL:https://www.mlb.com/gameday/853143
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-853068@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270405
-DTEND;VALUE=DATE:20270406
-SUMMARY:MLB: Cincinnati Reds at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853068
-LOCATION:Citi Field
-URL:https://www.mlb.com/gameday/853068
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026021295@football-watchlist
@@ -12999,6 +12979,24 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-853068@football-watchlist
+DTSTAMP:20261102T224851Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270405T231000Z
+DTEND:20270406T021000Z
+SUMMARY:MLB: Cincinnati Reds at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853068
+LOCATION:Citi Field
+URL:https://www.mlb.com/gameday/853068
+CATEGORIES:MLB,Followed team,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-852327@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -13019,22 +13017,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853066@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270406
-DTEND;VALUE=DATE:20270407
-SUMMARY:MLB: Cincinnati Reds at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853066
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270406T231000Z
+DTEND:20270407T021000Z
+SUMMARY:MLB: Cincinnati Reds at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853066
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853066
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852326@football-watchlist
@@ -13407,22 +13404,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853063@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270413
-DTEND;VALUE=DATE:20270414
-SUMMARY:MLB: Los Angeles Angels at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853063
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270413T231000Z
+DTEND:20270414T021000Z
+SUMMARY:MLB: Los Angeles Angels at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853063
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853063
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852412@football-watchlist
@@ -13445,22 +13441,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853057@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270414
-DTEND;VALUE=DATE:20270415
-SUMMARY:MLB: Los Angeles Angels at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853057
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270414T231000Z
+DTEND:20270415T021000Z
+SUMMARY:MLB: Los Angeles Angels at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853057
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853057
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852397@football-watchlist
@@ -13483,22 +13478,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853056@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270415
-DTEND;VALUE=DATE:20270416
-SUMMARY:MLB: Los Angeles Angels at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853056
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270415T171000Z
+DTEND:20270415T201000Z
+SUMMARY:MLB: Los Angeles Angels at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853056
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853056
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853550@football-watchlist
@@ -13810,22 +13804,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853058@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270423
-DTEND;VALUE=DATE:20270424
-SUMMARY:MLB: Texas Rangers at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853058
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270423T231000Z
+DTEND:20270424T021000Z
+SUMMARY:MLB: Texas Rangers at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853058
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853058
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:chelsea-2645518@football-watchlist
@@ -13870,25 +13863,6 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853060@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270424
-DTEND;VALUE=DATE:20270425
-SUMMARY:MLB: Texas Rangers at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853060
-LOCATION:Citi Field
-URL:https://www.mlb.com/gameday/853060
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:soccer-401876235@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -13908,6 +13882,24 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-853060@football-watchlist
+DTSTAMP:20261102T224851Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270424T201000Z
+DTEND:20270424T231000Z
+SUMMARY:MLB: Texas Rangers at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853060
+LOCATION:Citi Field
+URL:https://www.mlb.com/gameday/853060
+CATEGORIES:MLB,Followed team,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-852402@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -13923,25 +13915,6 @@ DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852402
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-853061@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270425
-DTEND;VALUE=DATE:20270426
-SUMMARY:MLB: Texas Rangers at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853061
-LOCATION:Citi Field
-URL:https://www.mlb.com/gameday/853061
-CATEGORIES:MLB,Followed team,New York Mets
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -13965,23 +13938,40 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853065@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-853061@football-watchlist
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270426
-DTEND;VALUE=DATE:20270427
-SUMMARY:MLB: Toronto Blue Jays at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853065
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270425T174000Z
+DTEND:20270425T204000Z
+SUMMARY:MLB: Texas Rangers at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853061
+LOCATION:Citi Field
+URL:https://www.mlb.com/gameday/853061
+CATEGORIES:MLB,Followed team,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-853065@football-watchlist
+DTSTAMP:20261102T224851Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270426T231000Z
+DTEND:20270427T021000Z
+SUMMARY:MLB: Toronto Blue Jays at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853065
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853065
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852406@football-watchlist
@@ -14004,22 +13994,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853064@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270427
-DTEND;VALUE=DATE:20270428
-SUMMARY:MLB: Toronto Blue Jays at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853064
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270427T231000Z
+DTEND:20270428T021000Z
+SUMMARY:MLB: Toronto Blue Jays at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853064
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853064
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852411@football-watchlist
@@ -14042,22 +14031,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853055@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270428
-DTEND;VALUE=DATE:20270429
-SUMMARY:MLB: Toronto Blue Jays at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853055
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270428T171000Z
+DTEND:20270428T201000Z
+SUMMARY:MLB: Toronto Blue Jays at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853055
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853055
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852410@football-watchlist
@@ -14396,22 +14384,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853054@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270507
-DTEND;VALUE=DATE:20270508
-SUMMARY:MLB: Tampa Bay Rays at New York Mets [time TBA]
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270507T231000Z
+DTEND:20270508T021000Z
+SUMMARY:MLB: Tampa Bay Rays at New York Mets
 DESCRIPTION:Following Tampa Bay Rays and New York Mets: every regular-seaso
- n game.\n\nFirst pitch has not been announced. This all-day marker will be
- come a timed event when confirmed.\n\nBroadcast to be announced.\n\nOffici
- al schedule: https://www.mlb.com/gameday/853054
+ n game.\n\nViewing window: 3 hours\; finish is approximate.\n\nBroadcast t
+ o be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853054
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853054
 CATEGORIES:MLB,Followed team,Tampa Bay Rays,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:chelsea-2645544@football-watchlist
@@ -14437,25 +14424,6 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853059@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270508
-DTEND;VALUE=DATE:20270509
-SUMMARY:MLB: Tampa Bay Rays at New York Mets [time TBA]
-DESCRIPTION:Following Tampa Bay Rays and New York Mets: every regular-seaso
- n game.\n\nFirst pitch has not been announced. This all-day marker will be
- come a timed event when confirmed.\n\nBroadcast to be announced.\n\nOffici
- al schedule: https://www.mlb.com/gameday/853059
-LOCATION:Citi Field
-URL:https://www.mlb.com/gameday/853059
-CATEGORIES:MLB,Followed team,Tampa Bay Rays,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:soccer-401876220@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -14475,23 +14443,22 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853043@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-853059@football-watchlist
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270509
-DTEND;VALUE=DATE:20270510
-SUMMARY:MLB: Tampa Bay Rays at New York Mets [time TBA]
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270508T201000Z
+DTEND:20270508T231000Z
+SUMMARY:MLB: Tampa Bay Rays at New York Mets
 DESCRIPTION:Following Tampa Bay Rays and New York Mets: every regular-seaso
- n game.\n\nFirst pitch has not been announced. This all-day marker will be
- come a timed event when confirmed.\n\nBroadcast to be announced.\n\nOffici
- al schedule: https://www.mlb.com/gameday/853043
+ n game.\n\nViewing window: 3 hours\; finish is approximate.\n\nBroadcast t
+ o be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853059
 LOCATION:Citi Field
-URL:https://www.mlb.com/gameday/853043
+URL:https://www.mlb.com/gameday/853059
 CATEGORIES:MLB,Followed team,Tampa Bay Rays,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401875138@football-watchlist
@@ -14511,6 +14478,24 @@ URL:https://www.espn.com/soccer/match/_/gameId/401875138
 CATEGORIES:Soccer,Followed team,Italian Serie A
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-853043@football-watchlist
+DTSTAMP:20261102T224851Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270509T174000Z
+DTEND:20270509T204000Z
+SUMMARY:MLB: Tampa Bay Rays at New York Mets
+DESCRIPTION:Following Tampa Bay Rays and New York Mets: every regular-seaso
+ n game.\n\nViewing window: 3 hours\; finish is approximate.\n\nBroadcast t
+ o be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853043
+LOCATION:Citi Field
+URL:https://www.mlb.com/gameday/853043
+CATEGORIES:MLB,Followed team,Tampa Bay Rays,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852400@football-watchlist
@@ -14533,22 +14518,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853045@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270511
-DTEND;VALUE=DATE:20270512
-SUMMARY:MLB: Philadelphia Phillies at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853045
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270511T231000Z
+DTEND:20270512T021000Z
+SUMMARY:MLB: Philadelphia Phillies at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853045
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853045
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852404@football-watchlist
@@ -14571,22 +14555,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853040@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270512
-DTEND;VALUE=DATE:20270513
-SUMMARY:MLB: Philadelphia Phillies at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853040
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270512T231000Z
+DTEND:20270513T021000Z
+SUMMARY:MLB: Philadelphia Phillies at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853040
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853040
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852408@football-watchlist
@@ -14609,22 +14592,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853041@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270513
-DTEND;VALUE=DATE:20270514
-SUMMARY:MLB: Philadelphia Phillies at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853041
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270513T171000Z
+DTEND:20270513T201000Z
+SUMMARY:MLB: Philadelphia Phillies at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853041
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853041
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852401@football-watchlist
@@ -15086,22 +15068,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853042@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270524
-DTEND;VALUE=DATE:20270525
-SUMMARY:MLB: Atlanta Braves at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853042
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270524T231000Z
+DTEND:20270525T021000Z
+SUMMARY:MLB: Atlanta Braves at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853042
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853042
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852409@football-watchlist
@@ -15124,22 +15105,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853044@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270525
-DTEND;VALUE=DATE:20270526
-SUMMARY:MLB: Atlanta Braves at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853044
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270525T231000Z
+DTEND:20270526T021000Z
+SUMMARY:MLB: Atlanta Braves at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853044
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853044
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852407@football-watchlist
@@ -15162,22 +15142,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853050@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270526
-DTEND;VALUE=DATE:20270527
-SUMMARY:MLB: Atlanta Braves at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853050
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270526T161000Z
+DTEND:20270526T191000Z
+SUMMARY:MLB: Atlanta Braves at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853050
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853050
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852391@football-watchlist
@@ -15219,22 +15198,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853051@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270528
-DTEND;VALUE=DATE:20270529
-SUMMARY:MLB: New York Yankees at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853051
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270528T231000Z
+DTEND:20270529T021000Z
+SUMMARY:MLB: New York Yankees at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853051
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853051
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852388@football-watchlist
@@ -15256,25 +15234,6 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853053@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270529
-DTEND;VALUE=DATE:20270530
-SUMMARY:MLB: New York Yankees at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853053
-LOCATION:Citi Field
-URL:https://www.mlb.com/gameday/853053
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:soccer-401876195@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -15292,6 +15251,24 @@ URL:https://www.espn.com/soccer/match/_/gameId/401876195
 CATEGORIES:Soccer,Followed team,French Ligue 1
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-853053@football-watchlist
+DTSTAMP:20261102T224851Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270529T201000Z
+DTEND:20270529T231000Z
+SUMMARY:MLB: New York Yankees at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853053
+LOCATION:Citi Field
+URL:https://www.mlb.com/gameday/853053
+CATEGORIES:MLB,Followed team,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:chelsea-2645567@football-watchlist
@@ -15336,25 +15313,6 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853052@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270530
-DTEND;VALUE=DATE:20270531
-SUMMARY:MLB: New York Yankees at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853052
-LOCATION:Citi Field
-URL:https://www.mlb.com/gameday/853052
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:soccer-401875084@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -15372,6 +15330,24 @@ URL:https://www.espn.com/soccer/match/_/gameId/401875084
 CATEGORIES:Soccer,Followed team,Italian Serie A
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-853052@football-watchlist
+DTSTAMP:20261102T224851Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270530T174000Z
+DTEND:20270530T204000Z
+SUMMARY:MLB: New York Yankees at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853052
+LOCATION:Citi Field
+URL:https://www.mlb.com/gameday/853052
+CATEGORIES:MLB,Followed team,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854020@football-watchlist
@@ -15486,22 +15462,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853048@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270603
-DTEND;VALUE=DATE:20270604
-SUMMARY:MLB: Miami Marlins at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853048
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270603T231000Z
+DTEND:20270604T021000Z
+SUMMARY:MLB: Miami Marlins at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853048
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853048
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852396@football-watchlist
@@ -15524,22 +15499,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853046@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270604
-DTEND;VALUE=DATE:20270605
-SUMMARY:MLB: Miami Marlins at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853046
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270604T231000Z
+DTEND:20270605T021000Z
+SUMMARY:MLB: Miami Marlins at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853046
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853046
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852392@football-watchlist
@@ -15562,22 +15536,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853047@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270605
-DTEND;VALUE=DATE:20270606
-SUMMARY:MLB: Miami Marlins at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853047
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270605T201000Z
+DTEND:20270605T231000Z
+SUMMARY:MLB: Miami Marlins at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853047
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853047
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852390@football-watchlist
@@ -15600,22 +15573,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853049@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270606
-DTEND;VALUE=DATE:20270607
-SUMMARY:MLB: Miami Marlins at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853049
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270606T174000Z
+DTEND:20270606T204000Z
+SUMMARY:MLB: Miami Marlins at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853049
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853049
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853523@football-watchlist
@@ -15878,22 +15850,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853033@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270615
-DTEND;VALUE=DATE:20270616
-SUMMARY:MLB: San Diego Padres at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853033
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270615T231000Z
+DTEND:20270616T021000Z
+SUMMARY:MLB: San Diego Padres at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853033
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853033
 CATEGORIES:MLB,Followed team,San Diego Padres,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852385@football-watchlist
@@ -15916,22 +15887,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853029@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270616
-DTEND;VALUE=DATE:20270617
-SUMMARY:MLB: San Diego Padres at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853029
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270616T231000Z
+DTEND:20270617T021000Z
+SUMMARY:MLB: San Diego Padres at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853029
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853029
 CATEGORIES:MLB,Followed team,San Diego Padres,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852387@football-watchlist
@@ -15954,22 +15924,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853026@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270617
-DTEND;VALUE=DATE:20270618
-SUMMARY:MLB: San Diego Padres at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853026
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270617T171000Z
+DTEND:20270617T201000Z
+SUMMARY:MLB: San Diego Padres at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853026
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853026
 CATEGORIES:MLB,Followed team,San Diego Padres,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852389@football-watchlist
@@ -15992,22 +15961,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853038@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270618
-DTEND;VALUE=DATE:20270619
-SUMMARY:MLB: Washington Nationals at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853038
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270618T231000Z
+DTEND:20270619T021000Z
+SUMMARY:MLB: Washington Nationals at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853038
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853038
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852383@football-watchlist
@@ -16030,22 +15998,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853027@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270619
-DTEND;VALUE=DATE:20270620
-SUMMARY:MLB: Washington Nationals at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853027
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270619T201000Z
+DTEND:20270619T231000Z
+SUMMARY:MLB: Washington Nationals at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853027
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853027
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852384@football-watchlist
@@ -16068,41 +16035,39 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853036@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270620
-DTEND;VALUE=DATE:20270621
-SUMMARY:MLB: Washington Nationals at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853036
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270620T174000Z
+DTEND:20270620T204000Z
+SUMMARY:MLB: Washington Nationals at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853036
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853036
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853039@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270621
-DTEND;VALUE=DATE:20270622
-SUMMARY:MLB: Milwaukee Brewers at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853039
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270621T231000Z
+DTEND:20270622T021000Z
+SUMMARY:MLB: Milwaukee Brewers at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853039
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853039
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852394@football-watchlist
@@ -16125,22 +16090,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853031@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270622
-DTEND;VALUE=DATE:20270623
-SUMMARY:MLB: Milwaukee Brewers at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853031
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270622T231000Z
+DTEND:20270623T021000Z
+SUMMARY:MLB: Milwaukee Brewers at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853031
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853031
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852368@football-watchlist
@@ -16163,22 +16127,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853032@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270623
-DTEND;VALUE=DATE:20270624
-SUMMARY:MLB: Milwaukee Brewers at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853032
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270623T231000Z
+DTEND:20270624T021000Z
+SUMMARY:MLB: Milwaukee Brewers at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853032
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853032
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852372@football-watchlist
@@ -16576,22 +16539,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853035@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270706
-DTEND;VALUE=DATE:20270707
-SUMMARY:MLB: Miami Marlins at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853035
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270706T231000Z
+DTEND:20270707T021000Z
+SUMMARY:MLB: Miami Marlins at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853035
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853035
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852381@football-watchlist
@@ -16614,22 +16576,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853030@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270707
-DTEND;VALUE=DATE:20270708
-SUMMARY:MLB: Miami Marlins at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853030
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270707T231000Z
+DTEND:20270708T021000Z
+SUMMARY:MLB: Miami Marlins at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853030
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853030
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852370@football-watchlist
@@ -16652,22 +16613,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853037@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270708
-DTEND;VALUE=DATE:20270709
-SUMMARY:MLB: Miami Marlins at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853037
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270708T231000Z
+DTEND:20270709T021000Z
+SUMMARY:MLB: Miami Marlins at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853037
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853037
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852371@football-watchlist
@@ -16690,22 +16650,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853034@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270709
-DTEND;VALUE=DATE:20270710
-SUMMARY:MLB: Los Angeles Dodgers at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853034
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270709T231000Z
+DTEND:20270710T021000Z
+SUMMARY:MLB: Los Angeles Dodgers at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853034
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853034
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852379@football-watchlist
@@ -16728,22 +16687,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853028@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270710
-DTEND;VALUE=DATE:20270711
-SUMMARY:MLB: Los Angeles Dodgers at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853028
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270710T201000Z
+DTEND:20270710T231000Z
+SUMMARY:MLB: Los Angeles Dodgers at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853028
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853028
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852382@football-watchlist
@@ -16766,22 +16724,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853016@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270711
-DTEND;VALUE=DATE:20270712
-SUMMARY:MLB: Los Angeles Dodgers at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853016
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270711T174000Z
+DTEND:20270711T204000Z
+SUMMARY:MLB: Los Angeles Dodgers at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853016
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853016
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853261@football-watchlist
@@ -16895,25 +16852,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853915@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270719
-DTEND;VALUE=DATE:20270720
-SUMMARY:MLB: Tampa Bay Rays at Cincinnati Reds [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/853915
-LOCATION:Great American Ball Park
-URL:https://www.mlb.com/gameday/853915
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-854165@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -16933,23 +16871,22 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853914@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-853915@football-watchlist
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270720
-DTEND;VALUE=DATE:20270721
-SUMMARY:MLB: Tampa Bay Rays at Cincinnati Reds [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/853914
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270719T221000Z
+DTEND:20270720T011000Z
+SUMMARY:MLB: Tampa Bay Rays at Cincinnati Reds
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/853915
 LOCATION:Great American Ball Park
-URL:https://www.mlb.com/gameday/853914
+URL:https://www.mlb.com/gameday/853915
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854150@football-watchlist
@@ -16971,23 +16908,22 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853905@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-853914@football-watchlist
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270721
-DTEND;VALUE=DATE:20270722
-SUMMARY:MLB: Tampa Bay Rays at Cincinnati Reds [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/853905
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270720T231000Z
+DTEND:20270721T021000Z
+SUMMARY:MLB: Tampa Bay Rays at Cincinnati Reds
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/853914
 LOCATION:Great American Ball Park
-URL:https://www.mlb.com/gameday/853905
+URL:https://www.mlb.com/gameday/853914
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854155@football-watchlist
@@ -17009,23 +16945,40 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853025@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-853905@football-watchlist
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270722
-DTEND;VALUE=DATE:20270723
-SUMMARY:MLB: Philadelphia Phillies at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853025
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270721T164000Z
+DTEND:20270721T194000Z
+SUMMARY:MLB: Tampa Bay Rays at Cincinnati Reds
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/853905
+LOCATION:Great American Ball Park
+URL:https://www.mlb.com/gameday/853905
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-853025@football-watchlist
+DTSTAMP:20261102T224851Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270722T231000Z
+DTEND:20270723T021000Z
+SUMMARY:MLB: Philadelphia Phillies at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853025
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853025
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852369@football-watchlist
@@ -17048,22 +17001,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853021@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270723
-DTEND;VALUE=DATE:20270724
-SUMMARY:MLB: Philadelphia Phillies at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853021
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270723T171000Z
+DTEND:20270723T201000Z
+SUMMARY:MLB: Philadelphia Phillies at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853021
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853021
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852380@football-watchlist
@@ -17086,22 +17038,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853014@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270724
-DTEND;VALUE=DATE:20270725
-SUMMARY:MLB: Philadelphia Phillies at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853014
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270724T201000Z
+DTEND:20270724T231000Z
+SUMMARY:MLB: Philadelphia Phillies at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853014
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853014
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852378@football-watchlist
@@ -17124,22 +17075,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853023@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270725
-DTEND;VALUE=DATE:20270726
-SUMMARY:MLB: Philadelphia Phillies at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853023
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270725T174000Z
+DTEND:20270725T204000Z
+SUMMARY:MLB: Philadelphia Phillies at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853023
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853023
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852375@football-watchlist
@@ -17162,22 +17112,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853024@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270726
-DTEND;VALUE=DATE:20270727
-SUMMARY:MLB: Arizona Diamondbacks at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853024
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270726T231000Z
+DTEND:20270727T021000Z
+SUMMARY:MLB: Arizona Diamondbacks at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853024
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853024
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852376@football-watchlist
@@ -17200,22 +17149,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853017@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270727
-DTEND;VALUE=DATE:20270728
-SUMMARY:MLB: Arizona Diamondbacks at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853017
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270727T231000Z
+DTEND:20270728T021000Z
+SUMMARY:MLB: Arizona Diamondbacks at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853017
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853017
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852374@football-watchlist
@@ -17238,22 +17186,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853015@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270728
-DTEND;VALUE=DATE:20270729
-SUMMARY:MLB: Arizona Diamondbacks at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853015
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270728T171000Z
+DTEND:20270728T201000Z
+SUMMARY:MLB: Arizona Diamondbacks at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853015
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853015
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852377@football-watchlist
@@ -17389,25 +17336,6 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853910@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270802
-DTEND;VALUE=DATE:20270803
-SUMMARY:MLB: New York Mets at Cincinnati Reds [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853910
-LOCATION:Great American Ball Park
-URL:https://www.mlb.com/gameday/853910
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-854478@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -17427,23 +17355,22 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853907@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-853910@football-watchlist
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270803
-DTEND;VALUE=DATE:20270804
-SUMMARY:MLB: New York Mets at Cincinnati Reds [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853907
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270802T224000Z
+DTEND:20270803T014000Z
+SUMMARY:MLB: New York Mets at Cincinnati Reds
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853910
 LOCATION:Great American Ball Park
-URL:https://www.mlb.com/gameday/853907
+URL:https://www.mlb.com/gameday/853910
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854477@football-watchlist
@@ -17465,23 +17392,22 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853913@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-853907@football-watchlist
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270804
-DTEND;VALUE=DATE:20270805
-SUMMARY:MLB: New York Mets at Cincinnati Reds [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853913
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270803T224000Z
+DTEND:20270804T014000Z
+SUMMARY:MLB: New York Mets at Cincinnati Reds
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853907
 LOCATION:Great American Ball Park
-URL:https://www.mlb.com/gameday/853913
+URL:https://www.mlb.com/gameday/853907
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854476@football-watchlist
@@ -17501,6 +17427,24 @@ URL:https://www.mlb.com/gameday/854476
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-853913@football-watchlist
+DTSTAMP:20261102T224851Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270804T224000Z
+DTEND:20270805T014000Z
+SUMMARY:MLB: New York Mets at Cincinnati Reds
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853913
+LOCATION:Great American Ball Park
+URL:https://www.mlb.com/gameday/853913
+CATEGORIES:MLB,Followed team,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852358@football-watchlist
@@ -17523,22 +17467,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853020@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270806
-DTEND;VALUE=DATE:20270807
-SUMMARY:MLB: Washington Nationals at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853020
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270806T231000Z
+DTEND:20270807T021000Z
+SUMMARY:MLB: Washington Nationals at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853020
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853020
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852357@football-watchlist
@@ -17561,22 +17504,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853019@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270807
-DTEND;VALUE=DATE:20270808
-SUMMARY:MLB: Washington Nationals at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853019
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270807T201000Z
+DTEND:20270807T231000Z
+SUMMARY:MLB: Washington Nationals at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853019
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853019
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852366@football-watchlist
@@ -17599,22 +17541,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853013@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270808
-DTEND;VALUE=DATE:20270809
-SUMMARY:MLB: Washington Nationals at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853013
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270808T174000Z
+DTEND:20270808T204000Z
+SUMMARY:MLB: Washington Nationals at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853013
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853013
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852362@football-watchlist
@@ -17637,22 +17578,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853018@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270809
-DTEND;VALUE=DATE:20270810
-SUMMARY:MLB: Atlanta Braves at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853018
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270809T231000Z
+DTEND:20270810T021000Z
+SUMMARY:MLB: Atlanta Braves at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853018
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853018
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852367@football-watchlist
@@ -17675,22 +17615,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853022@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270810
-DTEND;VALUE=DATE:20270811
-SUMMARY:MLB: Atlanta Braves at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853022
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270810T231000Z
+DTEND:20270811T021000Z
+SUMMARY:MLB: Atlanta Braves at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853022
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853022
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852360@football-watchlist
@@ -17713,41 +17652,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853006@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270811
-DTEND;VALUE=DATE:20270812
-SUMMARY:MLB: Atlanta Braves at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853006
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270811T171000Z
+DTEND:20270811T201000Z
+SUMMARY:MLB: Atlanta Braves at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853006
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853006
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-853001@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270813
-DTEND;VALUE=DATE:20270814
-SUMMARY:MLB: St. Louis Cardinals at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853001
-LOCATION:Citi Field
-URL:https://www.mlb.com/gameday/853001
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854061@football-watchlist
@@ -17769,23 +17688,22 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853007@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-853001@football-watchlist
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270814
-DTEND;VALUE=DATE:20270815
-SUMMARY:MLB: St. Louis Cardinals at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853007
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270813T231000Z
+DTEND:20270814T021000Z
+SUMMARY:MLB: St. Louis Cardinals at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853001
 LOCATION:Citi Field
-URL:https://www.mlb.com/gameday/853007
+URL:https://www.mlb.com/gameday/853001
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854067@football-watchlist
@@ -17807,23 +17725,22 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853008@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-853007@football-watchlist
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270815
-DTEND;VALUE=DATE:20270816
-SUMMARY:MLB: St. Louis Cardinals at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853008
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270814T201000Z
+DTEND:20270814T231000Z
+SUMMARY:MLB: St. Louis Cardinals at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853007
 LOCATION:Citi Field
-URL:https://www.mlb.com/gameday/853008
+URL:https://www.mlb.com/gameday/853007
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854056@football-watchlist
@@ -17843,6 +17760,24 @@ URL:https://www.mlb.com/gameday/854056
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-853008@football-watchlist
+DTSTAMP:20261102T224851Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270815T174000Z
+DTEND:20270815T204000Z
+SUMMARY:MLB: St. Louis Cardinals at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853008
+LOCATION:Citi Field
+URL:https://www.mlb.com/gameday/853008
+CATEGORIES:MLB,Followed team,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853574@football-watchlist
@@ -18090,22 +18025,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853000@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270824
-DTEND;VALUE=DATE:20270825
-SUMMARY:MLB: Colorado Rockies at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853000
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270824T231000Z
+DTEND:20270825T021000Z
+SUMMARY:MLB: Colorado Rockies at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853000
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853000
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852356@football-watchlist
@@ -18128,22 +18062,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853010@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270825
-DTEND;VALUE=DATE:20270826
-SUMMARY:MLB: Colorado Rockies at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853010
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270825T231000Z
+DTEND:20270826T021000Z
+SUMMARY:MLB: Colorado Rockies at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853010
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853010
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852365@football-watchlist
@@ -18166,22 +18099,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853004@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270826
-DTEND;VALUE=DATE:20270827
-SUMMARY:MLB: Colorado Rockies at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853004
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270826T231000Z
+DTEND:20270827T021000Z
+SUMMARY:MLB: Colorado Rockies at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853004
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853004
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852355@football-watchlist
@@ -18204,22 +18136,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852999@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270827
-DTEND;VALUE=DATE:20270828
-SUMMARY:MLB: Chicago White Sox at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/852999
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270827T231000Z
+DTEND:20270828T021000Z
+SUMMARY:MLB: Chicago White Sox at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/852999
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/852999
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852361@football-watchlist
@@ -18242,22 +18173,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853011@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270828
-DTEND;VALUE=DATE:20270829
-SUMMARY:MLB: Chicago White Sox at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853011
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270828T201000Z
+DTEND:20270828T231000Z
+SUMMARY:MLB: Chicago White Sox at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853011
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853011
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852364@football-watchlist
@@ -18280,22 +18210,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853003@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270829
-DTEND;VALUE=DATE:20270830
-SUMMARY:MLB: Chicago White Sox at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853003
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270829T174000Z
+DTEND:20270829T204000Z
+SUMMARY:MLB: Chicago White Sox at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853003
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853003
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852359@football-watchlist
@@ -18539,25 +18468,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853012@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270906
-DTEND;VALUE=DATE:20270907
-SUMMARY:MLB: Seattle Mariners at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853012
-LOCATION:Citi Field
-URL:https://www.mlb.com/gameday/853012
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-854210@football-watchlist
 DTSTAMP:20261027T235047Z
 CREATED:20261026T100606Z
@@ -18576,23 +18486,22 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853005@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-853012@football-watchlist
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270907
-DTEND;VALUE=DATE:20270908
-SUMMARY:MLB: Seattle Mariners at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853005
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270906T201000Z
+DTEND:20270906T231000Z
+SUMMARY:MLB: Seattle Mariners at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853012
 LOCATION:Citi Field
-URL:https://www.mlb.com/gameday/853005
+URL:https://www.mlb.com/gameday/853012
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854207@football-watchlist
@@ -18613,23 +18522,22 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853002@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-853005@football-watchlist
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270908
-DTEND;VALUE=DATE:20270909
-SUMMARY:MLB: Seattle Mariners at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853002
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270907T231000Z
+DTEND:20270908T021000Z
+SUMMARY:MLB: Seattle Mariners at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853005
 LOCATION:Citi Field
-URL:https://www.mlb.com/gameday/853002
+URL:https://www.mlb.com/gameday/853005
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854217@football-watchlist
@@ -18646,6 +18554,24 @@ DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
 LOCATION:Oriole Park at Camden Yards
 URL:https://www.mlb.com/gameday/854217
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-853002@football-watchlist
+DTSTAMP:20261102T224851Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270908T231000Z
+DTEND:20270909T021000Z
+SUMMARY:MLB: Seattle Mariners at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853002
+LOCATION:Citi Field
+URL:https://www.mlb.com/gameday/853002
+CATEGORIES:MLB,Followed team,New York Mets
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -18670,22 +18596,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853009@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270910
-DTEND;VALUE=DATE:20270911
-SUMMARY:MLB: Cleveland Guardians at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853009
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270910T231000Z
+DTEND:20270911T021000Z
+SUMMARY:MLB: Cleveland Guardians at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853009
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853009
 CATEGORIES:MLB,Followed team,Cleveland Guardians,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852342@football-watchlist
@@ -18708,22 +18633,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852995@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270911
-DTEND;VALUE=DATE:20270912
-SUMMARY:MLB: Cleveland Guardians at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/852995
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270911T201000Z
+DTEND:20270911T231000Z
+SUMMARY:MLB: Cleveland Guardians at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/852995
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/852995
 CATEGORIES:MLB,Followed team,Cleveland Guardians,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852348@football-watchlist
@@ -18746,22 +18670,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852994@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270912
-DTEND;VALUE=DATE:20270913
-SUMMARY:MLB: Cleveland Guardians at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/852994
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270912T174000Z
+DTEND:20270912T204000Z
+SUMMARY:MLB: Cleveland Guardians at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/852994
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/852994
 CATEGORIES:MLB,Followed team,Cleveland Guardians,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852109@football-watchlist
@@ -19007,25 +18930,6 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852992@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270921
-DTEND;VALUE=DATE:20270922
-SUMMARY:MLB: Pittsburgh Pirates at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/852992
-LOCATION:Citi Field
-URL:https://www.mlb.com/gameday/852992
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-854125@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -19045,23 +18949,22 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852997@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-852992@football-watchlist
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270922
-DTEND;VALUE=DATE:20270923
-SUMMARY:MLB: Pittsburgh Pirates at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/852997
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270921T231000Z
+DTEND:20270922T021000Z
+SUMMARY:MLB: Pittsburgh Pirates at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/852992
 LOCATION:Citi Field
-URL:https://www.mlb.com/gameday/852997
+URL:https://www.mlb.com/gameday/852992
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854123@football-watchlist
@@ -19083,23 +18986,22 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852985@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-852997@football-watchlist
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270923
-DTEND;VALUE=DATE:20270924
-SUMMARY:MLB: Pittsburgh Pirates at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/852985
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270922T231000Z
+DTEND:20270923T021000Z
+SUMMARY:MLB: Pittsburgh Pirates at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/852997
 LOCATION:Citi Field
-URL:https://www.mlb.com/gameday/852985
+URL:https://www.mlb.com/gameday/852997
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854126@football-watchlist
@@ -19119,6 +19021,24 @@ URL:https://www.mlb.com/gameday/854126
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-852985@football-watchlist
+DTSTAMP:20261102T224851Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270923T231000Z
+DTEND:20270924T021000Z
+SUMMARY:MLB: Pittsburgh Pirates at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/852985
+LOCATION:Citi Field
+URL:https://www.mlb.com/gameday/852985
+CATEGORIES:MLB,Followed team,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852182@football-watchlist
@@ -19141,22 +19061,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852986@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270924
-DTEND;VALUE=DATE:20270925
-SUMMARY:MLB: Chicago Cubs at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/852986
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270924T231000Z
+DTEND:20270925T021000Z
+SUMMARY:MLB: Chicago Cubs at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/852986
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/852986
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852183@football-watchlist
@@ -19179,22 +19098,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852993@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270925
-DTEND;VALUE=DATE:20270926
-SUMMARY:MLB: Chicago Cubs at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/852993
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270925T201000Z
+DTEND:20270925T231000Z
+SUMMARY:MLB: Chicago Cubs at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/852993
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/852993
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852186@football-watchlist
@@ -19217,21 +19135,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852990@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270926
-DTEND;VALUE=DATE:20270927
-SUMMARY:MLB: Chicago Cubs at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/852990
+LAST-MODIFIED:20261102T224851Z
+SEQUENCE:1
+DTSTART:20270926T191000Z
+DTEND:20270926T221000Z
+SUMMARY:MLB: Chicago Cubs at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/852990
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/852990
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
