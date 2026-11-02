@@ -8,26 +8,6 @@ X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:mlb-822931@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260902T224000Z
-DTEND:20260903T014000Z
-SUMMARY:MLB: New York Mets at Tampa Bay Rays
-DESCRIPTION:Following New York Mets and Tampa Bay Rays: every regular-seaso
- n game.\n\nViewing window: 3 hours\; finish is approximate.\n\nProbable pi
- tchers (subject to change): Justin Hagenman / Griffin Jax.\n\nListed broad
- casts: SNY / Rays.TV. Availability varies by country and provider.\n\nOffi
- cial schedule: https://www.mlb.com/gameday/822931
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/822931
-CATEGORIES:MLB,Followed team,New York Mets,Tampa Bay Rays
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-822853@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z

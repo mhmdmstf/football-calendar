@@ -1,41 +1,7 @@
 {
-  "checkedOn": "2026-11-01",
+  "checkedOn": "2026-11-02",
   "season": 2026,
   "events": [
-    {
-      "uid": "mlb-822931@football-watchlist",
-      "gameId": "822931",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/121:45/139:45",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "121",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following New York Mets and Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: New York Mets at Tampa Bay Rays",
-      "start": "2026-09-02T22:40:00.000Z",
-      "end": "2026-09-03T01:40:00.000Z",
-      "allDay": false,
-      "description": "Following New York Mets and Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Justin Hagenman / Griffin Jax.\n\nListed broadcasts: SNY / Rays.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822931",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/822931",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets",
-        "Tampa Bay Rays"
-      ],
-      "hash": "db52b0c95d7e084ab82627780e1f7525221b7a60cdf36620b3fc9963e8872494",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
     {
       "uid": "mlb-822853@football-watchlist",
       "gameId": "822853",
@@ -28126,7 +28092,7 @@
   "nflGames": 285,
   "collegeGames": 950,
   "baseball": {
-    "checkedOn": "2026-11-01",
+    "checkedOn": "2026-11-02",
     "season": 2026,
     "scheduleGames": 996,
     "followedRegularSeasons": {
@@ -28139,11 +28105,11 @@
         "139": 162
       }
     },
-    "events": 414,
+    "events": 413,
     "playoffEvents": 40
   },
   "hockey": {
-    "checkedOn": "2026-11-01",
+    "checkedOn": "2026-11-02",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -28160,7 +28126,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-11-01",
+    "checkedOn": "2026-11-02",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
@@ -28170,7 +28136,7 @@
     "events": 38
   },
   "soccer": {
-    "checkedOn": "2026-11-01",
+    "checkedOn": "2026-11-02",
     "season": 2026,
     "window": {
       "start": "2026-11-02",
