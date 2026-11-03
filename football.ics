@@ -6009,51 +6009,46 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401915386@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261103T203109Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
+LAST-MODIFIED:20261103T203109Z
+SEQUENCE:1
 DTSTART:20261103T200000Z
 DTEND:20261103T220000Z
-SUMMARY:Atlético Madrid vs Bayern Munich - UEFA Champions League [provisio
- nal]
+SUMMARY:Atlético Madrid vs Bayern Munich - UEFA Champions League
 DESCRIPTION:Champions League watchlist: league phase\; UEFA Champions Leagu
  e\, League Phase.\nChampions League table: Atlético Madrid #16\, Bayern M
  unich #14.\nHigh-profile club matchup.\n\nSelection made 2026-10-26. Table
   positions describe that snapshot\, not predicted results. Picks are kept 
- once added.\n\nProvisional source-listed date and kickoff. ESPN does not r
- eliably distinguish TV-confirmed dates from provisional fixtures\; both ma
- y change. The calendar updates when the schedule changes.\n\nViewing windo
- w: 2 hours\; finish is approximate.\n\nSchedule: https://www.espn.com/socc
- er/match/_/gameId/401915386
+ once added.\n\nKickoff shown in your calendar’s local time.\n\nViewing w
+ indow: 2 hours\; finish is approximate.\n\nSchedule: https://www.espn.com/
+ soccer/match/_/gameId/401915386
 LOCATION:Riyadh Air Metropolitano
 URL:https://www.espn.com/soccer/match/_/gameId/401915386
 CATEGORIES:Soccer,European pick,UEFA Champions League
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401915387@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261103T203109Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
+LAST-MODIFIED:20261103T203109Z
+SEQUENCE:1
 DTSTART:20261103T200000Z
 DTEND:20261103T220000Z
-SUMMARY:Barcelona vs Aston Villa - UEFA Champions League [provisional]
+SUMMARY:Barcelona vs Aston Villa - UEFA Champions League
 DESCRIPTION:Champions League watchlist: league phase\; UEFA Champions Leagu
  e\, League Phase.\nBoth clubs are in the current top 12: Barcelona #8\, As
  ton Villa #2.\n\nSelection made 2026-10-26. Table positions describe that 
- snapshot\, not predicted results. Picks are kept once added.\n\nProvisiona
- l source-listed date and kickoff. ESPN does not reliably distinguish TV-co
- nfirmed dates from provisional fixtures\; both may change. The calendar up
- dates when the schedule changes.\n\nViewing window: 2 hours\; finish is ap
- proximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/4019153
- 87
+ snapshot\, not predicted results. Picks are kept once added.\n\nKickoff sh
+ own in your calendar’s local time.\n\nViewing window: 2 hours\; finish i
+ s approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401
+ 915387
 LOCATION:Spotify Camp Nou
 URL:https://www.espn.com/soccer/match/_/gameId/401915387
 CATEGORIES:Soccer,European pick,UEFA Champions League
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -6294,21 +6289,20 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:show-bignoon-2026-11-07@football-watchlist
-DTSTAMP:20260905T144637Z
+DTSTAMP:20261103T203109Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
+LAST-MODIFIED:20261103T203109Z
+SEQUENCE:1
 DTSTART:20261107T150000Z
 DTEND:20261107T170000Z
-SUMMARY:Big Noon Kickoff: location TBA
-DESCRIPTION:Usual Saturday broadcast window: 10:00 a.m. to noon Eastern on 
- FOX. Location and this week's broadcast hours have not been confirmed. Ten
- tative placeholder\, subject to broadcast changes.\nSource: https://www.fo
- xsports.com/big-noon-kickoff-experience
+SUMMARY:Big Noon Kickoff: Army vs. Air Force
+DESCRIPTION:Big Noon Kickoff on FOX. Featured game: Army vs. Air Force. Bro
+ adcast window: 10:00 a.m. to noon Eastern. Broadcast schedules can change.
+ \nSource: https://www.foxsports.com/big-noon-kickoff-experience
 LOCATION:
 URL:https://www.foxsports.com/big-noon-kickoff-experience
 CATEGORIES:College,Pregame
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -6477,6 +6471,27 @@ LOCATION:Ryan Field\, Evanston\, IL\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401858513/iowa-nort
  hwestern
 CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401862823@football-watchlist
+DTSTAMP:20261103T203109Z
+CREATED:20261103T203109Z
+LAST-MODIFIED:20261103T203109Z
+SEQUENCE:0
+DTSTART:20261108T003000Z
+DTEND:20261108T040000Z
+SUMMARY:CFB: Air Force at Army
+DESCRIPTION:Confirmed College GameDay or Big Noon featured matchup.\n\nTeam
+ s: Air Force Falcons at Army Black Knights\n\nUS broadcast: CBS. Availabil
+ ity elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championsh
+ ips)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-fo
+ otball/game/_/gameId/401862823/air-force-army
+LOCATION:Michie Stadium\, West Point\, NY\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401862823/air-force
+ -army
+CATEGORIES:College
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -6937,18 +6952,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858522@football-watchlist
-DTSTAMP:20261103T094223Z
+DTSTAMP:20261103T203109Z
 CREATED:20261024T072439Z
-LAST-MODIFIED:20261103T094223Z
-SEQUENCE:1
+LAST-MODIFIED:20261103T203109Z
+SEQUENCE:2
 DTSTART:20261114T170000Z
 DTEND:20261114T203000Z
 SUMMARY:CFB: Northwestern at Ohio State
 DESCRIPTION:National pick: ranked matchup (#3 vs #24) at selection.\n\nTeam
- s: Northwestern Wildcats at Ohio State Buckeyes\n\nBroadcast to be announc
- ed.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish is a
- pproximate.\n\nSchedule: https://www.espn.com/college-football/game/_/game
- Id/401858522/northwestern-ohio-state
+ s: Northwestern Wildcats at Ohio State Buckeyes\n\nUS broadcast: Fox. Avai
+ lability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champ
+ ionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/colle
+ ge-football/game/_/gameId/401858522/northwestern-ohio-state
 LOCATION:Ohio Stadium\, Columbus\, OH\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401858522/northwest
  ern-ohio-state
@@ -7000,18 +7015,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858518@football-watchlist
-DTSTAMP:20261103T094223Z
+DTSTAMP:20261103T203109Z
 CREATED:20261024T072439Z
-LAST-MODIFIED:20261103T094223Z
-SEQUENCE:1
+LAST-MODIFIED:20261103T203109Z
+SEQUENCE:2
 DTSTART:20261114T203000Z
 DTEND:20261115T000000Z
 SUMMARY:CFB: USC at Indiana
 DESCRIPTION:National pick: ranked matchup (#6 vs #16) at selection.\n\nTeam
- s: USC Trojans at Indiana Hoosiers\n\nBroadcast to be announced.\n\nViewin
- g window: 3.5 hours (4 hours for championships)\; finish is approximate.\n
- \nSchedule: https://www.espn.com/college-football/game/_/gameId/401858518/
- usc-indiana
+ s: USC Trojans at Indiana Hoosiers\n\nUS broadcast: CBS. Availability else
+ where varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; f
+ inish is approximate.\n\nSchedule: https://www.espn.com/college-football/g
+ ame/_/gameId/401858518/usc-indiana
 LOCATION:Memorial Stadium (Bloomington\, IN)\, Bloomington\, IN\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401858518/usc-india
  na
@@ -16127,12 +16142,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853032@football-watchlist
-DTSTAMP:20261102T224851Z
+DTSTAMP:20261103T203109Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261102T224851Z
-SEQUENCE:1
-DTSTART:20270623T231000Z
-DTEND:20270624T021000Z
+LAST-MODIFIED:20261103T203109Z
+SEQUENCE:2
+DTSTART:20270623T171000Z
+DTEND:20270623T201000Z
 SUMMARY:MLB: Milwaukee Brewers at New York Mets
 DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
@@ -17001,12 +17016,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853021@football-watchlist
-DTSTAMP:20261102T224851Z
+DTSTAMP:20261103T203109Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261102T224851Z
-SEQUENCE:1
-DTSTART:20270723T171000Z
-DTEND:20270723T201000Z
+LAST-MODIFIED:20261103T203109Z
+SEQUENCE:2
+DTSTART:20270723T231000Z
+DTEND:20270724T021000Z
 SUMMARY:MLB: Philadelphia Phillies at New York Mets
 DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n

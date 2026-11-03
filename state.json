@@ -7964,12 +7964,12 @@
         "High-profile club matchup."
       ],
       "soccerSelectedOn": "2026-10-26",
-      "title": "Atlético Madrid vs Bayern Munich - UEFA Champions League [provisional]",
+      "title": "Atlético Madrid vs Bayern Munich - UEFA Champions League",
       "start": "2026-11-03T20:00:00.000Z",
       "end": "2026-11-03T22:00:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Champions League watchlist: league phase; UEFA Champions League, League Phase.\nChampions League table: Atlético Madrid #16, Bayern Munich #14.\nHigh-profile club matchup.\n\nSelection made 2026-10-26. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915386",
+      "status": "CONFIRMED",
+      "description": "Champions League watchlist: league phase; UEFA Champions League, League Phase.\nChampions League table: Atlético Madrid #16, Bayern Munich #14.\nHigh-profile club matchup.\n\nSelection made 2026-10-26. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915386",
       "location": "Riyadh Air Metropolitano",
       "url": "https://www.espn.com/soccer/match/_/gameId/401915386",
       "categories": [
@@ -7977,10 +7977,10 @@
         "European pick",
         "UEFA Champions League"
       ],
-      "hash": "804cab71652d500eccc306b61b460efd73ff8cbf6b59f2e150390e0c48191dab",
+      "hash": "24ca495a11e601d88deee5a6a1e869d9260ff8379e0e99d0b851302bde1c2455",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-03T20:31:09.302Z",
+      "sequence": 1
     },
     {
       "uid": "soccer-401915387@football-watchlist",
@@ -7999,12 +7999,12 @@
         "Both clubs are in the current top 12: Barcelona #8, Aston Villa #2."
       ],
       "soccerSelectedOn": "2026-10-26",
-      "title": "Barcelona vs Aston Villa - UEFA Champions League [provisional]",
+      "title": "Barcelona vs Aston Villa - UEFA Champions League",
       "start": "2026-11-03T20:00:00.000Z",
       "end": "2026-11-03T22:00:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Champions League watchlist: league phase; UEFA Champions League, League Phase.\nBoth clubs are in the current top 12: Barcelona #8, Aston Villa #2.\n\nSelection made 2026-10-26. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915387",
+      "status": "CONFIRMED",
+      "description": "Champions League watchlist: league phase; UEFA Champions League, League Phase.\nBoth clubs are in the current top 12: Barcelona #8, Aston Villa #2.\n\nSelection made 2026-10-26. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915387",
       "location": "Spotify Camp Nou",
       "url": "https://www.espn.com/soccer/match/_/gameId/401915387",
       "categories": [
@@ -8012,10 +8012,10 @@
         "European pick",
         "UEFA Champions League"
       ],
-      "hash": "bc4b04330d83f24e0ffaa065225e82c42643a0ce61ef65413d690bbcaa6f8de2",
+      "hash": "8958f2b977b8a24a7601cd16bfda3c74c85ad1d54e45386296cfec4e457220cd",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-03T20:31:09.302Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026020245@football-watchlist",
@@ -8350,22 +8350,23 @@
     },
     {
       "uid": "show-bignoon-2026-11-07@football-watchlist",
-      "title": "Big Noon Kickoff: location TBA",
+      "title": "Big Noon Kickoff: Army vs. Air Force",
+      "gameId": "401862823",
       "start": "2026-11-07T15:00:00.000Z",
       "end": "2026-11-07T17:00:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Usual Saturday broadcast window: 10:00 a.m. to noon Eastern on FOX. Location and this week's broadcast hours have not been confirmed. Tentative placeholder, subject to broadcast changes.\nSource: https://www.foxsports.com/big-noon-kickoff-experience",
+      "status": "CONFIRMED",
+      "description": "Big Noon Kickoff on FOX. Featured game: Army vs. Air Force. Broadcast window: 10:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://www.foxsports.com/big-noon-kickoff-experience",
       "location": "",
       "url": "https://www.foxsports.com/big-noon-kickoff-experience",
       "categories": [
         "College",
         "Pregame"
       ],
-      "hash": "bf9f9de7171f8377f4cd72a1fb3e46d8d129386cda2b97b1ac7a8ef72216cb7b",
+      "hash": "72d586a0e8ce115d7864415204c4ddfe3ad231cd541a26360fd27d1c4b9e3062",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
+      "modified": "2026-11-03T20:31:09.302Z",
+      "sequence": 1
     },
     {
       "uid": "soccer-401878760@football-watchlist",
@@ -8546,6 +8547,25 @@
       "created": "2026-10-17T07:02:36.015Z",
       "modified": "2026-11-01T18:59:30.256Z",
       "sequence": 1
+    },
+    {
+      "uid": "college-football-401862823@football-watchlist",
+      "gameId": "401862823",
+      "title": "CFB: Air Force at Army",
+      "start": "2026-11-08T00:30:00.000Z",
+      "end": "2026-11-08T04:00:00.000Z",
+      "allDay": false,
+      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: Air Force Falcons at Army Black Knights\n\nUS broadcast: CBS. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401862823/air-force-army",
+      "location": "Michie Stadium, West Point, NY, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401862823/air-force-army",
+      "status": "CONFIRMED",
+      "categories": [
+        "College"
+      ],
+      "hash": "df0fb4d9dbf4ff02ac70b7237b61eb40e53e66de080697018f4f99e12fa9ea87",
+      "created": "2026-11-03T20:31:09.302Z",
+      "modified": "2026-11-03T20:31:09.302Z",
+      "sequence": 0
     },
     {
       "uid": "nhl-2026020271@football-watchlist",
@@ -9118,7 +9138,7 @@
       "start": "2026-11-14T17:00:00.000Z",
       "end": "2026-11-14T20:30:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#3 vs #24) at selection.\n\nTeams: Northwestern Wildcats at Ohio State Buckeyes\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858522/northwestern-ohio-state",
+      "description": "National pick: ranked matchup (#3 vs #24) at selection.\n\nTeams: Northwestern Wildcats at Ohio State Buckeyes\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858522/northwestern-ohio-state",
       "location": "Ohio Stadium, Columbus, OH, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401858522/northwestern-ohio-state",
       "status": "CONFIRMED",
@@ -9127,10 +9147,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#3 vs #24) at selection.",
-      "hash": "232cdf71e72a6096ab88d1df8817f9562901e27aaa4a05901291b0561f5d1e89",
+      "hash": "27e9d50edb03ec537aa66017a6d6397d0fcf2c90c742ccff1d308b8efb2a34a3",
       "created": "2026-10-24T07:24:39.719Z",
-      "modified": "2026-11-03T09:42:23.994Z",
-      "sequence": 1
+      "modified": "2026-11-03T20:31:09.302Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401856889@football-watchlist",
@@ -9189,7 +9209,7 @@
       "start": "2026-11-14T20:30:00.000Z",
       "end": "2026-11-15T00:00:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#6 vs #16) at selection.\n\nTeams: USC Trojans at Indiana Hoosiers\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858518/usc-indiana",
+      "description": "National pick: ranked matchup (#6 vs #16) at selection.\n\nTeams: USC Trojans at Indiana Hoosiers\n\nUS broadcast: CBS. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858518/usc-indiana",
       "location": "Memorial Stadium (Bloomington, IN), Bloomington, IN, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401858518/usc-indiana",
       "status": "CONFIRMED",
@@ -9198,10 +9218,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#6 vs #16) at selection.",
-      "hash": "c30238842816d8a5308c5f84841a1def29aa0e4b1dfda346c6c30a79ac5cba00",
+      "hash": "4b6094c7b611044d7a8cb13bf8eb5bdd9959d2e3b00afc932cefbd971a1ad20e",
       "created": "2026-10-24T07:24:39.719Z",
-      "modified": "2026-11-03T09:42:23.994Z",
-      "sequence": 1
+      "modified": "2026-11-03T20:31:09.302Z",
+      "sequence": 2
     },
     {
       "uid": "nhl-2026020323@football-watchlist",
@@ -22716,8 +22736,8 @@
         "Following New York Mets: every regular-season game."
       ],
       "title": "MLB: Milwaukee Brewers at New York Mets",
-      "start": "2027-06-23T23:10:00.000Z",
-      "end": "2027-06-24T02:10:00.000Z",
+      "start": "2027-06-23T17:10:00.000Z",
+      "end": "2027-06-23T20:10:00.000Z",
       "allDay": false,
       "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853032",
       "location": "Citi Field",
@@ -22728,10 +22748,10 @@
         "Followed team",
         "New York Mets"
       ],
-      "hash": "f0d27ec835e742797c60825df36754742a85578656877767610762c9ad6eb5d1",
+      "hash": "49d6c4a442bcfd014599ae16d57c20cc3e7066e49e8ed27d412de0f63ea9105d",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-11-02T22:48:51.042Z",
-      "sequence": 1
+      "modified": "2026-11-03T20:31:09.302Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-852372@football-watchlist",
@@ -24270,8 +24290,8 @@
         "Following New York Mets: every regular-season game."
       ],
       "title": "MLB: Philadelphia Phillies at New York Mets",
-      "start": "2027-07-23T17:10:00.000Z",
-      "end": "2027-07-23T20:10:00.000Z",
+      "start": "2027-07-23T23:10:00.000Z",
+      "end": "2027-07-24T02:10:00.000Z",
       "allDay": false,
       "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853021",
       "location": "Citi Field",
@@ -24282,10 +24302,10 @@
         "Followed team",
         "New York Mets"
       ],
-      "hash": "95f20ad2d13ace1a33ad68f286ebc09aeac84a66b20db8b0f444bde828a8c6ab",
+      "hash": "29f3dcf0d5edef25266f9e9efb44cd5be30f0f57365bcb6582dd83cc28b8b52d",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-11-02T22:48:51.042Z",
-      "sequence": 1
+      "modified": "2026-11-03T20:31:09.302Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-852380@football-watchlist",
