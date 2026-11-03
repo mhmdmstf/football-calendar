@@ -6898,48 +6898,6 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:college-football-401858518@football-watchlist
-DTSTAMP:20261024T072439Z
-CREATED:20261024T072439Z
-LAST-MODIFIED:20261024T072439Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:CFB: USC at Indiana [time TBA]
-DESCRIPTION:National pick: ranked matchup (#6 vs #16) at selection.\n\nTeam
- s: USC Trojans at Indiana Hoosiers\n\nBroadcast to be announced.\n\nKickof
- f has not been announced. This all-day marker will become a timed event wh
- en confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/ga
- meId/401858518/usc-indiana
-LOCATION:Memorial Stadium (Bloomington\, IN)\, Bloomington\, IN\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858518/usc-india
- na
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401858522@football-watchlist
-DTSTAMP:20261024T072439Z
-CREATED:20261024T072439Z
-LAST-MODIFIED:20261024T072439Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:CFB: Northwestern at Ohio State [time TBA]
-DESCRIPTION:National pick: ranked matchup (#3 vs #24) at selection.\n\nTeam
- s: Northwestern Wildcats at Ohio State Buckeyes\n\nBroadcast to be announc
- ed.\n\nKickoff has not been announced. This all-day marker will become a t
- imed event when confirmed.\n\nSchedule: https://www.espn.com/college-footb
- all/game/_/gameId/401858522/northwestern-ohio-state
-LOCATION:Ohio Stadium\, Columbus\, OH\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858522/northwest
- ern-ohio-state
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:show-gameday-2026-11-14@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -6975,6 +6933,27 @@ LOCATION:
 URL:https://www.foxsports.com/big-noon-kickoff-experience
 CATEGORIES:College,Pregame
 STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858522@football-watchlist
+DTSTAMP:20261103T094223Z
+CREATED:20261024T072439Z
+LAST-MODIFIED:20261103T094223Z
+SEQUENCE:1
+DTSTART:20261114T170000Z
+DTEND:20261114T203000Z
+SUMMARY:CFB: Northwestern at Ohio State
+DESCRIPTION:National pick: ranked matchup (#3 vs #24) at selection.\n\nTeam
+ s: Northwestern Wildcats at Ohio State Buckeyes\n\nBroadcast to be announc
+ ed.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish is a
+ pproximate.\n\nSchedule: https://www.espn.com/college-football/game/_/game
+ Id/401858522/northwestern-ohio-state
+LOCATION:Ohio Stadium\, Columbus\, OH\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858522/northwest
+ ern-ohio-state
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -7016,6 +6995,27 @@ DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
 LOCATION:Veikkaus Arena
 URL:https://www.nhl.com/gamecenter/sea-vs-car/2026/11/14/2026020321
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858518@football-watchlist
+DTSTAMP:20261103T094223Z
+CREATED:20261024T072439Z
+LAST-MODIFIED:20261103T094223Z
+SEQUENCE:1
+DTSTART:20261114T203000Z
+DTEND:20261115T000000Z
+SUMMARY:CFB: USC at Indiana
+DESCRIPTION:National pick: ranked matchup (#6 vs #16) at selection.\n\nTeam
+ s: USC Trojans at Indiana Hoosiers\n\nBroadcast to be announced.\n\nViewin
+ g window: 3.5 hours (4 hours for championships)\; finish is approximate.\n
+ \nSchedule: https://www.espn.com/college-football/game/_/gameId/401858518/
+ usc-indiana
+LOCATION:Memorial Stadium (Bloomington\, IN)\, Bloomington\, IN\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858518/usc-india
+ na
+CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT

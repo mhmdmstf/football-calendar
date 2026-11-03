@@ -1,5 +1,5 @@
 {
-  "checkedOn": "2026-11-02",
+  "checkedOn": "2026-11-03",
   "season": 2026,
   "events": [
     {
@@ -9074,48 +9074,6 @@
       "sequence": 1
     },
     {
-      "uid": "college-football-401858518@football-watchlist",
-      "gameId": "401858518",
-      "title": "CFB: USC at Indiana [time TBA]",
-      "start": "2026-11-14",
-      "end": "2026-11-15",
-      "allDay": true,
-      "description": "National pick: ranked matchup (#6 vs #16) at selection.\n\nTeams: USC Trojans at Indiana Hoosiers\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858518/usc-indiana",
-      "location": "Memorial Stadium (Bloomington, IN), Bloomington, IN, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858518/usc-indiana",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#6 vs #16) at selection.",
-      "hash": "aa65a0166ef1a5745524e431aa86579999121500b0507cfe3fef41265363dd9d",
-      "created": "2026-10-24T07:24:39.719Z",
-      "modified": "2026-10-24T07:24:39.719Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401858522@football-watchlist",
-      "gameId": "401858522",
-      "title": "CFB: Northwestern at Ohio State [time TBA]",
-      "start": "2026-11-14",
-      "end": "2026-11-15",
-      "allDay": true,
-      "description": "National pick: ranked matchup (#3 vs #24) at selection.\n\nTeams: Northwestern Wildcats at Ohio State Buckeyes\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858522/northwestern-ohio-state",
-      "location": "Ohio Stadium, Columbus, OH, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858522/northwestern-ohio-state",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#3 vs #24) at selection.",
-      "hash": "f966d9f028bfd7d2b43554e85348500333f57e71786f479f27871a05065fc1ce",
-      "created": "2026-10-24T07:24:39.719Z",
-      "modified": "2026-10-24T07:24:39.719Z",
-      "sequence": 0
-    },
-    {
       "uid": "show-gameday-2026-11-14@football-watchlist",
       "title": "College GameDay: location TBA",
       "start": "2026-11-14T14:00:00.000Z",
@@ -9152,6 +9110,27 @@
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-05T14:46:37.855Z",
       "sequence": 0
+    },
+    {
+      "uid": "college-football-401858522@football-watchlist",
+      "gameId": "401858522",
+      "title": "CFB: Northwestern at Ohio State",
+      "start": "2026-11-14T17:00:00.000Z",
+      "end": "2026-11-14T20:30:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#3 vs #24) at selection.\n\nTeams: Northwestern Wildcats at Ohio State Buckeyes\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858522/northwestern-ohio-state",
+      "location": "Ohio Stadium, Columbus, OH, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858522/northwestern-ohio-state",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#3 vs #24) at selection.",
+      "hash": "232cdf71e72a6096ab88d1df8817f9562901e27aaa4a05901291b0561f5d1e89",
+      "created": "2026-10-24T07:24:39.719Z",
+      "modified": "2026-11-03T09:42:23.994Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401856889@football-watchlist",
@@ -9201,6 +9180,27 @@
       "hash": "f3443aeff8e5c4e8d3f238c4a8f21b5b9a791d1d7a2a4849114cc829913523b3",
       "created": "2026-10-01T07:37:11.478Z",
       "modified": "2026-10-19T23:47:48.193Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401858518@football-watchlist",
+      "gameId": "401858518",
+      "title": "CFB: USC at Indiana",
+      "start": "2026-11-14T20:30:00.000Z",
+      "end": "2026-11-15T00:00:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#6 vs #16) at selection.\n\nTeams: USC Trojans at Indiana Hoosiers\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858518/usc-indiana",
+      "location": "Memorial Stadium (Bloomington, IN), Bloomington, IN, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858518/usc-indiana",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#6 vs #16) at selection.",
+      "hash": "c30238842816d8a5308c5f84841a1def29aa0e4b1dfda346c6c30a79ac5cba00",
+      "created": "2026-10-24T07:24:39.719Z",
+      "modified": "2026-11-03T09:42:23.994Z",
       "sequence": 1
     },
     {
@@ -28092,7 +28092,7 @@
   "nflGames": 285,
   "collegeGames": 950,
   "baseball": {
-    "checkedOn": "2026-11-02",
+    "checkedOn": "2026-11-03",
     "season": 2026,
     "scheduleGames": 996,
     "followedRegularSeasons": {
@@ -28109,7 +28109,7 @@
     "playoffEvents": 40
   },
   "hockey": {
-    "checkedOn": "2026-11-02",
+    "checkedOn": "2026-11-03",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -28126,7 +28126,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-11-02",
+    "checkedOn": "2026-11-03",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
@@ -28136,7 +28136,7 @@
     "events": 38
   },
   "soccer": {
-    "checkedOn": "2026-11-02",
+    "checkedOn": "2026-11-03",
     "season": 2026,
     "window": {
       "start": "2026-11-02",
