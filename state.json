@@ -7964,12 +7964,12 @@
         "Champions League table: Borussia Dortmund #13, Real Betis #5."
       ],
       "soccerSelectedOn": "2026-10-26",
-      "title": "Borussia Dortmund vs Real Betis - UEFA Champions League [provisional]",
+      "title": "Borussia Dortmund vs Real Betis - UEFA Champions League",
       "start": "2026-11-04T20:00:00.000Z",
       "end": "2026-11-04T22:00:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Champions League watchlist: league phase; UEFA Champions League, League Phase.\nChampions League table: Borussia Dortmund #13, Real Betis #5.\n\nSelection made 2026-10-26. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915304",
+      "status": "CONFIRMED",
+      "description": "Champions League watchlist: league phase; UEFA Champions League, League Phase.\nChampions League table: Borussia Dortmund #13, Real Betis #5.\n\nSelection made 2026-10-26. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915304",
       "location": "Signal Iduna Park",
       "url": "https://www.espn.com/soccer/match/_/gameId/401915304",
       "categories": [
@@ -7977,10 +7977,10 @@
         "European pick",
         "UEFA Champions League"
       ],
-      "hash": "90baf951f955410185ab808210580f2b7f4b3636d441fcbf706f414e30c4122d",
+      "hash": "9440d573dd5bbe409516f187465cf7fcada67f3fdcc3381faa47045685538c80",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-04T20:51:01.102Z",
+      "sequence": 1
     },
     {
       "uid": "soccer-401915305@football-watchlist",
@@ -7998,12 +7998,12 @@
         "Following RC Lens and Como: every competitive fixture."
       ],
       "soccerSelectedOn": "2026-10-26",
-      "title": "Lens vs Como - UEFA Champions League [provisional]",
+      "title": "Lens vs Como - UEFA Champions League",
       "start": "2026-11-04T20:00:00.000Z",
       "end": "2026-11-04T22:00:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Following RC Lens and Como: every competitive fixture.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915305",
+      "status": "CONFIRMED",
+      "description": "Following RC Lens and Como: every competitive fixture.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915305",
       "location": "Stade Bollaert-Delelis",
       "url": "https://www.espn.com/soccer/match/_/gameId/401915305",
       "categories": [
@@ -8011,10 +8011,10 @@
         "Followed team",
         "UEFA Champions League"
       ],
-      "hash": "29a74a7fe235e74eb599ebc3b07c58850a40569d32fde9dd73d432942a6f274a",
+      "hash": "436868b02c154ce5695a08ee5eef2e33a52efe8afec78804ea9aa2cb518c7b6f",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-04T20:51:01.102Z",
+      "sequence": 1
     },
     {
       "uid": "soccer-401915306@football-watchlist",
@@ -8034,12 +8034,12 @@
         "High-profile club matchup."
       ],
       "soccerSelectedOn": "2026-10-26",
-      "title": "RB Leipzig vs Manchester City - UEFA Champions League [provisional]",
+      "title": "RB Leipzig vs Manchester City - UEFA Champions League",
       "start": "2026-11-04T20:00:00.000Z",
       "end": "2026-11-04T22:00:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Champions League watchlist: league phase; UEFA Champions League, League Phase.\nChampions League table: RB Leipzig #30, Manchester City #10.\nHigh-profile club matchup.\n\nSelection made 2026-10-26. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915306",
+      "status": "CONFIRMED",
+      "description": "Champions League watchlist: league phase; UEFA Champions League, League Phase.\nChampions League table: RB Leipzig #30, Manchester City #10.\nHigh-profile club matchup.\n\nSelection made 2026-10-26. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915306",
       "location": "Red Bull Arena",
       "url": "https://www.espn.com/soccer/match/_/gameId/401915306",
       "categories": [
@@ -8047,10 +8047,10 @@
         "European pick",
         "UEFA Champions League"
       ],
-      "hash": "8a4d4fce69ea767fdbdc4ceebd1ae495b7e2fd794074120044b5937e54a113d5",
+      "hash": "b5b11dd37026651603eb1658771b740e07758f4726ad4f6cb8eff2f006febafa",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-04T20:51:01.102Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026020249@football-watchlist",
@@ -17199,39 +17199,6 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-852327@football-watchlist",
-      "gameId": "852327",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/139:4/140:4",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "140"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Tampa Bay Rays at Texas Rangers [time TBA]",
-      "start": "2027-04-06",
-      "end": "2027-04-07",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852327",
-      "location": "Globe Life Field",
-      "url": "https://www.mlb.com/gameday/852327",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "2acbc5a8e3da859c9ca38e7cb26f35c86d4a24398e1ad194384b502ab1c66206",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-853066@football-watchlist",
       "gameId": "853066",
       "mlbSeason": 2027,
@@ -17263,39 +17230,6 @@
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-11-02T22:48:51.042Z",
       "sequence": 1
-    },
-    {
-      "uid": "mlb-852326@football-watchlist",
-      "gameId": "852326",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/139:4/140:4",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "140"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Tampa Bay Rays at Texas Rangers [time TBA]",
-      "start": "2027-04-07",
-      "end": "2027-04-08",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852326",
-      "location": "Globe Life Field",
-      "url": "https://www.mlb.com/gameday/852326",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "856a68b921959c7982692b485d68eda4dc6ebcb2c5c338088f6038c720ee7c90",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
     },
     {
       "uid": "mlb-853067@football-watchlist",
@@ -17331,6 +17265,39 @@
       "sequence": 0
     },
     {
+      "uid": "mlb-852327@football-watchlist",
+      "gameId": "852327",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/139:4/140:4",
+      "mlbSeriesGameNumber": 1,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "139",
+        "140"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Tampa Bay Rays at Texas Rangers",
+      "start": "2027-04-07T00:10:00.000Z",
+      "end": "2027-04-07T03:10:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852327",
+      "location": "Globe Life Field",
+      "url": "https://www.mlb.com/gameday/852327",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "359e5e3d0585db18b7c8f338fb4491d4423863acf991a4cc868fa20b3d86dd91",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-04T20:51:01.102Z",
+      "sequence": 1
+    },
+    {
       "uid": "nhl-2026021313@football-watchlist",
       "gameId": "2026021313",
       "nhlSeason": 20262027,
@@ -17358,39 +17325,6 @@
       "hash": "c4f6f878c2a4895b0e245a3452f4ebb48a809129da2d0e1f52c5711a3d9c1f50",
       "created": "2026-10-01T07:37:11.478Z",
       "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-852325@football-watchlist",
-      "gameId": "852325",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/139:4/140:4",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "140"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Tampa Bay Rays at Texas Rangers [time TBA]",
-      "start": "2027-04-08",
-      "end": "2027-04-09",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852325",
-      "location": "Globe Life Field",
-      "url": "https://www.mlb.com/gameday/852325",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "8c2e48b5ee1db3d66c231914dfa958154f23c54171954d81390f194b403698ba",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
     },
     {
@@ -17425,6 +17359,72 @@
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
+    },
+    {
+      "uid": "mlb-852326@football-watchlist",
+      "gameId": "852326",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/139:4/140:4",
+      "mlbSeriesGameNumber": 2,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "139",
+        "140"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Tampa Bay Rays at Texas Rangers",
+      "start": "2027-04-08T00:10:00.000Z",
+      "end": "2027-04-08T03:10:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852326",
+      "location": "Globe Life Field",
+      "url": "https://www.mlb.com/gameday/852326",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "a369e46a1fa0f911fe3749480636ccbc6efc4b7e47763434fbad4156b7373c79",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-04T20:51:01.102Z",
+      "sequence": 1
+    },
+    {
+      "uid": "mlb-852325@football-watchlist",
+      "gameId": "852325",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/139:4/140:4",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "139",
+        "140"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Tampa Bay Rays at Texas Rangers",
+      "start": "2027-04-08T18:40:00.000Z",
+      "end": "2027-04-08T21:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852325",
+      "location": "Globe Life Field",
+      "url": "https://www.mlb.com/gameday/852325",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "44da60ec616862b9a01a1db3e1775eae062733c62ccc0345b66a0a8e1ea7048f",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-04T20:51:01.102Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852416@football-watchlist",
@@ -18071,39 +18071,6 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-853794@football-watchlist",
-      "gameId": "853794",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/121:7/115:7",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "121",
-        "115"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: New York Mets at Colorado Rockies [time TBA]",
-      "start": "2027-04-16",
-      "end": "2027-04-17",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853794",
-      "location": "Coors Field",
-      "url": "https://www.mlb.com/gameday/853794",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "2f98a1c4f852c94673d8734ac82da94c4d5ae149fc18d0cf0346e95053c06c15",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "chelsea-2645507@football-watchlist",
       "gameId": "2645507",
       "chelseaSeason": 2026,
@@ -18161,39 +18128,6 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-853792@football-watchlist",
-      "gameId": "853792",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/121:7/115:7",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "121",
-        "115"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: New York Mets at Colorado Rockies [time TBA]",
-      "start": "2027-04-17",
-      "end": "2027-04-18",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853792",
-      "location": "Coors Field",
-      "url": "https://www.mlb.com/gameday/853792",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "f5e38ce59080118f37c7cf32f20eff01923db7b1eb9e087739fc765f018f1057",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "soccer-401876246@football-watchlist",
       "gameId": "401876246",
       "soccerSeason": 2026,
@@ -18228,6 +18162,72 @@
       "sequence": 0
     },
     {
+      "uid": "mlb-853794@football-watchlist",
+      "gameId": "853794",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/121:7/115:7",
+      "mlbSeriesGameNumber": 1,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "121",
+        "115"
+      ],
+      "selectionReasons": [
+        "Following New York Mets: every regular-season game."
+      ],
+      "title": "MLB: New York Mets at Colorado Rockies",
+      "start": "2027-04-17T00:40:00.000Z",
+      "end": "2027-04-17T03:40:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853794",
+      "location": "Coors Field",
+      "url": "https://www.mlb.com/gameday/853794",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "New York Mets"
+      ],
+      "hash": "a69f59ffc77c402d8c8db12982ac853b5c62aa63ee81b261d5f1b5ea807993e1",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-04T20:51:01.102Z",
+      "sequence": 1
+    },
+    {
+      "uid": "mlb-853792@football-watchlist",
+      "gameId": "853792",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/121:7/115:7",
+      "mlbSeriesGameNumber": 2,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "121",
+        "115"
+      ],
+      "selectionReasons": [
+        "Following New York Mets: every regular-season game."
+      ],
+      "title": "MLB: New York Mets at Colorado Rockies",
+      "start": "2027-04-17T19:10:00.000Z",
+      "end": "2027-04-17T22:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853792",
+      "location": "Coors Field",
+      "url": "https://www.mlb.com/gameday/853792",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "New York Mets"
+      ],
+      "hash": "8514d8f17b8c6aff1956a1aa62339f306066f23507ebde54e84c7c2b0c4cf42a",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-04T20:51:01.102Z",
+      "sequence": 1
+    },
+    {
       "uid": "mlb-853533@football-watchlist",
       "gameId": "853533",
       "mlbSeason": 2027,
@@ -18256,39 +18256,6 @@
         "Tampa Bay Rays"
       ],
       "hash": "7c5c8d7dbcdfb0d8116f91d4365289928b8480ef130ea81db14121b8b796fb4f",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-853793@football-watchlist",
-      "gameId": "853793",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/121:7/115:7",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "121",
-        "115"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: New York Mets at Colorado Rockies [time TBA]",
-      "start": "2027-04-18",
-      "end": "2027-04-19",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853793",
-      "location": "Coors Field",
-      "url": "https://www.mlb.com/gameday/853793",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "00c425b14bdb9fe44a7c6ed96e1209f202b85dc97063cb69b70496dda7d50384",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
@@ -18326,6 +18293,39 @@
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
+    },
+    {
+      "uid": "mlb-853793@football-watchlist",
+      "gameId": "853793",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/121:7/115:7",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "121",
+        "115"
+      ],
+      "selectionReasons": [
+        "Following New York Mets: every regular-season game."
+      ],
+      "title": "MLB: New York Mets at Colorado Rockies",
+      "start": "2027-04-18T19:10:00.000Z",
+      "end": "2027-04-18T22:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853793",
+      "location": "Coors Field",
+      "url": "https://www.mlb.com/gameday/853793",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "New York Mets"
+      ],
+      "hash": "c3c202f88f070ae4b2856058f38a275ef17566f7772c19d163c976ccd2b846ff",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-04T20:51:01.102Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-854451@football-watchlist",
@@ -20007,23 +20007,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: New York Mets at Milwaukee Brewers [time TBA]",
-      "start": "2027-05-14",
-      "end": "2027-05-15",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853215",
+      "title": "MLB: New York Mets at Milwaukee Brewers",
+      "start": "2027-05-14T23:40:00.000Z",
+      "end": "2027-05-15T02:40:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853215",
       "location": "American Family Field",
       "url": "https://www.mlb.com/gameday/853215",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "8c183916eaa6b7b9a498888fbbc8b975b7b5c55685b13c3fdd632ebf0c654cd2",
+      "hash": "67568b4dd6fe1d10a043f4d82871c3d97db756d41eda40592ab05b941682654d",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-04T20:51:01.102Z",
+      "sequence": 1
     },
     {
       "uid": "chelsea-2645547@football-watchlist",
@@ -20097,23 +20097,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: New York Mets at Milwaukee Brewers [time TBA]",
-      "start": "2027-05-15",
-      "end": "2027-05-16",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853214",
+      "title": "MLB: New York Mets at Milwaukee Brewers",
+      "start": "2027-05-15T23:10:00.000Z",
+      "end": "2027-05-16T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853214",
       "location": "American Family Field",
       "url": "https://www.mlb.com/gameday/853214",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "523bf09ff274f2009d5188e51322e386bad1a32d72304bfcf64e2b8a741d4ce8",
+      "hash": "a5bf89b51f07307bb432be17c9570608dc8b9b40caad84b84bff9a7c4330ada3",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-04T20:51:01.102Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852403@football-watchlist",
@@ -20144,39 +20144,6 @@
         "Tampa Bay Rays"
       ],
       "hash": "cad29651ae7325118fcca3db4c2b77e3e43b94984d475fcb1094339728fc5de9",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-853212@football-watchlist",
-      "gameId": "853212",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/121:15/158:15",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "121",
-        "158"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: New York Mets at Milwaukee Brewers [time TBA]",
-      "start": "2027-05-16",
-      "end": "2027-05-17",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853212",
-      "location": "American Family Field",
-      "url": "https://www.mlb.com/gameday/853212",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "5cb6b01e8d789f09bbf8d0ba52b1b8613892a1361be5c100cf3bead520b9cbf7",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
@@ -20248,6 +20215,39 @@
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
+    },
+    {
+      "uid": "mlb-853212@football-watchlist",
+      "gameId": "853212",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/121:15/158:15",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "121",
+        "158"
+      ],
+      "selectionReasons": [
+        "Following New York Mets: every regular-season game."
+      ],
+      "title": "MLB: New York Mets at Milwaukee Brewers",
+      "start": "2027-05-16T18:10:00.000Z",
+      "end": "2027-05-16T21:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853212",
+      "location": "American Family Field",
+      "url": "https://www.mlb.com/gameday/853212",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "New York Mets"
+      ],
+      "hash": "9b1623898d6e9b76c7d1af3ec55f3a52ccd6d9324dfd3940528cc39facfe567d",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-04T20:51:01.102Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853614@football-watchlist",

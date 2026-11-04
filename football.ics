@@ -6014,71 +6014,64 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401915304@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261104T205101Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
+LAST-MODIFIED:20261104T205101Z
+SEQUENCE:1
 DTSTART:20261104T200000Z
 DTEND:20261104T220000Z
-SUMMARY:Borussia Dortmund vs Real Betis - UEFA Champions League [provisiona
- l]
+SUMMARY:Borussia Dortmund vs Real Betis - UEFA Champions League
 DESCRIPTION:Champions League watchlist: league phase\; UEFA Champions Leagu
  e\, League Phase.\nChampions League table: Borussia Dortmund #13\, Real Be
  tis #5.\n\nSelection made 2026-10-26. Table positions describe that snapsh
- ot\, not predicted results. Picks are kept once added.\n\nProvisional sour
- ce-listed date and kickoff. ESPN does not reliably distinguish TV-confirme
- d dates from provisional fixtures\; both may change. The calendar updates 
- when the schedule changes.\n\nViewing window: 2 hours\; finish is approxim
- ate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915304
+ ot\, not predicted results. Picks are kept once added.\n\nKickoff shown in
+  your calendar’s local time.\n\nViewing window: 2 hours\; finish is appr
+ oximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915304
 LOCATION:Signal Iduna Park
 URL:https://www.espn.com/soccer/match/_/gameId/401915304
 CATEGORIES:Soccer,European pick,UEFA Champions League
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401915305@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261104T205101Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
+LAST-MODIFIED:20261104T205101Z
+SEQUENCE:1
 DTSTART:20261104T200000Z
 DTEND:20261104T220000Z
-SUMMARY:Lens vs Como - UEFA Champions League [provisional]
-DESCRIPTION:Following RC Lens and Como: every competitive fixture.\n\nProvi
- sional source-listed date and kickoff. ESPN does not reliably distinguish 
- TV-confirmed dates from provisional fixtures\; both may change. The calend
- ar updates when the schedule changes.\n\nViewing window: 2 hours\; finish 
- is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/40
- 1915305
+SUMMARY:Lens vs Como - UEFA Champions League
+DESCRIPTION:Following RC Lens and Como: every competitive fixture.\n\nKicko
+ ff shown in your calendar’s local time.\n\nViewing window: 2 hours\; fin
+ ish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameI
+ d/401915305
 LOCATION:Stade Bollaert-Delelis
 URL:https://www.espn.com/soccer/match/_/gameId/401915305
 CATEGORIES:Soccer,Followed team,UEFA Champions League
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401915306@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261104T205101Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
+LAST-MODIFIED:20261104T205101Z
+SEQUENCE:1
 DTSTART:20261104T200000Z
 DTEND:20261104T220000Z
-SUMMARY:RB Leipzig vs Manchester City - UEFA Champions League [provisional]
+SUMMARY:RB Leipzig vs Manchester City - UEFA Champions League
 DESCRIPTION:Champions League watchlist: league phase\; UEFA Champions Leagu
  e\, League Phase.\nChampions League table: RB Leipzig #30\, Manchester Cit
  y #10.\nHigh-profile club matchup.\n\nSelection made 2026-10-26. Table pos
  itions describe that snapshot\, not predicted results. Picks are kept once
-  added.\n\nProvisional source-listed date and kickoff. ESPN does not relia
- bly distinguish TV-confirmed dates from provisional fixtures\; both may ch
- ange. The calendar updates when the schedule changes.\n\nViewing window: 2
-  hours\; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/m
- atch/_/gameId/401915306
+  added.\n\nKickoff shown in your calendar’s local time.\n\nViewing windo
+ w: 2 hours\; finish is approximate.\n\nSchedule: https://www.espn.com/socc
+ er/match/_/gameId/401915306
 LOCATION:Red Bull Arena
 URL:https://www.espn.com/soccer/match/_/gameId/401915306
 CATEGORIES:Soccer,European pick,UEFA Champions League
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -12953,25 +12946,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852327@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270406
-DTEND;VALUE=DATE:20270407
-SUMMARY:MLB: Tampa Bay Rays at Texas Rangers [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852327
-LOCATION:Globe Life Field
-URL:https://www.mlb.com/gameday/852327
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-853066@football-watchlist
 DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
@@ -12988,25 +12962,6 @@ URL:https://www.mlb.com/gameday/853066
 CATEGORIES:MLB,Followed team,New York Mets
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-852326@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270407
-DTEND;VALUE=DATE:20270408
-SUMMARY:MLB: Tampa Bay Rays at Texas Rangers [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852326
-LOCATION:Globe Life Field
-URL:https://www.mlb.com/gameday/852326
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853067@football-watchlist
@@ -13026,6 +12981,24 @@ URL:https://www.mlb.com/gameday/853067
 CATEGORIES:MLB,Followed team,New York Mets
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-852327@football-watchlist
+DTSTAMP:20261104T205101Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261104T205101Z
+SEQUENCE:1
+DTSTART:20270407T001000Z
+DTEND:20270407T031000Z
+SUMMARY:MLB: Tampa Bay Rays at Texas Rangers
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852327
+LOCATION:Globe Life Field
+URL:https://www.mlb.com/gameday/852327
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026021313@football-watchlist
@@ -13048,25 +13021,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852325@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270408
-DTEND;VALUE=DATE:20270409
-SUMMARY:MLB: Tampa Bay Rays at Texas Rangers [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852325
-LOCATION:Globe Life Field
-URL:https://www.mlb.com/gameday/852325
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-853062@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -13084,6 +13038,42 @@ URL:https://www.mlb.com/gameday/853062
 CATEGORIES:MLB,Followed team,New York Mets
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-852326@football-watchlist
+DTSTAMP:20261104T205101Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261104T205101Z
+SEQUENCE:1
+DTSTART:20270408T001000Z
+DTEND:20270408T031000Z
+SUMMARY:MLB: Tampa Bay Rays at Texas Rangers
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852326
+LOCATION:Globe Life Field
+URL:https://www.mlb.com/gameday/852326
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-852325@football-watchlist
+DTSTAMP:20261104T205101Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261104T205101Z
+SEQUENCE:1
+DTSTART:20270408T184000Z
+DTEND:20270408T214000Z
+SUMMARY:MLB: Tampa Bay Rays at Texas Rangers
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852325
+LOCATION:Globe Life Field
+URL:https://www.mlb.com/gameday/852325
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852416@football-watchlist
@@ -13470,25 +13460,6 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853794@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270416
-DTEND;VALUE=DATE:20270417
-SUMMARY:MLB: New York Mets at Colorado Rockies [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853794
-LOCATION:Coors Field
-URL:https://www.mlb.com/gameday/853794
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:chelsea-2645507@football-watchlist
 DTSTAMP:20261003T132345Z
 CREATED:20261003T132258Z
@@ -13531,25 +13502,6 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853792@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270417
-DTEND;VALUE=DATE:20270418
-SUMMARY:MLB: New York Mets at Colorado Rockies [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853792
-LOCATION:Coors Field
-URL:https://www.mlb.com/gameday/853792
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:soccer-401876246@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -13567,6 +13519,42 @@ URL:https://www.espn.com/soccer/match/_/gameId/401876246
 CATEGORIES:Soccer,Followed team,French Ligue 1
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-853794@football-watchlist
+DTSTAMP:20261104T205101Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261104T205101Z
+SEQUENCE:1
+DTSTART:20270417T004000Z
+DTEND:20270417T034000Z
+SUMMARY:MLB: New York Mets at Colorado Rockies
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853794
+LOCATION:Coors Field
+URL:https://www.mlb.com/gameday/853794
+CATEGORIES:MLB,Followed team,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-853792@football-watchlist
+DTSTAMP:20261104T205101Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261104T205101Z
+SEQUENCE:1
+DTSTART:20270417T191000Z
+DTEND:20270417T221000Z
+SUMMARY:MLB: New York Mets at Colorado Rockies
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853792
+LOCATION:Coors Field
+URL:https://www.mlb.com/gameday/853792
+CATEGORIES:MLB,Followed team,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853533@football-watchlist
@@ -13588,25 +13576,6 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853793@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270418
-DTEND;VALUE=DATE:20270419
-SUMMARY:MLB: New York Mets at Colorado Rockies [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853793
-LOCATION:Coors Field
-URL:https://www.mlb.com/gameday/853793
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:soccer-401875098@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -13624,6 +13593,24 @@ URL:https://www.espn.com/soccer/match/_/gameId/401875098
 CATEGORIES:Soccer,Followed team,Italian Serie A
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-853793@football-watchlist
+DTSTAMP:20261104T205101Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261104T205101Z
+SEQUENCE:1
+DTSTART:20270418T191000Z
+DTEND:20270418T221000Z
+SUMMARY:MLB: New York Mets at Colorado Rockies
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853793
+LOCATION:Coors Field
+URL:https://www.mlb.com/gameday/853793
+CATEGORIES:MLB,Followed team,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854451@football-watchlist
@@ -14585,22 +14572,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853215@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261104T205101Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270514
-DTEND;VALUE=DATE:20270515
-SUMMARY:MLB: New York Mets at Milwaukee Brewers [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853215
+LAST-MODIFIED:20261104T205101Z
+SEQUENCE:1
+DTSTART:20270514T234000Z
+DTEND:20270515T024000Z
+SUMMARY:MLB: New York Mets at Milwaukee Brewers
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853215
 LOCATION:American Family Field
 URL:https://www.mlb.com/gameday/853215
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:chelsea-2645547@football-watchlist
@@ -14646,22 +14632,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853214@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261104T205101Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270515
-DTEND;VALUE=DATE:20270516
-SUMMARY:MLB: New York Mets at Milwaukee Brewers [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853214
+LAST-MODIFIED:20261104T205101Z
+SEQUENCE:1
+DTSTART:20270515T231000Z
+DTEND:20270516T021000Z
+SUMMARY:MLB: New York Mets at Milwaukee Brewers
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853214
 LOCATION:American Family Field
 URL:https://www.mlb.com/gameday/853214
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852403@football-watchlist
@@ -14679,25 +14664,6 @@ DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852403
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-853212@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270516
-DTEND;VALUE=DATE:20270517
-SUMMARY:MLB: New York Mets at Milwaukee Brewers [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853212
-LOCATION:American Family Field
-URL:https://www.mlb.com/gameday/853212
-CATEGORIES:MLB,Followed team,New York Mets
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -14738,6 +14704,24 @@ URL:https://www.espn.com/soccer/match/_/gameId/401876210
 CATEGORIES:Soccer,Followed team,French Ligue 1
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-853212@football-watchlist
+DTSTAMP:20261104T205101Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261104T205101Z
+SEQUENCE:1
+DTSTART:20270516T181000Z
+DTEND:20270516T211000Z
+SUMMARY:MLB: New York Mets at Milwaukee Brewers
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853212
+LOCATION:American Family Field
+URL:https://www.mlb.com/gameday/853212
+CATEGORIES:MLB,Followed team,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853614@football-watchlist
