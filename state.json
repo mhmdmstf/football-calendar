@@ -1,107 +1,7 @@
 {
-  "checkedOn": "2026-11-03",
+  "checkedOn": "2026-11-04",
   "season": 2026,
   "events": [
-    {
-      "uid": "mlb-822853@football-watchlist",
-      "gameId": "822853",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/139:46/140:46",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "140"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Tampa Bay Rays at Texas Rangers",
-      "start": "2026-09-04T00:05:00.000Z",
-      "end": "2026-09-04T03:05:00.000Z",
-      "allDay": false,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Shane McClanahan / Cal Quantrill.\n\nListed broadcasts: Rangers Sports Network, presented by Progressive / Rays.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822853",
-      "location": "Globe Life Field",
-      "url": "https://www.mlb.com/gameday/822853",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "aa1bc81143966b89cb9153c4a0ba5d57462d1218e4f7c0a3cc0b4d83520d8986",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "soccer-401874744@football-watchlist",
-      "gameId": "401874744",
-      "soccerSeason": 2026,
-      "soccerLeague": "ita.1",
-      "soccerTeamIds": [
-        "3263",
-        "2572"
-      ],
-      "soccerFriendly": false,
-      "soccerSelectionKind": "followed",
-      "soccerSelectionWeek": "2026-08-31",
-      "soccerSelectionReasons": [
-        "Following Como: every competitive fixture."
-      ],
-      "soccerSelectedOn": "2026-10-26",
-      "title": "Genoa vs Como - Italian Serie A",
-      "start": "2026-09-04T18:45:00.000Z",
-      "end": "2026-09-04T20:45:00.000Z",
-      "allDay": false,
-      "status": "CONFIRMED",
-      "description": "Following Como: every competitive fixture.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401874744",
-      "location": "Stadio Luigi Ferraris",
-      "url": "https://www.espn.com/soccer/match/_/gameId/401874744",
-      "categories": [
-        "Soccer",
-        "Followed team",
-        "Italian Serie A"
-      ],
-      "hash": "9afeb5d698f0715a2b208690067cc25de7bc21b716c105d9eebc583fe916ea43",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-823579@football-watchlist",
-      "gameId": "823579",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/137:47/121:46",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "137",
-        "121"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: San Francisco Giants at New York Mets",
-      "start": "2026-09-04T23:10:00.000Z",
-      "end": "2026-09-05T02:10:00.000Z",
-      "allDay": false,
-      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Matt Wilkinson / Nolan McLean.\n\nListed broadcasts: WPIX / NBCS BA. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823579",
-      "location": "Citi Field",
-      "url": "https://www.mlb.com/gameday/823579",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "dc927ad5c0be4107ef33ed9c1557b33835cd49dce2771bad3b7cf3237ade760e",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
     {
       "uid": "mlb-822852@football-watchlist",
       "gameId": "822852",
@@ -28112,7 +28012,7 @@
   "nflGames": 285,
   "collegeGames": 950,
   "baseball": {
-    "checkedOn": "2026-11-03",
+    "checkedOn": "2026-11-04",
     "season": 2026,
     "scheduleGames": 996,
     "followedRegularSeasons": {
@@ -28125,11 +28025,11 @@
         "139": 162
       }
     },
-    "events": 413,
+    "events": 411,
     "playoffEvents": 40
   },
   "hockey": {
-    "checkedOn": "2026-11-03",
+    "checkedOn": "2026-11-04",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -28146,7 +28046,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-11-03",
+    "checkedOn": "2026-11-04",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
@@ -28156,7 +28056,7 @@
     "events": 38
   },
   "soccer": {
-    "checkedOn": "2026-11-03",
+    "checkedOn": "2026-11-04",
     "season": 2026,
     "window": {
       "start": "2026-11-02",
@@ -28184,7 +28084,7 @@
         "uefa.champions": 18
       }
     },
-    "events": 100
+    "events": 99
   },
   "warnings": [
     "College GameDay: no unambiguous current announcement matched the game schedule; retaining verified announcements and TBA placeholders."

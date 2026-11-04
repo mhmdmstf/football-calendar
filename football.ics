@@ -8,65 +8,6 @@ X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:mlb-822853@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260904T000500Z
-DTEND:20260904T030500Z
-SUMMARY:MLB: Tampa Bay Rays at Texas Rangers
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
-  window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to
-  change): Shane McClanahan / Cal Quantrill.\n\nListed broadcasts: Rangers 
- Sports Network\, presented by Progressive / Rays.TV. Availability varies b
- y country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/
- 822853
-LOCATION:Globe Life Field
-URL:https://www.mlb.com/gameday/822853
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer-401874744@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260904T184500Z
-DTEND:20260904T204500Z
-SUMMARY:Genoa vs Como - Italian Serie A
-DESCRIPTION:Following Como: every competitive fixture.\n\nKickoff shown in 
- your calendar’s local time.\n\nViewing window: 2 hours\; finish is appro
- ximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401874744
-LOCATION:Stadio Luigi Ferraris
-URL:https://www.espn.com/soccer/match/_/gameId/401874744
-CATEGORIES:Soccer,Followed team,Italian Serie A
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-823579@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260904T231000Z
-DTEND:20260905T021000Z
-SUMMARY:MLB: San Francisco Giants at New York Mets
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
- window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to 
- change): Matt Wilkinson / Nolan McLean.\n\nListed broadcasts: WPIX / NBCS 
- BA. Availability varies by country and provider.\n\nOfficial schedule: htt
- ps://www.mlb.com/gameday/823579
-LOCATION:Citi Field
-URL:https://www.mlb.com/gameday/823579
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-822852@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
