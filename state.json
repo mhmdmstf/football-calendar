@@ -1,219 +1,7 @@
 {
-  "checkedOn": "2026-11-04",
+  "checkedOn": "2026-11-05",
   "season": 2026,
   "events": [
-    {
-      "uid": "mlb-822852@football-watchlist",
-      "gameId": "822852",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/139:46/140:46",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "140"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Tampa Bay Rays at Texas Rangers",
-      "start": "2026-09-05T00:05:00.000Z",
-      "end": "2026-09-05T03:05:00.000Z",
-      "allDay": false,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Martinez / Trevor Williams.\n\nListed broadcasts: Rays.TV / CW33. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822852",
-      "location": "Globe Life Field",
-      "url": "https://www.mlb.com/gameday/822852",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "9a94daddd105f6674f3cdf2cdb92e8b5232c2858d35944dd412fed927ac20877",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "show-gameday-2026-09-05@football-watchlist",
-      "title": "College GameDay: Baton Rouge, Louisiana",
-      "gameId": "401856660",
-      "start": "2026-09-05T13:00:00.000Z",
-      "end": "2026-09-05T16:00:00.000Z",
-      "allDay": false,
-      "status": "CONFIRMED",
-      "description": "College GameDay on ESPN. Featured game: LSU vs. Clemson. Broadcast window: 9:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://lsusports.net/news/2026/05/12/lsu-to-host-espn-college-gameday-for-kiffin-debut",
-      "location": "Baton Rouge, Louisiana",
-      "url": "https://lsusports.net/news/2026/05/12/lsu-to-host-espn-college-gameday-for-kiffin-debut",
-      "categories": [
-        "College",
-        "Pregame"
-      ],
-      "hash": "c3b9c62d70b7013f49c7686a1f178248d0e6cae48802461856d8a64296192e0a",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-10-06T19:36:04.641Z",
-      "sequence": 6
-    },
-    {
-      "uid": "show-bignoon-2026-09-05@football-watchlist",
-      "title": "Big Noon Kickoff: Bloomington, Indiana",
-      "gameId": "401858425",
-      "start": "2026-09-05T14:00:00.000Z",
-      "end": "2026-09-05T16:00:00.000Z",
-      "allDay": false,
-      "status": "CONFIRMED",
-      "description": "Big Noon Kickoff on FOX. Featured game: Indiana vs. North Texas. Broadcast window: 10:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://www.foxsports.com/big-noon-kickoff-experience",
-      "location": "Bloomington, Indiana",
-      "url": "https://www.foxsports.com/big-noon-kickoff-experience",
-      "categories": [
-        "College",
-        "Pregame"
-      ],
-      "hash": "a5307684f47c16c976dd0cb255bb668e3bf8e825ab2265b83c7d392421468a21",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 1
-    },
-    {
-      "uid": "soccer-401876473@football-watchlist",
-      "gameId": "401876473",
-      "soccerSeason": 2026,
-      "soccerLeague": "fra.1",
-      "soccerTeamIds": [
-        "175",
-        "273"
-      ],
-      "soccerFriendly": false,
-      "soccerSelectionKind": "followed",
-      "soccerSelectionWeek": "2026-08-31",
-      "soccerSelectionReasons": [
-        "Following RC Lens: every competitive fixture."
-      ],
-      "soccerSelectedOn": "2026-10-26",
-      "title": "Lens vs Lorient - French Ligue 1",
-      "start": "2026-09-05T15:15:00.000Z",
-      "end": "2026-09-05T17:15:00.000Z",
-      "allDay": false,
-      "status": "CONFIRMED",
-      "description": "Following RC Lens: every competitive fixture.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401876473",
-      "location": "Stade Bollaert-Delelis",
-      "url": "https://www.espn.com/soccer/match/_/gameId/401876473",
-      "categories": [
-        "Soccer",
-        "Followed team",
-        "French Ligue 1"
-      ],
-      "hash": "6a709c6f0eac8343681edf954a87bb3e472e8704a19b9134ea91c3ffbba59c98",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401856634@football-watchlist",
-      "gameId": "401856634",
-      "title": "CFB: East Carolina at Alabama",
-      "start": "2026-09-05T16:00:00.000Z",
-      "end": "2026-09-05T19:30:00.000Z",
-      "allDay": false,
-      "description": "Following Alabama: every game.\n\nTeams: East Carolina Pirates at Alabama Crimson Tide\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856634/east-carolina-alabama",
-      "location": "Bryant-Denny Stadium, Tuscaloosa, AL, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856634/east-carolina-alabama",
-      "status": "CONFIRMED",
-      "categories": [
-        "College",
-        "Alabama"
-      ],
-      "hash": "cd16f7f7ec8d9c0ba2e8ad1886d7691fbe83067248df8a234c2470be60cee490",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401858425@football-watchlist",
-      "gameId": "401858425",
-      "title": "CFB: North Texas at Indiana",
-      "start": "2026-09-05T16:00:00.000Z",
-      "end": "2026-09-05T19:30:00.000Z",
-      "allDay": false,
-      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: North Texas Mean Green at Indiana Hoosiers\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858425/north-texas-indiana",
-      "location": "Memorial Stadium (Bloomington, IN), Bloomington, IN, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858425/north-texas-indiana",
-      "status": "CONFIRMED",
-      "categories": [
-        "College"
-      ],
-      "hash": "1c0091afa9a2be874bfb46a8bdefa0d43c90db977abffe9d5f5ce9029e571024",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-10-05T21:36:12.655Z",
-      "sequence": 1
-    },
-    {
-      "uid": "mlb-823577@football-watchlist",
-      "gameId": "823577",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/137:47/121:46",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "137",
-        "121"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: San Francisco Giants at New York Mets",
-      "start": "2026-09-05T20:10:00.000Z",
-      "end": "2026-09-05T23:10:00.000Z",
-      "allDay": false,
-      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Anthony Molina / Zac Thornton.\n\nListed broadcasts: SNY / NBCS BA. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823577",
-      "location": "Citi Field",
-      "url": "https://www.mlb.com/gameday/823577",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "63fffa4b8bb450a041681813023673caf3e5fe7f3b270d838e6a48e3a11bb63c",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-822850@football-watchlist",
-      "gameId": "822850",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/139:46/140:46",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "140"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Tampa Bay Rays at Texas Rangers",
-      "start": "2026-09-05T23:05:00.000Z",
-      "end": "2026-09-06T02:05:00.000Z",
-      "allDay": false,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Drew Rasmussen / Jacob deGrom.\n\nListed broadcasts: Rangers Sports Network, presented by Progressive / Rays.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822850",
-      "location": "Globe Life Field",
-      "url": "https://www.mlb.com/gameday/822850",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "8519512dbd3d72c124bcaf48bc0351e662719ec29c532678189c99a07a8fa442",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
     {
       "uid": "college-football-401856660@football-watchlist",
       "gameId": "401856660",
@@ -28012,7 +27800,7 @@
   "nflGames": 285,
   "collegeGames": 950,
   "baseball": {
-    "checkedOn": "2026-11-04",
+    "checkedOn": "2026-11-05",
     "season": 2026,
     "scheduleGames": 996,
     "followedRegularSeasons": {
@@ -28025,11 +27813,11 @@
         "139": 162
       }
     },
-    "events": 411,
+    "events": 408,
     "playoffEvents": 40
   },
   "hockey": {
-    "checkedOn": "2026-11-04",
+    "checkedOn": "2026-11-05",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -28046,7 +27834,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-11-04",
+    "checkedOn": "2026-11-05",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
@@ -28056,7 +27844,7 @@
     "events": 38
   },
   "soccer": {
-    "checkedOn": "2026-11-04",
+    "checkedOn": "2026-11-05",
     "season": 2026,
     "window": {
       "start": "2026-11-02",
@@ -28084,7 +27872,7 @@
         "uefa.champions": 18
       }
     },
-    "events": 99
+    "events": 98
   },
   "warnings": [
     "College GameDay: no unambiguous current announcement matched the game schedule; retaining verified announcements and TBA placeholders."
