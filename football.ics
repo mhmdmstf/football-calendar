@@ -15944,22 +15944,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853430@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261105T210738Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270625
-DTEND;VALUE=DATE:20270626
-SUMMARY:MLB: Tampa Bay Rays at Los Angeles Angels [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/853430
+LAST-MODIFIED:20261105T210738Z
+SEQUENCE:1
+DTSTART:20270625T223800Z
+DTEND:20270626T013800Z
+SUMMARY:MLB: Tampa Bay Rays at Los Angeles Angels
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/853430
 LOCATION:Angel Stadium
 URL:https://www.mlb.com/gameday/853430
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852460@football-watchlist
@@ -15977,25 +15976,6 @@ DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
 LOCATION:Busch Stadium
 URL:https://www.mlb.com/gameday/852460
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-853427@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270626
-DTEND;VALUE=DATE:20270627
-SUMMARY:MLB: Tampa Bay Rays at Los Angeles Angels [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/853427
-LOCATION:Angel Stadium
-URL:https://www.mlb.com/gameday/853427
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -16018,23 +15998,22 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853428@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-853427@football-watchlist
+DTSTAMP:20261105T210738Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270627
-DTEND;VALUE=DATE:20270628
-SUMMARY:MLB: Tampa Bay Rays at Los Angeles Angels [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/853428
+LAST-MODIFIED:20261105T210738Z
+SEQUENCE:1
+DTSTART:20270626T230700Z
+DTEND:20270627T020700Z
+SUMMARY:MLB: Tampa Bay Rays at Los Angeles Angels
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/853427
 LOCATION:Angel Stadium
-URL:https://www.mlb.com/gameday/853428
+URL:https://www.mlb.com/gameday/853427
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852461@football-watchlist
@@ -16051,6 +16030,24 @@ DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing
 LOCATION:Busch Stadium
 URL:https://www.mlb.com/gameday/852461
 CATEGORIES:MLB,Followed team,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-853428@football-watchlist
+DTSTAMP:20261105T210738Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261105T210738Z
+SEQUENCE:1
+DTSTART:20270627T200700Z
+DTEND:20270627T230700Z
+SUMMARY:MLB: Tampa Bay Rays at Los Angeles Angels
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/853428
+LOCATION:Angel Stadium
+URL:https://www.mlb.com/gameday/853428
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT

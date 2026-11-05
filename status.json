@@ -80,6 +80,7 @@
     "events": 98
   },
   "warnings": [
-    "College GameDay: no unambiguous current announcement matched the game schedule; retaining verified announcements and TBA placeholders."
+    "College GameDay: no unambiguous current announcement matched the game schedule; retaining verified announcements and TBA placeholders.",
+    "NHL refresh failed; retaining its last good events. NHL schedules failed after 3 attempts: The operation was aborted due to timeout"
   ]
 }
