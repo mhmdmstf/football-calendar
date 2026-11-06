@@ -5955,18 +5955,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856743@football-watchlist
-DTSTAMP:20261101T092342Z
+DTSTAMP:20261106T202828Z
 CREATED:20261017T070236Z
-LAST-MODIFIED:20261101T092342Z
-SEQUENCE:2
+LAST-MODIFIED:20261106T202828Z
+SEQUENCE:3
 DTSTART:20261107T170000Z
 DTEND:20261107T203000Z
 SUMMARY:CFB: Texas at Missouri
 DESCRIPTION:National pick: ranked matchup (#7 vs #13) at selection.\n\nTeam
- s: Texas Longhorns at Missouri Tigers\n\nUS broadcast: ESPN. Availability 
- elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)
- \; finish is approximate.\n\nSchedule: https://www.espn.com/college-footba
- ll/game/_/gameId/401856743/texas-missouri
+ s: Texas Longhorns at Missouri Tigers\n\nUS broadcast: ESPN / Disney+. Ava
+ ilability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for cham
+ pionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/coll
+ ege-football/game/_/gameId/401856743/texas-missouri
 LOCATION:Memorial Stadium\, Columbia\, MO\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856743/texas-mis
  souri
@@ -5996,18 +5996,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856740@football-watchlist
-DTSTAMP:20261102T224851Z
+DTSTAMP:20261106T202828Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20261102T224851Z
-SEQUENCE:2
+LAST-MODIFIED:20261106T202828Z
+SEQUENCE:3
 DTSTART:20261107T203000Z
 DTEND:20261108T000000Z
 SUMMARY:CFB: Alabama at LSU
 DESCRIPTION:Following Alabama: every game.\n\nTeams: Alabama Crimson Tide a
- t LSU Tigers\n\nUS broadcast: ABC / ERADM. Availability elsewhere varies.\
- n\nViewing window: 3.5 hours (4 hours for championships)\; finish is appro
- ximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/4
- 01856740/alabama-lsu
+ t LSU Tigers\n\nUS broadcast: ABC / Disney+ / ERADM. Availability elsewher
+ e varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; finis
+ h is approximate.\n\nSchedule: https://www.espn.com/college-football/game/
+ _/gameId/401856740/alabama-lsu
 LOCATION:Tiger Stadium (LA)\, Baton Rouge\, LA\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856740/alabama-l
  su
@@ -15795,24 +15795,6 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853430@football-watchlist
-DTSTAMP:20261105T210738Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261105T210738Z
-SEQUENCE:1
-DTSTART:20270625T223800Z
-DTEND:20270626T013800Z
-SUMMARY:MLB: Tampa Bay Rays at Los Angeles Angels
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
-  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
- nOfficial schedule: https://www.mlb.com/gameday/853430
-LOCATION:Angel Stadium
-URL:https://www.mlb.com/gameday/853430
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-852460@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -15850,13 +15832,31 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853427@football-watchlist
-DTSTAMP:20261105T210738Z
+UID:mlb-853430@football-watchlist
+DTSTAMP:20261106T202828Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261105T210738Z
-SEQUENCE:1
-DTSTART:20270626T230700Z
-DTEND:20270627T020700Z
+LAST-MODIFIED:20261106T202828Z
+SEQUENCE:2
+DTSTART:20270626T013800Z
+DTEND:20270626T043800Z
+SUMMARY:MLB: Tampa Bay Rays at Los Angeles Angels
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/853430
+LOCATION:Angel Stadium
+URL:https://www.mlb.com/gameday/853430
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-853427@football-watchlist
+DTSTAMP:20261106T202828Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261106T202828Z
+SEQUENCE:2
+DTSTART:20270627T020700Z
+DTEND:20270627T050700Z
 SUMMARY:MLB: Tampa Bay Rays at Los Angeles Angels
 DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
   window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\

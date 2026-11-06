@@ -7927,7 +7927,7 @@
       "start": "2026-11-07T17:00:00.000Z",
       "end": "2026-11-07T20:30:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#7 vs #13) at selection.\n\nTeams: Texas Longhorns at Missouri Tigers\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856743/texas-missouri",
+      "description": "National pick: ranked matchup (#7 vs #13) at selection.\n\nTeams: Texas Longhorns at Missouri Tigers\n\nUS broadcast: ESPN / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856743/texas-missouri",
       "location": "Memorial Stadium, Columbia, MO, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856743/texas-missouri",
       "status": "CONFIRMED",
@@ -7936,10 +7936,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#7 vs #13) at selection.",
-      "hash": "de373b793b805a4a9b3f7d6213d712fbb822b3c363e44bf0f9ab1f44f4bce426",
+      "hash": "3a29556502bb0562a9f8f66ed676d96cf14f90d9b61a90be3723aaeb3aee625e",
       "created": "2026-10-17T07:02:36.015Z",
-      "modified": "2026-11-01T09:23:42.690Z",
-      "sequence": 2
+      "modified": "2026-11-06T20:28:28.922Z",
+      "sequence": 3
     },
     {
       "uid": "college-football-401856849@football-watchlist",
@@ -7969,7 +7969,7 @@
       "start": "2026-11-07T20:30:00.000Z",
       "end": "2026-11-08T00:00:00.000Z",
       "allDay": false,
-      "description": "Following Alabama: every game.\n\nTeams: Alabama Crimson Tide at LSU Tigers\n\nUS broadcast: ABC / ERADM. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856740/alabama-lsu",
+      "description": "Following Alabama: every game.\n\nTeams: Alabama Crimson Tide at LSU Tigers\n\nUS broadcast: ABC / Disney+ / ERADM. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856740/alabama-lsu",
       "location": "Tiger Stadium (LA), Baton Rouge, LA, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856740/alabama-lsu",
       "status": "CONFIRMED",
@@ -7977,10 +7977,10 @@
         "College",
         "Alabama"
       ],
-      "hash": "73828ea4652e1b263661bb569bec85c2af9eb3aeb7a696accf6686cdf054c77b",
+      "hash": "fcd0f0f20ab4f7206989c4bf3886b36517197ce362cdf1f9d67de462b5dc4f32",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-11-02T22:48:51.042Z",
-      "sequence": 2
+      "modified": "2026-11-06T20:28:28.922Z",
+      "sequence": 3
     },
     {
       "uid": "college-football-401856745@football-watchlist",
@@ -22305,39 +22305,6 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-853430@football-watchlist",
-      "gameId": "853430",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/139:27/108:27",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "108"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Tampa Bay Rays at Los Angeles Angels",
-      "start": "2027-06-25T22:38:00.000Z",
-      "end": "2027-06-26T01:38:00.000Z",
-      "allDay": false,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853430",
-      "location": "Angel Stadium",
-      "url": "https://www.mlb.com/gameday/853430",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "b7b769e78087c14d190dad5ba322b8a3fa129258370f322261ec631ad299a9e7",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-11-05T21:07:38.384Z",
-      "sequence": 1
-    },
-    {
       "uid": "mlb-852460@football-watchlist",
       "gameId": "852460",
       "mlbSeason": 2027,
@@ -22404,6 +22371,39 @@
       "sequence": 1
     },
     {
+      "uid": "mlb-853430@football-watchlist",
+      "gameId": "853430",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/139:27/108:27",
+      "mlbSeriesGameNumber": 1,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "139",
+        "108"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Tampa Bay Rays at Los Angeles Angels",
+      "start": "2027-06-26T01:38:00.000Z",
+      "end": "2027-06-26T04:38:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853430",
+      "location": "Angel Stadium",
+      "url": "https://www.mlb.com/gameday/853430",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "13568dfbf689529202960d9f3f7f5def9786535ff6537e5b385e9368f29946bd",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-06T20:28:28.922Z",
+      "sequence": 2
+    },
+    {
       "uid": "mlb-853427@football-watchlist",
       "gameId": "853427",
       "mlbSeason": 2027,
@@ -22419,8 +22419,8 @@
         "Following Tampa Bay Rays: every regular-season game."
       ],
       "title": "MLB: Tampa Bay Rays at Los Angeles Angels",
-      "start": "2027-06-26T23:07:00.000Z",
-      "end": "2027-06-27T02:07:00.000Z",
+      "start": "2027-06-27T02:07:00.000Z",
+      "end": "2027-06-27T05:07:00.000Z",
       "allDay": false,
       "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853427",
       "location": "Angel Stadium",
@@ -22431,10 +22431,10 @@
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "c73a36c8baf374d556bbbcccb49445fc07d3fdf00322b888879ae81a7c4a8d29",
+      "hash": "c552be5abc50ada07d6a667f6afc5a3d4d21f4b01bc0de9d6bb8a658e22961cd",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-11-05T21:07:38.384Z",
-      "sequence": 1
+      "modified": "2026-11-06T20:28:28.922Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-852461@football-watchlist",
