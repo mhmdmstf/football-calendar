@@ -1,11 +1,11 @@
 {
-  "checkedOn": "2026-11-05",
+  "checkedOn": "2026-11-06",
   "season": 2026,
-  "events": 958,
+  "events": 951,
   "nflGames": 285,
   "collegeGames": 950,
   "baseball": {
-    "checkedOn": "2026-11-05",
+    "checkedOn": "2026-11-06",
     "season": 2026,
     "scheduleGames": 996,
     "followedRegularSeasons": {
@@ -18,11 +18,11 @@
         "139": 162
       }
     },
-    "events": 408,
+    "events": 406,
     "playoffEvents": 40
   },
   "hockey": {
-    "checkedOn": "2026-11-05",
+    "checkedOn": "2026-11-06",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -39,17 +39,17 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-11-05",
+    "checkedOn": "2026-11-06",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
       "eng.1": 38,
       "eng.league_cup": 3
     },
-    "events": 38
+    "events": 37
   },
   "soccer": {
-    "checkedOn": "2026-11-05",
+    "checkedOn": "2026-11-06",
     "season": 2026,
     "window": {
       "start": "2026-11-02",
@@ -80,7 +80,6 @@
     "events": 98
   },
   "warnings": [
-    "College GameDay: no unambiguous current announcement matched the game schedule; retaining verified announcements and TBA placeholders.",
-    "NHL refresh failed; retaining its last good events. NHL schedules failed after 3 attempts: The operation was aborted due to timeout"
+    "College GameDay: no unambiguous current announcement matched the game schedule; retaining verified announcements and TBA placeholders."
   ]
 }

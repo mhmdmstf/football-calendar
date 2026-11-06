@@ -8,155 +8,6 @@ X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:college-football-401856660@football-watchlist
-DTSTAMP:20260906T071113Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260906T071113Z
-SEQUENCE:1
-DTSTART:20260906T014000Z
-DTEND:20260906T051000Z
-SUMMARY:CFB: Clemson at LSU
-DESCRIPTION:Confirmed College GameDay or Big Noon featured matchup.\n\nTeam
- s: Clemson Tigers at LSU Tigers\n\nUS broadcast: ABC / ERADM. Availability
-  elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships
- )\; finish is approximate.\n\nSchedule: https://www.espn.com/college-footb
- all/game/_/gameId/401856660/clemson-lsu
-LOCATION:Tiger Stadium (LA)\, Baton Rouge\, LA\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856660/clemson-l
- su
-CATEGORIES:College
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:chelsea-2645215@football-watchlist
-DTSTAMP:20261003T132345Z
-CREATED:20261003T132258Z
-LAST-MODIFIED:20261003T132345Z
-SEQUENCE:1
-DTSTART:20260906T153000Z
-DTEND:20260906T173000Z
-SUMMARY:Arsenal vs Chelsea - Premier League
-DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
- \nThe club currently lists this kickoff as confirmed. Viewing window: 2 ho
- urs\; finish is approximate.\n\nFixtures remain subject to later reschedul
- ing. The feed refreshes from Chelsea’s official schedule.\n\nOfficial ma
- tch: https://www.chelseafc.com/en/match/arsenal-vs-chelsea-english-premier
- -league-2026-09-06
-LOCATION:Emirates Stadium
-URL:https://www.chelseafc.com/en/match/arsenal-vs-chelsea-english-premier-l
- eague-2026-09-06
-CATEGORIES:Soccer,Chelsea,Premier League
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-823578@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260906T174000Z
-DTEND:20260906T204000Z
-SUMMARY:MLB: San Francisco Giants at New York Mets
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
- window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to 
- change): Cesar Perdomo / Christian Scott.\n\nListed broadcasts: SNY / NBCS
-  BA. Availability varies by country and provider.\n\nOfficial schedule: ht
- tps://www.mlb.com/gameday/823578
-LOCATION:Citi Field
-URL:https://www.mlb.com/gameday/823578
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-822848@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260906T183500Z
-DTEND:20260906T213500Z
-SUMMARY:MLB: Tampa Bay Rays at Texas Rangers
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
-  window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to
-  change): Ian Seymour / MacKenzie Gore.\n\nListed broadcasts: Rangers Spor
- ts Network\, presented by Progressive / Rays.TV. Availability varies by co
- untry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/8228
- 48
-LOCATION:Globe Life Field
-URL:https://www.mlb.com/gameday/822848
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401858437@football-watchlist
-DTSTAMP:20260907T072354Z
-CREATED:20260905T145208Z
-LAST-MODIFIED:20260907T072354Z
-SEQUENCE:2
-DTSTART:20260906T200000Z
-DTEND:20260906T233000Z
-SUMMARY:CFB: Washington State at Washington
-DESCRIPTION:Major rivalry: Apple Cup.\n\nTeams: Washington State Cougars at
-  Washington Huskies\n\nUS broadcast: NBC. Availability elsewhere varies.\n
- \nViewing window: 3.5 hours (4 hours for championships)\; finish is approx
- imate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/40
- 1858437/washington-st-washington
-LOCATION:Husky Stadium\, Seattle\, WA\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858437/washingto
- n-st-washington
-CATEGORIES:College
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401856661@football-watchlist
-DTSTAMP:20260905T145457Z
-CREATED:20260905T145208Z
-LAST-MODIFIED:20260905T145457Z
-SEQUENCE:1
-DTSTART:20260906T233000Z
-DTEND:20260907T030000Z
-SUMMARY:CFB: Louisville vs Ole Miss
-DESCRIPTION:National pick: ranked matchup (#9 vs #24) at selection.\n\nLibe
- rty Mutual Music City Kickoff\n\nTeams: Louisville Cardinals at Ole Miss R
- ebels\n\nUS broadcast: ABC / ERADM. Availability elsewhere varies.\n\nView
- ing window: 3.5 hours (4 hours for championships)\; finish is approximate.
- \n\nSchedule: https://www.espn.com/college-football/game/_/gameId/40185666
- 1/louisville-ole-miss
-LOCATION:Nissan Stadium\, Nashville\, TN\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856661/louisvill
- e-ole-miss
-CATEGORIES:College,National pick
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401858438@football-watchlist
-DTSTAMP:20260905T145457Z
-CREATED:20260905T145208Z
-LAST-MODIFIED:20260905T145457Z
-SEQUENCE:1
-DTSTART:20260906T233000Z
-DTEND:20260907T030000Z
-SUMMARY:CFB: Wisconsin vs Notre Dame
-DESCRIPTION:National pick: Sunday or Monday national broadcast featuring a 
- ranked team.\n\nTeams: Wisconsin Badgers at Notre Dame Fighting Irish\n\nU
- S broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 ho
- urs (4 hours for championships)\; finish is approximate.\n\nSchedule: http
- s://www.espn.com/college-football/game/_/gameId/401858438/wisconsin-notre-
- dame
-LOCATION:Lambeau Field\, Green Bay\, WI\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858438/wisconsin
- -notre-dame
-CATEGORIES:College,National pick
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-823820@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -11490,18 +11341,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026021038@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261106T093115Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261106T093115Z
+SEQUENCE:1
 DTSTART:20270302T000000Z
 DTEND:20270302T030000Z
 SUMMARY:NHL: Carolina Hurricanes at Columbus Blue Jackets
 DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
  nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
  nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / CBJHN /
-  CBJNHL / HHN. Availability varies by country and provider.\n\nOfficial sc
- hedule: https://www.nhl.com/gamecenter/car-vs-cbj/2027/03/01/2026021038
+  CBJNHL / HHN / WWHO. Availability varies by country and provider.\n\nOffi
+ cial schedule: https://www.nhl.com/gamecenter/car-vs-cbj/2027/03/01/202602
+ 1038
 LOCATION:Nationwide Arena
 URL:https://www.nhl.com/gamecenter/car-vs-cbj/2027/03/01/2026021038
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
