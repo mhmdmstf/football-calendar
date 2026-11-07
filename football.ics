@@ -5905,10 +5905,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856743@football-watchlist
-DTSTAMP:20261107T185207Z
+DTSTAMP:20261107T234111Z
 CREATED:20261017T070236Z
-LAST-MODIFIED:20261107T185207Z
-SEQUENCE:4
+LAST-MODIFIED:20261107T234111Z
+SEQUENCE:5
 DTSTART:20261107T170000Z
 DTEND:20261107T203000Z
 SUMMARY:CFB: Texas at Missouri
@@ -5916,19 +5916,20 @@ DESCRIPTION:National pick: ranked matchup (#7 vs #13) at selection.\n\nTeam
  s: Texas Longhorns at Missouri Tigers\n\nUS broadcast: ESPN / Disney+. Ava
  ilability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for cham
  pionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/coll
- ege-football/game/_/gameId/401856743
+ ege-football/game/_/gameId/401856743/texas-missouri
 LOCATION:Memorial Stadium\, Columbia\, MO\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856743
+URL:https://www.espn.com/college-football/game/_/gameId/401856743/texas-mis
+ souri
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856849@football-watchlist
-DTSTAMP:20261107T185207Z
+DTSTAMP:20261107T234111Z
 CREATED:20261017T070236Z
-LAST-MODIFIED:20261107T185207Z
-SEQUENCE:3
+LAST-MODIFIED:20261107T234111Z
+SEQUENCE:4
 DTSTART:20261107T170000Z
 DTEND:20261107T203000Z
 SUMMARY:CFB: BYU at Utah
@@ -5936,19 +5937,19 @@ DESCRIPTION:National pick: ranked matchup (#8 vs #11) at selection.\n\nTeam
  s: BYU Cougars at Utah Utes\n\nUS broadcast: ABC. Availability elsewhere v
  aries.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish i
  s approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/g
- ameId/401856849
+ ameId/401856849/byu-utah
 LOCATION:Rice-Eccles Stadium\, Salt Lake City\, UT\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856849
+URL:https://www.espn.com/college-football/game/_/gameId/401856849/byu-utah
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856740@football-watchlist
-DTSTAMP:20261106T202828Z
+DTSTAMP:20261107T234111Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20261106T202828Z
-SEQUENCE:3
+LAST-MODIFIED:20261107T234111Z
+SEQUENCE:4
 DTSTART:20261107T203000Z
 DTEND:20261108T000000Z
 SUMMARY:CFB: Alabama at LSU
@@ -5956,20 +5957,19 @@ DESCRIPTION:Following Alabama: every game.\n\nTeams: Alabama Crimson Tide a
  t LSU Tigers\n\nUS broadcast: ABC / Disney+ / ERADM. Availability elsewher
  e varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; finis
  h is approximate.\n\nSchedule: https://www.espn.com/college-football/game/
- _/gameId/401856740/alabama-lsu
+ _/gameId/401856740
 LOCATION:Tiger Stadium (LA)\, Baton Rouge\, LA\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856740/alabama-l
- su
+URL:https://www.espn.com/college-football/game/_/gameId/401856740
 CATEGORIES:College,Alabama
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856745@football-watchlist
-DTSTAMP:20261026T235629Z
+DTSTAMP:20261107T234111Z
 CREATED:20261017T070236Z
-LAST-MODIFIED:20261026T235629Z
-SEQUENCE:1
+LAST-MODIFIED:20261107T234111Z
+SEQUENCE:2
 DTSTART:20261107T231500Z
 DTEND:20261108T024500Z
 SUMMARY:CFB: Kentucky at Tennessee
@@ -5977,10 +5977,9 @@ DESCRIPTION:National pick: ranked matchup (#14 vs #15) at selection.\n\nTea
  ms: Kentucky Wildcats at Tennessee Volunteers\n\nUS broadcast: ESPN. Avail
  ability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champi
  onships)\; finish is approximate.\n\nSchedule: https://www.espn.com/colleg
- e-football/game/_/gameId/401856745/kentucky-tennessee
+ e-football/game/_/gameId/401856745
 LOCATION:Neyland Stadium\, Knoxville\, TN\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856745/kentucky-
- tennessee
+URL:https://www.espn.com/college-football/game/_/gameId/401856745
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
