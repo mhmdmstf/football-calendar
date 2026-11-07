@@ -5824,49 +5824,44 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401884740@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261107T185207Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
+LAST-MODIFIED:20261107T185207Z
+SEQUENCE:1
 DTSTART:20261107T143000Z
 DTEND:20261107T163000Z
-SUMMARY:Mainz vs Bayern Munich - German Bundesliga [provisional]
+SUMMARY:Mainz vs Bayern Munich - German Bundesliga
 DESCRIPTION:A current top-three club faces a top-half opponent: Mainz #7\, 
  Bayern Munich #1.\n\nSelection made 2026-10-26. Table positions describe t
- hat snapshot\, not predicted results. Picks are kept once added.\n\nProvis
- ional source-listed date and kickoff. ESPN does not reliably distinguish T
- V-confirmed dates from provisional fixtures\; both may change. The calenda
- r updates when the schedule changes.\n\nViewing window: 2 hours\; finish i
- s approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401
- 884740
+ hat snapshot\, not predicted results. Picks are kept once added.\n\nKickof
+ f shown in your calendar’s local time.\n\nViewing window: 2 hours\; fini
+ sh is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId
+ /401884740
 LOCATION:MEWA ARENA
 URL:https://www.espn.com/soccer/match/_/gameId/401884740
 CATEGORIES:Soccer,European pick,German Bundesliga
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401884745@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261107T185207Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
+LAST-MODIFIED:20261107T185207Z
+SEQUENCE:1
 DTSTART:20261107T143000Z
 DTEND:20261107T163000Z
-SUMMARY:Borussia Dortmund vs SV Elversberg - German Bundesliga [provisional
- ]
+SUMMARY:Borussia Dortmund vs SV Elversberg - German Bundesliga
 DESCRIPTION:A current top-three club faces a top-half opponent: Borussia Do
  rtmund #2\, SV Elversberg #8.\n\nSelection made 2026-10-26. Table position
  s describe that snapshot\, not predicted results. Picks are kept once adde
- d.\n\nProvisional source-listed date and kickoff. ESPN does not reliably d
- istinguish TV-confirmed dates from provisional fixtures\; both may change.
-  The calendar updates when the schedule changes.\n\nViewing window: 2 hour
- s\; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/
- _/gameId/401884745
+ d.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 
+ hours\; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/ma
+ tch/_/gameId/401884745
 LOCATION:Signal Iduna Park
 URL:https://www.espn.com/soccer/match/_/gameId/401884745
 CATEGORIES:Soccer,European pick,German Bundesliga
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -5889,33 +5884,31 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401878760@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261107T185207Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
+LAST-MODIFIED:20261107T185207Z
+SEQUENCE:1
 DTSTART:20261107T150000Z
 DTEND:20261107T170000Z
-SUMMARY:Arsenal vs Hull City - English Premier League [provisional]
+SUMMARY:Arsenal vs Hull City - English Premier League
 DESCRIPTION:A current top-three club faces a top-half opponent: Arsenal #2\
  , Hull City #10.\n\nSelection made 2026-10-26. Table positions describe th
- at snapshot\, not predicted results. Picks are kept once added.\n\nProvisi
- onal source-listed date and kickoff. ESPN does not reliably distinguish TV
- -confirmed dates from provisional fixtures\; both may change. The calendar
-  updates when the schedule changes.\n\nViewing window: 2 hours\; finish is
-  approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/4018
- 78760
+ at snapshot\, not predicted results. Picks are kept once added.\n\nKickoff
+  shown in your calendar’s local time.\n\nViewing window: 2 hours\; finis
+ h is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/
+ 401878760
 LOCATION:Emirates Stadium
 URL:https://www.espn.com/soccer/match/_/gameId/401878760
 CATEGORIES:Soccer,European pick,English Premier League
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856743@football-watchlist
-DTSTAMP:20261106T202828Z
+DTSTAMP:20261107T185207Z
 CREATED:20261017T070236Z
-LAST-MODIFIED:20261106T202828Z
-SEQUENCE:3
+LAST-MODIFIED:20261107T185207Z
+SEQUENCE:4
 DTSTART:20261107T170000Z
 DTEND:20261107T203000Z
 SUMMARY:CFB: Texas at Missouri
@@ -5923,20 +5916,19 @@ DESCRIPTION:National pick: ranked matchup (#7 vs #13) at selection.\n\nTeam
  s: Texas Longhorns at Missouri Tigers\n\nUS broadcast: ESPN / Disney+. Ava
  ilability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for cham
  pionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/coll
- ege-football/game/_/gameId/401856743/texas-missouri
+ ege-football/game/_/gameId/401856743
 LOCATION:Memorial Stadium\, Columbia\, MO\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856743/texas-mis
- souri
+URL:https://www.espn.com/college-football/game/_/gameId/401856743
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856849@football-watchlist
-DTSTAMP:20261101T092342Z
+DTSTAMP:20261107T185207Z
 CREATED:20261017T070236Z
-LAST-MODIFIED:20261101T092342Z
-SEQUENCE:2
+LAST-MODIFIED:20261107T185207Z
+SEQUENCE:3
 DTSTART:20261107T170000Z
 DTEND:20261107T203000Z
 SUMMARY:CFB: BYU at Utah
@@ -5944,9 +5936,9 @@ DESCRIPTION:National pick: ranked matchup (#8 vs #11) at selection.\n\nTeam
  s: BYU Cougars at Utah Utes\n\nUS broadcast: ABC. Availability elsewhere v
  aries.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish i
  s approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/g
- ameId/401856849/byu-utah
+ ameId/401856849
 LOCATION:Rice-Eccles Stadium\, Salt Lake City\, UT\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856849/byu-utah
+URL:https://www.espn.com/college-football/game/_/gameId/401856849
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -7760,12 +7760,12 @@
         "A current top-three club faces a top-half opponent: Mainz #7, Bayern Munich #1."
       ],
       "soccerSelectedOn": "2026-10-26",
-      "title": "Mainz vs Bayern Munich - German Bundesliga [provisional]",
+      "title": "Mainz vs Bayern Munich - German Bundesliga",
       "start": "2026-11-07T14:30:00.000Z",
       "end": "2026-11-07T16:30:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "A current top-three club faces a top-half opponent: Mainz #7, Bayern Munich #1.\n\nSelection made 2026-10-26. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884740",
+      "status": "CONFIRMED",
+      "description": "A current top-three club faces a top-half opponent: Mainz #7, Bayern Munich #1.\n\nSelection made 2026-10-26. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884740",
       "location": "MEWA ARENA",
       "url": "https://www.espn.com/soccer/match/_/gameId/401884740",
       "categories": [
@@ -7773,10 +7773,10 @@
         "European pick",
         "German Bundesliga"
       ],
-      "hash": "ca3a78f5dcd30cbc6d5ac920689aa7c1d2e7c91f9abfb7919a08b69c78a44389",
+      "hash": "48e9024cfad7faab1bc88e82e772588b15e670160786ac6971bd3912f6e65701",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-07T18:52:07.570Z",
+      "sequence": 1
     },
     {
       "uid": "soccer-401884745@football-watchlist",
@@ -7794,12 +7794,12 @@
         "A current top-three club faces a top-half opponent: Borussia Dortmund #2, SV Elversberg #8."
       ],
       "soccerSelectedOn": "2026-10-26",
-      "title": "Borussia Dortmund vs SV Elversberg - German Bundesliga [provisional]",
+      "title": "Borussia Dortmund vs SV Elversberg - German Bundesliga",
       "start": "2026-11-07T14:30:00.000Z",
       "end": "2026-11-07T16:30:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "A current top-three club faces a top-half opponent: Borussia Dortmund #2, SV Elversberg #8.\n\nSelection made 2026-10-26. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884745",
+      "status": "CONFIRMED",
+      "description": "A current top-three club faces a top-half opponent: Borussia Dortmund #2, SV Elversberg #8.\n\nSelection made 2026-10-26. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884745",
       "location": "Signal Iduna Park",
       "url": "https://www.espn.com/soccer/match/_/gameId/401884745",
       "categories": [
@@ -7807,10 +7807,10 @@
         "European pick",
         "German Bundesliga"
       ],
-      "hash": "f6e2c58ae6a6019f585bdf354a27626fd973d56270c67f0471d7f389123e4c90",
+      "hash": "eb3e99b5546c0988109ecf8ed04a1eccf5f305ba6cd012590e55f9558414d330",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-07T18:52:07.570Z",
+      "sequence": 1
     },
     {
       "uid": "show-bignoon-2026-11-07@football-watchlist",
@@ -7848,12 +7848,12 @@
         "A current top-three club faces a top-half opponent: Arsenal #2, Hull City #10."
       ],
       "soccerSelectedOn": "2026-10-26",
-      "title": "Arsenal vs Hull City - English Premier League [provisional]",
+      "title": "Arsenal vs Hull City - English Premier League",
       "start": "2026-11-07T15:00:00.000Z",
       "end": "2026-11-07T17:00:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "A current top-three club faces a top-half opponent: Arsenal #2, Hull City #10.\n\nSelection made 2026-10-26. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401878760",
+      "status": "CONFIRMED",
+      "description": "A current top-three club faces a top-half opponent: Arsenal #2, Hull City #10.\n\nSelection made 2026-10-26. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401878760",
       "location": "Emirates Stadium",
       "url": "https://www.espn.com/soccer/match/_/gameId/401878760",
       "categories": [
@@ -7861,10 +7861,10 @@
         "European pick",
         "English Premier League"
       ],
-      "hash": "c93c6af886048af8f36991035542d2acbd85a81a968186c2f8282eee80d53f7e",
+      "hash": "e9c532720cd2c68c0797f1456e73ca1774868c7a6684216e61772058af479428",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-07T18:52:07.570Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401856743@football-watchlist",
@@ -7873,19 +7873,19 @@
       "start": "2026-11-07T17:00:00.000Z",
       "end": "2026-11-07T20:30:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#7 vs #13) at selection.\n\nTeams: Texas Longhorns at Missouri Tigers\n\nUS broadcast: ESPN / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856743/texas-missouri",
+      "description": "National pick: ranked matchup (#7 vs #13) at selection.\n\nTeams: Texas Longhorns at Missouri Tigers\n\nUS broadcast: ESPN / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856743",
       "location": "Memorial Stadium, Columbia, MO, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856743/texas-missouri",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856743",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#7 vs #13) at selection.",
-      "hash": "3a29556502bb0562a9f8f66ed676d96cf14f90d9b61a90be3723aaeb3aee625e",
+      "hash": "36960a17d80051928d3d4b341fb5dcba5ff7393dfa7badc2490efaf0ed714074",
       "created": "2026-10-17T07:02:36.015Z",
-      "modified": "2026-11-06T20:28:28.922Z",
-      "sequence": 3
+      "modified": "2026-11-07T18:52:07.570Z",
+      "sequence": 4
     },
     {
       "uid": "college-football-401856849@football-watchlist",
@@ -7894,19 +7894,19 @@
       "start": "2026-11-07T17:00:00.000Z",
       "end": "2026-11-07T20:30:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#8 vs #11) at selection.\n\nTeams: BYU Cougars at Utah Utes\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856849/byu-utah",
+      "description": "National pick: ranked matchup (#8 vs #11) at selection.\n\nTeams: BYU Cougars at Utah Utes\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856849",
       "location": "Rice-Eccles Stadium, Salt Lake City, UT, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856849/byu-utah",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856849",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#8 vs #11) at selection.",
-      "hash": "c79e624150b328e47832389b1325e264807c7a88308666489603932fc9906637",
+      "hash": "baa5d8ee21a858cc45506d76bae9f1db9acdd231903edc21522a88bcdbc261ca",
       "created": "2026-10-17T07:02:36.015Z",
-      "modified": "2026-11-01T09:23:42.690Z",
-      "sequence": 2
+      "modified": "2026-11-07T18:52:07.570Z",
+      "sequence": 3
     },
     {
       "uid": "college-football-401856740@football-watchlist",
