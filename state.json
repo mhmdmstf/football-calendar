@@ -1,61 +1,7 @@
 {
-  "checkedOn": "2026-11-06",
+  "checkedOn": "2026-11-07",
   "season": 2026,
   "events": [
-    {
-      "uid": "mlb-823820@football-watchlist",
-      "gameId": "823820",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/121:47/146:47",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "121",
-        "146"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: New York Mets at Miami Marlins",
-      "start": "2026-09-07T17:10:00.000Z",
-      "end": "2026-09-07T20:10:00.000Z",
-      "allDay": false,
-      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Jonah Tong / Eury Pérez.\n\nListed broadcasts: SNY / Marlins.TV presented by Werner, Hoffman, Greig & Garcia. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823820",
-      "location": "loanDepot park",
-      "url": "https://www.mlb.com/gameday/823820",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "ff25e7eb9f7f27abd1b4fcd9adec25d5901378616919f2a682831819ef04c658",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401858212@football-watchlist",
-      "gameId": "401858212",
-      "title": "CFB: SMU at Florida State",
-      "start": "2026-09-07T23:30:00.000Z",
-      "end": "2026-09-08T03:00:00.000Z",
-      "allDay": false,
-      "description": "National pick: a ranked team in a potentially competitive game (market spread 3 points at selection). Upset possibility is an estimate.\n\nTeams: SMU Mustangs at Florida State Seminoles\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858212/smu-florida-st",
-      "location": "Doak Campbell Stadium, Tallahassee, FL, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858212/smu-florida-st",
-      "status": "CONFIRMED",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 3 points at selection). Upset possibility is an estimate.",
-      "hash": "7a6f4d5dfb12346a8ad3c9e2c61ce0b4b79d30e689c975bbabac53ef57871069",
-      "created": "2026-09-05T14:52:08.096Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 0
-    },
     {
       "uid": "mlb-823821@football-watchlist",
       "gameId": "823821",
@@ -14475,7 +14421,7 @@
       "end": "2027-02-21T21:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: HBO MAX / SN1 / TNT / truTV. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/nyr-vs-car/2027/02/21/2026020977",
+      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: HBO MAX / SN1 / TNT. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/nyr-vs-car/2027/02/21/2026020977",
       "location": "Lenovo Center",
       "url": "https://www.nhl.com/gamecenter/nyr-vs-car/2027/02/21/2026020977",
       "categories": [
@@ -14483,10 +14429,10 @@
         "Regular season",
         "Carolina Hurricanes"
       ],
-      "hash": "873002adeda529fee3c91d66a766caf8a6592c84890bfdfc030a7b5202c40f1d",
+      "hash": "a607203c0a528627edbda34a205689c930a3558880d79ffa7b71d349fadc1055",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-23T18:28:57.725Z",
-      "sequence": 1
+      "modified": "2026-11-07T08:56:08.318Z",
+      "sequence": 2
     },
     {
       "uid": "nhl-2026020980@football-watchlist",
@@ -27630,7 +27576,7 @@
   "nflGames": 285,
   "collegeGames": 950,
   "baseball": {
-    "checkedOn": "2026-11-06",
+    "checkedOn": "2026-11-07",
     "season": 2026,
     "scheduleGames": 996,
     "followedRegularSeasons": {
@@ -27643,11 +27589,11 @@
         "139": 162
       }
     },
-    "events": 406,
+    "events": 405,
     "playoffEvents": 40
   },
   "hockey": {
-    "checkedOn": "2026-11-06",
+    "checkedOn": "2026-11-07",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -27664,7 +27610,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-11-06",
+    "checkedOn": "2026-11-07",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
@@ -27674,7 +27620,7 @@
     "events": 37
   },
   "soccer": {
-    "checkedOn": "2026-11-06",
+    "checkedOn": "2026-11-07",
     "season": 2026,
     "window": {
       "start": "2026-11-02",

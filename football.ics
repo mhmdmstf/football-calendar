@@ -8,49 +8,6 @@ X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:mlb-823820@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260907T171000Z
-DTEND:20260907T201000Z
-SUMMARY:MLB: New York Mets at Miami Marlins
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
- window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to 
- change): Jonah Tong / Eury Pérez.\n\nListed broadcasts: SNY / Marlins.TV 
- presented by Werner\, Hoffman\, Greig & Garcia. Availability varies by cou
- ntry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/82382
- 0
-LOCATION:loanDepot park
-URL:https://www.mlb.com/gameday/823820
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401858212@football-watchlist
-DTSTAMP:20260905T145208Z
-CREATED:20260905T145208Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:0
-DTSTART:20260907T233000Z
-DTEND:20260908T030000Z
-SUMMARY:CFB: SMU at Florida State
-DESCRIPTION:National pick: a ranked team in a potentially competitive game 
- (market spread 3 points at selection). Upset possibility is an estimate.\n
- \nTeams: SMU Mustangs at Florida State Seminoles\n\nUS broadcast: ESPN. Av
- ailability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for cha
- mpionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/col
- lege-football/game/_/gameId/401858212/smu-florida-st
-LOCATION:Doak Campbell Stadium\, Tallahassee\, FL\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858212/smu-flori
- da-st
-CATEGORIES:College,National pick
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-823821@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -11138,18 +11095,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020977@football-watchlist
-DTSTAMP:20261023T182857Z
+DTSTAMP:20261107T085608Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261023T182857Z
-SEQUENCE:1
+LAST-MODIFIED:20261107T085608Z
+SEQUENCE:2
 DTSTART:20270221T180000Z
 DTEND:20270221T210000Z
 SUMMARY:NHL: New York Rangers at Carolina Hurricanes
 DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
  nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
  nd playoff overtime can run longer.\n\nListed broadcasts: HBO MAX / SN1 / 
- TNT / truTV. Availability varies by country and provider.\n\nOfficial sche
- dule: https://www.nhl.com/gamecenter/nyr-vs-car/2027/02/21/2026020977
+ TNT. Availability varies by country and provider.\n\nOfficial schedule: ht
+ tps://www.nhl.com/gamecenter/nyr-vs-car/2027/02/21/2026020977
 LOCATION:Lenovo Center
 URL:https://www.nhl.com/gamecenter/nyr-vs-car/2027/02/21/2026020977
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
