@@ -1,73 +1,7 @@
 {
-  "checkedOn": "2026-11-07",
+  "checkedOn": "2026-11-08",
   "season": 2026,
   "events": [
-    {
-      "uid": "mlb-823821@football-watchlist",
-      "gameId": "823821",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/121:47/146:47",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "121",
-        "146"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: New York Mets at Miami Marlins",
-      "start": "2026-09-08T22:40:00.000Z",
-      "end": "2026-09-09T01:40:00.000Z",
-      "allDay": false,
-      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Sean Manaea / Sandy Alcantara.\n\nListed broadcasts: SNY / Marlins.TV presented by Werner, Hoffman, Greig & Garcia. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823821",
-      "location": "loanDepot park",
-      "url": "https://www.mlb.com/gameday/823821",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "ca846610d6eb6cd69a0cd681c9b36a807730b4585e908b2f2df71f2a6ed70a2e",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-824875@football-watchlist",
-      "gameId": "824875",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/139:47/144:49",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "144"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Tampa Bay Rays at Atlanta Braves",
-      "start": "2026-09-08T23:15:00.000Z",
-      "end": "2026-09-09T02:15:00.000Z",
-      "allDay": false,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Freddy Peralta / AJ Smith-Shawver.\n\nListed broadcasts: BravesVision / Rays.TV / Gray TV / Gray Media Telemundo. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/824875",
-      "location": "Truist Park",
-      "url": "https://www.mlb.com/gameday/824875",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "187beb8a6f4c90d6a40c5b557fe766d641e70219bb2d566c00e6c5e7a14f9334",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
     {
       "uid": "chelsea-2685176@football-watchlist",
       "gameId": "2685176",
@@ -7915,18 +7849,18 @@
       "start": "2026-11-07T20:30:00.000Z",
       "end": "2026-11-08T00:00:00.000Z",
       "allDay": false,
-      "description": "Following Alabama: every game.\n\nTeams: Alabama Crimson Tide at LSU Tigers\n\nUS broadcast: ABC / Disney+ / ERADM. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856740",
+      "description": "Following Alabama: every game.\n\nTeams: Alabama Crimson Tide at LSU Tigers\n\nUS broadcast: ABC / Disney+ / ERADM. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856740/alabama-lsu",
       "location": "Tiger Stadium (LA), Baton Rouge, LA, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856740",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856740/alabama-lsu",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "Alabama"
       ],
-      "hash": "4d130693284b038f66922a4e0994f0cd3cd9ae3054d30257f43ad8cfc7af6325",
+      "hash": "fcd0f0f20ab4f7206989c4bf3886b36517197ce362cdf1f9d67de462b5dc4f32",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-11-07T23:41:11.422Z",
-      "sequence": 4
+      "modified": "2026-11-08T09:11:24.294Z",
+      "sequence": 5
     },
     {
       "uid": "college-football-401856745@football-watchlist",
@@ -7935,19 +7869,19 @@
       "start": "2026-11-07T23:15:00.000Z",
       "end": "2026-11-08T02:45:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#14 vs #15) at selection.\n\nTeams: Kentucky Wildcats at Tennessee Volunteers\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856745",
+      "description": "National pick: ranked matchup (#14 vs #15) at selection.\n\nTeams: Kentucky Wildcats at Tennessee Volunteers\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856745/kentucky-tennessee",
       "location": "Neyland Stadium, Knoxville, TN, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856745",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856745/kentucky-tennessee",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#14 vs #15) at selection.",
-      "hash": "2c66f80343fd2b398852b8dc4f4fb4fe90218ce9b19a83ad3c277002a8bce3dc",
+      "hash": "f37c6d316732efd7fc5de6861da020d1771b43eeb513574d15ec3c4268ffda8b",
       "created": "2026-10-17T07:02:36.015Z",
-      "modified": "2026-11-07T23:41:11.422Z",
-      "sequence": 2
+      "modified": "2026-11-08T09:11:24.294Z",
+      "sequence": 3
     },
     {
       "uid": "college-football-401856741@football-watchlist",
@@ -27576,7 +27510,7 @@
   "nflGames": 285,
   "collegeGames": 950,
   "baseball": {
-    "checkedOn": "2026-11-07",
+    "checkedOn": "2026-11-08",
     "season": 2026,
     "scheduleGames": 996,
     "followedRegularSeasons": {
@@ -27589,11 +27523,11 @@
         "139": 162
       }
     },
-    "events": 405,
+    "events": 403,
     "playoffEvents": 40
   },
   "hockey": {
-    "checkedOn": "2026-11-07",
+    "checkedOn": "2026-11-08",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -27610,7 +27544,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-11-07",
+    "checkedOn": "2026-11-08",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
@@ -27620,7 +27554,7 @@
     "events": 37
   },
   "soccer": {
-    "checkedOn": "2026-11-07",
+    "checkedOn": "2026-11-08",
     "season": 2026,
     "window": {
       "start": "2026-11-02",

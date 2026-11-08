@@ -8,48 +8,6 @@ X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:mlb-823821@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260908T224000Z
-DTEND:20260909T014000Z
-SUMMARY:MLB: New York Mets at Miami Marlins
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
- window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to 
- change): Sean Manaea / Sandy Alcantara.\n\nListed broadcasts: SNY / Marlin
- s.TV presented by Werner\, Hoffman\, Greig & Garcia. Availability varies b
- y country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/
- 823821
-LOCATION:loanDepot park
-URL:https://www.mlb.com/gameday/823821
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-824875@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260908T231500Z
-DTEND:20260909T021500Z
-SUMMARY:MLB: Tampa Bay Rays at Atlanta Braves
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
-  window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to
-  change): Freddy Peralta / AJ Smith-Shawver.\n\nListed broadcasts: BravesV
- ision / Rays.TV / Gray TV / Gray Media Telemundo. Availability varies by c
- ountry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/824
- 875
-LOCATION:Truist Park
-URL:https://www.mlb.com/gameday/824875
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:chelsea-2685176@football-watchlist
 DTSTAMP:20261003T132345Z
 CREATED:20261003T132258Z
@@ -5946,10 +5904,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856740@football-watchlist
-DTSTAMP:20261107T234111Z
+DTSTAMP:20261108T091124Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20261107T234111Z
-SEQUENCE:4
+LAST-MODIFIED:20261108T091124Z
+SEQUENCE:5
 DTSTART:20261107T203000Z
 DTEND:20261108T000000Z
 SUMMARY:CFB: Alabama at LSU
@@ -5957,19 +5915,20 @@ DESCRIPTION:Following Alabama: every game.\n\nTeams: Alabama Crimson Tide a
  t LSU Tigers\n\nUS broadcast: ABC / Disney+ / ERADM. Availability elsewher
  e varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; finis
  h is approximate.\n\nSchedule: https://www.espn.com/college-football/game/
- _/gameId/401856740
+ _/gameId/401856740/alabama-lsu
 LOCATION:Tiger Stadium (LA)\, Baton Rouge\, LA\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856740
+URL:https://www.espn.com/college-football/game/_/gameId/401856740/alabama-l
+ su
 CATEGORIES:College,Alabama
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856745@football-watchlist
-DTSTAMP:20261107T234111Z
+DTSTAMP:20261108T091124Z
 CREATED:20261017T070236Z
-LAST-MODIFIED:20261107T234111Z
-SEQUENCE:2
+LAST-MODIFIED:20261108T091124Z
+SEQUENCE:3
 DTSTART:20261107T231500Z
 DTEND:20261108T024500Z
 SUMMARY:CFB: Kentucky at Tennessee
@@ -5977,9 +5936,10 @@ DESCRIPTION:National pick: ranked matchup (#14 vs #15) at selection.\n\nTea
  ms: Kentucky Wildcats at Tennessee Volunteers\n\nUS broadcast: ESPN. Avail
  ability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champi
  onships)\; finish is approximate.\n\nSchedule: https://www.espn.com/colleg
- e-football/game/_/gameId/401856745
+ e-football/game/_/gameId/401856745/kentucky-tennessee
 LOCATION:Neyland Stadium\, Knoxville\, TN\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856745
+URL:https://www.espn.com/college-football/game/_/gameId/401856745/kentucky-
+ tennessee
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
