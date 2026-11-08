@@ -6191,22 +6191,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401876404@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261108T234843Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
+LAST-MODIFIED:20261108T234843Z
+SEQUENCE:1
 DTSTART:20261108T194500Z
 DTEND:20261108T214500Z
-SUMMARY:Lens vs Marseille - French Ligue 1 [provisional]
-DESCRIPTION:Following RC Lens: every competitive fixture.\n\nProvisional so
- urce-listed date and kickoff. ESPN does not reliably distinguish TV-confir
- med dates from provisional fixtures\; both may change. The calendar update
- s when the schedule changes.\n\nViewing window: 2 hours\; finish is approx
- imate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401876404
+SUMMARY:Lens vs Marseille - French Ligue 1
+DESCRIPTION:Following RC Lens: every competitive fixture.\n\nKickoff shown 
+ in your calendar’s local time.\n\nViewing window: 2 hours\; finish is ap
+ proximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/4018764
+ 04
 LOCATION:Stade Bollaert-Delelis
 URL:https://www.espn.com/soccer/match/_/gameId/401876404
 CATEGORIES:Soccer,Followed team,French Ligue 1
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -6353,27 +6352,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:college-football-401856864@football-watchlist
-DTSTAMP:20261024T072439Z
-CREATED:20261024T072439Z
-LAST-MODIFIED:20261024T072439Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:CFB: Utah at Arizona [time TBA]
-DESCRIPTION:National pick: ranked matchup (#10 vs #25) at selection.\n\nTea
- ms: Utah Utes at Arizona Wildcats\n\nBroadcast to be announced.\n\nKickoff
-  has not been announced. This all-day marker will become a timed event whe
- n confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gam
- eId/401856864/utah-arizona
-LOCATION:Casino Del Sol Stadium\, Tucson\, AZ\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856864/utah-ariz
- ona
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:show-gameday-2026-11-14@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -6434,18 +6412,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856889@football-watchlist
-DTSTAMP:20261102T224851Z
+DTSTAMP:20261108T234843Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20261102T224851Z
-SEQUENCE:1
+LAST-MODIFIED:20261108T234843Z
+SEQUENCE:2
 DTSTART:20261114T174500Z
 DTEND:20261114T211500Z
 SUMMARY:CFB: Alabama at Vanderbilt
-DESCRIPTION:Following Alabama: every game.\n\nEARLY: Noon - 1pm ET start\n\
- nTeams: Alabama Crimson Tide at Vanderbilt Commodores\n\nUS broadcast: SEC
-  Network. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 h
- ours for championships)\; finish is approximate.\n\nSchedule: https://www.
- espn.com/college-football/game/_/gameId/401856889/alabama-vanderbilt
+DESCRIPTION:Following Alabama: every game.\n\nTeams: Alabama Crimson Tide a
+ t Vanderbilt Commodores\n\nUS broadcast: SEC Network. Availability elsewhe
+ re varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; fini
+ sh is approximate.\n\nSchedule: https://www.espn.com/college-football/game
+ /_/gameId/401856889/alabama-vanderbilt
 LOCATION:FirstBank Stadium\, Nashville\, TN\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856889/alabama-v
  anderbilt
@@ -6518,21 +6496,42 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856884@football-watchlist
-DTSTAMP:20261108T185307Z
+DTSTAMP:20261108T234843Z
 CREATED:20261024T072439Z
-LAST-MODIFIED:20261108T185307Z
-SEQUENCE:2
+LAST-MODIFIED:20261108T234843Z
+SEQUENCE:3
 DTSTART:20261114T231500Z
 DTEND:20261115T024500Z
 SUMMARY:CFB: Florida at Kentucky
-DESCRIPTION:National pick: ranked matchup (#12 vs #20) at selection.\n\nNIG
- HT: 6 - 8pm ET start\n\nTeams: Florida Gators at Kentucky Wildcats\n\nUS b
- roadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hour
- s (4 hours for championships)\; finish is approximate.\n\nSchedule: https:
- //www.espn.com/college-football/game/_/gameId/401856884/florida-kentucky
+DESCRIPTION:National pick: ranked matchup (#12 vs #20) at selection.\n\nTea
+ ms: Florida Gators at Kentucky Wildcats\n\nUS broadcast: ESPN. Availabilit
+ y elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championship
+ s)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-foot
+ ball/game/_/gameId/401856884/florida-kentucky
 LOCATION:Kroger Field\, Lexington\, KY\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856884/florida-k
  entucky
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856864@football-watchlist
+DTSTAMP:20261108T234843Z
+CREATED:20261024T072439Z
+LAST-MODIFIED:20261108T234843Z
+SEQUENCE:1
+DTSTART:20261115T003000Z
+DTEND:20261115T040000Z
+SUMMARY:CFB: Utah at Arizona
+DESCRIPTION:National pick: ranked matchup (#10 vs #25) at selection.\n\nTea
+ ms: Utah Utes at Arizona Wildcats\n\nUS broadcast: Fox. Availability elsew
+ here varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; fi
+ nish is approximate.\n\nSchedule: https://www.espn.com/college-football/ga
+ me/_/gameId/401856864/utah-arizona
+LOCATION:Casino Del Sol Stadium\, Tucson\, AZ\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856864/utah-ariz
+ ona
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -6882,6 +6881,51 @@ STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:soccer-401876398@football-watchlist
+DTSTAMP:20261108T234843Z
+CREATED:20261108T234843Z
+LAST-MODIFIED:20261108T234843Z
+SEQUENCE:0
+DTSTART:20261121T161500Z
+DTEND:20261121T181500Z
+SUMMARY:Nice vs Paris Saint-Germain - French Ligue 1 [provisional]
+DESCRIPTION:Both clubs are in the current top 6: Nice #6\, Paris Saint-Germ
+ ain #1.\n\nSelection made 2026-11-09. Table positions describe that snapsh
+ ot\, not predicted results. Picks are kept once added.\n\nProvisional sour
+ ce-listed date and kickoff. ESPN does not reliably distinguish TV-confirme
+ d dates from provisional fixtures\; both may change. The calendar updates 
+ when the schedule changes.\n\nViewing window: 2 hours\; finish is approxim
+ ate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401876398
+LOCATION:Allianz Riviera
+URL:https://www.espn.com/soccer/match/_/gameId/401876398
+CATEGORIES:Soccer,European pick,French Ligue 1
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401882797@football-watchlist
+DTSTAMP:20261108T234843Z
+CREATED:20261108T234843Z
+LAST-MODIFIED:20261108T234843Z
+SEQUENCE:0
+DTSTART:20261121T173000Z
+DTEND:20261121T193000Z
+SUMMARY:Sevilla vs Real Betis - Spanish LALIGA [provisional]
+DESCRIPTION:Major rivalry: Seville derby.\nBoth clubs are in the current to
+ p 6: Sevilla #6\, Real Betis #4.\n\nSelection made 2026-11-09. Table posit
+ ions describe that snapshot\, not predicted results. Picks are kept once a
+ dded.\n\nProvisional source-listed date and kickoff. ESPN does not reliabl
+ y distinguish TV-confirmed dates from provisional fixtures\; both may chan
+ ge. The calendar updates when the schedule changes.\n\nViewing window: 2 h
+ ours\; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/mat
+ ch/_/gameId/401882797
+LOCATION:Ramón Sánchez Pizjuán Stadium
+URL:https://www.espn.com/soccer/match/_/gameId/401882797
+CATEGORIES:Soccer,European pick,Spanish LALIGA
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nhl-2026020359@football-watchlist
 DTSTAMP:20261019T234748Z
 CREATED:20261001T073711Z
@@ -6920,6 +6964,28 @@ URL:https://www.espn.com/college-football/game/_/gameId/401856746/chattanoo
  ga-alabama
 CATEGORIES:College,Alabama
 STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401876402@football-watchlist
+DTSTAMP:20261108T234843Z
+CREATED:20261108T234843Z
+LAST-MODIFIED:20261108T234843Z
+SEQUENCE:0
+DTSTART:20261121T194500Z
+DTEND:20261121T214500Z
+SUMMARY:Lille vs Lyon - French Ligue 1 [provisional]
+DESCRIPTION:Both clubs are in the current top 6: Lille #2\, Lyon #5.\n\nSel
+ ection made 2026-11-09. Table positions describe that snapshot\, not predi
+ cted results. Picks are kept once added.\n\nProvisional source-listed date
+  and kickoff. ESPN does not reliably distinguish TV-confirmed dates from p
+ rovisional fixtures\; both may change. The calendar updates when the sched
+ ule changes.\n\nViewing window: 2 hours\; finish is approximate.\n\nSchedu
+ le: https://www.espn.com/soccer/match/_/gameId/401876402
+LOCATION:Decathlon Arena - Stade Pierre-Mauroy
+URL:https://www.espn.com/soccer/match/_/gameId/401876402
+CATEGORIES:Soccer,European pick,French Ligue 1
+STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -6981,6 +7047,75 @@ LOCATION:SAP Center at San Jose
 URL:https://www.nhl.com/gamecenter/sea-vs-sjs/2026/11/21/2026020372
 CATEGORIES:NHL,Regular season,San Jose Sharks
 STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401882804@football-watchlist
+DTSTAMP:20261108T234843Z
+CREATED:20261108T234843Z
+LAST-MODIFIED:20261108T234843Z
+SEQUENCE:0
+DTSTART:20261122T130000Z
+DTEND:20261122T150000Z
+SUMMARY:Barcelona vs Villarreal - Spanish LALIGA [provisional]
+DESCRIPTION:A current top-three club faces a top-half opponent: Barcelona #
+ 1\, Villarreal #8.\n\nSelection made 2026-11-09. Table positions describe 
+ that snapshot\, not predicted results. Picks are kept once added.\n\nProvi
+ sional source-listed date and kickoff. ESPN does not reliably distinguish 
+ TV-confirmed dates from provisional fixtures\; both may change. The calend
+ ar updates when the schedule changes.\n\nViewing window: 2 hours\; finish 
+ is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/40
+ 1882804
+LOCATION:Spotify Camp Nou
+URL:https://www.espn.com/soccer/match/_/gameId/401882804
+CATEGORIES:Soccer,European pick,Spanish LALIGA
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401878755@football-watchlist
+DTSTAMP:20261108T234843Z
+CREATED:20261108T234843Z
+LAST-MODIFIED:20261108T234843Z
+SEQUENCE:0
+DTSTART:20261122T163000Z
+DTEND:20261122T183000Z
+SUMMARY:Liverpool vs Manchester United - English Premier League [provisiona
+ l]
+DESCRIPTION:Major rivalry: Liverpool-Manchester United rivalry.\nHigh-profi
+ le club matchup.\n\nSelection made 2026-11-09. Table positions describe th
+ at snapshot\, not predicted results. Picks are kept once added.\n\nProvisi
+ onal source-listed date and kickoff. ESPN does not reliably distinguish TV
+ -confirmed dates from provisional fixtures\; both may change. The calendar
+  updates when the schedule changes.\n\nViewing window: 2 hours\; finish is
+  approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/4018
+ 78755
+LOCATION:Anfield
+URL:https://www.espn.com/soccer/match/_/gameId/401878755
+CATEGORIES:Soccer,European pick,English Premier League
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401874989@football-watchlist
+DTSTAMP:20261108T234843Z
+CREATED:20261108T234843Z
+LAST-MODIFIED:20261108T234843Z
+SEQUENCE:0
+DTSTART:20261122T170000Z
+DTEND:20261122T190000Z
+SUMMARY:AC Milan vs Frosinone - Italian Serie A [provisional]
+DESCRIPTION:Both clubs are in the current top 6: AC Milan #4\, Frosinone #6
+ .\n\nSelection made 2026-11-09. Table positions describe that snapshot\, n
+ ot predicted results. Picks are kept once added.\n\nProvisional source-lis
+ ted date and kickoff. ESPN does not reliably distinguish TV-confirmed date
+ s from provisional fixtures\; both may change. The calendar updates when t
+ he schedule changes.\n\nViewing window: 2 hours\; finish is approximate.\n
+ \nSchedule: https://www.espn.com/soccer/match/_/gameId/401874989
+LOCATION:San Siro
+URL:https://www.espn.com/soccer/match/_/gameId/401874989
+CATEGORIES:Soccer,European pick,Italian Serie A
+STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT

@@ -8206,12 +8206,12 @@
         "Following RC Lens: every competitive fixture."
       ],
       "soccerSelectedOn": "2026-10-26",
-      "title": "Lens vs Marseille - French Ligue 1 [provisional]",
+      "title": "Lens vs Marseille - French Ligue 1",
       "start": "2026-11-08T19:45:00.000Z",
       "end": "2026-11-08T21:45:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Following RC Lens: every competitive fixture.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401876404",
+      "status": "CONFIRMED",
+      "description": "Following RC Lens: every competitive fixture.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401876404",
       "location": "Stade Bollaert-Delelis",
       "url": "https://www.espn.com/soccer/match/_/gameId/401876404",
       "categories": [
@@ -8219,10 +8219,10 @@
         "Followed team",
         "French Ligue 1"
       ],
-      "hash": "7d59f7f6fc08e95f8e3b457e99ce4ae1db84f9dadcd8b18c20ba2d329261470a",
+      "hash": "d2a684200e44d5f44b971acb697241d8ebb2289d2d7bf78c39eb633a37cff088",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-08T23:48:43.830Z",
+      "sequence": 1
     },
     {
       "uid": "soccer-401882816@football-watchlist",
@@ -8408,27 +8408,6 @@
       "sequence": 1
     },
     {
-      "uid": "college-football-401856864@football-watchlist",
-      "gameId": "401856864",
-      "title": "CFB: Utah at Arizona [time TBA]",
-      "start": "2026-11-14",
-      "end": "2026-11-15",
-      "allDay": true,
-      "description": "National pick: ranked matchup (#10 vs #25) at selection.\n\nTeams: Utah Utes at Arizona Wildcats\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856864/utah-arizona",
-      "location": "Casino Del Sol Stadium, Tucson, AZ, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856864/utah-arizona",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#10 vs #25) at selection.",
-      "hash": "5b09c4b0a417357c4ce811310f25dd9c89797c5dc3a503b76cca41f6fa7ea8e0",
-      "created": "2026-10-24T07:24:39.719Z",
-      "modified": "2026-10-24T07:24:39.719Z",
-      "sequence": 0
-    },
-    {
       "uid": "show-gameday-2026-11-14@football-watchlist",
       "title": "College GameDay: location TBA",
       "start": "2026-11-14T14:00:00.000Z",
@@ -8494,7 +8473,7 @@
       "start": "2026-11-14T17:45:00.000Z",
       "end": "2026-11-14T21:15:00.000Z",
       "allDay": false,
-      "description": "Following Alabama: every game.\n\nEARLY: Noon - 1pm ET start\n\nTeams: Alabama Crimson Tide at Vanderbilt Commodores\n\nUS broadcast: SEC Network. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856889/alabama-vanderbilt",
+      "description": "Following Alabama: every game.\n\nTeams: Alabama Crimson Tide at Vanderbilt Commodores\n\nUS broadcast: SEC Network. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856889/alabama-vanderbilt",
       "location": "FirstBank Stadium, Nashville, TN, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856889/alabama-vanderbilt",
       "status": "CONFIRMED",
@@ -8502,10 +8481,10 @@
         "College",
         "Alabama"
       ],
-      "hash": "8a57e3616d011bd3b0b46e89890e3f5337f0c4ea62d5a6dcec572ff889de88e4",
+      "hash": "74bd2e95a2367c11f546cf93f0d27113113878bab639c6349ce4a6652e4a7ba2",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-11-02T22:48:51.042Z",
-      "sequence": 1
+      "modified": "2026-11-08T23:48:43.830Z",
+      "sequence": 2
     },
     {
       "uid": "nhl-2026020321@football-watchlist",
@@ -8586,7 +8565,7 @@
       "start": "2026-11-14T23:15:00.000Z",
       "end": "2026-11-15T02:45:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#12 vs #20) at selection.\n\nNIGHT: 6 - 8pm ET start\n\nTeams: Florida Gators at Kentucky Wildcats\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856884/florida-kentucky",
+      "description": "National pick: ranked matchup (#12 vs #20) at selection.\n\nTeams: Florida Gators at Kentucky Wildcats\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856884/florida-kentucky",
       "location": "Kroger Field, Lexington, KY, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856884/florida-kentucky",
       "status": "CONFIRMED",
@@ -8595,10 +8574,31 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#12 vs #20) at selection.",
-      "hash": "abe0e0693dac73d04fd65627b9a03b57673516b6e3edf2c4795f484d1329ac94",
+      "hash": "e33c9bb5a4adc3975cffd6d200cbb2afd80ddda4237d87adff2b7254fe75c178",
       "created": "2026-10-24T07:24:39.719Z",
-      "modified": "2026-11-08T18:53:07.878Z",
-      "sequence": 2
+      "modified": "2026-11-08T23:48:43.830Z",
+      "sequence": 3
+    },
+    {
+      "uid": "college-football-401856864@football-watchlist",
+      "gameId": "401856864",
+      "title": "CFB: Utah at Arizona",
+      "start": "2026-11-15T00:30:00.000Z",
+      "end": "2026-11-15T04:00:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#10 vs #25) at selection.\n\nTeams: Utah Utes at Arizona Wildcats\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856864/utah-arizona",
+      "location": "Casino Del Sol Stadium, Tucson, AZ, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856864/utah-arizona",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#10 vs #25) at selection.",
+      "hash": "c8feb89e954accb875f42a77e08702676e4485a8765b0c89f553edc771a468bd",
+      "created": "2026-10-24T07:24:39.719Z",
+      "modified": "2026-11-08T23:48:43.830Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401856885@football-watchlist",
@@ -8996,6 +8996,75 @@
       "sequence": 0
     },
     {
+      "uid": "soccer-401876398@football-watchlist",
+      "gameId": "401876398",
+      "soccerSeason": 2026,
+      "soccerLeague": "fra.1",
+      "soccerTeamIds": [
+        "2502",
+        "160"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "domestic",
+      "soccerSelectionWeek": "2026-11-16",
+      "soccerSelectionReasons": [
+        "Both clubs are in the current top 6: Nice #6, Paris Saint-Germain #1."
+      ],
+      "soccerSelectedOn": "2026-11-09",
+      "title": "Nice vs Paris Saint-Germain - French Ligue 1 [provisional]",
+      "start": "2026-11-21T16:15:00.000Z",
+      "end": "2026-11-21T18:15:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Both clubs are in the current top 6: Nice #6, Paris Saint-Germain #1.\n\nSelection made 2026-11-09. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401876398",
+      "location": "Allianz Riviera",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401876398",
+      "categories": [
+        "Soccer",
+        "European pick",
+        "French Ligue 1"
+      ],
+      "hash": "dac08c98cb408a8e8b0e466ac7929bdf06264c5f5b45535e79bf4199572e06c2",
+      "created": "2026-11-08T23:48:43.830Z",
+      "modified": "2026-11-08T23:48:43.830Z",
+      "sequence": 0
+    },
+    {
+      "uid": "soccer-401882797@football-watchlist",
+      "gameId": "401882797",
+      "soccerSeason": 2026,
+      "soccerLeague": "esp.1",
+      "soccerTeamIds": [
+        "243",
+        "244"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "domestic",
+      "soccerSelectionWeek": "2026-11-16",
+      "soccerSelectionReasons": [
+        "Major rivalry: Seville derby.",
+        "Both clubs are in the current top 6: Sevilla #6, Real Betis #4."
+      ],
+      "soccerSelectedOn": "2026-11-09",
+      "title": "Sevilla vs Real Betis - Spanish LALIGA [provisional]",
+      "start": "2026-11-21T17:30:00.000Z",
+      "end": "2026-11-21T19:30:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Major rivalry: Seville derby.\nBoth clubs are in the current top 6: Sevilla #6, Real Betis #4.\n\nSelection made 2026-11-09. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401882797",
+      "location": "Ramón Sánchez Pizjuán Stadium",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401882797",
+      "categories": [
+        "Soccer",
+        "European pick",
+        "Spanish LALIGA"
+      ],
+      "hash": "8acbd7c2a95ff4142e3fef4512359757ec52e6215da0db1044a6744bd06d0664",
+      "created": "2026-11-08T23:48:43.830Z",
+      "modified": "2026-11-08T23:48:43.830Z",
+      "sequence": 0
+    },
+    {
       "uid": "nhl-2026020359@football-watchlist",
       "gameId": "2026020359",
       "nhlSeason": 20262027,
@@ -9043,6 +9112,40 @@
       "hash": "56464af681c6be7102228e3960cd61a0778ebacd1dbe7fa5fff2be80894f4723",
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "soccer-401876402@football-watchlist",
+      "gameId": "401876402",
+      "soccerSeason": 2026,
+      "soccerLeague": "fra.1",
+      "soccerTeamIds": [
+        "166",
+        "167"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "domestic",
+      "soccerSelectionWeek": "2026-11-16",
+      "soccerSelectionReasons": [
+        "Both clubs are in the current top 6: Lille #2, Lyon #5."
+      ],
+      "soccerSelectedOn": "2026-11-09",
+      "title": "Lille vs Lyon - French Ligue 1 [provisional]",
+      "start": "2026-11-21T19:45:00.000Z",
+      "end": "2026-11-21T21:45:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Both clubs are in the current top 6: Lille #2, Lyon #5.\n\nSelection made 2026-11-09. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401876402",
+      "location": "Decathlon Arena - Stade Pierre-Mauroy",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401876402",
+      "categories": [
+        "Soccer",
+        "European pick",
+        "French Ligue 1"
+      ],
+      "hash": "e0bcf8ac8cea3d264789ca81d598945d754a0be86046ab77a18d2bb6d38bd12e",
+      "created": "2026-11-08T23:48:43.830Z",
+      "modified": "2026-11-08T23:48:43.830Z",
       "sequence": 0
     },
     {
@@ -9128,6 +9231,109 @@
       "hash": "d501e6649b6af13dc93eb78a461810bdde87abcaa4af5c7aa6a86f330e00a70b",
       "created": "2026-10-01T07:37:11.478Z",
       "modified": "2026-10-01T07:37:11.478Z",
+      "sequence": 0
+    },
+    {
+      "uid": "soccer-401882804@football-watchlist",
+      "gameId": "401882804",
+      "soccerSeason": 2026,
+      "soccerLeague": "esp.1",
+      "soccerTeamIds": [
+        "83",
+        "102"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "domestic",
+      "soccerSelectionWeek": "2026-11-16",
+      "soccerSelectionReasons": [
+        "A current top-three club faces a top-half opponent: Barcelona #1, Villarreal #8."
+      ],
+      "soccerSelectedOn": "2026-11-09",
+      "title": "Barcelona vs Villarreal - Spanish LALIGA [provisional]",
+      "start": "2026-11-22T13:00:00.000Z",
+      "end": "2026-11-22T15:00:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "A current top-three club faces a top-half opponent: Barcelona #1, Villarreal #8.\n\nSelection made 2026-11-09. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401882804",
+      "location": "Spotify Camp Nou",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401882804",
+      "categories": [
+        "Soccer",
+        "European pick",
+        "Spanish LALIGA"
+      ],
+      "hash": "caa6d57dae36dff14686dfc3185107c23d4475a74cf958c8b7fd11d04733639e",
+      "created": "2026-11-08T23:48:43.830Z",
+      "modified": "2026-11-08T23:48:43.830Z",
+      "sequence": 0
+    },
+    {
+      "uid": "soccer-401878755@football-watchlist",
+      "gameId": "401878755",
+      "soccerSeason": 2026,
+      "soccerLeague": "eng.1",
+      "soccerTeamIds": [
+        "364",
+        "360"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "domestic",
+      "soccerSelectionWeek": "2026-11-16",
+      "soccerSelectionReasons": [
+        "Major rivalry: Liverpool-Manchester United rivalry.",
+        "High-profile club matchup."
+      ],
+      "soccerSelectedOn": "2026-11-09",
+      "title": "Liverpool vs Manchester United - English Premier League [provisional]",
+      "start": "2026-11-22T16:30:00.000Z",
+      "end": "2026-11-22T18:30:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Major rivalry: Liverpool-Manchester United rivalry.\nHigh-profile club matchup.\n\nSelection made 2026-11-09. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401878755",
+      "location": "Anfield",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401878755",
+      "categories": [
+        "Soccer",
+        "European pick",
+        "English Premier League"
+      ],
+      "hash": "1cafbe9ea5d7e7448b2a8221457b4623941247bf1d0c6171e7b50cef92d1cd6d",
+      "created": "2026-11-08T23:48:43.830Z",
+      "modified": "2026-11-08T23:48:43.830Z",
+      "sequence": 0
+    },
+    {
+      "uid": "soccer-401874989@football-watchlist",
+      "gameId": "401874989",
+      "soccerSeason": 2026,
+      "soccerLeague": "ita.1",
+      "soccerTeamIds": [
+        "103",
+        "4057"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "domestic",
+      "soccerSelectionWeek": "2026-11-16",
+      "soccerSelectionReasons": [
+        "Both clubs are in the current top 6: AC Milan #4, Frosinone #6."
+      ],
+      "soccerSelectedOn": "2026-11-09",
+      "title": "AC Milan vs Frosinone - Italian Serie A [provisional]",
+      "start": "2026-11-22T17:00:00.000Z",
+      "end": "2026-11-22T19:00:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Both clubs are in the current top 6: AC Milan #4, Frosinone #6.\n\nSelection made 2026-11-09. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401874989",
+      "location": "San Siro",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401874989",
+      "categories": [
+        "Soccer",
+        "European pick",
+        "Italian Serie A"
+      ],
+      "hash": "f3ea02ce63dc3a16da270c7f387cb7d0ccd00a80fe8bbdb899ddea25d8212df8",
+      "created": "2026-11-08T23:48:43.830Z",
+      "modified": "2026-11-08T23:48:43.830Z",
       "sequence": 0
     },
     {
@@ -27557,8 +27763,8 @@
     "checkedOn": "2026-11-08",
     "season": 2026,
     "window": {
-      "start": "2026-11-02",
-      "end": "2026-11-16"
+      "start": "2026-11-09",
+      "end": "2026-11-23"
     },
     "sourceCounts": {
       "teams": {
@@ -27574,15 +27780,15 @@
         }
       },
       "leagues": {
-        "eng.1": 11,
-        "ita.1": 12,
-        "esp.1": 11,
+        "eng.1": 9,
+        "ita.1": 9,
+        "esp.1": 9,
         "ger.1": 9,
-        "fra.1": 10,
-        "uefa.champions": 18
+        "fra.1": 9,
+        "uefa.champions": 0
       }
     },
-    "events": 98
+    "events": 104
   },
   "warnings": [
     "College GameDay: no unambiguous current announcement matched the game schedule; retaining verified announcements and TBA placeholders."
