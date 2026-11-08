@@ -8066,12 +8066,12 @@
         "Top-four meeting with 1 point separating the teams."
       ],
       "soccerSelectedOn": "2026-10-26",
-      "title": "Stade Rennais vs Lille - French Ligue 1 [provisional]",
+      "title": "Stade Rennais vs Lille - French Ligue 1",
       "start": "2026-11-08T14:00:00.000Z",
       "end": "2026-11-08T16:00:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Both clubs are in the current top 6: Stade Rennais #1, Lille #2.\nTop-four meeting with 1 point separating the teams.\n\nSelection made 2026-10-26. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401876406",
+      "status": "CONFIRMED",
+      "description": "Both clubs are in the current top 6: Stade Rennais #1, Lille #2.\nTop-four meeting with 1 point separating the teams.\n\nSelection made 2026-10-26. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401876406",
       "location": "Roazhon Park",
       "url": "https://www.espn.com/soccer/match/_/gameId/401876406",
       "categories": [
@@ -8079,10 +8079,10 @@
         "European pick",
         "French Ligue 1"
       ],
-      "hash": "e20a86e579cbdf28082dffc3fa59850e381b90bfbd64e7a6a5344b2b96774eb2",
+      "hash": "76e795ad1f31dd9d855189e72eeea95a24ad48471c82ae4f922a52bfcb2c864c",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-08T18:53:07.878Z",
+      "sequence": 1
     },
     {
       "uid": "soccer-401879244@football-watchlist",
@@ -8100,12 +8100,12 @@
         "Both clubs are in the current top 6: Brighton & Hove Albion #3, Brentford #6."
       ],
       "soccerSelectedOn": "2026-10-26",
-      "title": "Brighton & Hove Albion vs Brentford - English Premier League [provisional]",
+      "title": "Brighton & Hove Albion vs Brentford - English Premier League",
       "start": "2026-11-08T14:00:00.000Z",
       "end": "2026-11-08T16:00:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Both clubs are in the current top 6: Brighton & Hove Albion #3, Brentford #6.\n\nSelection made 2026-10-26. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401879244",
+      "status": "CONFIRMED",
+      "description": "Both clubs are in the current top 6: Brighton & Hove Albion #3, Brentford #6.\n\nSelection made 2026-10-26. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401879244",
       "location": "American Express Stadium",
       "url": "https://www.espn.com/soccer/match/_/gameId/401879244",
       "categories": [
@@ -8113,10 +8113,10 @@
         "European pick",
         "English Premier League"
       ],
-      "hash": "bffa97db63213885da3a4024afcea5b7b2d2fcb498fa0aa1d2195575fe564ae5",
+      "hash": "df0b43adccd1b5efbfa5dffd959332e213fadf476e6b2bb1b9759f8b75dbc540",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-08T18:53:07.878Z",
+      "sequence": 1
     },
     {
       "uid": "nfl-401873038@football-watchlist",
@@ -8153,12 +8153,12 @@
         "Following Como: every competitive fixture."
       ],
       "soccerSelectedOn": "2026-10-26",
-      "title": "Internazionale vs Como - Italian Serie A [provisional]",
+      "title": "Internazionale vs Como - Italian Serie A",
       "start": "2026-11-08T17:00:00.000Z",
       "end": "2026-11-08T19:00:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Following Como: every competitive fixture.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401874808",
+      "status": "CONFIRMED",
+      "description": "Following Como: every competitive fixture.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401874808",
       "location": "San Siro",
       "url": "https://www.espn.com/soccer/match/_/gameId/401874808",
       "categories": [
@@ -8166,10 +8166,10 @@
         "Followed team",
         "Italian Serie A"
       ],
-      "hash": "0ddc64a11a3dc5aafca2a06ffa8a4723014bd5a5d0a3cc6df8af662b48738b3f",
+      "hash": "34e446d3e490342d8537a2bc529c2470caad9fa8ca440ce51933b9db7001e462",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-08T18:53:07.878Z",
+      "sequence": 1
     },
     {
       "uid": "redzone-2026-11-08@football-watchlist",
@@ -8429,69 +8429,6 @@
       "sequence": 0
     },
     {
-      "uid": "college-football-401856883@football-watchlist",
-      "gameId": "401856883",
-      "title": "CFB: Missouri at Georgia [time TBA]",
-      "start": "2026-11-14",
-      "end": "2026-11-15",
-      "allDay": true,
-      "description": "National pick: ranked matchup (#5 vs #22) at selection.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Missouri Tigers at Georgia Bulldogs\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856883/missouri-georgia",
-      "location": "Sanford Stadium, Athens, GA, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856883/missouri-georgia",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#5 vs #22) at selection.",
-      "hash": "800e231264e3c69b1ccca5cac325ff1ab8361de418528993bb1629516cd554af",
-      "created": "2026-10-24T07:24:39.719Z",
-      "modified": "2026-11-02T22:48:51.042Z",
-      "sequence": 1
-    },
-    {
-      "uid": "college-football-401856884@football-watchlist",
-      "gameId": "401856884",
-      "title": "CFB: Florida at Kentucky [time TBA]",
-      "start": "2026-11-14",
-      "end": "2026-11-15",
-      "allDay": true,
-      "description": "National pick: ranked matchup (#12 vs #20) at selection.\n\nNIGHT: 6 - 8pm ET start\n\nTeams: Florida Gators at Kentucky Wildcats\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856884/florida-kentucky",
-      "location": "Kroger Field, Lexington, KY, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856884/florida-kentucky",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#12 vs #20) at selection.",
-      "hash": "ef334aaab375334bd788ac04f4e5619a9f4097a54fd85806e233f71b07a9bb3a",
-      "created": "2026-10-24T07:24:39.719Z",
-      "modified": "2026-11-02T22:48:51.042Z",
-      "sequence": 1
-    },
-    {
-      "uid": "college-football-401856885@football-watchlist",
-      "gameId": "401856885",
-      "title": "CFB: Texas at LSU [time TBA]",
-      "start": "2026-11-14",
-      "end": "2026-11-15",
-      "allDay": true,
-      "description": "National pick: ranked matchup (#18 vs #19) at selection.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Texas Longhorns at LSU Tigers\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856885/texas-lsu",
-      "location": "Tiger Stadium (LA), Baton Rouge, LA, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856885/texas-lsu",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#18 vs #19) at selection.",
-      "hash": "06ada202b9ee0a8a246b4b1c4e5191c3a060247b63c422b3f88e3fddb5d9e6fd",
-      "created": "2026-10-24T07:24:39.719Z",
-      "modified": "2026-11-02T22:48:51.042Z",
-      "sequence": 1
-    },
-    {
       "uid": "show-gameday-2026-11-14@football-watchlist",
       "title": "College GameDay: location TBA",
       "start": "2026-11-14T14:00:00.000Z",
@@ -8601,6 +8538,27 @@
       "sequence": 1
     },
     {
+      "uid": "college-football-401856883@football-watchlist",
+      "gameId": "401856883",
+      "title": "CFB: Missouri at Georgia",
+      "start": "2026-11-14T20:30:00.000Z",
+      "end": "2026-11-15T00:00:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#5 vs #22) at selection.\n\nTeams: Missouri Tigers at Georgia Bulldogs\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856883/missouri-georgia",
+      "location": "Sanford Stadium, Athens, GA, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856883/missouri-georgia",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#5 vs #22) at selection.",
+      "hash": "cc60716f1eecb80892ec1a90b4154f2c1e66b2be8f09ed7812302e9004fcf503",
+      "created": "2026-10-24T07:24:39.719Z",
+      "modified": "2026-11-08T18:53:07.878Z",
+      "sequence": 2
+    },
+    {
       "uid": "college-football-401858518@football-watchlist",
       "gameId": "401858518",
       "title": "CFB: USC at Indiana",
@@ -8619,6 +8577,48 @@
       "hash": "4b6094c7b611044d7a8cb13bf8eb5bdd9959d2e3b00afc932cefbd971a1ad20e",
       "created": "2026-10-24T07:24:39.719Z",
       "modified": "2026-11-03T20:31:09.302Z",
+      "sequence": 2
+    },
+    {
+      "uid": "college-football-401856884@football-watchlist",
+      "gameId": "401856884",
+      "title": "CFB: Florida at Kentucky",
+      "start": "2026-11-14T23:15:00.000Z",
+      "end": "2026-11-15T02:45:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#12 vs #20) at selection.\n\nNIGHT: 6 - 8pm ET start\n\nTeams: Florida Gators at Kentucky Wildcats\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856884/florida-kentucky",
+      "location": "Kroger Field, Lexington, KY, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856884/florida-kentucky",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#12 vs #20) at selection.",
+      "hash": "abe0e0693dac73d04fd65627b9a03b57673516b6e3edf2c4795f484d1329ac94",
+      "created": "2026-10-24T07:24:39.719Z",
+      "modified": "2026-11-08T18:53:07.878Z",
+      "sequence": 2
+    },
+    {
+      "uid": "college-football-401856885@football-watchlist",
+      "gameId": "401856885",
+      "title": "CFB: Texas at LSU",
+      "start": "2026-11-15T00:30:00.000Z",
+      "end": "2026-11-15T04:00:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#18 vs #19) at selection.\n\nTeams: Texas Longhorns at LSU Tigers\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856885/texas-lsu",
+      "location": "Tiger Stadium (LA), Baton Rouge, LA, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856885/texas-lsu",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#18 vs #19) at selection.",
+      "hash": "396f06a305967d17adce6e18afdcb4ec12d3c6741558cd1f0213f3de8d5a2136",
+      "created": "2026-10-24T07:24:39.719Z",
+      "modified": "2026-11-08T18:53:07.878Z",
       "sequence": 2
     },
     {

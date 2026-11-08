@@ -6092,49 +6092,44 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401876406@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261108T185307Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
+LAST-MODIFIED:20261108T185307Z
+SEQUENCE:1
 DTSTART:20261108T140000Z
 DTEND:20261108T160000Z
-SUMMARY:Stade Rennais vs Lille - French Ligue 1 [provisional]
+SUMMARY:Stade Rennais vs Lille - French Ligue 1
 DESCRIPTION:Both clubs are in the current top 6: Stade Rennais #1\, Lille #
  2.\nTop-four meeting with 1 point separating the teams.\n\nSelection made 
  2026-10-26. Table positions describe that snapshot\, not predicted results
- . Picks are kept once added.\n\nProvisional source-listed date and kickoff
- . ESPN does not reliably distinguish TV-confirmed dates from provisional f
- ixtures\; both may change. The calendar updates when the schedule changes.
- \n\nViewing window: 2 hours\; finish is approximate.\n\nSchedule: https://
- www.espn.com/soccer/match/_/gameId/401876406
+ . Picks are kept once added.\n\nKickoff shown in your calendar’s local t
+ ime.\n\nViewing window: 2 hours\; finish is approximate.\n\nSchedule: http
+ s://www.espn.com/soccer/match/_/gameId/401876406
 LOCATION:Roazhon Park
 URL:https://www.espn.com/soccer/match/_/gameId/401876406
 CATEGORIES:Soccer,European pick,French Ligue 1
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401879244@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261108T185307Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
+LAST-MODIFIED:20261108T185307Z
+SEQUENCE:1
 DTSTART:20261108T140000Z
 DTEND:20261108T160000Z
-SUMMARY:Brighton & Hove Albion vs Brentford - English Premier League [provi
- sional]
+SUMMARY:Brighton & Hove Albion vs Brentford - English Premier League
 DESCRIPTION:Both clubs are in the current top 6: Brighton & Hove Albion #3\
  , Brentford #6.\n\nSelection made 2026-10-26. Table positions describe tha
- t snapshot\, not predicted results. Picks are kept once added.\n\nProvisio
- nal source-listed date and kickoff. ESPN does not reliably distinguish TV-
- confirmed dates from provisional fixtures\; both may change. The calendar 
- updates when the schedule changes.\n\nViewing window: 2 hours\; finish is 
- approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/40187
- 9244
+ t snapshot\, not predicted results. Picks are kept once added.\n\nKickoff 
+ shown in your calendar’s local time.\n\nViewing window: 2 hours\; finish
+  is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/4
+ 01879244
 LOCATION:American Express Stadium
 URL:https://www.espn.com/soccer/match/_/gameId/401879244
 CATEGORIES:Soccer,European pick,English Premier League
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -6159,22 +6154,20 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401874808@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261108T185307Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
+LAST-MODIFIED:20261108T185307Z
+SEQUENCE:1
 DTSTART:20261108T170000Z
 DTEND:20261108T190000Z
-SUMMARY:Internazionale vs Como - Italian Serie A [provisional]
-DESCRIPTION:Following Como: every competitive fixture.\n\nProvisional sourc
- e-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed
-  dates from provisional fixtures\; both may change. The calendar updates w
- hen the schedule changes.\n\nViewing window: 2 hours\; finish is approxima
- te.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401874808
+SUMMARY:Internazionale vs Como - Italian Serie A
+DESCRIPTION:Following Como: every competitive fixture.\n\nKickoff shown in 
+ your calendar’s local time.\n\nViewing window: 2 hours\; finish is appro
+ ximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401874808
 LOCATION:San Siro
 URL:https://www.espn.com/soccer/match/_/gameId/401874808
 CATEGORIES:Soccer,Followed team,Italian Serie A
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -6381,71 +6374,6 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:college-football-401856883@football-watchlist
-DTSTAMP:20261102T224851Z
-CREATED:20261024T072439Z
-LAST-MODIFIED:20261102T224851Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:CFB: Missouri at Georgia [time TBA]
-DESCRIPTION:National pick: ranked matchup (#5 vs #22) at selection.\n\nFLEX
- : 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Missouri Tigers at Georgia B
- ulldogs\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nKickoff ha
- s not been announced. This all-day marker will become a timed event when c
- onfirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId
- /401856883/missouri-georgia
-LOCATION:Sanford Stadium\, Athens\, GA\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856883/missouri-
- georgia
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401856884@football-watchlist
-DTSTAMP:20261102T224851Z
-CREATED:20261024T072439Z
-LAST-MODIFIED:20261102T224851Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:CFB: Florida at Kentucky [time TBA]
-DESCRIPTION:National pick: ranked matchup (#12 vs #20) at selection.\n\nNIG
- HT: 6 - 8pm ET start\n\nTeams: Florida Gators at Kentucky Wildcats\n\nUS b
- roadcast: ESPN. Availability elsewhere varies.\n\nKickoff has not been ann
- ounced. This all-day marker will become a timed event when confirmed.\n\nS
- chedule: https://www.espn.com/college-football/game/_/gameId/401856884/flo
- rida-kentucky
-LOCATION:Kroger Field\, Lexington\, KY\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856884/florida-k
- entucky
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401856885@football-watchlist
-DTSTAMP:20261102T224851Z
-CREATED:20261024T072439Z
-LAST-MODIFIED:20261102T224851Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:CFB: Texas at LSU [time TBA]
-DESCRIPTION:National pick: ranked matchup (#18 vs #19) at selection.\n\nFLE
- X: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Texas Longhorns at LSU Tige
- rs\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nKickoff has not
-  been announced. This all-day marker will become a timed event when confir
- med.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/4018
- 56885/texas-lsu
-LOCATION:Tiger Stadium (LA)\, Baton Rouge\, LA\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856885/texas-lsu
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:show-gameday-2026-11-14@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -6547,6 +6475,27 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:college-football-401856883@football-watchlist
+DTSTAMP:20261108T185307Z
+CREATED:20261024T072439Z
+LAST-MODIFIED:20261108T185307Z
+SEQUENCE:2
+DTSTART:20261114T203000Z
+DTEND:20261115T000000Z
+SUMMARY:CFB: Missouri at Georgia
+DESCRIPTION:National pick: ranked matchup (#5 vs #22) at selection.\n\nTeam
+ s: Missouri Tigers at Georgia Bulldogs\n\nUS broadcast: ABC. Availability 
+ elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)
+ \; finish is approximate.\n\nSchedule: https://www.espn.com/college-footba
+ ll/game/_/gameId/401856883/missouri-georgia
+LOCATION:Sanford Stadium\, Athens\, GA\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856883/missouri-
+ georgia
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:college-football-401858518@football-watchlist
 DTSTAMP:20261103T203109Z
 CREATED:20261024T072439Z
@@ -6563,6 +6512,47 @@ DESCRIPTION:National pick: ranked matchup (#6 vs #16) at selection.\n\nTeam
 LOCATION:Memorial Stadium (Bloomington\, IN)\, Bloomington\, IN\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401858518/usc-india
  na
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856884@football-watchlist
+DTSTAMP:20261108T185307Z
+CREATED:20261024T072439Z
+LAST-MODIFIED:20261108T185307Z
+SEQUENCE:2
+DTSTART:20261114T231500Z
+DTEND:20261115T024500Z
+SUMMARY:CFB: Florida at Kentucky
+DESCRIPTION:National pick: ranked matchup (#12 vs #20) at selection.\n\nNIG
+ HT: 6 - 8pm ET start\n\nTeams: Florida Gators at Kentucky Wildcats\n\nUS b
+ roadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hour
+ s (4 hours for championships)\; finish is approximate.\n\nSchedule: https:
+ //www.espn.com/college-football/game/_/gameId/401856884/florida-kentucky
+LOCATION:Kroger Field\, Lexington\, KY\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856884/florida-k
+ entucky
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856885@football-watchlist
+DTSTAMP:20261108T185307Z
+CREATED:20261024T072439Z
+LAST-MODIFIED:20261108T185307Z
+SEQUENCE:2
+DTSTART:20261115T003000Z
+DTEND:20261115T040000Z
+SUMMARY:CFB: Texas at LSU
+DESCRIPTION:National pick: ranked matchup (#18 vs #19) at selection.\n\nTea
+ ms: Texas Longhorns at LSU Tigers\n\nUS broadcast: ABC. Availability elsew
+ here varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; fi
+ nish is approximate.\n\nSchedule: https://www.espn.com/college-football/ga
+ me/_/gameId/401856885/texas-lsu
+LOCATION:Tiger Stadium (LA)\, Baton Rouge\, LA\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856885/texas-lsu
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
