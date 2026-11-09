@@ -6391,18 +6391,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856883@football-watchlist
-DTSTAMP:20261108T185307Z
+DTSTAMP:20261109T232817Z
 CREATED:20261024T072439Z
-LAST-MODIFIED:20261108T185307Z
-SEQUENCE:2
+LAST-MODIFIED:20261109T232817Z
+SEQUENCE:3
 DTSTART:20261114T203000Z
 DTEND:20261115T000000Z
 SUMMARY:CFB: Missouri at Georgia
 DESCRIPTION:National pick: ranked matchup (#5 vs #22) at selection.\n\nTeam
- s: Missouri Tigers at Georgia Bulldogs\n\nUS broadcast: ABC. Availability 
- elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)
- \; finish is approximate.\n\nSchedule: https://www.espn.com/college-footba
- ll/game/_/gameId/401856883/missouri-georgia
+ s: Missouri Tigers at Georgia Bulldogs\n\nUS broadcast: ABC / Disney+. Ava
+ ilability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for cham
+ pionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/coll
+ ege-football/game/_/gameId/401856883/missouri-georgia
 LOCATION:Sanford Stadium\, Athens\, GA\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856883/missouri-
  georgia
@@ -6673,71 +6673,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:college-football-401856751@football-watchlist
-DTSTAMP:20261031T083239Z
-CREATED:20261031T083239Z
-LAST-MODIFIED:20261031T083239Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:CFB: Kentucky at Missouri [time TBA]
-DESCRIPTION:National pick: ranked matchup (#9 vs #23) at selection.\n\nNIGH
- T: 6 - 8pm ET start\n\nTeams: Kentucky Wildcats at Missouri Tigers\n\nBroa
- dcast to be announced.\n\nKickoff has not been announced. This all-day mar
- ker will become a timed event when confirmed.\n\nSchedule: https://www.esp
- n.com/college-football/game/_/gameId/401856751/kentucky-missouri
-LOCATION:Memorial Stadium\, Columbia\, MO\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856751/kentucky-
- missouri
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401856753@football-watchlist
-DTSTAMP:20261101T234138Z
-CREATED:20261101T234138Z
-LAST-MODIFIED:20261101T234138Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:CFB: Georgia at South Carolina [time TBA]
-DESCRIPTION:National pick: ranked matchup (#2 vs #23) at selection.\n\nFLEX
- : 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Georgia Bulldogs at South Ca
- rolina Gamecocks\n\nBroadcast to be announced.\n\nKickoff has not been ann
- ounced. This all-day marker will become a timed event when confirmed.\n\nS
- chedule: https://www.espn.com/college-football/game/_/gameId/401856753/geo
- rgia-south-carolina
-LOCATION:Williams-Brice Stadium\, Columbia\, SC\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856753/georgia-s
- outh-carolina
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401856754@football-watchlist
-DTSTAMP:20261031T083239Z
-CREATED:20261031T083239Z
-LAST-MODIFIED:20261031T083239Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:CFB: LSU at Tennessee [time TBA]
-DESCRIPTION:National pick: ranked matchup (#15 vs #16) at selection.\n\nFLE
- X: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: LSU Tigers at Tennessee Vol
- unteers\n\nBroadcast to be announced.\n\nKickoff has not been announced. T
- his all-day marker will become a timed event when confirmed.\n\nSchedule: 
- https://www.espn.com/college-football/game/_/gameId/401856754/lsu-tennesse
- e
-LOCATION:Neyland Stadium\, Knoxville\, TN\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856754/lsu-tenne
- ssee
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:show-gameday-2026-11-21@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -6943,6 +6878,69 @@ LOCATION:Stade Bollaert-Delelis
 URL:https://www.espn.com/soccer/match/_/gameId/401876403
 CATEGORIES:Soccer,Followed team,French Ligue 1
 STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856754@football-watchlist
+DTSTAMP:20261109T232817Z
+CREATED:20261031T083239Z
+LAST-MODIFIED:20261109T232817Z
+SEQUENCE:1
+DTSTART:20261121T203000Z
+DTEND:20261122T000000Z
+SUMMARY:CFB: LSU at Tennessee
+DESCRIPTION:National pick: ranked matchup (#15 vs #16) at selection.\n\nTea
+ ms: LSU Tigers at Tennessee Volunteers\n\nBroadcast to be announced.\n\nVi
+ ewing window: 3.5 hours (4 hours for championships)\; finish is approximat
+ e.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856
+ 754/lsu-tennessee
+LOCATION:Neyland Stadium\, Knoxville\, TN\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856754/lsu-tenne
+ ssee
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856751@football-watchlist
+DTSTAMP:20261109T232817Z
+CREATED:20261031T083239Z
+LAST-MODIFIED:20261109T232817Z
+SEQUENCE:1
+DTSTART:20261122T003000Z
+DTEND:20261122T040000Z
+SUMMARY:CFB: Kentucky at Missouri
+DESCRIPTION:National pick: ranked matchup (#9 vs #23) at selection.\n\nTeam
+ s: Kentucky Wildcats at Missouri Tigers\n\nUS broadcast: SEC Network. Avai
+ lability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champ
+ ionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/colle
+ ge-football/game/_/gameId/401856751/kentucky-missouri
+LOCATION:Memorial Stadium\, Columbia\, MO\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856751/kentucky-
+ missouri
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856753@football-watchlist
+DTSTAMP:20261109T232817Z
+CREATED:20261101T234138Z
+LAST-MODIFIED:20261109T232817Z
+SEQUENCE:1
+DTSTART:20261122T003000Z
+DTEND:20261122T040000Z
+SUMMARY:CFB: Georgia at South Carolina
+DESCRIPTION:National pick: ranked matchup (#2 vs #23) at selection.\n\nTeam
+ s: Georgia Bulldogs at South Carolina Gamecocks\n\nUS broadcast: ABC. Avai
+ lability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champ
+ ionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/colle
+ ge-football/game/_/gameId/401856753/georgia-south-carolina
+LOCATION:Williams-Brice Stadium\, Columbia\, SC\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856753/georgia-s
+ outh-carolina
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -13104,22 +13102,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853550@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261109T232817Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270416
-DTEND;VALUE=DATE:20270417
-SUMMARY:MLB: Tampa Bay Rays at Kansas City Royals [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/853550
+LAST-MODIFIED:20261109T232817Z
+SEQUENCE:1
+DTSTART:20270416T234000Z
+DTEND:20270417T024000Z
+SUMMARY:MLB: Tampa Bay Rays at Kansas City Royals
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/853550
 LOCATION:Kauffman Stadium
 URL:https://www.mlb.com/gameday/853550
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:chelsea-2645507@football-watchlist
@@ -13141,25 +13138,6 @@ LOCATION:American Express Stadium
 URL:https://www.chelseafc.com/en/match/brighton-and-hove-albion-vs-chelsea-
  english-premier-league-2027-04-17
 CATEGORIES:Soccer,Chelsea,Premier League
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-853535@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270417
-DTEND;VALUE=DATE:20270418
-SUMMARY:MLB: Tampa Bay Rays at Kansas City Royals [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/853535
-LOCATION:Kauffman Stadium
-URL:https://www.mlb.com/gameday/853535
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -13201,6 +13179,24 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-853535@football-watchlist
+DTSTAMP:20261109T232817Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261109T232817Z
+SEQUENCE:1
+DTSTART:20270417T181000Z
+DTEND:20270417T211000Z
+SUMMARY:MLB: Tampa Bay Rays at Kansas City Royals
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/853535
+LOCATION:Kauffman Stadium
+URL:https://www.mlb.com/gameday/853535
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-853792@football-watchlist
 DTSTAMP:20261104T205101Z
 CREATED:20261026T100606Z
@@ -13217,25 +13213,6 @@ URL:https://www.mlb.com/gameday/853792
 CATEGORIES:MLB,Followed team,New York Mets
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-853533@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270418
-DTEND;VALUE=DATE:20270419
-SUMMARY:MLB: Tampa Bay Rays at Kansas City Royals [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/853533
-LOCATION:Kauffman Stadium
-URL:https://www.mlb.com/gameday/853533
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401875098@football-watchlist
@@ -13255,6 +13232,24 @@ URL:https://www.espn.com/soccer/match/_/gameId/401875098
 CATEGORIES:Soccer,Followed team,Italian Serie A
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-853533@football-watchlist
+DTSTAMP:20261109T232817Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261109T232817Z
+SEQUENCE:1
+DTSTART:20270418T181000Z
+DTEND:20270418T211000Z
+SUMMARY:MLB: Tampa Bay Rays at Kansas City Royals
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/853533
+LOCATION:Kauffman Stadium
+URL:https://www.mlb.com/gameday/853533
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853793@football-watchlist
@@ -15193,41 +15188,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853523@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261109T232817Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270607
-DTEND;VALUE=DATE:20270608
-SUMMARY:MLB: New York Mets at Kansas City Royals [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853523
+LAST-MODIFIED:20261109T232817Z
+SEQUENCE:1
+DTSTART:20270607T234000Z
+DTEND:20270608T024000Z
+SUMMARY:MLB: New York Mets at Kansas City Royals
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853523
 LOCATION:Kauffman Stadium
 URL:https://www.mlb.com/gameday/853523
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-853530@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270608
-DTEND;VALUE=DATE:20270609
-SUMMARY:MLB: New York Mets at Kansas City Royals [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853530
-LOCATION:Kauffman Stadium
-URL:https://www.mlb.com/gameday/853530
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852142@football-watchlist
@@ -15248,23 +15223,40 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853531@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-853530@football-watchlist
+DTSTAMP:20261109T232817Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270609
-DTEND;VALUE=DATE:20270610
-SUMMARY:MLB: New York Mets at Kansas City Royals [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853531
+LAST-MODIFIED:20261109T232817Z
+SEQUENCE:1
+DTSTART:20270608T234000Z
+DTEND:20270609T024000Z
+SUMMARY:MLB: New York Mets at Kansas City Royals
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853530
+LOCATION:Kauffman Stadium
+URL:https://www.mlb.com/gameday/853530
+CATEGORIES:MLB,Followed team,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-853531@football-watchlist
+DTSTAMP:20261109T232817Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261109T232817Z
+SEQUENCE:1
+DTSTART:20270609T181000Z
+DTEND:20270609T211000Z
+SUMMARY:MLB: New York Mets at Kansas City Royals
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853531
 LOCATION:Kauffman Stadium
 URL:https://www.mlb.com/gameday/853531
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852145@football-watchlist
@@ -16063,6 +16055,24 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-852706@football-watchlist
+DTSTAMP:20261109T232817Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261109T232817Z
+SEQUENCE:1
+DTSTART:20270703T231500Z
+DTEND:20270704T021500Z
+SUMMARY:MLB: Tampa Bay Rays at San Diego Padres
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852706
+LOCATION:Petco Park
+URL:https://www.mlb.com/gameday/852706
+CATEGORIES:MLB,Followed team,Tampa Bay Rays,San Diego Padres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-853353@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -16080,24 +16090,6 @@ URL:https://www.mlb.com/gameday/853353
 CATEGORIES:MLB,Followed team,New York Mets
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-852706@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20270704T004000Z
-DTEND:20270704T034000Z
-SUMMARY:MLB: Tampa Bay Rays at San Diego Padres
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
-  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
- nOfficial schedule: https://www.mlb.com/gameday/852706
-LOCATION:Petco Park
-URL:https://www.mlb.com/gameday/852706
-CATEGORIES:MLB,Followed team,Tampa Bay Rays,San Diego Padres
-STATUS:CONFIRMED
-TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852696@football-watchlist
@@ -16286,12 +16278,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853028@football-watchlist
-DTSTAMP:20261102T224851Z
+DTSTAMP:20261109T232817Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261102T224851Z
-SEQUENCE:1
-DTSTART:20270710T201000Z
-DTEND:20270710T231000Z
+LAST-MODIFIED:20261109T232817Z
+SEQUENCE:2
+DTSTART:20270710T231500Z
+DTEND:20270711T021500Z
 SUMMARY:MLB: Los Angeles Dodgers at New York Mets
 DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n

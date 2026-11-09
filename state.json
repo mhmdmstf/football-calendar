@@ -8433,7 +8433,7 @@
       "start": "2026-11-14T20:30:00.000Z",
       "end": "2026-11-15T00:00:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#5 vs #22) at selection.\n\nTeams: Missouri Tigers at Georgia Bulldogs\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856883/missouri-georgia",
+      "description": "National pick: ranked matchup (#5 vs #22) at selection.\n\nTeams: Missouri Tigers at Georgia Bulldogs\n\nUS broadcast: ABC / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856883/missouri-georgia",
       "location": "Sanford Stadium, Athens, GA, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856883/missouri-georgia",
       "status": "CONFIRMED",
@@ -8442,10 +8442,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#5 vs #22) at selection.",
-      "hash": "cc60716f1eecb80892ec1a90b4154f2c1e66b2be8f09ed7812302e9004fcf503",
+      "hash": "cb7262acfbd627d1f600e3f261c1852496b7c4a35634be13bfb9e9854714548c",
       "created": "2026-10-24T07:24:39.719Z",
-      "modified": "2026-11-08T18:53:07.878Z",
-      "sequence": 2
+      "modified": "2026-11-09T23:28:17.835Z",
+      "sequence": 3
     },
     {
       "uid": "college-football-401858518@football-watchlist",
@@ -8747,69 +8747,6 @@
       "sequence": 1
     },
     {
-      "uid": "college-football-401856751@football-watchlist",
-      "gameId": "401856751",
-      "title": "CFB: Kentucky at Missouri [time TBA]",
-      "start": "2026-11-21",
-      "end": "2026-11-22",
-      "allDay": true,
-      "description": "National pick: ranked matchup (#9 vs #23) at selection.\n\nNIGHT: 6 - 8pm ET start\n\nTeams: Kentucky Wildcats at Missouri Tigers\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856751/kentucky-missouri",
-      "location": "Memorial Stadium, Columbia, MO, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856751/kentucky-missouri",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#9 vs #23) at selection.",
-      "hash": "55e32b5bb69ab3296ce6e5c0ae8833b7adfd2a25531fd6ad6c594dbcedb823db",
-      "created": "2026-10-31T08:32:39.093Z",
-      "modified": "2026-10-31T08:32:39.093Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401856753@football-watchlist",
-      "gameId": "401856753",
-      "title": "CFB: Georgia at South Carolina [time TBA]",
-      "start": "2026-11-21",
-      "end": "2026-11-22",
-      "allDay": true,
-      "description": "National pick: ranked matchup (#2 vs #23) at selection.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Georgia Bulldogs at South Carolina Gamecocks\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856753/georgia-south-carolina",
-      "location": "Williams-Brice Stadium, Columbia, SC, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856753/georgia-south-carolina",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#2 vs #23) at selection.",
-      "hash": "607597611cc686737d24321d25ac4cb44997bafc2bcb4e009ad37bc4e8bc3cbe",
-      "created": "2026-11-01T23:41:38.747Z",
-      "modified": "2026-11-01T23:41:38.747Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401856754@football-watchlist",
-      "gameId": "401856754",
-      "title": "CFB: LSU at Tennessee [time TBA]",
-      "start": "2026-11-21",
-      "end": "2026-11-22",
-      "allDay": true,
-      "description": "National pick: ranked matchup (#15 vs #16) at selection.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: LSU Tigers at Tennessee Volunteers\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856754/lsu-tennessee",
-      "location": "Neyland Stadium, Knoxville, TN, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856754/lsu-tennessee",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#15 vs #16) at selection.",
-      "hash": "8d51cbf8280cec6d4cbbc059a8b038bf7bc8f1a7a703ea180b34590251e420fc",
-      "created": "2026-10-31T08:32:39.093Z",
-      "modified": "2026-10-31T08:32:39.093Z",
-      "sequence": 0
-    },
-    {
       "uid": "show-gameday-2026-11-21@football-watchlist",
       "title": "College GameDay: location TBA",
       "start": "2026-11-21T14:00:00.000Z",
@@ -9091,6 +9028,69 @@
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
+    },
+    {
+      "uid": "college-football-401856754@football-watchlist",
+      "gameId": "401856754",
+      "title": "CFB: LSU at Tennessee",
+      "start": "2026-11-21T20:30:00.000Z",
+      "end": "2026-11-22T00:00:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#15 vs #16) at selection.\n\nTeams: LSU Tigers at Tennessee Volunteers\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856754/lsu-tennessee",
+      "location": "Neyland Stadium, Knoxville, TN, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856754/lsu-tennessee",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#15 vs #16) at selection.",
+      "hash": "4e84094b364348762bada1688420ba024fcce1af5b5f22000c9e9497daf99fc5",
+      "created": "2026-10-31T08:32:39.093Z",
+      "modified": "2026-11-09T23:28:17.835Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401856751@football-watchlist",
+      "gameId": "401856751",
+      "title": "CFB: Kentucky at Missouri",
+      "start": "2026-11-22T00:30:00.000Z",
+      "end": "2026-11-22T04:00:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#9 vs #23) at selection.\n\nTeams: Kentucky Wildcats at Missouri Tigers\n\nUS broadcast: SEC Network. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856751/kentucky-missouri",
+      "location": "Memorial Stadium, Columbia, MO, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856751/kentucky-missouri",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#9 vs #23) at selection.",
+      "hash": "7dd71ca5330d224adaa3385e1a80fbf533a46024350885f1bb6d5f4e8345c780",
+      "created": "2026-10-31T08:32:39.093Z",
+      "modified": "2026-11-09T23:28:17.835Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401856753@football-watchlist",
+      "gameId": "401856753",
+      "title": "CFB: Georgia at South Carolina",
+      "start": "2026-11-22T00:30:00.000Z",
+      "end": "2026-11-22T04:00:00.000Z",
+      "allDay": false,
+      "description": "National pick: ranked matchup (#2 vs #23) at selection.\n\nTeams: Georgia Bulldogs at South Carolina Gamecocks\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856753/georgia-south-carolina",
+      "location": "Williams-Brice Stadium, Columbia, SC, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856753/georgia-south-carolina",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#2 vs #23) at selection.",
+      "hash": "e5036a07ec05d90ec658f53c7a25521f406c39622fdff98ae5d6d885a1fda764",
+      "created": "2026-11-01T23:41:38.747Z",
+      "modified": "2026-11-09T23:28:17.835Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401858307@football-watchlist",
@@ -17666,23 +17666,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Tampa Bay Rays at Kansas City Royals [time TBA]",
-      "start": "2027-04-16",
-      "end": "2027-04-17",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853550",
+      "title": "MLB: Tampa Bay Rays at Kansas City Royals",
+      "start": "2027-04-16T23:40:00.000Z",
+      "end": "2027-04-17T02:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853550",
       "location": "Kauffman Stadium",
       "url": "https://www.mlb.com/gameday/853550",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "cac50b284c36577933371b0ec40b39f884a7f8db2bfa3e31472864f33c105707",
+      "hash": "0dcc07ef9df3be7e6d0c17a01e3426839ac87576dd6ade3a25833e7277ce642a",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-09T23:28:17.835Z",
+      "sequence": 1
     },
     {
       "uid": "chelsea-2645507@football-watchlist",
@@ -17707,39 +17707,6 @@
       "created": "2026-10-03T13:22:58.480Z",
       "modified": "2026-10-03T13:23:45.745Z",
       "sequence": 1
-    },
-    {
-      "uid": "mlb-853535@football-watchlist",
-      "gameId": "853535",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/139:7/118:7",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "118"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Tampa Bay Rays at Kansas City Royals [time TBA]",
-      "start": "2027-04-17",
-      "end": "2027-04-18",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853535",
-      "location": "Kauffman Stadium",
-      "url": "https://www.mlb.com/gameday/853535",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "f16118f4154b0d75a5a90101610e9b84176aa96f1f00ab9c8701aac07230cc22",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
     },
     {
       "uid": "soccer-401876246@football-watchlist",
@@ -17809,6 +17776,39 @@
       "sequence": 1
     },
     {
+      "uid": "mlb-853535@football-watchlist",
+      "gameId": "853535",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/139:7/118:7",
+      "mlbSeriesGameNumber": 2,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "139",
+        "118"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Tampa Bay Rays at Kansas City Royals",
+      "start": "2027-04-17T18:10:00.000Z",
+      "end": "2027-04-17T21:10:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853535",
+      "location": "Kauffman Stadium",
+      "url": "https://www.mlb.com/gameday/853535",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "ccfa473015dd3243dfbad4922e76da9a5313de78d2b637aceb1b1bb568438292",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-09T23:28:17.835Z",
+      "sequence": 1
+    },
+    {
       "uid": "mlb-853792@football-watchlist",
       "gameId": "853792",
       "mlbSeason": 2027,
@@ -17840,39 +17840,6 @@
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-11-04T20:51:01.102Z",
       "sequence": 1
-    },
-    {
-      "uid": "mlb-853533@football-watchlist",
-      "gameId": "853533",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/139:7/118:7",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "118"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Tampa Bay Rays at Kansas City Royals [time TBA]",
-      "start": "2027-04-18",
-      "end": "2027-04-19",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853533",
-      "location": "Kauffman Stadium",
-      "url": "https://www.mlb.com/gameday/853533",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "7c5c8d7dbcdfb0d8116f91d4365289928b8480ef130ea81db14121b8b796fb4f",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
     },
     {
       "uid": "soccer-401875098@football-watchlist",
@@ -17907,6 +17874,39 @@
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
+    },
+    {
+      "uid": "mlb-853533@football-watchlist",
+      "gameId": "853533",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/139:7/118:7",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "139",
+        "118"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Tampa Bay Rays at Kansas City Royals",
+      "start": "2027-04-18T18:10:00.000Z",
+      "end": "2027-04-18T21:10:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853533",
+      "location": "Kauffman Stadium",
+      "url": "https://www.mlb.com/gameday/853533",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "436e780d7d87f7da7a7cea7896f355bff4f4841d92fde236d91241ce3f684bfe",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-09T23:28:17.835Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853793@football-watchlist",
@@ -21289,56 +21289,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: New York Mets at Kansas City Royals [time TBA]",
-      "start": "2027-06-07",
-      "end": "2027-06-08",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853523",
+      "title": "MLB: New York Mets at Kansas City Royals",
+      "start": "2027-06-07T23:40:00.000Z",
+      "end": "2027-06-08T02:40:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853523",
       "location": "Kauffman Stadium",
       "url": "https://www.mlb.com/gameday/853523",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "e349eec37f114a4ed8c5ece428f26e62fa29d0defefa0d048cd7049526040c9f",
+      "hash": "2d34eb53438fe8fa6910f7d11c1ea3dd90583848b8b030df72ba7a9f63eb7f73",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-853530@football-watchlist",
-      "gameId": "853530",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/121:22/118:22",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "121",
-        "118"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: New York Mets at Kansas City Royals [time TBA]",
-      "start": "2027-06-08",
-      "end": "2027-06-09",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853530",
-      "location": "Kauffman Stadium",
-      "url": "https://www.mlb.com/gameday/853530",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "5e21614e9f9f8812585cb607fc0c70c7a7e9b69abd9c50b02c5860dfa6b4e370",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-09T23:28:17.835Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852142@football-watchlist",
@@ -21374,6 +21341,39 @@
       "sequence": 0
     },
     {
+      "uid": "mlb-853530@football-watchlist",
+      "gameId": "853530",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/121:22/118:22",
+      "mlbSeriesGameNumber": 2,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "121",
+        "118"
+      ],
+      "selectionReasons": [
+        "Following New York Mets: every regular-season game."
+      ],
+      "title": "MLB: New York Mets at Kansas City Royals",
+      "start": "2027-06-08T23:40:00.000Z",
+      "end": "2027-06-09T02:40:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853530",
+      "location": "Kauffman Stadium",
+      "url": "https://www.mlb.com/gameday/853530",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "New York Mets"
+      ],
+      "hash": "d6bb52776c45aa56b574bb93cced28c4fe43e0ff958de9d60fcaa1809fd9554d",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-09T23:28:17.835Z",
+      "sequence": 1
+    },
+    {
       "uid": "mlb-853531@football-watchlist",
       "gameId": "853531",
       "mlbSeason": 2027,
@@ -21388,23 +21388,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: New York Mets at Kansas City Royals [time TBA]",
-      "start": "2027-06-09",
-      "end": "2027-06-10",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853531",
+      "title": "MLB: New York Mets at Kansas City Royals",
+      "start": "2027-06-09T18:10:00.000Z",
+      "end": "2027-06-09T21:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853531",
       "location": "Kauffman Stadium",
       "url": "https://www.mlb.com/gameday/853531",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "de816c799170e6e86ece27b8b29ffa7442098f84c601c2cac399081f522d3f10",
+      "hash": "5715f9f866c9b597600d0ff042cfc1c0bca004771a59d165f880bd6df8e66649",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-09T23:28:17.835Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852145@football-watchlist",
@@ -22830,6 +22830,40 @@
       "sequence": 0
     },
     {
+      "uid": "mlb-852706@football-watchlist",
+      "gameId": "852706",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/139:29/135:29",
+      "mlbSeriesGameNumber": 2,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "139",
+        "135"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Tampa Bay Rays at San Diego Padres",
+      "start": "2027-07-03T23:15:00.000Z",
+      "end": "2027-07-04T02:15:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852706",
+      "location": "Petco Park",
+      "url": "https://www.mlb.com/gameday/852706",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays",
+        "San Diego Padres"
+      ],
+      "hash": "d175e803c9d7d9b4d6de174b5fdfb9dbb0318882846f47c228783b69b3326501",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-09T23:28:17.835Z",
+      "sequence": 1
+    },
+    {
       "uid": "mlb-853353@football-watchlist",
       "gameId": "853353",
       "mlbSeason": 2027,
@@ -22858,40 +22892,6 @@
         "New York Mets"
       ],
       "hash": "a5da51a119d2cb14c7ac24598c02ec42d3c6497ffa242b9242b566cfbd111936",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-852706@football-watchlist",
-      "gameId": "852706",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/139:29/135:29",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "135"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Tampa Bay Rays at San Diego Padres",
-      "start": "2027-07-04T00:40:00.000Z",
-      "end": "2027-07-04T03:40:00.000Z",
-      "allDay": false,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852706",
-      "location": "Petco Park",
-      "url": "https://www.mlb.com/gameday/852706",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays",
-        "San Diego Padres"
-      ],
-      "hash": "481c36e2eac1f3eacc7b1b9faac73d26d37d05d5413aa3d9d195a01fb2a1fc65",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
@@ -23243,8 +23243,8 @@
         "Following New York Mets: every regular-season game."
       ],
       "title": "MLB: Los Angeles Dodgers at New York Mets",
-      "start": "2027-07-10T20:10:00.000Z",
-      "end": "2027-07-10T23:10:00.000Z",
+      "start": "2027-07-10T23:15:00.000Z",
+      "end": "2027-07-11T02:15:00.000Z",
       "allDay": false,
       "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853028",
       "location": "Citi Field",
@@ -23255,10 +23255,10 @@
         "Followed team",
         "New York Mets"
       ],
-      "hash": "e7fb2ddd54d15bf33dfaf673b54689996dcd5ac3a3c6d7c03edef44c2613dc93",
+      "hash": "e4d58c3eeb3b1ed1ee3649edc87b5df7c8d23d6d533c6343d8a4dd6768f78ed2",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-11-02T22:48:51.042Z",
-      "sequence": 1
+      "modified": "2026-11-09T23:28:17.835Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-852382@football-watchlist",
