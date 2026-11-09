@@ -8,69 +8,6 @@ X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:chelsea-2685176@football-watchlist
-DTSTAMP:20261003T132345Z
-CREATED:20261003T132258Z
-LAST-MODIFIED:20261003T132345Z
-SEQUENCE:1
-DTSTART:20260909T191500Z
-DTEND:20260909T214500Z
-SUMMARY:Chelsea vs Leeds United - Carabao Cup
-DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
- \nThe club currently lists this kickoff as confirmed. Viewing window: 2.5 
- hours\; finish is approximate and extra time or penalties may run longer.\
- n\nFixtures remain subject to later rescheduling. The feed refreshes from 
- Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.co
- m/en/match/chelsea-vs-leeds-united-english-league-cup-2026-09-09
-LOCATION:Stamford Bridge
-URL:https://www.chelseafc.com/en/match/chelsea-vs-leeds-united-english-leag
- ue-cup-2026-09-09
-CATEGORIES:Soccer,Chelsea,Carabao Cup
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-823818@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260909T224000Z
-DTEND:20260910T014000Z
-SUMMARY:MLB: New York Mets at Miami Marlins
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
- window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to 
- change): Robert Stock / Janson Junk.\n\nListed broadcasts: SNY / Marlins.T
- V presented by Werner\, Hoffman\, Greig & Garcia. Availability varies by c
- ountry and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823
- 818
-LOCATION:loanDepot park
-URL:https://www.mlb.com/gameday/823818
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-824871@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260909T231500Z
-DTEND:20260910T021500Z
-SUMMARY:MLB: Tampa Bay Rays at Atlanta Braves
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
-  window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to
-  change): Griffin Jax / Reynaldo López.\n\nListed broadcasts: Rays.TV / B
- ravesVision / MLB Network. Availability varies by country and provider.\n\
- nOfficial schedule: https://www.mlb.com/gameday/824871
-LOCATION:Truist Park
-URL:https://www.mlb.com/gameday/824871
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:nfl-401872656@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T144637Z

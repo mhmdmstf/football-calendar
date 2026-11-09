@@ -1,97 +1,7 @@
 {
-  "checkedOn": "2026-11-08",
+  "checkedOn": "2026-11-09",
   "season": 2026,
   "events": [
-    {
-      "uid": "chelsea-2685176@football-watchlist",
-      "gameId": "2685176",
-      "chelseaSeason": 2026,
-      "chelseaCompetition": "eng.league_cup",
-      "chelseaFriendly": false,
-      "title": "Chelsea vs Leeds United - Carabao Cup",
-      "start": "2026-09-09T19:15:00.000Z",
-      "end": "2026-09-09T21:45:00.000Z",
-      "allDay": false,
-      "status": "CONFIRMED",
-      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club currently lists this kickoff as confirmed. Viewing window: 2.5 hours; finish is approximate and extra time or penalties may run longer.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-leeds-united-english-league-cup-2026-09-09",
-      "location": "Stamford Bridge",
-      "url": "https://www.chelseafc.com/en/match/chelsea-vs-leeds-united-english-league-cup-2026-09-09",
-      "categories": [
-        "Soccer",
-        "Chelsea",
-        "Carabao Cup"
-      ],
-      "hash": "3c3aa0c1ef47dfa838fc20b5104555fd46c717b434e63dd86bf8bfe3c070f721",
-      "created": "2026-10-03T13:22:58.480Z",
-      "modified": "2026-10-03T13:23:45.745Z",
-      "sequence": 1
-    },
-    {
-      "uid": "mlb-823818@football-watchlist",
-      "gameId": "823818",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/121:47/146:47",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "121",
-        "146"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: New York Mets at Miami Marlins",
-      "start": "2026-09-09T22:40:00.000Z",
-      "end": "2026-09-10T01:40:00.000Z",
-      "allDay": false,
-      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Robert Stock / Janson Junk.\n\nListed broadcasts: SNY / Marlins.TV presented by Werner, Hoffman, Greig & Garcia. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823818",
-      "location": "loanDepot park",
-      "url": "https://www.mlb.com/gameday/823818",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "b5bbf6729865b816cceb422a675f64a724b37820d8e4636a2c1c82ab159df81c",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-824871@football-watchlist",
-      "gameId": "824871",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/139:47/144:49",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "144"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Tampa Bay Rays at Atlanta Braves",
-      "start": "2026-09-09T23:15:00.000Z",
-      "end": "2026-09-10T02:15:00.000Z",
-      "allDay": false,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Griffin Jax / Reynaldo López.\n\nListed broadcasts: Rays.TV / BravesVision / MLB Network. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/824871",
-      "location": "Truist Park",
-      "url": "https://www.mlb.com/gameday/824871",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "6e917b97354c337990ba1d70f99f3c538dc8cb53f976c5cf0352d0400905a042",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
     {
       "uid": "nfl-401872656@football-watchlist",
       "gameId": "401872656",
@@ -27716,7 +27626,7 @@
   "nflGames": 285,
   "collegeGames": 950,
   "baseball": {
-    "checkedOn": "2026-11-08",
+    "checkedOn": "2026-11-09",
     "season": 2026,
     "scheduleGames": 996,
     "followedRegularSeasons": {
@@ -27729,11 +27639,11 @@
         "139": 162
       }
     },
-    "events": 403,
+    "events": 401,
     "playoffEvents": 40
   },
   "hockey": {
-    "checkedOn": "2026-11-08",
+    "checkedOn": "2026-11-09",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -27750,17 +27660,17 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-11-08",
+    "checkedOn": "2026-11-09",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
       "eng.1": 38,
       "eng.league_cup": 3
     },
-    "events": 37
+    "events": 36
   },
   "soccer": {
-    "checkedOn": "2026-11-08",
+    "checkedOn": "2026-11-09",
     "season": 2026,
     "window": {
       "start": "2026-11-09",
