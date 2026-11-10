@@ -1,127 +1,7 @@
 {
-  "checkedOn": "2026-11-09",
+  "checkedOn": "2026-11-10",
   "season": 2026,
   "events": [
-    {
-      "uid": "nfl-401872656@football-watchlist",
-      "gameId": "401872656",
-      "title": "NFL: New England Patriots at Seattle Seahawks",
-      "start": "2026-09-10T00:20:00.000Z",
-      "end": "2026-09-10T03:50:00.000Z",
-      "allDay": false,
-      "description": "Standalone NFL game outside the regular Sunday afternoon slate.\n\nTeams: New England Patriots at Seattle Seahawks\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872656/patriots-seahawks",
-      "location": "Lumen Field, Seattle, WA, USA",
-      "url": "https://www.espn.com/nfl/game/_/gameId/401872656/patriots-seahawks",
-      "status": "CONFIRMED",
-      "categories": [
-        "NFL"
-      ],
-      "hash": "771bba6bdc2bd822cdb33c19290187beaec171c1a038ac78835ae13a1427740d",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 1
-    },
-    {
-      "uid": "mlb-824872@football-watchlist",
-      "gameId": "824872",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/139:47/144:49",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "144"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Tampa Bay Rays at Atlanta Braves",
-      "start": "2026-09-10T16:15:00.000Z",
-      "end": "2026-09-10T19:15:00.000Z",
-      "allDay": false,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Martinez / Martín Pérez.\n\nListed broadcasts: Rays.TV / BravesVision. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/824872",
-      "location": "Truist Park",
-      "url": "https://www.mlb.com/gameday/824872",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "b27f3776690c68adc073837414afe685ace334405375eb5839a101b0e96e2259",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "soccer-401915440@football-watchlist",
-      "gameId": "401915440",
-      "soccerSeason": 2026,
-      "soccerLeague": "uefa.champions",
-      "soccerTeamIds": [
-        "494",
-        "175"
-      ],
-      "soccerFriendly": false,
-      "soccerSelectionKind": "followed",
-      "soccerSelectionWeek": "2026-09-07",
-      "soccerSelectionReasons": [
-        "Following RC Lens: every competitive fixture."
-      ],
-      "soccerSelectedOn": "2026-10-26",
-      "title": "Slavia Prague vs Lens - UEFA Champions League",
-      "start": "2026-09-10T19:00:00.000Z",
-      "end": "2026-09-10T21:00:00.000Z",
-      "allDay": false,
-      "status": "CONFIRMED",
-      "description": "Following RC Lens: every competitive fixture.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915440",
-      "location": "Fortuna Arena",
-      "url": "https://www.espn.com/soccer/match/_/gameId/401915440",
-      "categories": [
-        "Soccer",
-        "Followed team",
-        "UEFA Champions League"
-      ],
-      "hash": "72c6894f0d95e14b07c4c77400b3e8f5f47bf481bbf9565e79b81fc19cb87ffe",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "soccer-401915441@football-watchlist",
-      "gameId": "401915441",
-      "soccerSeason": 2026,
-      "soccerLeague": "uefa.champions",
-      "soccerTeamIds": [
-        "2572",
-        "11420"
-      ],
-      "soccerFriendly": false,
-      "soccerSelectionKind": "followed",
-      "soccerSelectionWeek": "2026-09-07",
-      "soccerSelectionReasons": [
-        "Following Como: every competitive fixture."
-      ],
-      "soccerSelectedOn": "2026-10-26",
-      "title": "Como vs RB Leipzig - UEFA Champions League",
-      "start": "2026-09-10T19:00:00.000Z",
-      "end": "2026-09-10T21:00:00.000Z",
-      "allDay": false,
-      "status": "CONFIRMED",
-      "description": "Following Como: every competitive fixture.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915441",
-      "location": "Giuseppe Sinigaglia",
-      "url": "https://www.espn.com/soccer/match/_/gameId/401915441",
-      "categories": [
-        "Soccer",
-        "Followed team",
-        "UEFA Champions League"
-      ],
-      "hash": "bffa8458026ed7d12e300af8d4b56843362294cfc7473390971f0aa43c3b6ad6",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
     {
       "uid": "nfl-401872657@football-watchlist",
       "gameId": "401872657",
@@ -27626,7 +27506,7 @@
   "nflGames": 285,
   "collegeGames": 950,
   "baseball": {
-    "checkedOn": "2026-11-09",
+    "checkedOn": "2026-11-10",
     "season": 2026,
     "scheduleGames": 996,
     "followedRegularSeasons": {
@@ -27639,11 +27519,11 @@
         "139": 162
       }
     },
-    "events": 401,
+    "events": 400,
     "playoffEvents": 40
   },
   "hockey": {
-    "checkedOn": "2026-11-09",
+    "checkedOn": "2026-11-10",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -27660,7 +27540,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-11-09",
+    "checkedOn": "2026-11-10",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
@@ -27670,7 +27550,7 @@
     "events": 36
   },
   "soccer": {
-    "checkedOn": "2026-11-09",
+    "checkedOn": "2026-11-10",
     "season": 2026,
     "window": {
       "start": "2026-11-09",
@@ -27698,7 +27578,7 @@
         "uefa.champions": 0
       }
     },
-    "events": 104
+    "events": 102
   },
   "warnings": [
     "College GameDay: no unambiguous current announcement matched the game schedule; retaining verified announcements and TBA placeholders."
