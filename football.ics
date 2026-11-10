@@ -1108,17 +1108,17 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-822840@football-watchlist
-DTSTAMP:20261030T192920Z
+DTSTAMP:20261110T205353Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261030T192920Z
-SEQUENCE:4
+LAST-MODIFIED:20261110T205353Z
+SEQUENCE:5
 DTSTART:20260923T000500Z
 DTEND:20260923T030500Z
 SUMMARY:MLB: New York Mets at Texas Rangers
 DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
  window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to 
- change): Sean Manaea / MacKenzie Gore.\n\nListed broadcasts: SNY / Rangers
-  Sports Network\, presented by Progressive. Availability varies by country
+ change): Sean Manaea / MacKenzie Gore.\n\nListed broadcasts: Rangers Sport
+ s Network\, presented by Progressive / SNY. Availability varies by country
   and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822840
 LOCATION:Globe Life Field
 URL:https://www.mlb.com/gameday/822840
@@ -1171,10 +1171,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-822841@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261110T205353Z
 CREATED:20260923T075004Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:2
+LAST-MODIFIED:20261110T205353Z
+SEQUENCE:3
 DTSTART:20260924T000500Z
 DTEND:20260924T030500Z
 SUMMARY:MLB: New York Mets at Texas Rangers
@@ -1182,8 +1182,8 @@ DESCRIPTION:Texas Rangers: tied for the division lead.\nTexas Rangers: 3 ga
  mes behind the final wild-card spot.\nFollowing New York Mets.\nStandings 
  snapshot: 2026-09-23.\n\nViewing window: 3 hours\; finish is approximate.\
  n\nProbable pitchers (subject to change): Nolan McLean / Cody Bradford.\n\
- nListed broadcasts: SNY / Rangers Sports Network\, presented by Progressiv
- e. Availability varies by country and provider.\n\nOfficial schedule: http
+ nListed broadcasts: Rangers Sports Network\, presented by Progressive / SN
+ Y. Availability varies by country and provider.\n\nOfficial schedule: http
  s://www.mlb.com/gameday/822841
 LOCATION:Globe Life Field
 URL:https://www.mlb.com/gameday/822841
@@ -1193,17 +1193,17 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-822842@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261110T205353Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
+LAST-MODIFIED:20261110T205353Z
+SEQUENCE:1
 DTSTART:20260924T183500Z
 DTEND:20260924T213500Z
 SUMMARY:MLB: New York Mets at Texas Rangers
 DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
  window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to 
- change): Zac Thornton / Kumar Rocker.\n\nListed broadcasts: SNY / Rangers 
- Sports Network\, presented by Progressive. Availability varies by country 
+ change): Zac Thornton / Kumar Rocker.\n\nListed broadcasts: Rangers Sports
+  Network\, presented by Progressive / SNY. Availability varies by country 
  and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822842
 LOCATION:Globe Life Field
 URL:https://www.mlb.com/gameday/822842
@@ -10044,19 +10044,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020774@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261110T205353Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261110T205353Z
+SEQUENCE:1
 DTSTART:20270117T230000Z
 DTEND:20270118T020000Z
 SUMMARY:NHL: Vegas Golden Knights at Carolina Hurricanes
 DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
  nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
  nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / S
- CRIPPS / SN / SN360 / TVAS. Availability varies by country and provider.\n
- \nOfficial schedule: https://www.nhl.com/gamecenter/vgk-vs-car/2027/01/17/
- 2026020774
+ CRIPPS / SN / SN360. Availability varies by country and provider.\n\nOffic
+ ial schedule: https://www.nhl.com/gamecenter/vgk-vs-car/2027/01/17/2026020
+ 774
 LOCATION:Lenovo Center
 URL:https://www.nhl.com/gamecenter/vgk-vs-car/2027/01/17/2026020774
 CATEGORIES:NHL,Regular season,Carolina Hurricanes

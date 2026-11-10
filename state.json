@@ -1478,7 +1478,7 @@
       "start": "2026-09-23T00:05:00.000Z",
       "end": "2026-09-23T03:05:00.000Z",
       "allDay": false,
-      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Sean Manaea / MacKenzie Gore.\n\nListed broadcasts: SNY / Rangers Sports Network, presented by Progressive. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822840",
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Sean Manaea / MacKenzie Gore.\n\nListed broadcasts: Rangers Sports Network, presented by Progressive / SNY. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822840",
       "location": "Globe Life Field",
       "url": "https://www.mlb.com/gameday/822840",
       "status": "CONFIRMED",
@@ -1487,10 +1487,10 @@
         "Followed team",
         "New York Mets"
       ],
-      "hash": "bdd731f8f3414fe17ec95a1f4d53b392f42f4c0877463dbaa32b4d1cd7becce4",
+      "hash": "887b73332f6c483fb642506cf668dcecb8d9197805ff0bc4269056dd01a174a7",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-30T19:29:20.694Z",
-      "sequence": 4
+      "modified": "2026-11-10T20:53:53.836Z",
+      "sequence": 5
     },
     {
       "uid": "mlb-823089@football-watchlist",
@@ -1583,7 +1583,7 @@
       "start": "2026-09-24T00:05:00.000Z",
       "end": "2026-09-24T03:05:00.000Z",
       "allDay": false,
-      "description": "Texas Rangers: tied for the division lead.\nTexas Rangers: 3 games behind the final wild-card spot.\nFollowing New York Mets.\nStandings snapshot: 2026-09-23.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nolan McLean / Cody Bradford.\n\nListed broadcasts: SNY / Rangers Sports Network, presented by Progressive. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822841",
+      "description": "Texas Rangers: tied for the division lead.\nTexas Rangers: 3 games behind the final wild-card spot.\nFollowing New York Mets.\nStandings snapshot: 2026-09-23.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nolan McLean / Cody Bradford.\n\nListed broadcasts: Rangers Sports Network, presented by Progressive / SNY. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822841",
       "location": "Globe Life Field",
       "url": "https://www.mlb.com/gameday/822841",
       "status": "CONFIRMED",
@@ -1592,10 +1592,10 @@
         "Followed team",
         "New York Mets"
       ],
-      "hash": "2297e98b8df7be7cbc6eb3943d10656b7823940fab69af7eaa738c6b073475aa",
+      "hash": "66b78faa294a8cf8ede685eb0fe65dcba2cc4c6e341e2ae25da84f1ae9b26c65",
       "created": "2026-09-23T07:50:04.909Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 2
+      "modified": "2026-11-10T20:53:53.836Z",
+      "sequence": 3
     },
     {
       "uid": "mlb-822842@football-watchlist",
@@ -1616,7 +1616,7 @@
       "start": "2026-09-24T18:35:00.000Z",
       "end": "2026-09-24T21:35:00.000Z",
       "allDay": false,
-      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Zac Thornton / Kumar Rocker.\n\nListed broadcasts: SNY / Rangers Sports Network, presented by Progressive. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822842",
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Zac Thornton / Kumar Rocker.\n\nListed broadcasts: Rangers Sports Network, presented by Progressive / SNY. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822842",
       "location": "Globe Life Field",
       "url": "https://www.mlb.com/gameday/822842",
       "status": "CONFIRMED",
@@ -1625,10 +1625,10 @@
         "Followed team",
         "New York Mets"
       ],
-      "hash": "8bfb110546166117dd596a19b63bbb3e12d164f7ac9b5886def75675f27b9ee7",
+      "hash": "10ed83370ea1d566c935e28ae0389abc96c28a86d13ea8ddfabaf18b823ffdcf",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-10T20:53:53.836Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-823493@football-watchlist",
@@ -12945,7 +12945,7 @@
       "end": "2027-01-18T02:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / SCRIPPS / SN / SN360 / TVAS. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/vgk-vs-car/2027/01/17/2026020774",
+      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / SCRIPPS / SN / SN360. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/vgk-vs-car/2027/01/17/2026020774",
       "location": "Lenovo Center",
       "url": "https://www.nhl.com/gamecenter/vgk-vs-car/2027/01/17/2026020774",
       "categories": [
@@ -12953,10 +12953,10 @@
         "Regular season",
         "Carolina Hurricanes"
       ],
-      "hash": "880394c7ad0135b0617d83cef3d8f402cbeba10bc9f1d8d564db60da34ed307d",
+      "hash": "dbd850e4f907573cab959c7743634042bd648bc046ef5b6bfa00144b1426adb6",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
+      "modified": "2026-11-10T20:53:53.836Z",
+      "sequence": 1
     },
     {
       "uid": "nfl-401872915@football-watchlist",
