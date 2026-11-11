@@ -8,66 +8,6 @@ X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:nfl-401872657@football-watchlist
-DTSTAMP:20260905T145457Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145457Z
-SEQUENCE:2
-DTSTART:20260911T003500Z
-DTEND:20260911T040500Z
-SUMMARY:NFL: San Francisco 49ers vs Los Angeles Rams
-DESCRIPTION:International game: Australia.\nThursday football\, including T
- hanksgiving.\n\nNFL Melbourne Game\n\nTeams: San Francisco 49ers at Los An
- geles Rams\n\nUS broadcast: Netflix. Availability elsewhere varies.\n\nVie
- wing window: 3.5 hours (4 hours for championships)\; finish is approximate
- .\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872657/49ers-rams
-LOCATION:Melbourne Cricket Ground\, Melbourne\, VIC\, Australia
-URL:https://www.espn.com/nfl/game/_/gameId/401872657/49ers-rams
-CATEGORIES:NFL
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-823498@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260911T230500Z
-DTEND:20260912T020500Z
-SUMMARY:MLB: New York Mets at New York Yankees
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
- window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to 
- change): Nolan McLean / Carlos Rodón.\n\nListed broadcasts: WPIX / YES. A
- vailability varies by country and provider.\n\nOfficial schedule: https://
- www.mlb.com/gameday/823498
-LOCATION:Yankee Stadium
-URL:https://www.mlb.com/gameday/823498
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-822930@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260911T231000Z
-DTEND:20260912T021000Z
-SUMMARY:MLB: Houston Astros at Tampa Bay Rays
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
-  window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to
-  change): Miguel Ullola / Drew Rasmussen.\n\nListed broadcasts: Space City
-  Home Network / Rays.TV. Availability varies by country and provider.\n\nO
- fficial schedule: https://www.mlb.com/gameday/822930
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/822930
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:college-football-401856678@football-watchlist
 DTSTAMP:20261005T213612Z
 CREATED:20260905T144637Z
@@ -6232,21 +6172,20 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:show-bignoon-2026-11-14@football-watchlist
-DTSTAMP:20260905T144637Z
+DTSTAMP:20261111T093509Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
+LAST-MODIFIED:20261111T093509Z
+SEQUENCE:1
 DTSTART:20261114T150000Z
 DTEND:20261114T170000Z
-SUMMARY:Big Noon Kickoff: location TBA
-DESCRIPTION:Usual Saturday broadcast window: 10:00 a.m. to noon Eastern on 
- FOX. Location and this week's broadcast hours have not been confirmed. Ten
- tative placeholder\, subject to broadcast changes.\nSource: https://www.fo
- xsports.com/big-noon-kickoff-experience
+SUMMARY:Big Noon Kickoff: Arizona vs. Utah
+DESCRIPTION:Big Noon Kickoff on FOX. Featured game: Arizona vs. Utah. Broad
+ cast window: 10:00 a.m. to noon Eastern. Broadcast schedules can change.\n
+ Source: https://www.foxsports.com/big-noon-kickoff-experience
 LOCATION:
 URL:https://www.foxsports.com/big-noon-kickoff-experience
 CATEGORIES:College,Pregame
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -6377,18 +6316,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856864@football-watchlist
-DTSTAMP:20261108T234843Z
+DTSTAMP:20261111T093509Z
 CREATED:20261024T072439Z
-LAST-MODIFIED:20261108T234843Z
-SEQUENCE:1
+LAST-MODIFIED:20261111T093509Z
+SEQUENCE:2
 DTSTART:20261115T003000Z
 DTEND:20261115T040000Z
 SUMMARY:CFB: Utah at Arizona
-DESCRIPTION:National pick: ranked matchup (#10 vs #25) at selection.\n\nTea
- ms: Utah Utes at Arizona Wildcats\n\nUS broadcast: Fox. Availability elsew
- here varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; fi
- nish is approximate.\n\nSchedule: https://www.espn.com/college-football/ga
- me/_/gameId/401856864/utah-arizona
+DESCRIPTION:Confirmed College GameDay or Big Noon featured matchup.\nNation
+ al pick: ranked matchup (#10 vs #25) at selection.\n\nTeams: Utah Utes at 
+ Arizona Wildcats\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nV
+ iewing window: 3.5 hours (4 hours for championships)\; finish is approxima
+ te.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/40185
+ 6864/utah-arizona
 LOCATION:Casino Del Sol Stadium\, Tucson\, AZ\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856864/utah-ariz
  ona

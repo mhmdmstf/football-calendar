@@ -1,92 +1,7 @@
 {
-  "checkedOn": "2026-11-10",
+  "checkedOn": "2026-11-11",
   "season": 2026,
   "events": [
-    {
-      "uid": "nfl-401872657@football-watchlist",
-      "gameId": "401872657",
-      "title": "NFL: San Francisco 49ers vs Los Angeles Rams",
-      "start": "2026-09-11T00:35:00.000Z",
-      "end": "2026-09-11T04:05:00.000Z",
-      "allDay": false,
-      "description": "International game: Australia.\nThursday football, including Thanksgiving.\n\nNFL Melbourne Game\n\nTeams: San Francisco 49ers at Los Angeles Rams\n\nUS broadcast: Netflix. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872657/49ers-rams",
-      "location": "Melbourne Cricket Ground, Melbourne, VIC, Australia",
-      "url": "https://www.espn.com/nfl/game/_/gameId/401872657/49ers-rams",
-      "status": "CONFIRMED",
-      "categories": [
-        "NFL"
-      ],
-      "hash": "820ea5fb9dfc12b91b866f69f881bf6795c7dbfe68fb1b957cccd419d65a32dc",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:54:57.145Z",
-      "sequence": 2
-    },
-    {
-      "uid": "mlb-823498@football-watchlist",
-      "gameId": "823498",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/121:48/147:48",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "121",
-        "147"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: New York Mets at New York Yankees",
-      "start": "2026-09-11T23:05:00.000Z",
-      "end": "2026-09-12T02:05:00.000Z",
-      "allDay": false,
-      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nolan McLean / Carlos Rodón.\n\nListed broadcasts: WPIX / YES. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823498",
-      "location": "Yankee Stadium",
-      "url": "https://www.mlb.com/gameday/823498",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "d7ceda1f6f320e4e3dae1381620c57e6c6e61654ec9bbaf0545c74babc4bdbf4",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-822930@football-watchlist",
-      "gameId": "822930",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/117:48/139:48",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "117",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Houston Astros at Tampa Bay Rays",
-      "start": "2026-09-11T23:10:00.000Z",
-      "end": "2026-09-12T02:10:00.000Z",
-      "allDay": false,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Miguel Ullola / Drew Rasmussen.\n\nListed broadcasts: Space City Home Network / Rays.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822930",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/822930",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "4ffd4556285b0208ed04c4810402432a46c3a0cea6a292bd13f2e6f6c5964d96",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
     {
       "uid": "college-football-401856678@football-watchlist",
       "gameId": "401856678",
@@ -8218,22 +8133,23 @@
     },
     {
       "uid": "show-bignoon-2026-11-14@football-watchlist",
-      "title": "Big Noon Kickoff: location TBA",
+      "title": "Big Noon Kickoff: Arizona vs. Utah",
+      "gameId": "401856864",
       "start": "2026-11-14T15:00:00.000Z",
       "end": "2026-11-14T17:00:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Usual Saturday broadcast window: 10:00 a.m. to noon Eastern on FOX. Location and this week's broadcast hours have not been confirmed. Tentative placeholder, subject to broadcast changes.\nSource: https://www.foxsports.com/big-noon-kickoff-experience",
+      "status": "CONFIRMED",
+      "description": "Big Noon Kickoff on FOX. Featured game: Arizona vs. Utah. Broadcast window: 10:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://www.foxsports.com/big-noon-kickoff-experience",
       "location": "",
       "url": "https://www.foxsports.com/big-noon-kickoff-experience",
       "categories": [
         "College",
         "Pregame"
       ],
-      "hash": "c256514ea1b8a0df09cecfbe47f45814957200fd702a798b6772bb208fc9b075",
+      "hash": "1803a6db7a80bf839b4f3c335eebd0b5695f03588b1abb174ea9123039d2d468",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
+      "modified": "2026-11-11T09:35:09.480Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401858522@football-watchlist",
@@ -8376,7 +8292,7 @@
       "start": "2026-11-15T00:30:00.000Z",
       "end": "2026-11-15T04:00:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#10 vs #25) at selection.\n\nTeams: Utah Utes at Arizona Wildcats\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856864/utah-arizona",
+      "description": "Confirmed College GameDay or Big Noon featured matchup.\nNational pick: ranked matchup (#10 vs #25) at selection.\n\nTeams: Utah Utes at Arizona Wildcats\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856864/utah-arizona",
       "location": "Casino Del Sol Stadium, Tucson, AZ, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856864/utah-arizona",
       "status": "CONFIRMED",
@@ -8385,10 +8301,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#10 vs #25) at selection.",
-      "hash": "c8feb89e954accb875f42a77e08702676e4485a8765b0c89f553edc771a468bd",
+      "hash": "52ab2f8eaed35f0fa50bb3c054c6a743258a473fc3af5e10fbf8e493bfb9a3c0",
       "created": "2026-10-24T07:24:39.719Z",
-      "modified": "2026-11-08T23:48:43.830Z",
-      "sequence": 1
+      "modified": "2026-11-11T09:35:09.480Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401856885@football-watchlist",
@@ -27506,7 +27422,7 @@
   "nflGames": 285,
   "collegeGames": 950,
   "baseball": {
-    "checkedOn": "2026-11-10",
+    "checkedOn": "2026-11-11",
     "season": 2026,
     "scheduleGames": 996,
     "followedRegularSeasons": {
@@ -27519,11 +27435,11 @@
         "139": 162
       }
     },
-    "events": 400,
+    "events": 398,
     "playoffEvents": 40
   },
   "hockey": {
-    "checkedOn": "2026-11-10",
+    "checkedOn": "2026-11-11",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -27540,7 +27456,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-11-10",
+    "checkedOn": "2026-11-11",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
@@ -27550,7 +27466,7 @@
     "events": 36
   },
   "soccer": {
-    "checkedOn": "2026-11-10",
+    "checkedOn": "2026-11-11",
     "season": 2026,
     "window": {
       "start": "2026-11-09",
