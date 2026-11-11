@@ -9951,25 +9951,6 @@
       "sequence": 0
     },
     {
-      "uid": "college-football-401869535@football-watchlist",
-      "gameId": "401869535",
-      "title": "CFB: TBD at TBD [time TBA]",
-      "start": "2026-12-04",
-      "end": "2026-12-05",
-      "allDay": true,
-      "description": "Conference championship.\n\nConference USA Championship\n\nTeams: TBD at TBD\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401869535/tbd-tbd",
-      "location": "",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401869535/tbd-tbd",
-      "status": "TENTATIVE",
-      "categories": [
-        "College"
-      ],
-      "hash": "73ef1a93bb4b5cb2702c82448d3f8f5914e39b8f069b58c3d21c7ab1e70203ee",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
-    },
-    {
       "uid": "nhl-2026020451@football-watchlist",
       "gameId": "2026020451",
       "nhlSeason": 20262027,
@@ -10046,6 +10027,25 @@
       "hash": "0e9ad4abcd9c81a7933d2244dc0d68ba2b320a21abccec42122167b128c76eff",
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-05T14:52:08.096Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401869535@football-watchlist",
+      "gameId": "401869535",
+      "title": "CFB: TBD at TBD",
+      "start": "2026-12-05T00:00:00.000Z",
+      "end": "2026-12-05T04:00:00.000Z",
+      "allDay": false,
+      "description": "Conference championship.\n\nConference USA Championship\n\nTeams: TBD at TBD\n\nUS broadcast: CBSSN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401869535/tbd-tbd",
+      "location": "",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401869535/tbd-tbd",
+      "status": "CONFIRMED",
+      "categories": [
+        "College"
+      ],
+      "hash": "30ca84bf1e47c6dfbd1a1d2661cf27c74ff5a798dc11a0b09cb9ffbead2c7508",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-11-11T21:27:32.163Z",
       "sequence": 1
     },
     {
@@ -15050,7 +15050,7 @@
       "end": "2027-03-13T03:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / SN. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/cgy-vs-car/2027/03/12/2026021119",
+      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / SNW. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/cgy-vs-car/2027/03/12/2026021119",
       "location": "Lenovo Center",
       "url": "https://www.nhl.com/gamecenter/cgy-vs-car/2027/03/12/2026021119",
       "categories": [
@@ -15058,10 +15058,10 @@
         "Regular season",
         "Carolina Hurricanes"
       ],
-      "hash": "b54756bc2793122ffd36ad25d87dcdcc23748f09f774a267efdb7b5062aaef0b",
+      "hash": "970b5e2085e5b7641bf64f7d072a8e7270c86f6f67a234634d52dbc2b0040701",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
+      "modified": "2026-11-11T21:27:32.163Z",
+      "sequence": 1
     },
     {
       "uid": "soccer-401875039@football-watchlist",
@@ -23981,39 +23981,6 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-852772@football-watchlist",
-      "gameId": "852772",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/121:36/134:36",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "121",
-        "134"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: New York Mets at Pittsburgh Pirates [time TBA]",
-      "start": "2027-07-30",
-      "end": "2027-07-31",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852772",
-      "location": "PNC Park",
-      "url": "https://www.mlb.com/gameday/852772",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "a31f12c9335f597029d8a9960fe76af014e33c4ab7a56ac6ab608caefb72341b",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-854398@football-watchlist",
       "gameId": "854398",
       "mlbSeason": 2027,
@@ -24047,12 +24014,12 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-852774@football-watchlist",
-      "gameId": "852774",
+      "uid": "mlb-852772@football-watchlist",
+      "gameId": "852772",
       "mlbSeason": 2027,
       "mlbGameType": "R",
       "mlbSeriesKey": "2027/R/121:36/134:36",
-      "mlbSeriesGameNumber": 2,
+      "mlbSeriesGameNumber": 1,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "121",
@@ -24061,23 +24028,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: New York Mets at Pittsburgh Pirates [time TBA]",
-      "start": "2027-07-31",
-      "end": "2027-08-01",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852774",
+      "title": "MLB: New York Mets at Pittsburgh Pirates",
+      "start": "2027-07-30T22:40:00.000Z",
+      "end": "2027-07-31T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852772",
       "location": "PNC Park",
-      "url": "https://www.mlb.com/gameday/852774",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/852772",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "3ca8cea0898d409a52a1db868e28a3e8786fcdfe0efa74016f20bce6218b3c21",
+      "hash": "4030dde8c7a5b0ff9c311caddb684e68ab107554fee751f209345be7cbd3462d",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-11T21:27:32.163Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-854402@football-watchlist",
@@ -24113,12 +24080,12 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-852767@football-watchlist",
-      "gameId": "852767",
+      "uid": "mlb-852774@football-watchlist",
+      "gameId": "852774",
       "mlbSeason": 2027,
       "mlbGameType": "R",
       "mlbSeriesKey": "2027/R/121:36/134:36",
-      "mlbSeriesGameNumber": 3,
+      "mlbSeriesGameNumber": 2,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "121",
@@ -24127,23 +24094,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: New York Mets at Pittsburgh Pirates [time TBA]",
-      "start": "2027-08-01",
-      "end": "2027-08-02",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852767",
+      "title": "MLB: New York Mets at Pittsburgh Pirates",
+      "start": "2027-07-31T22:40:00.000Z",
+      "end": "2027-08-01T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852774",
       "location": "PNC Park",
-      "url": "https://www.mlb.com/gameday/852767",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/852774",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "8d7ae9d8da91735956bbd7f87e78727ec1af7ee0404ed25a318bb5e7bbd68d17",
+      "hash": "6f5335d139056894b31ccb754b2620645cc72a5c4597f77aa577eae0a5a956a4",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-11T21:27:32.163Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-854393@football-watchlist",
@@ -24177,6 +24144,39 @@
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
+    },
+    {
+      "uid": "mlb-852767@football-watchlist",
+      "gameId": "852767",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/121:36/134:36",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "121",
+        "134"
+      ],
+      "selectionReasons": [
+        "Following New York Mets: every regular-season game."
+      ],
+      "title": "MLB: New York Mets at Pittsburgh Pirates",
+      "start": "2027-08-01T16:35:00.000Z",
+      "end": "2027-08-01T19:35:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852767",
+      "location": "PNC Park",
+      "url": "https://www.mlb.com/gameday/852767",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "New York Mets"
+      ],
+      "hash": "d495078d38b959253cfc4d0cc245dea3bfd8a61423cdf517b3bb383e17eed533",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-11T21:27:32.163Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-854478@football-watchlist",

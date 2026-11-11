@@ -7689,26 +7689,6 @@ STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:college-football-401869535@football-watchlist
-DTSTAMP:20260905T144637Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:CFB: TBD at TBD [time TBA]
-DESCRIPTION:Conference championship.\n\nConference USA Championship\n\nTeam
- s: TBD at TBD\n\nBroadcast to be announced.\n\nKickoff has not been announ
- ced. This all-day marker will become a timed event when confirmed.\n\nSche
- dule: https://www.espn.com/college-football/game/_/gameId/401869535/tbd-tb
- d
-LOCATION:
-URL:https://www.espn.com/college-football/game/_/gameId/401869535/tbd-tbd
-CATEGORIES:College
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:nhl-2026020451@football-watchlist
 DTSTAMP:20261001T073711Z
 CREATED:20261001T073711Z
@@ -7765,6 +7745,26 @@ DESCRIPTION:Thursday football\, including Thanksgiving.\n\nTeams: Kansas Ci
 LOCATION:SoFi Stadium\, Inglewood\, CA\, USA
 URL:https://www.espn.com/nfl/game/_/gameId/401873096/chiefs-rams
 CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401869535@football-watchlist
+DTSTAMP:20261111T212732Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20261111T212732Z
+SEQUENCE:1
+DTSTART:20261205T000000Z
+DTEND:20261205T040000Z
+SUMMARY:CFB: TBD at TBD
+DESCRIPTION:Conference championship.\n\nConference USA Championship\n\nTeam
+ s: TBD at TBD\n\nUS broadcast: CBSSN. Availability elsewhere varies.\n\nVi
+ ewing window: 3.5 hours (4 hours for championships)\; finish is approximat
+ e.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401869
+ 535/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401869535/tbd-tbd
+CATEGORIES:College
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -11497,18 +11497,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026021119@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261111T212732Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261111T212732Z
+SEQUENCE:1
 DTSTART:20270313T000000Z
 DTEND:20270313T030000Z
 SUMMARY:NHL: Calgary Flames at Carolina Hurricanes
 DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
  nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
  nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / S
- N. Availability varies by country and provider.\n\nOfficial schedule: http
- s://www.nhl.com/gamecenter/cgy-vs-car/2027/03/12/2026021119
+ NW. Availability varies by country and provider.\n\nOfficial schedule: htt
+ ps://www.nhl.com/gamecenter/cgy-vs-car/2027/03/12/2026021119
 LOCATION:Lenovo Center
 URL:https://www.nhl.com/gamecenter/cgy-vs-car/2027/03/12/2026021119
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
@@ -16676,25 +16676,6 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852772@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270730
-DTEND;VALUE=DATE:20270731
-SUMMARY:MLB: New York Mets at Pittsburgh Pirates [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/852772
-LOCATION:PNC Park
-URL:https://www.mlb.com/gameday/852772
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-854398@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -16714,23 +16695,22 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852774@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-852772@football-watchlist
+DTSTAMP:20261111T212732Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270731
-DTEND;VALUE=DATE:20270801
-SUMMARY:MLB: New York Mets at Pittsburgh Pirates [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/852774
+LAST-MODIFIED:20261111T212732Z
+SEQUENCE:1
+DTSTART:20270730T224000Z
+DTEND:20270731T014000Z
+SUMMARY:MLB: New York Mets at Pittsburgh Pirates
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/852772
 LOCATION:PNC Park
-URL:https://www.mlb.com/gameday/852774
+URL:https://www.mlb.com/gameday/852772
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854402@football-watchlist
@@ -16752,23 +16732,22 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852767@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-852774@football-watchlist
+DTSTAMP:20261111T212732Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270801
-DTEND;VALUE=DATE:20270802
-SUMMARY:MLB: New York Mets at Pittsburgh Pirates [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/852767
+LAST-MODIFIED:20261111T212732Z
+SEQUENCE:1
+DTSTART:20270731T224000Z
+DTEND:20270801T014000Z
+SUMMARY:MLB: New York Mets at Pittsburgh Pirates
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/852774
 LOCATION:PNC Park
-URL:https://www.mlb.com/gameday/852767
+URL:https://www.mlb.com/gameday/852774
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854393@football-watchlist
@@ -16788,6 +16767,24 @@ URL:https://www.mlb.com/gameday/854393
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-852767@football-watchlist
+DTSTAMP:20261111T212732Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261111T212732Z
+SEQUENCE:1
+DTSTART:20270801T163500Z
+DTEND:20270801T193500Z
+SUMMARY:MLB: New York Mets at Pittsburgh Pirates
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/852767
+LOCATION:PNC Park
+URL:https://www.mlb.com/gameday/852767
+CATEGORIES:MLB,Followed team,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854478@football-watchlist
