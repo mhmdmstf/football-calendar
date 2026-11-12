@@ -8,217 +8,6 @@ X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:college-football-401856678@football-watchlist
-DTSTAMP:20261005T213612Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20261005T213612Z
-SEQUENCE:1
-DTSTART:20260912T000000Z
-DTEND:20260912T033000Z
-SUMMARY:CFB: Missouri at Kansas
-DESCRIPTION:National pick: a ranked team in a potentially competitive game 
- (market spread 6.5 points at selection). Upset possibility is an estimate.
- \n\nTeams: Missouri Tigers at Kansas Jayhawks\n\nUS broadcast: Fox. Availa
- bility elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champio
- nships)\; finish is approximate.\n\nSchedule: https://www.espn.com/college
- -football/game/_/gameId/401856678/missouri-kansas
-LOCATION:David Booth Kansas Memorial Stadium\, Lawrence\, KS\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856678/missouri-
- kansas
-CATEGORIES:College,National pick
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:show-gameday-2026-09-12@football-watchlist
-DTSTAMP:20260905T145208Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:1
-DTSTART:20260912T130000Z
-DTEND:20260912T160000Z
-SUMMARY:College GameDay: Austin\, Texas
-DESCRIPTION:College GameDay on ESPN. Featured game: Texas vs. Ohio State. B
- roadcast window: 9:00 a.m. to noon Eastern. Broadcast schedules can change
- .\nSource: https://espnpressroom.com/press-release/espns-college-gameday-b
- uilt-by-the-home-depot-kicks-off-40th-season-in-baton-rouge-with-500th-sho
- w-on-the-road/
-LOCATION:Austin\, Texas
-URL:https://espnpressroom.com/press-release/espns-college-gameday-built-by-
- the-home-depot-kicks-off-40th-season-in-baton-rouge-with-500th-show-on-the
- -road/
-CATEGORIES:College,Pregame
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:chelsea-2645227@football-watchlist
-DTSTAMP:20261003T132345Z
-CREATED:20261003T132258Z
-LAST-MODIFIED:20261003T132345Z
-SEQUENCE:1
-DTSTART:20260912T140000Z
-DTEND:20260912T160000Z
-SUMMARY:Chelsea vs Hull City - Premier League
-DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
- \nThe club currently lists this kickoff as confirmed. Viewing window: 2 ho
- urs\; finish is approximate.\n\nFixtures remain subject to later reschedul
- ing. The feed refreshes from Chelsea’s official schedule.\n\nOfficial ma
- tch: https://www.chelseafc.com/en/match/chelsea-vs-hull-city-english-premi
- er-league-2026-09-12
-LOCATION:Stamford Bridge
-URL:https://www.chelseafc.com/en/match/chelsea-vs-hull-city-english-premier
- -league-2026-09-12
-CATEGORIES:Soccer,Chelsea,Premier League
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:show-bignoon-2026-09-12@football-watchlist
-DTSTAMP:20260915T134023Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260915T134023Z
-SEQUENCE:3
-DTSTART:20260912T140000Z
-DTEND:20260912T160000Z
-SUMMARY:Big Noon Kickoff: Ann Arbor\, Michigan
-DESCRIPTION:Big Noon Kickoff on FOX. Featured game: Michigan vs. Oklahoma. 
- Broadcast window: 10:00 a.m. to noon Eastern. Broadcast schedules can chan
- ge.\nSource: https://www.foxsports.com/stories/presspass/fox-sports-unveil
- s-star-studded-2026-college-football-roster
-LOCATION:Ann Arbor\, Michigan
-URL:https://www.foxsports.com/stories/presspass/fox-sports-unveils-star-stu
- dded-2026-college-football-roster
-CATEGORIES:College,Pregame
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401856679@football-watchlist
-DTSTAMP:20261005T213612Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20261005T213612Z
-SEQUENCE:4
-DTSTART:20260912T160000Z
-DTEND:20260912T193000Z
-SUMMARY:CFB: Oklahoma at Michigan
-DESCRIPTION:Confirmed College GameDay or Big Noon featured matchup.\n\nTeam
- s: Oklahoma Sooners at Michigan Wolverines\n\nUS broadcast: Fox / ERADM. A
- vailability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for ch
- ampionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/co
- llege-football/game/_/gameId/401856679/oklahoma-michigan
-LOCATION:Michigan Stadium\, Ann Arbor\, MI\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856679/oklahoma-
- michigan
-CATEGORIES:College
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-823496@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260912T173500Z
-DTEND:20260912T203500Z
-SUMMARY:MLB: New York Mets at New York Yankees
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
- window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to 
- change): Zac Thornton / Gerrit Cole.\n\nListed broadcasts: SNY / YES / MLB
-  Network. Availability varies by country and provider.\n\nOfficial schedul
- e: https://www.mlb.com/gameday/823496
-LOCATION:Yankee Stadium
-URL:https://www.mlb.com/gameday/823496
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401856674@football-watchlist
-DTSTAMP:20260905T144637Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
-DTSTART:20260912T193000Z
-DTEND:20260912T230000Z
-SUMMARY:CFB: Alabama at Kentucky
-DESCRIPTION:Following Alabama: every game.\n\nTeams: Alabama Crimson Tide a
- t Kentucky Wildcats\n\nUS broadcast: ABC / Disney+. Availability elsewhere
-  varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish
-  is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_
- /gameId/401856674/alabama-kentucky
-LOCATION:Kroger Field\, Lexington\, KY\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856674/alabama-k
- entucky
-CATEGORIES:College,Alabama
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401856810@football-watchlist
-DTSTAMP:20261005T213612Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20261005T213612Z
-SEQUENCE:1
-DTSTART:20260912T193000Z
-DTEND:20260912T230000Z
-SUMMARY:CFB: Arizona at BYU
-DESCRIPTION:National pick: a ranked team in a potentially competitive game 
- (market spread 7 points at selection). Upset possibility is an estimate.\n
- \nTeams: Arizona Wildcats at BYU Cougars\n\nUS broadcast: Fox. Availabilit
- y elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championship
- s)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-foot
- ball/game/_/gameId/401856810/arizona-byu
-LOCATION:LaVell Edwards Stadium\, Provo\, UT\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856810/arizona-b
- yu
-CATEGORIES:College,National pick
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-822927@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260912T221000Z
-DTEND:20260913T011000Z
-SUMMARY:MLB: Houston Astros at Tampa Bay Rays
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
-  window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to
-  change): Peter Lambert / Ian Seymour.\n\nListed broadcasts: Space City Ho
- me Network / Rays.TV. Availability varies by country and provider.\n\nOffi
- cial schedule: https://www.mlb.com/gameday/822927
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/822927
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401856682@football-watchlist
-DTSTAMP:20260905T144637Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
-DTSTART:20260912T233000Z
-DTEND:20260913T030000Z
-SUMMARY:CFB: Ohio State at Texas
-DESCRIPTION:Confirmed College GameDay or Big Noon featured matchup.\n\nTeam
- s: Ohio State Buckeyes at Texas Longhorns\n\nUS broadcast: ABC. Availabili
- ty elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championshi
- ps)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-foo
- tball/game/_/gameId/401856682/ohio-state-texas
-LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856682/ohio-stat
- e-texas
-CATEGORIES:College
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:college-football-401856670@football-watchlist
 DTSTAMP:20260913T110827Z
 CREATED:20260905T144637Z
@@ -6536,6 +6325,49 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:college-football-401856872@football-watchlist
+DTSTAMP:20261112T095700Z
+CREATED:20261112T095700Z
+LAST-MODIFIED:20261112T095700Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:CFB: Utah at TCU [time TBA]
+DESCRIPTION:National pick: a ranked team in a potentially competitive game 
+ (market spread 5.5 points at selection). Upset possibility is an estimate.
+ \n\nTeams: Utah Utes at TCU Horned Frogs\n\nBroadcast to be announced.\n\n
+ Kickoff has not been announced. This all-day marker will become a timed ev
+ ent when confirmed.\n\nSchedule: https://www.espn.com/college-football/gam
+ e/_/gameId/401856872/utah-tcu
+LOCATION:Amon G. Carter Stadium\, Fort Worth\, TX\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856872/utah-tcu
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858528@football-watchlist
+DTSTAMP:20261112T095700Z
+CREATED:20261112T095700Z
+LAST-MODIFIED:20261112T095700Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:CFB: UCLA at Michigan [time TBA]
+DESCRIPTION:National pick: a ranked team in a potentially competitive game 
+ (market spread 5.5 points at selection). Upset possibility is an estimate.
+ \n\nTeams: UCLA Bruins at Michigan Wolverines\n\nBroadcast to be announced
+ .\n\nKickoff has not been announced. This all-day marker will become a tim
+ ed event when confirmed.\n\nSchedule: https://www.espn.com/college-footbal
+ l/game/_/gameId/401858528/ucla-michigan
+LOCATION:Michigan Stadium\, Ann Arbor\, MI\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858528/ucla-mich
+ igan
+CATEGORIES:College,National pick
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:show-gameday-2026-11-21@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -7386,6 +7218,166 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:college-football-401934095@football-watchlist
+DTSTAMP:20261112T095700Z
+CREATED:20261112T095700Z
+LAST-MODIFIED:20261112T095700Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:CFB: TBD at TBD [time TBA]
+DESCRIPTION:Conference championship.\n\nFCS Championship - First Round\n\nT
+ eams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\n\
+ nKickoff has not been announced. This all-day marker will become a timed e
+ vent when confirmed.\n\nSchedule: https://www.espn.com/college-football/ga
+ me/_/gameId/401934095/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401934095/tbd-tbd
+CATEGORIES:College
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401934096@football-watchlist
+DTSTAMP:20261112T095700Z
+CREATED:20261112T095700Z
+LAST-MODIFIED:20261112T095700Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:CFB: TBD at TBD [time TBA]
+DESCRIPTION:Conference championship.\n\nFCS Championship - First Round\n\nT
+ eams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\n\
+ nKickoff has not been announced. This all-day marker will become a timed e
+ vent when confirmed.\n\nSchedule: https://www.espn.com/college-football/ga
+ me/_/gameId/401934096/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401934096/tbd-tbd
+CATEGORIES:College
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401934097@football-watchlist
+DTSTAMP:20261112T095700Z
+CREATED:20261112T095700Z
+LAST-MODIFIED:20261112T095700Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:CFB: TBD at TBD [time TBA]
+DESCRIPTION:Conference championship.\n\nFCS Championship - First Round\n\nT
+ eams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\n\
+ nKickoff has not been announced. This all-day marker will become a timed e
+ vent when confirmed.\n\nSchedule: https://www.espn.com/college-football/ga
+ me/_/gameId/401934097/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401934097/tbd-tbd
+CATEGORIES:College
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401934098@football-watchlist
+DTSTAMP:20261112T095700Z
+CREATED:20261112T095700Z
+LAST-MODIFIED:20261112T095700Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:CFB: TBD at TBD [time TBA]
+DESCRIPTION:Conference championship.\n\nFCS Championship - First Round\n\nT
+ eams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\n\
+ nKickoff has not been announced. This all-day marker will become a timed e
+ vent when confirmed.\n\nSchedule: https://www.espn.com/college-football/ga
+ me/_/gameId/401934098/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401934098/tbd-tbd
+CATEGORIES:College
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401934099@football-watchlist
+DTSTAMP:20261112T095700Z
+CREATED:20261112T095700Z
+LAST-MODIFIED:20261112T095700Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:CFB: TBD at TBD [time TBA]
+DESCRIPTION:Conference championship.\n\nFCS Championship - First Round\n\nT
+ eams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\n\
+ nKickoff has not been announced. This all-day marker will become a timed e
+ vent when confirmed.\n\nSchedule: https://www.espn.com/college-football/ga
+ me/_/gameId/401934099/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401934099/tbd-tbd
+CATEGORIES:College
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401934100@football-watchlist
+DTSTAMP:20261112T095700Z
+CREATED:20261112T095700Z
+LAST-MODIFIED:20261112T095700Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:CFB: TBD at TBD [time TBA]
+DESCRIPTION:Conference championship.\n\nFCS Championship - First Round\n\nT
+ eams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\n\
+ nKickoff has not been announced. This all-day marker will become a timed e
+ vent when confirmed.\n\nSchedule: https://www.espn.com/college-football/ga
+ me/_/gameId/401934100/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401934100/tbd-tbd
+CATEGORIES:College
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401934101@football-watchlist
+DTSTAMP:20261112T095700Z
+CREATED:20261112T095700Z
+LAST-MODIFIED:20261112T095700Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:CFB: TBD at TBD [time TBA]
+DESCRIPTION:Conference championship.\n\nFCS Championship - First Round\n\nT
+ eams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\n\
+ nKickoff has not been announced. This all-day marker will become a timed e
+ vent when confirmed.\n\nSchedule: https://www.espn.com/college-football/ga
+ me/_/gameId/401934101/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401934101/tbd-tbd
+CATEGORIES:College
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401934102@football-watchlist
+DTSTAMP:20261112T095700Z
+CREATED:20261112T095700Z
+LAST-MODIFIED:20261112T095700Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:CFB: TBD at TBD [time TBA]
+DESCRIPTION:Conference championship.\n\nFCS Championship - First Round\n\nT
+ eams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\n\
+ nKickoff has not been announced. This all-day marker will become a timed e
+ vent when confirmed.\n\nSchedule: https://www.espn.com/college-football/ga
+ me/_/gameId/401934102/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401934102/tbd-tbd
+CATEGORIES:College
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:college-football-401856756@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T145208Z
@@ -7747,6 +7739,166 @@ URL:https://www.espn.com/nfl/game/_/gameId/401873096/chiefs-rams
 CATEGORIES:NFL
 STATUS:CONFIRMED
 TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401934103@football-watchlist
+DTSTAMP:20261112T095700Z
+CREATED:20261112T095700Z
+LAST-MODIFIED:20261112T095700Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:CFB: TBD at TBD [time TBA]
+DESCRIPTION:Conference championship.\n\nFCS Championship - Second Round\n\n
+ Teams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\n
+ \nKickoff has not been announced. This all-day marker will become a timed 
+ event when confirmed.\n\nSchedule: https://www.espn.com/college-football/g
+ ame/_/gameId/401934103/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401934103/tbd-tbd
+CATEGORIES:College
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401934104@football-watchlist
+DTSTAMP:20261112T095700Z
+CREATED:20261112T095700Z
+LAST-MODIFIED:20261112T095700Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:CFB: TBD at TBD [time TBA]
+DESCRIPTION:Conference championship.\n\nFCS Championship - Second Round\n\n
+ Teams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\n
+ \nKickoff has not been announced. This all-day marker will become a timed 
+ event when confirmed.\n\nSchedule: https://www.espn.com/college-football/g
+ ame/_/gameId/401934104/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401934104/tbd-tbd
+CATEGORIES:College
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401934105@football-watchlist
+DTSTAMP:20261112T095700Z
+CREATED:20261112T095700Z
+LAST-MODIFIED:20261112T095700Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:CFB: TBD at TBD [time TBA]
+DESCRIPTION:Conference championship.\n\nFCS Championship - Second Round\n\n
+ Teams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\n
+ \nKickoff has not been announced. This all-day marker will become a timed 
+ event when confirmed.\n\nSchedule: https://www.espn.com/college-football/g
+ ame/_/gameId/401934105/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401934105/tbd-tbd
+CATEGORIES:College
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401934106@football-watchlist
+DTSTAMP:20261112T095700Z
+CREATED:20261112T095700Z
+LAST-MODIFIED:20261112T095700Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:CFB: TBD at TBD [time TBA]
+DESCRIPTION:Conference championship.\n\nFCS Championship - Second Round\n\n
+ Teams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\n
+ \nKickoff has not been announced. This all-day marker will become a timed 
+ event when confirmed.\n\nSchedule: https://www.espn.com/college-football/g
+ ame/_/gameId/401934106/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401934106/tbd-tbd
+CATEGORIES:College
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401934107@football-watchlist
+DTSTAMP:20261112T095700Z
+CREATED:20261112T095700Z
+LAST-MODIFIED:20261112T095700Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:CFB: TBD at TBD [time TBA]
+DESCRIPTION:Conference championship.\n\nFCS Championship - Second Round\n\n
+ Teams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\n
+ \nKickoff has not been announced. This all-day marker will become a timed 
+ event when confirmed.\n\nSchedule: https://www.espn.com/college-football/g
+ ame/_/gameId/401934107/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401934107/tbd-tbd
+CATEGORIES:College
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401934108@football-watchlist
+DTSTAMP:20261112T095700Z
+CREATED:20261112T095700Z
+LAST-MODIFIED:20261112T095700Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:CFB: TBD at TBD [time TBA]
+DESCRIPTION:Conference championship.\n\nFCS Championship - Second Round\n\n
+ Teams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\n
+ \nKickoff has not been announced. This all-day marker will become a timed 
+ event when confirmed.\n\nSchedule: https://www.espn.com/college-football/g
+ ame/_/gameId/401934108/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401934108/tbd-tbd
+CATEGORIES:College
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401934109@football-watchlist
+DTSTAMP:20261112T095700Z
+CREATED:20261112T095700Z
+LAST-MODIFIED:20261112T095700Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:CFB: TBD at TBD [time TBA]
+DESCRIPTION:Conference championship.\n\nFCS Championship - Second Round\n\n
+ Teams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\n
+ \nKickoff has not been announced. This all-day marker will become a timed 
+ event when confirmed.\n\nSchedule: https://www.espn.com/college-football/g
+ ame/_/gameId/401934109/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401934109/tbd-tbd
+CATEGORIES:College
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401934110@football-watchlist
+DTSTAMP:20261112T095700Z
+CREATED:20261112T095700Z
+LAST-MODIFIED:20261112T095700Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:CFB: TBD at TBD [time TBA]
+DESCRIPTION:Conference championship.\n\nFCS Championship - Second Round\n\n
+ Teams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\n
+ \nKickoff has not been announced. This all-day marker will become a timed 
+ event when confirmed.\n\nSchedule: https://www.espn.com/college-football/g
+ ame/_/gameId/401934110/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401934110/tbd-tbd
+CATEGORIES:College
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401869535@football-watchlist
@@ -8246,6 +8398,26 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:college-football-401934114@football-watchlist
+DTSTAMP:20261112T095700Z
+CREATED:20261112T095700Z
+LAST-MODIFIED:20261112T095700Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:CFB: TBD at TBD [time TBA]
+DESCRIPTION:Conference championship.\n\nFCS Championship - Quarterfinals\n\
+ nTeams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\
+ n\nKickoff has not been announced. This all-day marker will become a timed
+  event when confirmed.\n\nSchedule: https://www.espn.com/college-football/
+ game/_/gameId/401934114/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401934114/tbd-tbd
+CATEGORIES:College
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:nhl-2026020512@football-watchlist
 DTSTAMP:20261001T073711Z
 CREATED:20261001T073711Z
@@ -8266,6 +8438,26 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:college-football-401934111@football-watchlist
+DTSTAMP:20261112T095700Z
+CREATED:20261112T095700Z
+LAST-MODIFIED:20261112T095700Z
+SEQUENCE:0
+DTSTART:20261212T020000Z
+DTEND:20261212T060000Z
+SUMMARY:CFB: TBD at TBD
+DESCRIPTION:Conference championship.\n\nFCS Championship - Quarterfinals\n\
+ nTeams: TBD at TBD\n\nUS broadcast: ESPN. Availability elsewhere varies.\n
+ \nViewing window: 3.5 hours (4 hours for championships)\; finish is approx
+ imate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/40
+ 1934111/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401934111/tbd-tbd
+CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nhl-2026020513@football-watchlist
 DTSTAMP:20261006T235325Z
 CREATED:20261001T073711Z
@@ -8282,6 +8474,26 @@ DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
 LOCATION:SAP Center at San Jose
 URL:https://www.nhl.com/gamecenter/lak-vs-sjs/2026/12/11/2026020513
 CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401934112@football-watchlist
+DTSTAMP:20261112T095700Z
+CREATED:20261112T095700Z
+LAST-MODIFIED:20261112T095700Z
+SEQUENCE:0
+DTSTART:20261212T170000Z
+DTEND:20261212T210000Z
+SUMMARY:CFB: TBD at TBD
+DESCRIPTION:Conference championship.\n\nFCS Championship - Quarterfinals\n\
+ nTeams: TBD at TBD\n\nUS broadcast: ESPN. Availability elsewhere varies.\n
+ \nViewing window: 3.5 hours (4 hours for championships)\; finish is approx
+ imate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/40
+ 1934112/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401934112/tbd-tbd
+CATEGORIES:College
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -8363,6 +8575,26 @@ DESCRIPTION:Major rivalry: Army-Navy.\n\nTeams: Navy Midshipmen at Army Bla
  avy-army
 LOCATION:MetLife Stadium\, East Rutherford\, NJ\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401862844/navy-army
+CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401934113@football-watchlist
+DTSTAMP:20261112T095700Z
+CREATED:20261112T095700Z
+LAST-MODIFIED:20261112T095700Z
+SEQUENCE:0
+DTSTART:20261213T010000Z
+DTEND:20261213T050000Z
+SUMMARY:CFB: TBD at TBD
+DESCRIPTION:Conference championship.\n\nFCS Championship - Quarterfinals\n\
+ nTeams: TBD at TBD\n\nUS broadcast: ESPN. Availability elsewhere varies.\n
+ \nViewing window: 3.5 hours (4 hours for championships)\; finish is approx
+ imate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/40
+ 1934113/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401934113/tbd-tbd
 CATEGORIES:College
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -16252,12 +16484,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852931@football-watchlist
-DTSTAMP:20261026T235629Z
+DTSTAMP:20261112T095700Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T235629Z
-SEQUENCE:1
-DTSTART:20270717T173500Z
-DTEND:20270717T203500Z
+LAST-MODIFIED:20261112T095700Z
+SEQUENCE:2
+DTSTART:20270717T231500Z
+DTEND:20270718T021500Z
 SUMMARY:MLB: New York Mets at New York Yankees
 DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
@@ -17177,12 +17409,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853007@football-watchlist
-DTSTAMP:20261102T224851Z
+DTSTAMP:20261112T095700Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261102T224851Z
-SEQUENCE:1
-DTSTART:20270814T201000Z
-DTEND:20270814T231000Z
+LAST-MODIFIED:20261112T095700Z
+SEQUENCE:2
+DTSTART:20270814T231500Z
+DTEND:20270815T021500Z
 SUMMARY:MLB: St. Louis Cardinals at New York Mets
 DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
@@ -17866,12 +18098,12 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852832@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261112T095700Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20270904T220500Z
-DTEND:20270905T010500Z
+LAST-MODIFIED:20261112T095700Z
+SEQUENCE:1
+DTSTART:20270904T231500Z
+DTEND:20270905T021500Z
 SUMMARY:MLB: New York Mets at Philadelphia Phillies
 DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
