@@ -6127,18 +6127,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856885@football-watchlist
-DTSTAMP:20261108T185307Z
+DTSTAMP:20261112T212948Z
 CREATED:20261024T072439Z
-LAST-MODIFIED:20261108T185307Z
-SEQUENCE:2
+LAST-MODIFIED:20261112T212948Z
+SEQUENCE:3
 DTSTART:20261115T003000Z
 DTEND:20261115T040000Z
 SUMMARY:CFB: Texas at LSU
 DESCRIPTION:National pick: ranked matchup (#18 vs #19) at selection.\n\nTea
- ms: Texas Longhorns at LSU Tigers\n\nUS broadcast: ABC. Availability elsew
- here varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; fi
- nish is approximate.\n\nSchedule: https://www.espn.com/college-football/ga
- me/_/gameId/401856885/texas-lsu
+ ms: Texas Longhorns at LSU Tigers\n\nUS broadcast: ABC / ERADM. Availabili
+ ty elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championshi
+ ps)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-foo
+ tball/game/_/gameId/401856885/texas-lsu
 LOCATION:Tiger Stadium (LA)\, Baton Rouge\, LA\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856885/texas-lsu
 CATEGORIES:College,National pick
@@ -9281,12 +9281,12 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020624@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261112T212948Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
-DTSTART:20261229T003000Z
-DTEND:20261229T033000Z
+LAST-MODIFIED:20261112T212948Z
+SEQUENCE:1
+DTSTART:20261229T000000Z
+DTEND:20261229T030000Z
 SUMMARY:NHL: San Jose Sharks at Winnipeg Jets
 DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
  ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p

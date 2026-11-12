@@ -8083,7 +8083,7 @@
       "start": "2026-11-15T00:30:00.000Z",
       "end": "2026-11-15T04:00:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#18 vs #19) at selection.\n\nTeams: Texas Longhorns at LSU Tigers\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856885/texas-lsu",
+      "description": "National pick: ranked matchup (#18 vs #19) at selection.\n\nTeams: Texas Longhorns at LSU Tigers\n\nUS broadcast: ABC / ERADM. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856885/texas-lsu",
       "location": "Tiger Stadium (LA), Baton Rouge, LA, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856885/texas-lsu",
       "status": "CONFIRMED",
@@ -8092,10 +8092,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#18 vs #19) at selection.",
-      "hash": "396f06a305967d17adce6e18afdcb4ec12d3c6741558cd1f0213f3de8d5a2136",
+      "hash": "e122e86d2e7e4bee639455adb0f9e649a507d92bff8dc02ff9e54068576a4a3d",
       "created": "2026-10-24T07:24:39.719Z",
-      "modified": "2026-11-08T18:53:07.878Z",
-      "sequence": 2
+      "modified": "2026-11-12T21:29:48.284Z",
+      "sequence": 3
     },
     {
       "uid": "nhl-2026020323@football-watchlist",
@@ -11818,8 +11818,8 @@
       "nhlSeriesGameNumber": null,
       "nhlIfNecessary": false,
       "title": "NHL: San Jose Sharks at Winnipeg Jets",
-      "start": "2026-12-29T00:30:00.000Z",
-      "end": "2026-12-29T03:30:00.000Z",
+      "start": "2026-12-29T00:00:00.000Z",
+      "end": "2026-12-29T03:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
       "description": "Following San Jose Sharks: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SN+. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/sjs-vs-wpg/2026/12/28/2026020624",
@@ -11830,10 +11830,10 @@
         "Regular season",
         "San Jose Sharks"
       ],
-      "hash": "3d7146a8ca50b9c16ba1e2e417e11dc347023256e8ef392cf043f120d56025af",
+      "hash": "8acf505f468171e0ad16efd11bae9efeeb89a68c37c2cd70ff19ce0af3507dee",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
+      "modified": "2026-11-12T21:29:48.284Z",
+      "sequence": 1
     },
     {
       "uid": "nfl-401873155@football-watchlist",
