@@ -13265,25 +13265,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-854451@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270419
-DTEND;VALUE=DATE:20270420
-SUMMARY:MLB: New York Mets at Athletics [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/854451
-LOCATION:Sutter Health Park
-URL:https://www.mlb.com/gameday/854451
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-854200@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -13303,23 +13284,22 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-854452@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-854451@football-watchlist
+DTSTAMP:20261113T205534Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270420
-DTEND;VALUE=DATE:20270421
-SUMMARY:MLB: New York Mets at Athletics [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/854452
+LAST-MODIFIED:20261113T205534Z
+SEQUENCE:1
+DTSTART:20270420T014000Z
+DTEND:20270420T044000Z
+SUMMARY:MLB: New York Mets at Athletics
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/854451
 LOCATION:Sutter Health Park
-URL:https://www.mlb.com/gameday/854452
+URL:https://www.mlb.com/gameday/854451
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854205@football-watchlist
@@ -13341,23 +13321,40 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-854441@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-854452@football-watchlist
+DTSTAMP:20261113T205534Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270421
-DTEND;VALUE=DATE:20270422
-SUMMARY:MLB: New York Mets at Athletics [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/854441
+LAST-MODIFIED:20261113T205534Z
+SEQUENCE:1
+DTSTART:20270421T014000Z
+DTEND:20270421T044000Z
+SUMMARY:MLB: New York Mets at Athletics
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/854452
+LOCATION:Sutter Health Park
+URL:https://www.mlb.com/gameday/854452
+CATEGORIES:MLB,Followed team,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-854441@football-watchlist
+DTSTAMP:20261113T205534Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261113T205534Z
+SEQUENCE:1
+DTSTART:20270421T193500Z
+DTEND:20270421T223500Z
+SUMMARY:MLB: New York Mets at Athletics
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/854441
 LOCATION:Sutter Health Park
 URL:https://www.mlb.com/gameday/854441
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854206@football-watchlist
@@ -14377,41 +14374,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853614@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261113T205534Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270517
-DTEND;VALUE=DATE:20270518
-SUMMARY:MLB: Tampa Bay Rays at Houston Astros [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/853614
+LAST-MODIFIED:20261113T205534Z
+SEQUENCE:1
+DTSTART:20270518T001000Z
+DTEND:20270518T031000Z
+SUMMARY:MLB: Tampa Bay Rays at Houston Astros
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/853614
 LOCATION:Daikin Park
 URL:https://www.mlb.com/gameday/853614
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-853625@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270518
-DTEND;VALUE=DATE:20270519
-SUMMARY:MLB: Tampa Bay Rays at Houston Astros [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/853625
-LOCATION:Daikin Park
-URL:https://www.mlb.com/gameday/853625
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852716@football-watchlist
@@ -14432,23 +14409,22 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853617@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-853625@football-watchlist
+DTSTAMP:20261113T205534Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270519
-DTEND;VALUE=DATE:20270520
-SUMMARY:MLB: Tampa Bay Rays at Houston Astros [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/853617
+LAST-MODIFIED:20261113T205534Z
+SEQUENCE:1
+DTSTART:20270519T001000Z
+DTEND:20270519T031000Z
+SUMMARY:MLB: Tampa Bay Rays at Houston Astros
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/853625
 LOCATION:Daikin Park
-URL:https://www.mlb.com/gameday/853617
+URL:https://www.mlb.com/gameday/853625
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852719@football-watchlist
@@ -14465,6 +14441,24 @@ DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing
 LOCATION:Petco Park
 URL:https://www.mlb.com/gameday/852719
 CATEGORIES:MLB,Followed team,New York Mets,San Diego Padres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-853617@football-watchlist
+DTSTAMP:20261113T205534Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261113T205534Z
+SEQUENCE:1
+DTSTART:20270519T181000Z
+DTEND:20270519T211000Z
+SUMMARY:MLB: Tampa Bay Rays at Houston Astros
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/853617
+LOCATION:Daikin Park
+URL:https://www.mlb.com/gameday/853617
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -15752,25 +15746,6 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852460@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270626
-DTEND;VALUE=DATE:20270627
-SUMMARY:MLB: New York Mets at St. Louis Cardinals [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/852460
-LOCATION:Busch Stadium
-URL:https://www.mlb.com/gameday/852460
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-852456@football-watchlist
 DTSTAMP:20261027T235047Z
 CREATED:20261026T100606Z
@@ -15803,6 +15778,24 @@ DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
 LOCATION:Angel Stadium
 URL:https://www.mlb.com/gameday/853430
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-852460@football-watchlist
+DTSTAMP:20261113T205534Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261113T205534Z
+SEQUENCE:1
+DTSTART:20270626T201500Z
+DTEND:20270626T231500Z
+SUMMARY:MLB: New York Mets at St. Louis Cardinals
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/852460
+LOCATION:Busch Stadium
+URL:https://www.mlb.com/gameday/852460
+CATEGORIES:MLB,Followed team,New York Mets
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -16808,25 +16801,6 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-854398@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270730
-DTEND;VALUE=DATE:20270731
-SUMMARY:MLB: Tampa Bay Rays at Athletics [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/854398
-LOCATION:Sutter Health Park
-URL:https://www.mlb.com/gameday/854398
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-852772@football-watchlist
 DTSTAMP:20261111T212732Z
 CREATED:20261026T100606Z
@@ -16845,23 +16819,22 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-854402@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-854398@football-watchlist
+DTSTAMP:20261113T205534Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270731
-DTEND;VALUE=DATE:20270801
-SUMMARY:MLB: Tampa Bay Rays at Athletics [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/854402
+LAST-MODIFIED:20261113T205534Z
+SEQUENCE:1
+DTSTART:20270731T014000Z
+DTEND:20270731T044000Z
+SUMMARY:MLB: Tampa Bay Rays at Athletics
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/854398
 LOCATION:Sutter Health Park
-URL:https://www.mlb.com/gameday/854402
+URL:https://www.mlb.com/gameday/854398
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852774@football-watchlist
@@ -16882,23 +16855,22 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-854393@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-854402@football-watchlist
+DTSTAMP:20261113T205534Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270801
-DTEND;VALUE=DATE:20270802
-SUMMARY:MLB: Tampa Bay Rays at Athletics [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/854393
+LAST-MODIFIED:20261113T205534Z
+SEQUENCE:1
+DTSTART:20270801T020500Z
+DTEND:20270801T050500Z
+SUMMARY:MLB: Tampa Bay Rays at Athletics
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/854402
 LOCATION:Sutter Health Park
-URL:https://www.mlb.com/gameday/854393
+URL:https://www.mlb.com/gameday/854402
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852767@football-watchlist
@@ -16915,6 +16887,24 @@ DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing
 LOCATION:PNC Park
 URL:https://www.mlb.com/gameday/852767
 CATEGORIES:MLB,Followed team,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-854393@football-watchlist
+DTSTAMP:20261113T205534Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261113T205534Z
+SEQUENCE:1
+DTSTART:20270801T200500Z
+DTEND:20270801T230500Z
+SUMMARY:MLB: Tampa Bay Rays at Athletics
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/854393
+LOCATION:Sutter Health Park
+URL:https://www.mlb.com/gameday/854393
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -17363,25 +17353,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853574@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270817
-DTEND;VALUE=DATE:20270818
-SUMMARY:MLB: New York Mets at Houston Astros [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853574
-LOCATION:Daikin Park
-URL:https://www.mlb.com/gameday/853574
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-853659@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -17397,25 +17368,6 @@ DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
 LOCATION:Comerica Park
 URL:https://www.mlb.com/gameday/853659
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-853573@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270818
-DTEND;VALUE=DATE:20270819
-SUMMARY:MLB: New York Mets at Houston Astros [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853573
-LOCATION:Daikin Park
-URL:https://www.mlb.com/gameday/853573
-CATEGORIES:MLB,Followed team,New York Mets
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -17439,23 +17391,22 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853571@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-853574@football-watchlist
+DTSTAMP:20261113T205534Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270819
-DTEND;VALUE=DATE:20270820
-SUMMARY:MLB: New York Mets at Houston Astros [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853571
+LAST-MODIFIED:20261113T205534Z
+SEQUENCE:1
+DTSTART:20270818T001000Z
+DTEND:20270818T031000Z
+SUMMARY:MLB: New York Mets at Houston Astros
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853574
 LOCATION:Daikin Park
-URL:https://www.mlb.com/gameday/853571
+URL:https://www.mlb.com/gameday/853574
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853657@football-watchlist
@@ -17475,6 +17426,42 @@ URL:https://www.mlb.com/gameday/853657
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-853573@football-watchlist
+DTSTAMP:20261113T205534Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261113T205534Z
+SEQUENCE:1
+DTSTART:20270819T001000Z
+DTEND:20270819T031000Z
+SUMMARY:MLB: New York Mets at Houston Astros
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853573
+LOCATION:Daikin Park
+URL:https://www.mlb.com/gameday/853573
+CATEGORIES:MLB,Followed team,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-853571@football-watchlist
+DTSTAMP:20261113T205534Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261113T205534Z
+SEQUENCE:1
+DTSTART:20270819T201000Z
+DTEND:20270819T231000Z
+SUMMARY:MLB: New York Mets at Houston Astros
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853571
+LOCATION:Daikin Park
+URL:https://www.mlb.com/gameday/853571
+CATEGORIES:MLB,Followed team,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853814@football-watchlist

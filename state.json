@@ -17790,39 +17790,6 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-854451@football-watchlist",
-      "gameId": "854451",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/121:8/133:8",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "121",
-        "133"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: New York Mets at Athletics [time TBA]",
-      "start": "2027-04-19",
-      "end": "2027-04-20",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854451",
-      "location": "Sutter Health Park",
-      "url": "https://www.mlb.com/gameday/854451",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "b73aea3a6a217baf31e0ff3ef6956744712cb8f8200da054bd7bacfe5999c857",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-854200@football-watchlist",
       "gameId": "854200",
       "mlbSeason": 2027,
@@ -17856,12 +17823,12 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-854452@football-watchlist",
-      "gameId": "854452",
+      "uid": "mlb-854451@football-watchlist",
+      "gameId": "854451",
       "mlbSeason": 2027,
       "mlbGameType": "R",
       "mlbSeriesKey": "2027/R/121:8/133:8",
-      "mlbSeriesGameNumber": 2,
+      "mlbSeriesGameNumber": 1,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "121",
@@ -17870,23 +17837,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: New York Mets at Athletics [time TBA]",
-      "start": "2027-04-20",
-      "end": "2027-04-21",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854452",
+      "title": "MLB: New York Mets at Athletics",
+      "start": "2027-04-20T01:40:00.000Z",
+      "end": "2027-04-20T04:40:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854451",
       "location": "Sutter Health Park",
-      "url": "https://www.mlb.com/gameday/854452",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/854451",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "2b05a80e880b5d318e449c1346615727fbea2fe5d32978750f57dd52c981e189",
+      "hash": "bb38061b1428737dd2623a2781ed34a4dd3e825a6a3e495ea17db3b52dceae62",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-13T20:55:34.486Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-854205@football-watchlist",
@@ -17922,6 +17889,39 @@
       "sequence": 0
     },
     {
+      "uid": "mlb-854452@football-watchlist",
+      "gameId": "854452",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/121:8/133:8",
+      "mlbSeriesGameNumber": 2,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "121",
+        "133"
+      ],
+      "selectionReasons": [
+        "Following New York Mets: every regular-season game."
+      ],
+      "title": "MLB: New York Mets at Athletics",
+      "start": "2027-04-21T01:40:00.000Z",
+      "end": "2027-04-21T04:40:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854452",
+      "location": "Sutter Health Park",
+      "url": "https://www.mlb.com/gameday/854452",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "New York Mets"
+      ],
+      "hash": "4a04fc7e3f1013492aa0cabd8bcab950876e610a16e79b24b71b9cc2a63917aa",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-13T20:55:34.486Z",
+      "sequence": 1
+    },
+    {
       "uid": "mlb-854441@football-watchlist",
       "gameId": "854441",
       "mlbSeason": 2027,
@@ -17936,23 +17936,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: New York Mets at Athletics [time TBA]",
-      "start": "2027-04-21",
-      "end": "2027-04-22",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854441",
+      "title": "MLB: New York Mets at Athletics",
+      "start": "2027-04-21T19:35:00.000Z",
+      "end": "2027-04-21T22:35:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854441",
       "location": "Sutter Health Park",
       "url": "https://www.mlb.com/gameday/854441",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "c5e3c8d85a60c1ab93584e3d069eb6dba3bc8852bc97f2e06cb15424011bf0ae",
+      "hash": "eed725587307865ca4978f50b5a0e60a5e641f843d349982ff2da2ebe4479feb",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-13T20:55:34.486Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-854206@football-watchlist",
@@ -19726,56 +19726,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Tampa Bay Rays at Houston Astros [time TBA]",
-      "start": "2027-05-17",
-      "end": "2027-05-18",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853614",
+      "title": "MLB: Tampa Bay Rays at Houston Astros",
+      "start": "2027-05-18T00:10:00.000Z",
+      "end": "2027-05-18T03:10:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853614",
       "location": "Daikin Park",
       "url": "https://www.mlb.com/gameday/853614",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "012b0dc74826919cc861fe3fcd144fbd640a64d42083399529bece3e81654530",
+      "hash": "8debad2b653d735919d5225cd7d756e4082a4b63f739694fe1868e52ea7ca9f8",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-853625@football-watchlist",
-      "gameId": "853625",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/139:16/117:16",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "117"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Tampa Bay Rays at Houston Astros [time TBA]",
-      "start": "2027-05-18",
-      "end": "2027-05-19",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853625",
-      "location": "Daikin Park",
-      "url": "https://www.mlb.com/gameday/853625",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "d13a823745742492727cc6e63c15b360d13cfdbdbbb1b57bc3b6f9c2541b1cd3",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-13T20:55:34.486Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852716@football-watchlist",
@@ -19812,12 +19779,12 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-853617@football-watchlist",
-      "gameId": "853617",
+      "uid": "mlb-853625@football-watchlist",
+      "gameId": "853625",
       "mlbSeason": 2027,
       "mlbGameType": "R",
       "mlbSeriesKey": "2027/R/139:16/117:16",
-      "mlbSeriesGameNumber": 3,
+      "mlbSeriesGameNumber": 2,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "139",
@@ -19826,23 +19793,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Tampa Bay Rays at Houston Astros [time TBA]",
-      "start": "2027-05-19",
-      "end": "2027-05-20",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853617",
+      "title": "MLB: Tampa Bay Rays at Houston Astros",
+      "start": "2027-05-19T00:10:00.000Z",
+      "end": "2027-05-19T03:10:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853625",
       "location": "Daikin Park",
-      "url": "https://www.mlb.com/gameday/853617",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/853625",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "ab815a0f70c173ba5ba72d6a5a177e419b9e5351fbb0f0f906223c286611c8bf",
+      "hash": "63fa18db5535b37957e393e272e8be9165a42d43ea087a41da5e48ce44a7e884",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-13T20:55:34.486Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852719@football-watchlist",
@@ -19877,6 +19844,39 @@
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
+    },
+    {
+      "uid": "mlb-853617@football-watchlist",
+      "gameId": "853617",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/139:16/117:16",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "139",
+        "117"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Tampa Bay Rays at Houston Astros",
+      "start": "2027-05-19T18:10:00.000Z",
+      "end": "2027-05-19T21:10:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853617",
+      "location": "Daikin Park",
+      "url": "https://www.mlb.com/gameday/853617",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "81b7f25ffddb7001abcfc4bc891f89f57289e16b1e21a5238388e9fb34e83269",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-13T20:55:34.486Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852724@football-watchlist",
@@ -22149,39 +22149,6 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-852460@football-watchlist",
-      "gameId": "852460",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/121:27/138:27",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "121",
-        "138"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: New York Mets at St. Louis Cardinals [time TBA]",
-      "start": "2027-06-26",
-      "end": "2027-06-27",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852460",
-      "location": "Busch Stadium",
-      "url": "https://www.mlb.com/gameday/852460",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "58b430d0b63470819ee21e5240a6c82e64386790d5375b93c5982352e9ed08ba",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-852456@football-watchlist",
       "gameId": "852456",
       "mlbSeason": 2027,
@@ -22246,6 +22213,39 @@
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-11-06T20:28:28.922Z",
       "sequence": 2
+    },
+    {
+      "uid": "mlb-852460@football-watchlist",
+      "gameId": "852460",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/121:27/138:27",
+      "mlbSeriesGameNumber": 2,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "121",
+        "138"
+      ],
+      "selectionReasons": [
+        "Following New York Mets: every regular-season game."
+      ],
+      "title": "MLB: New York Mets at St. Louis Cardinals",
+      "start": "2027-06-26T20:15:00.000Z",
+      "end": "2027-06-26T23:15:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852460",
+      "location": "Busch Stadium",
+      "url": "https://www.mlb.com/gameday/852460",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "New York Mets"
+      ],
+      "hash": "36cb676e5cfd19b89b3c4c3bf0086e1d8f75ea48998f4f269479e8c229232f7c",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-13T20:55:34.486Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853427@football-watchlist",
@@ -24033,39 +24033,6 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-854398@football-watchlist",
-      "gameId": "854398",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/139:36/133:36",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "133"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Tampa Bay Rays at Athletics [time TBA]",
-      "start": "2027-07-30",
-      "end": "2027-07-31",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854398",
-      "location": "Sutter Health Park",
-      "url": "https://www.mlb.com/gameday/854398",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "170def5c5c2e6e4458dec80dee04b343e225e04a1225ac89cc4beebcba68cb07",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-852772@football-watchlist",
       "gameId": "852772",
       "mlbSeason": 2027,
@@ -24099,12 +24066,12 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-854402@football-watchlist",
-      "gameId": "854402",
+      "uid": "mlb-854398@football-watchlist",
+      "gameId": "854398",
       "mlbSeason": 2027,
       "mlbGameType": "R",
       "mlbSeriesKey": "2027/R/139:36/133:36",
-      "mlbSeriesGameNumber": 2,
+      "mlbSeriesGameNumber": 1,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "139",
@@ -24113,23 +24080,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Tampa Bay Rays at Athletics [time TBA]",
-      "start": "2027-07-31",
-      "end": "2027-08-01",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854402",
+      "title": "MLB: Tampa Bay Rays at Athletics",
+      "start": "2027-07-31T01:40:00.000Z",
+      "end": "2027-07-31T04:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854398",
       "location": "Sutter Health Park",
-      "url": "https://www.mlb.com/gameday/854402",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/854398",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "b880bb5cc73000f66fb336703fbaaadabe4289989618cf6fec49d85c5b8db40c",
+      "hash": "87491d3659caedbaf074d3b224d4c2a40f6d2811f8ca486cd64b78d8ee89ebbb",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-13T20:55:34.486Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852774@football-watchlist",
@@ -24165,12 +24132,12 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-854393@football-watchlist",
-      "gameId": "854393",
+      "uid": "mlb-854402@football-watchlist",
+      "gameId": "854402",
       "mlbSeason": 2027,
       "mlbGameType": "R",
       "mlbSeriesKey": "2027/R/139:36/133:36",
-      "mlbSeriesGameNumber": 3,
+      "mlbSeriesGameNumber": 2,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "139",
@@ -24179,23 +24146,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Tampa Bay Rays at Athletics [time TBA]",
-      "start": "2027-08-01",
-      "end": "2027-08-02",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854393",
+      "title": "MLB: Tampa Bay Rays at Athletics",
+      "start": "2027-08-01T02:05:00.000Z",
+      "end": "2027-08-01T05:05:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854402",
       "location": "Sutter Health Park",
-      "url": "https://www.mlb.com/gameday/854393",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/854402",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "6832bbd4e33fe8dd4d03435566d5db50f74cd8a7f5b5f9eaab25c24115095380",
+      "hash": "1fde9f6b240fe2a6db7636d852af4f53e8ebb78720186b7b24a4a0f58be80aa8",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-13T20:55:34.486Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852767@football-watchlist",
@@ -24228,6 +24195,39 @@
       "hash": "d495078d38b959253cfc4d0cc245dea3bfd8a61423cdf517b3bb383e17eed533",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-11-11T21:27:32.163Z",
+      "sequence": 1
+    },
+    {
+      "uid": "mlb-854393@football-watchlist",
+      "gameId": "854393",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/139:36/133:36",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "139",
+        "133"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Tampa Bay Rays at Athletics",
+      "start": "2027-08-01T20:05:00.000Z",
+      "end": "2027-08-01T23:05:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854393",
+      "location": "Sutter Health Park",
+      "url": "https://www.mlb.com/gameday/854393",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "f8537e253243074826e1dba807082ec2138a6d7a8200a168f2baa2ed89967540",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-13T20:55:34.486Z",
       "sequence": 1
     },
     {
@@ -25023,39 +25023,6 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-853574@football-watchlist",
-      "gameId": "853574",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/121:41/117:41",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "121",
-        "117"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: New York Mets at Houston Astros [time TBA]",
-      "start": "2027-08-17",
-      "end": "2027-08-18",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853574",
-      "location": "Daikin Park",
-      "url": "https://www.mlb.com/gameday/853574",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "e6476aaa53b9bea58b9014cf6f01f42a687545a168d2d308043d4c5031a145c2",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-853659@football-watchlist",
       "gameId": "853659",
       "mlbSeason": 2027,
@@ -25084,39 +25051,6 @@
         "Tampa Bay Rays"
       ],
       "hash": "d2966481a147aaf405a165673375d3020b5a9312206db853006b3714827fd39c",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-853573@football-watchlist",
-      "gameId": "853573",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/121:41/117:41",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "121",
-        "117"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: New York Mets at Houston Astros [time TBA]",
-      "start": "2027-08-18",
-      "end": "2027-08-19",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853573",
-      "location": "Daikin Park",
-      "url": "https://www.mlb.com/gameday/853573",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "d29c0c52b3163750fca1a00c9d2f766bb2f67148c548e3fb5e443daec25732a8",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
@@ -25155,12 +25089,12 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-853571@football-watchlist",
-      "gameId": "853571",
+      "uid": "mlb-853574@football-watchlist",
+      "gameId": "853574",
       "mlbSeason": 2027,
       "mlbGameType": "R",
       "mlbSeriesKey": "2027/R/121:41/117:41",
-      "mlbSeriesGameNumber": 3,
+      "mlbSeriesGameNumber": 1,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "121",
@@ -25169,23 +25103,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: New York Mets at Houston Astros [time TBA]",
-      "start": "2027-08-19",
-      "end": "2027-08-20",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853571",
+      "title": "MLB: New York Mets at Houston Astros",
+      "start": "2027-08-18T00:10:00.000Z",
+      "end": "2027-08-18T03:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853574",
       "location": "Daikin Park",
-      "url": "https://www.mlb.com/gameday/853571",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/853574",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "0d7b87a3bc1ed65a3a363dc0ff6450c5739aa7f38f090e95f3680a3a53366ff4",
+      "hash": "ccdf2cfe1bd9248731675af25d6a30d840e91fdede8289d89b7da720097ea7c7",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-13T20:55:34.486Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853657@football-watchlist",
@@ -25219,6 +25153,72 @@
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
+    },
+    {
+      "uid": "mlb-853573@football-watchlist",
+      "gameId": "853573",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/121:41/117:41",
+      "mlbSeriesGameNumber": 2,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "121",
+        "117"
+      ],
+      "selectionReasons": [
+        "Following New York Mets: every regular-season game."
+      ],
+      "title": "MLB: New York Mets at Houston Astros",
+      "start": "2027-08-19T00:10:00.000Z",
+      "end": "2027-08-19T03:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853573",
+      "location": "Daikin Park",
+      "url": "https://www.mlb.com/gameday/853573",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "New York Mets"
+      ],
+      "hash": "f1ffe2a713f5675afdad47b77646225d3c0e33b03ef263d755e3ab9becef58f8",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-13T20:55:34.486Z",
+      "sequence": 1
+    },
+    {
+      "uid": "mlb-853571@football-watchlist",
+      "gameId": "853571",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/121:41/117:41",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "121",
+        "117"
+      ],
+      "selectionReasons": [
+        "Following New York Mets: every regular-season game."
+      ],
+      "title": "MLB: New York Mets at Houston Astros",
+      "start": "2027-08-19T20:10:00.000Z",
+      "end": "2027-08-19T23:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853571",
+      "location": "Daikin Park",
+      "url": "https://www.mlb.com/gameday/853571",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "New York Mets"
+      ],
+      "hash": "04936ac2dec5991ad8990ef88d54726b4ca92bda488677b5e97fab6b4706c277",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-13T20:55:34.486Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853814@football-watchlist",
