@@ -1,147 +1,7 @@
 {
-  "checkedOn": "2026-11-12",
+  "checkedOn": "2026-11-13",
   "season": 2026,
   "events": [
-    {
-      "uid": "college-football-401856670@football-watchlist",
-      "gameId": "401856670",
-      "title": "CFB: Arkansas at Utah",
-      "start": "2026-09-13T02:30:00.000Z",
-      "end": "2026-09-13T06:00:00.000Z",
-      "allDay": false,
-      "description": "National pick: a ranked team in a potentially competitive game (market spread 9.5 points at selection). Upset possibility is an estimate.\n\nTeams: Arkansas Razorbacks at Utah Utes\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856670/arkansas-utah",
-      "location": "Rice-Eccles Stadium, Salt Lake City, UT, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856670/arkansas-utah",
-      "status": "CONFIRMED",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 9.5 points at selection). Upset possibility is an estimate.",
-      "hash": "d10fb3bb70f1b8d4d93de3ae7d3fb3fc219683c67113167a376e835b45cc04f8",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-13T11:08:27.873Z",
-      "sequence": 1
-    },
-    {
-      "uid": "soccer-401876463@football-watchlist",
-      "gameId": "401876463",
-      "soccerSeason": 2026,
-      "soccerLeague": "fra.1",
-      "soccerTeamIds": [
-        "2697",
-        "175"
-      ],
-      "soccerFriendly": false,
-      "soccerSelectionKind": "followed",
-      "soccerSelectionWeek": "2026-09-07",
-      "soccerSelectionReasons": [
-        "Following RC Lens: every competitive fixture."
-      ],
-      "soccerSelectedOn": "2026-10-26",
-      "title": "Le Mans vs Lens - French Ligue 1",
-      "start": "2026-09-13T15:15:00.000Z",
-      "end": "2026-09-13T17:15:00.000Z",
-      "allDay": false,
-      "status": "CONFIRMED",
-      "description": "Following RC Lens: every competitive fixture.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401876463",
-      "location": "Stade Marie-Marvingt",
-      "url": "https://www.espn.com/soccer/match/_/gameId/401876463",
-      "categories": [
-        "Soccer",
-        "Followed team",
-        "French Ligue 1"
-      ],
-      "hash": "672fde186f2b2eee1eaa5fe49b2daf200ebf6ede7796a548e21cb22735d01812",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "redzone-2026-09-13@football-watchlist",
-      "title": "NFL RedZone",
-      "start": "2026-09-13T17:00:00.000Z",
-      "end": "2026-09-14T00:00:00.000Z",
-      "allDay": false,
-      "description": "Sunday afternoon NFL whip-around coverage. Seven-hour viewing block, 1-8 p.m. US Eastern; the actual finish depends on the late games. International and Sunday night games appear separately.",
-      "location": "NFL RedZone",
-      "url": "https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-RedZone",
-      "status": "CONFIRMED",
-      "categories": [
-        "NFL",
-        "RedZone"
-      ],
-      "hash": "6585ba74fa5544481bfd902e10556931a361005ba72f0feb1fa73274bd27005e",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-823495@football-watchlist",
-      "gameId": "823495",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/121:48/147:48",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "121",
-        "147"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: New York Mets at New York Yankees",
-      "start": "2026-09-13T17:35:00.000Z",
-      "end": "2026-09-13T20:35:00.000Z",
-      "allDay": false,
-      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Christian Scott / Cam Schlittler.\n\nListed broadcasts: YES / SNY. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823495",
-      "location": "Yankee Stadium",
-      "url": "https://www.mlb.com/gameday/823495",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "4d84c187e18b3d8508db38bc2e657348a104ddf77ddde7a7cf7c9f196eaa0ab1",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-822928@football-watchlist",
-      "gameId": "822928",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/117:48/139:48",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "117",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Houston Astros at Tampa Bay Rays",
-      "start": "2026-09-13T17:40:00.000Z",
-      "end": "2026-09-13T20:40:00.000Z",
-      "allDay": false,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Hayden Wesneski / Freddy Peralta.\n\nListed broadcasts: Space City Home Network / Rays.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822928",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/822928",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "43652c58d039fdf2db196c6c488754840638d734727ccc12e3f2d0d904754a89",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
     {
       "uid": "nfl-401872930@football-watchlist",
       "gameId": "401872930",
@@ -27614,7 +27474,7 @@
   "nflGames": 285,
   "collegeGames": 970,
   "baseball": {
-    "checkedOn": "2026-11-12",
+    "checkedOn": "2026-11-13",
     "season": 2026,
     "scheduleGames": 996,
     "followedRegularSeasons": {
@@ -27627,11 +27487,11 @@
         "139": 162
       }
     },
-    "events": 396,
+    "events": 394,
     "playoffEvents": 40
   },
   "hockey": {
-    "checkedOn": "2026-11-12",
+    "checkedOn": "2026-11-13",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -27648,7 +27508,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-11-12",
+    "checkedOn": "2026-11-13",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
@@ -27658,7 +27518,7 @@
     "events": 35
   },
   "soccer": {
-    "checkedOn": "2026-11-12",
+    "checkedOn": "2026-11-13",
     "season": 2026,
     "window": {
       "start": "2026-11-09",
@@ -27686,7 +27546,7 @@
         "uefa.champions": 0
       }
     },
-    "events": 102
+    "events": 101
   },
   "warnings": [
     "College GameDay: no unambiguous current announcement matched the game schedule; retaining verified announcements and TBA placeholders."
