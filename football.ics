@@ -6031,10 +6031,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858522@football-watchlist
-DTSTAMP:20261114T191536Z
+DTSTAMP:20261114T235846Z
 CREATED:20261024T072439Z
-LAST-MODIFIED:20261114T191536Z
-SEQUENCE:3
+LAST-MODIFIED:20261114T235846Z
+SEQUENCE:4
 DTSTART:20261114T170000Z
 DTEND:20261114T203000Z
 SUMMARY:CFB: Northwestern at Ohio State
@@ -6042,19 +6042,20 @@ DESCRIPTION:National pick: ranked matchup (#3 vs #24) at selection.\n\nTeam
  s: Northwestern Wildcats at Ohio State Buckeyes\n\nUS broadcast: Fox. Avai
  lability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champ
  ionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/colle
- ge-football/game/_/gameId/401858522
+ ge-football/game/_/gameId/401858522/northwestern-ohio-state
 LOCATION:Ohio Stadium\, Columbus\, OH\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858522
+URL:https://www.espn.com/college-football/game/_/gameId/401858522/northwest
+ ern-ohio-state
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856889@football-watchlist
-DTSTAMP:20261114T191536Z
+DTSTAMP:20261114T235846Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20261114T191536Z
-SEQUENCE:3
+LAST-MODIFIED:20261114T235846Z
+SEQUENCE:4
 DTSTART:20261114T174500Z
 DTEND:20261114T211500Z
 SUMMARY:CFB: Alabama at Vanderbilt
@@ -6062,9 +6063,10 @@ DESCRIPTION:Following Alabama: every game.\n\nTeams: Alabama Crimson Tide a
  t Vanderbilt Commodores\n\nUS broadcast: SEC Network. Availability elsewhe
  re varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; fini
  sh is approximate.\n\nSchedule: https://www.espn.com/college-football/game
- /_/gameId/401856889
+ /_/gameId/401856889/alabama-vanderbilt
 LOCATION:FirstBank Stadium\, Nashville\, TN\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856889
+URL:https://www.espn.com/college-football/game/_/gameId/401856889/alabama-v
+ anderbilt
 CATEGORIES:College,Alabama
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -6092,10 +6094,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856883@football-watchlist
-DTSTAMP:20261109T232817Z
+DTSTAMP:20261114T235846Z
 CREATED:20261024T072439Z
-LAST-MODIFIED:20261109T232817Z
-SEQUENCE:3
+LAST-MODIFIED:20261114T235846Z
+SEQUENCE:4
 DTSTART:20261114T203000Z
 DTEND:20261115T000000Z
 SUMMARY:CFB: Missouri at Georgia
@@ -6103,20 +6105,19 @@ DESCRIPTION:National pick: ranked matchup (#5 vs #22) at selection.\n\nTeam
  s: Missouri Tigers at Georgia Bulldogs\n\nUS broadcast: ABC / Disney+. Ava
  ilability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for cham
  pionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/coll
- ege-football/game/_/gameId/401856883/missouri-georgia
+ ege-football/game/_/gameId/401856883
 LOCATION:Sanford Stadium\, Athens\, GA\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856883/missouri-
- georgia
+URL:https://www.espn.com/college-football/game/_/gameId/401856883
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858518@football-watchlist
-DTSTAMP:20261103T203109Z
+DTSTAMP:20261114T235846Z
 CREATED:20261024T072439Z
-LAST-MODIFIED:20261103T203109Z
-SEQUENCE:2
+LAST-MODIFIED:20261114T235846Z
+SEQUENCE:3
 DTSTART:20261114T203000Z
 DTEND:20261115T000000Z
 SUMMARY:CFB: USC at Indiana
@@ -6124,20 +6125,19 @@ DESCRIPTION:National pick: ranked matchup (#6 vs #16) at selection.\n\nTeam
  s: USC Trojans at Indiana Hoosiers\n\nUS broadcast: CBS. Availability else
  where varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; f
  inish is approximate.\n\nSchedule: https://www.espn.com/college-football/g
- ame/_/gameId/401858518/usc-indiana
+ ame/_/gameId/401858518
 LOCATION:Memorial Stadium (Bloomington\, IN)\, Bloomington\, IN\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858518/usc-india
- na
+URL:https://www.espn.com/college-football/game/_/gameId/401858518
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856884@football-watchlist
-DTSTAMP:20261108T234843Z
+DTSTAMP:20261114T235846Z
 CREATED:20261024T072439Z
-LAST-MODIFIED:20261108T234843Z
-SEQUENCE:3
+LAST-MODIFIED:20261114T235846Z
+SEQUENCE:4
 DTSTART:20261114T231500Z
 DTEND:20261115T024500Z
 SUMMARY:CFB: Florida at Kentucky
@@ -6145,10 +6145,9 @@ DESCRIPTION:National pick: ranked matchup (#12 vs #20) at selection.\n\nTea
  ms: Florida Gators at Kentucky Wildcats\n\nUS broadcast: ESPN. Availabilit
  y elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championship
  s)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-foot
- ball/game/_/gameId/401856884/florida-kentucky
+ ball/game/_/gameId/401856884
 LOCATION:Kroger Field\, Lexington\, KY\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856884/florida-k
- entucky
+URL:https://www.espn.com/college-football/game/_/gameId/401856884
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE

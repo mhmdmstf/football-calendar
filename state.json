@@ -8076,19 +8076,19 @@
       "start": "2026-11-14T17:00:00.000Z",
       "end": "2026-11-14T20:30:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#3 vs #24) at selection.\n\nTeams: Northwestern Wildcats at Ohio State Buckeyes\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858522",
+      "description": "National pick: ranked matchup (#3 vs #24) at selection.\n\nTeams: Northwestern Wildcats at Ohio State Buckeyes\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858522/northwestern-ohio-state",
       "location": "Ohio Stadium, Columbus, OH, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858522",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858522/northwestern-ohio-state",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#3 vs #24) at selection.",
-      "hash": "959215708782e22a06838add6147807586c4bee87912bcae9caf317b524fc16a",
+      "hash": "27e9d50edb03ec537aa66017a6d6397d0fcf2c90c742ccff1d308b8efb2a34a3",
       "created": "2026-10-24T07:24:39.719Z",
-      "modified": "2026-11-14T19:15:36.116Z",
-      "sequence": 3
+      "modified": "2026-11-14T23:58:46.765Z",
+      "sequence": 4
     },
     {
       "uid": "college-football-401856889@football-watchlist",
@@ -8097,18 +8097,18 @@
       "start": "2026-11-14T17:45:00.000Z",
       "end": "2026-11-14T21:15:00.000Z",
       "allDay": false,
-      "description": "Following Alabama: every game.\n\nTeams: Alabama Crimson Tide at Vanderbilt Commodores\n\nUS broadcast: SEC Network. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856889",
+      "description": "Following Alabama: every game.\n\nTeams: Alabama Crimson Tide at Vanderbilt Commodores\n\nUS broadcast: SEC Network. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856889/alabama-vanderbilt",
       "location": "FirstBank Stadium, Nashville, TN, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856889",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856889/alabama-vanderbilt",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "Alabama"
       ],
-      "hash": "abf1430d97a3e8c062ea56e26a7f71e01ef88d37a922621277b33682d4fd16ce",
+      "hash": "74bd2e95a2367c11f546cf93f0d27113113878bab639c6349ce4a6652e4a7ba2",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-11-14T19:15:36.116Z",
-      "sequence": 3
+      "modified": "2026-11-14T23:58:46.765Z",
+      "sequence": 4
     },
     {
       "uid": "nhl-2026020321@football-watchlist",
@@ -8147,19 +8147,19 @@
       "start": "2026-11-14T20:30:00.000Z",
       "end": "2026-11-15T00:00:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#5 vs #22) at selection.\n\nTeams: Missouri Tigers at Georgia Bulldogs\n\nUS broadcast: ABC / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856883/missouri-georgia",
+      "description": "National pick: ranked matchup (#5 vs #22) at selection.\n\nTeams: Missouri Tigers at Georgia Bulldogs\n\nUS broadcast: ABC / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856883",
       "location": "Sanford Stadium, Athens, GA, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856883/missouri-georgia",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856883",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#5 vs #22) at selection.",
-      "hash": "cb7262acfbd627d1f600e3f261c1852496b7c4a35634be13bfb9e9854714548c",
+      "hash": "793ba4892f78335510cda6fcb98d656d58add6a7480d8109fb884d6f96f10ef9",
       "created": "2026-10-24T07:24:39.719Z",
-      "modified": "2026-11-09T23:28:17.835Z",
-      "sequence": 3
+      "modified": "2026-11-14T23:58:46.765Z",
+      "sequence": 4
     },
     {
       "uid": "college-football-401858518@football-watchlist",
@@ -8168,19 +8168,19 @@
       "start": "2026-11-14T20:30:00.000Z",
       "end": "2026-11-15T00:00:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#6 vs #16) at selection.\n\nTeams: USC Trojans at Indiana Hoosiers\n\nUS broadcast: CBS. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858518/usc-indiana",
+      "description": "National pick: ranked matchup (#6 vs #16) at selection.\n\nTeams: USC Trojans at Indiana Hoosiers\n\nUS broadcast: CBS. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858518",
       "location": "Memorial Stadium (Bloomington, IN), Bloomington, IN, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858518/usc-indiana",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858518",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#6 vs #16) at selection.",
-      "hash": "4b6094c7b611044d7a8cb13bf8eb5bdd9959d2e3b00afc932cefbd971a1ad20e",
+      "hash": "c48d821597090dbd7c534216d3bb79764535a9478d9ffa8616f66a5541f530e0",
       "created": "2026-10-24T07:24:39.719Z",
-      "modified": "2026-11-03T20:31:09.302Z",
-      "sequence": 2
+      "modified": "2026-11-14T23:58:46.765Z",
+      "sequence": 3
     },
     {
       "uid": "college-football-401856884@football-watchlist",
@@ -8189,19 +8189,19 @@
       "start": "2026-11-14T23:15:00.000Z",
       "end": "2026-11-15T02:45:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#12 vs #20) at selection.\n\nTeams: Florida Gators at Kentucky Wildcats\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856884/florida-kentucky",
+      "description": "National pick: ranked matchup (#12 vs #20) at selection.\n\nTeams: Florida Gators at Kentucky Wildcats\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856884",
       "location": "Kroger Field, Lexington, KY, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856884/florida-kentucky",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856884",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#12 vs #20) at selection.",
-      "hash": "e33c9bb5a4adc3975cffd6d200cbb2afd80ddda4237d87adff2b7254fe75c178",
+      "hash": "7c28eb83fd7c88a12b290c90de6743be2f8540372041070c5a855da39b290cf6",
       "created": "2026-10-24T07:24:39.719Z",
-      "modified": "2026-11-08T23:48:43.830Z",
-      "sequence": 3
+      "modified": "2026-11-14T23:58:46.765Z",
+      "sequence": 4
     },
     {
       "uid": "college-football-401856885@football-watchlist",
