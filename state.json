@@ -1,93 +1,7 @@
 {
-  "checkedOn": "2026-11-13",
+  "checkedOn": "2026-11-14",
   "season": 2026,
   "events": [
-    {
-      "uid": "nfl-401872930@football-watchlist",
-      "gameId": "401872930",
-      "title": "NFL: Dallas Cowboys at New York Giants",
-      "start": "2026-09-14T00:20:00.000Z",
-      "end": "2026-09-14T03:50:00.000Z",
-      "allDay": false,
-      "description": "Sunday Night Football.\n\nTeams: Dallas Cowboys at New York Giants\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872930/cowboys-giants",
-      "location": "MetLife Stadium, East Rutherford, NJ, USA",
-      "url": "https://www.espn.com/nfl/game/_/gameId/401872930/cowboys-giants",
-      "status": "CONFIRMED",
-      "categories": [
-        "NFL"
-      ],
-      "hash": "728aa04ab37c32770d5640a23f0dab2be2ad36b7701365b85e9f05407e82f209",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 1
-    },
-    {
-      "uid": "soccer-401874933@football-watchlist",
-      "gameId": "401874933",
-      "soccerSeason": 2026,
-      "soccerLeague": "ita.1",
-      "soccerTeamIds": [
-        "2572",
-        "115"
-      ],
-      "soccerFriendly": false,
-      "soccerSelectionKind": "followed",
-      "soccerSelectionWeek": "2026-09-14",
-      "soccerSelectionReasons": [
-        "Following Como: every competitive fixture."
-      ],
-      "soccerSelectedOn": "2026-10-26",
-      "title": "Como vs Parma - Italian Serie A",
-      "start": "2026-09-14T16:30:00.000Z",
-      "end": "2026-09-14T18:30:00.000Z",
-      "allDay": false,
-      "status": "CONFIRMED",
-      "description": "Following Como: every competitive fixture.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401874933",
-      "location": "Giuseppe Sinigaglia",
-      "url": "https://www.espn.com/soccer/match/_/gameId/401874933",
-      "categories": [
-        "Soccer",
-        "Followed team",
-        "Italian Serie A"
-      ],
-      "hash": "b01e04fda00d8bee56c830f22ce60ed101e2e57b7c65bb90056e9e3155fa315d",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-823575@football-watchlist",
-      "gameId": "823575",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/110:49/121:49",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "110",
-        "121"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: Baltimore Orioles at New York Mets",
-      "start": "2026-09-14T23:10:00.000Z",
-      "end": "2026-09-15T02:10:00.000Z",
-      "allDay": false,
-      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Brandon Young / Jonah Tong.\n\nListed broadcasts: MASN / SNY. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823575",
-      "location": "Citi Field",
-      "url": "https://www.mlb.com/gameday/823575",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "86cfecb3a1a0047dec8574a9c08d7bef486ec1a5886fa2d276ea1c3d56b5b46b",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
     {
       "uid": "nfl-401872931@football-watchlist",
       "gameId": "401872931",
@@ -7916,27 +7830,6 @@
       "sequence": 3
     },
     {
-      "uid": "college-football-401856864@football-watchlist",
-      "gameId": "401856864",
-      "title": "CFB: Utah at Arizona",
-      "start": "2026-11-15T00:30:00.000Z",
-      "end": "2026-11-15T04:00:00.000Z",
-      "allDay": false,
-      "description": "Confirmed College GameDay or Big Noon featured matchup.\nNational pick: ranked matchup (#10 vs #25) at selection.\n\nTeams: Utah Utes at Arizona Wildcats\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856864/utah-arizona",
-      "location": "Casino Del Sol Stadium, Tucson, AZ, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856864/utah-arizona",
-      "status": "CONFIRMED",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#10 vs #25) at selection.",
-      "hash": "52ab2f8eaed35f0fa50bb3c054c6a743258a473fc3af5e10fbf8e493bfb9a3c0",
-      "created": "2026-10-24T07:24:39.719Z",
-      "modified": "2026-11-11T09:35:09.480Z",
-      "sequence": 2
-    },
-    {
       "uid": "college-football-401856885@football-watchlist",
       "gameId": "401856885",
       "title": "CFB: Texas at LSU",
@@ -7986,6 +7879,27 @@
       "created": "2026-10-01T07:37:11.478Z",
       "modified": "2026-10-12T22:10:04.220Z",
       "sequence": 1
+    },
+    {
+      "uid": "college-football-401856864@football-watchlist",
+      "gameId": "401856864",
+      "title": "CFB: Utah at Arizona",
+      "start": "2026-11-15T03:30:00.000Z",
+      "end": "2026-11-15T07:00:00.000Z",
+      "allDay": false,
+      "description": "Confirmed College GameDay or Big Noon featured matchup.\nNational pick: ranked matchup (#10 vs #25) at selection.\n\nTeams: Utah Utes at Arizona Wildcats\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856864/utah-arizona",
+      "location": "Casino Del Sol Stadium, Tucson, AZ, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856864/utah-arizona",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: ranked matchup (#10 vs #25) at selection.",
+      "hash": "f74f7b129f81a8879757c0761b49b5fea8451826fe18a9934d348c14b92c5249",
+      "created": "2026-10-24T07:24:39.719Z",
+      "modified": "2026-11-14T09:05:52.898Z",
+      "sequence": 3
     },
     {
       "uid": "nfl-401873053@football-watchlist",
@@ -27474,7 +27388,7 @@
   "nflGames": 285,
   "collegeGames": 970,
   "baseball": {
-    "checkedOn": "2026-11-13",
+    "checkedOn": "2026-11-14",
     "season": 2026,
     "scheduleGames": 996,
     "followedRegularSeasons": {
@@ -27487,11 +27401,11 @@
         "139": 162
       }
     },
-    "events": 394,
+    "events": 393,
     "playoffEvents": 40
   },
   "hockey": {
-    "checkedOn": "2026-11-13",
+    "checkedOn": "2026-11-14",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -27508,7 +27422,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-11-13",
+    "checkedOn": "2026-11-14",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
@@ -27518,7 +27432,7 @@
     "events": 35
   },
   "soccer": {
-    "checkedOn": "2026-11-13",
+    "checkedOn": "2026-11-14",
     "season": 2026,
     "window": {
       "start": "2026-11-09",
@@ -27546,7 +27460,7 @@
         "uefa.champions": 0
       }
     },
-    "events": 101
+    "events": 100
   },
   "warnings": [
     "College GameDay: no unambiguous current announcement matched the game schedule; retaining verified announcements and TBA placeholders."
