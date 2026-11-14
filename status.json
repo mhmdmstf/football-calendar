@@ -1,7 +1,7 @@
 {
   "checkedOn": "2026-11-14",
   "season": 2026,
-  "events": 947,
+  "events": 988,
   "nflGames": 285,
   "collegeGames": 970,
   "baseball": {
@@ -57,6 +57,11 @@
     },
     "sourceCounts": {
       "teams": {
+        "131": {
+          "name": "Bayer Leverkusen",
+          "leagueGames": 34,
+          "competitive": 45
+        },
         "175": {
           "name": "RC Lens",
           "leagueGames": 34,
@@ -77,7 +82,7 @@
         "uefa.champions": 0
       }
     },
-    "events": 100
+    "events": 141
   },
   "warnings": [
     "College GameDay: no unambiguous current announcement matched the game schedule; retaining verified announcements and TBA placeholders."

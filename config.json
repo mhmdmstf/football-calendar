@@ -4,7 +4,8 @@
     "enabled": true,
     "teams": [
       {"id": "2572", "name": "Como", "league": "ita.1", "expectedLeagueGames": 38},
-      {"id": "175", "name": "RC Lens", "league": "fra.1", "expectedLeagueGames": 34}
+      {"id": "175", "name": "RC Lens", "league": "fra.1", "expectedLeagueGames": 34},
+      {"id": "131", "name": "Bayer Leverkusen", "league": "ger.1", "expectedLeagueGames": 34}
     ],
     "leagues": ["eng.1", "ita.1", "esp.1", "ger.1", "fra.1", "uefa.champions"],
     "domesticLeagues": ["eng.1", "ita.1", "esp.1", "ger.1", "fra.1"],

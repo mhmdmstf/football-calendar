@@ -68,6 +68,25 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:soccer-401915587@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART:20260916T190000Z
+DTEND:20260916T210000Z
+SUMMARY:Bayer Leverkusen vs NK Celje - UEFA Europa League
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nKicko
+ ff shown in your calendar’s local time.\n\nViewing window: 2 hours\; fin
+ ish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameI
+ d/401915587
+LOCATION:BayArena
+URL:https://www.espn.com/soccer/match/_/gameId/401915587
+CATEGORIES:Soccer,Followed team,UEFA Europa League
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-822926@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -495,6 +514,25 @@ DESCRIPTION:Following Como: every competitive fixture.\n\nKickoff shown in
 LOCATION:Stadio Benito Stirpe
 URL:https://www.espn.com/soccer/match/_/gameId/401874752
 CATEGORIES:Soccer,Followed team,Italian Serie A
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401884788@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART:20260920T133000Z
+DTEND:20260920T153000Z
+SUMMARY:Bayer Leverkusen vs RB Leipzig - German Bundesliga
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nKicko
+ ff shown in your calendar’s local time.\n\nViewing window: 2 hours\; fin
+ ish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameI
+ d/401884788
+LOCATION:BayArena
+URL:https://www.espn.com/soccer/match/_/gameId/401884788
+CATEGORIES:Soccer,Followed team,German Bundesliga
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -2510,6 +2548,25 @@ STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:soccer-401884776@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART:20261010T133000Z
+DTEND:20261010T153000Z
+SUMMARY:Mainz vs Bayer Leverkusen - German Bundesliga
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nKicko
+ ff shown in your calendar’s local time.\n\nViewing window: 2 hours\; fin
+ ish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameI
+ d/401884776
+LOCATION:MEWA ARENA
+URL:https://www.espn.com/soccer/match/_/gameId/401884776
+CATEGORIES:Soccer,Followed team,German Bundesliga
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:chelsea-2645247@football-watchlist
 DTSTAMP:20261003T132345Z
 CREATED:20261003T132258Z
@@ -3079,6 +3136,25 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:soccer-401915576@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART:20261015T164500Z
+DTEND:20261015T184500Z
+SUMMARY:Lech Poznan vs Bayer Leverkusen - UEFA Europa League
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nKicko
+ ff shown in your calendar’s local time.\n\nViewing window: 2 hours\; fin
+ ish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameI
+ d/401915576
+LOCATION:Municipal Stadium-Poznan
+URL:https://www.espn.com/soccer/match/_/gameId/401915576
+CATEGORIES:Soccer,Followed team,UEFA Europa League
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-849818@football-watchlist
 DTSTAMP:20261014T231819Z
 CREATED:20260919T111549Z
@@ -3510,6 +3586,25 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:soccer-401884771@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART:20261018T133000Z
+DTEND:20261018T153000Z
+SUMMARY:Bayer Leverkusen vs SC Freiburg - German Bundesliga
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nKicko
+ ff shown in your calendar’s local time.\n\nViewing window: 2 hours\; fin
+ ish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameI
+ d/401884771
+LOCATION:BayArena
+URL:https://www.espn.com/soccer/match/_/gameId/401884771
+CATEGORIES:Soccer,Followed team,German Bundesliga
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:redzone-2026-10-18@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -3793,6 +3888,25 @@ DESCRIPTION:Following RC Lens: every competitive fixture.\n\nKickoff shown
 LOCATION:Jan Breydel Stadium
 URL:https://www.espn.com/soccer/match/_/gameId/401915388
 CATEGORIES:Soccer,Followed team,UEFA Champions League
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401915559@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART:20261022T164500Z
+DTEND:20261022T184500Z
+SUMMARY:OFI Crete vs Bayer Leverkusen - UEFA Europa League
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nKicko
+ ff shown in your calendar’s local time.\n\nViewing window: 2 hours\; fin
+ ish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameI
+ d/401915559
+LOCATION:Pankritio Stadium
+URL:https://www.espn.com/soccer/match/_/gameId/401915559
+CATEGORIES:Soccer,Followed team,UEFA Europa League
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -4206,6 +4320,25 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:soccer-401884760@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART:20261025T143000Z
+DTEND:20261025T163000Z
+SUMMARY:TSG Hoffenheim vs Bayer Leverkusen - German Bundesliga
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nKicko
+ ff shown in your calendar’s local time.\n\nViewing window: 2 hours\; fin
+ ish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameI
+ d/401884760
+LOCATION:PreZero Arena
+URL:https://www.espn.com/soccer/match/_/gameId/401884760
+CATEGORIES:Soccer,Followed team,German Bundesliga
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:redzone-2026-10-25@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -4381,6 +4514,25 @@ DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
 LOCATION:SAP Center at San Jose
 URL:https://www.nhl.com/gamecenter/buf-vs-sjs/2026/10/27/2026020198
 CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401917033@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART:20261028T194500Z
+DTEND:20261028T214500Z
+SUMMARY:Bayer Leverkusen vs 1. FC Nürnberg - German Cup
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nKicko
+ ff shown in your calendar’s local time.\n\nViewing window: 2 hours\; fin
+ ish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameI
+ d/401917033
+LOCATION:BayArena
+URL:https://www.espn.com/soccer/match/_/gameId/401917033
+CATEGORIES:Soccer,Followed team,German Cup
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -4585,6 +4737,25 @@ DESCRIPTION:Big Noon Kickoff on FOX. Featured game: Iowa vs. Wisconsin. Bro
 LOCATION:
 URL:https://www.foxsports.com/big-noon-kickoff-experience
 CATEGORIES:College,Pregame
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401884753@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART:20261031T143000Z
+DTEND:20261031T163000Z
+SUMMARY:Bayer Leverkusen vs VfB Stuttgart - German Bundesliga
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nKicko
+ ff shown in your calendar’s local time.\n\nViewing window: 2 hours\; fin
+ ish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameI
+ d/401884753
+LOCATION:BayArena
+URL:https://www.espn.com/soccer/match/_/gameId/401884753
+CATEGORIES:Soccer,Followed team,German Bundesliga
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -5133,6 +5304,25 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:soccer-401915533@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART:20261105T200000Z
+DTEND:20261105T220000Z
+SUMMARY:Bayer Leverkusen vs Marseille - UEFA Europa League
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nKicko
+ ff shown in your calendar’s local time.\n\nViewing window: 2 hours\; fin
+ ish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameI
+ d/401915533
+LOCATION:BayArena
+URL:https://www.espn.com/soccer/match/_/gameId/401915533
+CATEGORIES:Soccer,Followed team,UEFA Europa League
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nhl-2026020255@football-watchlist
 DTSTAMP:20261001T073711Z
 CREATED:20261001T073711Z
@@ -5581,6 +5771,25 @@ DESCRIPTION:International game: Spain.\n\nNFL Madrid Game\n\nTeams: Cincinn
 LOCATION:Santiago Bernabéu\, Madrid\, Spain
 URL:https://www.espn.com/nfl/game/_/gameId/401873038/bengals-falcons
 CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401884738@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART:20261108T143000Z
+DTEND:20261108T163000Z
+SUMMARY:FC Cologne vs Bayer Leverkusen - German Bundesliga
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nKicko
+ ff shown in your calendar’s local time.\n\nViewing window: 2 hours\; fin
+ ish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameI
+ d/401884738
+LOCATION:RheinEnergieStadion
+URL:https://www.espn.com/soccer/match/_/gameId/401884738
+CATEGORIES:Soccer,Followed team,German Bundesliga
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -6250,6 +6459,28 @@ STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:soccer-401884735@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART:20261121T143000Z
+DTEND:20261121T163000Z
+SUMMARY:Bayer Leverkusen vs SC Paderborn 07 - German Bundesliga [provisiona
+ l]
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nProvi
+ sional source-listed date and kickoff. ESPN does not reliably distinguish 
+ TV-confirmed dates from provisional fixtures\; both may change. The calend
+ ar updates when the schedule changes.\n\nViewing window: 2 hours\; finish 
+ is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/40
+ 1884735
+LOCATION:BayArena
+URL:https://www.espn.com/soccer/match/_/gameId/401884735
+CATEGORIES:Soccer,Followed team,German Bundesliga
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:chelsea-2645298@football-watchlist
 DTSTAMP:20261003T132345Z
 CREATED:20261003T132258Z
@@ -6789,6 +7020,28 @@ LOCATION:Honda Center
 URL:https://www.nhl.com/gamecenter/sjs-vs-ana/2026/11/25/2026020398
 CATEGORIES:NHL,Regular season,San Jose Sharks
 STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401915517@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART:20261126T174500Z
+DTEND:20261126T194500Z
+SUMMARY:Dinamo Zagreb vs Bayer Leverkusen - UEFA Europa League [provisional
+ ]
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nProvi
+ sional source-listed date and kickoff. ESPN does not reliably distinguish 
+ TV-confirmed dates from provisional fixtures\; both may change. The calend
+ ar updates when the schedule changes.\n\nViewing window: 2 hours\; finish 
+ is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/40
+ 1915517
+LOCATION:Maksimir Stadium
+URL:https://www.espn.com/soccer/match/_/gameId/401915517
+CATEGORIES:Soccer,Followed team,UEFA Europa League
+STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -7382,6 +7635,28 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:soccer-401884727@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART:20261129T183000Z
+DTEND:20261129T203000Z
+SUMMARY:Borussia Dortmund vs Bayer Leverkusen - German Bundesliga [provisio
+ nal]
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nProvi
+ sional source-listed date and kickoff. ESPN does not reliably distinguish 
+ TV-confirmed dates from provisional fixtures\; both may change. The calend
+ ar updates when the schedule changes.\n\nViewing window: 2 hours\; finish 
+ is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/40
+ 1884727
+LOCATION:Signal Iduna Park
+URL:https://www.espn.com/soccer/match/_/gameId/401884727
+CATEGORIES:Soccer,Followed team,German Bundesliga
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:soccer-401874994@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -7479,6 +7754,27 @@ LOCATION:Prudential Center
 URL:https://www.nhl.com/gamecenter/sjs-vs-njd/2026/12/01/2026020437
 CATEGORIES:NHL,Regular season,San Jose Sharks
 STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401932936@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART:20261202T170000Z
+DTEND:20261202T190000Z
+SUMMARY:Bayer Leverkusen vs RB Leipzig - German Cup [provisional]
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nProvi
+ sional source-listed date and kickoff. ESPN does not reliably distinguish 
+ TV-confirmed dates from provisional fixtures\; both may change. The calend
+ ar updates when the schedule changes.\n\nViewing window: 2 hours\; finish 
+ is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/40
+ 1932936
+LOCATION:BayArena
+URL:https://www.espn.com/soccer/match/_/gameId/401932936
+CATEGORIES:Soccer,Followed team,German Cup
+STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -7906,6 +8202,28 @@ STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:soccer-401884716@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART:20261205T143000Z
+DTEND:20261205T163000Z
+SUMMARY:Bayer Leverkusen vs Borussia Mönchengladbach - German Bundesliga [
+ provisional]
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nProvi
+ sional source-listed date and kickoff. ESPN does not reliably distinguish 
+ TV-confirmed dates from provisional fixtures\; both may change. The calend
+ ar updates when the schedule changes.\n\nViewing window: 2 hours\; finish 
+ is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/40
+ 1884716
+LOCATION:BayArena
+URL:https://www.espn.com/soccer/match/_/gameId/401884716
+CATEGORIES:Soccer,Followed team,German Bundesliga
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:college-football-401858318@football-watchlist
 DTSTAMP:20260905T145457Z
 CREATED:20260905T144637Z
@@ -8221,6 +8539,27 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:soccer-401915492@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART:20261210T200000Z
+DTEND:20261210T220000Z
+SUMMARY:Bayer Leverkusen vs Besiktas - UEFA Europa League [provisional]
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nProvi
+ sional source-listed date and kickoff. ESPN does not reliably distinguish 
+ TV-confirmed dates from provisional fixtures\; both may change. The calend
+ ar updates when the schedule changes.\n\nViewing window: 2 hours\; finish 
+ is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/40
+ 1915492
+LOCATION:BayArena
+URL:https://www.espn.com/soccer/match/_/gameId/401915492
+CATEGORIES:Soccer,Followed team,UEFA Europa League
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nfl-401873109@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T144637Z
@@ -8482,6 +8821,27 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:soccer-401884702@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART:20261213T183000Z
+DTEND:20261213T203000Z
+SUMMARY:Werder Bremen vs Bayer Leverkusen - German Bundesliga [provisional]
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nProvi
+ sional source-listed date and kickoff. ESPN does not reliably distinguish 
+ TV-confirmed dates from provisional fixtures\; both may change. The calend
+ ar updates when the schedule changes.\n\nViewing window: 2 hours\; finish 
+ is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/40
+ 1884702
+LOCATION:Weserstadion
+URL:https://www.espn.com/soccer/match/_/gameId/401884702
+CATEGORIES:Soccer,Followed team,German Bundesliga
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nfl-401873122@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T144637Z
@@ -8659,6 +9019,28 @@ LOCATION:Ball Arena
 URL:https://www.nhl.com/gamecenter/car-vs-col/2026/12/18/2026020565
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
 STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401884698@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART:20261219T143000Z
+DTEND:20261219T163000Z
+SUMMARY:Bayer Leverkusen vs Eintracht Frankfurt - German Bundesliga [provis
+ ional]
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nProvi
+ sional source-listed date and kickoff. ESPN does not reliably distinguish 
+ TV-confirmed dates from provisional fixtures\; both may change. The calend
+ ar updates when the schedule changes.\n\nViewing window: 2 hours\; finish 
+ is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/40
+ 1884698
+LOCATION:BayArena
+URL:https://www.espn.com/soccer/match/_/gameId/401884698
+CATEGORIES:Soccer,Followed team,German Bundesliga
+STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -9722,6 +10104,27 @@ STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:soccer-401884686@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART:20270110T163000Z
+DTEND:20270110T183000Z
+SUMMARY:Hamburg SV vs Bayer Leverkusen - German Bundesliga [provisional]
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nProvi
+ sional source-listed date and kickoff. ESPN does not reliably distinguish 
+ TV-confirmed dates from provisional fixtures\; both may change. The calend
+ ar updates when the schedule changes.\n\nViewing window: 2 hours\; finish 
+ is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/40
+ 1884686
+LOCATION:Volksparkstadion
+URL:https://www.espn.com/soccer/match/_/gameId/401884686
+CATEGORIES:Soccer,Followed team,German Bundesliga
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:redzone-2027-01-10@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -9758,6 +10161,27 @@ LOCATION:TD Garden
 URL:https://www.nhl.com/gamecenter/car-vs-bos/2027/01/12/2026020728
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
 STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401884682@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART:20270113T193000Z
+DTEND:20270113T213000Z
+SUMMARY:Bayern Munich vs Bayer Leverkusen - German Bundesliga [provisional]
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nProvi
+ sional source-listed date and kickoff. ESPN does not reliably distinguish 
+ TV-confirmed dates from provisional fixtures\; both may change. The calend
+ ar updates when the schedule changes.\n\nViewing window: 2 hours\; finish 
+ is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/40
+ 1884682
+LOCATION:Allianz Arena
+URL:https://www.espn.com/soccer/match/_/gameId/401884682
+CATEGORIES:Soccer,Followed team,German Bundesliga
+STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -10058,6 +10482,27 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:soccer-401884670@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART:20270117T163000Z
+DTEND:20270117T183000Z
+SUMMARY:Bayer Leverkusen vs Schalke 04 - German Bundesliga [provisional]
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nProvi
+ sional source-listed date and kickoff. ESPN does not reliably distinguish 
+ TV-confirmed dates from provisional fixtures\; both may change. The calend
+ ar updates when the schedule changes.\n\nViewing window: 2 hours\; finish 
+ is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/40
+ 1884670
+LOCATION:BayArena
+URL:https://www.espn.com/soccer/match/_/gameId/401884670
+CATEGORIES:Soccer,Followed team,German Bundesliga
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nhl-2026020774@football-watchlist
 DTSTAMP:20261110T205353Z
 CREATED:20261001T073711Z
@@ -10154,6 +10599,27 @@ DESCRIPTION:Following RC Lens: every competitive fixture.\n\nProvisional so
 LOCATION:Stade Bollaert-Delelis
 URL:https://www.espn.com/soccer/match/_/gameId/401915274
 CATEGORIES:Soccer,Followed team,UEFA Champions League
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401915477@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART:20270121T200000Z
+DTEND:20270121T220000Z
+SUMMARY:Bayer Leverkusen vs RB Salzburg - UEFA Europa League [provisional]
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nProvi
+ sional source-listed date and kickoff. ESPN does not reliably distinguish 
+ TV-confirmed dates from provisional fixtures\; both may change. The calend
+ ar updates when the schedule changes.\n\nViewing window: 2 hours\; finish 
+ is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/40
+ 1915477
+LOCATION:BayArena
+URL:https://www.espn.com/soccer/match/_/gameId/401915477
+CATEGORIES:Soccer,Followed team,UEFA Europa League
 STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
@@ -10358,6 +10824,27 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:soccer-401884662@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART:20270124T163000Z
+DTEND:20270124T183000Z
+SUMMARY:Bayer Leverkusen vs SV Elversberg - German Bundesliga [provisional]
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nProvi
+ sional source-listed date and kickoff. ESPN does not reliably distinguish 
+ TV-confirmed dates from provisional fixtures\; both may change. The calend
+ ar updates when the schedule changes.\n\nViewing window: 2 hours\; finish 
+ is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/40
+ 1884662
+LOCATION:BayArena
+URL:https://www.espn.com/soccer/match/_/gameId/401884662
+CATEGORIES:Soccer,Followed team,German Bundesliga
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:college-football-401874322@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -10458,6 +10945,27 @@ STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:soccer-401915459@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Lyon vs Bayer Leverkusen - UEFA Europa League [provisional]
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nProvi
+ sional source-listed date and kickoff. ESPN does not reliably distinguish 
+ TV-confirmed dates from provisional fixtures\; both may change. The calend
+ ar updates when the schedule changes.\n\nViewing window: 2 hours\; finish 
+ is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/40
+ 1915459
+LOCATION:Groupama Stadium
+URL:https://www.espn.com/soccer/match/_/gameId/401915459
+CATEGORIES:Soccer,Followed team,UEFA Europa League
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nhl-2026020851@football-watchlist
 DTSTAMP:20261001T073711Z
 CREATED:20261001T073711Z
@@ -10517,6 +11025,26 @@ LOCATION:Stamford Bridge
 URL:https://www.chelseafc.com/en/match/chelsea-vs-nottingham-forest-english
  -premier-league-2027-01-30
 CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401884649@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:1. FC Union Berlin vs Bayer Leverkusen - German Bundesliga [date/ti
+ me TBC]
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nThe d
+ ate or kickoff is unconfirmed. This transparent all-day marker will update
+  when a time is listed.\n\nSchedule: https://www.espn.com/soccer/match/_/g
+ ameId/401884649
+LOCATION:Stadion An der Alten Försterei
+URL:https://www.espn.com/soccer/match/_/gameId/401884649
+CATEGORIES:Soccer,Followed team,German Bundesliga
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -10680,6 +11208,25 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:soccer-401884644@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Bayer Leverkusen vs FC Augsburg - German Bundesliga [date/time TBC]
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nThe d
+ ate or kickoff is unconfirmed. This transparent all-day marker will update
+  when a time is listed.\n\nSchedule: https://www.espn.com/soccer/match/_/g
+ ameId/401884644
+LOCATION:BayArena
+URL:https://www.espn.com/soccer/match/_/gameId/401884644
+CATEGORIES:Soccer,Followed team,German Bundesliga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:soccer-401875037@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -10799,6 +11346,25 @@ DESCRIPTION:Following RC Lens: every competitive fixture.\n\nThe date or ki
 LOCATION:Groupama Stadium
 URL:https://www.espn.com/soccer/match/_/gameId/401876317
 CATEGORIES:Soccer,Followed team,French Ligue 1
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401884636@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:RB Leipzig vs Bayer Leverkusen - German Bundesliga [date/time TBC]
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nThe d
+ ate or kickoff is unconfirmed. This transparent all-day marker will update
+  when a time is listed.\n\nSchedule: https://www.espn.com/soccer/match/_/g
+ ameId/401884636
+LOCATION:Red Bull Arena
+URL:https://www.espn.com/soccer/match/_/gameId/401884636
+CATEGORIES:Soccer,Followed team,German Bundesliga
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -10980,6 +11546,25 @@ DESCRIPTION:Following RC Lens: every competitive fixture.\n\nThe date or ki
 LOCATION:Stade Bollaert-Delelis
 URL:https://www.espn.com/soccer/match/_/gameId/401876311
 CATEGORIES:Soccer,Followed team,French Ligue 1
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401884626@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Bayer Leverkusen vs Mainz - German Bundesliga [date/time TBC]
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nThe d
+ ate or kickoff is unconfirmed. This transparent all-day marker will update
+  when a time is listed.\n\nSchedule: https://www.espn.com/soccer/match/_/g
+ ameId/401884626
+LOCATION:BayArena
+URL:https://www.espn.com/soccer/match/_/gameId/401884626
+CATEGORIES:Soccer,Followed team,German Bundesliga
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -11167,6 +11752,25 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:soccer-401884615@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:SC Freiburg vs Bayer Leverkusen - German Bundesliga [date/time TBC]
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nThe d
+ ate or kickoff is unconfirmed. This transparent all-day marker will update
+  when a time is listed.\n\nSchedule: https://www.espn.com/soccer/match/_/g
+ ameId/401884615
+LOCATION:Europa-Park Stadion
+URL:https://www.espn.com/soccer/match/_/gameId/401884615
+CATEGORIES:Soccer,Followed team,German Bundesliga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:soccer-401875077@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -11310,6 +11914,26 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:soccer-401884609@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:Bayer Leverkusen vs TSG Hoffenheim - German Bundesliga [date/time T
+ BC]
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nThe d
+ ate or kickoff is unconfirmed. This transparent all-day marker will update
+  when a time is listed.\n\nSchedule: https://www.espn.com/soccer/match/_/g
+ ameId/401884609
+LOCATION:BayArena
+URL:https://www.espn.com/soccer/match/_/gameId/401884609
+CATEGORIES:Soccer,Followed team,German Bundesliga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:nhl-2026021050@football-watchlist
 DTSTAMP:20261001T073711Z
 CREATED:20261001T073711Z
@@ -11365,6 +11989,26 @@ DESCRIPTION:Following RC Lens: every competitive fixture.\n\nThe date or ki
 LOCATION:Stade Bollaert-Delelis
 URL:https://www.espn.com/soccer/match/_/gameId/401876293
 CATEGORIES:Soccer,Followed team,French Ligue 1
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401884599@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:VfB Stuttgart vs Bayer Leverkusen - German Bundesliga [date/time TB
+ C]
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nThe d
+ ate or kickoff is unconfirmed. This transparent all-day marker will update
+  when a time is listed.\n\nSchedule: https://www.espn.com/soccer/match/_/g
+ ameId/401884599
+LOCATION:MHPArena
+URL:https://www.espn.com/soccer/match/_/gameId/401884599
+CATEGORIES:Soccer,Followed team,German Bundesliga
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -11567,6 +12211,25 @@ DESCRIPTION:Following RC Lens: every competitive fixture.\n\nThe date or ki
 LOCATION:Stade Océane
 URL:https://www.espn.com/soccer/match/_/gameId/401876284
 CATEGORIES:Soccer,Followed team,French Ligue 1
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401884591@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Bayer Leverkusen vs FC Cologne - German Bundesliga [date/time TBC]
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nThe d
+ ate or kickoff is unconfirmed. This transparent all-day marker will update
+  when a time is listed.\n\nSchedule: https://www.espn.com/soccer/match/_/g
+ ameId/401884591
+LOCATION:BayArena
+URL:https://www.espn.com/soccer/match/_/gameId/401884591
+CATEGORIES:Soccer,Followed team,German Bundesliga
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -11790,6 +12453,26 @@ DESCRIPTION:Following RC Lens: every competitive fixture.\n\nThe date or ki
 LOCATION:Stade Bollaert-Delelis
 URL:https://www.espn.com/soccer/match/_/gameId/401876276
 CATEGORIES:Soccer,Followed team,French Ligue 1
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401884575@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:SC Paderborn 07 vs Bayer Leverkusen - German Bundesliga [date/time 
+ TBC]
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nThe d
+ ate or kickoff is unconfirmed. This transparent all-day marker will update
+  when a time is listed.\n\nSchedule: https://www.espn.com/soccer/match/_/g
+ ameId/401884575
+LOCATION:Home Deluxe Arena
+URL:https://www.espn.com/soccer/match/_/gameId/401884575
+CATEGORIES:Soccer,Followed team,German Bundesliga
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -12337,6 +13020,26 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:soccer-401884572@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Bayer Leverkusen vs Borussia Dortmund - German Bundesliga [date/tim
+ e TBC]
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nThe d
+ ate or kickoff is unconfirmed. This transparent all-day marker will update
+  when a time is listed.\n\nSchedule: https://www.espn.com/soccer/match/_/g
+ ameId/401884572
+LOCATION:BayArena
+URL:https://www.espn.com/soccer/match/_/gameId/401884572
+CATEGORIES:Soccer,Followed team,German Bundesliga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:nhl-2026021281@football-watchlist
 DTSTAMP:20261012T221004Z
 CREATED:20261001T073711Z
@@ -12812,6 +13515,26 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:soccer-401884561@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Borussia Mönchengladbach vs Bayer Leverkusen - German Bundesliga [
+ date/time TBC]
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nThe d
+ ate or kickoff is unconfirmed. This transparent all-day marker will update
+  when a time is listed.\n\nSchedule: https://www.espn.com/soccer/match/_/g
+ ameId/401884561
+LOCATION:BORUSSIA-PARK
+URL:https://www.espn.com/soccer/match/_/gameId/401884561
+CATEGORIES:Soccer,Followed team,German Bundesliga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:nhl-2026021331@football-watchlist
 DTSTAMP:20261015T230628Z
 CREATED:20261001T073711Z
@@ -13095,6 +13818,26 @@ DESCRIPTION:Following RC Lens: every competitive fixture.\n\nThe date or ki
 LOCATION:Stade Bollaert-Delelis
 URL:https://www.espn.com/soccer/match/_/gameId/401876246
 CATEGORIES:Soccer,Followed team,French Ligue 1
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401884554@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Bayer Leverkusen vs Werder Bremen - German Bundesliga [date/time TB
+ C]
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nThe d
+ ate or kickoff is unconfirmed. This transparent all-day marker will update
+  when a time is listed.\n\nSchedule: https://www.espn.com/soccer/match/_/g
+ ameId/401884554
+LOCATION:BayArena
+URL:https://www.espn.com/soccer/match/_/gameId/401884554
+CATEGORIES:Soccer,Followed team,German Bundesliga
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -13413,6 +14156,26 @@ DESCRIPTION:Following RC Lens: every competitive fixture.\n\nThe date or ki
 LOCATION:Stade Jean Bouin
 URL:https://www.espn.com/soccer/match/_/gameId/401876235
 CATEGORIES:Soccer,Followed team,French Ligue 1
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401884544@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Eintracht Frankfurt vs Bayer Leverkusen - German Bundesliga [date/t
+ ime TBC]
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nThe d
+ ate or kickoff is unconfirmed. This transparent all-day marker will update
+  when a time is listed.\n\nSchedule: https://www.espn.com/soccer/match/_/g
+ ameId/401884544
+LOCATION:Deutsche Bank Park
+URL:https://www.espn.com/soccer/match/_/gameId/401884544
+CATEGORIES:Soccer,Followed team,German Bundesliga
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -13978,6 +14741,25 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:soccer-401884536@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Bayer Leverkusen vs Hamburg SV - German Bundesliga [date/time TBC]
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nThe d
+ ate or kickoff is unconfirmed. This transparent all-day marker will update
+  when a time is listed.\n\nSchedule: https://www.espn.com/soccer/match/_/g
+ ameId/401884536
+LOCATION:BayArena
+URL:https://www.espn.com/soccer/match/_/gameId/401884536
+CATEGORIES:Soccer,Followed team,German Bundesliga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-853059@football-watchlist
 DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
@@ -14219,6 +15001,26 @@ DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852398
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401884526@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Bayer Leverkusen vs Bayern Munich - German Bundesliga [date/time TB
+ C]
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nThe d
+ ate or kickoff is unconfirmed. This transparent all-day marker will update
+  when a time is listed.\n\nSchedule: https://www.espn.com/soccer/match/_/g
+ ameId/401884526
+LOCATION:BayArena
+URL:https://www.espn.com/soccer/match/_/gameId/401884526
+CATEGORIES:Soccer,Followed team,German Bundesliga
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -14497,6 +15299,27 @@ URL:https://www.espn.com/soccer/match/_/gameId/401876202
 CATEGORIES:Soccer,Followed team,French Ligue 1
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401884493@football-watchlist
+DTSTAMP:20261114T124535Z
+CREATED:20261114T124535Z
+LAST-MODIFIED:20261114T124535Z
+SEQUENCE:0
+DTSTART:20270522T133000Z
+DTEND:20270522T153000Z
+SUMMARY:Schalke 04 vs Bayer Leverkusen - German Bundesliga [provisional]
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nProvi
+ sional source-listed date and kickoff. ESPN does not reliably distinguish 
+ TV-confirmed dates from provisional fixtures\; both may change. The calend
+ ar updates when the schedule changes.\n\nViewing window: 2 hours\; finish 
+ is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/40
+ 1884493
+LOCATION:Veltins Arena
+URL:https://www.espn.com/soccer/match/_/gameId/401884493
+CATEGORIES:Soccer,Followed team,German Bundesliga
+STATUS:TENTATIVE
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853127@football-watchlist

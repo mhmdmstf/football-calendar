@@ -33,12 +33,12 @@ WHAT IS INCLUDED
   appear across the published season; cup matches are added as draws
   assign Chelsea a fixture. Friendlies are excluded. League viewing windows are
   two hours and cup windows two and a half hours, both estimated.
-- Every Como and RC Lens men's competitive match, including assigned cup and
-  European fixtures. Shared games appear once. Friendlies are excluded.
+- Every Como, RC Lens and Bayer Leverkusen men's competitive match, including
+  assigned cup and European fixtures. Shared games appear once. Friendlies are excluded.
 - A European watchlist for the current and following week: up to six domestic
   matches across the Premier League, Serie A, La Liga, Bundesliga and Ligue 1,
   with at most two per league, plus up to four Champions League matches per week.
-  Chelsea, Como and Lens games are additional and are never duplicated.
+  Chelsea, Como, Lens and Leverkusen games are additional and are never duplicated.
 
 HOW IT UPDATES
 GitHub runs the updater four times a day. Your calendar app decides how quickly
@@ -86,10 +86,10 @@ has an assigned match. A source problem preserves Chelsea's previous entries
 while other sports can refresh, with the last successful Chelsea check and any
 warning recorded in status.json.
 
-Como, Lens and the European watchlist use ESPN's public soccer schedules and
-standings. Club results and upcoming fixtures are checked together against a
-complete league schedule (38 Como games and 34 Lens games). Daily scoreboards
-cover the two-week watchlist window. Choices favor strong table positions,
+Como, Lens, Leverkusen and the European watchlist use ESPN's public soccer
+schedules and standings. Club results and upcoming fixtures are checked against
+a complete league schedule (38 Como games, 34 Lens and 34 Leverkusen games).
+Daily scoreboards cover the two-week watchlist window. Choices favor strong table positions,
 major rivalries, strong club matchups and later Champions League rounds. Each
 pick explains its selection. Existing picks are kept to avoid constant churn
 and count against their week's limits, including games already played.
@@ -127,8 +127,8 @@ The hockey section stores NHL team abbreviations (CAR and SJS), preseason
 preference and hockey-only game overrides. It can be disabled independently.
 The chelsea section controls Chelsea's inclusion, friendlies and excluded match
 IDs. It can be disabled independently without changing the subscription URL.
-The soccer section stores Como (2572) and Lens (175), the eligible leagues,
-weekly watchlist limits and excluded match IDs. Chelsea stays in its official
+The soccer section stores Como (2572), Lens (175) and Leverkusen (131), eligible
+leagues, weekly watchlist limits and excluded match IDs. Chelsea stays in its official
 source module; its matches are excluded from the separate European selection.
 
 MAINTENANCE
@@ -142,6 +142,7 @@ PRIMARY SCHEDULE REFERENCES
 https://www.chelseafc.com/en/matches/mens-fixtures-and-results
 https://www.espn.com/soccer/team/fixtures/_/id/2572/como
 https://www.espn.com/soccer/team/fixtures/_/id/175/lens
+https://www.espn.com/soccer/team/fixtures/_/id/131/bayer-leverkusen
 https://www.uefa.com/uefachampionsleague/fixtures-results/
 https://www.nhl.com/hurricanes/schedule
 https://www.nhl.com/sharks/schedule

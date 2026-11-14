@@ -88,6 +88,40 @@
       "sequence": 0
     },
     {
+      "uid": "soccer-401915587@football-watchlist",
+      "gameId": "401915587",
+      "soccerSeason": 2026,
+      "soccerLeague": "uefa.europa",
+      "soccerTeamIds": [
+        "131",
+        "3362"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2026-09-14",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "Bayer Leverkusen vs NK Celje - UEFA Europa League",
+      "start": "2026-09-16T19:00:00.000Z",
+      "end": "2026-09-16T21:00:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915587",
+      "location": "BayArena",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401915587",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "UEFA Europa League"
+      ],
+      "hash": "35168df9ff58f1f7f07f030a46165f55aa390a11c9751be4e6d8c4eae2dd9d50",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
+      "sequence": 0
+    },
+    {
       "uid": "mlb-822926@football-watchlist",
       "gameId": "822926",
       "mlbSeason": 2026,
@@ -657,6 +691,40 @@
       "hash": "3ee364b33756d6bd7ca493048e2f3e915f8d65002bb041f9dd4a124e74a3a693",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
+      "sequence": 0
+    },
+    {
+      "uid": "soccer-401884788@football-watchlist",
+      "gameId": "401884788",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.1",
+      "soccerTeamIds": [
+        "131",
+        "11420"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2026-09-14",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "Bayer Leverkusen vs RB Leipzig - German Bundesliga",
+      "start": "2026-09-20T13:30:00.000Z",
+      "end": "2026-09-20T15:30:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884788",
+      "location": "BayArena",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884788",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "German Bundesliga"
+      ],
+      "hash": "4e2d2f521b04dca0ea2dc3b3a8cbc27bec349ba59ae4c442b98f2f0d6a371b97",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
       "sequence": 0
     },
     {
@@ -3368,6 +3436,40 @@
       "sequence": 0
     },
     {
+      "uid": "soccer-401884776@football-watchlist",
+      "gameId": "401884776",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.1",
+      "soccerTeamIds": [
+        "2950",
+        "131"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2026-10-05",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "Mainz vs Bayer Leverkusen - German Bundesliga",
+      "start": "2026-10-10T13:30:00.000Z",
+      "end": "2026-10-10T15:30:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884776",
+      "location": "MEWA ARENA",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884776",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "German Bundesliga"
+      ],
+      "hash": "bf5b64673d3a1fdd41743c2c7d34f5c5d2f7b6cecd47b44e63fcc970204456db",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
+      "sequence": 0
+    },
+    {
       "uid": "chelsea-2645247@football-watchlist",
       "gameId": "2645247",
       "chelseaSeason": 2026,
@@ -4112,6 +4214,40 @@
       "sequence": 5
     },
     {
+      "uid": "soccer-401915576@football-watchlist",
+      "gameId": "401915576",
+      "soccerSeason": 2026,
+      "soccerLeague": "uefa.europa",
+      "soccerTeamIds": [
+        "2990",
+        "131"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2026-10-12",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "Lech Poznan vs Bayer Leverkusen - UEFA Europa League",
+      "start": "2026-10-15T16:45:00.000Z",
+      "end": "2026-10-15T18:45:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915576",
+      "location": "Municipal Stadium-Poznan",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401915576",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "UEFA Europa League"
+      ],
+      "hash": "c8b1b0d16812db92e9752202a5be5b156e5e382f505119802ad7085c67352251",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
+      "sequence": 0
+    },
+    {
       "uid": "mlb-849818@football-watchlist",
       "gameId": "849818",
       "mlbSeason": 2026,
@@ -4647,6 +4783,40 @@
       "sequence": 2
     },
     {
+      "uid": "soccer-401884771@football-watchlist",
+      "gameId": "401884771",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.1",
+      "soccerTeamIds": [
+        "131",
+        "126"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2026-10-12",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "Bayer Leverkusen vs SC Freiburg - German Bundesliga",
+      "start": "2026-10-18T13:30:00.000Z",
+      "end": "2026-10-18T15:30:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884771",
+      "location": "BayArena",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884771",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "German Bundesliga"
+      ],
+      "hash": "00617c14b0d32dc3227762b78bdf4b823cef1e5c75c4c5b409b9dbfe3f54ac03",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
+      "sequence": 0
+    },
+    {
       "uid": "redzone-2026-10-18@football-watchlist",
       "title": "NFL RedZone",
       "start": "2026-10-18T17:00:00.000Z",
@@ -5055,6 +5225,40 @@
       "hash": "dc37a19397a16c254fbc6f1be295e3810a830fd01056deb2c60168697e27d49d",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
+      "sequence": 0
+    },
+    {
+      "uid": "soccer-401915559@football-watchlist",
+      "gameId": "401915559",
+      "soccerSeason": 2026,
+      "soccerLeague": "uefa.europa",
+      "soccerTeamIds": [
+        "1010",
+        "131"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2026-10-19",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "OFI Crete vs Bayer Leverkusen - UEFA Europa League",
+      "start": "2026-10-22T16:45:00.000Z",
+      "end": "2026-10-22T18:45:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915559",
+      "location": "Pankritio Stadium",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401915559",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "UEFA Europa League"
+      ],
+      "hash": "70cbed42646a54cbe4790f43d7a3b9dbdf293352c3f8396092872bd39a65338a",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
       "sequence": 0
     },
     {
@@ -5559,6 +5763,40 @@
       "sequence": 2
     },
     {
+      "uid": "soccer-401884760@football-watchlist",
+      "gameId": "401884760",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.1",
+      "soccerTeamIds": [
+        "7911",
+        "131"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2026-10-19",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "TSG Hoffenheim vs Bayer Leverkusen - German Bundesliga",
+      "start": "2026-10-25T14:30:00.000Z",
+      "end": "2026-10-25T16:30:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884760",
+      "location": "PreZero Arena",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884760",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "German Bundesliga"
+      ],
+      "hash": "8e5b0813138c5ba836312d423ab4e799bebf493ae94494759da99509ebcec18c",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
+      "sequence": 0
+    },
+    {
       "uid": "redzone-2026-10-25@football-watchlist",
       "title": "NFL RedZone",
       "start": "2026-10-25T17:00:00.000Z",
@@ -5808,6 +6046,40 @@
       "hash": "08bfdb1f5df38b3801f52657a2c803a07959a3d205068bc5105c9c828ab762a9",
       "created": "2026-10-01T07:37:11.478Z",
       "modified": "2026-10-01T07:37:11.478Z",
+      "sequence": 0
+    },
+    {
+      "uid": "soccer-401917033@football-watchlist",
+      "gameId": "401917033",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.dfb_pokal",
+      "soccerTeamIds": [
+        "131",
+        "269"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2026-10-26",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "Bayer Leverkusen vs 1. FC Nürnberg - German Cup",
+      "start": "2026-10-28T19:45:00.000Z",
+      "end": "2026-10-28T21:45:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401917033",
+      "location": "BayArena",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401917033",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "German Cup"
+      ],
+      "hash": "347c9c7df69c65bb03fbc030d77de1101f08d691f5ee681a01c4a08cc5e106a8",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
       "sequence": 0
     },
     {
@@ -6075,6 +6347,40 @@
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-10-26T23:56:29.378Z",
       "sequence": 1
+    },
+    {
+      "uid": "soccer-401884753@football-watchlist",
+      "gameId": "401884753",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.1",
+      "soccerTeamIds": [
+        "131",
+        "134"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2026-10-26",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "Bayer Leverkusen vs VfB Stuttgart - German Bundesliga",
+      "start": "2026-10-31T14:30:00.000Z",
+      "end": "2026-10-31T16:30:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884753",
+      "location": "BayArena",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884753",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "German Bundesliga"
+      ],
+      "hash": "30f4aa3e0f6d07762286713228a4a49d9214b5718ff1d1a4356be0a87aa39091",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
+      "sequence": 0
     },
     {
       "uid": "soccer-401879245@football-watchlist",
@@ -6830,6 +7136,40 @@
       "sequence": 0
     },
     {
+      "uid": "soccer-401915533@football-watchlist",
+      "gameId": "401915533",
+      "soccerSeason": 2026,
+      "soccerLeague": "uefa.europa",
+      "soccerTeamIds": [
+        "131",
+        "176"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2026-11-02",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "Bayer Leverkusen vs Marseille - UEFA Europa League",
+      "start": "2026-11-05T20:00:00.000Z",
+      "end": "2026-11-05T22:00:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915533",
+      "location": "BayArena",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401915533",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "UEFA Europa League"
+      ],
+      "hash": "83930e2448db65930d01caf0c552172fb5e1809ec733e291d867d2b7b666f3da",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
+      "sequence": 0
+    },
+    {
       "uid": "nhl-2026020255@football-watchlist",
       "gameId": "2026020255",
       "nhlSeason": 20262027,
@@ -7385,6 +7725,40 @@
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-05T14:54:57.145Z",
       "sequence": 2
+    },
+    {
+      "uid": "soccer-401884738@football-watchlist",
+      "gameId": "401884738",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.1",
+      "soccerTeamIds": [
+        "122",
+        "131"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2026-11-02",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "FC Cologne vs Bayer Leverkusen - German Bundesliga",
+      "start": "2026-11-08T14:30:00.000Z",
+      "end": "2026-11-08T16:30:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884738",
+      "location": "RheinEnergieStadion",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884738",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "German Bundesliga"
+      ],
+      "hash": "7ef8c034e2d870e1a6271600a33885591052088598c57237d359fb234deef656",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
+      "sequence": 0
     },
     {
       "uid": "soccer-401874808@football-watchlist",
@@ -8182,6 +8556,40 @@
       "sequence": 0
     },
     {
+      "uid": "soccer-401884735@football-watchlist",
+      "gameId": "401884735",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.1",
+      "soccerTeamIds": [
+        "131",
+        "3307"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2026-11-16",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "Bayer Leverkusen vs SC Paderborn 07 - German Bundesliga [provisional]",
+      "start": "2026-11-21T14:30:00.000Z",
+      "end": "2026-11-21T16:30:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884735",
+      "location": "BayArena",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884735",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "German Bundesliga"
+      ],
+      "hash": "fa1fa9aa0b0c7c667dd52aaaae5750c8aca1a6b4397e7d9858cb3c4ca5ce45d9",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
+      "sequence": 0
+    },
+    {
       "uid": "chelsea-2645298@football-watchlist",
       "gameId": "2645298",
       "chelseaSeason": 2026,
@@ -8893,6 +9301,40 @@
       "sequence": 1
     },
     {
+      "uid": "soccer-401915517@football-watchlist",
+      "gameId": "401915517",
+      "soccerSeason": 2026,
+      "soccerLeague": "uefa.europa",
+      "soccerTeamIds": [
+        "597",
+        "131"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2026-11-23",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "Dinamo Zagreb vs Bayer Leverkusen - UEFA Europa League [provisional]",
+      "start": "2026-11-26T17:45:00.000Z",
+      "end": "2026-11-26T19:45:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915517",
+      "location": "Maksimir Stadium",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401915517",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "UEFA Europa League"
+      ],
+      "hash": "0f977d9dd15613a14abfac058fe091f78e0fa4f90ac45f853e971ff53938143c",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
+      "sequence": 0
+    },
+    {
       "uid": "nfl-401873081@football-watchlist",
       "gameId": "401873081",
       "title": "NFL: Chicago Bears at Detroit Lions",
@@ -9499,6 +9941,40 @@
       "sequence": 0
     },
     {
+      "uid": "soccer-401884727@football-watchlist",
+      "gameId": "401884727",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.1",
+      "soccerTeamIds": [
+        "124",
+        "131"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2026-11-23",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "Borussia Dortmund vs Bayer Leverkusen - German Bundesliga [provisional]",
+      "start": "2026-11-29T18:30:00.000Z",
+      "end": "2026-11-29T20:30:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884727",
+      "location": "Signal Iduna Park",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884727",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "German Bundesliga"
+      ],
+      "hash": "39ca88f01d8d1b67b433398ebdc931492d7653ef827b97f795af978069164169",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
+      "sequence": 0
+    },
+    {
       "uid": "soccer-401874994@football-watchlist",
       "gameId": "401874994",
       "soccerSeason": 2026,
@@ -9628,6 +10104,40 @@
       "hash": "3ebeeff76e15654c30e45520b7e4f4218ae537f0b3bc112f725f0eb43abe31e4",
       "created": "2026-10-01T07:37:11.478Z",
       "modified": "2026-10-01T07:37:11.478Z",
+      "sequence": 0
+    },
+    {
+      "uid": "soccer-401932936@football-watchlist",
+      "gameId": "401932936",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.dfb_pokal",
+      "soccerTeamIds": [
+        "131",
+        "11420"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2026-11-30",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "Bayer Leverkusen vs RB Leipzig - German Cup [provisional]",
+      "start": "2026-12-02T17:00:00.000Z",
+      "end": "2026-12-02T19:00:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401932936",
+      "location": "BayArena",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401932936",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "German Cup"
+      ],
+      "hash": "1904e5781b679fbe2a781bfc200d73d23fd7d231a8c57062619e87a3a6a4d854",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
       "sequence": 0
     },
     {
@@ -10103,6 +10613,40 @@
       "sequence": 0
     },
     {
+      "uid": "soccer-401884716@football-watchlist",
+      "gameId": "401884716",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.1",
+      "soccerTeamIds": [
+        "131",
+        "268"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2026-11-30",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "Bayer Leverkusen vs Borussia Mönchengladbach - German Bundesliga [provisional]",
+      "start": "2026-12-05T14:30:00.000Z",
+      "end": "2026-12-05T16:30:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884716",
+      "location": "BayArena",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884716",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "German Bundesliga"
+      ],
+      "hash": "d7b20e5944933572cfab03a139dd187acad51339acd749d91b18d93cffa157bc",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
+      "sequence": 0
+    },
+    {
       "uid": "college-football-401858318@football-watchlist",
       "gameId": "401858318",
       "title": "CFB: TBD vs TBD",
@@ -10507,6 +11051,40 @@
       "sequence": 0
     },
     {
+      "uid": "soccer-401915492@football-watchlist",
+      "gameId": "401915492",
+      "soccerSeason": 2026,
+      "soccerLeague": "uefa.europa",
+      "soccerTeamIds": [
+        "131",
+        "1895"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2026-12-07",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "Bayer Leverkusen vs Besiktas - UEFA Europa League [provisional]",
+      "start": "2026-12-10T20:00:00.000Z",
+      "end": "2026-12-10T22:00:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915492",
+      "location": "BayArena",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401915492",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "UEFA Europa League"
+      ],
+      "hash": "589080fa07ab6244a0b321f186245b8af6da01dbb9358ce53339ec89254cfea5",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
+      "sequence": 0
+    },
+    {
       "uid": "nfl-401873109@football-watchlist",
       "gameId": "401873109",
       "title": "NFL: Minnesota Vikings at New England Patriots",
@@ -10822,6 +11400,40 @@
       "sequence": 0
     },
     {
+      "uid": "soccer-401884702@football-watchlist",
+      "gameId": "401884702",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.1",
+      "soccerTeamIds": [
+        "137",
+        "131"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2026-12-07",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "Werder Bremen vs Bayer Leverkusen - German Bundesliga [provisional]",
+      "start": "2026-12-13T18:30:00.000Z",
+      "end": "2026-12-13T20:30:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884702",
+      "location": "Weserstadion",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884702",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "German Bundesliga"
+      ],
+      "hash": "acc49d5af2b31245bac591299d8efca8ac340c11452fe0891854af8b69b1884e",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
+      "sequence": 0
+    },
+    {
       "uid": "nfl-401873122@football-watchlist",
       "gameId": "401873122",
       "title": "NFL: Buffalo Bills at Green Bay Packers",
@@ -11046,6 +11658,40 @@
       "hash": "1f90d6c4bd69ad2c31a5c2f0599b15a9f7e840329ea930120b298f37355e91bd",
       "created": "2026-10-01T07:37:11.478Z",
       "modified": "2026-10-01T07:37:11.478Z",
+      "sequence": 0
+    },
+    {
+      "uid": "soccer-401884698@football-watchlist",
+      "gameId": "401884698",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.1",
+      "soccerTeamIds": [
+        "131",
+        "125"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2026-12-14",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "Bayer Leverkusen vs Eintracht Frankfurt - German Bundesliga [provisional]",
+      "start": "2026-12-19T14:30:00.000Z",
+      "end": "2026-12-19T16:30:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884698",
+      "location": "BayArena",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884698",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "German Bundesliga"
+      ],
+      "hash": "cd5e5a22d9c8986637b6ed073af1b02add70dbad5a58a6b339157f0e4324d3fb",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
       "sequence": 0
     },
     {
@@ -12380,6 +13026,40 @@
       "sequence": 0
     },
     {
+      "uid": "soccer-401884686@football-watchlist",
+      "gameId": "401884686",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.1",
+      "soccerTeamIds": [
+        "127",
+        "131"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2027-01-04",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "Hamburg SV vs Bayer Leverkusen - German Bundesliga [provisional]",
+      "start": "2027-01-10T16:30:00.000Z",
+      "end": "2027-01-10T18:30:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884686",
+      "location": "Volksparkstadion",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884686",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "German Bundesliga"
+      ],
+      "hash": "f30368e46f9d737cbce0a6bca86098aefb54a8d2262b835d17568a7dc6c1b4fc",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
+      "sequence": 0
+    },
+    {
       "uid": "redzone-2027-01-10@football-watchlist",
       "title": "NFL RedZone",
       "start": "2027-01-10T18:00:00.000Z",
@@ -12426,6 +13106,40 @@
       "hash": "5ca5fb3f66f45a74b3f7c4e75fa274d7ab1d3a0ba9a5ff260ff2357bbd3f8f38",
       "created": "2026-10-01T07:37:11.478Z",
       "modified": "2026-10-01T07:37:11.478Z",
+      "sequence": 0
+    },
+    {
+      "uid": "soccer-401884682@football-watchlist",
+      "gameId": "401884682",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.1",
+      "soccerTeamIds": [
+        "132",
+        "131"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2027-01-11",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "Bayern Munich vs Bayer Leverkusen - German Bundesliga [provisional]",
+      "start": "2027-01-13T19:30:00.000Z",
+      "end": "2027-01-13T21:30:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884682",
+      "location": "Allianz Arena",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884682",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "German Bundesliga"
+      ],
+      "hash": "9961d63efa184b517ff57253f8fe94190321f8b2d92e499e716da41710e1c022",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
       "sequence": 0
     },
     {
@@ -12811,6 +13525,40 @@
       "sequence": 0
     },
     {
+      "uid": "soccer-401884670@football-watchlist",
+      "gameId": "401884670",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.1",
+      "soccerTeamIds": [
+        "131",
+        "133"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2027-01-11",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "Bayer Leverkusen vs Schalke 04 - German Bundesliga [provisional]",
+      "start": "2027-01-17T16:30:00.000Z",
+      "end": "2027-01-17T18:30:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884670",
+      "location": "BayArena",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884670",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "German Bundesliga"
+      ],
+      "hash": "010ae703943a6f8fcf0154ac9db219dc6fa39535dd8457e772005efb1cd77482",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
+      "sequence": 0
+    },
+    {
       "uid": "nhl-2026020774@football-watchlist",
       "gameId": "2026020774",
       "nhlSeason": 20262027,
@@ -12956,6 +13704,40 @@
       "hash": "a380098c4a62fc8f2cb4d5c53a74b225d2a33a40fd60c87a18e75da00b453c5b",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
+      "sequence": 0
+    },
+    {
+      "uid": "soccer-401915477@football-watchlist",
+      "gameId": "401915477",
+      "soccerSeason": 2026,
+      "soccerLeague": "uefa.europa",
+      "soccerTeamIds": [
+        "131",
+        "2790"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2027-01-18",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "Bayer Leverkusen vs RB Salzburg - UEFA Europa League [provisional]",
+      "start": "2027-01-21T20:00:00.000Z",
+      "end": "2027-01-21T22:00:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915477",
+      "location": "BayArena",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401915477",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "UEFA Europa League"
+      ],
+      "hash": "5c9b7ad2fd50f23d92d916fd0e8099ddc83081beb74b804d7b7fc3285b028977",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
       "sequence": 0
     },
     {
@@ -13221,6 +14003,40 @@
       "sequence": 0
     },
     {
+      "uid": "soccer-401884662@football-watchlist",
+      "gameId": "401884662",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.1",
+      "soccerTeamIds": [
+        "131",
+        "10388"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2027-01-18",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "Bayer Leverkusen vs SV Elversberg - German Bundesliga [provisional]",
+      "start": "2027-01-24T16:30:00.000Z",
+      "end": "2027-01-24T18:30:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884662",
+      "location": "BayArena",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884662",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "German Bundesliga"
+      ],
+      "hash": "e7ae35a7ac3f7f2c8e3f8fd29b3bcce971e7b15c4846804a92e08c56ec874e55",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
+      "sequence": 0
+    },
+    {
       "uid": "college-football-401874322@football-watchlist",
       "gameId": "401874322",
       "title": "CFP National Championship - teams TBA",
@@ -13369,6 +14185,40 @@
       "sequence": 0
     },
     {
+      "uid": "soccer-401915459@football-watchlist",
+      "gameId": "401915459",
+      "soccerSeason": 2026,
+      "soccerLeague": "uefa.europa",
+      "soccerTeamIds": [
+        "167",
+        "131"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2027-01-25",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "Lyon vs Bayer Leverkusen - UEFA Europa League [provisional]",
+      "start": "2027-01-28T20:00:00.000Z",
+      "end": "2027-01-28T22:00:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915459",
+      "location": "Groupama Stadium",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401915459",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "UEFA Europa League"
+      ],
+      "hash": "1a9c5cf7c6f66e0085e6f69efb4b894ec542efa3d19c568546ba55935b78eb0b",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
+      "sequence": 0
+    },
+    {
       "uid": "nhl-2026020851@football-watchlist",
       "gameId": "2026020851",
       "nhlSeason": 20262027,
@@ -13451,6 +14301,40 @@
       "created": "2026-10-03T13:22:58.480Z",
       "modified": "2026-10-03T13:23:45.745Z",
       "sequence": 1
+    },
+    {
+      "uid": "soccer-401884649@football-watchlist",
+      "gameId": "401884649",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.1",
+      "soccerTeamIds": [
+        "598",
+        "131"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2027-01-25",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "1. FC Union Berlin vs Bayer Leverkusen - German Bundesliga [date/time TBC]",
+      "start": "2027-01-30",
+      "end": "2027-01-31",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nThe date or kickoff is unconfirmed. This transparent all-day marker will update when a time is listed.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884649",
+      "location": "Stadion An der Alten Försterei",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884649",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "German Bundesliga"
+      ],
+      "hash": "21aa337ba8bc2d2cab4226732b21070f53d8e71b11db633eb1a48b45a81ba086",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
+      "sequence": 0
     },
     {
       "uid": "soccer-401876332@football-watchlist",
@@ -13679,6 +14563,40 @@
       "sequence": 0
     },
     {
+      "uid": "soccer-401884644@football-watchlist",
+      "gameId": "401884644",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.1",
+      "soccerTeamIds": [
+        "131",
+        "3841"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2027-02-01",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "Bayer Leverkusen vs FC Augsburg - German Bundesliga [date/time TBC]",
+      "start": "2027-02-06",
+      "end": "2027-02-07",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nThe date or kickoff is unconfirmed. This transparent all-day marker will update when a time is listed.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884644",
+      "location": "BayArena",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884644",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "German Bundesliga"
+      ],
+      "hash": "6b6d59b6e8ba926027c51a65350477aed7ac627ded8f570d77cca01f73913478",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
+      "sequence": 0
+    },
+    {
       "uid": "soccer-401875037@football-watchlist",
       "gameId": "401875037",
       "soccerSeason": 2026,
@@ -13858,6 +14776,40 @@
       "hash": "a2a2d7ea59dc21edc0af1ad616bcbb0c581e135aead977ea296f4942f31f9c7a",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
+      "sequence": 0
+    },
+    {
+      "uid": "soccer-401884636@football-watchlist",
+      "gameId": "401884636",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.1",
+      "soccerTeamIds": [
+        "11420",
+        "131"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2027-02-08",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "RB Leipzig vs Bayer Leverkusen - German Bundesliga [date/time TBC]",
+      "start": "2027-02-13",
+      "end": "2027-02-14",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nThe date or kickoff is unconfirmed. This transparent all-day marker will update when a time is listed.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884636",
+      "location": "Red Bull Arena",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884636",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "German Bundesliga"
+      ],
+      "hash": "97836b8df08dc0293b0329f8f14275f5c7393e4be3da534c8373173f35a4dc83",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
       "sequence": 0
     },
     {
@@ -14120,6 +15072,40 @@
       "hash": "c090f91784d24f703cc064aaebd23a3bef772b8edc990adfefb7b873286d86fe",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
+      "sequence": 0
+    },
+    {
+      "uid": "soccer-401884626@football-watchlist",
+      "gameId": "401884626",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.1",
+      "soccerTeamIds": [
+        "131",
+        "2950"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2027-02-15",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "Bayer Leverkusen vs Mainz - German Bundesliga [date/time TBC]",
+      "start": "2027-02-20",
+      "end": "2027-02-21",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nThe date or kickoff is unconfirmed. This transparent all-day marker will update when a time is listed.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884626",
+      "location": "BayArena",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884626",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "German Bundesliga"
+      ],
+      "hash": "0cdcf4c6a37b3097744628d1698aef7f67082608c06ceda66388489dafc2d117",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
       "sequence": 0
     },
     {
@@ -14392,6 +15378,40 @@
       "sequence": 1
     },
     {
+      "uid": "soccer-401884615@football-watchlist",
+      "gameId": "401884615",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.1",
+      "soccerTeamIds": [
+        "126",
+        "131"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2027-02-22",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "SC Freiburg vs Bayer Leverkusen - German Bundesliga [date/time TBC]",
+      "start": "2027-02-27",
+      "end": "2027-02-28",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nThe date or kickoff is unconfirmed. This transparent all-day marker will update when a time is listed.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884615",
+      "location": "Europa-Park Stadion",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884615",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "German Bundesliga"
+      ],
+      "hash": "09efc315d7095fdb038d58139407c00f1be8454b514849eb6130f6e6304daba2",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
+      "sequence": 0
+    },
+    {
       "uid": "soccer-401875077@football-watchlist",
       "gameId": "401875077",
       "soccerSeason": 2026,
@@ -14604,6 +15624,40 @@
       "sequence": 1
     },
     {
+      "uid": "soccer-401884609@football-watchlist",
+      "gameId": "401884609",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.1",
+      "soccerTeamIds": [
+        "131",
+        "7911"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2027-03-01",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "Bayer Leverkusen vs TSG Hoffenheim - German Bundesliga [date/time TBC]",
+      "start": "2027-03-03",
+      "end": "2027-03-04",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nThe date or kickoff is unconfirmed. This transparent all-day marker will update when a time is listed.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884609",
+      "location": "BayArena",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884609",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "German Bundesliga"
+      ],
+      "hash": "ee740aa4b327b2a89509ed2ab280c8fcbe91a22c66b6f27b204ee20c841818ac",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
+      "sequence": 0
+    },
+    {
       "uid": "nhl-2026021050@football-watchlist",
       "gameId": "2026021050",
       "nhlSeason": 20262027,
@@ -14695,6 +15749,40 @@
       "hash": "9ea61671866ec0340a04d05597540a60c858096bbc0fdd0c846e884ac0faf14b",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
+      "sequence": 0
+    },
+    {
+      "uid": "soccer-401884599@football-watchlist",
+      "gameId": "401884599",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.1",
+      "soccerTeamIds": [
+        "134",
+        "131"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2027-03-01",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "VfB Stuttgart vs Bayer Leverkusen - German Bundesliga [date/time TBC]",
+      "start": "2027-03-06",
+      "end": "2027-03-07",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nThe date or kickoff is unconfirmed. This transparent all-day marker will update when a time is listed.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884599",
+      "location": "MHPArena",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884599",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "German Bundesliga"
+      ],
+      "hash": "0966c01ad25cc2d86aff431e2e0bf447c32f93be0e551db4a7fc7d7d154265c0",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
       "sequence": 0
     },
     {
@@ -14997,6 +16085,40 @@
       "hash": "92e64f303e118b948a89777062a2fe6549b2fb0222702c75a8bb42739c8928bb",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
+      "sequence": 0
+    },
+    {
+      "uid": "soccer-401884591@football-watchlist",
+      "gameId": "401884591",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.1",
+      "soccerTeamIds": [
+        "131",
+        "122"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2027-03-08",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "Bayer Leverkusen vs FC Cologne - German Bundesliga [date/time TBC]",
+      "start": "2027-03-13",
+      "end": "2027-03-14",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nThe date or kickoff is unconfirmed. This transparent all-day marker will update when a time is listed.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884591",
+      "location": "BayArena",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884591",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "German Bundesliga"
+      ],
+      "hash": "76c5d1c6a8b880e94e9419cbc5fd3924e5d9cd1e21bab4f7d98be2c9ab5204d8",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
       "sequence": 0
     },
     {
@@ -15329,6 +16451,40 @@
       "hash": "a243d19a025720096eb1070d810b2530a7bd446dd049c56ffcae4d9da1e6c305",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
+      "sequence": 0
+    },
+    {
+      "uid": "soccer-401884575@football-watchlist",
+      "gameId": "401884575",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.1",
+      "soccerTeamIds": [
+        "3307",
+        "131"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2027-03-15",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "SC Paderborn 07 vs Bayer Leverkusen - German Bundesliga [date/time TBC]",
+      "start": "2027-03-20",
+      "end": "2027-03-21",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nThe date or kickoff is unconfirmed. This transparent all-day marker will update when a time is listed.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884575",
+      "location": "Home Deluxe Arena",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884575",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "German Bundesliga"
+      ],
+      "hash": "b33b2eba58487be00aef63f0c8090315c64b6a1c75f5bf522f7457aa47a32686",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
       "sequence": 0
     },
     {
@@ -16223,6 +17379,40 @@
       "sequence": 0
     },
     {
+      "uid": "soccer-401884572@football-watchlist",
+      "gameId": "401884572",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.1",
+      "soccerTeamIds": [
+        "131",
+        "124"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2027-03-29",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "Bayer Leverkusen vs Borussia Dortmund - German Bundesliga [date/time TBC]",
+      "start": "2027-04-03",
+      "end": "2027-04-04",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nThe date or kickoff is unconfirmed. This transparent all-day marker will update when a time is listed.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884572",
+      "location": "BayArena",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884572",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "German Bundesliga"
+      ],
+      "hash": "5b8e8706ad08b43c0db4a7b445d925af4348779a7f43ec5e9985e93504782a2d",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
+      "sequence": 0
+    },
+    {
       "uid": "nhl-2026021281@football-watchlist",
       "gameId": "2026021281",
       "nhlSeason": 20262027,
@@ -17023,6 +18213,40 @@
       "sequence": 0
     },
     {
+      "uid": "soccer-401884561@football-watchlist",
+      "gameId": "401884561",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.1",
+      "soccerTeamIds": [
+        "268",
+        "131"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2027-04-05",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "Borussia Mönchengladbach vs Bayer Leverkusen - German Bundesliga [date/time TBC]",
+      "start": "2027-04-10",
+      "end": "2027-04-11",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nThe date or kickoff is unconfirmed. This transparent all-day marker will update when a time is listed.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884561",
+      "location": "BORUSSIA-PARK",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884561",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "German Bundesliga"
+      ],
+      "hash": "36d0b384a6875d220b1878177139a1f7970344c3396d70c4c7e6f74f75bbdf49",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
+      "sequence": 0
+    },
+    {
       "uid": "nhl-2026021331@football-watchlist",
       "gameId": "2026021331",
       "nhlSeason": 20262027,
@@ -17502,6 +18726,40 @@
       "hash": "154d0db23bd6fd7006a5f843b2bc6e8ef2e5e2aee086b9632c29be639deb2e89",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
+      "sequence": 0
+    },
+    {
+      "uid": "soccer-401884554@football-watchlist",
+      "gameId": "401884554",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.1",
+      "soccerTeamIds": [
+        "131",
+        "137"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2027-04-12",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "Bayer Leverkusen vs Werder Bremen - German Bundesliga [date/time TBC]",
+      "start": "2027-04-17",
+      "end": "2027-04-18",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nThe date or kickoff is unconfirmed. This transparent all-day marker will update when a time is listed.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884554",
+      "location": "BayArena",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884554",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "German Bundesliga"
+      ],
+      "hash": "3411146cf90645b6d84ee78762ec1832fe0021511276ea316514d8fa3882c940",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
       "sequence": 0
     },
     {
@@ -18056,6 +19314,40 @@
       "hash": "805648b978a2fed86c818c5ee1b251caa984e59417aa34fce301c7f7a466106c",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
+      "sequence": 0
+    },
+    {
+      "uid": "soccer-401884544@football-watchlist",
+      "gameId": "401884544",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.1",
+      "soccerTeamIds": [
+        "125",
+        "131"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2027-04-19",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "Eintracht Frankfurt vs Bayer Leverkusen - German Bundesliga [date/time TBC]",
+      "start": "2027-04-24",
+      "end": "2027-04-25",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nThe date or kickoff is unconfirmed. This transparent all-day marker will update when a time is listed.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884544",
+      "location": "Deutsche Bank Park",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884544",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "German Bundesliga"
+      ],
+      "hash": "52ec34bd759847fb044d3a7702b51a25ce1fd0bb348009c02508d027aef0ec00",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
       "sequence": 0
     },
     {
@@ -19036,6 +20328,40 @@
       "sequence": 0
     },
     {
+      "uid": "soccer-401884536@football-watchlist",
+      "gameId": "401884536",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.1",
+      "soccerTeamIds": [
+        "131",
+        "127"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2027-05-03",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "Bayer Leverkusen vs Hamburg SV - German Bundesliga [date/time TBC]",
+      "start": "2027-05-08",
+      "end": "2027-05-09",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nThe date or kickoff is unconfirmed. This transparent all-day marker will update when a time is listed.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884536",
+      "location": "BayArena",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884536",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "German Bundesliga"
+      ],
+      "hash": "795f1f0675bb8b1f776e44c697ca29378e0e725dbbeabfec68350cc0f49d0ca1",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
+      "sequence": 0
+    },
+    {
       "uid": "mlb-853059@football-watchlist",
       "gameId": "853059",
       "mlbSeason": 2027,
@@ -19456,6 +20782,40 @@
       "hash": "3df06a210eea5033c09ea798d0a36e1954cf6600e6272c2837b14bd83768ba2c",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
+      "sequence": 0
+    },
+    {
+      "uid": "soccer-401884526@football-watchlist",
+      "gameId": "401884526",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.1",
+      "soccerTeamIds": [
+        "131",
+        "132"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2027-05-10",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "Bayer Leverkusen vs Bayern Munich - German Bundesliga [date/time TBC]",
+      "start": "2027-05-15",
+      "end": "2027-05-16",
+      "allDay": true,
+      "status": "TENTATIVE",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nThe date or kickoff is unconfirmed. This transparent all-day marker will update when a time is listed.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884526",
+      "location": "BayArena",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884526",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "German Bundesliga"
+      ],
+      "hash": "ddf3728a659ce2056b41fe4a933e54cada6dbfa1928adc23e081fe6e81915fc3",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
       "sequence": 0
     },
     {
@@ -19957,6 +21317,40 @@
       "hash": "a8e8482fa2c7d0b1ddb3b4c619466250a952ea2431f4fe32bf646b9ae85340d0",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
+      "sequence": 0
+    },
+    {
+      "uid": "soccer-401884493@football-watchlist",
+      "gameId": "401884493",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.1",
+      "soccerTeamIds": [
+        "133",
+        "131"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "followed",
+      "soccerSelectionWeek": "2027-05-17",
+      "soccerSelectionReasons": [
+        "Following Bayer Leverkusen: every competitive fixture."
+      ],
+      "soccerSelectedOn": "2026-11-14",
+      "title": "Schalke 04 vs Bayer Leverkusen - German Bundesliga [provisional]",
+      "start": "2027-05-22T13:30:00.000Z",
+      "end": "2027-05-22T15:30:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884493",
+      "location": "Veltins Arena",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884493",
+      "categories": [
+        "Soccer",
+        "Followed team",
+        "German Bundesliga"
+      ],
+      "hash": "6a8bf2bb59ffa3727d58087398e87c62f4751776eadcc8add0f5be8decad0d48",
+      "created": "2026-11-14T12:45:35.252Z",
+      "modified": "2026-11-14T12:45:35.252Z",
       "sequence": 0
     },
     {
@@ -27440,6 +28834,11 @@
     },
     "sourceCounts": {
       "teams": {
+        "131": {
+          "name": "Bayer Leverkusen",
+          "leagueGames": 34,
+          "competitive": 45
+        },
         "175": {
           "name": "RC Lens",
           "leagueGames": 34,
@@ -27460,7 +28859,7 @@
         "uefa.champions": 0
       }
     },
-    "events": 100
+    "events": 141
   },
   "warnings": [
     "College GameDay: no unambiguous current announcement matched the game schedule; retaining verified announcements and TBA placeholders."
