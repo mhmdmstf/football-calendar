@@ -939,7 +939,7 @@
       "start": "2026-09-22T17:05:00.000Z",
       "end": "2026-09-22T20:05:00.000Z",
       "allDay": false,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Martinez / Carlos Rodón.\n\nListed broadcasts: YES / Rays.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823543",
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Martinez / Carlos Rodón.\n\nListed broadcasts: Rays.TV / YES. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823543",
       "location": "Yankee Stadium",
       "url": "https://www.mlb.com/gameday/823543",
       "status": "CONFIRMED",
@@ -948,10 +948,10 @@
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "e9e239b346dbc9b6260de449b567c6bb0654aa0ab32082d89b0fc894c0abf3ab",
+      "hash": "5a21141f837eb34aa06f1624560b30d87f9c7add07d9afc96bc353d31191d295",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-14T19:15:36.116Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-823494@football-watchlist",
@@ -8076,19 +8076,19 @@
       "start": "2026-11-14T17:00:00.000Z",
       "end": "2026-11-14T20:30:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#3 vs #24) at selection.\n\nTeams: Northwestern Wildcats at Ohio State Buckeyes\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858522/northwestern-ohio-state",
+      "description": "National pick: ranked matchup (#3 vs #24) at selection.\n\nTeams: Northwestern Wildcats at Ohio State Buckeyes\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858522",
       "location": "Ohio Stadium, Columbus, OH, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858522/northwestern-ohio-state",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858522",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#3 vs #24) at selection.",
-      "hash": "27e9d50edb03ec537aa66017a6d6397d0fcf2c90c742ccff1d308b8efb2a34a3",
+      "hash": "959215708782e22a06838add6147807586c4bee87912bcae9caf317b524fc16a",
       "created": "2026-10-24T07:24:39.719Z",
-      "modified": "2026-11-03T20:31:09.302Z",
-      "sequence": 2
+      "modified": "2026-11-14T19:15:36.116Z",
+      "sequence": 3
     },
     {
       "uid": "college-football-401856889@football-watchlist",
@@ -8097,18 +8097,18 @@
       "start": "2026-11-14T17:45:00.000Z",
       "end": "2026-11-14T21:15:00.000Z",
       "allDay": false,
-      "description": "Following Alabama: every game.\n\nTeams: Alabama Crimson Tide at Vanderbilt Commodores\n\nUS broadcast: SEC Network. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856889/alabama-vanderbilt",
+      "description": "Following Alabama: every game.\n\nTeams: Alabama Crimson Tide at Vanderbilt Commodores\n\nUS broadcast: SEC Network. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856889",
       "location": "FirstBank Stadium, Nashville, TN, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856889/alabama-vanderbilt",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856889",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "Alabama"
       ],
-      "hash": "74bd2e95a2367c11f546cf93f0d27113113878bab639c6349ce4a6652e4a7ba2",
+      "hash": "abf1430d97a3e8c062ea56e26a7f71e01ef88d37a922621277b33682d4fd16ce",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-11-08T23:48:43.830Z",
-      "sequence": 2
+      "modified": "2026-11-14T19:15:36.116Z",
+      "sequence": 3
     },
     {
       "uid": "nhl-2026020321@football-watchlist",

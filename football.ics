@@ -678,17 +678,17 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-823543@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261114T191536Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
+LAST-MODIFIED:20261114T191536Z
+SEQUENCE:1
 DTSTART:20260922T170500Z
 DTEND:20260922T200500Z
 SUMMARY:MLB: Tampa Bay Rays at New York Yankees
 DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
   window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to
-  change): Nick Martinez / Carlos Rodón.\n\nListed broadcasts: YES / Rays.
- TV. Availability varies by country and provider.\n\nOfficial schedule: htt
+  change): Nick Martinez / Carlos Rodón.\n\nListed broadcasts: Rays.TV / Y
+ ES. Availability varies by country and provider.\n\nOfficial schedule: htt
  ps://www.mlb.com/gameday/823543
 LOCATION:Yankee Stadium
 URL:https://www.mlb.com/gameday/823543
@@ -6031,10 +6031,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858522@football-watchlist
-DTSTAMP:20261103T203109Z
+DTSTAMP:20261114T191536Z
 CREATED:20261024T072439Z
-LAST-MODIFIED:20261103T203109Z
-SEQUENCE:2
+LAST-MODIFIED:20261114T191536Z
+SEQUENCE:3
 DTSTART:20261114T170000Z
 DTEND:20261114T203000Z
 SUMMARY:CFB: Northwestern at Ohio State
@@ -6042,20 +6042,19 @@ DESCRIPTION:National pick: ranked matchup (#3 vs #24) at selection.\n\nTeam
  s: Northwestern Wildcats at Ohio State Buckeyes\n\nUS broadcast: Fox. Avai
  lability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champ
  ionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/colle
- ge-football/game/_/gameId/401858522/northwestern-ohio-state
+ ge-football/game/_/gameId/401858522
 LOCATION:Ohio Stadium\, Columbus\, OH\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858522/northwest
- ern-ohio-state
+URL:https://www.espn.com/college-football/game/_/gameId/401858522
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856889@football-watchlist
-DTSTAMP:20261108T234843Z
+DTSTAMP:20261114T191536Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20261108T234843Z
-SEQUENCE:2
+LAST-MODIFIED:20261114T191536Z
+SEQUENCE:3
 DTSTART:20261114T174500Z
 DTEND:20261114T211500Z
 SUMMARY:CFB: Alabama at Vanderbilt
@@ -6063,10 +6062,9 @@ DESCRIPTION:Following Alabama: every game.\n\nTeams: Alabama Crimson Tide a
  t Vanderbilt Commodores\n\nUS broadcast: SEC Network. Availability elsewhe
  re varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; fini
  sh is approximate.\n\nSchedule: https://www.espn.com/college-football/game
- /_/gameId/401856889/alabama-vanderbilt
+ /_/gameId/401856889
 LOCATION:FirstBank Stadium\, Nashville\, TN\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856889/alabama-v
- anderbilt
+URL:https://www.espn.com/college-football/game/_/gameId/401856889
 CATEGORIES:College,Alabama
 STATUS:CONFIRMED
 TRANSP:OPAQUE
