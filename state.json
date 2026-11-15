@@ -8376,27 +8376,6 @@
       "sequence": 1
     },
     {
-      "uid": "college-football-401856872@football-watchlist",
-      "gameId": "401856872",
-      "title": "CFB: Utah at TCU [time TBA]",
-      "start": "2026-11-21",
-      "end": "2026-11-22",
-      "allDay": true,
-      "description": "National pick: a ranked team in a potentially competitive game (market spread 5.5 points at selection). Upset possibility is an estimate.\n\nTeams: Utah Utes at TCU Horned Frogs\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856872/utah-tcu",
-      "location": "Amon G. Carter Stadium, Fort Worth, TX, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856872/utah-tcu",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 5.5 points at selection). Upset possibility is an estimate.",
-      "hash": "2b2900c35a00a86b3eb25f13c8cd40b74d2a0f82f333b0bf10f0ec846ea7a321",
-      "created": "2026-11-12T09:57:00.583Z",
-      "modified": "2026-11-12T09:57:00.583Z",
-      "sequence": 0
-    },
-    {
       "uid": "show-gameday-2026-11-21@football-watchlist",
       "title": "College GameDay: location TBA",
       "start": "2026-11-21T14:00:00.000Z",
@@ -8720,7 +8699,7 @@
       "start": "2026-11-21T20:30:00.000Z",
       "end": "2026-11-22T00:00:00.000Z",
       "allDay": false,
-      "description": "National pick: ranked matchup (#15 vs #16) at selection.\n\nTeams: LSU Tigers at Tennessee Volunteers\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856754/lsu-tennessee",
+      "description": "National pick: ranked matchup (#15 vs #16) at selection.\n\nTeams: LSU Tigers at Tennessee Volunteers\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856754/lsu-tennessee",
       "location": "Neyland Stadium, Knoxville, TN, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856754/lsu-tennessee",
       "status": "CONFIRMED",
@@ -8729,10 +8708,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: ranked matchup (#15 vs #16) at selection.",
-      "hash": "4e84094b364348762bada1688420ba024fcce1af5b5f22000c9e9497daf99fc5",
+      "hash": "ed25e6870db07cdabc3618ff8e820c439087789a061f2ec397738b49ed30aae7",
       "created": "2026-10-31T08:32:39.093Z",
-      "modified": "2026-11-09T23:28:17.835Z",
-      "sequence": 1
+      "modified": "2026-11-15T19:50:22.250Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401858528@football-watchlist",
@@ -8817,6 +8796,27 @@
       "created": "2026-11-01T09:23:42.690Z",
       "modified": "2026-11-01T09:23:42.690Z",
       "sequence": 0
+    },
+    {
+      "uid": "college-football-401856872@football-watchlist",
+      "gameId": "401856872",
+      "title": "CFB: Utah at TCU",
+      "start": "2026-11-22T02:00:00.000Z",
+      "end": "2026-11-22T05:30:00.000Z",
+      "allDay": false,
+      "description": "National pick: a ranked team in a potentially competitive game (market spread 5.5 points at selection). Upset possibility is an estimate.\n\nTeams: Utah Utes at TCU Horned Frogs\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856872/utah-tcu",
+      "location": "Amon G. Carter Stadium, Fort Worth, TX, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856872/utah-tcu",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "National pick"
+      ],
+      "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 5.5 points at selection). Upset possibility is an estimate.",
+      "hash": "80d7380b498672828f839ab8ea025b264c160dfe0cccf83773ec928dfd1a295b",
+      "created": "2026-11-12T09:57:00.583Z",
+      "modified": "2026-11-15T19:50:22.250Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026020372@football-watchlist",

@@ -6317,27 +6317,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:college-football-401856872@football-watchlist
-DTSTAMP:20261112T095700Z
-CREATED:20261112T095700Z
-LAST-MODIFIED:20261112T095700Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:CFB: Utah at TCU [time TBA]
-DESCRIPTION:National pick: a ranked team in a potentially competitive game 
- (market spread 5.5 points at selection). Upset possibility is an estimate.
- \n\nTeams: Utah Utes at TCU Horned Frogs\n\nBroadcast to be announced.\n\n
- Kickoff has not been announced. This all-day marker will become a timed ev
- ent when confirmed.\n\nSchedule: https://www.espn.com/college-football/gam
- e/_/gameId/401856872/utah-tcu
-LOCATION:Amon G. Carter Stadium\, Fort Worth\, TX\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856872/utah-tcu
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:show-gameday-2026-11-21@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -6569,18 +6548,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856754@football-watchlist
-DTSTAMP:20261109T232817Z
+DTSTAMP:20261115T195022Z
 CREATED:20261031T083239Z
-LAST-MODIFIED:20261109T232817Z
-SEQUENCE:1
+LAST-MODIFIED:20261115T195022Z
+SEQUENCE:2
 DTSTART:20261121T203000Z
 DTEND:20261122T000000Z
 SUMMARY:CFB: LSU at Tennessee
 DESCRIPTION:National pick: ranked matchup (#15 vs #16) at selection.\n\nTea
- ms: LSU Tigers at Tennessee Volunteers\n\nBroadcast to be announced.\n\nVi
- ewing window: 3.5 hours (4 hours for championships)\; finish is approximat
- e.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856
- 754/lsu-tennessee
+ ms: LSU Tigers at Tennessee Volunteers\n\nUS broadcast: ABC. Availability 
+ elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)
+ \; finish is approximate.\n\nSchedule: https://www.espn.com/college-footba
+ ll/game/_/gameId/401856754/lsu-tennessee
 LOCATION:Neyland Stadium\, Knoxville\, TN\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856754/lsu-tenne
  ssee
@@ -6669,6 +6648,27 @@ DESCRIPTION:National pick: ranked matchup (#5 vs #19) at selection.\n\nTeam
 LOCATION:Notre Dame Stadium\, Notre Dame\, IN\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401858307/smu-notre
  -dame
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856872@football-watchlist
+DTSTAMP:20261115T195022Z
+CREATED:20261112T095700Z
+LAST-MODIFIED:20261115T195022Z
+SEQUENCE:1
+DTSTART:20261122T020000Z
+DTEND:20261122T053000Z
+SUMMARY:CFB: Utah at TCU
+DESCRIPTION:National pick: a ranked team in a potentially competitive game 
+ (market spread 5.5 points at selection). Upset possibility is an estimate.
+ \n\nTeams: Utah Utes at TCU Horned Frogs\n\nUS broadcast: Fox. Availabilit
+ y elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championship
+ s)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-foot
+ ball/game/_/gameId/401856872/utah-tcu
+LOCATION:Amon G. Carter Stadium\, Fort Worth\, TX\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856872/utah-tcu
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
