@@ -8,66 +8,6 @@ X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:nfl-401872931@football-watchlist
-DTSTAMP:20260905T145208Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:1
-DTSTART:20260915T001500Z
-DTEND:20260915T034500Z
-SUMMARY:NFL: Denver Broncos at Kansas City Chiefs
-DESCRIPTION:Monday Night Football.\n\nTeams: Denver Broncos at Kansas City 
- Chiefs\n\nUS broadcast: ESPN / ABC. Availability elsewhere varies.\n\nView
- ing window: 3.5 hours (4 hours for championships)\; finish is approximate.
- \n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872931/broncos-chi
- efs
-LOCATION:Arrowhead Stadium\, Kansas City\, MO\, USA
-URL:https://www.espn.com/nfl/game/_/gameId/401872931/broncos-chiefs
-CATEGORIES:NFL
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-822925@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260915T224000Z
-DTEND:20260916T014000Z
-SUMMARY:MLB: Athletics at Tampa Bay Rays
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
-  window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to
-  change): Jack Perkins / Griffin Jax.\n\nListed broadcasts: NBCSCA / Rays.
- TV. Availability varies by country and provider.\n\nOfficial schedule: htt
- ps://www.mlb.com/gameday/822925
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/822925
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-823574@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260915T231000Z
-DTEND:20260916T021000Z
-SUMMARY:MLB: Baltimore Orioles at New York Mets
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
- window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to 
- change): Shane Baz / Sean Manaea.\n\nListed broadcasts: MASN / SNY. Availa
- bility varies by country and provider.\n\nOfficial schedule: https://www.m
- lb.com/gameday/823574
-LOCATION:Citi Field
-URL:https://www.mlb.com/gameday/823574
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:soccer-401915587@football-watchlist
 DTSTAMP:20261114T124535Z
 CREATED:20261114T124535Z
@@ -6094,10 +6034,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856883@football-watchlist
-DTSTAMP:20261114T235846Z
+DTSTAMP:20261115T093646Z
 CREATED:20261024T072439Z
-LAST-MODIFIED:20261114T235846Z
-SEQUENCE:4
+LAST-MODIFIED:20261115T093646Z
+SEQUENCE:5
 DTSTART:20261114T203000Z
 DTEND:20261115T000000Z
 SUMMARY:CFB: Missouri at Georgia
@@ -6105,19 +6045,20 @@ DESCRIPTION:National pick: ranked matchup (#5 vs #22) at selection.\n\nTeam
  s: Missouri Tigers at Georgia Bulldogs\n\nUS broadcast: ABC / Disney+. Ava
  ilability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for cham
  pionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/coll
- ege-football/game/_/gameId/401856883
+ ege-football/game/_/gameId/401856883/missouri-georgia
 LOCATION:Sanford Stadium\, Athens\, GA\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856883
+URL:https://www.espn.com/college-football/game/_/gameId/401856883/missouri-
+ georgia
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858518@football-watchlist
-DTSTAMP:20261114T235846Z
+DTSTAMP:20261115T093646Z
 CREATED:20261024T072439Z
-LAST-MODIFIED:20261114T235846Z
-SEQUENCE:3
+LAST-MODIFIED:20261115T093646Z
+SEQUENCE:4
 DTSTART:20261114T203000Z
 DTEND:20261115T000000Z
 SUMMARY:CFB: USC at Indiana
@@ -6125,19 +6066,20 @@ DESCRIPTION:National pick: ranked matchup (#6 vs #16) at selection.\n\nTeam
  s: USC Trojans at Indiana Hoosiers\n\nUS broadcast: CBS. Availability else
  where varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; f
  inish is approximate.\n\nSchedule: https://www.espn.com/college-football/g
- ame/_/gameId/401858518
+ ame/_/gameId/401858518/usc-indiana
 LOCATION:Memorial Stadium (Bloomington\, IN)\, Bloomington\, IN\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858518
+URL:https://www.espn.com/college-football/game/_/gameId/401858518/usc-india
+ na
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856884@football-watchlist
-DTSTAMP:20261114T235846Z
+DTSTAMP:20261115T093646Z
 CREATED:20261024T072439Z
-LAST-MODIFIED:20261114T235846Z
-SEQUENCE:4
+LAST-MODIFIED:20261115T093646Z
+SEQUENCE:5
 DTSTART:20261114T231500Z
 DTEND:20261115T024500Z
 SUMMARY:CFB: Florida at Kentucky
@@ -6145,9 +6087,10 @@ DESCRIPTION:National pick: ranked matchup (#12 vs #20) at selection.\n\nTea
  ms: Florida Gators at Kentucky Wildcats\n\nUS broadcast: ESPN. Availabilit
  y elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championship
  s)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-foot
- ball/game/_/gameId/401856884
+ ball/game/_/gameId/401856884/florida-kentucky
 LOCATION:Kroger Field\, Lexington\, KY\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856884
+URL:https://www.espn.com/college-football/game/_/gameId/401856884/florida-k
+ entucky
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -6390,28 +6333,6 @@ DESCRIPTION:National pick: a ranked team in a potentially competitive game
  e/_/gameId/401856872/utah-tcu
 LOCATION:Amon G. Carter Stadium\, Fort Worth\, TX\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856872/utah-tcu
-CATEGORIES:College,National pick
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401858528@football-watchlist
-DTSTAMP:20261112T095700Z
-CREATED:20261112T095700Z
-LAST-MODIFIED:20261112T095700Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:CFB: UCLA at Michigan [time TBA]
-DESCRIPTION:National pick: a ranked team in a potentially competitive game 
- (market spread 5.5 points at selection). Upset possibility is an estimate.
- \n\nTeams: UCLA Bruins at Michigan Wolverines\n\nBroadcast to be announced
- .\n\nKickoff has not been announced. This all-day marker will become a tim
- ed event when confirmed.\n\nSchedule: https://www.espn.com/college-footbal
- l/game/_/gameId/401858528/ucla-michigan
-LOCATION:Michigan Stadium\, Ann Arbor\, MI\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858528/ucla-mich
- igan
 CATEGORIES:College,National pick
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -6663,6 +6584,28 @@ DESCRIPTION:National pick: ranked matchup (#15 vs #16) at selection.\n\nTea
 LOCATION:Neyland Stadium\, Knoxville\, TN\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856754/lsu-tenne
  ssee
+CATEGORIES:College,National pick
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858528@football-watchlist
+DTSTAMP:20261115T093646Z
+CREATED:20261112T095700Z
+LAST-MODIFIED:20261115T093646Z
+SEQUENCE:1
+DTSTART:20261121T203000Z
+DTEND:20261122T000000Z
+SUMMARY:CFB: UCLA at Michigan
+DESCRIPTION:National pick: a ranked team in a potentially competitive game 
+ (market spread 5.5 points at selection). Upset possibility is an estimate.
+ \n\nTeams: UCLA Bruins at Michigan Wolverines\n\nUS broadcast: CBS. Availa
+ bility elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champio
+ nships)\; finish is approximate.\n\nSchedule: https://www.espn.com/college
+ -football/game/_/gameId/401858528/ucla-michigan
+LOCATION:Michigan Stadium\, Ann Arbor\, MI\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858528/ucla-mich
+ igan
 CATEGORIES:College,National pick
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -8118,20 +8061,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401869542@football-watchlist
-DTSTAMP:20260905T144637Z
+DTSTAMP:20261115T093646Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
+LAST-MODIFIED:20261115T093646Z
+SEQUENCE:1
 DTSTART:20261205T010000Z
 DTEND:20261205T050000Z
-SUMMARY:CFB: TBD at TBD
+SUMMARY:CFB: TBD at Boise State
 DESCRIPTION:Conference championship.\n\nPac-12 Championship\n\nTeams: TBD a
- t TBD\n\nUS broadcast: CBS. Availability elsewhere varies.\n\nViewing wind
- ow: 3.5 hours (4 hours for championships)\; finish is approximate.\n\nSche
- dule: https://www.espn.com/college-football/game/_/gameId/401869542/tbd-tb
- d
-LOCATION:
-URL:https://www.espn.com/college-football/game/_/gameId/401869542/tbd-tbd
+ t Boise State Broncos\n\nUS broadcast: CBS. Availability elsewhere varies.
+ \n\nViewing window: 3.5 hours (4 hours for championships)\; finish is appr
+ oximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/
+ 401869542/tbd-boise-st
+LOCATION:Albertsons Stadium\, Boise\, ID\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401869542/tbd-boise
+ -st
 CATEGORIES:College
 STATUS:CONFIRMED
 TRANSP:OPAQUE
