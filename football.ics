@@ -6863,6 +6863,30 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:soccer-401915295@football-watchlist
+DTSTAMP:20261116T000134Z
+CREATED:20261116T000134Z
+LAST-MODIFIED:20261116T000134Z
+SEQUENCE:0
+DTSTART:20261124T200000Z
+DTEND:20261124T220000Z
+SUMMARY:Arsenal vs Borussia Dortmund - UEFA Champions League [provisional]
+DESCRIPTION:Champions League watchlist: league phase\; UEFA Champions Leagu
+ e\, League Phase.\nBoth clubs are in the current top 12: Arsenal #3\, Boru
+ ssia Dortmund #12.\nHigh-profile club matchup.\n\nSelection made 2026-11-1
+ 6. Table positions describe that snapshot\, not predicted results. Picks a
+ re kept once added.\n\nProvisional source-listed date and kickoff. ESPN do
+ es not reliably distinguish TV-confirmed dates from provisional fixtures\;
+  both may change. The calendar updates when the schedule changes.\n\nViewi
+ ng window: 2 hours\; finish is approximate.\n\nSchedule: https://www.espn.
+ com/soccer/match/_/gameId/401915295
+LOCATION:Emirates Stadium
+URL:https://www.espn.com/soccer/match/_/gameId/401915295
+CATEGORIES:Soccer,European pick,UEFA Champions League
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:soccer-401915296@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -6899,6 +6923,79 @@ DESCRIPTION:Following RC Lens: every competitive fixture.\n\nProvisional so
 LOCATION:Red Bull Arena
 URL:https://www.espn.com/soccer/match/_/gameId/401915299
 CATEGORIES:Soccer,Followed team,UEFA Champions League
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401915379@football-watchlist
+DTSTAMP:20261116T000134Z
+CREATED:20261116T000134Z
+LAST-MODIFIED:20261116T000134Z
+SEQUENCE:0
+DTSTART:20261124T200000Z
+DTEND:20261124T220000Z
+SUMMARY:Manchester City vs Napoli - UEFA Champions League [provisional]
+DESCRIPTION:Champions League watchlist: league phase\; UEFA Champions Leagu
+ e\, League Phase.\nChampions League table: Manchester City #7\, Napoli #27
+ .\nHigh-profile club matchup.\n\nSelection made 2026-11-16. Table position
+ s describe that snapshot\, not predicted results. Picks are kept once adde
+ d.\n\nProvisional source-listed date and kickoff. ESPN does not reliably d
+ istinguish TV-confirmed dates from provisional fixtures\; both may change.
+  The calendar updates when the schedule changes.\n\nViewing window: 2 hour
+ s\; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/
+ _/gameId/401915379
+LOCATION:Etihad Stadium
+URL:https://www.espn.com/soccer/match/_/gameId/401915379
+CATEGORIES:Soccer,European pick,UEFA Champions League
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401915292@football-watchlist
+DTSTAMP:20261116T000134Z
+CREATED:20261116T000134Z
+LAST-MODIFIED:20261116T000134Z
+SEQUENCE:0
+DTSTART:20261125T200000Z
+DTEND:20261125T220000Z
+SUMMARY:Club Brugge vs Liverpool - UEFA Champions League [provisional]
+DESCRIPTION:Champions League watchlist: league phase\; UEFA Champions Leagu
+ e\, League Phase.\nBoth clubs are in the current top 12: Club Brugge #9\, 
+ Liverpool #8.\n\nSelection made 2026-11-16. Table positions describe that 
+ snapshot\, not predicted results. Picks are kept once added.\n\nProvisiona
+ l source-listed date and kickoff. ESPN does not reliably distinguish TV-co
+ nfirmed dates from provisional fixtures\; both may change. The calendar up
+ dates when the schedule changes.\n\nViewing window: 2 hours\; finish is ap
+ proximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/4019152
+ 92
+LOCATION:Jan Breydel Stadium
+URL:https://www.espn.com/soccer/match/_/gameId/401915292
+CATEGORIES:Soccer,European pick,UEFA Champions League
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401915373@football-watchlist
+DTSTAMP:20261116T000134Z
+CREATED:20261116T000134Z
+LAST-MODIFIED:20261116T000134Z
+SEQUENCE:0
+DTSTART:20261125T200000Z
+DTEND:20261125T220000Z
+SUMMARY:Sporting CP vs Manchester United - UEFA Champions League [provision
+ al]
+DESCRIPTION:Champions League watchlist: league phase\; UEFA Champions Leagu
+ e\, League Phase.\nChampions League table: Sporting CP #10\, Manchester Un
+ ited #17.\nHigh-profile club matchup.\n\nSelection made 2026-11-16. Table 
+ positions describe that snapshot\, not predicted results. Picks are kept o
+ nce added.\n\nProvisional source-listed date and kickoff. ESPN does not re
+ liably distinguish TV-confirmed dates from provisional fixtures\; both may
+  change. The calendar updates when the schedule changes.\n\nViewing window
+ : 2 hours\; finish is approximate.\n\nSchedule: https://www.espn.com/socce
+ r/match/_/gameId/401915373
+LOCATION:Estádio José Alvalade
+URL:https://www.espn.com/soccer/match/_/gameId/401915373
+CATEGORIES:Soccer,European pick,UEFA Champions League
 STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
@@ -7063,6 +7160,29 @@ URL:https://www.espn.com/college-football/game/_/gameId/401856762/mississip
  pi-st-ole-miss
 CATEGORIES:College
 STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401876392@football-watchlist
+DTSTAMP:20261116T000134Z
+CREATED:20261116T000134Z
+LAST-MODIFIED:20261116T000134Z
+SEQUENCE:0
+DTSTART:20261127T194500Z
+DTEND:20261127T214500Z
+SUMMARY:Brest vs Paris FC - French Ligue 1 [provisional]
+DESCRIPTION:A current top-three club faces a top-half opponent: Brest #9\, 
+ Paris FC #3.\n\nSelection made 2026-11-16. Table positions describe that s
+ napshot\, not predicted results. Picks are kept once added.\n\nProvisional
+  source-listed date and kickoff. ESPN does not reliably distinguish TV-con
+ firmed dates from provisional fixtures\; both may change. The calendar upd
+ ates when the schedule changes.\n\nViewing window: 2 hours\; finish is app
+ roximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/40187639
+ 2
+LOCATION:Stade Francis-Le Blé
+URL:https://www.espn.com/soccer/match/_/gameId/401876392
+CATEGORIES:Soccer,European pick,French Ligue 1
+STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -7556,6 +7676,99 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:soccer-401879229@football-watchlist
+DTSTAMP:20261116T000134Z
+CREATED:20261116T000134Z
+LAST-MODIFIED:20261116T000134Z
+SEQUENCE:0
+DTSTART:20261129T120000Z
+DTEND:20261129T140000Z
+SUMMARY:Everton vs Liverpool - English Premier League [provisional]
+DESCRIPTION:Major rivalry: Merseyside derby.\nBoth clubs are in the current
+  top 6: Everton #6\, Liverpool #4.\n\nSelection made 2026-11-16. Table pos
+ itions describe that snapshot\, not predicted results. Picks are kept once
+  added.\n\nProvisional source-listed date and kickoff. ESPN does not relia
+ bly distinguish TV-confirmed dates from provisional fixtures\; both may ch
+ ange. The calendar updates when the schedule changes.\n\nViewing window: 2
+  hours\; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/m
+ atch/_/gameId/401879229
+LOCATION:Hill Dickinson Stadium
+URL:https://www.espn.com/soccer/match/_/gameId/401879229
+CATEGORIES:Soccer,European pick,English Premier League
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401884724@football-watchlist
+DTSTAMP:20261116T000134Z
+CREATED:20261116T000134Z
+LAST-MODIFIED:20261116T000134Z
+SEQUENCE:0
+DTSTART:20261129T143000Z
+DTEND:20261129T163000Z
+SUMMARY:SC Freiburg vs RB Leipzig - German Bundesliga [provisional]
+DESCRIPTION:Both clubs are in the current top 6: SC Freiburg #3\, RB Leipzi
+ g #4.\nTop-four meeting with 1 point separating the teams.\n\nSelection ma
+ de 2026-11-16. Table positions describe that snapshot\, not predicted resu
+ lts. Picks are kept once added.\n\nProvisional source-listed date and kick
+ off. ESPN does not reliably distinguish TV-confirmed dates from provisiona
+ l fixtures\; both may change. The calendar updates when the schedule chang
+ es.\n\nViewing window: 2 hours\; finish is approximate.\n\nSchedule: https
+ ://www.espn.com/soccer/match/_/gameId/401884724
+LOCATION:Europa-Park Stadion
+URL:https://www.espn.com/soccer/match/_/gameId/401884724
+CATEGORIES:Soccer,European pick,German Bundesliga
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401882794@football-watchlist
+DTSTAMP:20261116T000134Z
+CREATED:20261116T000134Z
+LAST-MODIFIED:20261116T000134Z
+SEQUENCE:0
+DTSTART:20261129T151500Z
+DTEND:20261129T171500Z
+SUMMARY:Deportivo vs Barcelona - Spanish LALIGA [provisional]
+DESCRIPTION:A current top-three club faces a top-half opponent: Deportivo #
+ 9\, Barcelona #1.\n\nSelection made 2026-11-16. Table positions describe t
+ hat snapshot\, not predicted results. Picks are kept once added.\n\nProvis
+ ional source-listed date and kickoff. ESPN does not reliably distinguish T
+ V-confirmed dates from provisional fixtures\; both may change. The calenda
+ r updates when the schedule changes.\n\nViewing window: 2 hours\; finish i
+ s approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401
+ 882794
+LOCATION:Riazor
+URL:https://www.espn.com/soccer/match/_/gameId/401882794
+CATEGORIES:Soccer,European pick,Spanish LALIGA
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401878753@football-watchlist
+DTSTAMP:20261116T000134Z
+CREATED:20261116T000134Z
+LAST-MODIFIED:20261116T000134Z
+SEQUENCE:0
+DTSTART:20261129T163000Z
+DTEND:20261129T183000Z
+SUMMARY:Arsenal vs Manchester City - English Premier League [provisional]
+DESCRIPTION:Both clubs are in the current top 6: Arsenal #1\, Manchester Ci
+ ty #3.\nTop-four meeting with 6 points separating the teams.\nHigh-profile
+  club matchup.\n\nSelection made 2026-11-16. Table positions describe that
+  snapshot\, not predicted results. Picks are kept once added.\n\nProvision
+ al source-listed date and kickoff. ESPN does not reliably distinguish TV-c
+ onfirmed dates from provisional fixtures\; both may change. The calendar u
+ pdates when the schedule changes.\n\nViewing window: 2 hours\; finish is a
+ pproximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401878
+ 753
+LOCATION:Emirates Stadium
+URL:https://www.espn.com/soccer/match/_/gameId/401878753
+CATEGORIES:Soccer,European pick,English Premier League
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:redzone-2026-11-29@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -7613,6 +7826,28 @@ DESCRIPTION:Following Como: every competitive fixture.\n\nProvisional sourc
 LOCATION:Giuseppe Sinigaglia
 URL:https://www.espn.com/soccer/match/_/gameId/401874994
 CATEGORIES:Soccer,Followed team,Italian Serie A
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401882788@football-watchlist
+DTSTAMP:20261116T000134Z
+CREATED:20261116T000134Z
+LAST-MODIFIED:20261116T000134Z
+SEQUENCE:0
+DTSTART:20261129T200000Z
+DTEND:20261129T220000Z
+SUMMARY:Real Sociedad vs Sevilla - Spanish LALIGA [provisional]
+DESCRIPTION:Both clubs are in the current top 6: Real Sociedad #5\, Sevilla
+  #6.\n\nSelection made 2026-11-16. Table positions describe that snapshot\
+ , not predicted results. Picks are kept once added.\n\nProvisional source-
+ listed date and kickoff. ESPN does not reliably distinguish TV-confirmed d
+ ates from provisional fixtures\; both may change. The calendar updates whe
+ n the schedule changes.\n\nViewing window: 2 hours\; finish is approximate
+ .\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401882788
+LOCATION:Reale Arena
+URL:https://www.espn.com/soccer/match/_/gameId/401882788
+CATEGORIES:Soccer,European pick,Spanish LALIGA
 STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT

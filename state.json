@@ -9069,6 +9069,42 @@
       "sequence": 0
     },
     {
+      "uid": "soccer-401915295@football-watchlist",
+      "gameId": "401915295",
+      "soccerSeason": 2026,
+      "soccerLeague": "uefa.champions",
+      "soccerTeamIds": [
+        "359",
+        "124"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "champions",
+      "soccerSelectionWeek": "2026-11-23",
+      "soccerSelectionReasons": [
+        "Champions League watchlist: league phase; UEFA Champions League, League Phase.",
+        "Both clubs are in the current top 12: Arsenal #3, Borussia Dortmund #12.",
+        "High-profile club matchup."
+      ],
+      "soccerSelectedOn": "2026-11-16",
+      "title": "Arsenal vs Borussia Dortmund - UEFA Champions League [provisional]",
+      "start": "2026-11-24T20:00:00.000Z",
+      "end": "2026-11-24T22:00:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Champions League watchlist: league phase; UEFA Champions League, League Phase.\nBoth clubs are in the current top 12: Arsenal #3, Borussia Dortmund #12.\nHigh-profile club matchup.\n\nSelection made 2026-11-16. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915295",
+      "location": "Emirates Stadium",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401915295",
+      "categories": [
+        "Soccer",
+        "European pick",
+        "UEFA Champions League"
+      ],
+      "hash": "5244a8ccddaac6993d1b1c241a2446bae89b54b0728dea79b92379432a61af4a",
+      "created": "2026-11-16T00:01:34.631Z",
+      "modified": "2026-11-16T00:01:34.631Z",
+      "sequence": 0
+    },
+    {
       "uid": "soccer-401915296@football-watchlist",
       "gameId": "401915296",
       "soccerSeason": 2026,
@@ -9134,6 +9170,113 @@
       "hash": "8632080cb4bb2efa4c62213a0a7b3e6f0ffaee0f1762b53eb269707467edcdb8",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
+      "sequence": 0
+    },
+    {
+      "uid": "soccer-401915379@football-watchlist",
+      "gameId": "401915379",
+      "soccerSeason": 2026,
+      "soccerLeague": "uefa.champions",
+      "soccerTeamIds": [
+        "382",
+        "114"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "champions",
+      "soccerSelectionWeek": "2026-11-23",
+      "soccerSelectionReasons": [
+        "Champions League watchlist: league phase; UEFA Champions League, League Phase.",
+        "Champions League table: Manchester City #7, Napoli #27.",
+        "High-profile club matchup."
+      ],
+      "soccerSelectedOn": "2026-11-16",
+      "title": "Manchester City vs Napoli - UEFA Champions League [provisional]",
+      "start": "2026-11-24T20:00:00.000Z",
+      "end": "2026-11-24T22:00:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Champions League watchlist: league phase; UEFA Champions League, League Phase.\nChampions League table: Manchester City #7, Napoli #27.\nHigh-profile club matchup.\n\nSelection made 2026-11-16. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915379",
+      "location": "Etihad Stadium",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401915379",
+      "categories": [
+        "Soccer",
+        "European pick",
+        "UEFA Champions League"
+      ],
+      "hash": "731ed0e00462587628017837e7d1b75ac683bfea5624973dfd079ca9ab1c6056",
+      "created": "2026-11-16T00:01:34.631Z",
+      "modified": "2026-11-16T00:01:34.631Z",
+      "sequence": 0
+    },
+    {
+      "uid": "soccer-401915292@football-watchlist",
+      "gameId": "401915292",
+      "soccerSeason": 2026,
+      "soccerLeague": "uefa.champions",
+      "soccerTeamIds": [
+        "570",
+        "364"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "champions",
+      "soccerSelectionWeek": "2026-11-23",
+      "soccerSelectionReasons": [
+        "Champions League watchlist: league phase; UEFA Champions League, League Phase.",
+        "Both clubs are in the current top 12: Club Brugge #9, Liverpool #8."
+      ],
+      "soccerSelectedOn": "2026-11-16",
+      "title": "Club Brugge vs Liverpool - UEFA Champions League [provisional]",
+      "start": "2026-11-25T20:00:00.000Z",
+      "end": "2026-11-25T22:00:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Champions League watchlist: league phase; UEFA Champions League, League Phase.\nBoth clubs are in the current top 12: Club Brugge #9, Liverpool #8.\n\nSelection made 2026-11-16. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915292",
+      "location": "Jan Breydel Stadium",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401915292",
+      "categories": [
+        "Soccer",
+        "European pick",
+        "UEFA Champions League"
+      ],
+      "hash": "6bb58f802a5e8d308133d836da363fb496323bf60ecc078eb4e0fe45e2ea4332",
+      "created": "2026-11-16T00:01:34.631Z",
+      "modified": "2026-11-16T00:01:34.631Z",
+      "sequence": 0
+    },
+    {
+      "uid": "soccer-401915373@football-watchlist",
+      "gameId": "401915373",
+      "soccerSeason": 2026,
+      "soccerLeague": "uefa.champions",
+      "soccerTeamIds": [
+        "2250",
+        "360"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "champions",
+      "soccerSelectionWeek": "2026-11-23",
+      "soccerSelectionReasons": [
+        "Champions League watchlist: league phase; UEFA Champions League, League Phase.",
+        "Champions League table: Sporting CP #10, Manchester United #17.",
+        "High-profile club matchup."
+      ],
+      "soccerSelectedOn": "2026-11-16",
+      "title": "Sporting CP vs Manchester United - UEFA Champions League [provisional]",
+      "start": "2026-11-25T20:00:00.000Z",
+      "end": "2026-11-25T22:00:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Champions League watchlist: league phase; UEFA Champions League, League Phase.\nChampions League table: Sporting CP #10, Manchester United #17.\nHigh-profile club matchup.\n\nSelection made 2026-11-16. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915373",
+      "location": "Estádio José Alvalade",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401915373",
+      "categories": [
+        "Soccer",
+        "European pick",
+        "UEFA Champions League"
+      ],
+      "hash": "76d2b6a93a36cfe35ec35cd201305052a6542579e0383cc4f5098376fe7e9713",
+      "created": "2026-11-16T00:01:34.631Z",
+      "modified": "2026-11-16T00:01:34.631Z",
       "sequence": 0
     },
     {
@@ -9323,6 +9466,40 @@
       "hash": "8455c41728b5154043e23ebc8ce9a6a7785c3ba0e3e0cb65aa388839f01acf79",
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-05T14:46:37.855Z",
+      "sequence": 0
+    },
+    {
+      "uid": "soccer-401876392@football-watchlist",
+      "gameId": "401876392",
+      "soccerSeason": 2026,
+      "soccerLeague": "fra.1",
+      "soccerTeamIds": [
+        "6997",
+        "6851"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "domestic",
+      "soccerSelectionWeek": "2026-11-23",
+      "soccerSelectionReasons": [
+        "A current top-three club faces a top-half opponent: Brest #9, Paris FC #3."
+      ],
+      "soccerSelectedOn": "2026-11-16",
+      "title": "Brest vs Paris FC - French Ligue 1 [provisional]",
+      "start": "2026-11-27T19:45:00.000Z",
+      "end": "2026-11-27T21:45:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "A current top-three club faces a top-half opponent: Brest #9, Paris FC #3.\n\nSelection made 2026-11-16. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401876392",
+      "location": "Stade Francis-Le Blé",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401876392",
+      "categories": [
+        "Soccer",
+        "European pick",
+        "French Ligue 1"
+      ],
+      "hash": "0bf1195a269efa57595f4330cce37fe70419ed4bfb57ec3360fd5f05037ba41a",
+      "created": "2026-11-16T00:01:34.631Z",
+      "modified": "2026-11-16T00:01:34.631Z",
       "sequence": 0
     },
     {
@@ -9837,6 +10014,146 @@
       "sequence": 0
     },
     {
+      "uid": "soccer-401879229@football-watchlist",
+      "gameId": "401879229",
+      "soccerSeason": 2026,
+      "soccerLeague": "eng.1",
+      "soccerTeamIds": [
+        "368",
+        "364"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "domestic",
+      "soccerSelectionWeek": "2026-11-23",
+      "soccerSelectionReasons": [
+        "Major rivalry: Merseyside derby.",
+        "Both clubs are in the current top 6: Everton #6, Liverpool #4."
+      ],
+      "soccerSelectedOn": "2026-11-16",
+      "title": "Everton vs Liverpool - English Premier League [provisional]",
+      "start": "2026-11-29T12:00:00.000Z",
+      "end": "2026-11-29T14:00:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Major rivalry: Merseyside derby.\nBoth clubs are in the current top 6: Everton #6, Liverpool #4.\n\nSelection made 2026-11-16. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401879229",
+      "location": "Hill Dickinson Stadium",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401879229",
+      "categories": [
+        "Soccer",
+        "European pick",
+        "English Premier League"
+      ],
+      "hash": "f593d053588b0fda722258eb3919e1219e5ddef92dcf0948029c9cf3fe7cf27f",
+      "created": "2026-11-16T00:01:34.631Z",
+      "modified": "2026-11-16T00:01:34.631Z",
+      "sequence": 0
+    },
+    {
+      "uid": "soccer-401884724@football-watchlist",
+      "gameId": "401884724",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.1",
+      "soccerTeamIds": [
+        "126",
+        "11420"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "domestic",
+      "soccerSelectionWeek": "2026-11-23",
+      "soccerSelectionReasons": [
+        "Both clubs are in the current top 6: SC Freiburg #3, RB Leipzig #4.",
+        "Top-four meeting with 1 point separating the teams."
+      ],
+      "soccerSelectedOn": "2026-11-16",
+      "title": "SC Freiburg vs RB Leipzig - German Bundesliga [provisional]",
+      "start": "2026-11-29T14:30:00.000Z",
+      "end": "2026-11-29T16:30:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Both clubs are in the current top 6: SC Freiburg #3, RB Leipzig #4.\nTop-four meeting with 1 point separating the teams.\n\nSelection made 2026-11-16. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884724",
+      "location": "Europa-Park Stadion",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884724",
+      "categories": [
+        "Soccer",
+        "European pick",
+        "German Bundesliga"
+      ],
+      "hash": "6fa28b7a7e0cd3341e5e12278361f00e119628c1856401034a9b2d7dc22694a2",
+      "created": "2026-11-16T00:01:34.631Z",
+      "modified": "2026-11-16T00:01:34.631Z",
+      "sequence": 0
+    },
+    {
+      "uid": "soccer-401882794@football-watchlist",
+      "gameId": "401882794",
+      "soccerSeason": 2026,
+      "soccerLeague": "esp.1",
+      "soccerTeamIds": [
+        "90",
+        "83"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "domestic",
+      "soccerSelectionWeek": "2026-11-23",
+      "soccerSelectionReasons": [
+        "A current top-three club faces a top-half opponent: Deportivo #9, Barcelona #1."
+      ],
+      "soccerSelectedOn": "2026-11-16",
+      "title": "Deportivo vs Barcelona - Spanish LALIGA [provisional]",
+      "start": "2026-11-29T15:15:00.000Z",
+      "end": "2026-11-29T17:15:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "A current top-three club faces a top-half opponent: Deportivo #9, Barcelona #1.\n\nSelection made 2026-11-16. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401882794",
+      "location": "Riazor",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401882794",
+      "categories": [
+        "Soccer",
+        "European pick",
+        "Spanish LALIGA"
+      ],
+      "hash": "74573c88a346c63f5365b34bd8c4a30a8d263ed32ba4525d9981fde8d88f704f",
+      "created": "2026-11-16T00:01:34.631Z",
+      "modified": "2026-11-16T00:01:34.631Z",
+      "sequence": 0
+    },
+    {
+      "uid": "soccer-401878753@football-watchlist",
+      "gameId": "401878753",
+      "soccerSeason": 2026,
+      "soccerLeague": "eng.1",
+      "soccerTeamIds": [
+        "359",
+        "382"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "domestic",
+      "soccerSelectionWeek": "2026-11-23",
+      "soccerSelectionReasons": [
+        "Both clubs are in the current top 6: Arsenal #1, Manchester City #3.",
+        "Top-four meeting with 6 points separating the teams.",
+        "High-profile club matchup."
+      ],
+      "soccerSelectedOn": "2026-11-16",
+      "title": "Arsenal vs Manchester City - English Premier League [provisional]",
+      "start": "2026-11-29T16:30:00.000Z",
+      "end": "2026-11-29T18:30:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Both clubs are in the current top 6: Arsenal #1, Manchester City #3.\nTop-four meeting with 6 points separating the teams.\nHigh-profile club matchup.\n\nSelection made 2026-11-16. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401878753",
+      "location": "Emirates Stadium",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401878753",
+      "categories": [
+        "Soccer",
+        "European pick",
+        "English Premier League"
+      ],
+      "hash": "4eddf32611a7a6e943bc578f4566a4c9bd51340707c1f770b57db475d9ff9dab",
+      "created": "2026-11-16T00:01:34.631Z",
+      "modified": "2026-11-16T00:01:34.631Z",
+      "sequence": 0
+    },
+    {
       "uid": "redzone-2026-11-29@football-watchlist",
       "title": "NFL RedZone",
       "start": "2026-11-29T18:00:00.000Z",
@@ -9921,6 +10238,40 @@
       "hash": "e4f57f2ca18302380860642f9b6614c371cbcdf43c2d55c6a7dbc525e20bfe76",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
+      "sequence": 0
+    },
+    {
+      "uid": "soccer-401882788@football-watchlist",
+      "gameId": "401882788",
+      "soccerSeason": 2026,
+      "soccerLeague": "esp.1",
+      "soccerTeamIds": [
+        "89",
+        "243"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "domestic",
+      "soccerSelectionWeek": "2026-11-23",
+      "soccerSelectionReasons": [
+        "Both clubs are in the current top 6: Real Sociedad #5, Sevilla #6."
+      ],
+      "soccerSelectedOn": "2026-11-16",
+      "title": "Real Sociedad vs Sevilla - Spanish LALIGA [provisional]",
+      "start": "2026-11-29T20:00:00.000Z",
+      "end": "2026-11-29T22:00:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Both clubs are in the current top 6: Real Sociedad #5, Sevilla #6.\n\nSelection made 2026-11-16. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401882788",
+      "location": "Reale Arena",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401882788",
+      "categories": [
+        "Soccer",
+        "European pick",
+        "Spanish LALIGA"
+      ],
+      "hash": "2f21187c1a5a32bef1062e4fd567cd3489818f3e132acee91fa2fadbb15078c2",
+      "created": "2026-11-16T00:01:34.631Z",
+      "modified": "2026-11-16T00:01:34.631Z",
       "sequence": 0
     },
     {
@@ -28744,8 +29095,8 @@
     "checkedOn": "2026-11-15",
     "season": 2026,
     "window": {
-      "start": "2026-11-09",
-      "end": "2026-11-23"
+      "start": "2026-11-16",
+      "end": "2026-11-30"
     },
     "sourceCounts": {
       "teams": {
@@ -28766,15 +29117,15 @@
         }
       },
       "leagues": {
-        "eng.1": 9,
-        "ita.1": 9,
-        "esp.1": 9,
-        "ger.1": 9,
-        "fra.1": 9,
-        "uefa.champions": 0
+        "eng.1": 20,
+        "ita.1": 18,
+        "esp.1": 19,
+        "ger.1": 18,
+        "fra.1": 18,
+        "uefa.champions": 18
       }
     },
-    "events": 141
+    "events": 151
   },
   "warnings": [
     "College GameDay: no unambiguous current announcement matched the game schedule; retaining verified announcements and TBA placeholders."
