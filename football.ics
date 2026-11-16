@@ -7255,18 +7255,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856764@football-watchlist
-DTSTAMP:20260905T145208Z
+DTSTAMP:20261116T232611Z
 CREATED:20260905T145208Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:0
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:CFB: South Carolina at Clemson [time TBA]
-DESCRIPTION:Major rivalry: Clemson-South Carolina.\n\nTeams: South Carolina
-  Gamecocks at Clemson Tigers\n\nBroadcast to be announced.\n\nKickoff has 
- not been announced. This all-day marker will become a timed event when con
- firmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/4
- 01856764/south-carolina-clemson
+DESCRIPTION:Major rivalry: Clemson-South Carolina.\n\nAFTERNOON: 3 - 3:30pm
+  ET start\n\nTeams: South Carolina Gamecocks at Clemson Tigers\n\nBroadcas
+ t to be announced.\n\nKickoff has not been announced. This all-day marker 
+ will become a timed event when confirmed.\n\nSchedule: https://www.espn.co
+ m/college-football/game/_/gameId/401856764/south-carolina-clemson
 LOCATION:Memorial Stadium (Clemson\, SC)\, Clemson\, SC\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856764/south-car
  olina-clemson
@@ -12675,25 +12675,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852422@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270325
-DTEND;VALUE=DATE:20270326
-SUMMARY:MLB: Baltimore Orioles at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852422
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/852422
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-853317@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -12733,6 +12714,24 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-852422@football-watchlist
+DTSTAMP:20261116T232611Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270325T201000Z
+DTEND:20270325T231000Z
+SUMMARY:MLB: Baltimore Orioles at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852422
+LOCATION:Tropicana Field
+URL:https://www.mlb.com/gameday/852422
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nhl-2026021216@football-watchlist
 DTSTAMP:20261001T073711Z
 CREATED:20261001T073711Z
@@ -12755,41 +12754,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852418@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270326
-DTEND;VALUE=DATE:20270327
-SUMMARY:MLB: Baltimore Orioles at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852418
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270326T224000Z
+DTEND:20270327T014000Z
+SUMMARY:MLB: Baltimore Orioles at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852418
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852418
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-852424@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270327
-DTEND;VALUE=DATE:20270328
-SUMMARY:MLB: Baltimore Orioles at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852424
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/852424
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853314@football-watchlist
@@ -12828,6 +12807,24 @@ DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
 LOCATION:Delta Center
 URL:https://www.nhl.com/gamecenter/sjs-vs-uta/2027/03/26/2026021226
 CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-852424@football-watchlist
+DTSTAMP:20261116T232611Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270327T201000Z
+DTEND:20270327T231000Z
+SUMMARY:MLB: Baltimore Orioles at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852424
+LOCATION:Tropicana Field
+URL:https://www.mlb.com/gameday/852424
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -12872,22 +12869,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852417@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270329
-DTEND;VALUE=DATE:20270330
-SUMMARY:MLB: Los Angeles Angels at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852417
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270329T224000Z
+DTEND:20270330T014000Z
+SUMMARY:MLB: Los Angeles Angels at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852417
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852417
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852178@football-watchlist
@@ -12928,25 +12924,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852415@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270330
-DTEND;VALUE=DATE:20270331
-SUMMARY:MLB: Los Angeles Angels at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852415
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/852415
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:nhl-2026021247@football-watchlist
 DTSTAMP:20261001T073711Z
 CREATED:20261001T073711Z
@@ -12963,6 +12940,24 @@ DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
 LOCATION:SAP Center at San Jose
 URL:https://www.nhl.com/gamecenter/col-vs-sjs/2027/03/29/2026021247
 CATEGORIES:NHL,Regular season,San Jose Sharks
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-852415@football-watchlist
+DTSTAMP:20261116T232611Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270330T224000Z
+DTEND:20270331T014000Z
+SUMMARY:MLB: Los Angeles Angels at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852415
+LOCATION:Tropicana Field
+URL:https://www.mlb.com/gameday/852415
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -13005,25 +13000,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852421@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270331
-DTEND;VALUE=DATE:20270401
-SUMMARY:MLB: Los Angeles Angels at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852421
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/852421
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-852167@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -13038,6 +13014,24 @@ DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing
 LOCATION:Nationals Park
 URL:https://www.mlb.com/gameday/852167
 CATEGORIES:MLB,Followed team,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-852421@football-watchlist
+DTSTAMP:20261116T232611Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270331T171000Z
+DTEND:20270331T201000Z
+SUMMARY:MLB: Los Angeles Angels at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852421
+LOCATION:Tropicana Field
+URL:https://www.mlb.com/gameday/852421
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -13494,25 +13488,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852416@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270409
-DTEND;VALUE=DATE:20270410
-SUMMARY:MLB: Toronto Blue Jays at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852416
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/852416
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-853714@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -13552,6 +13527,24 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-852416@football-watchlist
+DTSTAMP:20261116T232611Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270409T224000Z
+DTEND:20270410T014000Z
+SUMMARY:MLB: Toronto Blue Jays at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852416
+LOCATION:Tropicana Field
+URL:https://www.mlb.com/gameday/852416
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:chelsea-2645497@football-watchlist
 DTSTAMP:20261003T132345Z
 CREATED:20261003T132258Z
@@ -13571,25 +13564,6 @@ LOCATION:Stamford Bridge
 URL:https://www.chelseafc.com/en/match/chelsea-vs-fulham-english-premier-le
  ague-2027-04-10
 CATEGORIES:Soccer,Chelsea,Premier League
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-852423@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270410
-DTEND;VALUE=DATE:20270411
-SUMMARY:MLB: Toronto Blue Jays at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852423
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/852423
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -13672,6 +13646,24 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-852423@football-watchlist
+DTSTAMP:20261116T232611Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270410T201000Z
+DTEND:20270410T231000Z
+SUMMARY:MLB: Toronto Blue Jays at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852423
+LOCATION:Tropicana Field
+URL:https://www.mlb.com/gameday/852423
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nhl-2026021334@football-watchlist
 DTSTAMP:20261001T073711Z
 CREATED:20261001T073711Z
@@ -13690,25 +13682,6 @@ URL:https://www.nhl.com/gamecenter/car-vs-fla/2027/04/10/2026021334
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-852425@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270411
-DTEND;VALUE=DATE:20270412
-SUMMARY:MLB: Toronto Blue Jays at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852425
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/852425
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853718@football-watchlist
@@ -13749,42 +13722,58 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852414@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-852425@football-watchlist
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270412
-DTEND;VALUE=DATE:20270413
-SUMMARY:MLB: Boston Red Sox at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852414
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270411T174000Z
+DTEND:20270411T204000Z
+SUMMARY:MLB: Toronto Blue Jays at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852425
+LOCATION:Tropicana Field
+URL:https://www.mlb.com/gameday/852425
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-852414@football-watchlist
+DTSTAMP:20261116T232611Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270412T224000Z
+DTEND:20270413T014000Z
+SUMMARY:MLB: Boston Red Sox at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852414
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852414
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852426@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270413
-DTEND;VALUE=DATE:20270414
-SUMMARY:MLB: Boston Red Sox at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852426
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270413T224000Z
+DTEND:20270414T014000Z
+SUMMARY:MLB: Boston Red Sox at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852426
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852426
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853063@football-watchlist
@@ -13806,22 +13795,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852412@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270414
-DTEND;VALUE=DATE:20270415
-SUMMARY:MLB: Boston Red Sox at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852412
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270414T224000Z
+DTEND:20270415T014000Z
+SUMMARY:MLB: Boston Red Sox at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852412
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852412
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853057@football-watchlist
@@ -13842,25 +13830,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852397@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270415
-DTEND;VALUE=DATE:20270416
-SUMMARY:MLB: Boston Red Sox at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852397
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/852397
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-853056@football-watchlist
 DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
@@ -13875,6 +13844,24 @@ DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853056
 CATEGORIES:MLB,Followed team,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-852397@football-watchlist
+DTSTAMP:20261116T232611Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270415T224000Z
+DTEND:20270416T014000Z
+SUMMARY:MLB: Boston Red Sox at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852397
+LOCATION:Tropicana Field
+URL:https://www.mlb.com/gameday/852397
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -14180,22 +14167,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852399@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270423
-DTEND;VALUE=DATE:20270424
-SUMMARY:MLB: Atlanta Braves at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852399
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270423T224000Z
+DTEND:20270424T014000Z
+SUMMARY:MLB: Atlanta Braves at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852399
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852399
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853058@football-watchlist
@@ -14239,25 +14225,6 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852405@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270424
-DTEND;VALUE=DATE:20270425
-SUMMARY:MLB: Atlanta Braves at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852405
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/852405
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:soccer-401876235@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -14297,6 +14264,24 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-852405@football-watchlist
+DTSTAMP:20261116T232611Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270424T201000Z
+DTEND:20270424T231000Z
+SUMMARY:MLB: Atlanta Braves at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852405
+LOCATION:Tropicana Field
+URL:https://www.mlb.com/gameday/852405
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-853060@football-watchlist
 DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
@@ -14313,25 +14298,6 @@ URL:https://www.mlb.com/gameday/853060
 CATEGORIES:MLB,Followed team,New York Mets
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-852402@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270425
-DTEND;VALUE=DATE:20270426
-SUMMARY:MLB: Atlanta Braves at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852402
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/852402
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401874873@football-watchlist
@@ -14351,6 +14317,24 @@ URL:https://www.espn.com/soccer/match/_/gameId/401874873
 CATEGORIES:Soccer,Followed team,Italian Serie A
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-852402@football-watchlist
+DTSTAMP:20261116T232611Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270425T174000Z
+DTEND:20270425T204000Z
+SUMMARY:MLB: Atlanta Braves at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852402
+LOCATION:Tropicana Field
+URL:https://www.mlb.com/gameday/852402
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853061@football-watchlist
@@ -14390,22 +14374,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852406@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270427
-DTEND;VALUE=DATE:20270428
-SUMMARY:MLB: Pittsburgh Pirates at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852406
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270427T224000Z
+DTEND:20270428T014000Z
+SUMMARY:MLB: Pittsburgh Pirates at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852406
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852406
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853064@football-watchlist
@@ -14426,25 +14409,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852411@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270428
-DTEND;VALUE=DATE:20270429
-SUMMARY:MLB: Pittsburgh Pirates at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852411
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/852411
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-853055@football-watchlist
 DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
@@ -14463,23 +14427,40 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852410@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-852411@football-watchlist
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270429
-DTEND;VALUE=DATE:20270430
-SUMMARY:MLB: Pittsburgh Pirates at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852410
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270428T224000Z
+DTEND:20270429T014000Z
+SUMMARY:MLB: Pittsburgh Pirates at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852411
+LOCATION:Tropicana Field
+URL:https://www.mlb.com/gameday/852411
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-852410@football-watchlist
+DTSTAMP:20261116T232611Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270429T171000Z
+DTEND:20270429T201000Z
+SUMMARY:MLB: Pittsburgh Pirates at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852410
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852410
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854361@football-watchlist
@@ -14933,22 +14914,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852400@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270511
-DTEND;VALUE=DATE:20270512
-SUMMARY:MLB: Chicago White Sox at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852400
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270511T224000Z
+DTEND:20270512T014000Z
+SUMMARY:MLB: Chicago White Sox at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852400
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852400
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853045@football-watchlist
@@ -14970,22 +14950,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852404@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270512
-DTEND;VALUE=DATE:20270513
-SUMMARY:MLB: Chicago White Sox at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852404
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270512T224000Z
+DTEND:20270513T014000Z
+SUMMARY:MLB: Chicago White Sox at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852404
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852404
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853040@football-watchlist
@@ -15006,25 +14985,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852408@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270513
-DTEND;VALUE=DATE:20270514
-SUMMARY:MLB: Chicago White Sox at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852408
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/852408
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-853041@football-watchlist
 DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
@@ -15043,23 +15003,40 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852401@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-852408@football-watchlist
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270514
-DTEND;VALUE=DATE:20270515
-SUMMARY:MLB: St. Louis Cardinals at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852401
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270513T224000Z
+DTEND:20270514T014000Z
+SUMMARY:MLB: Chicago White Sox at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852408
+LOCATION:Tropicana Field
+URL:https://www.mlb.com/gameday/852408
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-852401@football-watchlist
+DTSTAMP:20261116T232611Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270514T224000Z
+DTEND:20270515T014000Z
+SUMMARY:MLB: St. Louis Cardinals at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852401
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852401
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853215@football-watchlist
@@ -15103,25 +15080,6 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852398@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270515
-DTEND;VALUE=DATE:20270516
-SUMMARY:MLB: St. Louis Cardinals at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852398
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/852398
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:soccer-401884526@football-watchlist
 DTSTAMP:20261114T124535Z
 CREATED:20261114T124535Z
@@ -15142,6 +15100,24 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-852398@football-watchlist
+DTSTAMP:20261116T232611Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270515T201000Z
+DTEND:20270515T231000Z
+SUMMARY:MLB: St. Louis Cardinals at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852398
+LOCATION:Tropicana Field
+URL:https://www.mlb.com/gameday/852398
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-853214@football-watchlist
 DTSTAMP:20261104T205101Z
 CREATED:20261026T100606Z
@@ -15158,25 +15134,6 @@ URL:https://www.mlb.com/gameday/853214
 CATEGORIES:MLB,Followed team,New York Mets
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-852403@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270516
-DTEND;VALUE=DATE:20270517
-SUMMARY:MLB: St. Louis Cardinals at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852403
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/852403
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401875130@football-watchlist
@@ -15215,6 +15172,24 @@ URL:https://www.espn.com/soccer/match/_/gameId/401876210
 CATEGORIES:Soccer,Followed team,French Ligue 1
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-852403@football-watchlist
+DTSTAMP:20261116T232611Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270516T174000Z
+DTEND:20270516T204000Z
+SUMMARY:MLB: St. Louis Cardinals at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852403
+LOCATION:Tropicana Field
+URL:https://www.mlb.com/gameday/852403
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853212@football-watchlist
@@ -15555,22 +15530,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852409@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270525
-DTEND;VALUE=DATE:20270526
-SUMMARY:MLB: Philadelphia Phillies at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852409
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270525T224000Z
+DTEND:20270526T014000Z
+SUMMARY:MLB: Philadelphia Phillies at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852409
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852409
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853044@football-watchlist
@@ -15591,25 +15565,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852407@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270526
-DTEND;VALUE=DATE:20270527
-SUMMARY:MLB: Philadelphia Phillies at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852407
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/852407
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-853050@football-watchlist
 DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
@@ -15628,42 +15583,58 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852391@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-852407@football-watchlist
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270527
-DTEND;VALUE=DATE:20270528
-SUMMARY:MLB: Philadelphia Phillies at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852391
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270526T224000Z
+DTEND:20270527T014000Z
+SUMMARY:MLB: Philadelphia Phillies at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852407
+LOCATION:Tropicana Field
+URL:https://www.mlb.com/gameday/852407
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-852391@football-watchlist
+DTSTAMP:20261116T232611Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270527T224000Z
+DTEND:20270528T014000Z
+SUMMARY:MLB: Philadelphia Phillies at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852391
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852391
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852393@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270528
-DTEND;VALUE=DATE:20270529
-SUMMARY:MLB: Cleveland Guardians at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852393
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270528T224000Z
+DTEND:20270529T014000Z
+SUMMARY:MLB: Cleveland Guardians at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852393
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852393
 CATEGORIES:MLB,Followed team,Cleveland Guardians,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853051@football-watchlist
@@ -15684,25 +15655,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852388@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270529
-DTEND;VALUE=DATE:20270530
-SUMMARY:MLB: Cleveland Guardians at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852388
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/852388
-CATEGORIES:MLB,Followed team,Cleveland Guardians,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:soccer-401876195@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -15720,6 +15672,24 @@ URL:https://www.espn.com/soccer/match/_/gameId/401876195
 CATEGORIES:Soccer,Followed team,French Ligue 1
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-852388@football-watchlist
+DTSTAMP:20261116T232611Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270529T201000Z
+DTEND:20270529T231000Z
+SUMMARY:MLB: Cleveland Guardians at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852388
+LOCATION:Tropicana Field
+URL:https://www.mlb.com/gameday/852388
+CATEGORIES:MLB,Followed team,Cleveland Guardians,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853053@football-watchlist
@@ -15763,25 +15733,6 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852395@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270530
-DTEND;VALUE=DATE:20270531
-SUMMARY:MLB: Cleveland Guardians at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852395
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/852395
-CATEGORIES:MLB,Followed team,Cleveland Guardians,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:soccer-401875084@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -15799,6 +15750,24 @@ URL:https://www.espn.com/soccer/match/_/gameId/401875084
 CATEGORIES:Soccer,Followed team,Italian Serie A
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-852395@football-watchlist
+DTSTAMP:20261116T232611Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270530T174000Z
+DTEND:20270530T204000Z
+SUMMARY:MLB: Cleveland Guardians at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852395
+LOCATION:Tropicana Field
+URL:https://www.mlb.com/gameday/852395
+CATEGORIES:MLB,Followed team,Cleveland Guardians,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853052@football-watchlist
@@ -15949,22 +15918,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852396@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270604
-DTEND;VALUE=DATE:20270605
-SUMMARY:MLB: Houston Astros at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852396
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270604T224000Z
+DTEND:20270605T014000Z
+SUMMARY:MLB: Houston Astros at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852396
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852396
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853046@football-watchlist
@@ -15986,22 +15954,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852392@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270605
-DTEND;VALUE=DATE:20270606
-SUMMARY:MLB: Houston Astros at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852392
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270605T201000Z
+DTEND:20270605T231000Z
+SUMMARY:MLB: Houston Astros at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852392
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852392
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853047@football-watchlist
@@ -16023,22 +15990,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852390@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270606
-DTEND;VALUE=DATE:20270607
-SUMMARY:MLB: Houston Astros at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852390
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270606T174000Z
+DTEND:20270606T204000Z
+SUMMARY:MLB: Houston Astros at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852390
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852390
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853049@football-watchlist
@@ -16297,22 +16263,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852386@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270615
-DTEND;VALUE=DATE:20270616
-SUMMARY:MLB: New York Yankees at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852386
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270615T224000Z
+DTEND:20270616T014000Z
+SUMMARY:MLB: New York Yankees at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852386
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852386
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853033@football-watchlist
@@ -16334,22 +16299,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852385@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270616
-DTEND;VALUE=DATE:20270617
-SUMMARY:MLB: New York Yankees at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852385
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270616T224000Z
+DTEND:20270617T014000Z
+SUMMARY:MLB: New York Yankees at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852385
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852385
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853029@football-watchlist
@@ -16370,25 +16334,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852387@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270617
-DTEND;VALUE=DATE:20270618
-SUMMARY:MLB: New York Yankees at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852387
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/852387
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-853026@football-watchlist
 DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
@@ -16407,23 +16352,40 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852389@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-852387@football-watchlist
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270618
-DTEND;VALUE=DATE:20270619
-SUMMARY:MLB: Milwaukee Brewers at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852389
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270617T224000Z
+DTEND:20270618T014000Z
+SUMMARY:MLB: New York Yankees at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852387
+LOCATION:Tropicana Field
+URL:https://www.mlb.com/gameday/852387
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-852389@football-watchlist
+DTSTAMP:20261116T232611Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270618T224000Z
+DTEND:20270619T014000Z
+SUMMARY:MLB: Milwaukee Brewers at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852389
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852389
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853038@football-watchlist
@@ -16445,22 +16407,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852383@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270619
-DTEND;VALUE=DATE:20270620
-SUMMARY:MLB: Milwaukee Brewers at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852383
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270619T201000Z
+DTEND:20270619T231000Z
+SUMMARY:MLB: Milwaukee Brewers at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852383
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852383
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853027@football-watchlist
@@ -16482,22 +16443,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852384@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270620
-DTEND;VALUE=DATE:20270621
-SUMMARY:MLB: Milwaukee Brewers at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852384
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270620T174000Z
+DTEND:20270620T204000Z
+SUMMARY:MLB: Milwaukee Brewers at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852384
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852384
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853036@football-watchlist
@@ -16537,22 +16497,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852394@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270622
-DTEND;VALUE=DATE:20270623
-SUMMARY:MLB: Los Angeles Dodgers at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852394
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270622T224000Z
+DTEND:20270623T014000Z
+SUMMARY:MLB: Los Angeles Dodgers at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852394
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852394
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853031@football-watchlist
@@ -16573,25 +16532,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852368@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270623
-DTEND;VALUE=DATE:20270624
-SUMMARY:MLB: Los Angeles Dodgers at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852368
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/852368
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-853032@football-watchlist
 DTSTAMP:20261103T203109Z
 CREATED:20261026T100606Z
@@ -16610,23 +16550,40 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852372@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-852368@football-watchlist
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270624
-DTEND;VALUE=DATE:20270625
-SUMMARY:MLB: Los Angeles Dodgers at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852372
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270623T224000Z
+DTEND:20270624T014000Z
+SUMMARY:MLB: Los Angeles Dodgers at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852368
+LOCATION:Tropicana Field
+URL:https://www.mlb.com/gameday/852368
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-852372@football-watchlist
+DTSTAMP:20261116T232611Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270624T200500Z
+DTEND:20270624T230500Z
+SUMMARY:MLB: Los Angeles Dodgers at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852372
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852372
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852456@football-watchlist
@@ -16756,25 +16713,6 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-854486@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270628
-DTEND;VALUE=DATE:20270629
-SUMMARY:MLB: New York Mets at Arizona Diamondbacks [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/854486
-LOCATION:Chase Field
-URL:https://www.mlb.com/gameday/854486
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-852626@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -16794,23 +16732,22 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-854494@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-854486@football-watchlist
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270629
-DTEND;VALUE=DATE:20270630
-SUMMARY:MLB: New York Mets at Arizona Diamondbacks [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/854494
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270629T014000Z
+DTEND:20270629T044000Z
+SUMMARY:MLB: New York Mets at Arizona Diamondbacks
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/854486
 LOCATION:Chase Field
-URL:https://www.mlb.com/gameday/854494
+URL:https://www.mlb.com/gameday/854486
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852631@football-watchlist
@@ -16832,23 +16769,40 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-854495@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-854494@football-watchlist
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270630
-DTEND;VALUE=DATE:20270701
-SUMMARY:MLB: New York Mets at Arizona Diamondbacks [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/854495
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270630T014000Z
+DTEND:20270630T044000Z
+SUMMARY:MLB: New York Mets at Arizona Diamondbacks
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/854494
+LOCATION:Chase Field
+URL:https://www.mlb.com/gameday/854494
+CATEGORIES:MLB,Followed team,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-854495@football-watchlist
+DTSTAMP:20261116T232611Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270630T194000Z
+DTEND:20270630T224000Z
+SUMMARY:MLB: New York Mets at Arizona Diamondbacks
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/854495
 LOCATION:Chase Field
 URL:https://www.mlb.com/gameday/854495
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853342@football-watchlist
@@ -16982,22 +16936,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852373@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270706
-DTEND;VALUE=DATE:20270707
-SUMMARY:MLB: Boston Red Sox at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852373
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270706T224000Z
+DTEND:20270707T014000Z
+SUMMARY:MLB: Boston Red Sox at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852373
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852373
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853035@football-watchlist
@@ -17019,22 +16972,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852381@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270707
-DTEND;VALUE=DATE:20270708
-SUMMARY:MLB: Boston Red Sox at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852381
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270707T224000Z
+DTEND:20270708T014000Z
+SUMMARY:MLB: Boston Red Sox at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852381
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852381
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853030@football-watchlist
@@ -17056,22 +17008,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852370@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270708
-DTEND;VALUE=DATE:20270709
-SUMMARY:MLB: Boston Red Sox at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852370
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270708T224000Z
+DTEND:20270709T014000Z
+SUMMARY:MLB: Boston Red Sox at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852370
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852370
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853037@football-watchlist
@@ -17093,22 +17044,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852371@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270709
-DTEND;VALUE=DATE:20270710
-SUMMARY:MLB: Baltimore Orioles at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852371
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270709T224000Z
+DTEND:20270710T014000Z
+SUMMARY:MLB: Baltimore Orioles at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852371
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852371
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853034@football-watchlist
@@ -17130,22 +17080,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852379@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270710
-DTEND;VALUE=DATE:20270711
-SUMMARY:MLB: Baltimore Orioles at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852379
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270710T201000Z
+DTEND:20270710T231000Z
+SUMMARY:MLB: Baltimore Orioles at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852379
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852379
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853028@football-watchlist
@@ -17167,22 +17116,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852382@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270711
-DTEND;VALUE=DATE:20270712
-SUMMARY:MLB: Baltimore Orioles at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852382
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270711T174000Z
+DTEND:20270711T204000Z
+SUMMARY:MLB: Baltimore Orioles at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852382
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852382
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853016@football-watchlist
@@ -17444,22 +17392,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852369@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270723
-DTEND;VALUE=DATE:20270724
-SUMMARY:MLB: Kansas City Royals at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852369
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270723T224000Z
+DTEND:20270724T014000Z
+SUMMARY:MLB: Kansas City Royals at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852369
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852369
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853021@football-watchlist
@@ -17481,22 +17428,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852380@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270724
-DTEND;VALUE=DATE:20270725
-SUMMARY:MLB: Kansas City Royals at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852380
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270724T201000Z
+DTEND:20270724T231000Z
+SUMMARY:MLB: Kansas City Royals at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852380
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852380
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853014@football-watchlist
@@ -17518,22 +17464,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852378@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270725
-DTEND;VALUE=DATE:20270726
-SUMMARY:MLB: Kansas City Royals at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852378
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270725T174000Z
+DTEND:20270725T204000Z
+SUMMARY:MLB: Kansas City Royals at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852378
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852378
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853023@football-watchlist
@@ -17555,22 +17500,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852375@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270726
-DTEND;VALUE=DATE:20270727
-SUMMARY:MLB: Texas Rangers at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852375
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270726T224000Z
+DTEND:20270727T014000Z
+SUMMARY:MLB: Texas Rangers at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852375
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852375
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853024@football-watchlist
@@ -17592,22 +17536,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852376@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270727
-DTEND;VALUE=DATE:20270728
-SUMMARY:MLB: Texas Rangers at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852376
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270727T224000Z
+DTEND:20270728T014000Z
+SUMMARY:MLB: Texas Rangers at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852376
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852376
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853017@football-watchlist
@@ -17628,25 +17571,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852374@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270728
-DTEND;VALUE=DATE:20270729
-SUMMARY:MLB: Texas Rangers at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852374
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/852374
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-853015@football-watchlist
 DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
@@ -17665,23 +17589,40 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852377@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-852374@football-watchlist
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270729
-DTEND;VALUE=DATE:20270730
-SUMMARY:MLB: Texas Rangers at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852377
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270728T224000Z
+DTEND:20270729T014000Z
+SUMMARY:MLB: Texas Rangers at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852374
+LOCATION:Tropicana Field
+URL:https://www.mlb.com/gameday/852374
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-852377@football-watchlist
+DTSTAMP:20261116T232611Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270729T161000Z
+DTEND:20270729T191000Z
+SUMMARY:MLB: Texas Rangers at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852377
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852377
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852772@football-watchlist
@@ -17792,25 +17733,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-854478@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270802
-DTEND;VALUE=DATE:20270803
-SUMMARY:MLB: Tampa Bay Rays at Arizona Diamondbacks [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/854478
-LOCATION:Chase Field
-URL:https://www.mlb.com/gameday/854478
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-853910@football-watchlist
 DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
@@ -17829,23 +17751,22 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-854477@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-854478@football-watchlist
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270803
-DTEND;VALUE=DATE:20270804
-SUMMARY:MLB: Tampa Bay Rays at Arizona Diamondbacks [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/854477
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270803T014000Z
+DTEND:20270803T044000Z
+SUMMARY:MLB: Tampa Bay Rays at Arizona Diamondbacks
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/854478
 LOCATION:Chase Field
-URL:https://www.mlb.com/gameday/854477
+URL:https://www.mlb.com/gameday/854478
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853907@football-watchlist
@@ -17866,23 +17787,40 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-854476@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-854477@football-watchlist
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270804
-DTEND;VALUE=DATE:20270805
-SUMMARY:MLB: Tampa Bay Rays at Arizona Diamondbacks [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/854476
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270804T014000Z
+DTEND:20270804T044000Z
+SUMMARY:MLB: Tampa Bay Rays at Arizona Diamondbacks
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/854477
+LOCATION:Chase Field
+URL:https://www.mlb.com/gameday/854477
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-854476@football-watchlist
+DTSTAMP:20261116T232611Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270804T194000Z
+DTEND:20270804T224000Z
+SUMMARY:MLB: Tampa Bay Rays at Arizona Diamondbacks
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/854476
 LOCATION:Chase Field
 URL:https://www.mlb.com/gameday/854476
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853913@football-watchlist
@@ -17904,22 +17842,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852358@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270806
-DTEND;VALUE=DATE:20270807
-SUMMARY:MLB: Seattle Mariners at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852358
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270806T224000Z
+DTEND:20270807T014000Z
+SUMMARY:MLB: Seattle Mariners at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852358
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852358
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853020@football-watchlist
@@ -17941,22 +17878,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852357@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270807
-DTEND;VALUE=DATE:20270808
-SUMMARY:MLB: Seattle Mariners at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852357
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270807T201000Z
+DTEND:20270807T231000Z
+SUMMARY:MLB: Seattle Mariners at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852357
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852357
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853019@football-watchlist
@@ -17978,22 +17914,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852366@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270808
-DTEND;VALUE=DATE:20270809
-SUMMARY:MLB: Seattle Mariners at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852366
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270808T174000Z
+DTEND:20270808T204000Z
+SUMMARY:MLB: Seattle Mariners at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852366
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852366
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853013@football-watchlist
@@ -18015,22 +17950,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852362@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270809
-DTEND;VALUE=DATE:20270810
-SUMMARY:MLB: New York Yankees at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852362
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270809T224000Z
+DTEND:20270810T014000Z
+SUMMARY:MLB: New York Yankees at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852362
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852362
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853018@football-watchlist
@@ -18052,22 +17986,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852367@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270810
-DTEND;VALUE=DATE:20270811
-SUMMARY:MLB: New York Yankees at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852367
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270810T224000Z
+DTEND:20270811T014000Z
+SUMMARY:MLB: New York Yankees at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852367
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852367
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853022@football-watchlist
@@ -18088,25 +18021,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852360@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270811
-DTEND;VALUE=DATE:20270812
-SUMMARY:MLB: New York Yankees at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852360
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/852360
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-853006@football-watchlist
 DTSTAMP:20261102T224851Z
 CREATED:20261026T100606Z
@@ -18121,6 +18035,24 @@ DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing
 LOCATION:Citi Field
 URL:https://www.mlb.com/gameday/853006
 CATEGORIES:MLB,Followed team,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-852360@football-watchlist
+DTSTAMP:20261116T232611Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270811T224000Z
+DTEND:20270812T014000Z
+SUMMARY:MLB: New York Yankees at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852360
+LOCATION:Tropicana Field
+URL:https://www.mlb.com/gameday/852360
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -18459,22 +18391,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852354@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270824
-DTEND;VALUE=DATE:20270825
-SUMMARY:MLB: Detroit Tigers at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852354
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270824T224000Z
+DTEND:20270825T014000Z
+SUMMARY:MLB: Detroit Tigers at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852354
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852354
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853000@football-watchlist
@@ -18496,22 +18427,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852356@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270825
-DTEND;VALUE=DATE:20270826
-SUMMARY:MLB: Detroit Tigers at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852356
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270825T224000Z
+DTEND:20270826T014000Z
+SUMMARY:MLB: Detroit Tigers at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852356
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852356
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853010@football-watchlist
@@ -18533,22 +18463,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852365@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270826
-DTEND;VALUE=DATE:20270827
-SUMMARY:MLB: Detroit Tigers at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852365
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270826T224000Z
+DTEND:20270827T014000Z
+SUMMARY:MLB: Detroit Tigers at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852365
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852365
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853004@football-watchlist
@@ -18570,22 +18499,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852355@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270827
-DTEND;VALUE=DATE:20270828
-SUMMARY:MLB: Minnesota Twins at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852355
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270827T224000Z
+DTEND:20270828T014000Z
+SUMMARY:MLB: Minnesota Twins at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852355
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852355
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852999@football-watchlist
@@ -18607,22 +18535,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852361@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270828
-DTEND;VALUE=DATE:20270829
-SUMMARY:MLB: Minnesota Twins at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852361
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270828T201000Z
+DTEND:20270828T231000Z
+SUMMARY:MLB: Minnesota Twins at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852361
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852361
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853011@football-watchlist
@@ -18644,22 +18571,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852364@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270829
-DTEND;VALUE=DATE:20270830
-SUMMARY:MLB: Minnesota Twins at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852364
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270829T174000Z
+DTEND:20270829T204000Z
+SUMMARY:MLB: Minnesota Twins at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852364
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852364
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853003@football-watchlist
@@ -18681,41 +18607,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852359@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270830
-DTEND;VALUE=DATE:20270831
-SUMMARY:MLB: Toronto Blue Jays at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852359
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270830T224000Z
+DTEND:20270831T014000Z
+SUMMARY:MLB: Toronto Blue Jays at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852359
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852359
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-852363@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270831
-DTEND;VALUE=DATE:20270901
-SUMMARY:MLB: Toronto Blue Jays at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852363
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/852363
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853238@football-watchlist
@@ -18737,23 +18643,22 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852341@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-852363@football-watchlist
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270901
-DTEND;VALUE=DATE:20270902
-SUMMARY:MLB: Toronto Blue Jays at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852341
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270831T224000Z
+DTEND:20270901T014000Z
+SUMMARY:MLB: Toronto Blue Jays at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852363
 LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/852341
+URL:https://www.mlb.com/gameday/852363
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853248@football-watchlist
@@ -18775,23 +18680,22 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852339@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-852341@football-watchlist
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270902
-DTEND;VALUE=DATE:20270903
-SUMMARY:MLB: Toronto Blue Jays at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852339
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270901T224000Z
+DTEND:20270902T014000Z
+SUMMARY:MLB: Toronto Blue Jays at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852341
 LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/852339
+URL:https://www.mlb.com/gameday/852341
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853244@football-watchlist
@@ -18811,6 +18715,24 @@ URL:https://www.mlb.com/gameday/853244
 CATEGORIES:MLB,Followed team,New York Mets
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-852339@football-watchlist
+DTSTAMP:20261116T232611Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270902T224000Z
+DTEND:20270903T014000Z
+SUMMARY:MLB: Toronto Blue Jays at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852339
+LOCATION:Tropicana Field
+URL:https://www.mlb.com/gameday/852339
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852831@football-watchlist
@@ -19030,22 +18952,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852340@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270910
-DTEND;VALUE=DATE:20270911
-SUMMARY:MLB: Miami Marlins at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852340
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270910T224000Z
+DTEND:20270911T014000Z
+SUMMARY:MLB: Miami Marlins at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852340
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852340
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853009@football-watchlist
@@ -19067,22 +18988,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852342@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270911
-DTEND;VALUE=DATE:20270912
-SUMMARY:MLB: Miami Marlins at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852342
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270911T201000Z
+DTEND:20270911T231000Z
+SUMMARY:MLB: Miami Marlins at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852342
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852342
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852995@football-watchlist
@@ -19104,22 +19024,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852348@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270912
-DTEND;VALUE=DATE:20270913
-SUMMARY:MLB: Miami Marlins at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852348
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270912T174000Z
+DTEND:20270912T204000Z
+SUMMARY:MLB: Miami Marlins at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852348
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852348
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852994@football-watchlist
@@ -19159,22 +19078,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852352@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270914
-DTEND;VALUE=DATE:20270915
-SUMMARY:MLB: Athletics at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852352
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270914T224000Z
+DTEND:20270915T014000Z
+SUMMARY:MLB: Athletics at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852352
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852352
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852108@football-watchlist
@@ -19196,22 +19114,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852353@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270915
-DTEND;VALUE=DATE:20270916
-SUMMARY:MLB: Athletics at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852353
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270915T224000Z
+DTEND:20270916T014000Z
+SUMMARY:MLB: Athletics at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852353
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852353
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852105@football-watchlist
@@ -19232,25 +19149,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852349@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270916
-DTEND;VALUE=DATE:20270917
-SUMMARY:MLB: Athletics at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852349
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/852349
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-852106@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -19269,23 +19167,22 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852350@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-852349@football-watchlist
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270917
-DTEND;VALUE=DATE:20270918
-SUMMARY:MLB: Colorado Rockies at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852350
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270916T171000Z
+DTEND:20270916T201000Z
+SUMMARY:MLB: Athletics at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852349
 LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/852350
+URL:https://www.mlb.com/gameday/852349
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854050@football-watchlist
@@ -19307,23 +19204,22 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852344@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-852350@football-watchlist
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270918
-DTEND;VALUE=DATE:20270919
-SUMMARY:MLB: Colorado Rockies at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852344
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270917T224000Z
+DTEND:20270918T014000Z
+SUMMARY:MLB: Colorado Rockies at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852350
 LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/852344
+URL:https://www.mlb.com/gameday/852350
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854055@football-watchlist
@@ -19345,23 +19241,22 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852346@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-852344@football-watchlist
+DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270919
-DTEND;VALUE=DATE:20270920
-SUMMARY:MLB: Colorado Rockies at Tampa Bay Rays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852346
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270918T201000Z
+DTEND:20270918T231000Z
+SUMMARY:MLB: Colorado Rockies at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852344
 LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/852346
+URL:https://www.mlb.com/gameday/852344
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854048@football-watchlist
@@ -19381,6 +19276,24 @@ URL:https://www.mlb.com/gameday/854048
 CATEGORIES:MLB,Followed team,New York Mets
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-852346@football-watchlist
+DTSTAMP:20261116T232611Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261116T232611Z
+SEQUENCE:1
+DTSTART:20270919T174000Z
+DTEND:20270919T204000Z
+SUMMARY:MLB: Colorado Rockies at Tampa Bay Rays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852346
+LOCATION:Tropicana Field
+URL:https://www.mlb.com/gameday/852346
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854125@football-watchlist

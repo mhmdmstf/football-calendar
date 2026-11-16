@@ -9540,17 +9540,17 @@
       "start": "2026-11-28",
       "end": "2026-11-29",
       "allDay": true,
-      "description": "Major rivalry: Clemson-South Carolina.\n\nTeams: South Carolina Gamecocks at Clemson Tigers\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856764/south-carolina-clemson",
+      "description": "Major rivalry: Clemson-South Carolina.\n\nAFTERNOON: 3 - 3:30pm ET start\n\nTeams: South Carolina Gamecocks at Clemson Tigers\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856764/south-carolina-clemson",
       "location": "Memorial Stadium (Clemson, SC), Clemson, SC, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856764/south-carolina-clemson",
       "status": "TENTATIVE",
       "categories": [
         "College"
       ],
-      "hash": "cbc1effcbf8bfa39fd550d3628ce16282dd7cb227a6cc93d73436f3032007a06",
+      "hash": "e3f193310c066ee8929abe8832ea266c34202e4b999b96e348d452859588bf4c",
       "created": "2026-09-05T14:52:08.096Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401858541@football-watchlist",
@@ -16779,39 +16779,6 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-852422@football-watchlist",
-      "gameId": "852422",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/110:1/139:1",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "110",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Baltimore Orioles at Tampa Bay Rays [time TBA]",
-      "start": "2027-03-25",
-      "end": "2027-03-26",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852422",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/852422",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "f3a32653523682db6a9047cecc9db68ee8b168247c9c1dc9adc5c049ef7a5213",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-853317@football-watchlist",
       "gameId": "853317",
       "mlbSeason": 2027,
@@ -16875,6 +16842,39 @@
       "sequence": 1
     },
     {
+      "uid": "mlb-852422@football-watchlist",
+      "gameId": "852422",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/110:1/139:1",
+      "mlbSeriesGameNumber": 1,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "110",
+        "139"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Baltimore Orioles at Tampa Bay Rays",
+      "start": "2027-03-25T20:10:00.000Z",
+      "end": "2027-03-25T23:10:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852422",
+      "location": "Tropicana Field",
+      "url": "https://www.mlb.com/gameday/852422",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "cd533a3207a793d686907507d15ebc377f011bf71f54d57c4ffcbd0ee25625d2",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
+    },
+    {
       "uid": "nhl-2026021216@football-watchlist",
       "gameId": "2026021216",
       "nhlSeason": 20262027,
@@ -16919,56 +16919,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Baltimore Orioles at Tampa Bay Rays [time TBA]",
-      "start": "2027-03-26",
-      "end": "2027-03-27",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852418",
+      "title": "MLB: Baltimore Orioles at Tampa Bay Rays",
+      "start": "2027-03-26T22:40:00.000Z",
+      "end": "2027-03-27T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852418",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852418",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "cfe7d60af6f4968e6272856aea3276244cd3f96da7a179e28b6e1774c3e7786f",
+      "hash": "142ba00d57fc1f62f49887d0b71712a159b937d4b38d480dc921c49fd0b6ee58",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-852424@football-watchlist",
-      "gameId": "852424",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/110:1/139:1",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "110",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Baltimore Orioles at Tampa Bay Rays [time TBA]",
-      "start": "2027-03-27",
-      "end": "2027-03-28",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852424",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/852424",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "a8eabf478741dfc2c368e7a2785ac10ff4a52bc2f157cd76e5b6e44bc493fc47",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853314@football-watchlist",
@@ -17031,6 +16998,39 @@
       "hash": "6a4676ecc0f9175e2810b2d44112327deafeb1c29fd9444189696c62b5349baa",
       "created": "2026-10-01T07:37:11.478Z",
       "modified": "2026-10-12T22:10:04.220Z",
+      "sequence": 1
+    },
+    {
+      "uid": "mlb-852424@football-watchlist",
+      "gameId": "852424",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/110:1/139:1",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "110",
+        "139"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Baltimore Orioles at Tampa Bay Rays",
+      "start": "2027-03-27T20:10:00.000Z",
+      "end": "2027-03-27T23:10:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852424",
+      "location": "Tropicana Field",
+      "url": "https://www.mlb.com/gameday/852424",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "64957d9459b8f535099a9ad2a08cff18e6d7300a29615034994a7f6b9c8a0f16",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-16T23:26:11.366Z",
       "sequence": 1
     },
     {
@@ -17111,23 +17111,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Los Angeles Angels at Tampa Bay Rays [time TBA]",
-      "start": "2027-03-29",
-      "end": "2027-03-30",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852417",
+      "title": "MLB: Los Angeles Angels at Tampa Bay Rays",
+      "start": "2027-03-29T22:40:00.000Z",
+      "end": "2027-03-30T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852417",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852417",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "71b7f8492aa582edd27433c02b76b815daefa74e099f48a5413602d844e11f96",
+      "hash": "f9fd7a3ed1d5d8c1b3f6320ba9f25a8785315e557780bc9a7b4db67870b0020f",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852178@football-watchlist",
@@ -17193,39 +17193,6 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-852415@football-watchlist",
-      "gameId": "852415",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/108:2/139:2",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "108",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Los Angeles Angels at Tampa Bay Rays [time TBA]",
-      "start": "2027-03-30",
-      "end": "2027-03-31",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852415",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/852415",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "a9cfae5d226bd58bb01789f0df1f6abadfb388cdb2a56f829e06ef3c9d9edaa5",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "nhl-2026021247@football-watchlist",
       "gameId": "2026021247",
       "nhlSeason": 20262027,
@@ -17254,6 +17221,39 @@
       "created": "2026-10-01T07:37:11.478Z",
       "modified": "2026-10-01T07:37:11.478Z",
       "sequence": 0
+    },
+    {
+      "uid": "mlb-852415@football-watchlist",
+      "gameId": "852415",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/108:2/139:2",
+      "mlbSeriesGameNumber": 2,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "108",
+        "139"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Los Angeles Angels at Tampa Bay Rays",
+      "start": "2027-03-30T22:40:00.000Z",
+      "end": "2027-03-31T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852415",
+      "location": "Tropicana Field",
+      "url": "https://www.mlb.com/gameday/852415",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "6d1fa4ab02e8d5d54c393a0577e8724cf63f0bcdca22a1f97f3663f7223e73c8",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852170@football-watchlist",
@@ -17319,39 +17319,6 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-852421@football-watchlist",
-      "gameId": "852421",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/108:2/139:2",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "108",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Los Angeles Angels at Tampa Bay Rays [time TBA]",
-      "start": "2027-03-31",
-      "end": "2027-04-01",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852421",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/852421",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "496b15623aa30a2563959a21eb089755395c4411d06870ff316ddb8e61da4619",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-852167@football-watchlist",
       "gameId": "852167",
       "mlbSeason": 2027,
@@ -17383,6 +17350,39 @@
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
+    },
+    {
+      "uid": "mlb-852421@football-watchlist",
+      "gameId": "852421",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/108:2/139:2",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "108",
+        "139"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Los Angeles Angels at Tampa Bay Rays",
+      "start": "2027-03-31T17:10:00.000Z",
+      "end": "2027-03-31T20:10:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852421",
+      "location": "Tropicana Field",
+      "url": "https://www.mlb.com/gameday/852421",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "3b47177b6dcf5639a77f06180949591b30f439d730a3ac83c065d9797252e9a1",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026021260@football-watchlist",
@@ -18159,39 +18159,6 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-852416@football-watchlist",
-      "gameId": "852416",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/141:5/139:5",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "141",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Toronto Blue Jays at Tampa Bay Rays [time TBA]",
-      "start": "2027-04-09",
-      "end": "2027-04-10",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852416",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/852416",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "db9e51a8f652a88550f7af788c4fe69699305ff92a75f85b47730207f09da6ff",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-853714@football-watchlist",
       "gameId": "853714",
       "mlbSeason": 2027,
@@ -18255,6 +18222,39 @@
       "sequence": 0
     },
     {
+      "uid": "mlb-852416@football-watchlist",
+      "gameId": "852416",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/141:5/139:5",
+      "mlbSeriesGameNumber": 1,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "141",
+        "139"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Toronto Blue Jays at Tampa Bay Rays",
+      "start": "2027-04-09T22:40:00.000Z",
+      "end": "2027-04-10T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852416",
+      "location": "Tropicana Field",
+      "url": "https://www.mlb.com/gameday/852416",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "64800c78903013ae48e5fe3f3d859b7e56af58d487dfe206c9f42539d2cbbb0e",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
+    },
+    {
       "uid": "chelsea-2645497@football-watchlist",
       "gameId": "2645497",
       "chelseaSeason": 2026,
@@ -18277,39 +18277,6 @@
       "created": "2026-10-03T13:22:58.480Z",
       "modified": "2026-10-03T13:23:45.745Z",
       "sequence": 1
-    },
-    {
-      "uid": "mlb-852423@football-watchlist",
-      "gameId": "852423",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/141:5/139:5",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "141",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Toronto Blue Jays at Tampa Bay Rays [time TBA]",
-      "start": "2027-04-10",
-      "end": "2027-04-11",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852423",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/852423",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "555fc668f24ca6ef24c7cfe7e722e163d191ce0d7b654ea6a82441f0757122df",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
     },
     {
       "uid": "mlb-853711@football-watchlist",
@@ -18443,6 +18410,39 @@
       "sequence": 1
     },
     {
+      "uid": "mlb-852423@football-watchlist",
+      "gameId": "852423",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/141:5/139:5",
+      "mlbSeriesGameNumber": 2,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "141",
+        "139"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Toronto Blue Jays at Tampa Bay Rays",
+      "start": "2027-04-10T20:10:00.000Z",
+      "end": "2027-04-10T23:10:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852423",
+      "location": "Tropicana Field",
+      "url": "https://www.mlb.com/gameday/852423",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "0d89082baf8c619d1edf77bd6c863bb391c31a6560835b47a7ca1847c73f4298",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
+    },
+    {
       "uid": "nhl-2026021334@football-watchlist",
       "gameId": "2026021334",
       "nhlSeason": 20262027,
@@ -18470,39 +18470,6 @@
       "hash": "bde1debfc50039db32ebbdc3ad71217d8972562a82f726ef1ced3bcb2e220c92",
       "created": "2026-10-01T07:37:11.478Z",
       "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-852425@football-watchlist",
-      "gameId": "852425",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/141:5/139:5",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "141",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Toronto Blue Jays at Tampa Bay Rays [time TBA]",
-      "start": "2027-04-11",
-      "end": "2027-04-12",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852425",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/852425",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "f0cbf1be731cb9541757af541746cc4ed74f5aa9dcc30627666827dbb51a3f19",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
     },
     {
@@ -18573,6 +18540,39 @@
       "sequence": 0
     },
     {
+      "uid": "mlb-852425@football-watchlist",
+      "gameId": "852425",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/141:5/139:5",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "141",
+        "139"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Toronto Blue Jays at Tampa Bay Rays",
+      "start": "2027-04-11T17:40:00.000Z",
+      "end": "2027-04-11T20:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852425",
+      "location": "Tropicana Field",
+      "url": "https://www.mlb.com/gameday/852425",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "09605beec41be83f08a2642d0838c857399bb00b3dd62a0b49e1916a583e4004",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
+    },
+    {
       "uid": "mlb-852414@football-watchlist",
       "gameId": "852414",
       "mlbSeason": 2027,
@@ -18587,23 +18587,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Boston Red Sox at Tampa Bay Rays [time TBA]",
-      "start": "2027-04-12",
-      "end": "2027-04-13",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852414",
+      "title": "MLB: Boston Red Sox at Tampa Bay Rays",
+      "start": "2027-04-12T22:40:00.000Z",
+      "end": "2027-04-13T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852414",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852414",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "ab199586574a1a06fe11e787a58661159770e5960192a0421924ef92686d03de",
+      "hash": "c1d6e220c86ff251955b988a50e4fbcce4c06befde174859280e30fd3555d4c0",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852426@football-watchlist",
@@ -18620,23 +18620,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Boston Red Sox at Tampa Bay Rays [time TBA]",
-      "start": "2027-04-13",
-      "end": "2027-04-14",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852426",
+      "title": "MLB: Boston Red Sox at Tampa Bay Rays",
+      "start": "2027-04-13T22:40:00.000Z",
+      "end": "2027-04-14T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852426",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852426",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "b045aa8da3c18a6dad4d124ebbf56ee59843413b2add0b17188c0e7e41a72180",
+      "hash": "986e85aacd01b388c7ecbe87ccccf2b4ceedec292f0cb354f82a00ac3d2ab5d4",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853063@football-watchlist",
@@ -18686,23 +18686,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Boston Red Sox at Tampa Bay Rays [time TBA]",
-      "start": "2027-04-14",
-      "end": "2027-04-15",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852412",
+      "title": "MLB: Boston Red Sox at Tampa Bay Rays",
+      "start": "2027-04-14T22:40:00.000Z",
+      "end": "2027-04-15T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852412",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852412",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "4fb92e4183112c5d0df09baa4fecb51305b569b195f10e57a7c012b85c90ce6e",
+      "hash": "677d1bfd91156359ede8ba8e5b75f81d10c43f4c46afb55e92c9dce7433be351",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853057@football-watchlist",
@@ -18738,39 +18738,6 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-852397@football-watchlist",
-      "gameId": "852397",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/111:6/139:6",
-      "mlbSeriesGameNumber": 4,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "111",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Boston Red Sox at Tampa Bay Rays [time TBA]",
-      "start": "2027-04-15",
-      "end": "2027-04-16",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852397",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/852397",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "82d771fee6cee6bc411a1d7449c30fa260471959078022cd7f5dadfe954a54f0",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-853056@football-watchlist",
       "gameId": "853056",
       "mlbSeason": 2027,
@@ -18801,6 +18768,39 @@
       "hash": "75c6fdfd45c55c1555c50252182bf32da4892b5cd4c429dbb868edda6d83d4ab",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
+    },
+    {
+      "uid": "mlb-852397@football-watchlist",
+      "gameId": "852397",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/111:6/139:6",
+      "mlbSeriesGameNumber": 4,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "111",
+        "139"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Boston Red Sox at Tampa Bay Rays",
+      "start": "2027-04-15T22:40:00.000Z",
+      "end": "2027-04-16T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852397",
+      "location": "Tropicana Field",
+      "url": "https://www.mlb.com/gameday/852397",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "20a574080461ce4a0201b36a54a3be50501b8cd27d2fbe3207faf3bd06fa3f9e",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-16T23:26:11.366Z",
       "sequence": 1
     },
     {
@@ -19340,23 +19340,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Atlanta Braves at Tampa Bay Rays [time TBA]",
-      "start": "2027-04-23",
-      "end": "2027-04-24",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852399",
+      "title": "MLB: Atlanta Braves at Tampa Bay Rays",
+      "start": "2027-04-23T22:40:00.000Z",
+      "end": "2027-04-24T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852399",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852399",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "fc4e9b7f1725c68a9a9b0be997b9b456859926f2b2e1bc0faaa477ddb73290b6",
+      "hash": "c24385a4e0de44c2685a9c7b1873d1030248a50c16565207b8b2398b1a91c39d",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853058@football-watchlist",
@@ -19414,39 +19414,6 @@
       "created": "2026-10-03T13:22:58.480Z",
       "modified": "2026-10-03T13:23:45.745Z",
       "sequence": 1
-    },
-    {
-      "uid": "mlb-852405@football-watchlist",
-      "gameId": "852405",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/144:9/139:9",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "144",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Atlanta Braves at Tampa Bay Rays [time TBA]",
-      "start": "2027-04-24",
-      "end": "2027-04-25",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852405",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/852405",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "04fdef69c8f7175b26ef62568fa7b7596c2a340f707eac6088024f3d07e9bbb8",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
     },
     {
       "uid": "soccer-401876235@football-watchlist",
@@ -19517,6 +19484,39 @@
       "sequence": 0
     },
     {
+      "uid": "mlb-852405@football-watchlist",
+      "gameId": "852405",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/144:9/139:9",
+      "mlbSeriesGameNumber": 2,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "144",
+        "139"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Atlanta Braves at Tampa Bay Rays",
+      "start": "2027-04-24T20:10:00.000Z",
+      "end": "2027-04-24T23:10:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852405",
+      "location": "Tropicana Field",
+      "url": "https://www.mlb.com/gameday/852405",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "1268474bd186afaf00496a8474628dca1131d046fd95bd07b187780b5a183e5c",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
+    },
+    {
       "uid": "mlb-853060@football-watchlist",
       "gameId": "853060",
       "mlbSeason": 2027,
@@ -19548,39 +19548,6 @@
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-11-02T22:48:51.042Z",
       "sequence": 1
-    },
-    {
-      "uid": "mlb-852402@football-watchlist",
-      "gameId": "852402",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/144:9/139:9",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "144",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Atlanta Braves at Tampa Bay Rays [time TBA]",
-      "start": "2027-04-25",
-      "end": "2027-04-26",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852402",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/852402",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "36c904b0cb26b1a9fa0e1ffe7cc010b50746d48e26d76a3a65cdb17bd58d8e65",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
     },
     {
       "uid": "soccer-401874873@football-watchlist",
@@ -19615,6 +19582,39 @@
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
+    },
+    {
+      "uid": "mlb-852402@football-watchlist",
+      "gameId": "852402",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/144:9/139:9",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "144",
+        "139"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Atlanta Braves at Tampa Bay Rays",
+      "start": "2027-04-25T17:40:00.000Z",
+      "end": "2027-04-25T20:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852402",
+      "location": "Tropicana Field",
+      "url": "https://www.mlb.com/gameday/852402",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "a18a1431db419278206eddcc1beb1f742406dceb4262c7ec0717862d7c7f0b70",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853061@football-watchlist",
@@ -19697,23 +19697,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Pittsburgh Pirates at Tampa Bay Rays [time TBA]",
-      "start": "2027-04-27",
-      "end": "2027-04-28",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852406",
+      "title": "MLB: Pittsburgh Pirates at Tampa Bay Rays",
+      "start": "2027-04-27T22:40:00.000Z",
+      "end": "2027-04-28T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852406",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852406",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "3e6b6bfbded59c6c406e7a99c47afd00af66f6e869b9c7922a594f1793e6a205",
+      "hash": "581636bba69d8b5dabd20e031deedbe12479398fc819704ae98fbf72cc953695",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853064@football-watchlist",
@@ -19749,39 +19749,6 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-852411@football-watchlist",
-      "gameId": "852411",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/134:10/139:10",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "134",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Pittsburgh Pirates at Tampa Bay Rays [time TBA]",
-      "start": "2027-04-28",
-      "end": "2027-04-29",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852411",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/852411",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "1c4831890f3cbbc62f1abe0d8feb286ca72568e2a9f06cfe5fefddf9d74d6acc",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-853055@football-watchlist",
       "gameId": "853055",
       "mlbSeason": 2027,
@@ -19815,6 +19782,39 @@
       "sequence": 1
     },
     {
+      "uid": "mlb-852411@football-watchlist",
+      "gameId": "852411",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/134:10/139:10",
+      "mlbSeriesGameNumber": 2,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "134",
+        "139"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Pittsburgh Pirates at Tampa Bay Rays",
+      "start": "2027-04-28T22:40:00.000Z",
+      "end": "2027-04-29T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852411",
+      "location": "Tropicana Field",
+      "url": "https://www.mlb.com/gameday/852411",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "8f9ca3ede1c7fa7105d7816a019f4526a8798108f5b5cee39bfaf8b3a883d508",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
+    },
+    {
       "uid": "mlb-852410@football-watchlist",
       "gameId": "852410",
       "mlbSeason": 2027,
@@ -19829,23 +19829,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Pittsburgh Pirates at Tampa Bay Rays [time TBA]",
-      "start": "2027-04-29",
-      "end": "2027-04-30",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852410",
+      "title": "MLB: Pittsburgh Pirates at Tampa Bay Rays",
+      "start": "2027-04-29T17:10:00.000Z",
+      "end": "2027-04-29T20:10:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852410",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852410",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "fbde596ed1225c1b8f426bdd555830132a4d0bcbef41768f7e96372b8861ade4",
+      "hash": "9fddd2590253d8d07aa38368034b82c029a58527288b5ef181e67f156f0159ab",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-854361@football-watchlist",
@@ -20644,23 +20644,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Chicago White Sox at Tampa Bay Rays [time TBA]",
-      "start": "2027-05-11",
-      "end": "2027-05-12",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852400",
+      "title": "MLB: Chicago White Sox at Tampa Bay Rays",
+      "start": "2027-05-11T22:40:00.000Z",
+      "end": "2027-05-12T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852400",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852400",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "f2e7c7d57a7a30a4b7e1283d3ac2b7c601039abb2c8be65c21365ab0530df19e",
+      "hash": "470010722be46f32e806e79ead254cfe9cc75c51318727d4d396604b3c95ef41",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853045@football-watchlist",
@@ -20710,23 +20710,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Chicago White Sox at Tampa Bay Rays [time TBA]",
-      "start": "2027-05-12",
-      "end": "2027-05-13",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852404",
+      "title": "MLB: Chicago White Sox at Tampa Bay Rays",
+      "start": "2027-05-12T22:40:00.000Z",
+      "end": "2027-05-13T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852404",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852404",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "236c5af5b589037d030181e13430366a8ca0cccbfdc4d0ffec7a0862342f8f68",
+      "hash": "aa66a6026b7ef64183f169df532243781d2412d66a78ac74cf9e39204b0d2ea9",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853040@football-watchlist",
@@ -20762,39 +20762,6 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-852408@football-watchlist",
-      "gameId": "852408",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/145:14/139:14",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "145",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Chicago White Sox at Tampa Bay Rays [time TBA]",
-      "start": "2027-05-13",
-      "end": "2027-05-14",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852408",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/852408",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "7c13a51ed76eba0fc4f7d02cf4f51ac35a7b207d1ce269b8f410912de9baec3a",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-853041@football-watchlist",
       "gameId": "853041",
       "mlbSeason": 2027,
@@ -20828,6 +20795,39 @@
       "sequence": 1
     },
     {
+      "uid": "mlb-852408@football-watchlist",
+      "gameId": "852408",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/145:14/139:14",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "145",
+        "139"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Chicago White Sox at Tampa Bay Rays",
+      "start": "2027-05-13T22:40:00.000Z",
+      "end": "2027-05-14T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852408",
+      "location": "Tropicana Field",
+      "url": "https://www.mlb.com/gameday/852408",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "d72dc706424edabc666cf25e51e87e229caaca17346785327592b9281c5db045",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
+    },
+    {
       "uid": "mlb-852401@football-watchlist",
       "gameId": "852401",
       "mlbSeason": 2027,
@@ -20842,23 +20842,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: St. Louis Cardinals at Tampa Bay Rays [time TBA]",
-      "start": "2027-05-14",
-      "end": "2027-05-15",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852401",
+      "title": "MLB: St. Louis Cardinals at Tampa Bay Rays",
+      "start": "2027-05-14T22:40:00.000Z",
+      "end": "2027-05-15T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852401",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852401",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "2938014ca98709e582a397d2528bc93ec89e816619ba2fbbe112b513f9d1eb64",
+      "hash": "6983a3ef1c9366b78dc3930dcc11acb7527a9fb1f9000762c617da68c35fe599",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853215@football-watchlist",
@@ -20918,39 +20918,6 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-852398@football-watchlist",
-      "gameId": "852398",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/138:15/139:15",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "138",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: St. Louis Cardinals at Tampa Bay Rays [time TBA]",
-      "start": "2027-05-15",
-      "end": "2027-05-16",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852398",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/852398",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "3df06a210eea5033c09ea798d0a36e1954cf6600e6272c2837b14bd83768ba2c",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "soccer-401884526@football-watchlist",
       "gameId": "401884526",
       "soccerSeason": 2026,
@@ -20985,6 +20952,39 @@
       "sequence": 0
     },
     {
+      "uid": "mlb-852398@football-watchlist",
+      "gameId": "852398",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/138:15/139:15",
+      "mlbSeriesGameNumber": 2,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "138",
+        "139"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: St. Louis Cardinals at Tampa Bay Rays",
+      "start": "2027-05-15T20:10:00.000Z",
+      "end": "2027-05-15T23:10:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852398",
+      "location": "Tropicana Field",
+      "url": "https://www.mlb.com/gameday/852398",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "e5ec01dc34bf2de0adea2cc9b25e8167a5d206d8f68fc1327f86bea3f21210f2",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
+    },
+    {
       "uid": "mlb-853214@football-watchlist",
       "gameId": "853214",
       "mlbSeason": 2027,
@@ -21016,39 +21016,6 @@
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-11-04T20:51:01.102Z",
       "sequence": 1
-    },
-    {
-      "uid": "mlb-852403@football-watchlist",
-      "gameId": "852403",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/138:15/139:15",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "138",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: St. Louis Cardinals at Tampa Bay Rays [time TBA]",
-      "start": "2027-05-16",
-      "end": "2027-05-17",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852403",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/852403",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "cad29651ae7325118fcca3db4c2b77e3e43b94984d475fcb1094339728fc5de9",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
     },
     {
       "uid": "soccer-401875130@football-watchlist",
@@ -21117,6 +21084,39 @@
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
+    },
+    {
+      "uid": "mlb-852403@football-watchlist",
+      "gameId": "852403",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/138:15/139:15",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "138",
+        "139"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: St. Louis Cardinals at Tampa Bay Rays",
+      "start": "2027-05-16T17:40:00.000Z",
+      "end": "2027-05-16T20:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852403",
+      "location": "Tropicana Field",
+      "url": "https://www.mlb.com/gameday/852403",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "810db229206090a42bd138977fd12d3ca27beb2ecc56c46d2cbb08be564bafea",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853212@football-watchlist",
@@ -21724,23 +21724,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Philadelphia Phillies at Tampa Bay Rays [time TBA]",
-      "start": "2027-05-25",
-      "end": "2027-05-26",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852409",
+      "title": "MLB: Philadelphia Phillies at Tampa Bay Rays",
+      "start": "2027-05-25T22:40:00.000Z",
+      "end": "2027-05-26T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852409",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852409",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "c43667119ea94878735908bd6f9e07c717c535ba33d46f34f92985e6844912dd",
+      "hash": "878736c1b3c89d841a347054c2ab3101b065e7fbfd8d9a2cd6a085c8e80523f8",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853044@football-watchlist",
@@ -21776,39 +21776,6 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-852407@football-watchlist",
-      "gameId": "852407",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/143:18/139:18",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "143",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Philadelphia Phillies at Tampa Bay Rays [time TBA]",
-      "start": "2027-05-26",
-      "end": "2027-05-27",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852407",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/852407",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "6615f1928b631b1431246e80c409b285d4692045985f3e041fa8fe13c16e2c43",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-853050@football-watchlist",
       "gameId": "853050",
       "mlbSeason": 2027,
@@ -21842,6 +21809,39 @@
       "sequence": 1
     },
     {
+      "uid": "mlb-852407@football-watchlist",
+      "gameId": "852407",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/143:18/139:18",
+      "mlbSeriesGameNumber": 2,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "143",
+        "139"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Philadelphia Phillies at Tampa Bay Rays",
+      "start": "2027-05-26T22:40:00.000Z",
+      "end": "2027-05-27T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852407",
+      "location": "Tropicana Field",
+      "url": "https://www.mlb.com/gameday/852407",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "3db2d6b624e6ae2bffd0741cef933ef95a6413344abf3a248623e340deca7cb6",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
+    },
+    {
       "uid": "mlb-852391@football-watchlist",
       "gameId": "852391",
       "mlbSeason": 2027,
@@ -21856,23 +21856,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Philadelphia Phillies at Tampa Bay Rays [time TBA]",
-      "start": "2027-05-27",
-      "end": "2027-05-28",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852391",
+      "title": "MLB: Philadelphia Phillies at Tampa Bay Rays",
+      "start": "2027-05-27T22:40:00.000Z",
+      "end": "2027-05-28T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852391",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852391",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "536c7ad563832414f7dc55ef6f8d74fe2d0e57e12e60c868928e65835da45a48",
+      "hash": "f13964a692ef5b802c50eebbe285c799ce6775951175bc01a1c4bc4d4e70c950",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852393@football-watchlist",
@@ -21889,24 +21889,24 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Cleveland Guardians at Tampa Bay Rays [time TBA]",
-      "start": "2027-05-28",
-      "end": "2027-05-29",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852393",
+      "title": "MLB: Cleveland Guardians at Tampa Bay Rays",
+      "start": "2027-05-28T22:40:00.000Z",
+      "end": "2027-05-29T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852393",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852393",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Cleveland Guardians",
         "Tampa Bay Rays"
       ],
-      "hash": "110f67dd171f1b678df5e3bbdcaff2811900aa225707968f872143acbe008a85",
+      "hash": "a375ed8c5f759a1b7b0e5b84b2e5e6eaf7bb8fba9788df3054d608f3f8550d1f",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853051@football-watchlist",
@@ -21942,40 +21942,6 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-852388@football-watchlist",
-      "gameId": "852388",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/114:19/139:19",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "114",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Cleveland Guardians at Tampa Bay Rays [time TBA]",
-      "start": "2027-05-29",
-      "end": "2027-05-30",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852388",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/852388",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Cleveland Guardians",
-        "Tampa Bay Rays"
-      ],
-      "hash": "ed99c01546331fd5b4c6a65aa01f8b13ead3ee2f63343b25f60ab402f53bd680",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "soccer-401876195@football-watchlist",
       "gameId": "401876195",
       "soccerSeason": 2026,
@@ -22008,6 +21974,40 @@
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
+    },
+    {
+      "uid": "mlb-852388@football-watchlist",
+      "gameId": "852388",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/114:19/139:19",
+      "mlbSeriesGameNumber": 2,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "114",
+        "139"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Cleveland Guardians at Tampa Bay Rays",
+      "start": "2027-05-29T20:10:00.000Z",
+      "end": "2027-05-29T23:10:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852388",
+      "location": "Tropicana Field",
+      "url": "https://www.mlb.com/gameday/852388",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Cleveland Guardians",
+        "Tampa Bay Rays"
+      ],
+      "hash": "900b8c3400076c76fda2faa0d3a39f296b62849f9ce067fca4330d79da60f611",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853053@football-watchlist",
@@ -22067,40 +22067,6 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-852395@football-watchlist",
-      "gameId": "852395",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/114:19/139:19",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "114",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Cleveland Guardians at Tampa Bay Rays [time TBA]",
-      "start": "2027-05-30",
-      "end": "2027-05-31",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852395",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/852395",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Cleveland Guardians",
-        "Tampa Bay Rays"
-      ],
-      "hash": "9375810fb6b07fab3ae4e17514e3a025cffe36f197ee9464732db7b93fec5f42",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "soccer-401875084@football-watchlist",
       "gameId": "401875084",
       "soccerSeason": 2026,
@@ -22133,6 +22099,40 @@
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
+    },
+    {
+      "uid": "mlb-852395@football-watchlist",
+      "gameId": "852395",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/114:19/139:19",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "114",
+        "139"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Cleveland Guardians at Tampa Bay Rays",
+      "start": "2027-05-30T17:40:00.000Z",
+      "end": "2027-05-30T20:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852395",
+      "location": "Tropicana Field",
+      "url": "https://www.mlb.com/gameday/852395",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Cleveland Guardians",
+        "Tampa Bay Rays"
+      ],
+      "hash": "e612ae601d1c23fe1093832c595d1fa94d02372ae2ee52b2483a2af1c4cfa91c",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853052@football-watchlist",
@@ -22413,23 +22413,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Houston Astros at Tampa Bay Rays [time TBA]",
-      "start": "2027-06-04",
-      "end": "2027-06-05",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852396",
+      "title": "MLB: Houston Astros at Tampa Bay Rays",
+      "start": "2027-06-04T22:40:00.000Z",
+      "end": "2027-06-05T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852396",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852396",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "301c6debb0c8ca89da7f18998780fedf327e5a393cb7f96aa26e826f351521d8",
+      "hash": "f32a054b273bf05596da600b9d282a403b813aa6ef40ab6dcbef45c94f4c23c1",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853046@football-watchlist",
@@ -22479,23 +22479,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Houston Astros at Tampa Bay Rays [time TBA]",
-      "start": "2027-06-05",
-      "end": "2027-06-06",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852392",
+      "title": "MLB: Houston Astros at Tampa Bay Rays",
+      "start": "2027-06-05T20:10:00.000Z",
+      "end": "2027-06-05T23:10:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852392",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852392",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "a7a5bed343cb6b7012c1091bfaffac831689e5892ed69fa951f266b77eaf59ed",
+      "hash": "ef81c3a8095c54aa5b19000573ca57c07b116939c21bb9579866c85c970612c6",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853047@football-watchlist",
@@ -22545,23 +22545,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Houston Astros at Tampa Bay Rays [time TBA]",
-      "start": "2027-06-06",
-      "end": "2027-06-07",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852390",
+      "title": "MLB: Houston Astros at Tampa Bay Rays",
+      "start": "2027-06-06T17:40:00.000Z",
+      "end": "2027-06-06T20:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852390",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852390",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "336649ff92d98e1f033ce421083e1c32e20aa80bd050afc887a985c3936a5ddc",
+      "hash": "763e1ad8600d6a8d8e616794680ba6b4c9b1f5d9b108b4a130d98e12e56475e4",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853049@football-watchlist",
@@ -23040,23 +23040,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: New York Yankees at Tampa Bay Rays [time TBA]",
-      "start": "2027-06-15",
-      "end": "2027-06-16",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852386",
+      "title": "MLB: New York Yankees at Tampa Bay Rays",
+      "start": "2027-06-15T22:40:00.000Z",
+      "end": "2027-06-16T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852386",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852386",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "97bc63dfb9a7963071e35e222cb8f5a88b743cd0523fd42c3f1a0b7bb3d3921a",
+      "hash": "320df31525faaac4ac900dc83bc602c76173469b6e40e907155dce881eb6a2f3",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853033@football-watchlist",
@@ -23107,23 +23107,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: New York Yankees at Tampa Bay Rays [time TBA]",
-      "start": "2027-06-16",
-      "end": "2027-06-17",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852385",
+      "title": "MLB: New York Yankees at Tampa Bay Rays",
+      "start": "2027-06-16T22:40:00.000Z",
+      "end": "2027-06-17T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852385",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852385",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "89e3d4c20b26fec3c95e8d008492bc06c98716e062577a2cf9fe40d4d16b1a86",
+      "hash": "6e8397eabf5265db6121e5fca323f0f2363431d8665764671a9c8d57bebdcd40",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853029@football-watchlist",
@@ -23160,39 +23160,6 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-852387@football-watchlist",
-      "gameId": "852387",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/147:24/139:24",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "147",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: New York Yankees at Tampa Bay Rays [time TBA]",
-      "start": "2027-06-17",
-      "end": "2027-06-18",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852387",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/852387",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "b55fcd752e3a8a52ed2405041a0f824ad6cb260f4f4b3bb539512a817c22e341",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-853026@football-watchlist",
       "gameId": "853026",
       "mlbSeason": 2027,
@@ -23227,6 +23194,39 @@
       "sequence": 1
     },
     {
+      "uid": "mlb-852387@football-watchlist",
+      "gameId": "852387",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/147:24/139:24",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "147",
+        "139"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: New York Yankees at Tampa Bay Rays",
+      "start": "2027-06-17T22:40:00.000Z",
+      "end": "2027-06-18T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852387",
+      "location": "Tropicana Field",
+      "url": "https://www.mlb.com/gameday/852387",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "bf5469b8734b58fe8b7d1ba51d6008f9c2115bc135d4ff2df83fa826db9e98e0",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
+    },
+    {
       "uid": "mlb-852389@football-watchlist",
       "gameId": "852389",
       "mlbSeason": 2027,
@@ -23241,23 +23241,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Milwaukee Brewers at Tampa Bay Rays [time TBA]",
-      "start": "2027-06-18",
-      "end": "2027-06-19",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852389",
+      "title": "MLB: Milwaukee Brewers at Tampa Bay Rays",
+      "start": "2027-06-18T22:40:00.000Z",
+      "end": "2027-06-19T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852389",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852389",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "199f4e1f1d019a3c23a5b2477126e3a695ac9fb25de0e8cc0821a368dfbe7736",
+      "hash": "4f4a576d64769d01e9ec6d7e87729fd00c6b3cfee2e8a074663caaf84221947d",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853038@football-watchlist",
@@ -23307,23 +23307,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Milwaukee Brewers at Tampa Bay Rays [time TBA]",
-      "start": "2027-06-19",
-      "end": "2027-06-20",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852383",
+      "title": "MLB: Milwaukee Brewers at Tampa Bay Rays",
+      "start": "2027-06-19T20:10:00.000Z",
+      "end": "2027-06-19T23:10:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852383",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852383",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "f05d76bec586aeed9f935adae4dff48023ef7544867d0e5921ee4fced3d297a0",
+      "hash": "1da9f42273748d7e10876668e49c5aa105764a5888b63bfcb52f181a6a817861",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853027@football-watchlist",
@@ -23373,23 +23373,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Milwaukee Brewers at Tampa Bay Rays [time TBA]",
-      "start": "2027-06-20",
-      "end": "2027-06-21",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852384",
+      "title": "MLB: Milwaukee Brewers at Tampa Bay Rays",
+      "start": "2027-06-20T17:40:00.000Z",
+      "end": "2027-06-20T20:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852384",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852384",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "8f420707f2a89c45555affef5f11d72db87cc53e6bc273ff421563b92faba8cf",
+      "hash": "ff3bb66c5394e83ba2cb44393fe4b4d718d44cb28389b3e76a8868795df89f89",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853036@football-watchlist",
@@ -23472,23 +23472,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Los Angeles Dodgers at Tampa Bay Rays [time TBA]",
-      "start": "2027-06-22",
-      "end": "2027-06-23",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852394",
+      "title": "MLB: Los Angeles Dodgers at Tampa Bay Rays",
+      "start": "2027-06-22T22:40:00.000Z",
+      "end": "2027-06-23T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852394",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852394",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "a90d3d66214077cb2b403a7cc05a3b9021dcb5e84643380ad80f3033c264dae7",
+      "hash": "e7a252161e4246fa2f6e40e7c308c252eaf100be17322478852d575715bb055f",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853031@football-watchlist",
@@ -23524,39 +23524,6 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-852368@football-watchlist",
-      "gameId": "852368",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/119:26/139:26",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "119",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Los Angeles Dodgers at Tampa Bay Rays [time TBA]",
-      "start": "2027-06-23",
-      "end": "2027-06-24",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852368",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/852368",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "abcd38f124ad9aad9868e8daec5c18be1b3fce721d0327bff74c1c89b01c69b3",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-853032@football-watchlist",
       "gameId": "853032",
       "mlbSeason": 2027,
@@ -23590,6 +23557,39 @@
       "sequence": 2
     },
     {
+      "uid": "mlb-852368@football-watchlist",
+      "gameId": "852368",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/119:26/139:26",
+      "mlbSeriesGameNumber": 2,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "119",
+        "139"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Los Angeles Dodgers at Tampa Bay Rays",
+      "start": "2027-06-23T22:40:00.000Z",
+      "end": "2027-06-24T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852368",
+      "location": "Tropicana Field",
+      "url": "https://www.mlb.com/gameday/852368",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "3fb0aed8190f1cecbafc1577e385e3d14c3fd7c70b8cc186592c78915f5ecd6f",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
+    },
+    {
       "uid": "mlb-852372@football-watchlist",
       "gameId": "852372",
       "mlbSeason": 2027,
@@ -23604,23 +23604,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Los Angeles Dodgers at Tampa Bay Rays [time TBA]",
-      "start": "2027-06-24",
-      "end": "2027-06-25",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852372",
+      "title": "MLB: Los Angeles Dodgers at Tampa Bay Rays",
+      "start": "2027-06-24T20:05:00.000Z",
+      "end": "2027-06-24T23:05:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852372",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852372",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "5f681d5eb0efd9110aef4207130273126a84f435d2a1d1003d746c7c1c1a090c",
+      "hash": "0bae4b4de5b62118018e0f9aaa7f271dd891fd128dd8b1b1abaf83fa2dddff27",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852456@football-watchlist",
@@ -23854,39 +23854,6 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-854486@football-watchlist",
-      "gameId": "854486",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/121:28/109:28",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "121",
-        "109"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: New York Mets at Arizona Diamondbacks [time TBA]",
-      "start": "2027-06-28",
-      "end": "2027-06-29",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854486",
-      "location": "Chase Field",
-      "url": "https://www.mlb.com/gameday/854486",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "d8555cf1c5380eefcf8d0a7428bccc36e9ca71a0d988236b08245828b6b937a2",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-852626@football-watchlist",
       "gameId": "852626",
       "mlbSeason": 2027,
@@ -23920,12 +23887,12 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-854494@football-watchlist",
-      "gameId": "854494",
+      "uid": "mlb-854486@football-watchlist",
+      "gameId": "854486",
       "mlbSeason": 2027,
       "mlbGameType": "R",
       "mlbSeriesKey": "2027/R/121:28/109:28",
-      "mlbSeriesGameNumber": 2,
+      "mlbSeriesGameNumber": 1,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "121",
@@ -23934,23 +23901,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: New York Mets at Arizona Diamondbacks [time TBA]",
-      "start": "2027-06-29",
-      "end": "2027-06-30",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854494",
+      "title": "MLB: New York Mets at Arizona Diamondbacks",
+      "start": "2027-06-29T01:40:00.000Z",
+      "end": "2027-06-29T04:40:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854486",
       "location": "Chase Field",
-      "url": "https://www.mlb.com/gameday/854494",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/854486",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "8d546db65d3832a5f5553b632fb118db102b007452b7fb4d6234c231267d0624",
+      "hash": "46d483978841837c13c9f9d01d5f94dceb60748c9894ca9fb413c7f3f0ad2903",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852631@football-watchlist",
@@ -23986,6 +23953,39 @@
       "sequence": 0
     },
     {
+      "uid": "mlb-854494@football-watchlist",
+      "gameId": "854494",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/121:28/109:28",
+      "mlbSeriesGameNumber": 2,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "121",
+        "109"
+      ],
+      "selectionReasons": [
+        "Following New York Mets: every regular-season game."
+      ],
+      "title": "MLB: New York Mets at Arizona Diamondbacks",
+      "start": "2027-06-30T01:40:00.000Z",
+      "end": "2027-06-30T04:40:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854494",
+      "location": "Chase Field",
+      "url": "https://www.mlb.com/gameday/854494",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "New York Mets"
+      ],
+      "hash": "a6b21afe509c555eac711bb14e741807f11e0ed0111af39a420a434325293fa2",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
+    },
+    {
       "uid": "mlb-854495@football-watchlist",
       "gameId": "854495",
       "mlbSeason": 2027,
@@ -24000,23 +24000,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: New York Mets at Arizona Diamondbacks [time TBA]",
-      "start": "2027-06-30",
-      "end": "2027-07-01",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854495",
+      "title": "MLB: New York Mets at Arizona Diamondbacks",
+      "start": "2027-06-30T19:40:00.000Z",
+      "end": "2027-06-30T22:40:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854495",
       "location": "Chase Field",
       "url": "https://www.mlb.com/gameday/854495",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "9c5b7d5527ff5ab29d23c751873a3867958f41a33fd8797f7b549d980467b599",
+      "hash": "5a90c50a699367b9c0ed34908f7a1af47aa08595be41fdb5fb832888d8ff1346",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853342@football-watchlist",
@@ -24267,23 +24267,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Boston Red Sox at Tampa Bay Rays [time TBA]",
-      "start": "2027-07-06",
-      "end": "2027-07-07",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852373",
+      "title": "MLB: Boston Red Sox at Tampa Bay Rays",
+      "start": "2027-07-06T22:40:00.000Z",
+      "end": "2027-07-07T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852373",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852373",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "7332b8f664dd59af9fd510b838445f2ce71bf9f209c88ebb5d0cbade5064a578",
+      "hash": "f0fa3040924a5d34b93d6f7f861cc0600cd369cc592ebe378d769e0b142835ed",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853035@football-watchlist",
@@ -24333,23 +24333,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Boston Red Sox at Tampa Bay Rays [time TBA]",
-      "start": "2027-07-07",
-      "end": "2027-07-08",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852381",
+      "title": "MLB: Boston Red Sox at Tampa Bay Rays",
+      "start": "2027-07-07T22:40:00.000Z",
+      "end": "2027-07-08T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852381",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852381",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "2e29daec93dc494ab7ccca0573f54c1dbb9252f484ff56a6bd0ed5d48952cb65",
+      "hash": "ad07966fd81c912481d570ce61a2212d77f67652b5cd752c6c10fba3c316e67b",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853030@football-watchlist",
@@ -24399,23 +24399,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Boston Red Sox at Tampa Bay Rays [time TBA]",
-      "start": "2027-07-08",
-      "end": "2027-07-09",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852370",
+      "title": "MLB: Boston Red Sox at Tampa Bay Rays",
+      "start": "2027-07-08T22:40:00.000Z",
+      "end": "2027-07-09T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852370",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852370",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "a00eab4ece382dca4280597b5d21a8fd18b82495853657ff22dc949aa1483f32",
+      "hash": "43d815a5e56b7149a316073f23263f0945c3f9021606710693e0f065bd944ff3",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853037@football-watchlist",
@@ -24465,23 +24465,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Baltimore Orioles at Tampa Bay Rays [time TBA]",
-      "start": "2027-07-09",
-      "end": "2027-07-10",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852371",
+      "title": "MLB: Baltimore Orioles at Tampa Bay Rays",
+      "start": "2027-07-09T22:40:00.000Z",
+      "end": "2027-07-10T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852371",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852371",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "7d440a30f9099a819aa026cc6f5f25dc686f8930ad2bcfa0f9f49ff52f1a8c07",
+      "hash": "c8f31865bb738ca6862ca3b8d0047a20417d9ad76b740cf2f72b9455f326cf09",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853034@football-watchlist",
@@ -24531,23 +24531,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Baltimore Orioles at Tampa Bay Rays [time TBA]",
-      "start": "2027-07-10",
-      "end": "2027-07-11",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852379",
+      "title": "MLB: Baltimore Orioles at Tampa Bay Rays",
+      "start": "2027-07-10T20:10:00.000Z",
+      "end": "2027-07-10T23:10:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852379",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852379",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "428afbdcaf53875a23de5c32aea79a551fa1709bdb7962250efb1db0e73ccced",
+      "hash": "3b659027bc8cea526cc6072971aa41121615459d19ab7a1ffe24ce1f903487b4",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853028@football-watchlist",
@@ -24597,23 +24597,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Baltimore Orioles at Tampa Bay Rays [time TBA]",
-      "start": "2027-07-11",
-      "end": "2027-07-12",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852382",
+      "title": "MLB: Baltimore Orioles at Tampa Bay Rays",
+      "start": "2027-07-11T17:40:00.000Z",
+      "end": "2027-07-11T20:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852382",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852382",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "9aac02d5841ee1eaec7782b178011cd838217f48a54655a2bb64d9ced99a79b5",
+      "hash": "163a9dcdbb195b880ae5b29cf0efe058006276e6a49ac684d96daf7c1467e110",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853016@football-watchlist",
@@ -25092,23 +25092,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Kansas City Royals at Tampa Bay Rays [time TBA]",
-      "start": "2027-07-23",
-      "end": "2027-07-24",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852369",
+      "title": "MLB: Kansas City Royals at Tampa Bay Rays",
+      "start": "2027-07-23T22:40:00.000Z",
+      "end": "2027-07-24T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852369",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852369",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "17f120cfd3b4f2eeac6c7ce8c881c028127855b2434a7493ae1338913876155f",
+      "hash": "5532f2a351703975c1ea40a6544e2c68e5e4f3cc2cd2bdb3e04833d600df7475",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853021@football-watchlist",
@@ -25158,23 +25158,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Kansas City Royals at Tampa Bay Rays [time TBA]",
-      "start": "2027-07-24",
-      "end": "2027-07-25",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852380",
+      "title": "MLB: Kansas City Royals at Tampa Bay Rays",
+      "start": "2027-07-24T20:10:00.000Z",
+      "end": "2027-07-24T23:10:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852380",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852380",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "d4b4780da991064237941fff68fb6c06b18b89bd75fbaff4c60f36a8f553efe5",
+      "hash": "8b9edc5db45e489d6107041408f3058a422794d32878306e1668d7ecd538da09",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853014@football-watchlist",
@@ -25224,23 +25224,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Kansas City Royals at Tampa Bay Rays [time TBA]",
-      "start": "2027-07-25",
-      "end": "2027-07-26",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852378",
+      "title": "MLB: Kansas City Royals at Tampa Bay Rays",
+      "start": "2027-07-25T17:40:00.000Z",
+      "end": "2027-07-25T20:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852378",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852378",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "687a651edcf611c58c8aaa8027366312e1895666dcb38dcb816b9dc1913a2581",
+      "hash": "ed1c7dfa94a8952e2b1dc613c5f4aa18b313e91124db8efd7d025f828e6165d6",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853023@football-watchlist",
@@ -25290,23 +25290,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Texas Rangers at Tampa Bay Rays [time TBA]",
-      "start": "2027-07-26",
-      "end": "2027-07-27",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852375",
+      "title": "MLB: Texas Rangers at Tampa Bay Rays",
+      "start": "2027-07-26T22:40:00.000Z",
+      "end": "2027-07-27T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852375",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852375",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "54fa03c79a755069bb90c4ca4d781224f502aa504bc92adf46f1931023215bd7",
+      "hash": "baabe8612ea3548c345bb254a9738218d00d9fc4401056cb8193ef9369a1530e",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853024@football-watchlist",
@@ -25356,23 +25356,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Texas Rangers at Tampa Bay Rays [time TBA]",
-      "start": "2027-07-27",
-      "end": "2027-07-28",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852376",
+      "title": "MLB: Texas Rangers at Tampa Bay Rays",
+      "start": "2027-07-27T22:40:00.000Z",
+      "end": "2027-07-28T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852376",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852376",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "760ba20da9e091aaab2664fd8ecb00e8ca8667f4d9eff3831065927eb3464395",
+      "hash": "b953d0cd38762dc8c52ff413b5179c19aefa37d6e7aca44eb7af16c34ee4bad0",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853017@football-watchlist",
@@ -25408,39 +25408,6 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-852374@football-watchlist",
-      "gameId": "852374",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/140:35/139:35",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "140",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Texas Rangers at Tampa Bay Rays [time TBA]",
-      "start": "2027-07-28",
-      "end": "2027-07-29",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852374",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/852374",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "bc865364e28bc3b3babbc63c8d8e4a6dea22ae12823e063328f1525143fd5285",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-853015@football-watchlist",
       "gameId": "853015",
       "mlbSeason": 2027,
@@ -25474,6 +25441,39 @@
       "sequence": 1
     },
     {
+      "uid": "mlb-852374@football-watchlist",
+      "gameId": "852374",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/140:35/139:35",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "140",
+        "139"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Texas Rangers at Tampa Bay Rays",
+      "start": "2027-07-28T22:40:00.000Z",
+      "end": "2027-07-29T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852374",
+      "location": "Tropicana Field",
+      "url": "https://www.mlb.com/gameday/852374",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "596f11fe015df626ac969f6d9df8302225d7b9e3b68fc14c801feeda50efeb9b",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
+    },
+    {
       "uid": "mlb-852377@football-watchlist",
       "gameId": "852377",
       "mlbSeason": 2027,
@@ -25488,23 +25488,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Texas Rangers at Tampa Bay Rays [time TBA]",
-      "start": "2027-07-29",
-      "end": "2027-07-30",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852377",
+      "title": "MLB: Texas Rangers at Tampa Bay Rays",
+      "start": "2027-07-29T16:10:00.000Z",
+      "end": "2027-07-29T19:10:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852377",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852377",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "9951d55ebcc1b34fa675496d78dd3112c5f80859b53e5b1fb138d39723f8f5b7",
+      "hash": "e8b7c82cbf5996baecb912cec0ecb82b4f467dbd570293b75d4fc6bf14051e54",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852772@football-watchlist",
@@ -25705,39 +25705,6 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-854478@football-watchlist",
-      "gameId": "854478",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/139:37/109:37",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "109"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Tampa Bay Rays at Arizona Diamondbacks [time TBA]",
-      "start": "2027-08-02",
-      "end": "2027-08-03",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854478",
-      "location": "Chase Field",
-      "url": "https://www.mlb.com/gameday/854478",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "caf3f18fb783055cbf521b9a7447309e7a3ad79cf4ab24950f4452a4dcf48dde",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-853910@football-watchlist",
       "gameId": "853910",
       "mlbSeason": 2027,
@@ -25771,12 +25738,12 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-854477@football-watchlist",
-      "gameId": "854477",
+      "uid": "mlb-854478@football-watchlist",
+      "gameId": "854478",
       "mlbSeason": 2027,
       "mlbGameType": "R",
       "mlbSeriesKey": "2027/R/139:37/109:37",
-      "mlbSeriesGameNumber": 2,
+      "mlbSeriesGameNumber": 1,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "139",
@@ -25785,23 +25752,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Tampa Bay Rays at Arizona Diamondbacks [time TBA]",
-      "start": "2027-08-03",
-      "end": "2027-08-04",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854477",
+      "title": "MLB: Tampa Bay Rays at Arizona Diamondbacks",
+      "start": "2027-08-03T01:40:00.000Z",
+      "end": "2027-08-03T04:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854478",
       "location": "Chase Field",
-      "url": "https://www.mlb.com/gameday/854477",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/854478",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "ff5d0147aa19dcde6f1af5cf2702f26600e650e61dd7f61e6340d39d9fd6b669",
+      "hash": "8fadc0b8f262942b3cddbf8d8180421b7a2d5792d5c1a090be7bcb369769c276",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853907@football-watchlist",
@@ -25837,6 +25804,39 @@
       "sequence": 1
     },
     {
+      "uid": "mlb-854477@football-watchlist",
+      "gameId": "854477",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/139:37/109:37",
+      "mlbSeriesGameNumber": 2,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "139",
+        "109"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Tampa Bay Rays at Arizona Diamondbacks",
+      "start": "2027-08-04T01:40:00.000Z",
+      "end": "2027-08-04T04:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854477",
+      "location": "Chase Field",
+      "url": "https://www.mlb.com/gameday/854477",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "546d473a79042545f523e54891be887f52151bcd16342f033ec3bb91fed1f973",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
+    },
+    {
       "uid": "mlb-854476@football-watchlist",
       "gameId": "854476",
       "mlbSeason": 2027,
@@ -25851,23 +25851,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Tampa Bay Rays at Arizona Diamondbacks [time TBA]",
-      "start": "2027-08-04",
-      "end": "2027-08-05",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854476",
+      "title": "MLB: Tampa Bay Rays at Arizona Diamondbacks",
+      "start": "2027-08-04T19:40:00.000Z",
+      "end": "2027-08-04T22:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/854476",
       "location": "Chase Field",
       "url": "https://www.mlb.com/gameday/854476",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "012c09444933e4e3f665febeadc052c5d14703c5bced21c4013cc3120b5c7a2a",
+      "hash": "c9352fab22e0c130860ccac0623cec2f4faed2620b4ced32886cdbfe1327ecfa",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853913@football-watchlist",
@@ -25917,23 +25917,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Seattle Mariners at Tampa Bay Rays [time TBA]",
-      "start": "2027-08-06",
-      "end": "2027-08-07",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852358",
+      "title": "MLB: Seattle Mariners at Tampa Bay Rays",
+      "start": "2027-08-06T22:40:00.000Z",
+      "end": "2027-08-07T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852358",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852358",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "5b86d41b9905bb58264575c1f0f0927ac0bbced1cde360920567465c2e7553d1",
+      "hash": "a34059fa7db7df0a1c045b0d62f525975c52b07a8e0d1d20a0049e22e588a2b2",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853020@football-watchlist",
@@ -25983,23 +25983,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Seattle Mariners at Tampa Bay Rays [time TBA]",
-      "start": "2027-08-07",
-      "end": "2027-08-08",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852357",
+      "title": "MLB: Seattle Mariners at Tampa Bay Rays",
+      "start": "2027-08-07T20:10:00.000Z",
+      "end": "2027-08-07T23:10:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852357",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852357",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "4334357fdbf084806030149057c32eac3196838368c32761568563f65ce70fa8",
+      "hash": "6acab3c00eff3132c67f9feb2bc4508af86856416bc359775ba5cde868054683",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853019@football-watchlist",
@@ -26049,23 +26049,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Seattle Mariners at Tampa Bay Rays [time TBA]",
-      "start": "2027-08-08",
-      "end": "2027-08-09",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852366",
+      "title": "MLB: Seattle Mariners at Tampa Bay Rays",
+      "start": "2027-08-08T17:40:00.000Z",
+      "end": "2027-08-08T20:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852366",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852366",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "3c86526d08509b5bfce8f4b9263339198d4e17a17a1df809a816e866e8a59999",
+      "hash": "92d577e96cd7cb143e758b42b852af60cd0b58433ef7905344b2dac042bcf766",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853013@football-watchlist",
@@ -26115,23 +26115,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: New York Yankees at Tampa Bay Rays [time TBA]",
-      "start": "2027-08-09",
-      "end": "2027-08-10",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852362",
+      "title": "MLB: New York Yankees at Tampa Bay Rays",
+      "start": "2027-08-09T22:40:00.000Z",
+      "end": "2027-08-10T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852362",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852362",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "7086b1a6336f6f8107677dba83ff6a7aa2602445fed35549c400f9a58efc39c3",
+      "hash": "236e230c522167d29b2592b0abe2627e33479a4f047a24934617612998510739",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853018@football-watchlist",
@@ -26181,23 +26181,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: New York Yankees at Tampa Bay Rays [time TBA]",
-      "start": "2027-08-10",
-      "end": "2027-08-11",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852367",
+      "title": "MLB: New York Yankees at Tampa Bay Rays",
+      "start": "2027-08-10T22:40:00.000Z",
+      "end": "2027-08-11T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852367",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852367",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "d06b51258a9837e16a366a032bde22741603f5e92754aa1907de23ed6dfb8f16",
+      "hash": "f185e33bdc433ed01e6001745851ffbccf4fb6c4c7dbd7ca8aaef2e08d26d0a0",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853022@football-watchlist",
@@ -26233,39 +26233,6 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-852360@football-watchlist",
-      "gameId": "852360",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/147:39/139:39",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "147",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: New York Yankees at Tampa Bay Rays [time TBA]",
-      "start": "2027-08-11",
-      "end": "2027-08-12",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852360",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/852360",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "261fca062c69ef514e5f584bc46d3e5912953efca2cce8a5ddf2f9fc916f9c85",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-853006@football-watchlist",
       "gameId": "853006",
       "mlbSeason": 2027,
@@ -26296,6 +26263,39 @@
       "hash": "813a51d2f3b9a19576215d4077e224ffc3c4e0911c75de26d35c3c7b5b646892",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-11-02T22:48:51.042Z",
+      "sequence": 1
+    },
+    {
+      "uid": "mlb-852360@football-watchlist",
+      "gameId": "852360",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/147:39/139:39",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "147",
+        "139"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: New York Yankees at Tampa Bay Rays",
+      "start": "2027-08-11T22:40:00.000Z",
+      "end": "2027-08-12T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852360",
+      "location": "Tropicana Field",
+      "url": "https://www.mlb.com/gameday/852360",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "050f110bd11b076bade26ea5c71df682eb0b306edfcc12cc30c6d364c6678447",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-16T23:26:11.366Z",
       "sequence": 1
     },
     {
@@ -26910,23 +26910,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Detroit Tigers at Tampa Bay Rays [time TBA]",
-      "start": "2027-08-24",
-      "end": "2027-08-25",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852354",
+      "title": "MLB: Detroit Tigers at Tampa Bay Rays",
+      "start": "2027-08-24T22:40:00.000Z",
+      "end": "2027-08-25T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852354",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852354",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "af8dcc4600d9d51eb562ebf760624cb9cd6b1b6130ef2caf1b6adf07e58b8ce3",
+      "hash": "900dddc4a34d74083ec2ac3a6800cad40c15ef0660761f697aaeaf6ad8d9a29b",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853000@football-watchlist",
@@ -26976,23 +26976,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Detroit Tigers at Tampa Bay Rays [time TBA]",
-      "start": "2027-08-25",
-      "end": "2027-08-26",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852356",
+      "title": "MLB: Detroit Tigers at Tampa Bay Rays",
+      "start": "2027-08-25T22:40:00.000Z",
+      "end": "2027-08-26T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852356",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852356",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "ef27127d6d0ec2418cccc653e0aa2b97aa35a7a1dcdde4ba58aaf964d98848e4",
+      "hash": "6e66c7b48874b711f3405893558feefb6e869677eb969f18831780d3170a67ec",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853010@football-watchlist",
@@ -27042,23 +27042,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Detroit Tigers at Tampa Bay Rays [time TBA]",
-      "start": "2027-08-26",
-      "end": "2027-08-27",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852365",
+      "title": "MLB: Detroit Tigers at Tampa Bay Rays",
+      "start": "2027-08-26T22:40:00.000Z",
+      "end": "2027-08-27T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852365",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852365",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "c32e67185ff75fd7b9d2e170cd5dd9beafc596844dc0528a39b65fe3c475ab23",
+      "hash": "757de6ff7e5c58f2e57724ae3b36445e38aa0c404c63ccc97f152e891669c4f8",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853004@football-watchlist",
@@ -27108,23 +27108,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Minnesota Twins at Tampa Bay Rays [time TBA]",
-      "start": "2027-08-27",
-      "end": "2027-08-28",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852355",
+      "title": "MLB: Minnesota Twins at Tampa Bay Rays",
+      "start": "2027-08-27T22:40:00.000Z",
+      "end": "2027-08-28T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852355",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852355",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "e975b9cdda75f5ff94403fc14b14c301bbd0c0e3904125c8e9c24243be8389d0",
+      "hash": "30655be0bdc8eb876dffe127468872475f9ebee3003858e35bdce20768cae38f",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852999@football-watchlist",
@@ -27174,23 +27174,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Minnesota Twins at Tampa Bay Rays [time TBA]",
-      "start": "2027-08-28",
-      "end": "2027-08-29",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852361",
+      "title": "MLB: Minnesota Twins at Tampa Bay Rays",
+      "start": "2027-08-28T20:10:00.000Z",
+      "end": "2027-08-28T23:10:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852361",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852361",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "91e4bcd4b533c0e4d47c05d001640a65fd5600de1e7e81af8b72240d15c045d5",
+      "hash": "08648a6f54f16a097a635b10c094482ed023f5bf0978c6ef04f071fc3e4fad4c",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853011@football-watchlist",
@@ -27240,23 +27240,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Minnesota Twins at Tampa Bay Rays [time TBA]",
-      "start": "2027-08-29",
-      "end": "2027-08-30",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852364",
+      "title": "MLB: Minnesota Twins at Tampa Bay Rays",
+      "start": "2027-08-29T17:40:00.000Z",
+      "end": "2027-08-29T20:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852364",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852364",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "34506b40301568c3589e96c8a1186584c282b0f040f70aaafe50f95d9f94de9e",
+      "hash": "0b97ea2af18fd1fb02314a203db264a3ca7ba0a9308ced157ac96229beacf68c",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853003@football-watchlist",
@@ -27306,56 +27306,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Toronto Blue Jays at Tampa Bay Rays [time TBA]",
-      "start": "2027-08-30",
-      "end": "2027-08-31",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852359",
+      "title": "MLB: Toronto Blue Jays at Tampa Bay Rays",
+      "start": "2027-08-30T22:40:00.000Z",
+      "end": "2027-08-31T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852359",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852359",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "30bb17b50ab64f15dca83edd229fdeb25ba9edd2f3809aba2140173c21f5e8ac",
+      "hash": "fa1af8be212242e646d22b41932b500bdb1b2e880168710dd1f60d48f648330e",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-852363@football-watchlist",
-      "gameId": "852363",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/141:45/139:45",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "141",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Toronto Blue Jays at Tampa Bay Rays [time TBA]",
-      "start": "2027-08-31",
-      "end": "2027-09-01",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852363",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/852363",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "aee6a21498dc45121cd2a01e8f5109f1f85edfb517cb21241a6e722a28613d24",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853238@football-watchlist",
@@ -27391,12 +27358,12 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-852341@football-watchlist",
-      "gameId": "852341",
+      "uid": "mlb-852363@football-watchlist",
+      "gameId": "852363",
       "mlbSeason": 2027,
       "mlbGameType": "R",
       "mlbSeriesKey": "2027/R/141:45/139:45",
-      "mlbSeriesGameNumber": 3,
+      "mlbSeriesGameNumber": 2,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "141",
@@ -27405,23 +27372,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Toronto Blue Jays at Tampa Bay Rays [time TBA]",
-      "start": "2027-09-01",
-      "end": "2027-09-02",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852341",
+      "title": "MLB: Toronto Blue Jays at Tampa Bay Rays",
+      "start": "2027-08-31T22:40:00.000Z",
+      "end": "2027-09-01T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852363",
       "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/852341",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/852363",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "6a6120a78cb6bdc9c4e6b6f449184389ed2ecb2dba695b36c1accd72518d7c17",
+      "hash": "d13e55d13fe820777fd04ba28956966240b541bb883d73b7e65e52bbbd27a9ea",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853248@football-watchlist",
@@ -27457,12 +27424,12 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-852339@football-watchlist",
-      "gameId": "852339",
+      "uid": "mlb-852341@football-watchlist",
+      "gameId": "852341",
       "mlbSeason": 2027,
       "mlbGameType": "R",
       "mlbSeriesKey": "2027/R/141:45/139:45",
-      "mlbSeriesGameNumber": 4,
+      "mlbSeriesGameNumber": 3,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "141",
@@ -27471,23 +27438,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Toronto Blue Jays at Tampa Bay Rays [time TBA]",
-      "start": "2027-09-02",
-      "end": "2027-09-03",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852339",
+      "title": "MLB: Toronto Blue Jays at Tampa Bay Rays",
+      "start": "2027-09-01T22:40:00.000Z",
+      "end": "2027-09-02T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852341",
       "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/852339",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/852341",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "b238565e6841c3a6fe233f9f78fdd40bcab0f9b092a307983c9633ca5dbb85be",
+      "hash": "8d4a032d04ac05b6c92f5c12aea0259b1c4681f5ec4ab10b930d619dc65c74ff",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853244@football-watchlist",
@@ -27521,6 +27488,39 @@
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
+    },
+    {
+      "uid": "mlb-852339@football-watchlist",
+      "gameId": "852339",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/141:45/139:45",
+      "mlbSeriesGameNumber": 4,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "141",
+        "139"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Toronto Blue Jays at Tampa Bay Rays",
+      "start": "2027-09-02T22:40:00.000Z",
+      "end": "2027-09-03T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852339",
+      "location": "Tropicana Field",
+      "url": "https://www.mlb.com/gameday/852339",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "06e3bd144dea8f3f30185e1c8416dab66c89dc520bb81472ee9bb64140f94923",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852831@football-watchlist",
@@ -27933,23 +27933,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Miami Marlins at Tampa Bay Rays [time TBA]",
-      "start": "2027-09-10",
-      "end": "2027-09-11",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852340",
+      "title": "MLB: Miami Marlins at Tampa Bay Rays",
+      "start": "2027-09-10T22:40:00.000Z",
+      "end": "2027-09-11T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852340",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852340",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "3abcf0d13b53b61c1eab14d309234a315aef302683c2504c71163e9df3b840fe",
+      "hash": "7c897af0a89aa867d885ee76bf5810af2355c46de09a2736610feaaebf682e54",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-853009@football-watchlist",
@@ -28000,23 +28000,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Miami Marlins at Tampa Bay Rays [time TBA]",
-      "start": "2027-09-11",
-      "end": "2027-09-12",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852342",
+      "title": "MLB: Miami Marlins at Tampa Bay Rays",
+      "start": "2027-09-11T20:10:00.000Z",
+      "end": "2027-09-11T23:10:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852342",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852342",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "2242a5d2bb92b6193ae25e3501a02f995bdf0e0d78ce8f3b86960e41ccea997b",
+      "hash": "46d3af2f8b12671ecb6c2d684978b835774c505df1538d0dc16d1e1e26b9b63a",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852995@football-watchlist",
@@ -28067,23 +28067,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Miami Marlins at Tampa Bay Rays [time TBA]",
-      "start": "2027-09-12",
-      "end": "2027-09-13",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852348",
+      "title": "MLB: Miami Marlins at Tampa Bay Rays",
+      "start": "2027-09-12T17:40:00.000Z",
+      "end": "2027-09-12T20:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852348",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852348",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "7215125cbe6692518bfaf0f9b535777aeb214e8219d61445d0e207e08c14fb79",
+      "hash": "3cf5fa823619b89f444697895de5045bd9ffd089d3184960940efb8e126a265f",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852994@football-watchlist",
@@ -28167,23 +28167,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Athletics at Tampa Bay Rays [time TBA]",
-      "start": "2027-09-14",
-      "end": "2027-09-15",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852352",
+      "title": "MLB: Athletics at Tampa Bay Rays",
+      "start": "2027-09-14T22:40:00.000Z",
+      "end": "2027-09-15T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852352",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852352",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "b7b7233e3d76b7c66d5d980155ac7a44f5dae938bb2c28d38bb08fd0a87a6d90",
+      "hash": "81cea507c2b916526106229ff246a641e937c9f5354da1f3d609974223f38ead",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852108@football-watchlist",
@@ -28233,23 +28233,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Athletics at Tampa Bay Rays [time TBA]",
-      "start": "2027-09-15",
-      "end": "2027-09-16",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852353",
+      "title": "MLB: Athletics at Tampa Bay Rays",
+      "start": "2027-09-15T22:40:00.000Z",
+      "end": "2027-09-16T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852353",
       "location": "Tropicana Field",
       "url": "https://www.mlb.com/gameday/852353",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "35c414ea0c2ba4273fbee77ce2a5f70c2705794c006a80d42567040c1b553ca2",
+      "hash": "0cee75b208523b41ccbab4a27d392e79fbe5f9e976ab28e1c6a60fcadded5399",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852105@football-watchlist",
@@ -28280,39 +28280,6 @@
         "New York Mets"
       ],
       "hash": "67a2d0cccb5a47355b73618a85125a636873c96db4cb6360ce4b812dedeea970",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-852349@football-watchlist",
-      "gameId": "852349",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/133:49/139:49",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "133",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Athletics at Tampa Bay Rays [time TBA]",
-      "start": "2027-09-16",
-      "end": "2027-09-17",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852349",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/852349",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "49fd0bcb6a33d2f10548900e7ad41de78f2f2f6f41fbfcede9b6bc2a091cf376",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
@@ -28351,37 +28318,37 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-852350@football-watchlist",
-      "gameId": "852350",
+      "uid": "mlb-852349@football-watchlist",
+      "gameId": "852349",
       "mlbSeason": 2027,
       "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/115:50/139:50",
-      "mlbSeriesGameNumber": 1,
+      "mlbSeriesKey": "2027/R/133:49/139:49",
+      "mlbSeriesGameNumber": 3,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
-        "115",
+        "133",
         "139"
       ],
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Colorado Rockies at Tampa Bay Rays [time TBA]",
-      "start": "2027-09-17",
-      "end": "2027-09-18",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852350",
+      "title": "MLB: Athletics at Tampa Bay Rays",
+      "start": "2027-09-16T17:10:00.000Z",
+      "end": "2027-09-16T20:10:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852349",
       "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/852350",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/852349",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "3624e76fc6c4cc1f0696dfe5996184a7835179990253a88fcd04ca6e3ab1832a",
+      "hash": "1715d3dc7cc031d48cd0eced13b73f43bad2b7e1451349089222db5d277d6c36",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-854050@football-watchlist",
@@ -28417,12 +28384,12 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-852344@football-watchlist",
-      "gameId": "852344",
+      "uid": "mlb-852350@football-watchlist",
+      "gameId": "852350",
       "mlbSeason": 2027,
       "mlbGameType": "R",
       "mlbSeriesKey": "2027/R/115:50/139:50",
-      "mlbSeriesGameNumber": 2,
+      "mlbSeriesGameNumber": 1,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "115",
@@ -28431,23 +28398,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Colorado Rockies at Tampa Bay Rays [time TBA]",
-      "start": "2027-09-18",
-      "end": "2027-09-19",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852344",
+      "title": "MLB: Colorado Rockies at Tampa Bay Rays",
+      "start": "2027-09-17T22:40:00.000Z",
+      "end": "2027-09-18T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852350",
       "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/852344",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/852350",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "a24e015dce6ff6698cf63e3ac3cca4d241bd1be17278385b900460c7c3210dbe",
+      "hash": "978d19650160f4d7678aa849b2f238b2846d3d4719e86959027c282d8d359244",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-854055@football-watchlist",
@@ -28483,12 +28450,12 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-852346@football-watchlist",
-      "gameId": "852346",
+      "uid": "mlb-852344@football-watchlist",
+      "gameId": "852344",
       "mlbSeason": 2027,
       "mlbGameType": "R",
       "mlbSeriesKey": "2027/R/115:50/139:50",
-      "mlbSeriesGameNumber": 3,
+      "mlbSeriesGameNumber": 2,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "115",
@@ -28497,23 +28464,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Colorado Rockies at Tampa Bay Rays [time TBA]",
-      "start": "2027-09-19",
-      "end": "2027-09-20",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852346",
+      "title": "MLB: Colorado Rockies at Tampa Bay Rays",
+      "start": "2027-09-18T20:10:00.000Z",
+      "end": "2027-09-18T23:10:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852344",
       "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/852346",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/852344",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "e7742a42788c428095c5b402412fc56748ac859cbcc9795a5f309f20c5da69cc",
+      "hash": "7911a05bbaa403c3fe80d5cf8c09ffe10ee133ce40d79e340db3f66d85fd5fe3",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-854048@football-watchlist",
@@ -28547,6 +28514,39 @@
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
+    },
+    {
+      "uid": "mlb-852346@football-watchlist",
+      "gameId": "852346",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/115:50/139:50",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "115",
+        "139"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Colorado Rockies at Tampa Bay Rays",
+      "start": "2027-09-19T17:40:00.000Z",
+      "end": "2027-09-19T20:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852346",
+      "location": "Tropicana Field",
+      "url": "https://www.mlb.com/gameday/852346",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "4018c7d0d92ce84123acf90952f68e06b66828dae052075242b2b6678b2783d3",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-854125@football-watchlist",
