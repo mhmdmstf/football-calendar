@@ -1,107 +1,7 @@
 {
-  "checkedOn": "2026-11-15",
+  "checkedOn": "2026-11-16",
   "season": 2026,
   "events": [
-    {
-      "uid": "soccer-401915587@football-watchlist",
-      "gameId": "401915587",
-      "soccerSeason": 2026,
-      "soccerLeague": "uefa.europa",
-      "soccerTeamIds": [
-        "131",
-        "3362"
-      ],
-      "soccerFriendly": false,
-      "soccerSelectionKind": "followed",
-      "soccerSelectionWeek": "2026-09-14",
-      "soccerSelectionReasons": [
-        "Following Bayer Leverkusen: every competitive fixture."
-      ],
-      "soccerSelectedOn": "2026-11-14",
-      "title": "Bayer Leverkusen vs NK Celje - UEFA Europa League",
-      "start": "2026-09-16T19:00:00.000Z",
-      "end": "2026-09-16T21:00:00.000Z",
-      "allDay": false,
-      "status": "CONFIRMED",
-      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915587",
-      "location": "BayArena",
-      "url": "https://www.espn.com/soccer/match/_/gameId/401915587",
-      "categories": [
-        "Soccer",
-        "Followed team",
-        "UEFA Europa League"
-      ],
-      "hash": "35168df9ff58f1f7f07f030a46165f55aa390a11c9751be4e6d8c4eae2dd9d50",
-      "created": "2026-11-14T12:45:35.252Z",
-      "modified": "2026-11-14T12:45:35.252Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-822926@football-watchlist",
-      "gameId": "822926",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/133:49/139:49",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "133",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Athletics at Tampa Bay Rays",
-      "start": "2026-09-16T22:40:00.000Z",
-      "end": "2026-09-17T01:40:00.000Z",
-      "allDay": false,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Brady Basso / Nick Martinez.\n\nListed broadcasts: NBCSCA / Rays.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822926",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/822926",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "d97f00b089429f0086e9af5c369c1b0a1bba0b7fba77efb463afef549ce4336f",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-823576@football-watchlist",
-      "gameId": "823576",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/110:49/121:49",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "110",
-        "121"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: Baltimore Orioles at New York Mets",
-      "start": "2026-09-16T23:10:00.000Z",
-      "end": "2026-09-17T02:10:00.000Z",
-      "allDay": false,
-      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Chris Bassitt / Xzavion Curry.\n\nListed broadcasts: ESPN/ESPN App. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823576",
-      "location": "Citi Field",
-      "url": "https://www.mlb.com/gameday/823576",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "52bf3cda719189ffa5fa8a5804fc64c563bf05fddedc9c55cc59c6b48067a01c",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
     {
       "uid": "mlb-822924@football-watchlist",
       "gameId": "822924",
@@ -29048,7 +28948,7 @@
   "nflGames": 285,
   "collegeGames": 970,
   "baseball": {
-    "checkedOn": "2026-11-15",
+    "checkedOn": "2026-11-16",
     "season": 2026,
     "scheduleGames": 996,
     "followedRegularSeasons": {
@@ -29061,11 +28961,11 @@
         "139": 162
       }
     },
-    "events": 391,
+    "events": 389,
     "playoffEvents": 40
   },
   "hockey": {
-    "checkedOn": "2026-11-15",
+    "checkedOn": "2026-11-16",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -29082,7 +28982,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-11-15",
+    "checkedOn": "2026-11-16",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
@@ -29092,7 +28992,7 @@
     "events": 35
   },
   "soccer": {
-    "checkedOn": "2026-11-15",
+    "checkedOn": "2026-11-16",
     "season": 2026,
     "window": {
       "start": "2026-11-16",
@@ -29125,7 +29025,7 @@
         "uefa.champions": 18
       }
     },
-    "events": 151
+    "events": 150
   },
   "warnings": [
     "College GameDay: no unambiguous current announcement matched the game schedule; retaining verified announcements and TBA placeholders."

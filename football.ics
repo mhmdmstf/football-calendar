@@ -8,65 +8,6 @@ X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:soccer-401915587@football-watchlist
-DTSTAMP:20261114T124535Z
-CREATED:20261114T124535Z
-LAST-MODIFIED:20261114T124535Z
-SEQUENCE:0
-DTSTART:20260916T190000Z
-DTEND:20260916T210000Z
-SUMMARY:Bayer Leverkusen vs NK Celje - UEFA Europa League
-DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nKicko
- ff shown in your calendar’s local time.\n\nViewing window: 2 hours\; fin
- ish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameI
- d/401915587
-LOCATION:BayArena
-URL:https://www.espn.com/soccer/match/_/gameId/401915587
-CATEGORIES:Soccer,Followed team,UEFA Europa League
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-822926@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260916T224000Z
-DTEND:20260917T014000Z
-SUMMARY:MLB: Athletics at Tampa Bay Rays
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
-  window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to
-  change): Brady Basso / Nick Martinez.\n\nListed broadcasts: NBCSCA / Rays
- .TV. Availability varies by country and provider.\n\nOfficial schedule: ht
- tps://www.mlb.com/gameday/822926
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/822926
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-823576@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260916T231000Z
-DTEND:20260917T021000Z
-SUMMARY:MLB: Baltimore Orioles at New York Mets
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
- window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to 
- change): Chris Bassitt / Xzavion Curry.\n\nListed broadcasts: ESPN/ESPN Ap
- p. Availability varies by country and provider.\n\nOfficial schedule: http
- s://www.mlb.com/gameday/823576
-LOCATION:Citi Field
-URL:https://www.mlb.com/gameday/823576
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-822924@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
