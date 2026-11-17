@@ -9775,17 +9775,17 @@
       "start": "2026-11-28T20:30:00.000Z",
       "end": "2026-11-29T00:00:00.000Z",
       "allDay": false,
-      "description": "Major rivalry: USC-UCLA.\n\nTeams: USC Trojans at UCLA Bruins\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858543/usc-ucla",
+      "description": "Major rivalry: USC-UCLA.\n\nTeams: USC Trojans at UCLA Bruins\n\nUS broadcast: CBS. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858543/usc-ucla",
       "location": "Rose Bowl, Pasadena, CA, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401858543/usc-ucla",
       "status": "CONFIRMED",
       "categories": [
         "College"
       ],
-      "hash": "4d4e7844aa2f7513e5dec3ba03d3f40b5287e7f7baa56dc780df15751ec0aa42",
+      "hash": "4fa34178fa3ce9913c2ffa0b35e5c976786235b9cdb8f801a6c1a424693be2f8",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-11-17T10:51:11.781Z",
-      "sequence": 1
+      "modified": "2026-11-17T22:29:15.027Z",
+      "sequence": 2
     },
     {
       "uid": "nhl-2026020421@football-watchlist",
@@ -10109,23 +10109,23 @@
       "sequence": 0
     },
     {
-      "uid": "nfl-401873093@football-watchlist",
-      "gameId": "401873093",
-      "title": "NFL: New England Patriots at Los Angeles Chargers",
+      "uid": "nfl-401873086@football-watchlist",
+      "gameId": "401873086",
+      "title": "NFL: Las Vegas Raiders at Cleveland Browns",
       "start": "2026-11-30T01:20:00.000Z",
       "end": "2026-11-30T04:50:00.000Z",
       "allDay": false,
-      "description": "Sunday Night Football.\n\nTeams: New England Patriots at Los Angeles Chargers\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873093/patriots-chargers",
-      "location": "SoFi Stadium, Inglewood, CA, USA",
-      "url": "https://www.espn.com/nfl/game/_/gameId/401873093/patriots-chargers",
+      "description": "Sunday Night Football.\n\nTeams: Las Vegas Raiders at Cleveland Browns\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873086/raiders-browns",
+      "location": "Huntington Bank Field, Cleveland, OH, USA",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873086/raiders-browns",
       "status": "CONFIRMED",
       "categories": [
         "NFL"
       ],
-      "hash": "aac95998479098a8ed62c11a6c552b7acffb59595b05a5480ea193521f2bbf09",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 1
+      "hash": "ec44907cb60b88866f0f83e8c89c39331a72e6058e6491c7ea97f04a041ac74d",
+      "created": "2026-11-17T22:29:15.027Z",
+      "modified": "2026-11-17T22:29:15.027Z",
+      "sequence": 0
     },
     {
       "uid": "nhl-2026020431@football-watchlist",
@@ -11711,26 +11711,6 @@
       "sequence": 1
     },
     {
-      "uid": "college-football-401874295@football-watchlist",
-      "gameId": "401874295",
-      "title": "CFP First Round Game - teams TBA",
-      "start": "2026-12-19T01:00:00.000Z",
-      "end": "2026-12-19T04:30:00.000Z",
-      "allDay": false,
-      "description": "College Football Playoff: every round.\n\nCollege Football Playoff First Round Game\n\nTeams: TBD at TBD\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401874295/tbd-tbd",
-      "location": "",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401874295/tbd-tbd",
-      "status": "CONFIRMED",
-      "categories": [
-        "College",
-        "Playoffs"
-      ],
-      "hash": "b27afc8d690c89ed4e9ccb4c7b01d7391a8e53664adc3b0f93123dc8b6bf19f0",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
-    },
-    {
       "uid": "nhl-2026020565@football-watchlist",
       "gameId": "2026020565",
       "nhlSeason": 20262027,
@@ -11795,26 +11775,6 @@
       "sequence": 0
     },
     {
-      "uid": "college-football-401874296@football-watchlist",
-      "gameId": "401874296",
-      "title": "CFP First Round Game - teams TBA",
-      "start": "2026-12-19T17:00:00.000Z",
-      "end": "2026-12-19T20:30:00.000Z",
-      "allDay": false,
-      "description": "College Football Playoff: every round.\n\nCollege Football Playoff First Round Game\n\nTeams: TBD at TBD\n\nUS broadcast: ABC / ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401874296/tbd-tbd",
-      "location": "",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401874296/tbd-tbd",
-      "status": "CONFIRMED",
-      "categories": [
-        "College",
-        "Playoffs"
-      ],
-      "hash": "02397e9227d8ab4c79794e768e03c38e9fa1c2d08e708bea6f82881d2746d23a",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
-    },
-    {
       "uid": "soccer-401875044@football-watchlist",
       "gameId": "401875044",
       "soccerSeason": 2026,
@@ -11849,26 +11809,6 @@
       "sequence": 0
     },
     {
-      "uid": "college-football-401874297@football-watchlist",
-      "gameId": "401874297",
-      "title": "CFP First Round Game - teams TBA",
-      "start": "2026-12-19T20:30:00.000Z",
-      "end": "2026-12-20T00:00:00.000Z",
-      "allDay": false,
-      "description": "College Football Playoff: every round.\n\nCollege Football Playoff First Round Game\n\nTeams: TBD at TBD\n\nUS broadcast: TNT / truTV. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401874297/tbd-tbd",
-      "location": "",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401874297/tbd-tbd",
-      "status": "CONFIRMED",
-      "categories": [
-        "College",
-        "Playoffs"
-      ],
-      "hash": "0fce757993cf94317ab015c89b9c1f4d0d74b189a0bb692e19da619c6d097675",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
-    },
-    {
       "uid": "nfl-401873125@football-watchlist",
       "gameId": "401873125",
       "title": "NFL: Seattle Seahawks at Philadelphia Eagles",
@@ -11886,26 +11826,6 @@
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-10-05T21:36:12.655Z",
       "sequence": 2
-    },
-    {
-      "uid": "college-football-401874298@football-watchlist",
-      "gameId": "401874298",
-      "title": "CFP First Round Game - teams TBA",
-      "start": "2026-12-20T00:30:00.000Z",
-      "end": "2026-12-20T04:00:00.000Z",
-      "allDay": false,
-      "description": "College Football Playoff: every round.\n\nCollege Football Playoff First Round Game\n\nTeams: TBD at TBD\n\nUS broadcast: TNT / truTV. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401874298/tbd-tbd",
-      "location": "",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401874298/tbd-tbd",
-      "status": "CONFIRMED",
-      "categories": [
-        "College",
-        "Playoffs"
-      ],
-      "hash": "28eb4ad6db5246f60d51465f4951816efeb6bcd58bd4b848461bc6d74cfbe5d4",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
     },
     {
       "uid": "nfl-401873126@football-watchlist",
@@ -25588,8 +25508,8 @@
         "Following New York Mets: every regular-season game."
       ],
       "title": "MLB: New York Mets at Pittsburgh Pirates",
-      "start": "2027-08-01T16:35:00.000Z",
-      "end": "2027-08-01T19:35:00.000Z",
+      "start": "2027-08-01T17:35:00.000Z",
+      "end": "2027-08-01T20:35:00.000Z",
       "allDay": false,
       "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852767",
       "location": "PNC Park",
@@ -25600,10 +25520,10 @@
         "Followed team",
         "New York Mets"
       ],
-      "hash": "d495078d38b959253cfc4d0cc245dea3bfd8a61423cdf517b3bb383e17eed533",
+      "hash": "ad7e1c68d3869858a9956b1e512727649e23141bfbb27d642e9e40d0d712286b",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-11-11T21:27:32.163Z",
-      "sequence": 1
+      "modified": "2026-11-17T22:29:15.027Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-854393@football-watchlist",

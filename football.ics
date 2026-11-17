@@ -7519,17 +7519,17 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858543@football-watchlist
-DTSTAMP:20261117T105111Z
+DTSTAMP:20261117T222915Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20261117T105111Z
-SEQUENCE:1
+LAST-MODIFIED:20261117T222915Z
+SEQUENCE:2
 DTSTART:20261128T203000Z
 DTEND:20261129T000000Z
 SUMMARY:CFB: USC at UCLA
 DESCRIPTION:Major rivalry: USC-UCLA.\n\nTeams: USC Trojans at UCLA Bruins\n
- \nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for cha
- mpionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/col
- lege-football/game/_/gameId/401858543/usc-ucla
+ \nUS broadcast: CBS. Availability elsewhere varies.\n\nViewing window: 3.5
+  hours (4 hours for championships)\; finish is approximate.\n\nSchedule: h
+ ttps://www.espn.com/college-football/game/_/gameId/401858543/usc-ucla
 LOCATION:Rose Bowl\, Pasadena\, CA\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401858543/usc-ucla
 CATEGORIES:College
@@ -7753,21 +7753,20 @@ STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:nfl-401873093@football-watchlist
-DTSTAMP:20260905T145208Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:1
+UID:nfl-401873086@football-watchlist
+DTSTAMP:20261117T222915Z
+CREATED:20261117T222915Z
+LAST-MODIFIED:20261117T222915Z
+SEQUENCE:0
 DTSTART:20261130T012000Z
 DTEND:20261130T045000Z
-SUMMARY:NFL: New England Patriots at Los Angeles Chargers
-DESCRIPTION:Sunday Night Football.\n\nTeams: New England Patriots at Los An
- geles Chargers\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nVie
- wing window: 3.5 hours (4 hours for championships)\; finish is approximate
- .\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873093/patriots-c
- hargers
-LOCATION:SoFi Stadium\, Inglewood\, CA\, USA
-URL:https://www.espn.com/nfl/game/_/gameId/401873093/patriots-chargers
+SUMMARY:NFL: Las Vegas Raiders at Cleveland Browns
+DESCRIPTION:Sunday Night Football.\n\nTeams: Las Vegas Raiders at Cleveland
+  Browns\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing wi
+ ndow: 3.5 hours (4 hours for championships)\; finish is approximate.\n\nSc
+ hedule: https://www.espn.com/nfl/game/_/gameId/401873086/raiders-browns
+LOCATION:Huntington Bank Field\, Cleveland\, OH\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873086/raiders-browns
 CATEGORIES:NFL
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -9059,26 +9058,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:college-football-401874295@football-watchlist
-DTSTAMP:20260905T144637Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
-DTSTART:20261219T010000Z
-DTEND:20261219T043000Z
-SUMMARY:CFP First Round Game - teams TBA
-DESCRIPTION:College Football Playoff: every round.\n\nCollege Football Play
- off First Round Game\n\nTeams: TBD at TBD\n\nUS broadcast: ESPN. Availabil
- ity elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championsh
- ips)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-fo
- otball/game/_/gameId/401874295/tbd-tbd
-LOCATION:
-URL:https://www.espn.com/college-football/game/_/gameId/401874295/tbd-tbd
-CATEGORIES:College,Playoffs
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:nhl-2026020565@football-watchlist
 DTSTAMP:20261001T073711Z
 CREATED:20261001T073711Z
@@ -9121,26 +9100,6 @@ STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:college-football-401874296@football-watchlist
-DTSTAMP:20260905T144637Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
-DTSTART:20261219T170000Z
-DTEND:20261219T203000Z
-SUMMARY:CFP First Round Game - teams TBA
-DESCRIPTION:College Football Playoff: every round.\n\nCollege Football Play
- off First Round Game\n\nTeams: TBD at TBD\n\nUS broadcast: ABC / ESPN. Ava
- ilability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for cham
- pionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/coll
- ege-football/game/_/gameId/401874296/tbd-tbd
-LOCATION:
-URL:https://www.espn.com/college-football/game/_/gameId/401874296/tbd-tbd
-CATEGORIES:College,Playoffs
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:soccer-401875044@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -9161,26 +9120,6 @@ STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:college-football-401874297@football-watchlist
-DTSTAMP:20260905T144637Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
-DTSTART:20261219T203000Z
-DTEND:20261220T000000Z
-SUMMARY:CFP First Round Game - teams TBA
-DESCRIPTION:College Football Playoff: every round.\n\nCollege Football Play
- off First Round Game\n\nTeams: TBD at TBD\n\nUS broadcast: TNT / truTV. Av
- ailability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for cha
- mpionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/col
- lege-football/game/_/gameId/401874297/tbd-tbd
-LOCATION:
-URL:https://www.espn.com/college-football/game/_/gameId/401874297/tbd-tbd
-CATEGORIES:College,Playoffs
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:nfl-401873125@football-watchlist
 DTSTAMP:20261005T213612Z
 CREATED:20260905T144637Z
@@ -9197,26 +9136,6 @@ DESCRIPTION:Standalone NFL game outside the regular Sunday afternoon slate.
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA\, USA
 URL:https://www.espn.com/nfl/game/_/gameId/401873125/seahawks-eagles
 CATEGORIES:NFL
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401874298@football-watchlist
-DTSTAMP:20260905T144637Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
-DTSTART:20261220T003000Z
-DTEND:20261220T040000Z
-SUMMARY:CFP First Round Game - teams TBA
-DESCRIPTION:College Football Playoff: every round.\n\nCollege Football Play
- off First Round Game\n\nTeams: TBD at TBD\n\nUS broadcast: TNT / truTV. Av
- ailability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for cha
- mpionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/col
- lege-football/game/_/gameId/401874298/tbd-tbd
-LOCATION:
-URL:https://www.espn.com/college-football/game/_/gameId/401874298/tbd-tbd
-CATEGORIES:College,Playoffs
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -17658,12 +17577,12 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852767@football-watchlist
-DTSTAMP:20261111T212732Z
+DTSTAMP:20261117T222915Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261111T212732Z
-SEQUENCE:1
-DTSTART:20270801T163500Z
-DTEND:20270801T193500Z
+LAST-MODIFIED:20261117T222915Z
+SEQUENCE:2
+DTSTART:20270801T173500Z
+DTEND:20270801T203500Z
 SUMMARY:MLB: New York Mets at Pittsburgh Pirates
 DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
