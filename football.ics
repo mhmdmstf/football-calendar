@@ -8,46 +8,6 @@ X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:mlb-822924@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260917T171000Z
-DTEND:20260917T201000Z
-SUMMARY:MLB: Athletics at Tampa Bay Rays
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
-  window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to
-  change): Jeffrey Springs / Drew Rasmussen.\n\nListed broadcasts: NBCSCA /
-  Rays.TV. Availability varies by country and provider.\n\nOfficial schedul
- e: https://www.mlb.com/gameday/822924
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/822924
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-823573@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260917T231500Z
-DTEND:20260918T021500Z
-SUMMARY:MLB: Philadelphia Phillies at New York Mets
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
- window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to 
- change): Aaron Nola / Nolan McLean.\n\nListed broadcasts: FOX / FOX ONE. A
- vailability varies by country and provider.\n\nOfficial schedule: https://
- www.mlb.com/gameday/823573
-LOCATION:Citi Field
-URL:https://www.mlb.com/gameday/823573
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:nfl-401872932@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T144637Z
@@ -599,17 +559,17 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-822840@football-watchlist
-DTSTAMP:20261110T205353Z
+DTSTAMP:20261117T105111Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261110T205353Z
-SEQUENCE:5
+LAST-MODIFIED:20261117T105111Z
+SEQUENCE:6
 DTSTART:20260923T000500Z
 DTEND:20260923T030500Z
 SUMMARY:MLB: New York Mets at Texas Rangers
 DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
  window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to 
- change): Sean Manaea / MacKenzie Gore.\n\nListed broadcasts: Rangers Sport
- s Network\, presented by Progressive / SNY. Availability varies by country
+ change): Sean Manaea / MacKenzie Gore.\n\nListed broadcasts: SNY / Rangers
+  Sports Network\, presented by Progressive. Availability varies by country
   and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822840
 LOCATION:Globe Life Field
 URL:https://www.mlb.com/gameday/822840
@@ -662,10 +622,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-822841@football-watchlist
-DTSTAMP:20261110T205353Z
+DTSTAMP:20261117T105111Z
 CREATED:20260923T075004Z
-LAST-MODIFIED:20261110T205353Z
-SEQUENCE:3
+LAST-MODIFIED:20261117T105111Z
+SEQUENCE:4
 DTSTART:20260924T000500Z
 DTEND:20260924T030500Z
 SUMMARY:MLB: New York Mets at Texas Rangers
@@ -673,8 +633,8 @@ DESCRIPTION:Texas Rangers: tied for the division lead.\nTexas Rangers: 3 ga
  mes behind the final wild-card spot.\nFollowing New York Mets.\nStandings 
  snapshot: 2026-09-23.\n\nViewing window: 3 hours\; finish is approximate.\
  n\nProbable pitchers (subject to change): Nolan McLean / Cody Bradford.\n\
- nListed broadcasts: Rangers Sports Network\, presented by Progressive / SN
- Y. Availability varies by country and provider.\n\nOfficial schedule: http
+ nListed broadcasts: SNY / Rangers Sports Network\, presented by Progressiv
+ e. Availability varies by country and provider.\n\nOfficial schedule: http
  s://www.mlb.com/gameday/822841
 LOCATION:Globe Life Field
 URL:https://www.mlb.com/gameday/822841
@@ -684,17 +644,17 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-822842@football-watchlist
-DTSTAMP:20261110T205353Z
+DTSTAMP:20261117T105111Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261110T205353Z
-SEQUENCE:1
+LAST-MODIFIED:20261117T105111Z
+SEQUENCE:2
 DTSTART:20260924T183500Z
 DTEND:20260924T213500Z
 SUMMARY:MLB: New York Mets at Texas Rangers
 DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
  window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to 
- change): Zac Thornton / Kumar Rocker.\n\nListed broadcasts: Rangers Sports
-  Network\, presented by Progressive / SNY. Availability varies by country 
+ change): Zac Thornton / Kumar Rocker.\n\nListed broadcasts: SNY / Rangers 
+ Sports Network\, presented by Progressive. Availability varies by country 
  and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822842
 LOCATION:Globe Life Field
 URL:https://www.mlb.com/gameday/822842
@@ -7211,19 +7171,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856757@football-watchlist
-DTSTAMP:20260905T144637Z
+DTSTAMP:20261117T105111Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
+LAST-MODIFIED:20261117T105111Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:CFB: Auburn at Alabama [time TBA]
 DESCRIPTION:Following Alabama: every game.\nMajor rivalry: Iron Bowl.\n\nFL
  EX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Auburn Tigers at Alabama C
- rimson Tide\n\nBroadcast to be announced.\n\nKickoff has not been announce
- d. This all-day marker will become a timed event when confirmed.\n\nSchedu
- le: https://www.espn.com/college-football/game/_/gameId/401856757/auburn-a
- labama
+ rimson Tide\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nKickof
+ f has not been announced. This all-day marker will become a timed event wh
+ en confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/ga
+ meId/401856757/auburn-alabama
 LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856757/auburn-al
  abama
@@ -7291,25 +7251,6 @@ DESCRIPTION:Major rivalry: Oregon-Washington.\n\nTeams: Washington Huskies
 LOCATION:Autzen Stadium\, Eugene\, OR\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401858541/washingto
  n-oregon
-CATEGORIES:College
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401858543@football-watchlist
-DTSTAMP:20260905T144637Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-SUMMARY:CFB: USC at UCLA [time TBA]
-DESCRIPTION:Major rivalry: USC-UCLA.\n\nTeams: USC Trojans at UCLA Bruins\n
- \nBroadcast to be announced.\n\nKickoff has not been announced. This all-d
- ay marker will become a timed event when confirmed.\n\nSchedule: https://w
- ww.espn.com/college-football/game/_/gameId/401858543/usc-ucla
-LOCATION:Rose Bowl\, Pasadena\, CA\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858543/usc-ucla
 CATEGORIES:College
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -7572,6 +7513,25 @@ DESCRIPTION:Major rivalry: The Game.\nConfirmed College GameDay or Big Noon
 LOCATION:Ohio Stadium\, Columbus\, OH\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401858540/michigan-
  ohio-state
+CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858543@football-watchlist
+DTSTAMP:20261117T105111Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20261117T105111Z
+SEQUENCE:1
+DTSTART:20261128T203000Z
+DTEND:20261129T000000Z
+SUMMARY:CFB: USC at UCLA
+DESCRIPTION:Major rivalry: USC-UCLA.\n\nTeams: USC Trojans at UCLA Bruins\n
+ \nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for cha
+ mpionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/col
+ lege-football/game/_/gameId/401858543/usc-ucla
+LOCATION:Rose Bowl\, Pasadena\, CA\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858543/usc-ucla
 CATEGORIES:College
 STATUS:CONFIRMED
 TRANSP:OPAQUE

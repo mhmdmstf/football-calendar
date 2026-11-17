@@ -1,73 +1,7 @@
 {
-  "checkedOn": "2026-11-16",
+  "checkedOn": "2026-11-17",
   "season": 2026,
   "events": [
-    {
-      "uid": "mlb-822924@football-watchlist",
-      "gameId": "822924",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/133:49/139:49",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "133",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Athletics at Tampa Bay Rays",
-      "start": "2026-09-17T17:10:00.000Z",
-      "end": "2026-09-17T20:10:00.000Z",
-      "allDay": false,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Jeffrey Springs / Drew Rasmussen.\n\nListed broadcasts: NBCSCA / Rays.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822924",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/822924",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "5a08613ecfa8fc0aa102fb9b30f993c359b9c2cfdaa438b9063dc85234e2b3d3",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-823573@football-watchlist",
-      "gameId": "823573",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/143:50/121:50",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "143",
-        "121"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: Philadelphia Phillies at New York Mets",
-      "start": "2026-09-17T23:15:00.000Z",
-      "end": "2026-09-18T02:15:00.000Z",
-      "allDay": false,
-      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Aaron Nola / Nolan McLean.\n\nListed broadcasts: FOX / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823573",
-      "location": "Citi Field",
-      "url": "https://www.mlb.com/gameday/823573",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "2108072514e29e6685498f0575d369a8c56606d3ed4cec7af85982c5c32e5bb7",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
     {
       "uid": "nfl-401872932@football-watchlist",
       "gameId": "401872932",
@@ -820,7 +754,7 @@
       "start": "2026-09-23T00:05:00.000Z",
       "end": "2026-09-23T03:05:00.000Z",
       "allDay": false,
-      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Sean Manaea / MacKenzie Gore.\n\nListed broadcasts: Rangers Sports Network, presented by Progressive / SNY. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822840",
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Sean Manaea / MacKenzie Gore.\n\nListed broadcasts: SNY / Rangers Sports Network, presented by Progressive. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822840",
       "location": "Globe Life Field",
       "url": "https://www.mlb.com/gameday/822840",
       "status": "CONFIRMED",
@@ -829,10 +763,10 @@
         "Followed team",
         "New York Mets"
       ],
-      "hash": "887b73332f6c483fb642506cf668dcecb8d9197805ff0bc4269056dd01a174a7",
+      "hash": "bdd731f8f3414fe17ec95a1f4d53b392f42f4c0877463dbaa32b4d1cd7becce4",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-11-10T20:53:53.836Z",
-      "sequence": 5
+      "modified": "2026-11-17T10:51:11.781Z",
+      "sequence": 6
     },
     {
       "uid": "mlb-823089@football-watchlist",
@@ -925,7 +859,7 @@
       "start": "2026-09-24T00:05:00.000Z",
       "end": "2026-09-24T03:05:00.000Z",
       "allDay": false,
-      "description": "Texas Rangers: tied for the division lead.\nTexas Rangers: 3 games behind the final wild-card spot.\nFollowing New York Mets.\nStandings snapshot: 2026-09-23.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nolan McLean / Cody Bradford.\n\nListed broadcasts: Rangers Sports Network, presented by Progressive / SNY. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822841",
+      "description": "Texas Rangers: tied for the division lead.\nTexas Rangers: 3 games behind the final wild-card spot.\nFollowing New York Mets.\nStandings snapshot: 2026-09-23.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nolan McLean / Cody Bradford.\n\nListed broadcasts: SNY / Rangers Sports Network, presented by Progressive. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822841",
       "location": "Globe Life Field",
       "url": "https://www.mlb.com/gameday/822841",
       "status": "CONFIRMED",
@@ -934,10 +868,10 @@
         "Followed team",
         "New York Mets"
       ],
-      "hash": "66b78faa294a8cf8ede685eb0fe65dcba2cc4c6e341e2ae25da84f1ae9b26c65",
+      "hash": "2297e98b8df7be7cbc6eb3943d10656b7823940fab69af7eaa738c6b073475aa",
       "created": "2026-09-23T07:50:04.909Z",
-      "modified": "2026-11-10T20:53:53.836Z",
-      "sequence": 3
+      "modified": "2026-11-17T10:51:11.781Z",
+      "sequence": 4
     },
     {
       "uid": "mlb-822842@football-watchlist",
@@ -958,7 +892,7 @@
       "start": "2026-09-24T18:35:00.000Z",
       "end": "2026-09-24T21:35:00.000Z",
       "allDay": false,
-      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Zac Thornton / Kumar Rocker.\n\nListed broadcasts: Rangers Sports Network, presented by Progressive / SNY. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822842",
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Zac Thornton / Kumar Rocker.\n\nListed broadcasts: SNY / Rangers Sports Network, presented by Progressive. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822842",
       "location": "Globe Life Field",
       "url": "https://www.mlb.com/gameday/822842",
       "status": "CONFIRMED",
@@ -967,10 +901,10 @@
         "Followed team",
         "New York Mets"
       ],
-      "hash": "10ed83370ea1d566c935e28ae0389abc96c28a86d13ea8ddfabaf18b823ffdcf",
+      "hash": "8bfb110546166117dd596a19b63bbb3e12d164f7ac9b5886def75675f27b9ee7",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-11-10T20:53:53.836Z",
-      "sequence": 1
+      "modified": "2026-11-17T10:51:11.781Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-823493@football-watchlist",
@@ -9501,7 +9435,7 @@
       "start": "2026-11-28",
       "end": "2026-11-29",
       "allDay": true,
-      "description": "Following Alabama: every game.\nMajor rivalry: Iron Bowl.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Auburn Tigers at Alabama Crimson Tide\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856757/auburn-alabama",
+      "description": "Following Alabama: every game.\nMajor rivalry: Iron Bowl.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Auburn Tigers at Alabama Crimson Tide\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856757/auburn-alabama",
       "location": "Bryant-Denny Stadium, Tuscaloosa, AL, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856757/auburn-alabama",
       "status": "TENTATIVE",
@@ -9509,10 +9443,10 @@
         "College",
         "Alabama"
       ],
-      "hash": "f39d0dc077778f13774700df8380c0d1296967c8b8c92292cf13ce890a73a11e",
+      "hash": "dd9e2266366296ae9187e8f84bca59627621cfc6a6623064193e33401b1c4cc7",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
+      "modified": "2026-11-17T10:51:11.781Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401856760@football-watchlist",
@@ -9569,25 +9503,6 @@
       "hash": "6c14f66c555bc993f13dd6d1f05a89ac01c90f19ddbb9621eded3864c401fbb4",
       "created": "2026-09-05T14:52:08.096Z",
       "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401858543@football-watchlist",
-      "gameId": "401858543",
-      "title": "CFB: USC at UCLA [time TBA]",
-      "start": "2026-11-28",
-      "end": "2026-11-29",
-      "allDay": true,
-      "description": "Major rivalry: USC-UCLA.\n\nTeams: USC Trojans at UCLA Bruins\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858543/usc-ucla",
-      "location": "Rose Bowl, Pasadena, CA, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858543/usc-ucla",
-      "status": "TENTATIVE",
-      "categories": [
-        "College"
-      ],
-      "hash": "bfb650ddd947dc8b3f92b46dee40ad17ee154035a5e8376b9d49518a5d01aa52",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
       "sequence": 0
     },
     {
@@ -9851,6 +9766,25 @@
       "hash": "9fe252c700ebff98e1d40bbf0b1af1095230d4e716439558f644e829dbdb492e",
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-10-05T21:36:12.655Z",
+      "sequence": 1
+    },
+    {
+      "uid": "college-football-401858543@football-watchlist",
+      "gameId": "401858543",
+      "title": "CFB: USC at UCLA",
+      "start": "2026-11-28T20:30:00.000Z",
+      "end": "2026-11-29T00:00:00.000Z",
+      "allDay": false,
+      "description": "Major rivalry: USC-UCLA.\n\nTeams: USC Trojans at UCLA Bruins\n\nBroadcast to be announced.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858543/usc-ucla",
+      "location": "Rose Bowl, Pasadena, CA, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858543/usc-ucla",
+      "status": "CONFIRMED",
+      "categories": [
+        "College"
+      ],
+      "hash": "4d4e7844aa2f7513e5dec3ba03d3f40b5287e7f7baa56dc780df15751ec0aa42",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-11-17T10:51:11.781Z",
       "sequence": 1
     },
     {
@@ -28948,7 +28882,7 @@
   "nflGames": 285,
   "collegeGames": 970,
   "baseball": {
-    "checkedOn": "2026-11-16",
+    "checkedOn": "2026-11-17",
     "season": 2026,
     "scheduleGames": 996,
     "followedRegularSeasons": {
@@ -28961,11 +28895,11 @@
         "139": 162
       }
     },
-    "events": 389,
+    "events": 387,
     "playoffEvents": 40
   },
   "hockey": {
-    "checkedOn": "2026-11-16",
+    "checkedOn": "2026-11-17",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -28982,7 +28916,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-11-16",
+    "checkedOn": "2026-11-17",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
@@ -28992,7 +28926,7 @@
     "events": 35
   },
   "soccer": {
-    "checkedOn": "2026-11-16",
+    "checkedOn": "2026-11-17",
     "season": 2026,
     "window": {
       "start": "2026-11-16",
