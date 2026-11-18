@@ -8,107 +8,6 @@ X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:nfl-401872932@football-watchlist
-DTSTAMP:20260905T145208Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:1
-DTSTART:20260918T001500Z
-DTEND:20260918T034500Z
-SUMMARY:NFL: Detroit Lions at Buffalo Bills
-DESCRIPTION:Thursday football\, including Thanksgiving.\n\nTeams: Detroit L
- ions at Buffalo Bills\n\nUS broadcast: Prime Video. Availability elsewhere
-  varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish
-  is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/40187
- 2932/lions-bills
-LOCATION:Highmark Stadium\, Orchard Park\, NY\, USA
-URL:https://www.espn.com/nfl/game/_/gameId/401872932/lions-bills
-CATEGORIES:NFL
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer-401876453@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260918T184500Z
-DTEND:20260918T204500Z
-SUMMARY:AS Monaco vs Lens - French Ligue 1
-DESCRIPTION:Following RC Lens: every competitive fixture.\n\nKickoff shown 
- in your calendar’s local time.\n\nViewing window: 2 hours\; finish is ap
- proximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/4018764
- 53
-LOCATION:Stade Louis II
-URL:https://www.espn.com/soccer/match/_/gameId/401876453
-CATEGORIES:Soccer,Followed team,French Ligue 1
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:chelsea-2645236@football-watchlist
-DTSTAMP:20261003T132345Z
-CREATED:20261003T132258Z
-LAST-MODIFIED:20261003T132345Z
-SEQUENCE:1
-DTSTART:20260918T190000Z
-DTEND:20260918T210000Z
-SUMMARY:Brentford vs Chelsea - Premier League
-DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
- \nThe club currently lists this kickoff as confirmed. Viewing window: 2 ho
- urs\; finish is approximate.\n\nFixtures remain subject to later reschedul
- ing. The feed refreshes from Chelsea’s official schedule.\n\nOfficial ma
- tch: https://www.chelseafc.com/en/match/brentford-vs-chelsea-english-premi
- er-league-2026-09-18
-LOCATION:Gtech Community Stadium
-URL:https://www.chelseafc.com/en/match/brentford-vs-chelsea-english-premier
- -league-2026-09-18
-CATEGORIES:Soccer,Chelsea,Premier League
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-822923@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260918T231000Z
-DTEND:20260919T021000Z
-SUMMARY:MLB: Boston Red Sox at Tampa Bay Rays
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
-  window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to
-  change): Ranger Suarez / Ian Seymour.\n\nListed broadcasts: Rays.TV / NES
- N. Availability varies by country and provider.\n\nOfficial schedule: http
- s://www.mlb.com/gameday/822923
-LOCATION:Tropicana Field
-URL:https://www.mlb.com/gameday/822923
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-823572@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260918T231500Z
-DTEND:20260919T021500Z
-SUMMARY:MLB: Philadelphia Phillies at New York Mets
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
- window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to 
- change): Tim Mayza / Zac Thornton.\n\nListed broadcasts: Apple TV. Availab
- ility varies by country and provider.\n\nOfficial schedule: https://www.ml
- b.com/gameday/823572
-LOCATION:Citi Field
-URL:https://www.mlb.com/gameday/823572
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:college-football-401856811@football-watchlist
 DTSTAMP:20261005T213612Z
 CREATED:20260905T144637Z
@@ -9058,6 +8957,26 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:college-football-401874295@football-watchlist
+DTSTAMP:20261118T102059Z
+CREATED:20261118T102059Z
+LAST-MODIFIED:20261118T102059Z
+SEQUENCE:0
+DTSTART:20261219T010000Z
+DTEND:20261219T043000Z
+SUMMARY:CFP First Round Game - teams TBA
+DESCRIPTION:College Football Playoff: every round.\n\nCollege Football Play
+ off First Round Game\n\nTeams: TBD at TBD\n\nUS broadcast: ESPN. Availabil
+ ity elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championsh
+ ips)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-fo
+ otball/game/_/gameId/401874295/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401874295/tbd-tbd
+CATEGORIES:College,Playoffs
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nhl-2026020565@football-watchlist
 DTSTAMP:20261001T073711Z
 CREATED:20261001T073711Z
@@ -9100,6 +9019,26 @@ STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:college-football-401874296@football-watchlist
+DTSTAMP:20261118T102059Z
+CREATED:20261118T102059Z
+LAST-MODIFIED:20261118T102059Z
+SEQUENCE:0
+DTSTART:20261219T170000Z
+DTEND:20261219T203000Z
+SUMMARY:CFP First Round Game - teams TBA
+DESCRIPTION:College Football Playoff: every round.\n\nCollege Football Play
+ off First Round Game\n\nTeams: TBD at TBD\n\nUS broadcast: ABC / ESPN. Ava
+ ilability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for cham
+ pionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/coll
+ ege-football/game/_/gameId/401874296/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401874296/tbd-tbd
+CATEGORIES:College,Playoffs
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:soccer-401875044@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -9120,6 +9059,26 @@ STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:college-football-401874297@football-watchlist
+DTSTAMP:20261118T102059Z
+CREATED:20261118T102059Z
+LAST-MODIFIED:20261118T102059Z
+SEQUENCE:0
+DTSTART:20261219T203000Z
+DTEND:20261220T000000Z
+SUMMARY:CFP First Round Game - teams TBA
+DESCRIPTION:College Football Playoff: every round.\n\nCollege Football Play
+ off First Round Game\n\nTeams: TBD at TBD\n\nUS broadcast: TNT / truTV. Av
+ ailability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for cha
+ mpionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/col
+ lege-football/game/_/gameId/401874297/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401874297/tbd-tbd
+CATEGORIES:College,Playoffs
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nfl-401873125@football-watchlist
 DTSTAMP:20261005T213612Z
 CREATED:20260905T144637Z
@@ -9136,6 +9095,26 @@ DESCRIPTION:Standalone NFL game outside the regular Sunday afternoon slate.
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA\, USA
 URL:https://www.espn.com/nfl/game/_/gameId/401873125/seahawks-eagles
 CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401874298@football-watchlist
+DTSTAMP:20261118T102059Z
+CREATED:20261118T102059Z
+LAST-MODIFIED:20261118T102059Z
+SEQUENCE:0
+DTSTART:20261220T003000Z
+DTEND:20261220T040000Z
+SUMMARY:CFP First Round Game - teams TBA
+DESCRIPTION:College Football Playoff: every round.\n\nCollege Football Play
+ off First Round Game\n\nTeams: TBD at TBD\n\nUS broadcast: TNT / truTV. Av
+ ailability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for cha
+ mpionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/col
+ lege-football/game/_/gameId/401874298/tbd-tbd
+LOCATION:
+URL:https://www.espn.com/college-football/game/_/gameId/401874298/tbd-tbd
+CATEGORIES:College,Playoffs
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -15197,25 +15176,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852562@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270521
-DTEND;VALUE=DATE:20270522
-SUMMARY:MLB: Tampa Bay Rays at Seattle Mariners [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852562
-LOCATION:T-Mobile Park
-URL:https://www.mlb.com/gameday/852562
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-853137@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -15232,25 +15192,6 @@ URL:https://www.mlb.com/gameday/853137
 CATEGORIES:MLB,Followed team,New York Mets
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-852555@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270522
-DTEND;VALUE=DATE:20270523
-SUMMARY:MLB: Tampa Bay Rays at Seattle Mariners [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852555
-LOCATION:T-Mobile Park
-URL:https://www.mlb.com/gameday/852555
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401876202@football-watchlist
@@ -15270,6 +15211,24 @@ URL:https://www.espn.com/soccer/match/_/gameId/401876202
 CATEGORIES:Soccer,Followed team,French Ligue 1
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-852562@football-watchlist
+DTSTAMP:20261118T102059Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261118T102059Z
+SEQUENCE:1
+DTSTART:20270522T021000Z
+DTEND:20270522T051000Z
+SUMMARY:MLB: Tampa Bay Rays at Seattle Mariners
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852562
+LOCATION:T-Mobile Park
+URL:https://www.mlb.com/gameday/852562
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401884493@football-watchlist
@@ -15334,25 +15293,6 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852557@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270523
-DTEND;VALUE=DATE:20270524
-SUMMARY:MLB: Tampa Bay Rays at Seattle Mariners [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852557
-LOCATION:T-Mobile Park
-URL:https://www.mlb.com/gameday/852557
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:soccer-401874887@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -15372,6 +15312,24 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-852555@football-watchlist
+DTSTAMP:20261118T102059Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261118T102059Z
+SEQUENCE:1
+DTSTART:20270523T021000Z
+DTEND:20270523T051000Z
+SUMMARY:MLB: Tampa Bay Rays at Seattle Mariners
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852555
+LOCATION:T-Mobile Park
+URL:https://www.mlb.com/gameday/852555
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-853138@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -15386,6 +15344,24 @@ DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing
 LOCATION:Target Field
 URL:https://www.mlb.com/gameday/853138
 CATEGORIES:MLB,Followed team,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-852557@football-watchlist
+DTSTAMP:20261118T102059Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261118T102059Z
+SEQUENCE:1
+DTSTART:20270523T201000Z
+DTEND:20270523T231000Z
+SUMMARY:MLB: Tampa Bay Rays at Seattle Mariners
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852557
+LOCATION:T-Mobile Park
+URL:https://www.mlb.com/gameday/852557
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
