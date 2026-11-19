@@ -8148,7 +8148,7 @@
       "start": "2026-11-21T20:30:00.000Z",
       "end": "2026-11-22T00:00:00.000Z",
       "allDay": false,
-      "description": "National pick: a ranked team in a potentially competitive game (market spread 5.5 points at selection). Upset possibility is an estimate.\n\nTeams: UCLA Bruins at Michigan Wolverines\n\nUS broadcast: CBS. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858528/ucla-michigan",
+      "description": "National pick: a ranked team in a potentially competitive game (market spread 5.5 points at selection). Upset possibility is an estimate.\n\nTeams: UCLA Bruins at Michigan Wolverines\n\nUS broadcast: CBS / ERADM. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858528/ucla-michigan",
       "location": "Michigan Stadium, Ann Arbor, MI, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401858528/ucla-michigan",
       "status": "CONFIRMED",
@@ -8157,10 +8157,10 @@
         "National pick"
       ],
       "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 5.5 points at selection). Upset possibility is an estimate.",
-      "hash": "9fae15dbaf1685c905af74fe9610e67d072eb3dcd922260c11c0687276179176",
+      "hash": "ed7733a80958b92bc6d65832ccc3d8742319feaf98988782f457e1722e3bc01f",
       "created": "2026-11-12T09:57:00.583Z",
-      "modified": "2026-11-15T09:36:46.962Z",
-      "sequence": 1
+      "modified": "2026-11-19T22:16:39.496Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401856751@football-watchlist",
@@ -10231,7 +10231,7 @@
       "end": "2026-12-06T23:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Following San Jose Sharks: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SN-PIT / SN360 / TVAS. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/sjs-vs-pit/2026/12/06/2026020476",
+      "description": "Following San Jose Sharks: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: NBCSCA / NHLN / SN-PIT / SN1 / TVAS. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/sjs-vs-pit/2026/12/06/2026020476",
       "location": "PPG Paints Arena",
       "url": "https://www.nhl.com/gamecenter/sjs-vs-pit/2026/12/06/2026020476",
       "categories": [
@@ -10239,10 +10239,10 @@
         "Regular season",
         "San Jose Sharks"
       ],
-      "hash": "ebf7f1963d7b5f2475fa8874c9d39e73f01dad8f0c7d80a75ea46195140bce28",
+      "hash": "1eca71085837e84113f09eeae39a54ed4ed20556eae5343e2b49bd333b8dcacf",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
+      "modified": "2026-11-19T22:16:39.496Z",
+      "sequence": 1
     },
     {
       "uid": "nfl-401873107@football-watchlist",
@@ -10681,7 +10681,7 @@
       "end": "2026-12-13T21:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / NESN / SN / TVAS. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/bos-vs-car/2026/12/13/2026020527",
+      "description": "Following Carolina Hurricanes: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / NESN / NHLN / SN / TVAS. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/bos-vs-car/2026/12/13/2026020527",
       "location": "Lenovo Center",
       "url": "https://www.nhl.com/gamecenter/bos-vs-car/2026/12/13/2026020527",
       "categories": [
@@ -10689,10 +10689,10 @@
         "Regular season",
         "Carolina Hurricanes"
       ],
-      "hash": "2bc7d6451040ac600a26646fec34521eec8b61c9d21b8fbf8fb928f04bd6c731",
+      "hash": "cb5732f5d3558173127949f2dae82cd21e57c1fc1a57e58eaddf45f869566baf",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
+      "modified": "2026-11-19T22:16:39.496Z",
+      "sequence": 1
     },
     {
       "uid": "redzone-2026-12-13@football-watchlist",
@@ -12232,7 +12232,7 @@
       "end": "2027-01-09T06:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Following San Jose Sharks: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: MNMT2 / NBCSCA / TVAS. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/wsh-vs-sjs/2027/01/08/2026020708",
+      "description": "Following San Jose Sharks: every regular-season game and announced playoff game.\n\nViewing window: 3 hours; finish is approximate and playoff overtime can run longer.\n\nListed broadcasts: MNMT2 / NBCSCA / SN360 / TVAS. Availability varies by country and provider.\n\nOfficial schedule: https://www.nhl.com/gamecenter/wsh-vs-sjs/2027/01/08/2026020708",
       "location": "SAP Center at San Jose",
       "url": "https://www.nhl.com/gamecenter/wsh-vs-sjs/2027/01/08/2026020708",
       "categories": [
@@ -12240,10 +12240,10 @@
         "Regular season",
         "San Jose Sharks"
       ],
-      "hash": "1b4dea6edfa34cecc1c2187ea3be8598bc959a4c247b9ee8d1bd0736615ba074",
+      "hash": "83a109996b72d37e9c8fd7ddbd06de868a5e90eb92b213183a03627a71e8c684",
       "created": "2026-10-01T07:37:11.478Z",
-      "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
+      "modified": "2026-11-19T22:16:39.496Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026020712@football-watchlist",
@@ -12567,30 +12567,6 @@
       "sequence": 0
     },
     {
-      "uid": "chelsea-2645398@football-watchlist",
-      "gameId": "2645398",
-      "chelseaSeason": 2026,
-      "chelseaCompetition": "eng.1",
-      "chelseaFriendly": false,
-      "title": "Chelsea vs Sunderland - Premier League [date/time TBC]",
-      "start": "2027-01-16",
-      "end": "2027-01-17",
-      "allDay": true,
-      "status": "TENTATIVE",
-      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club marks this fixture TBC. The date shown is provisional; the date and kickoff may change for television or cup scheduling. This transparent all-day marker will update when confirmed.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-sunderland-english-premier-league-2027-01-16",
-      "location": "Stamford Bridge",
-      "url": "https://www.chelseafc.com/en/match/chelsea-vs-sunderland-english-premier-league-2027-01-16",
-      "categories": [
-        "Soccer",
-        "Chelsea",
-        "Premier League"
-      ],
-      "hash": "6f3dc9c25b44f6c2efbeceb3bc6bae0dce8aaaf8d8aa3047e0f8b8c53e32037e",
-      "created": "2026-10-03T13:22:58.480Z",
-      "modified": "2026-10-03T13:23:45.745Z",
-      "sequence": 1
-    },
-    {
       "uid": "nfl-401872910@football-watchlist",
       "gameId": "401872910",
       "title": "Wild Card Playoffs - teams TBA [time TBA]",
@@ -12679,6 +12655,30 @@
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-05T14:46:37.855Z",
       "sequence": 0
+    },
+    {
+      "uid": "chelsea-2645398@football-watchlist",
+      "gameId": "2645398",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Chelsea vs Sunderland - Premier League",
+      "start": "2027-01-16T15:00:00.000Z",
+      "end": "2027-01-16T17:00:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club currently lists this kickoff as confirmed. Viewing window: 2 hours; finish is approximate.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-sunderland-english-premier-league-2027-01-16",
+      "location": "Stamford Bridge",
+      "url": "https://www.chelseafc.com/en/match/chelsea-vs-sunderland-english-premier-league-2027-01-16",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "44826e7050e91252122149ba5cbe1670fd652b3eae156cfb913d297d76470afe",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-11-19T22:16:39.496Z",
+      "sequence": 2
     },
     {
       "uid": "soccer-401876351@football-watchlist",
@@ -13085,30 +13085,6 @@
       "sequence": 0
     },
     {
-      "uid": "chelsea-2645411@football-watchlist",
-      "gameId": "2645411",
-      "chelseaSeason": 2026,
-      "chelseaCompetition": "eng.1",
-      "chelseaFriendly": false,
-      "title": "Leeds United vs Chelsea - Premier League [date/time TBC]",
-      "start": "2027-01-23",
-      "end": "2027-01-24",
-      "allDay": true,
-      "status": "TENTATIVE",
-      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club marks this fixture TBC. The date shown is provisional; the date and kickoff may change for television or cup scheduling. This transparent all-day marker will update when confirmed.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/leeds-united-vs-chelsea-english-premier-league-2027-01-23",
-      "location": "Elland Road",
-      "url": "https://www.chelseafc.com/en/match/leeds-united-vs-chelsea-english-premier-league-2027-01-23",
-      "categories": [
-        "Soccer",
-        "Chelsea",
-        "Premier League"
-      ],
-      "hash": "273c3b36c91423691a0030e38a1b5794b2a3ee6576561b2e6c8303ad62362295",
-      "created": "2026-10-03T13:22:58.480Z",
-      "modified": "2026-10-03T13:23:45.745Z",
-      "sequence": 1
-    },
-    {
       "uid": "nfl-401872916@football-watchlist",
       "gameId": "401872916",
       "title": "Divisional Playoffs - teams TBA [time TBA]",
@@ -13349,6 +13325,30 @@
       "created": "2026-11-14T12:45:35.252Z",
       "modified": "2026-11-14T12:45:35.252Z",
       "sequence": 0
+    },
+    {
+      "uid": "chelsea-2645411@football-watchlist",
+      "gameId": "2645411",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Leeds United vs Chelsea - Premier League",
+      "start": "2027-01-25T20:00:00.000Z",
+      "end": "2027-01-25T22:00:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club currently lists this kickoff as confirmed. Viewing window: 2 hours; finish is approximate.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/leeds-united-vs-chelsea-english-premier-league-2027-01-25",
+      "location": "Elland Road",
+      "url": "https://www.chelseafc.com/en/match/leeds-united-vs-chelsea-english-premier-league-2027-01-25",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "0eb239a886a831b95768f695367e55142dc0e328a8eee460d45e9a6604be3560",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-11-19T22:16:39.496Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401874322@football-watchlist",
@@ -13593,30 +13593,6 @@
       "sequence": 0
     },
     {
-      "uid": "chelsea-2645418@football-watchlist",
-      "gameId": "2645418",
-      "chelseaSeason": 2026,
-      "chelseaCompetition": "eng.1",
-      "chelseaFriendly": false,
-      "title": "Chelsea vs Nottingham Forest - Premier League [date/time TBC]",
-      "start": "2027-01-30",
-      "end": "2027-01-31",
-      "allDay": true,
-      "status": "TENTATIVE",
-      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club marks this fixture TBC. The date shown is provisional; the date and kickoff may change for television or cup scheduling. This transparent all-day marker will update when confirmed.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-nottingham-forest-english-premier-league-2027-01-30",
-      "location": "Stamford Bridge",
-      "url": "https://www.chelseafc.com/en/match/chelsea-vs-nottingham-forest-english-premier-league-2027-01-30",
-      "categories": [
-        "Soccer",
-        "Chelsea",
-        "Premier League"
-      ],
-      "hash": "edf921efae24a0f1b290f4220c2c7e14aebc23bf3d7737203b7fc37f19dedb51",
-      "created": "2026-10-03T13:22:58.480Z",
-      "modified": "2026-10-03T13:23:45.745Z",
-      "sequence": 1
-    },
-    {
       "uid": "soccer-401884649@football-watchlist",
       "gameId": "401884649",
       "soccerSeason": 2026,
@@ -13649,6 +13625,30 @@
       "created": "2026-11-14T12:45:35.252Z",
       "modified": "2026-11-14T12:45:35.252Z",
       "sequence": 0
+    },
+    {
+      "uid": "chelsea-2645418@football-watchlist",
+      "gameId": "2645418",
+      "chelseaSeason": 2026,
+      "chelseaCompetition": "eng.1",
+      "chelseaFriendly": false,
+      "title": "Chelsea vs Nottingham Forest - Premier League",
+      "start": "2027-01-30T17:30:00.000Z",
+      "end": "2027-01-30T19:30:00.000Z",
+      "allDay": false,
+      "status": "CONFIRMED",
+      "description": "Chelsea men: every competitive fixture published by the club.\n\nThe club currently lists this kickoff as confirmed. Viewing window: 2 hours; finish is approximate.\n\nFixtures remain subject to later rescheduling. The feed refreshes from Chelsea’s official schedule.\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-nottingham-forest-english-premier-league-2027-01-30",
+      "location": "Stamford Bridge",
+      "url": "https://www.chelseafc.com/en/match/chelsea-vs-nottingham-forest-english-premier-league-2027-01-30",
+      "categories": [
+        "Soccer",
+        "Chelsea",
+        "Premier League"
+      ],
+      "hash": "a2560364523cb4a904aa8d51ec385e6089a3c97aa4b723f2b12a28617e571c21",
+      "created": "2026-10-03T13:22:58.480Z",
+      "modified": "2026-11-19T22:16:39.496Z",
+      "sequence": 2
     },
     {
       "uid": "soccer-401876332@football-watchlist",
@@ -15927,39 +15927,6 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-853317@football-watchlist",
-      "gameId": "853317",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/121:1/146:1",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "121",
-        "146"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: New York Mets at Miami Marlins [time TBA]",
-      "start": "2027-03-25",
-      "end": "2027-03-26",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853317",
-      "location": "loanDepot park",
-      "url": "https://www.mlb.com/gameday/853317",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "48c5d86555aad51f2a479ca416d542f4bc4bc5151bcc82d101d46fe0d83304ca",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "nhl-2026021210@football-watchlist",
       "gameId": "2026021210",
       "nhlSeason": 20262027,
@@ -16020,6 +15987,39 @@
       "hash": "cd533a3207a793d686907507d15ebc377f011bf71f54d57c4ffcbd0ee25625d2",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
+    },
+    {
+      "uid": "mlb-853317@football-watchlist",
+      "gameId": "853317",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/121:1/146:1",
+      "mlbSeriesGameNumber": 1,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "121",
+        "146"
+      ],
+      "selectionReasons": [
+        "Following New York Mets: every regular-season game."
+      ],
+      "title": "MLB: New York Mets at Miami Marlins",
+      "start": "2027-03-25T20:10:00.000Z",
+      "end": "2027-03-25T23:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853317",
+      "location": "loanDepot park",
+      "url": "https://www.mlb.com/gameday/853317",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "New York Mets"
+      ],
+      "hash": "98b5ce5b7aaa88a56d84f85ebb66b833a7c6856ae233e1c2178ac33fe2f79458",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-19T22:16:39.496Z",
       "sequence": 1
     },
     {
@@ -16086,39 +16086,6 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-853314@football-watchlist",
-      "gameId": "853314",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/121:1/146:1",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "121",
-        "146"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: New York Mets at Miami Marlins [time TBA]",
-      "start": "2027-03-27",
-      "end": "2027-03-28",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853314",
-      "location": "loanDepot park",
-      "url": "https://www.mlb.com/gameday/853314",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "8d1673200ec127c193e06de85943825ba154a26968666737912453383fb78d0c",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "nhl-2026021226@football-watchlist",
       "gameId": "2026021226",
       "nhlSeason": 20262027,
@@ -16182,6 +16149,39 @@
       "sequence": 1
     },
     {
+      "uid": "mlb-853314@football-watchlist",
+      "gameId": "853314",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/121:1/146:1",
+      "mlbSeriesGameNumber": 2,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "121",
+        "146"
+      ],
+      "selectionReasons": [
+        "Following New York Mets: every regular-season game."
+      ],
+      "title": "MLB: New York Mets at Miami Marlins",
+      "start": "2027-03-27T20:10:00.000Z",
+      "end": "2027-03-27T23:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853314",
+      "location": "loanDepot park",
+      "url": "https://www.mlb.com/gameday/853314",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "New York Mets"
+      ],
+      "hash": "bfb10ec61ab44c64c8e19df91d4e45b59bd88d9187d226b83df34f5399931084",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-19T22:16:39.496Z",
+      "sequence": 1
+    },
+    {
       "uid": "nhl-2026021234@football-watchlist",
       "gameId": "2026021234",
       "nhlSeason": 20262027,
@@ -16226,23 +16226,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: New York Mets at Miami Marlins [time TBA]",
-      "start": "2027-03-28",
-      "end": "2027-03-29",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853313",
+      "title": "MLB: New York Mets at Miami Marlins",
+      "start": "2027-03-28T17:40:00.000Z",
+      "end": "2027-03-28T20:40:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853313",
       "location": "loanDepot park",
       "url": "https://www.mlb.com/gameday/853313",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "8eb3db877ab999aee4b59463c688aaef942cebee8c69edf337ba751b23275730",
+      "hash": "816fc2703b846f4a920d549182e6469904b8d9a00475c9daa5f26f6137190064",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-19T22:16:39.496Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852417@football-watchlist",
@@ -23797,39 +23797,6 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-853261@football-watchlist",
-      "gameId": "853261",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/139:32/146:32",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "146"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Tampa Bay Rays at Miami Marlins [time TBA]",
-      "start": "2027-07-16",
-      "end": "2027-07-17",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853261",
-      "location": "loanDepot park",
-      "url": "https://www.mlb.com/gameday/853261",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "6c11488e896611ecf88f32ea1dcb6d70ecdd7d9fc5329b0c1b634c9fd646e2f9",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-852942@football-watchlist",
       "gameId": "852942",
       "mlbSeason": 2027,
@@ -23863,6 +23830,39 @@
       "sequence": 1
     },
     {
+      "uid": "mlb-853261@football-watchlist",
+      "gameId": "853261",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/139:32/146:32",
+      "mlbSeriesGameNumber": 1,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "139",
+        "146"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Tampa Bay Rays at Miami Marlins",
+      "start": "2027-07-16T23:10:00.000Z",
+      "end": "2027-07-17T02:10:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853261",
+      "location": "loanDepot park",
+      "url": "https://www.mlb.com/gameday/853261",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "331af75103ada814e610b30e28a4cb14cb06aaf36b8a17263416b47d63cf6e95",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-19T22:16:39.496Z",
+      "sequence": 1
+    },
+    {
       "uid": "mlb-853264@football-watchlist",
       "gameId": "853264",
       "mlbSeason": 2027,
@@ -23877,23 +23877,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Tampa Bay Rays at Miami Marlins [time TBA]",
-      "start": "2027-07-17",
-      "end": "2027-07-18",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853264",
+      "title": "MLB: Tampa Bay Rays at Miami Marlins",
+      "start": "2027-07-17T20:10:00.000Z",
+      "end": "2027-07-17T23:10:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853264",
       "location": "loanDepot park",
       "url": "https://www.mlb.com/gameday/853264",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "09be5135e8a3263e773c82075127ebb019cad8b0bef28bd4906d249eb9293784",
+      "hash": "4ac959fdb965720786823f8085071fd7eeeb937ae7d39457904f2af6667ebef9",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-19T22:16:39.496Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852931@football-watchlist",
@@ -23929,39 +23929,6 @@
       "sequence": 2
     },
     {
-      "uid": "mlb-853267@football-watchlist",
-      "gameId": "853267",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/139:32/146:32",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "146"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Tampa Bay Rays at Miami Marlins [time TBA]",
-      "start": "2027-07-18",
-      "end": "2027-07-19",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853267",
-      "location": "loanDepot park",
-      "url": "https://www.mlb.com/gameday/853267",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "262381d9d0e411c044ed18a89af45bfd1a13158335c04eac478ae5599d3dcdb7",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-852939@football-watchlist",
       "gameId": "852939",
       "mlbSeason": 2027,
@@ -23992,6 +23959,39 @@
       "hash": "db9d689bb0c58866b4cbaf2c370effcd92f910704b031937513be0abc9d4f907",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T23:56:29.378Z",
+      "sequence": 1
+    },
+    {
+      "uid": "mlb-853267@football-watchlist",
+      "gameId": "853267",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/139:32/146:32",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "139",
+        "146"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Tampa Bay Rays at Miami Marlins",
+      "start": "2027-07-18T17:40:00.000Z",
+      "end": "2027-07-18T20:40:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853267",
+      "location": "loanDepot park",
+      "url": "https://www.mlb.com/gameday/853267",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "7cd88d0bddbc9077ff69032011ab81082b0d4c03a7a1018899c4f34183660644",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-19T22:16:39.496Z",
       "sequence": 1
     },
     {
@@ -26473,39 +26473,6 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-853238@football-watchlist",
-      "gameId": "853238",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/121:45/146:45",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "121",
-        "146"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: New York Mets at Miami Marlins [time TBA]",
-      "start": "2027-08-31",
-      "end": "2027-09-01",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853238",
-      "location": "loanDepot park",
-      "url": "https://www.mlb.com/gameday/853238",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "0ba505d9f1e846ddcb7bedfd657ac1c5ef396e6782f4d3bc80680dcb8afe2f33",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-852363@football-watchlist",
       "gameId": "852363",
       "mlbSeason": 2027,
@@ -26539,12 +26506,12 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-853248@football-watchlist",
-      "gameId": "853248",
+      "uid": "mlb-853238@football-watchlist",
+      "gameId": "853238",
       "mlbSeason": 2027,
       "mlbGameType": "R",
       "mlbSeriesKey": "2027/R/121:45/146:45",
-      "mlbSeriesGameNumber": 2,
+      "mlbSeriesGameNumber": 1,
       "mlbIfNecessary": false,
       "mlbTeamIds": [
         "121",
@@ -26553,23 +26520,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: New York Mets at Miami Marlins [time TBA]",
-      "start": "2027-09-01",
-      "end": "2027-09-02",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853248",
+      "title": "MLB: New York Mets at Miami Marlins",
+      "start": "2027-08-31T22:40:00.000Z",
+      "end": "2027-09-01T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853238",
       "location": "loanDepot park",
-      "url": "https://www.mlb.com/gameday/853248",
-      "status": "TENTATIVE",
+      "url": "https://www.mlb.com/gameday/853238",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "c7d8778936228f2f9849a171801a711f50b72d72bf6602214f848e971f6b3dcb",
+      "hash": "6dd7306a744fdcfb536339594357c9880287bb2d066c2c749b99cc8a86969971",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-19T22:16:39.496Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852341@football-watchlist",
@@ -26605,6 +26572,39 @@
       "sequence": 1
     },
     {
+      "uid": "mlb-853248@football-watchlist",
+      "gameId": "853248",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/121:45/146:45",
+      "mlbSeriesGameNumber": 2,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "121",
+        "146"
+      ],
+      "selectionReasons": [
+        "Following New York Mets: every regular-season game."
+      ],
+      "title": "MLB: New York Mets at Miami Marlins",
+      "start": "2027-09-01T22:40:00.000Z",
+      "end": "2027-09-02T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853248",
+      "location": "loanDepot park",
+      "url": "https://www.mlb.com/gameday/853248",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "New York Mets"
+      ],
+      "hash": "be9bf727e9b49ba80ba38a3ec0a12081bf8b87de20232a744aad08ce6c6581b1",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-19T22:16:39.496Z",
+      "sequence": 1
+    },
+    {
       "uid": "mlb-853244@football-watchlist",
       "gameId": "853244",
       "mlbSeason": 2027,
@@ -26619,23 +26619,23 @@
       "selectionReasons": [
         "Following New York Mets: every regular-season game."
       ],
-      "title": "MLB: New York Mets at Miami Marlins [time TBA]",
-      "start": "2027-09-02",
-      "end": "2027-09-03",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853244",
+      "title": "MLB: New York Mets at Miami Marlins",
+      "start": "2027-09-02T20:10:00.000Z",
+      "end": "2027-09-02T23:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853244",
       "location": "loanDepot park",
       "url": "https://www.mlb.com/gameday/853244",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "New York Mets"
       ],
-      "hash": "6adc71946d3482d5b16d2e6b0eb6350f325c9fb17ad949e34a91808cd8153804",
+      "hash": "8d22b49bec1b1a7eb73d9a6f1d650633899ffafdb6deaecc9ea86e4b7a52f9c0",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-19T22:16:39.496Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852339@football-watchlist",

@@ -6137,19 +6137,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858528@football-watchlist
-DTSTAMP:20261115T093646Z
+DTSTAMP:20261119T221639Z
 CREATED:20261112T095700Z
-LAST-MODIFIED:20261115T093646Z
-SEQUENCE:1
+LAST-MODIFIED:20261119T221639Z
+SEQUENCE:2
 DTSTART:20261121T203000Z
 DTEND:20261122T000000Z
 SUMMARY:CFB: UCLA at Michigan
 DESCRIPTION:National pick: a ranked team in a potentially competitive game 
  (market spread 5.5 points at selection). Upset possibility is an estimate.
- \n\nTeams: UCLA Bruins at Michigan Wolverines\n\nUS broadcast: CBS. Availa
- bility elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champio
- nships)\; finish is approximate.\n\nSchedule: https://www.espn.com/college
- -football/game/_/gameId/401858528/ucla-michigan
+ \n\nTeams: UCLA Bruins at Michigan Wolverines\n\nUS broadcast: CBS / ERADM
+ . Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for
+  championships)\; finish is approximate.\n\nSchedule: https://www.espn.com
+ /college-football/game/_/gameId/401858528/ucla-michigan
 LOCATION:Michigan Stadium\, Ann Arbor\, MI\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401858528/ucla-mich
  igan
@@ -7804,18 +7804,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020476@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261119T221639Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261119T221639Z
+SEQUENCE:1
 DTSTART:20261206T200000Z
 DTEND:20261206T230000Z
 SUMMARY:NHL: San Jose Sharks at Pittsburgh Penguins
 DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
  ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
- layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / SN-PIT / SN
- 360 / TVAS. Availability varies by country and provider.\n\nOfficial sched
- ule: https://www.nhl.com/gamecenter/sjs-vs-pit/2026/12/06/2026020476
+ layoff overtime can run longer.\n\nListed broadcasts: NBCSCA / NHLN / SN-P
+ IT / SN1 / TVAS. Availability varies by country and provider.\n\nOfficial 
+ schedule: https://www.nhl.com/gamecenter/sjs-vs-pit/2026/12/06/2026020476
 LOCATION:PPG Paints Arena
 URL:https://www.nhl.com/gamecenter/sjs-vs-pit/2026/12/06/2026020476
 CATEGORIES:NHL,Regular season,San Jose Sharks
@@ -8126,18 +8126,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020527@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261119T221639Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261119T221639Z
+SEQUENCE:1
 DTSTART:20261213T180000Z
 DTEND:20261213T210000Z
 SUMMARY:NHL: Boston Bruins at Carolina Hurricanes
 DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
  nounced playoff game.\n\nViewing window: 3 hours\; finish is approximate a
  nd playoff overtime can run longer.\n\nListed broadcasts: CARNHL / HHN / N
- ESN / SN / TVAS. Availability varies by country and provider.\n\nOfficial 
- schedule: https://www.nhl.com/gamecenter/bos-vs-car/2026/12/13/2026020527
+ ESN / NHLN / SN / TVAS. Availability varies by country and provider.\n\nOf
+ ficial schedule: https://www.nhl.com/gamecenter/bos-vs-car/2026/12/13/2026
+ 020527
 LOCATION:Lenovo Center
 URL:https://www.nhl.com/gamecenter/bos-vs-car/2026/12/13/2026020527
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
@@ -9368,18 +9369,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2026020708@football-watchlist
-DTSTAMP:20261001T073711Z
+DTSTAMP:20261119T221639Z
 CREATED:20261001T073711Z
-LAST-MODIFIED:20261001T073711Z
-SEQUENCE:0
+LAST-MODIFIED:20261119T221639Z
+SEQUENCE:1
 DTSTART:20270109T030000Z
 DTEND:20270109T060000Z
 SUMMARY:NHL: Washington Capitals at San Jose Sharks
 DESCRIPTION:Following San Jose Sharks: every regular-season game and announ
  ced playoff game.\n\nViewing window: 3 hours\; finish is approximate and p
- layoff overtime can run longer.\n\nListed broadcasts: MNMT2 / NBCSCA / TVA
- S. Availability varies by country and provider.\n\nOfficial schedule: http
- s://www.nhl.com/gamecenter/wsh-vs-sjs/2027/01/08/2026020708
+ layoff overtime can run longer.\n\nListed broadcasts: MNMT2 / NBCSCA / SN3
+ 60 / TVAS. Availability varies by country and provider.\n\nOfficial schedu
+ le: https://www.nhl.com/gamecenter/wsh-vs-sjs/2027/01/08/2026020708
 LOCATION:SAP Center at San Jose
 URL:https://www.nhl.com/gamecenter/wsh-vs-sjs/2027/01/08/2026020708
 CATEGORIES:NHL,Regular season,San Jose Sharks
@@ -9608,29 +9609,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:chelsea-2645398@football-watchlist
-DTSTAMP:20261003T132345Z
-CREATED:20261003T132258Z
-LAST-MODIFIED:20261003T132345Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270116
-DTEND;VALUE=DATE:20270117
-SUMMARY:Chelsea vs Sunderland - Premier League [date/time TBC]
-DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
- \nThe club marks this fixture TBC. The date shown is provisional\; the dat
- e and kickoff may change for television or cup scheduling. This transparen
- t all-day marker will update when confirmed.\n\nFixtures remain subject to
-  later rescheduling. The feed refreshes from Chelsea’s official schedule
- .\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-sunderl
- and-english-premier-league-2027-01-16
-LOCATION:Stamford Bridge
-URL:https://www.chelseafc.com/en/match/chelsea-vs-sunderland-english-premie
- r-league-2027-01-16
-CATEGORIES:Soccer,Chelsea,Premier League
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:nfl-401872910@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -9705,6 +9683,28 @@ DESCRIPTION:College Football Playoff: every round.\n\nCollege Football Play
 LOCATION:Caesars Superdome\, New Orleans\, LA\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401874301/tbd-tbd
 CATEGORIES:College,Playoffs
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:chelsea-2645398@football-watchlist
+DTSTAMP:20261119T221639Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261119T221639Z
+SEQUENCE:2
+DTSTART:20270116T150000Z
+DTEND:20270116T170000Z
+SUMMARY:Chelsea vs Sunderland - Premier League
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club currently lists this kickoff as confirmed. Viewing window: 2 ho
+ urs\; finish is approximate.\n\nFixtures remain subject to later reschedul
+ ing. The feed refreshes from Chelsea’s official schedule.\n\nOfficial ma
+ tch: https://www.chelseafc.com/en/match/chelsea-vs-sunderland-english-prem
+ ier-league-2027-01-16
+LOCATION:Stamford Bridge
+URL:https://www.chelseafc.com/en/match/chelsea-vs-sunderland-english-premie
+ r-league-2027-01-16
+CATEGORIES:Soccer,Chelsea,Premier League
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -9988,29 +9988,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:chelsea-2645411@football-watchlist
-DTSTAMP:20261003T132345Z
-CREATED:20261003T132258Z
-LAST-MODIFIED:20261003T132345Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270123
-DTEND;VALUE=DATE:20270124
-SUMMARY:Leeds United vs Chelsea - Premier League [date/time TBC]
-DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
- \nThe club marks this fixture TBC. The date shown is provisional\; the dat
- e and kickoff may change for television or cup scheduling. This transparen
- t all-day marker will update when confirmed.\n\nFixtures remain subject to
-  later rescheduling. The feed refreshes from Chelsea’s official schedule
- .\n\nOfficial match: https://www.chelseafc.com/en/match/leeds-united-vs-ch
- elsea-english-premier-league-2027-01-23
-LOCATION:Elland Road
-URL:https://www.chelseafc.com/en/match/leeds-united-vs-chelsea-english-prem
- ier-league-2027-01-23
-CATEGORIES:Soccer,Chelsea,Premier League
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:nfl-401872916@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -10188,6 +10165,28 @@ STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:chelsea-2645411@football-watchlist
+DTSTAMP:20261119T221639Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261119T221639Z
+SEQUENCE:2
+DTSTART:20270125T200000Z
+DTEND:20270125T220000Z
+SUMMARY:Leeds United vs Chelsea - Premier League
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club currently lists this kickoff as confirmed. Viewing window: 2 ho
+ urs\; finish is approximate.\n\nFixtures remain subject to later reschedul
+ ing. The feed refreshes from Chelsea’s official schedule.\n\nOfficial ma
+ tch: https://www.chelseafc.com/en/match/leeds-united-vs-chelsea-english-pr
+ emier-league-2027-01-25
+LOCATION:Elland Road
+URL:https://www.chelseafc.com/en/match/leeds-united-vs-chelsea-english-prem
+ ier-league-2027-01-25
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:college-football-401874322@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -10349,29 +10348,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:chelsea-2645418@football-watchlist
-DTSTAMP:20261003T132345Z
-CREATED:20261003T132258Z
-LAST-MODIFIED:20261003T132345Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270130
-DTEND;VALUE=DATE:20270131
-SUMMARY:Chelsea vs Nottingham Forest - Premier League [date/time TBC]
-DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
- \nThe club marks this fixture TBC. The date shown is provisional\; the dat
- e and kickoff may change for television or cup scheduling. This transparen
- t all-day marker will update when confirmed.\n\nFixtures remain subject to
-  later rescheduling. The feed refreshes from Chelsea’s official schedule
- .\n\nOfficial match: https://www.chelseafc.com/en/match/chelsea-vs-notting
- ham-forest-english-premier-league-2027-01-30
-LOCATION:Stamford Bridge
-URL:https://www.chelseafc.com/en/match/chelsea-vs-nottingham-forest-english
- -premier-league-2027-01-30
-CATEGORIES:Soccer,Chelsea,Premier League
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:soccer-401884649@football-watchlist
 DTSTAMP:20261114T124535Z
 CREATED:20261114T124535Z
@@ -10390,6 +10366,28 @@ URL:https://www.espn.com/soccer/match/_/gameId/401884649
 CATEGORIES:Soccer,Followed team,German Bundesliga
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chelsea-2645418@football-watchlist
+DTSTAMP:20261119T221639Z
+CREATED:20261003T132258Z
+LAST-MODIFIED:20261119T221639Z
+SEQUENCE:2
+DTSTART:20270130T173000Z
+DTEND:20270130T193000Z
+SUMMARY:Chelsea vs Nottingham Forest - Premier League
+DESCRIPTION:Chelsea men: every competitive fixture published by the club.\n
+ \nThe club currently lists this kickoff as confirmed. Viewing window: 2 ho
+ urs\; finish is approximate.\n\nFixtures remain subject to later reschedul
+ ing. The feed refreshes from Chelsea’s official schedule.\n\nOfficial ma
+ tch: https://www.chelseafc.com/en/match/chelsea-vs-nottingham-forest-engli
+ sh-premier-league-2027-01-30
+LOCATION:Stamford Bridge
+URL:https://www.chelseafc.com/en/match/chelsea-vs-nottingham-forest-english
+ -premier-league-2027-01-30
+CATEGORIES:Soccer,Chelsea,Premier League
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401876332@football-watchlist
@@ -11901,25 +11899,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853317@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270325
-DTEND;VALUE=DATE:20270326
-SUMMARY:MLB: New York Mets at Miami Marlins [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853317
-LOCATION:loanDepot park
-URL:https://www.mlb.com/gameday/853317
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:nhl-2026021210@football-watchlist
 DTSTAMP:20261015T230628Z
 CREATED:20261001T073711Z
@@ -11954,6 +11933,24 @@ DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
 LOCATION:Tropicana Field
 URL:https://www.mlb.com/gameday/852422
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-853317@football-watchlist
+DTSTAMP:20261119T221639Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261119T221639Z
+SEQUENCE:1
+DTSTART:20270325T201000Z
+DTEND:20270325T231000Z
+SUMMARY:MLB: New York Mets at Miami Marlins
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853317
+LOCATION:loanDepot park
+URL:https://www.mlb.com/gameday/853317
+CATEGORIES:MLB,Followed team,New York Mets
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -11997,25 +11994,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853314@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270327
-DTEND;VALUE=DATE:20270328
-SUMMARY:MLB: New York Mets at Miami Marlins [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853314
-LOCATION:loanDepot park
-URL:https://www.mlb.com/gameday/853314
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:nhl-2026021226@football-watchlist
 DTSTAMP:20261012T221004Z
 CREATED:20261001T073711Z
@@ -12055,6 +12033,24 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-853314@football-watchlist
+DTSTAMP:20261119T221639Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261119T221639Z
+SEQUENCE:1
+DTSTART:20270327T201000Z
+DTEND:20270327T231000Z
+SUMMARY:MLB: New York Mets at Miami Marlins
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853314
+LOCATION:loanDepot park
+URL:https://www.mlb.com/gameday/853314
+CATEGORIES:MLB,Followed team,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nhl-2026021234@football-watchlist
 DTSTAMP:20261001T073711Z
 CREATED:20261001T073711Z
@@ -12076,22 +12072,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-853313@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261119T221639Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270328
-DTEND;VALUE=DATE:20270329
-SUMMARY:MLB: New York Mets at Miami Marlins [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853313
+LAST-MODIFIED:20261119T221639Z
+SEQUENCE:1
+DTSTART:20270328T174000Z
+DTEND:20270328T204000Z
+SUMMARY:MLB: New York Mets at Miami Marlins
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853313
 LOCATION:loanDepot park
 URL:https://www.mlb.com/gameday/853313
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852417@football-watchlist
@@ -16374,25 +16369,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853261@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270716
-DTEND;VALUE=DATE:20270717
-SUMMARY:MLB: Tampa Bay Rays at Miami Marlins [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/853261
-LOCATION:loanDepot park
-URL:https://www.mlb.com/gameday/853261
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-852942@football-watchlist
 DTSTAMP:20261026T235629Z
 CREATED:20261026T100606Z
@@ -16411,23 +16387,40 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853264@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-853261@football-watchlist
+DTSTAMP:20261119T221639Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270717
-DTEND;VALUE=DATE:20270718
-SUMMARY:MLB: Tampa Bay Rays at Miami Marlins [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/853264
+LAST-MODIFIED:20261119T221639Z
+SEQUENCE:1
+DTSTART:20270716T231000Z
+DTEND:20270717T021000Z
+SUMMARY:MLB: Tampa Bay Rays at Miami Marlins
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/853261
+LOCATION:loanDepot park
+URL:https://www.mlb.com/gameday/853261
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-853264@football-watchlist
+DTSTAMP:20261119T221639Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261119T221639Z
+SEQUENCE:1
+DTSTART:20270717T201000Z
+DTEND:20270717T231000Z
+SUMMARY:MLB: Tampa Bay Rays at Miami Marlins
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/853264
 LOCATION:loanDepot park
 URL:https://www.mlb.com/gameday/853264
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852931@football-watchlist
@@ -16448,25 +16441,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853267@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270718
-DTEND;VALUE=DATE:20270719
-SUMMARY:MLB: Tampa Bay Rays at Miami Marlins [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/853267
-LOCATION:loanDepot park
-URL:https://www.mlb.com/gameday/853267
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-852939@football-watchlist
 DTSTAMP:20261026T235629Z
 CREATED:20261026T100606Z
@@ -16481,6 +16455,24 @@ DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing
 LOCATION:Yankee Stadium
 URL:https://www.mlb.com/gameday/852939
 CATEGORIES:MLB,Followed team,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-853267@football-watchlist
+DTSTAMP:20261119T221639Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261119T221639Z
+SEQUENCE:1
+DTSTART:20270718T174000Z
+DTEND:20270718T204000Z
+SUMMARY:MLB: Tampa Bay Rays at Miami Marlins
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/853267
+LOCATION:loanDepot park
+URL:https://www.mlb.com/gameday/853267
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -17847,25 +17839,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853238@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270831
-DTEND;VALUE=DATE:20270901
-SUMMARY:MLB: New York Mets at Miami Marlins [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853238
-LOCATION:loanDepot park
-URL:https://www.mlb.com/gameday/853238
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-852363@football-watchlist
 DTSTAMP:20261116T232611Z
 CREATED:20261026T100606Z
@@ -17884,23 +17857,22 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853248@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-853238@football-watchlist
+DTSTAMP:20261119T221639Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270901
-DTEND;VALUE=DATE:20270902
-SUMMARY:MLB: New York Mets at Miami Marlins [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853248
+LAST-MODIFIED:20261119T221639Z
+SEQUENCE:1
+DTSTART:20270831T224000Z
+DTEND:20270901T014000Z
+SUMMARY:MLB: New York Mets at Miami Marlins
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853238
 LOCATION:loanDepot park
-URL:https://www.mlb.com/gameday/853248
+URL:https://www.mlb.com/gameday/853238
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852341@football-watchlist
@@ -17921,23 +17893,40 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853244@football-watchlist
-DTSTAMP:20261026T100606Z
+UID:mlb-853248@football-watchlist
+DTSTAMP:20261119T221639Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270902
-DTEND;VALUE=DATE:20270903
-SUMMARY:MLB: New York Mets at Miami Marlins [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853244
+LAST-MODIFIED:20261119T221639Z
+SEQUENCE:1
+DTSTART:20270901T224000Z
+DTEND:20270902T014000Z
+SUMMARY:MLB: New York Mets at Miami Marlins
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853248
+LOCATION:loanDepot park
+URL:https://www.mlb.com/gameday/853248
+CATEGORIES:MLB,Followed team,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-853244@football-watchlist
+DTSTAMP:20261119T221639Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261119T221639Z
+SEQUENCE:1
+DTSTART:20270902T201000Z
+DTEND:20270902T231000Z
+SUMMARY:MLB: New York Mets at Miami Marlins
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853244
 LOCATION:loanDepot park
 URL:https://www.mlb.com/gameday/853244
 CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852339@football-watchlist
