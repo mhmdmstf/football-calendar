@@ -1,270 +1,7 @@
 {
-  "checkedOn": "2026-11-18",
+  "checkedOn": "2026-11-19",
   "season": 2026,
   "events": [
-    {
-      "uid": "college-football-401856811@football-watchlist",
-      "gameId": "401856811",
-      "title": "CFB: Houston at Texas Tech",
-      "start": "2026-09-19T00:00:00.000Z",
-      "end": "2026-09-19T03:30:00.000Z",
-      "allDay": false,
-      "description": "National pick: ranked matchup (#12 vs #23) at selection.\n\nTeams: Houston Cougars at Texas Tech Red Raiders\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856811/houston-texas-tech",
-      "location": "Galaxy Stadium, Lubbock, TX, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856811/houston-texas-tech",
-      "status": "CONFIRMED",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#12 vs #23) at selection.",
-      "hash": "2027925c8427b438c968d7eb39d71ee21cc484992c61e9a6739f7f05a16d4125",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-10-05T21:36:12.655Z",
-      "sequence": 1
-    },
-    {
-      "uid": "show-gameday-2026-09-19@football-watchlist",
-      "title": "College GameDay: The Grove, Oxford, Mississippi",
-      "gameId": "401856688",
-      "start": "2026-09-19T13:00:00.000Z",
-      "end": "2026-09-19T16:00:00.000Z",
-      "allDay": false,
-      "status": "CONFIRMED",
-      "description": "College GameDay on ESPN. Featured game: Ole Miss vs. LSU. Broadcast window: 9:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://olemisssports.com/news/2026/8/21/football-espn-college-gameday-coming-to-ole-miss-on-september-19",
-      "location": "The Grove, Oxford, Mississippi",
-      "url": "https://olemisssports.com/news/2026/8/21/football-espn-college-gameday-coming-to-ole-miss-on-september-19",
-      "categories": [
-        "College",
-        "Pregame"
-      ],
-      "hash": "72d8273e471073166f9b0976bff9dbfed3361a9ef95af5d616b69cb25ed6059d",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 1
-    },
-    {
-      "uid": "show-bignoon-2026-09-19@football-watchlist",
-      "title": "Big Noon Kickoff: Wembley Stadium, London, United Kingdom",
-      "gameId": "401856812",
-      "start": "2026-09-19T14:00:00.000Z",
-      "end": "2026-09-19T16:00:00.000Z",
-      "allDay": false,
-      "status": "CONFIRMED",
-      "description": "Big Noon Kickoff on FOX. Featured game: Kansas vs. Arizona State. Broadcast window: 10:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://www.foxsports.com/stories/presspass/fox-sports-big-noon-kickoff-heads-across-pond-inaugural-union-jack-classic-from-wembley-stadium",
-      "location": "Wembley Stadium, London, United Kingdom",
-      "url": "https://www.foxsports.com/stories/presspass/fox-sports-big-noon-kickoff-heads-across-pond-inaugural-union-jack-classic-from-wembley-stadium",
-      "categories": [
-        "College",
-        "Pregame"
-      ],
-      "hash": "c255b3843a4a6eb97f34295e2efa856b05c230109f6899fe276105458e859233",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-22T18:09:18.369Z",
-      "sequence": 3
-    },
-    {
-      "uid": "college-football-401856812@football-watchlist",
-      "gameId": "401856812",
-      "title": "CFB: Arizona State vs Kansas",
-      "start": "2026-09-19T16:00:00.000Z",
-      "end": "2026-09-19T19:30:00.000Z",
-      "allDay": false,
-      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: Arizona State Sun Devils at Kansas Jayhawks\n\nUS broadcast: FS1. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856812/arizona-st-kansas",
-      "location": "Wembley Stadium, London, England",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856812/arizona-st-kansas",
-      "status": "CONFIRMED",
-      "categories": [
-        "College"
-      ],
-      "hash": "264b528c4b4c8bbd0d1fcc7cd34fd4ee868fd8af4308c89dc19048aa74025ff2",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-19T22:21:00.593Z",
-      "sequence": 3
-    },
-    {
-      "uid": "college-football-401858230@football-watchlist",
-      "gameId": "401858230",
-      "title": "CFB: SMU at Louisville",
-      "start": "2026-09-19T19:30:00.000Z",
-      "end": "2026-09-19T23:00:00.000Z",
-      "allDay": false,
-      "description": "National pick: ranked matchup (#19 vs #24) at selection.\n\nTeams: SMU Mustangs at Louisville Cardinals\n\nUS broadcast: ESPN2 / ERADM. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858230/smu-louisville",
-      "location": "L&N Federal Credit Union Stadium, Louisville, KY, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858230/smu-louisville",
-      "status": "CONFIRMED",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#19 vs #24) at selection.",
-      "hash": "569cc78e092b74c74377c0a4fb6efa10109b97c73568d4e4c444d20ea03d2003",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-20T07:48:18.651Z",
-      "sequence": 4
-    },
-    {
-      "uid": "mlb-822921@football-watchlist",
-      "gameId": "822921",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/111:50/139:50",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "111",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Boston Red Sox at Tampa Bay Rays",
-      "start": "2026-09-19T20:10:00.000Z",
-      "end": "2026-09-19T23:10:00.000Z",
-      "allDay": false,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Brayan Bello / Freddy Peralta.\n\nListed broadcasts: Rays.TV / NESN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822921",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/822921",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "60ac0d5d64a514d38cfe2da9dbd80e3deac0ea04568434a5fd4e5abe6a3241e9",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-823571@football-watchlist",
-      "gameId": "823571",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/143:50/121:50",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "143",
-        "121"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: Philadelphia Phillies at New York Mets",
-      "start": "2026-09-19T20:10:00.000Z",
-      "end": "2026-09-19T23:10:00.000Z",
-      "allDay": false,
-      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Andrew Painter / Christian Scott.\n\nListed broadcasts: NBCSP / SNY. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823571",
-      "location": "Citi Field",
-      "url": "https://www.mlb.com/gameday/823571",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "f964351825468d84ac1f3cd7ffa7da7a17905c291d3e3a9b6ab3a09854f31793",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401856685@football-watchlist",
-      "gameId": "401856685",
-      "title": "CFB: Florida State at Alabama",
-      "start": "2026-09-19T21:15:00.000Z",
-      "end": "2026-09-20T00:45:00.000Z",
-      "allDay": false,
-      "description": "Following Alabama: every game.\n\nTeams: Florida State Seminoles at Alabama Crimson Tide\n\nUS broadcast: ESPN2. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856685/florida-st-alabama",
-      "location": "Bryant-Denny Stadium, Tuscaloosa, AL, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856685/florida-st-alabama",
-      "status": "CONFIRMED",
-      "categories": [
-        "College",
-        "Alabama"
-      ],
-      "hash": "7e2ecb9dbb7cf283a42c2225a54530472442e822479ebc90633a647b514af959",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-20T07:48:18.651Z",
-      "sequence": 2
-    },
-    {
-      "uid": "mlb-822843@football-watchlist",
-      "gameId": "822843",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/141:51/140:50",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "141",
-        "140"
-      ],
-      "selectionReasons": [
-        "Two teams with live postseason stakes meet directly.",
-        "Toronto Blue Jays: 2.5 games behind the final wild-card spot.",
-        "Texas Rangers: tied for the division lead.",
-        "Texas Rangers: 1.5 games behind the final wild-card spot.",
-        "Standings snapshot: 2026-09-19."
-      ],
-      "title": "MLB: Toronto Blue Jays at Texas Rangers",
-      "start": "2026-09-19T23:05:00.000Z",
-      "end": "2026-09-20T02:05:00.000Z",
-      "allDay": false,
-      "description": "Two teams with live postseason stakes meet directly.\nToronto Blue Jays: 2.5 games behind the final wild-card spot.\nTexas Rangers: tied for the division lead.\nTexas Rangers: 1.5 games behind the final wild-card spot.\nStandings snapshot: 2026-09-19.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): José Soriano / Cal Quantrill.\n\nListed broadcasts: Sportsnet / Rangers Sports Network, presented by Progressive / TVA Sports. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822843",
-      "location": "Globe Life Field",
-      "url": "https://www.mlb.com/gameday/822843",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Pennant race"
-      ],
-      "hash": "69c191d7fa7cc838e0639d55b56d37d2007c4b4805ab2a99f9dd0ead6993cf7b",
-      "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-19T22:21:00.593Z",
-      "sequence": 2
-    },
-    {
-      "uid": "college-football-401856688@football-watchlist",
-      "gameId": "401856688",
-      "title": "CFB: LSU at Ole Miss",
-      "start": "2026-09-19T23:30:00.000Z",
-      "end": "2026-09-20T03:00:00.000Z",
-      "allDay": false,
-      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: LSU Tigers at Ole Miss Rebels\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856688/lsu-ole-miss",
-      "location": "Vaught-Hemingway Stadium, Oxford, MS, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856688/lsu-ole-miss",
-      "status": "CONFIRMED",
-      "categories": [
-        "College"
-      ],
-      "hash": "154051d39c35bd97d3a02fb170ec3342e7c98a71b43aa912defa442868572761",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401856802@football-watchlist",
-      "gameId": "401856802",
-      "title": "CFB: West Virginia vs Virginia",
-      "start": "2026-09-19T23:30:00.000Z",
-      "end": "2026-09-20T03:00:00.000Z",
-      "allDay": false,
-      "description": "National pick: a ranked team in a potentially competitive game (market spread 8.5 points at selection). Upset possibility is an estimate.\n\nDuke’s Mayo Classic\n\nTeams: West Virginia Mountaineers at Virginia Cavaliers\n\nUS broadcast: ACC Network. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856802/west-virginia-virginia",
-      "location": "Bank of America Stadium, Charlotte, NC, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856802/west-virginia-virginia",
-      "status": "CONFIRMED",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 8.5 points at selection). Upset possibility is an estimate.",
-      "hash": "bc29a36fe75c9206dd0aef6b3c794a169136ad8ae54728c80eb9c9c3536c2c85",
-      "created": "2026-09-10T07:22:24.107Z",
-      "modified": "2026-09-10T07:22:24.107Z",
-      "sequence": 0
-    },
     {
       "uid": "soccer-401874752@football-watchlist",
       "gameId": "401874752",
@@ -578,7 +315,7 @@
       "start": "2026-09-22T23:05:00.000Z",
       "end": "2026-09-23T02:05:00.000Z",
       "allDay": false,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Drew Rasmussen / Max Fried.\n\nListed broadcasts: YES / Rays.TV / TBS (out-of-market only). Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823494",
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Drew Rasmussen / Max Fried.\n\nListed broadcasts: Rays.TV / YES / TBS (out-of-market only). Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823494",
       "location": "Yankee Stadium",
       "url": "https://www.mlb.com/gameday/823494",
       "status": "CONFIRMED",
@@ -587,10 +324,10 @@
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "2623fd32f001a0c02f651f5d09b964e03d5b555e8cebb1ee0ce8ebb67807aa2e",
+      "hash": "51be04c09dccc3bab5aec6cd0f38e768053ffda5091b6f214e48456893e94d6b",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-11-01T23:41:38.747Z",
-      "sequence": 3
+      "modified": "2026-11-19T10:29:40.258Z",
+      "sequence": 4
     },
     {
       "uid": "mlb-822840@football-watchlist",
@@ -9363,158 +9100,6 @@
       "sequence": 0
     },
     {
-      "uid": "college-football-401934095@football-watchlist",
-      "gameId": "401934095",
-      "title": "CFB: TBD at TBD [time TBA]",
-      "start": "2026-11-28",
-      "end": "2026-11-29",
-      "allDay": true,
-      "description": "Conference championship.\n\nFCS Championship - First Round\n\nTeams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401934095/tbd-tbd",
-      "location": "",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401934095/tbd-tbd",
-      "status": "TENTATIVE",
-      "categories": [
-        "College"
-      ],
-      "hash": "338673010c5d4246654642830615c528e9c6ec483d2387956378f50531ef326f",
-      "created": "2026-11-12T09:57:00.583Z",
-      "modified": "2026-11-12T09:57:00.583Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401934096@football-watchlist",
-      "gameId": "401934096",
-      "title": "CFB: TBD at TBD [time TBA]",
-      "start": "2026-11-28",
-      "end": "2026-11-29",
-      "allDay": true,
-      "description": "Conference championship.\n\nFCS Championship - First Round\n\nTeams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401934096/tbd-tbd",
-      "location": "",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401934096/tbd-tbd",
-      "status": "TENTATIVE",
-      "categories": [
-        "College"
-      ],
-      "hash": "e8b79aa359b5145d8a95768c92df543f946a86dd089da1f281cfb958aacea971",
-      "created": "2026-11-12T09:57:00.583Z",
-      "modified": "2026-11-12T09:57:00.583Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401934097@football-watchlist",
-      "gameId": "401934097",
-      "title": "CFB: TBD at TBD [time TBA]",
-      "start": "2026-11-28",
-      "end": "2026-11-29",
-      "allDay": true,
-      "description": "Conference championship.\n\nFCS Championship - First Round\n\nTeams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401934097/tbd-tbd",
-      "location": "",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401934097/tbd-tbd",
-      "status": "TENTATIVE",
-      "categories": [
-        "College"
-      ],
-      "hash": "211689a1a42a2177d2737ace827b8b15b0235175b17f9b76b7f7a99a728b2fbc",
-      "created": "2026-11-12T09:57:00.583Z",
-      "modified": "2026-11-12T09:57:00.583Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401934098@football-watchlist",
-      "gameId": "401934098",
-      "title": "CFB: TBD at TBD [time TBA]",
-      "start": "2026-11-28",
-      "end": "2026-11-29",
-      "allDay": true,
-      "description": "Conference championship.\n\nFCS Championship - First Round\n\nTeams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401934098/tbd-tbd",
-      "location": "",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401934098/tbd-tbd",
-      "status": "TENTATIVE",
-      "categories": [
-        "College"
-      ],
-      "hash": "8fd776815ae86f3dba82508105fcfb43b2ffe674da4b7b081fd5ddab82184a1d",
-      "created": "2026-11-12T09:57:00.583Z",
-      "modified": "2026-11-12T09:57:00.583Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401934099@football-watchlist",
-      "gameId": "401934099",
-      "title": "CFB: TBD at TBD [time TBA]",
-      "start": "2026-11-28",
-      "end": "2026-11-29",
-      "allDay": true,
-      "description": "Conference championship.\n\nFCS Championship - First Round\n\nTeams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401934099/tbd-tbd",
-      "location": "",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401934099/tbd-tbd",
-      "status": "TENTATIVE",
-      "categories": [
-        "College"
-      ],
-      "hash": "0bc167685ae0acf98ee92356bb0d623a3ffbd292247788fe38e5149e50f9d66e",
-      "created": "2026-11-12T09:57:00.583Z",
-      "modified": "2026-11-12T09:57:00.583Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401934100@football-watchlist",
-      "gameId": "401934100",
-      "title": "CFB: TBD at TBD [time TBA]",
-      "start": "2026-11-28",
-      "end": "2026-11-29",
-      "allDay": true,
-      "description": "Conference championship.\n\nFCS Championship - First Round\n\nTeams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401934100/tbd-tbd",
-      "location": "",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401934100/tbd-tbd",
-      "status": "TENTATIVE",
-      "categories": [
-        "College"
-      ],
-      "hash": "7da8fa738a08be7f98386ec2103b5dc26c0e5111ce9b2ac6fd7fdfb719969149",
-      "created": "2026-11-12T09:57:00.583Z",
-      "modified": "2026-11-12T09:57:00.583Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401934101@football-watchlist",
-      "gameId": "401934101",
-      "title": "CFB: TBD at TBD [time TBA]",
-      "start": "2026-11-28",
-      "end": "2026-11-29",
-      "allDay": true,
-      "description": "Conference championship.\n\nFCS Championship - First Round\n\nTeams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401934101/tbd-tbd",
-      "location": "",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401934101/tbd-tbd",
-      "status": "TENTATIVE",
-      "categories": [
-        "College"
-      ],
-      "hash": "3067f45c369d8430cfff0a271b799d01d5e721a2c1b101d5603cc484eda93951",
-      "created": "2026-11-12T09:57:00.583Z",
-      "modified": "2026-11-12T09:57:00.583Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401934102@football-watchlist",
-      "gameId": "401934102",
-      "title": "CFB: TBD at TBD [time TBA]",
-      "start": "2026-11-28",
-      "end": "2026-11-29",
-      "allDay": true,
-      "description": "Conference championship.\n\nFCS Championship - First Round\n\nTeams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401934102/tbd-tbd",
-      "location": "",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401934102/tbd-tbd",
-      "status": "TENTATIVE",
-      "categories": [
-        "College"
-      ],
-      "hash": "c8a0b8692d517c28d0f4d321afff6f95bc4eb657bac6d7d8376cb5aecea82871",
-      "created": "2026-11-12T09:57:00.583Z",
-      "modified": "2026-11-12T09:57:00.583Z",
-      "sequence": 0
-    },
-    {
       "uid": "college-football-401856756@football-watchlist",
       "gameId": "401856756",
       "title": "CFB: Texas at Texas A&M",
@@ -10235,158 +9820,6 @@
       "sequence": 1
     },
     {
-      "uid": "college-football-401934103@football-watchlist",
-      "gameId": "401934103",
-      "title": "CFB: TBD at TBD [time TBA]",
-      "start": "2026-12-05",
-      "end": "2026-12-06",
-      "allDay": true,
-      "description": "Conference championship.\n\nFCS Championship - Second Round\n\nTeams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401934103/tbd-tbd",
-      "location": "",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401934103/tbd-tbd",
-      "status": "TENTATIVE",
-      "categories": [
-        "College"
-      ],
-      "hash": "1b0669bb8c0453abf6ffdcc6fb302e1dea48846b4a4d9ded9f7d684ba7f67526",
-      "created": "2026-11-12T09:57:00.583Z",
-      "modified": "2026-11-12T09:57:00.583Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401934104@football-watchlist",
-      "gameId": "401934104",
-      "title": "CFB: TBD at TBD [time TBA]",
-      "start": "2026-12-05",
-      "end": "2026-12-06",
-      "allDay": true,
-      "description": "Conference championship.\n\nFCS Championship - Second Round\n\nTeams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401934104/tbd-tbd",
-      "location": "",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401934104/tbd-tbd",
-      "status": "TENTATIVE",
-      "categories": [
-        "College"
-      ],
-      "hash": "24c6d557434a2054410dc7a7700e4a4f2acd05c2c2eec8617711504adee8ea6d",
-      "created": "2026-11-12T09:57:00.583Z",
-      "modified": "2026-11-12T09:57:00.583Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401934105@football-watchlist",
-      "gameId": "401934105",
-      "title": "CFB: TBD at TBD [time TBA]",
-      "start": "2026-12-05",
-      "end": "2026-12-06",
-      "allDay": true,
-      "description": "Conference championship.\n\nFCS Championship - Second Round\n\nTeams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401934105/tbd-tbd",
-      "location": "",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401934105/tbd-tbd",
-      "status": "TENTATIVE",
-      "categories": [
-        "College"
-      ],
-      "hash": "8ef6ad46f48c39808ed62d972c58600e16acefbb6335e446d9b0bc3a3dbb0b73",
-      "created": "2026-11-12T09:57:00.583Z",
-      "modified": "2026-11-12T09:57:00.583Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401934106@football-watchlist",
-      "gameId": "401934106",
-      "title": "CFB: TBD at TBD [time TBA]",
-      "start": "2026-12-05",
-      "end": "2026-12-06",
-      "allDay": true,
-      "description": "Conference championship.\n\nFCS Championship - Second Round\n\nTeams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401934106/tbd-tbd",
-      "location": "",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401934106/tbd-tbd",
-      "status": "TENTATIVE",
-      "categories": [
-        "College"
-      ],
-      "hash": "b1e3afe8edce18a408e488693c7ba8e5d6de25b1ba0ca4d40602d12e5e13ab5f",
-      "created": "2026-11-12T09:57:00.583Z",
-      "modified": "2026-11-12T09:57:00.583Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401934107@football-watchlist",
-      "gameId": "401934107",
-      "title": "CFB: TBD at TBD [time TBA]",
-      "start": "2026-12-05",
-      "end": "2026-12-06",
-      "allDay": true,
-      "description": "Conference championship.\n\nFCS Championship - Second Round\n\nTeams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401934107/tbd-tbd",
-      "location": "",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401934107/tbd-tbd",
-      "status": "TENTATIVE",
-      "categories": [
-        "College"
-      ],
-      "hash": "ab4c4287adc0681e5d2a8a36c2b4519e71b8b629a734aa6fcb76a9b3b353ccf7",
-      "created": "2026-11-12T09:57:00.583Z",
-      "modified": "2026-11-12T09:57:00.583Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401934108@football-watchlist",
-      "gameId": "401934108",
-      "title": "CFB: TBD at TBD [time TBA]",
-      "start": "2026-12-05",
-      "end": "2026-12-06",
-      "allDay": true,
-      "description": "Conference championship.\n\nFCS Championship - Second Round\n\nTeams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401934108/tbd-tbd",
-      "location": "",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401934108/tbd-tbd",
-      "status": "TENTATIVE",
-      "categories": [
-        "College"
-      ],
-      "hash": "eca6bb6de9448d0f320168c2db1c5da2aae0dfbd18b6cfd62a7b3318f3409e54",
-      "created": "2026-11-12T09:57:00.583Z",
-      "modified": "2026-11-12T09:57:00.583Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401934109@football-watchlist",
-      "gameId": "401934109",
-      "title": "CFB: TBD at TBD [time TBA]",
-      "start": "2026-12-05",
-      "end": "2026-12-06",
-      "allDay": true,
-      "description": "Conference championship.\n\nFCS Championship - Second Round\n\nTeams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401934109/tbd-tbd",
-      "location": "",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401934109/tbd-tbd",
-      "status": "TENTATIVE",
-      "categories": [
-        "College"
-      ],
-      "hash": "6cf347f915335cc984c83afd20abc01410963bef42d5adb8f7bd6085b9817522",
-      "created": "2026-11-12T09:57:00.583Z",
-      "modified": "2026-11-12T09:57:00.583Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401934110@football-watchlist",
-      "gameId": "401934110",
-      "title": "CFB: TBD at TBD [time TBA]",
-      "start": "2026-12-05",
-      "end": "2026-12-06",
-      "allDay": true,
-      "description": "Conference championship.\n\nFCS Championship - Second Round\n\nTeams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401934110/tbd-tbd",
-      "location": "",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401934110/tbd-tbd",
-      "status": "TENTATIVE",
-      "categories": [
-        "College"
-      ],
-      "hash": "c94a3990cb54b88e3d9fe880386a5ff39cb2bd0afae5815e7916cbc7beef4abb",
-      "created": "2026-11-12T09:57:00.583Z",
-      "modified": "2026-11-12T09:57:00.583Z",
-      "sequence": 0
-    },
-    {
       "uid": "college-football-401869535@football-watchlist",
       "gameId": "401869535",
       "title": "CFB: TBD at TBD",
@@ -11061,25 +10494,6 @@
       "sequence": 1
     },
     {
-      "uid": "college-football-401934114@football-watchlist",
-      "gameId": "401934114",
-      "title": "CFB: TBD at TBD [time TBA]",
-      "start": "2026-12-12",
-      "end": "2026-12-13",
-      "allDay": true,
-      "description": "Conference championship.\n\nFCS Championship - Quarterfinals\n\nTeams: TBD at TBD\n\nUS broadcast: ESPN+. Availability elsewhere varies.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401934114/tbd-tbd",
-      "location": "",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401934114/tbd-tbd",
-      "status": "TENTATIVE",
-      "categories": [
-        "College"
-      ],
-      "hash": "2618e08233f71396a5db39eb380dffbb5253b1a89b9f4e085f82c1c8ca56487c",
-      "created": "2026-11-12T09:57:00.583Z",
-      "modified": "2026-11-12T09:57:00.583Z",
-      "sequence": 0
-    },
-    {
       "uid": "nhl-2026020512@football-watchlist",
       "gameId": "2026020512",
       "nhlSeason": 20262027,
@@ -11107,25 +10521,6 @@
       "hash": "7705d5c1583c8d184675aec41d07ca8e73defc1b95c41871bb599ab29fbb9923",
       "created": "2026-10-01T07:37:11.478Z",
       "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401934111@football-watchlist",
-      "gameId": "401934111",
-      "title": "CFB: TBD at TBD",
-      "start": "2026-12-12T02:00:00.000Z",
-      "end": "2026-12-12T06:00:00.000Z",
-      "allDay": false,
-      "description": "Conference championship.\n\nFCS Championship - Quarterfinals\n\nTeams: TBD at TBD\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401934111/tbd-tbd",
-      "location": "",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401934111/tbd-tbd",
-      "status": "CONFIRMED",
-      "categories": [
-        "College"
-      ],
-      "hash": "f50a9f3cef5d5550e05a43631ba58d0f5ca8bc2a7357eabebfa17cc7bd50911a",
-      "created": "2026-11-12T09:57:00.583Z",
-      "modified": "2026-11-12T09:57:00.583Z",
       "sequence": 0
     },
     {
@@ -11157,25 +10552,6 @@
       "created": "2026-10-01T07:37:11.478Z",
       "modified": "2026-10-06T23:53:25.577Z",
       "sequence": 1
-    },
-    {
-      "uid": "college-football-401934112@football-watchlist",
-      "gameId": "401934112",
-      "title": "CFB: TBD at TBD",
-      "start": "2026-12-12T17:00:00.000Z",
-      "end": "2026-12-12T21:00:00.000Z",
-      "allDay": false,
-      "description": "Conference championship.\n\nFCS Championship - Quarterfinals\n\nTeams: TBD at TBD\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401934112/tbd-tbd",
-      "location": "",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401934112/tbd-tbd",
-      "status": "CONFIRMED",
-      "categories": [
-        "College"
-      ],
-      "hash": "75d3e9073c72e42f75d96a54ec84dfcc6841f0849e1f5783de09a6945211a2bc",
-      "created": "2026-11-12T09:57:00.583Z",
-      "modified": "2026-11-12T09:57:00.583Z",
-      "sequence": 0
     },
     {
       "uid": "chelsea-2645343@football-watchlist",
@@ -11287,25 +10663,6 @@
       "created": "2026-09-05T14:46:37.855Z",
       "modified": "2026-09-05T14:54:57.145Z",
       "sequence": 1
-    },
-    {
-      "uid": "college-football-401934113@football-watchlist",
-      "gameId": "401934113",
-      "title": "CFB: TBD at TBD",
-      "start": "2026-12-13T01:00:00.000Z",
-      "end": "2026-12-13T05:00:00.000Z",
-      "allDay": false,
-      "description": "Conference championship.\n\nFCS Championship - Quarterfinals\n\nTeams: TBD at TBD\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401934113/tbd-tbd",
-      "location": "",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401934113/tbd-tbd",
-      "status": "CONFIRMED",
-      "categories": [
-        "College"
-      ],
-      "hash": "9f095a2136f6b38b6544b2a66d1e289ef0ed0c8c01427fda0e147ae564704573",
-      "created": "2026-11-12T09:57:00.583Z",
-      "modified": "2026-11-12T09:57:00.583Z",
-      "sequence": 0
     },
     {
       "uid": "nhl-2026020527@football-watchlist",
@@ -28737,9 +28094,9 @@
     }
   ],
   "nflGames": 285,
-  "collegeGames": 970,
+  "collegeGames": 950,
   "baseball": {
-    "checkedOn": "2026-11-18",
+    "checkedOn": "2026-11-19",
     "season": 2026,
     "scheduleGames": 996,
     "followedRegularSeasons": {
@@ -28752,11 +28109,11 @@
         "139": 162
       }
     },
-    "events": 385,
+    "events": 382,
     "playoffEvents": 40
   },
   "hockey": {
-    "checkedOn": "2026-11-18",
+    "checkedOn": "2026-11-19",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -28773,7 +28130,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-11-18",
+    "checkedOn": "2026-11-19",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
@@ -28783,7 +28140,7 @@
     "events": 34
   },
   "soccer": {
-    "checkedOn": "2026-11-18",
+    "checkedOn": "2026-11-19",
     "season": 2026,
     "window": {
       "start": "2026-11-16",
