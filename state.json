@@ -17119,39 +17119,6 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-853714@football-watchlist",
-      "gameId": "853714",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/121:5/116:5",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "121",
-        "116"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: New York Mets at Detroit Tigers [time TBA]",
-      "start": "2027-04-09",
-      "end": "2027-04-10",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853714",
-      "location": "Comerica Park",
-      "url": "https://www.mlb.com/gameday/853714",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "1cbfd7d8614b2bfd2bcdb8c808bf7b6fd1ea7aab29610ad06559e6026cc18749",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "nhl-2026021323@football-watchlist",
       "gameId": "2026021323",
       "nhlSeason": 20262027,
@@ -17215,6 +17182,39 @@
       "sequence": 1
     },
     {
+      "uid": "mlb-853714@football-watchlist",
+      "gameId": "853714",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/121:5/116:5",
+      "mlbSeriesGameNumber": 1,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "121",
+        "116"
+      ],
+      "selectionReasons": [
+        "Following New York Mets: every regular-season game."
+      ],
+      "title": "MLB: New York Mets at Detroit Tigers",
+      "start": "2027-04-09T22:40:00.000Z",
+      "end": "2027-04-10T01:40:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853714",
+      "location": "Comerica Park",
+      "url": "https://www.mlb.com/gameday/853714",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "New York Mets"
+      ],
+      "hash": "6fa7176f3987d156765e9afc845203674151dfa6d00981c233d9ea9c4529838b",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-20T21:52:11.571Z",
+      "sequence": 1
+    },
+    {
       "uid": "chelsea-2645497@football-watchlist",
       "gameId": "2645497",
       "chelseaSeason": 2026,
@@ -17237,39 +17237,6 @@
       "created": "2026-10-03T13:22:58.480Z",
       "modified": "2026-10-03T13:23:45.745Z",
       "sequence": 1
-    },
-    {
-      "uid": "mlb-853711@football-watchlist",
-      "gameId": "853711",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/121:5/116:5",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "121",
-        "116"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: New York Mets at Detroit Tigers [time TBA]",
-      "start": "2027-04-10",
-      "end": "2027-04-11",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853711",
-      "location": "Comerica Park",
-      "url": "https://www.mlb.com/gameday/853711",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "9e1a7e255a581a3eee3c0007f77ba19b6eff61eb66632dce2239203582e8f2a0",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
     },
     {
       "uid": "soccer-401876257@football-watchlist",
@@ -17338,6 +17305,39 @@
       "created": "2026-11-14T12:45:35.252Z",
       "modified": "2026-11-14T12:45:35.252Z",
       "sequence": 0
+    },
+    {
+      "uid": "mlb-853711@football-watchlist",
+      "gameId": "853711",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/121:5/116:5",
+      "mlbSeriesGameNumber": 2,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "121",
+        "116"
+      ],
+      "selectionReasons": [
+        "Following New York Mets: every regular-season game."
+      ],
+      "title": "MLB: New York Mets at Detroit Tigers",
+      "start": "2027-04-10T17:10:00.000Z",
+      "end": "2027-04-10T20:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853711",
+      "location": "Comerica Park",
+      "url": "https://www.mlb.com/gameday/853711",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "New York Mets"
+      ],
+      "hash": "fc5d9945d38b8eabd7a983847e9998b2bc76db6537937526b85a581bda063452",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-20T21:52:11.571Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026021331@football-watchlist",
@@ -17433,39 +17433,6 @@
       "sequence": 0
     },
     {
-      "uid": "mlb-853718@football-watchlist",
-      "gameId": "853718",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/121:5/116:5",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "121",
-        "116"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: New York Mets at Detroit Tigers [time TBA]",
-      "start": "2027-04-11",
-      "end": "2027-04-12",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853718",
-      "location": "Comerica Park",
-      "url": "https://www.mlb.com/gameday/853718",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "059896bda7f2d35428a08de6eb73b1562090ddb5798bfa2c96a90ab161265cd0",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "soccer-401875111@football-watchlist",
       "gameId": "401875111",
       "soccerSeason": 2026,
@@ -17530,6 +17497,39 @@
       "hash": "09605beec41be83f08a2642d0838c857399bb00b3dd62a0b49e1916a583e4004",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-11-16T23:26:11.366Z",
+      "sequence": 1
+    },
+    {
+      "uid": "mlb-853718@football-watchlist",
+      "gameId": "853718",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/121:5/116:5",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "121",
+        "116"
+      ],
+      "selectionReasons": [
+        "Following New York Mets: every regular-season game."
+      ],
+      "title": "MLB: New York Mets at Detroit Tigers",
+      "start": "2027-04-11T17:40:00.000Z",
+      "end": "2027-04-11T20:40:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853718",
+      "location": "Comerica Park",
+      "url": "https://www.mlb.com/gameday/853718",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "New York Mets"
+      ],
+      "hash": "7bd4a9c97485e74747b8e63bb3f75cd97b41100d4f2ef91d54dc67e865a5d0b4",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-20T21:52:11.571Z",
       "sequence": 1
     },
     {
