@@ -1,195 +1,7 @@
 {
-  "checkedOn": "2026-11-19",
+  "checkedOn": "2026-11-20",
   "season": 2026,
   "events": [
-    {
-      "uid": "soccer-401874752@football-watchlist",
-      "gameId": "401874752",
-      "soccerSeason": 2026,
-      "soccerLeague": "ita.1",
-      "soccerTeamIds": [
-        "4057",
-        "2572"
-      ],
-      "soccerFriendly": false,
-      "soccerSelectionKind": "followed",
-      "soccerSelectionWeek": "2026-09-14",
-      "soccerSelectionReasons": [
-        "Following Como: every competitive fixture."
-      ],
-      "soccerSelectedOn": "2026-10-26",
-      "title": "Frosinone vs Como - Italian Serie A",
-      "start": "2026-09-20T13:00:00.000Z",
-      "end": "2026-09-20T15:00:00.000Z",
-      "allDay": false,
-      "status": "CONFIRMED",
-      "description": "Following Como: every competitive fixture.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401874752",
-      "location": "Stadio Benito Stirpe",
-      "url": "https://www.espn.com/soccer/match/_/gameId/401874752",
-      "categories": [
-        "Soccer",
-        "Followed team",
-        "Italian Serie A"
-      ],
-      "hash": "3ee364b33756d6bd7ca493048e2f3e915f8d65002bb041f9dd4a124e74a3a693",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "soccer-401884788@football-watchlist",
-      "gameId": "401884788",
-      "soccerSeason": 2026,
-      "soccerLeague": "ger.1",
-      "soccerTeamIds": [
-        "131",
-        "11420"
-      ],
-      "soccerFriendly": false,
-      "soccerSelectionKind": "followed",
-      "soccerSelectionWeek": "2026-09-14",
-      "soccerSelectionReasons": [
-        "Following Bayer Leverkusen: every competitive fixture."
-      ],
-      "soccerSelectedOn": "2026-11-14",
-      "title": "Bayer Leverkusen vs RB Leipzig - German Bundesliga",
-      "start": "2026-09-20T13:30:00.000Z",
-      "end": "2026-09-20T15:30:00.000Z",
-      "allDay": false,
-      "status": "CONFIRMED",
-      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884788",
-      "location": "BayArena",
-      "url": "https://www.espn.com/soccer/match/_/gameId/401884788",
-      "categories": [
-        "Soccer",
-        "Followed team",
-        "German Bundesliga"
-      ],
-      "hash": "4e2d2f521b04dca0ea2dc3b3a8cbc27bec349ba59ae4c442b98f2f0d6a371b97",
-      "created": "2026-11-14T12:45:35.252Z",
-      "modified": "2026-11-14T12:45:35.252Z",
-      "sequence": 0
-    },
-    {
-      "uid": "redzone-2026-09-20@football-watchlist",
-      "title": "NFL RedZone",
-      "start": "2026-09-20T17:00:00.000Z",
-      "end": "2026-09-21T00:00:00.000Z",
-      "allDay": false,
-      "description": "Sunday afternoon NFL whip-around coverage. Seven-hour viewing block, 1-8 p.m. US Eastern; the actual finish depends on the late games. International and Sunday night games appear separately.",
-      "location": "NFL RedZone",
-      "url": "https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-RedZone",
-      "status": "CONFIRMED",
-      "categories": [
-        "NFL",
-        "RedZone"
-      ],
-      "hash": "7bdda4eda30a22c7e1b3ea43f707d5beeee85191e4d8d37b50048a35aa665ca0",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-823570@football-watchlist",
-      "gameId": "823570",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/143:50/121:50",
-      "mlbSeriesGameNumber": 4,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "143",
-        "121"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: Philadelphia Phillies at New York Mets",
-      "start": "2026-09-20T17:10:00.000Z",
-      "end": "2026-09-20T20:10:00.000Z",
-      "allDay": false,
-      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Cristopher Sánchez / Jonah Tong.\n\nListed broadcasts: NBCSP / WPIX. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823570",
-      "location": "Citi Field",
-      "url": "https://www.mlb.com/gameday/823570",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "8d4c11c5bee04ac1da8328cbb50889668c4f3397f9139890cbe2caabd8a97da2",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-822922@football-watchlist",
-      "gameId": "822922",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/111:50/139:50",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "111",
-        "139"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Boston Red Sox at Tampa Bay Rays",
-      "start": "2026-09-20T17:40:00.000Z",
-      "end": "2026-09-20T20:40:00.000Z",
-      "allDay": false,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Patrick Sandoval / Griffin Jax.\n\nListed broadcasts: Rays.TV / NESN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822922",
-      "location": "Tropicana Field",
-      "url": "https://www.mlb.com/gameday/822922",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "f9dc5881e307d0d4b987f2486763f21aab1cfc9c1c320d5c76c441ed60969d5f",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-824381@football-watchlist",
-      "gameId": "824381",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/133:50/114:50",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "133",
-        "114"
-      ],
-      "selectionReasons": [
-        "Cleveland Guardians: lead their division by 1 game.",
-        "Following Cleveland Guardians.",
-        "Standings snapshot: 2026-09-20."
-      ],
-      "title": "MLB: Athletics at Cleveland Guardians",
-      "start": "2026-09-20T17:40:00.000Z",
-      "end": "2026-09-20T20:40:00.000Z",
-      "allDay": false,
-      "description": "Cleveland Guardians: lead their division by 1 game.\nFollowing Cleveland Guardians.\nStandings snapshot: 2026-09-20.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Jack Perkins / Gavin Williams.\n\nListed broadcasts: NBCSCA / Guardians.TV Presented by Progressive. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/824381",
-      "location": "Progressive Field",
-      "url": "https://www.mlb.com/gameday/824381",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Pennant race",
-        "Cleveland Guardians"
-      ],
-      "hash": "78d359eb4b7b57f4f4e86f4490660cbf556114e569ad96da80ecc4b11d7b655c",
-      "created": "2026-09-19T22:21:00.593Z",
-      "modified": "2026-09-20T07:48:18.651Z",
-      "sequence": 1
-    },
     {
       "uid": "nfl-401872945@football-watchlist",
       "gameId": "401872945",
@@ -28096,7 +27908,7 @@
   "nflGames": 285,
   "collegeGames": 950,
   "baseball": {
-    "checkedOn": "2026-11-19",
+    "checkedOn": "2026-11-20",
     "season": 2026,
     "scheduleGames": 996,
     "followedRegularSeasons": {
@@ -28109,11 +27921,11 @@
         "139": 162
       }
     },
-    "events": 382,
+    "events": 379,
     "playoffEvents": 40
   },
   "hockey": {
-    "checkedOn": "2026-11-19",
+    "checkedOn": "2026-11-20",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -28130,7 +27942,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-11-19",
+    "checkedOn": "2026-11-20",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
@@ -28140,7 +27952,7 @@
     "events": 34
   },
   "soccer": {
-    "checkedOn": "2026-11-19",
+    "checkedOn": "2026-11-20",
     "season": 2026,
     "window": {
       "start": "2026-11-16",
@@ -28173,7 +27985,7 @@
         "uefa.champions": 18
       }
     },
-    "events": 149
+    "events": 147
   },
   "warnings": [
     "Big Noon: no unambiguous current announcement matched the game schedule; retaining verified announcements and TBA placeholders.",
