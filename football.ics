@@ -8,47 +8,6 @@ X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:nfl-401872945@football-watchlist
-DTSTAMP:20260905T145208Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:1
-DTSTART:20260921T002000Z
-DTEND:20260921T035000Z
-SUMMARY:NFL: Indianapolis Colts at Kansas City Chiefs
-DESCRIPTION:Sunday Night Football.\n\nTeams: Indianapolis Colts at Kansas C
- ity Chiefs\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing
-  window: 3.5 hours (4 hours for championships)\; finish is approximate.\n\
- nSchedule: https://www.espn.com/nfl/game/_/gameId/401872945/colts-chiefs
-LOCATION:Arrowhead Stadium\, Kansas City\, MO\, USA
-URL:https://www.espn.com/nfl/game/_/gameId/401872945/colts-chiefs
-CATEGORIES:NFL
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-824787@football-watchlist
-DTSTAMP:20260921T080152Z
-CREATED:20260919T111549Z
-LAST-MODIFIED:20260921T080152Z
-SEQUENCE:5
-DTSTART:20260921T223500Z
-DTEND:20260922T013500Z
-SUMMARY:MLB: Toronto Blue Jays at Baltimore Orioles
-DESCRIPTION:Two teams with live postseason stakes meet directly.\nToronto B
- lue Jays: 3 games behind the final wild-card spot.\nBaltimore Orioles: 5 g
- ames behind the final wild-card spot.\nStandings snapshot: 2026-09-21.\n\n
- Viewing window: 3 hours\; finish is approximate.\n\nProbable pitchers (sub
- ject to change): Trey Yesavage / Shane Baz.\n\nListed broadcasts: Sportsne
- t / TVA Sports / MASN. Availability varies by country and provider.\n\nOff
- icial schedule: https://www.mlb.com/gameday/824787
-LOCATION:Oriole Park at Camden Yards
-URL:https://www.mlb.com/gameday/824787
-CATEGORIES:MLB,Pennant race
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:nfl-401872947@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T144637Z
@@ -69,17 +28,17 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-823543@football-watchlist
-DTSTAMP:20261114T191536Z
+DTSTAMP:20261121T095730Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261114T191536Z
-SEQUENCE:1
+LAST-MODIFIED:20261121T095730Z
+SEQUENCE:2
 DTSTART:20260922T170500Z
 DTEND:20260922T200500Z
 SUMMARY:MLB: Tampa Bay Rays at New York Yankees
 DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
   window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to
-  change): Nick Martinez / Carlos Rodón.\n\nListed broadcasts: Rays.TV / Y
- ES. Availability varies by country and provider.\n\nOfficial schedule: htt
+  change): Nick Martinez / Carlos Rodón.\n\nListed broadcasts: YES / Rays.
+ TV. Availability varies by country and provider.\n\nOfficial schedule: htt
  ps://www.mlb.com/gameday/823543
 LOCATION:Yankee Stadium
 URL:https://www.mlb.com/gameday/823543

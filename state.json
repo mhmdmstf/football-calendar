@@ -1,61 +1,7 @@
 {
-  "checkedOn": "2026-11-20",
+  "checkedOn": "2026-11-21",
   "season": 2026,
   "events": [
-    {
-      "uid": "nfl-401872945@football-watchlist",
-      "gameId": "401872945",
-      "title": "NFL: Indianapolis Colts at Kansas City Chiefs",
-      "start": "2026-09-21T00:20:00.000Z",
-      "end": "2026-09-21T03:50:00.000Z",
-      "allDay": false,
-      "description": "Sunday Night Football.\n\nTeams: Indianapolis Colts at Kansas City Chiefs\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872945/colts-chiefs",
-      "location": "Arrowhead Stadium, Kansas City, MO, USA",
-      "url": "https://www.espn.com/nfl/game/_/gameId/401872945/colts-chiefs",
-      "status": "CONFIRMED",
-      "categories": [
-        "NFL"
-      ],
-      "hash": "863e4068a38ecd945abe9182bd10c7d94749c3d66b74247752c899ddb928ad47",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 1
-    },
-    {
-      "uid": "mlb-824787@football-watchlist",
-      "gameId": "824787",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/141:52/110:51",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "141",
-        "110"
-      ],
-      "selectionReasons": [
-        "Two teams with live postseason stakes meet directly.",
-        "Toronto Blue Jays: 3 games behind the final wild-card spot.",
-        "Baltimore Orioles: 5 games behind the final wild-card spot.",
-        "Standings snapshot: 2026-09-21."
-      ],
-      "title": "MLB: Toronto Blue Jays at Baltimore Orioles",
-      "start": "2026-09-21T22:35:00.000Z",
-      "end": "2026-09-22T01:35:00.000Z",
-      "allDay": false,
-      "description": "Two teams with live postseason stakes meet directly.\nToronto Blue Jays: 3 games behind the final wild-card spot.\nBaltimore Orioles: 5 games behind the final wild-card spot.\nStandings snapshot: 2026-09-21.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Trey Yesavage / Shane Baz.\n\nListed broadcasts: Sportsnet / TVA Sports / MASN. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/824787",
-      "location": "Oriole Park at Camden Yards",
-      "url": "https://www.mlb.com/gameday/824787",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Pennant race"
-      ],
-      "hash": "3cfe6bdc4fe463f04336c8e28a3627a916e79fb25a0d836ad04b744eb21de02e",
-      "created": "2026-09-19T11:15:49.893Z",
-      "modified": "2026-09-21T08:01:52.603Z",
-      "sequence": 5
-    },
     {
       "uid": "nfl-401872947@football-watchlist",
       "gameId": "401872947",
@@ -94,7 +40,7 @@
       "start": "2026-09-22T17:05:00.000Z",
       "end": "2026-09-22T20:05:00.000Z",
       "allDay": false,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Martinez / Carlos Rodón.\n\nListed broadcasts: Rays.TV / YES. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823543",
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Martinez / Carlos Rodón.\n\nListed broadcasts: YES / Rays.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823543",
       "location": "Yankee Stadium",
       "url": "https://www.mlb.com/gameday/823543",
       "status": "CONFIRMED",
@@ -103,10 +49,10 @@
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "5a21141f837eb34aa06f1624560b30d87f9c7add07d9afc96bc353d31191d295",
+      "hash": "e9e239b346dbc9b6260de449b567c6bb0654aa0ab32082d89b0fc894c0abf3ab",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-11-14T19:15:36.116Z",
-      "sequence": 1
+      "modified": "2026-11-21T09:57:30.660Z",
+      "sequence": 2
     },
     {
       "uid": "mlb-823494@football-watchlist",
@@ -27908,7 +27854,7 @@
   "nflGames": 285,
   "collegeGames": 950,
   "baseball": {
-    "checkedOn": "2026-11-20",
+    "checkedOn": "2026-11-21",
     "season": 2026,
     "scheduleGames": 996,
     "followedRegularSeasons": {
@@ -27921,11 +27867,11 @@
         "139": 162
       }
     },
-    "events": 379,
+    "events": 378,
     "playoffEvents": 40
   },
   "hockey": {
-    "checkedOn": "2026-11-20",
+    "checkedOn": "2026-11-21",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -27942,7 +27888,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-11-20",
+    "checkedOn": "2026-11-21",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
@@ -27952,7 +27898,7 @@
     "events": 34
   },
   "soccer": {
-    "checkedOn": "2026-11-20",
+    "checkedOn": "2026-11-21",
     "season": 2026,
     "window": {
       "start": "2026-11-16",
