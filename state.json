@@ -7596,12 +7596,12 @@
         "Following Como: every competitive fixture."
       ],
       "soccerSelectedOn": "2026-10-26",
-      "title": "Como vs Cagliari - Italian Serie A [provisional]",
+      "title": "Como vs Cagliari - Italian Serie A",
       "start": "2026-11-21T14:00:00.000Z",
       "end": "2026-11-21T16:00:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Following Como: every competitive fixture.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401875056",
+      "status": "CONFIRMED",
+      "description": "Following Como: every competitive fixture.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401875056",
       "location": "Giuseppe Sinigaglia",
       "url": "https://www.espn.com/soccer/match/_/gameId/401875056",
       "categories": [
@@ -7609,10 +7609,10 @@
         "Followed team",
         "Italian Serie A"
       ],
-      "hash": "e8000f2e626760c12b97b6561165337c0d2ce6dfd40a740bfea4490aab19380e",
+      "hash": "d616962945c0bf4959bde715f8a439d6b60fb56d55032e459114a813505960dc",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-21T20:35:20.207Z",
+      "sequence": 1
     },
     {
       "uid": "soccer-401884735@football-watchlist",
@@ -7630,12 +7630,12 @@
         "Following Bayer Leverkusen: every competitive fixture."
       ],
       "soccerSelectedOn": "2026-11-14",
-      "title": "Bayer Leverkusen vs SC Paderborn 07 - German Bundesliga [provisional]",
+      "title": "Bayer Leverkusen vs SC Paderborn 07 - German Bundesliga",
       "start": "2026-11-21T14:30:00.000Z",
       "end": "2026-11-21T16:30:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884735",
+      "status": "CONFIRMED",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884735",
       "location": "BayArena",
       "url": "https://www.espn.com/soccer/match/_/gameId/401884735",
       "categories": [
@@ -7643,10 +7643,10 @@
         "Followed team",
         "German Bundesliga"
       ],
-      "hash": "fa1fa9aa0b0c7c667dd52aaaae5750c8aca1a6b4397e7d9858cb3c4ca5ce45d9",
+      "hash": "2a129eefd3827a0fbd2d7b71c7ddf8053a264e3a90d5b3486be9d0105d6512d7",
       "created": "2026-11-14T12:45:35.252Z",
-      "modified": "2026-11-14T12:45:35.252Z",
-      "sequence": 0
+      "modified": "2026-11-21T20:35:20.207Z",
+      "sequence": 1
     },
     {
       "uid": "chelsea-2645298@football-watchlist",
@@ -7707,12 +7707,12 @@
         "Both clubs are in the current top 6: Nice #6, Paris Saint-Germain #1."
       ],
       "soccerSelectedOn": "2026-11-09",
-      "title": "Nice vs Paris Saint-Germain - French Ligue 1 [provisional]",
+      "title": "Nice vs Paris Saint-Germain - French Ligue 1",
       "start": "2026-11-21T16:15:00.000Z",
       "end": "2026-11-21T18:15:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Both clubs are in the current top 6: Nice #6, Paris Saint-Germain #1.\n\nSelection made 2026-11-09. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401876398",
+      "status": "CONFIRMED",
+      "description": "Both clubs are in the current top 6: Nice #6, Paris Saint-Germain #1.\n\nSelection made 2026-11-09. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401876398",
       "location": "Allianz Riviera",
       "url": "https://www.espn.com/soccer/match/_/gameId/401876398",
       "categories": [
@@ -7720,10 +7720,10 @@
         "European pick",
         "French Ligue 1"
       ],
-      "hash": "dac08c98cb408a8e8b0e466ac7929bdf06264c5f5b45535e79bf4199572e06c2",
+      "hash": "5852a68c4301aef789a2ce0ade83948453f41f4889788d009fdf7e772b698e84",
       "created": "2026-11-08T23:48:43.830Z",
-      "modified": "2026-11-08T23:48:43.830Z",
-      "sequence": 0
+      "modified": "2026-11-21T20:35:20.207Z",
+      "sequence": 1
     },
     {
       "uid": "soccer-401882797@football-watchlist",
@@ -7742,12 +7742,12 @@
         "Both clubs are in the current top 6: Sevilla #6, Real Betis #4."
       ],
       "soccerSelectedOn": "2026-11-09",
-      "title": "Sevilla vs Real Betis - Spanish LALIGA [provisional]",
+      "title": "Sevilla vs Real Betis - Spanish LALIGA",
       "start": "2026-11-21T17:30:00.000Z",
       "end": "2026-11-21T19:30:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Major rivalry: Seville derby.\nBoth clubs are in the current top 6: Sevilla #6, Real Betis #4.\n\nSelection made 2026-11-09. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401882797",
+      "status": "CONFIRMED",
+      "description": "Major rivalry: Seville derby.\nBoth clubs are in the current top 6: Sevilla #6, Real Betis #4.\n\nSelection made 2026-11-09. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401882797",
       "location": "Ramón Sánchez Pizjuán Stadium",
       "url": "https://www.espn.com/soccer/match/_/gameId/401882797",
       "categories": [
@@ -7755,10 +7755,10 @@
         "European pick",
         "Spanish LALIGA"
       ],
-      "hash": "8acbd7c2a95ff4142e3fef4512359757ec52e6215da0db1044a6744bd06d0664",
+      "hash": "f2100b70627b4990a8c15f771a6a499414e042709ff86f98fde86e7b73ee1f24",
       "created": "2026-11-08T23:48:43.830Z",
-      "modified": "2026-11-08T23:48:43.830Z",
-      "sequence": 0
+      "modified": "2026-11-21T20:35:20.207Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026020359@football-watchlist",
@@ -7797,18 +7797,18 @@
       "start": "2026-11-21T19:00:00.000Z",
       "end": "2026-11-21T22:30:00.000Z",
       "allDay": false,
-      "description": "Following Alabama: every game.\n\nTeams: Chattanooga Mocs at Alabama Crimson Tide\n\nUS broadcast: SECN+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856746/chattanooga-alabama",
+      "description": "Following Alabama: every game.\n\nTeams: Chattanooga Mocs at Alabama Crimson Tide\n\nUS broadcast: SECN+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856746",
       "location": "Bryant-Denny Stadium, Tuscaloosa, AL, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856746/chattanooga-alabama",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856746",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "Alabama"
       ],
-      "hash": "56464af681c6be7102228e3960cd61a0778ebacd1dbe7fa5fff2be80894f4723",
+      "hash": "01d557572b73a2b266c79d1062d79b2678b669405ded423ed69f3f5e515d6501",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
+      "modified": "2026-11-21T20:35:20.207Z",
+      "sequence": 1
     },
     {
       "uid": "soccer-401876402@football-watchlist",
@@ -7826,12 +7826,12 @@
         "Both clubs are in the current top 6: Lille #2, Lyon #5."
       ],
       "soccerSelectedOn": "2026-11-09",
-      "title": "Lille vs Lyon - French Ligue 1 [provisional]",
+      "title": "Lille vs Lyon - French Ligue 1",
       "start": "2026-11-21T19:45:00.000Z",
       "end": "2026-11-21T21:45:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Both clubs are in the current top 6: Lille #2, Lyon #5.\n\nSelection made 2026-11-09. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401876402",
+      "status": "CONFIRMED",
+      "description": "Both clubs are in the current top 6: Lille #2, Lyon #5.\n\nSelection made 2026-11-09. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401876402",
       "location": "Decathlon Arena - Stade Pierre-Mauroy",
       "url": "https://www.espn.com/soccer/match/_/gameId/401876402",
       "categories": [
@@ -7839,10 +7839,10 @@
         "European pick",
         "French Ligue 1"
       ],
-      "hash": "e0bcf8ac8cea3d264789ca81d598945d754a0be86046ab77a18d2bb6d38bd12e",
+      "hash": "a36f2cc6f0937861958c3e6ef8c2ef16c768ec48149b9c0c660b034200388078",
       "created": "2026-11-08T23:48:43.830Z",
-      "modified": "2026-11-08T23:48:43.830Z",
-      "sequence": 0
+      "modified": "2026-11-21T20:35:20.207Z",
+      "sequence": 1
     },
     {
       "uid": "soccer-401876403@football-watchlist",
@@ -7860,12 +7860,12 @@
         "Following RC Lens: every competitive fixture."
       ],
       "soccerSelectedOn": "2026-10-26",
-      "title": "Lens vs Toulouse - French Ligue 1 [provisional]",
+      "title": "Lens vs Toulouse - French Ligue 1",
       "start": "2026-11-21T19:45:00.000Z",
       "end": "2026-11-21T21:45:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Following RC Lens: every competitive fixture.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401876403",
+      "status": "CONFIRMED",
+      "description": "Following RC Lens: every competitive fixture.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401876403",
       "location": "Stade Bollaert-Delelis",
       "url": "https://www.espn.com/soccer/match/_/gameId/401876403",
       "categories": [
@@ -7873,10 +7873,10 @@
         "Followed team",
         "French Ligue 1"
       ],
-      "hash": "c6cf11749940a8e420e2423935f80515f65c7d4b855ed35d1ade0fd988bfab5c",
+      "hash": "0c5e1fb40a304c67e1c9633a55b1cdee6bc24cc4a3a1da432c0e8d69a4d7fa69",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-21T20:35:20.207Z",
+      "sequence": 1
     },
     {
       "uid": "college-football-401856754@football-watchlist",

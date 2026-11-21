@@ -5747,44 +5747,39 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401875056@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261121T203520Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
+LAST-MODIFIED:20261121T203520Z
+SEQUENCE:1
 DTSTART:20261121T140000Z
 DTEND:20261121T160000Z
-SUMMARY:Como vs Cagliari - Italian Serie A [provisional]
-DESCRIPTION:Following Como: every competitive fixture.\n\nProvisional sourc
- e-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed
-  dates from provisional fixtures\; both may change. The calendar updates w
- hen the schedule changes.\n\nViewing window: 2 hours\; finish is approxima
- te.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401875056
+SUMMARY:Como vs Cagliari - Italian Serie A
+DESCRIPTION:Following Como: every competitive fixture.\n\nKickoff shown in 
+ your calendar’s local time.\n\nViewing window: 2 hours\; finish is appro
+ ximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401875056
 LOCATION:Giuseppe Sinigaglia
 URL:https://www.espn.com/soccer/match/_/gameId/401875056
 CATEGORIES:Soccer,Followed team,Italian Serie A
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401884735@football-watchlist
-DTSTAMP:20261114T124535Z
+DTSTAMP:20261121T203520Z
 CREATED:20261114T124535Z
-LAST-MODIFIED:20261114T124535Z
-SEQUENCE:0
+LAST-MODIFIED:20261121T203520Z
+SEQUENCE:1
 DTSTART:20261121T143000Z
 DTEND:20261121T163000Z
-SUMMARY:Bayer Leverkusen vs SC Paderborn 07 - German Bundesliga [provisiona
- l]
-DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nProvi
- sional source-listed date and kickoff. ESPN does not reliably distinguish 
- TV-confirmed dates from provisional fixtures\; both may change. The calend
- ar updates when the schedule changes.\n\nViewing window: 2 hours\; finish 
- is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/40
- 1884735
+SUMMARY:Bayer Leverkusen vs SC Paderborn 07 - German Bundesliga
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nKicko
+ ff shown in your calendar’s local time.\n\nViewing window: 2 hours\; fin
+ ish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameI
+ d/401884735
 LOCATION:BayArena
 URL:https://www.espn.com/soccer/match/_/gameId/401884735
 CATEGORIES:Soccer,Followed team,German Bundesliga
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -5830,47 +5825,43 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401876398@football-watchlist
-DTSTAMP:20261108T234843Z
+DTSTAMP:20261121T203520Z
 CREATED:20261108T234843Z
-LAST-MODIFIED:20261108T234843Z
-SEQUENCE:0
+LAST-MODIFIED:20261121T203520Z
+SEQUENCE:1
 DTSTART:20261121T161500Z
 DTEND:20261121T181500Z
-SUMMARY:Nice vs Paris Saint-Germain - French Ligue 1 [provisional]
+SUMMARY:Nice vs Paris Saint-Germain - French Ligue 1
 DESCRIPTION:Both clubs are in the current top 6: Nice #6\, Paris Saint-Germ
  ain #1.\n\nSelection made 2026-11-09. Table positions describe that snapsh
- ot\, not predicted results. Picks are kept once added.\n\nProvisional sour
- ce-listed date and kickoff. ESPN does not reliably distinguish TV-confirme
- d dates from provisional fixtures\; both may change. The calendar updates 
- when the schedule changes.\n\nViewing window: 2 hours\; finish is approxim
- ate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401876398
+ ot\, not predicted results. Picks are kept once added.\n\nKickoff shown in
+  your calendar’s local time.\n\nViewing window: 2 hours\; finish is appr
+ oximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401876398
 LOCATION:Allianz Riviera
 URL:https://www.espn.com/soccer/match/_/gameId/401876398
 CATEGORIES:Soccer,European pick,French Ligue 1
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401882797@football-watchlist
-DTSTAMP:20261108T234843Z
+DTSTAMP:20261121T203520Z
 CREATED:20261108T234843Z
-LAST-MODIFIED:20261108T234843Z
-SEQUENCE:0
+LAST-MODIFIED:20261121T203520Z
+SEQUENCE:1
 DTSTART:20261121T173000Z
 DTEND:20261121T193000Z
-SUMMARY:Sevilla vs Real Betis - Spanish LALIGA [provisional]
+SUMMARY:Sevilla vs Real Betis - Spanish LALIGA
 DESCRIPTION:Major rivalry: Seville derby.\nBoth clubs are in the current to
  p 6: Sevilla #6\, Real Betis #4.\n\nSelection made 2026-11-09. Table posit
  ions describe that snapshot\, not predicted results. Picks are kept once a
- dded.\n\nProvisional source-listed date and kickoff. ESPN does not reliabl
- y distinguish TV-confirmed dates from provisional fixtures\; both may chan
- ge. The calendar updates when the schedule changes.\n\nViewing window: 2 h
- ours\; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/mat
- ch/_/gameId/401882797
+ dded.\n\nKickoff shown in your calendar’s local time.\n\nViewing window:
+  2 hours\; finish is approximate.\n\nSchedule: https://www.espn.com/soccer
+ /match/_/gameId/401882797
 LOCATION:Ramón Sánchez Pizjuán Stadium
 URL:https://www.espn.com/soccer/match/_/gameId/401882797
 CATEGORIES:Soccer,European pick,Spanish LALIGA
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -5895,10 +5886,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856746@football-watchlist
-DTSTAMP:20260905T144637Z
+DTSTAMP:20261121T203520Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
+LAST-MODIFIED:20261121T203520Z
+SEQUENCE:1
 DTSTART:20261121T190000Z
 DTEND:20261121T223000Z
 SUMMARY:CFB: Chattanooga at Alabama
@@ -5906,54 +5897,50 @@ DESCRIPTION:Following Alabama: every game.\n\nTeams: Chattanooga Mocs at Al
  abama Crimson Tide\n\nUS broadcast: SECN+. Availability elsewhere varies.\
  n\nViewing window: 3.5 hours (4 hours for championships)\; finish is appro
  ximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/4
- 01856746/chattanooga-alabama
+ 01856746
 LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856746/chattanoo
- ga-alabama
+URL:https://www.espn.com/college-football/game/_/gameId/401856746
 CATEGORIES:College,Alabama
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401876402@football-watchlist
-DTSTAMP:20261108T234843Z
+DTSTAMP:20261121T203520Z
 CREATED:20261108T234843Z
-LAST-MODIFIED:20261108T234843Z
-SEQUENCE:0
+LAST-MODIFIED:20261121T203520Z
+SEQUENCE:1
 DTSTART:20261121T194500Z
 DTEND:20261121T214500Z
-SUMMARY:Lille vs Lyon - French Ligue 1 [provisional]
+SUMMARY:Lille vs Lyon - French Ligue 1
 DESCRIPTION:Both clubs are in the current top 6: Lille #2\, Lyon #5.\n\nSel
  ection made 2026-11-09. Table positions describe that snapshot\, not predi
- cted results. Picks are kept once added.\n\nProvisional source-listed date
-  and kickoff. ESPN does not reliably distinguish TV-confirmed dates from p
- rovisional fixtures\; both may change. The calendar updates when the sched
- ule changes.\n\nViewing window: 2 hours\; finish is approximate.\n\nSchedu
- le: https://www.espn.com/soccer/match/_/gameId/401876402
+ cted results. Picks are kept once added.\n\nKickoff shown in your calendar
+ ’s local time.\n\nViewing window: 2 hours\; finish is approximate.\n\nSc
+ hedule: https://www.espn.com/soccer/match/_/gameId/401876402
 LOCATION:Decathlon Arena - Stade Pierre-Mauroy
 URL:https://www.espn.com/soccer/match/_/gameId/401876402
 CATEGORIES:Soccer,European pick,French Ligue 1
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401876403@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261121T203520Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
+LAST-MODIFIED:20261121T203520Z
+SEQUENCE:1
 DTSTART:20261121T194500Z
 DTEND:20261121T214500Z
-SUMMARY:Lens vs Toulouse - French Ligue 1 [provisional]
-DESCRIPTION:Following RC Lens: every competitive fixture.\n\nProvisional so
- urce-listed date and kickoff. ESPN does not reliably distinguish TV-confir
- med dates from provisional fixtures\; both may change. The calendar update
- s when the schedule changes.\n\nViewing window: 2 hours\; finish is approx
- imate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401876403
+SUMMARY:Lens vs Toulouse - French Ligue 1
+DESCRIPTION:Following RC Lens: every competitive fixture.\n\nKickoff shown 
+ in your calendar’s local time.\n\nViewing window: 2 hours\; finish is ap
+ proximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/4018764
+ 03
 LOCATION:Stade Bollaert-Delelis
 URL:https://www.espn.com/soccer/match/_/gameId/401876403
 CATEGORIES:Soccer,Followed team,French Ligue 1
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
