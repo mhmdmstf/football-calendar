@@ -1,92 +1,7 @@
 {
-  "checkedOn": "2026-11-21",
+  "checkedOn": "2026-11-22",
   "season": 2026,
   "events": [
-    {
-      "uid": "nfl-401872947@football-watchlist",
-      "gameId": "401872947",
-      "title": "NFL: New York Giants at Los Angeles Rams",
-      "start": "2026-09-22T00:15:00.000Z",
-      "end": "2026-09-22T03:45:00.000Z",
-      "allDay": false,
-      "description": "Monday Night Football.\n\nTeams: New York Giants at Los Angeles Rams\n\nUS broadcast: ESPN / ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872947/giants-rams",
-      "location": "SoFi Stadium, Inglewood, CA, USA",
-      "url": "https://www.espn.com/nfl/game/_/gameId/401872947/giants-rams",
-      "status": "CONFIRMED",
-      "categories": [
-        "NFL"
-      ],
-      "hash": "774880efc4f678e64b08ebbefa2546d31993e3b3c9f15d28fddc8499414bafb7",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 1
-    },
-    {
-      "uid": "mlb-823543@football-watchlist",
-      "gameId": "823543",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/139:51/147:51",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "147"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Tampa Bay Rays at New York Yankees",
-      "start": "2026-09-22T17:05:00.000Z",
-      "end": "2026-09-22T20:05:00.000Z",
-      "allDay": false,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Martinez / Carlos Rodón.\n\nListed broadcasts: YES / Rays.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823543",
-      "location": "Yankee Stadium",
-      "url": "https://www.mlb.com/gameday/823543",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "e9e239b346dbc9b6260de449b567c6bb0654aa0ab32082d89b0fc894c0abf3ab",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-11-21T09:57:30.660Z",
-      "sequence": 2
-    },
-    {
-      "uid": "mlb-823494@football-watchlist",
-      "gameId": "823494",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/139:51/147:51",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "147"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Tampa Bay Rays at New York Yankees",
-      "start": "2026-09-22T23:05:00.000Z",
-      "end": "2026-09-23T02:05:00.000Z",
-      "allDay": false,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Drew Rasmussen / Max Fried.\n\nListed broadcasts: Rays.TV / YES / TBS (out-of-market only). Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823494",
-      "location": "Yankee Stadium",
-      "url": "https://www.mlb.com/gameday/823494",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "51be04c09dccc3bab5aec6cd0f38e768053ffda5091b6f214e48456893e94d6b",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-11-19T10:29:40.258Z",
-      "sequence": 4
-    },
     {
       "uid": "mlb-822840@football-watchlist",
       "gameId": "822840",
@@ -7797,18 +7712,18 @@
       "start": "2026-11-21T19:00:00.000Z",
       "end": "2026-11-21T22:30:00.000Z",
       "allDay": false,
-      "description": "Following Alabama: every game.\n\nTeams: Chattanooga Mocs at Alabama Crimson Tide\n\nUS broadcast: SECN+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856746",
+      "description": "Following Alabama: every game.\n\nTeams: Chattanooga Mocs at Alabama Crimson Tide\n\nUS broadcast: SECN+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856746/chattanooga-alabama",
       "location": "Bryant-Denny Stadium, Tuscaloosa, AL, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856746",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856746/chattanooga-alabama",
       "status": "CONFIRMED",
       "categories": [
         "College",
         "Alabama"
       ],
-      "hash": "01d557572b73a2b266c79d1062d79b2678b669405ded423ed69f3f5e515d6501",
+      "hash": "56464af681c6be7102228e3960cd61a0778ebacd1dbe7fa5fff2be80894f4723",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-11-21T20:35:20.207Z",
-      "sequence": 1
+      "modified": "2026-11-22T09:55:36.511Z",
+      "sequence": 2
     },
     {
       "uid": "soccer-401876402@football-watchlist",
@@ -8781,83 +8696,6 @@
       "sequence": 0
     },
     {
-      "uid": "college-football-401856757@football-watchlist",
-      "gameId": "401856757",
-      "title": "CFB: Auburn at Alabama [time TBA]",
-      "start": "2026-11-28",
-      "end": "2026-11-29",
-      "allDay": true,
-      "description": "Following Alabama: every game.\nMajor rivalry: Iron Bowl.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Auburn Tigers at Alabama Crimson Tide\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856757/auburn-alabama",
-      "location": "Bryant-Denny Stadium, Tuscaloosa, AL, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856757/auburn-alabama",
-      "status": "TENTATIVE",
-      "categories": [
-        "College",
-        "Alabama"
-      ],
-      "hash": "dd9e2266366296ae9187e8f84bca59627621cfc6a6623064193e33401b1c4cc7",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-11-17T10:51:11.781Z",
-      "sequence": 1
-    },
-    {
-      "uid": "college-football-401856760@football-watchlist",
-      "gameId": "401856760",
-      "title": "CFB: Georgia Tech at Georgia [time TBA]",
-      "start": "2026-11-28",
-      "end": "2026-11-29",
-      "allDay": true,
-      "description": "Major rivalry: Clean, Old-Fashioned Hate.\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Georgia Tech Yellow Jackets at Georgia Bulldogs\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856760/georgia-tech-georgia",
-      "location": "Sanford Stadium, Athens, GA, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856760/georgia-tech-georgia",
-      "status": "TENTATIVE",
-      "categories": [
-        "College"
-      ],
-      "hash": "4654370ce493d88cc7e868137fbeed4021c096999c6d3d4f81571a7d4bebdbd1",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401856764@football-watchlist",
-      "gameId": "401856764",
-      "title": "CFB: South Carolina at Clemson [time TBA]",
-      "start": "2026-11-28",
-      "end": "2026-11-29",
-      "allDay": true,
-      "description": "Major rivalry: Clemson-South Carolina.\n\nAFTERNOON: 3 - 3:30pm ET start\n\nTeams: South Carolina Gamecocks at Clemson Tigers\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856764/south-carolina-clemson",
-      "location": "Memorial Stadium (Clemson, SC), Clemson, SC, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856764/south-carolina-clemson",
-      "status": "TENTATIVE",
-      "categories": [
-        "College"
-      ],
-      "hash": "e3f193310c066ee8929abe8832ea266c34202e4b999b96e348d452859588bf4c",
-      "created": "2026-09-05T14:52:08.096Z",
-      "modified": "2026-11-16T23:26:11.366Z",
-      "sequence": 1
-    },
-    {
-      "uid": "college-football-401858541@football-watchlist",
-      "gameId": "401858541",
-      "title": "CFB: Washington at Oregon [time TBA]",
-      "start": "2026-11-28",
-      "end": "2026-11-29",
-      "allDay": true,
-      "description": "Major rivalry: Oregon-Washington.\n\nTeams: Washington Huskies at Oregon Ducks\n\nBroadcast to be announced.\n\nKickoff has not been announced. This all-day marker will become a timed event when confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858541/washington-oregon",
-      "location": "Autzen Stadium, Eugene, OR, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858541/washington-oregon",
-      "status": "TENTATIVE",
-      "categories": [
-        "College"
-      ],
-      "hash": "6c14f66c555bc993f13dd6d1f05a89ac01c90f19ddbb9621eded3864c401fbb4",
-      "created": "2026-09-05T14:52:08.096Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 0
-    },
-    {
       "uid": "college-football-401856756@football-watchlist",
       "gameId": "401856756",
       "title": "CFB: Texas at Texas A&M",
@@ -8969,6 +8807,44 @@
       "sequence": 1
     },
     {
+      "uid": "college-football-401856764@football-watchlist",
+      "gameId": "401856764",
+      "title": "CFB: South Carolina at Clemson",
+      "start": "2026-11-28T20:00:00.000Z",
+      "end": "2026-11-28T23:30:00.000Z",
+      "allDay": false,
+      "description": "Major rivalry: Clemson-South Carolina.\n\nTeams: South Carolina Gamecocks at Clemson Tigers\n\nUS broadcast: ESPN2. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856764/south-carolina-clemson",
+      "location": "Memorial Stadium (Clemson, SC), Clemson, SC, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856764/south-carolina-clemson",
+      "status": "CONFIRMED",
+      "categories": [
+        "College"
+      ],
+      "hash": "a41d799e84d109adb4627c8ef63ebb01b46644cb0fa875e3b5c62bad31697912",
+      "created": "2026-09-05T14:52:08.096Z",
+      "modified": "2026-11-22T09:55:36.511Z",
+      "sequence": 2
+    },
+    {
+      "uid": "college-football-401856760@football-watchlist",
+      "gameId": "401856760",
+      "title": "CFB: Georgia Tech at Georgia",
+      "start": "2026-11-28T20:30:00.000Z",
+      "end": "2026-11-29T00:00:00.000Z",
+      "allDay": false,
+      "description": "Major rivalry: Clean, Old-Fashioned Hate.\n\nTeams: Georgia Tech Yellow Jackets at Georgia Bulldogs\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856760/georgia-tech-georgia",
+      "location": "Sanford Stadium, Athens, GA, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856760/georgia-tech-georgia",
+      "status": "CONFIRMED",
+      "categories": [
+        "College"
+      ],
+      "hash": "44ad56b878c228e61dcaeffe4e50cb3e11133e0b2a8a36cde0b51d985e22d693",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-11-22T09:55:36.511Z",
+      "sequence": 1
+    },
+    {
       "uid": "college-football-401858543@football-watchlist",
       "gameId": "401858543",
       "title": "CFB: USC at UCLA",
@@ -9016,6 +8892,45 @@
       "created": "2026-10-01T07:37:11.478Z",
       "modified": "2026-10-01T07:37:11.478Z",
       "sequence": 0
+    },
+    {
+      "uid": "college-football-401856757@football-watchlist",
+      "gameId": "401856757",
+      "title": "CFB: Auburn at Alabama",
+      "start": "2026-11-29T00:30:00.000Z",
+      "end": "2026-11-29T04:00:00.000Z",
+      "allDay": false,
+      "description": "Following Alabama: every game.\nMajor rivalry: Iron Bowl.\n\nTeams: Auburn Tigers at Alabama Crimson Tide\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856757/auburn-alabama",
+      "location": "Bryant-Denny Stadium, Tuscaloosa, AL, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856757/auburn-alabama",
+      "status": "CONFIRMED",
+      "categories": [
+        "College",
+        "Alabama"
+      ],
+      "hash": "45fab5856a5f7d525403194a2e51106d3089370310a9174b0cf6ba3c63bb1c92",
+      "created": "2026-09-05T14:46:37.855Z",
+      "modified": "2026-11-22T09:55:36.511Z",
+      "sequence": 2
+    },
+    {
+      "uid": "college-football-401858541@football-watchlist",
+      "gameId": "401858541",
+      "title": "CFB: Washington at Oregon",
+      "start": "2026-11-29T00:30:00.000Z",
+      "end": "2026-11-29T04:00:00.000Z",
+      "allDay": false,
+      "description": "Major rivalry: Oregon-Washington.\n\nTeams: Washington Huskies at Oregon Ducks\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858541/washington-oregon",
+      "location": "Autzen Stadium, Eugene, OR, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858541/washington-oregon",
+      "status": "CONFIRMED",
+      "categories": [
+        "College"
+      ],
+      "hash": "2108d64d0265179d1dab15b524412b3346ce586b055ac4fa1d79c4265e0010d6",
+      "created": "2026-09-05T14:52:08.096Z",
+      "modified": "2026-11-22T09:55:36.511Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026020425@football-watchlist",
@@ -9580,21 +9495,21 @@
     {
       "uid": "college-football-401869535@football-watchlist",
       "gameId": "401869535",
-      "title": "CFB: TBD at TBD",
+      "title": "CFB: Jacksonville State at Liberty",
       "start": "2026-12-05T00:00:00.000Z",
       "end": "2026-12-05T04:00:00.000Z",
       "allDay": false,
-      "description": "Conference championship.\n\nConference USA Championship\n\nTeams: TBD at TBD\n\nUS broadcast: CBSSN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401869535/tbd-tbd",
-      "location": "",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401869535/tbd-tbd",
+      "description": "Conference championship.\n\nConference USA Championship\n\nTeams: Jacksonville State Gamecocks at Liberty Flames\n\nUS broadcast: CBSSN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401869535/jax-state-liberty",
+      "location": "Williams Stadium (VA), Lynchburg, VA, USA",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401869535/jax-state-liberty",
       "status": "CONFIRMED",
       "categories": [
         "College"
       ],
-      "hash": "30ca84bf1e47c6dfbd1a1d2661cf27c74ff5a798dc11a0b09cb9ffbead2c7508",
+      "hash": "8e13285f60221d8c969f7754baeafc2f548e2581c78855ff7870060003be01e2",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-11-11T21:27:32.163Z",
-      "sequence": 1
+      "modified": "2026-11-22T09:55:36.511Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401869546@football-watchlist",
@@ -9603,17 +9518,17 @@
       "start": "2026-12-05T00:00:00.000Z",
       "end": "2026-12-05T04:00:00.000Z",
       "allDay": false,
-      "description": "Conference championship.\n\nSun Belt Championship\n\nTeams: TBD at TBD\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401869546/tbd-tbd",
+      "description": "Conference championship.\n\nSun Belt Championship\n\nTeams: Louisiana Tech at TBD\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401869546/tbd-tbd",
       "location": "",
       "url": "https://www.espn.com/college-football/game/_/gameId/401869546/tbd-tbd",
       "status": "CONFIRMED",
       "categories": [
         "College"
       ],
-      "hash": "67dd3c6b2766362d71d33dcb96ccd9ff215fc0d3b28cadf4977994c96df526fa",
+      "hash": "e6ff26277e40b0ea99fb6fc0d209eb895af025da6ddf8cca329f388c311e499f",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
+      "modified": "2026-11-22T09:55:36.511Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026020460@football-watchlist",
@@ -9652,36 +9567,36 @@
       "start": "2026-12-05T01:00:00.000Z",
       "end": "2026-12-05T05:00:00.000Z",
       "allDay": false,
-      "description": "Conference championship.\n\nEdward Jones Big 12 Championship\n\nTeams: TBD at TBD\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401869533/tbd-tbd",
+      "description": "Conference championship.\n\nEdward Jones Big 12 Championship\n\nTeams: TBD at Utah\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401869533/tbd-tbd",
       "location": "AT&T Stadium, Arlington, TX, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401869533/tbd-tbd",
       "status": "CONFIRMED",
       "categories": [
         "College"
       ],
-      "hash": "c6037d4eefb0bbb5c025abe60e68a53b1fe385313407503a5f700a8a18f99df6",
+      "hash": "d79cf28f0aca36a8baca22b93c8d595b53fe718425d25438a2a338d3b4bb9e02",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-10-20T23:13:47.701Z",
-      "sequence": 2
+      "modified": "2026-11-22T09:55:36.511Z",
+      "sequence": 3
     },
     {
       "uid": "college-football-401869542@football-watchlist",
       "gameId": "401869542",
-      "title": "CFB: TBD at Boise State",
+      "title": "CFB: San Diego State at Boise State",
       "start": "2026-12-05T01:00:00.000Z",
       "end": "2026-12-05T05:00:00.000Z",
       "allDay": false,
-      "description": "Conference championship.\n\nPac-12 Championship\n\nTeams: TBD at Boise State Broncos\n\nUS broadcast: CBS. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401869542/tbd-boise-st",
+      "description": "Conference championship.\n\nPac-12 Championship\n\nTeams: San Diego State Aztecs at Boise State Broncos\n\nUS broadcast: CBS. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401869542/san-diego-st-boise-st",
       "location": "Albertsons Stadium, Boise, ID, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401869542/tbd-boise-st",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401869542/san-diego-st-boise-st",
       "status": "CONFIRMED",
       "categories": [
         "College"
       ],
-      "hash": "0f9bf117c38eb89ef0fd8f6b28a9c25c23ca43aa6cb1cc2762dcff684112f08f",
+      "hash": "0c646246be50e8da8a1545623f21524937d7042c3c6b30aa9cab97268888d15b",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-11-15T09:36:46.962Z",
-      "sequence": 1
+      "modified": "2026-11-22T09:55:36.511Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401874049@football-watchlist",
@@ -9797,21 +9712,21 @@
     {
       "uid": "college-football-401858318@football-watchlist",
       "gameId": "401858318",
-      "title": "CFB: TBD vs TBD",
+      "title": "CFB: Wake Forest vs Miami",
       "start": "2026-12-05T17:00:00.000Z",
       "end": "2026-12-05T21:00:00.000Z",
       "allDay": false,
-      "description": "Conference championship.\n\nACC Championship\n\nTeams: TBD at TBD\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858318/tbd-tbd",
+      "description": "Conference championship.\n\nACC Championship\n\nTeams: Wake Forest Demon Deacons at Miami Hurricanes\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858318/wake-forest-miami",
       "location": "Bank of America Stadium, Charlotte, NC, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858318/tbd-tbd",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401858318/wake-forest-miami",
       "status": "CONFIRMED",
       "categories": [
         "College"
       ],
-      "hash": "92cead24473e97006e32e32337a263ce551e669c036f752751cf63f13240b3b4",
+      "hash": "bb34edff11cea5e867d9d25ff02c301985419f69ca566b62f54cd69d4116e33d",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:54:57.145Z",
-      "sequence": 1
+      "modified": "2026-11-22T09:55:36.511Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401869536@football-watchlist",
@@ -9869,21 +9784,21 @@
     {
       "uid": "college-football-401869545@football-watchlist",
       "gameId": "401869545",
-      "title": "CFB: TBD vs TBD",
+      "title": "CFB: TBD vs Georgia",
       "start": "2026-12-05T21:00:00.000Z",
       "end": "2026-12-06T01:00:00.000Z",
       "allDay": false,
-      "description": "Conference championship.\n\nSEC Championship\n\nTeams: TBD at TBD\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401869545/tbd-tbd",
+      "description": "Conference championship.\n\nSEC Championship\n\nTeams: TBD at Georgia Bulldogs\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401869545/tbd-georgia",
       "location": "Mercedes-Benz Stadium, Atlanta, GA, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401869545/tbd-tbd",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401869545/tbd-georgia",
       "status": "CONFIRMED",
       "categories": [
         "College"
       ],
-      "hash": "63d679b8865ae20f53e7b1cd79153d691ad2b63047b041237d644d8afd5b7cbf",
+      "hash": "5fc85348108ae033856ac4765e97ff24c63450ce78758f7a32cd367c535e3e0a",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:54:57.145Z",
-      "sequence": 1
+      "modified": "2026-11-22T09:55:36.511Z",
+      "sequence": 2
     },
     {
       "uid": "nhl-2026020471@football-watchlist",
@@ -27854,7 +27769,7 @@
   "nflGames": 285,
   "collegeGames": 950,
   "baseball": {
-    "checkedOn": "2026-11-21",
+    "checkedOn": "2026-11-22",
     "season": 2026,
     "scheduleGames": 996,
     "followedRegularSeasons": {
@@ -27867,11 +27782,11 @@
         "139": 162
       }
     },
-    "events": 378,
+    "events": 376,
     "playoffEvents": 40
   },
   "hockey": {
-    "checkedOn": "2026-11-21",
+    "checkedOn": "2026-11-22",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -27888,7 +27803,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-11-21",
+    "checkedOn": "2026-11-22",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
@@ -27898,7 +27813,7 @@
     "events": 34
   },
   "soccer": {
-    "checkedOn": "2026-11-21",
+    "checkedOn": "2026-11-22",
     "season": 2026,
     "window": {
       "start": "2026-11-16",

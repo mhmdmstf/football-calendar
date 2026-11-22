@@ -8,65 +8,6 @@ X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:nfl-401872947@football-watchlist
-DTSTAMP:20260905T145208Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:1
-DTSTART:20260922T001500Z
-DTEND:20260922T034500Z
-SUMMARY:NFL: New York Giants at Los Angeles Rams
-DESCRIPTION:Monday Night Football.\n\nTeams: New York Giants at Los Angeles
-  Rams\n\nUS broadcast: ESPN / ABC. Availability elsewhere varies.\n\nViewi
- ng window: 3.5 hours (4 hours for championships)\; finish is approximate.\
- n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872947/giants-rams
-LOCATION:SoFi Stadium\, Inglewood\, CA\, USA
-URL:https://www.espn.com/nfl/game/_/gameId/401872947/giants-rams
-CATEGORIES:NFL
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-823543@football-watchlist
-DTSTAMP:20261121T095730Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261121T095730Z
-SEQUENCE:2
-DTSTART:20260922T170500Z
-DTEND:20260922T200500Z
-SUMMARY:MLB: Tampa Bay Rays at New York Yankees
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
-  window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to
-  change): Nick Martinez / Carlos Rodón.\n\nListed broadcasts: YES / Rays.
- TV. Availability varies by country and provider.\n\nOfficial schedule: htt
- ps://www.mlb.com/gameday/823543
-LOCATION:Yankee Stadium
-URL:https://www.mlb.com/gameday/823543
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-823494@football-watchlist
-DTSTAMP:20261119T102940Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261119T102940Z
-SEQUENCE:4
-DTSTART:20260922T230500Z
-DTEND:20260923T020500Z
-SUMMARY:MLB: Tampa Bay Rays at New York Yankees
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
-  window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to
-  change): Drew Rasmussen / Max Fried.\n\nListed broadcasts: Rays.TV / YES 
- / TBS (out-of-market only). Availability varies by country and provider.\n
- \nOfficial schedule: https://www.mlb.com/gameday/823494
-LOCATION:Yankee Stadium
-URL:https://www.mlb.com/gameday/823494
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-822840@football-watchlist
 DTSTAMP:20261117T105111Z
 CREATED:20261026T100606Z
@@ -5886,10 +5827,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856746@football-watchlist
-DTSTAMP:20261121T203520Z
+DTSTAMP:20261122T095536Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20261121T203520Z
-SEQUENCE:1
+LAST-MODIFIED:20261122T095536Z
+SEQUENCE:2
 DTSTART:20261121T190000Z
 DTEND:20261121T223000Z
 SUMMARY:CFB: Chattanooga at Alabama
@@ -5897,9 +5838,10 @@ DESCRIPTION:Following Alabama: every game.\n\nTeams: Chattanooga Mocs at Al
  abama Crimson Tide\n\nUS broadcast: SECN+. Availability elsewhere varies.\
  n\nViewing window: 3.5 hours (4 hours for championships)\; finish is appro
  ximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/4
- 01856746
+ 01856746/chattanooga-alabama
 LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856746
+URL:https://www.espn.com/college-football/game/_/gameId/401856746/chattanoo
+ ga-alabama
 CATEGORIES:College,Alabama
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -6666,92 +6608,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:college-football-401856757@football-watchlist
-DTSTAMP:20261117T105111Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20261117T105111Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-SUMMARY:CFB: Auburn at Alabama [time TBA]
-DESCRIPTION:Following Alabama: every game.\nMajor rivalry: Iron Bowl.\n\nFL
- EX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\nTeams: Auburn Tigers at Alabama C
- rimson Tide\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nKickof
- f has not been announced. This all-day marker will become a timed event wh
- en confirmed.\n\nSchedule: https://www.espn.com/college-football/game/_/ga
- meId/401856757/auburn-alabama
-LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856757/auburn-al
- abama
-CATEGORIES:College,Alabama
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401856760@football-watchlist
-DTSTAMP:20260905T144637Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-SUMMARY:CFB: Georgia Tech at Georgia [time TBA]
-DESCRIPTION:Major rivalry: Clean\, Old-Fashioned Hate.\n\nFLEX: 3:30 - 4:30
- pm OR 6 - 8pm ET start\n\nTeams: Georgia Tech Yellow Jackets at Georgia Bu
- lldogs\n\nBroadcast to be announced.\n\nKickoff has not been announced. Th
- is all-day marker will become a timed event when confirmed.\n\nSchedule: h
- ttps://www.espn.com/college-football/game/_/gameId/401856760/georgia-tech-
- georgia
-LOCATION:Sanford Stadium\, Athens\, GA\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856760/georgia-t
- ech-georgia
-CATEGORIES:College
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401856764@football-watchlist
-DTSTAMP:20261116T232611Z
-CREATED:20260905T145208Z
-LAST-MODIFIED:20261116T232611Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-SUMMARY:CFB: South Carolina at Clemson [time TBA]
-DESCRIPTION:Major rivalry: Clemson-South Carolina.\n\nAFTERNOON: 3 - 3:30pm
-  ET start\n\nTeams: South Carolina Gamecocks at Clemson Tigers\n\nBroadcas
- t to be announced.\n\nKickoff has not been announced. This all-day marker 
- will become a timed event when confirmed.\n\nSchedule: https://www.espn.co
- m/college-football/game/_/gameId/401856764/south-carolina-clemson
-LOCATION:Memorial Stadium (Clemson\, SC)\, Clemson\, SC\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856764/south-car
- olina-clemson
-CATEGORIES:College
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:college-football-401858541@football-watchlist
-DTSTAMP:20260905T145208Z
-CREATED:20260905T145208Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-SUMMARY:CFB: Washington at Oregon [time TBA]
-DESCRIPTION:Major rivalry: Oregon-Washington.\n\nTeams: Washington Huskies 
- at Oregon Ducks\n\nBroadcast to be announced.\n\nKickoff has not been anno
- unced. This all-day marker will become a timed event when confirmed.\n\nSc
- hedule: https://www.espn.com/college-football/game/_/gameId/401858541/wash
- ington-oregon
-LOCATION:Autzen Stadium\, Eugene\, OR\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858541/washingto
- n-oregon
-CATEGORIES:College
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:college-football-401856756@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T145208Z
@@ -6854,6 +6710,48 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:college-football-401856764@football-watchlist
+DTSTAMP:20261122T095536Z
+CREATED:20260905T145208Z
+LAST-MODIFIED:20261122T095536Z
+SEQUENCE:2
+DTSTART:20261128T200000Z
+DTEND:20261128T233000Z
+SUMMARY:CFB: South Carolina at Clemson
+DESCRIPTION:Major rivalry: Clemson-South Carolina.\n\nTeams: South Carolina
+  Gamecocks at Clemson Tigers\n\nUS broadcast: ESPN2. Availability elsewher
+ e varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; finis
+ h is approximate.\n\nSchedule: https://www.espn.com/college-football/game/
+ _/gameId/401856764/south-carolina-clemson
+LOCATION:Memorial Stadium (Clemson\, SC)\, Clemson\, SC\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856764/south-car
+ olina-clemson
+CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856760@football-watchlist
+DTSTAMP:20261122T095536Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20261122T095536Z
+SEQUENCE:1
+DTSTART:20261128T203000Z
+DTEND:20261129T000000Z
+SUMMARY:CFB: Georgia Tech at Georgia
+DESCRIPTION:Major rivalry: Clean\, Old-Fashioned Hate.\n\nTeams: Georgia Te
+ ch Yellow Jackets at Georgia Bulldogs\n\nUS broadcast: ABC. Availability e
+ lsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)\
+ ; finish is approximate.\n\nSchedule: https://www.espn.com/college-footbal
+ l/game/_/gameId/401856760/georgia-tech-georgia
+LOCATION:Sanford Stadium\, Athens\, GA\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856760/georgia-t
+ ech-georgia
+CATEGORIES:College
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:college-football-401858543@football-watchlist
 DTSTAMP:20261117T222915Z
 CREATED:20260905T144637Z
@@ -6889,6 +6787,48 @@ DESCRIPTION:Following Carolina Hurricanes: every regular-season game and an
 LOCATION:Lenovo Center
 URL:https://www.nhl.com/gamecenter/ott-vs-car/2026/11/28/2026020421
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401856757@football-watchlist
+DTSTAMP:20261122T095536Z
+CREATED:20260905T144637Z
+LAST-MODIFIED:20261122T095536Z
+SEQUENCE:2
+DTSTART:20261129T003000Z
+DTEND:20261129T040000Z
+SUMMARY:CFB: Auburn at Alabama
+DESCRIPTION:Following Alabama: every game.\nMajor rivalry: Iron Bowl.\n\nTe
+ ams: Auburn Tigers at Alabama Crimson Tide\n\nUS broadcast: ABC. Availabil
+ ity elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championsh
+ ips)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-fo
+ otball/game/_/gameId/401856757/auburn-alabama
+LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401856757/auburn-al
+ abama
+CATEGORIES:College,Alabama
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:college-football-401858541@football-watchlist
+DTSTAMP:20261122T095536Z
+CREATED:20260905T145208Z
+LAST-MODIFIED:20261122T095536Z
+SEQUENCE:1
+DTSTART:20261129T003000Z
+DTEND:20261129T040000Z
+SUMMARY:CFB: Washington at Oregon
+DESCRIPTION:Major rivalry: Oregon-Washington.\n\nTeams: Washington Huskies 
+ at Oregon Ducks\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nVi
+ ewing window: 3.5 hours (4 hours for championships)\; finish is approximat
+ e.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858
+ 541/washington-oregon
+LOCATION:Autzen Stadium\, Eugene\, OR\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401858541/washingto
+ n-oregon
+CATEGORIES:College
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -7292,38 +7232,39 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401869535@football-watchlist
-DTSTAMP:20261111T212732Z
+DTSTAMP:20261122T095536Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20261111T212732Z
-SEQUENCE:1
+LAST-MODIFIED:20261122T095536Z
+SEQUENCE:2
 DTSTART:20261205T000000Z
 DTEND:20261205T040000Z
-SUMMARY:CFB: TBD at TBD
+SUMMARY:CFB: Jacksonville State at Liberty
 DESCRIPTION:Conference championship.\n\nConference USA Championship\n\nTeam
- s: TBD at TBD\n\nUS broadcast: CBSSN. Availability elsewhere varies.\n\nVi
- ewing window: 3.5 hours (4 hours for championships)\; finish is approximat
- e.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401869
- 535/tbd-tbd
-LOCATION:
-URL:https://www.espn.com/college-football/game/_/gameId/401869535/tbd-tbd
+ s: Jacksonville State Gamecocks at Liberty Flames\n\nUS broadcast: CBSSN. 
+ Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for c
+ hampionships)\; finish is approximate.\n\nSchedule: https://www.espn.com/c
+ ollege-football/game/_/gameId/401869535/jax-state-liberty
+LOCATION:Williams Stadium (VA)\, Lynchburg\, VA\, USA
+URL:https://www.espn.com/college-football/game/_/gameId/401869535/jax-state
+ -liberty
 CATEGORIES:College
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401869546@football-watchlist
-DTSTAMP:20260905T144637Z
+DTSTAMP:20261122T095536Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
+LAST-MODIFIED:20261122T095536Z
+SEQUENCE:1
 DTSTART:20261205T000000Z
 DTEND:20261205T040000Z
 SUMMARY:CFB: TBD at TBD
-DESCRIPTION:Conference championship.\n\nSun Belt Championship\n\nTeams: TBD
-  at TBD\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing w
- indow: 3.5 hours (4 hours for championships)\; finish is approximate.\n\nS
- chedule: https://www.espn.com/college-football/game/_/gameId/401869546/tbd
- -tbd
+DESCRIPTION:Conference championship.\n\nSun Belt Championship\n\nTeams: Lou
+ isiana Tech at TBD\n\nUS broadcast: ESPN. Availability elsewhere varies.\n
+ \nViewing window: 3.5 hours (4 hours for championships)\; finish is approx
+ imate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/40
+ 1869546/tbd-tbd
 LOCATION:
 URL:https://www.espn.com/college-football/game/_/gameId/401869546/tbd-tbd
 CATEGORIES:College
@@ -7352,18 +7293,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401869533@football-watchlist
-DTSTAMP:20261020T231347Z
+DTSTAMP:20261122T095536Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20261020T231347Z
-SEQUENCE:2
+LAST-MODIFIED:20261122T095536Z
+SEQUENCE:3
 DTSTART:20261205T010000Z
 DTEND:20261205T050000Z
 SUMMARY:CFB: TBD vs TBD
 DESCRIPTION:Conference championship.\n\nEdward Jones Big 12 Championship\n\
- nTeams: TBD at TBD\n\nUS broadcast: ABC. Availability elsewhere varies.\n\
- nViewing window: 3.5 hours (4 hours for championships)\; finish is approxi
- mate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401
- 869533/tbd-tbd
+ nTeams: TBD at Utah\n\nUS broadcast: ABC. Availability elsewhere varies.\n
+ \nViewing window: 3.5 hours (4 hours for championships)\; finish is approx
+ imate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/40
+ 1869533/tbd-tbd
 LOCATION:AT&T Stadium\, Arlington\, TX\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401869533/tbd-tbd
 CATEGORIES:College
@@ -7372,21 +7313,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401869542@football-watchlist
-DTSTAMP:20261115T093646Z
+DTSTAMP:20261122T095536Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20261115T093646Z
-SEQUENCE:1
+LAST-MODIFIED:20261122T095536Z
+SEQUENCE:2
 DTSTART:20261205T010000Z
 DTEND:20261205T050000Z
-SUMMARY:CFB: TBD at Boise State
-DESCRIPTION:Conference championship.\n\nPac-12 Championship\n\nTeams: TBD a
- t Boise State Broncos\n\nUS broadcast: CBS. Availability elsewhere varies.
- \n\nViewing window: 3.5 hours (4 hours for championships)\; finish is appr
- oximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/
- 401869542/tbd-boise-st
+SUMMARY:CFB: San Diego State at Boise State
+DESCRIPTION:Conference championship.\n\nPac-12 Championship\n\nTeams: San D
+ iego State Aztecs at Boise State Broncos\n\nUS broadcast: CBS. Availabilit
+ y elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championship
+ s)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-foot
+ ball/game/_/gameId/401869542/san-diego-st-boise-st
 LOCATION:Albertsons Stadium\, Boise\, ID\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401869542/tbd-boise
- -st
+URL:https://www.espn.com/college-football/game/_/gameId/401869542/san-diego
+ -st-boise-st
 CATEGORIES:College
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -7477,19 +7418,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401858318@football-watchlist
-DTSTAMP:20260905T145457Z
+DTSTAMP:20261122T095536Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145457Z
-SEQUENCE:1
+LAST-MODIFIED:20261122T095536Z
+SEQUENCE:2
 DTSTART:20261205T170000Z
 DTEND:20261205T210000Z
-SUMMARY:CFB: TBD vs TBD
-DESCRIPTION:Conference championship.\n\nACC Championship\n\nTeams: TBD at T
- BD\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window:
-  3.5 hours (4 hours for championships)\; finish is approximate.\n\nSchedul
- e: https://www.espn.com/college-football/game/_/gameId/401858318/tbd-tbd
+SUMMARY:CFB: Wake Forest vs Miami
+DESCRIPTION:Conference championship.\n\nACC Championship\n\nTeams: Wake For
+ est Demon Deacons at Miami Hurricanes\n\nUS broadcast: ABC. Availability e
+ lsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships)\
+ ; finish is approximate.\n\nSchedule: https://www.espn.com/college-footbal
+ l/game/_/gameId/401858318/wake-forest-miami
 LOCATION:Bank of America Stadium\, Charlotte\, NC\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401858318/tbd-tbd
+URL:https://www.espn.com/college-football/game/_/gameId/401858318/wake-fore
+ st-miami
 CATEGORIES:College
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -7535,19 +7478,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401869545@football-watchlist
-DTSTAMP:20260905T145457Z
+DTSTAMP:20261122T095536Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145457Z
-SEQUENCE:1
+LAST-MODIFIED:20261122T095536Z
+SEQUENCE:2
 DTSTART:20261205T210000Z
 DTEND:20261206T010000Z
-SUMMARY:CFB: TBD vs TBD
-DESCRIPTION:Conference championship.\n\nSEC Championship\n\nTeams: TBD at T
- BD\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window:
-  3.5 hours (4 hours for championships)\; finish is approximate.\n\nSchedul
- e: https://www.espn.com/college-football/game/_/gameId/401869545/tbd-tbd
+SUMMARY:CFB: TBD vs Georgia
+DESCRIPTION:Conference championship.\n\nSEC Championship\n\nTeams: TBD at G
+ eorgia Bulldogs\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nVi
+ ewing window: 3.5 hours (4 hours for championships)\; finish is approximat
+ e.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401869
+ 545/tbd-georgia
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401869545/tbd-tbd
+URL:https://www.espn.com/college-football/game/_/gameId/401869545/tbd-georg
+ ia
 CATEGORIES:College
 STATUS:CONFIRMED
 TRANSP:OPAQUE
