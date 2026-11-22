@@ -6034,71 +6034,64 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401882804@football-watchlist
-DTSTAMP:20261108T234843Z
+DTSTAMP:20261122T204547Z
 CREATED:20261108T234843Z
-LAST-MODIFIED:20261108T234843Z
-SEQUENCE:0
+LAST-MODIFIED:20261122T204547Z
+SEQUENCE:1
 DTSTART:20261122T130000Z
 DTEND:20261122T150000Z
-SUMMARY:Barcelona vs Villarreal - Spanish LALIGA [provisional]
+SUMMARY:Barcelona vs Villarreal - Spanish LALIGA
 DESCRIPTION:A current top-three club faces a top-half opponent: Barcelona #
  1\, Villarreal #8.\n\nSelection made 2026-11-09. Table positions describe 
- that snapshot\, not predicted results. Picks are kept once added.\n\nProvi
- sional source-listed date and kickoff. ESPN does not reliably distinguish 
- TV-confirmed dates from provisional fixtures\; both may change. The calend
- ar updates when the schedule changes.\n\nViewing window: 2 hours\; finish 
- is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/40
- 1882804
+ that snapshot\, not predicted results. Picks are kept once added.\n\nKicko
+ ff shown in your calendar’s local time.\n\nViewing window: 2 hours\; fin
+ ish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameI
+ d/401882804
 LOCATION:Spotify Camp Nou
 URL:https://www.espn.com/soccer/match/_/gameId/401882804
 CATEGORIES:Soccer,European pick,Spanish LALIGA
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401878755@football-watchlist
-DTSTAMP:20261108T234843Z
+DTSTAMP:20261122T204547Z
 CREATED:20261108T234843Z
-LAST-MODIFIED:20261108T234843Z
-SEQUENCE:0
+LAST-MODIFIED:20261122T204547Z
+SEQUENCE:1
 DTSTART:20261122T163000Z
 DTEND:20261122T183000Z
-SUMMARY:Liverpool vs Manchester United - English Premier League [provisiona
- l]
+SUMMARY:Liverpool vs Manchester United - English Premier League
 DESCRIPTION:Major rivalry: Liverpool-Manchester United rivalry.\nHigh-profi
  le club matchup.\n\nSelection made 2026-11-09. Table positions describe th
- at snapshot\, not predicted results. Picks are kept once added.\n\nProvisi
- onal source-listed date and kickoff. ESPN does not reliably distinguish TV
- -confirmed dates from provisional fixtures\; both may change. The calendar
-  updates when the schedule changes.\n\nViewing window: 2 hours\; finish is
-  approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/4018
- 78755
+ at snapshot\, not predicted results. Picks are kept once added.\n\nKickoff
+  shown in your calendar’s local time.\n\nViewing window: 2 hours\; finis
+ h is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/
+ 401878755
 LOCATION:Anfield
 URL:https://www.espn.com/soccer/match/_/gameId/401878755
 CATEGORIES:Soccer,European pick,English Premier League
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401874989@football-watchlist
-DTSTAMP:20261108T234843Z
+DTSTAMP:20261122T204547Z
 CREATED:20261108T234843Z
-LAST-MODIFIED:20261108T234843Z
-SEQUENCE:0
+LAST-MODIFIED:20261122T204547Z
+SEQUENCE:1
 DTSTART:20261122T170000Z
 DTEND:20261122T190000Z
-SUMMARY:AC Milan vs Frosinone - Italian Serie A [provisional]
+SUMMARY:AC Milan vs Frosinone - Italian Serie A
 DESCRIPTION:Both clubs are in the current top 6: AC Milan #4\, Frosinone #6
  .\n\nSelection made 2026-11-09. Table positions describe that snapshot\, n
- ot predicted results. Picks are kept once added.\n\nProvisional source-lis
- ted date and kickoff. ESPN does not reliably distinguish TV-confirmed date
- s from provisional fixtures\; both may change. The calendar updates when t
- he schedule changes.\n\nViewing window: 2 hours\; finish is approximate.\n
- \nSchedule: https://www.espn.com/soccer/match/_/gameId/401874989
+ ot predicted results. Picks are kept once added.\n\nKickoff shown in your 
+ calendar’s local time.\n\nViewing window: 2 hours\; finish is approximat
+ e.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401874989
 LOCATION:San Siro
 URL:https://www.espn.com/soccer/match/_/gameId/401874989
 CATEGORIES:Soccer,European pick,Italian Serie A
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT

@@ -7965,12 +7965,12 @@
         "A current top-three club faces a top-half opponent: Barcelona #1, Villarreal #8."
       ],
       "soccerSelectedOn": "2026-11-09",
-      "title": "Barcelona vs Villarreal - Spanish LALIGA [provisional]",
+      "title": "Barcelona vs Villarreal - Spanish LALIGA",
       "start": "2026-11-22T13:00:00.000Z",
       "end": "2026-11-22T15:00:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "A current top-three club faces a top-half opponent: Barcelona #1, Villarreal #8.\n\nSelection made 2026-11-09. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401882804",
+      "status": "CONFIRMED",
+      "description": "A current top-three club faces a top-half opponent: Barcelona #1, Villarreal #8.\n\nSelection made 2026-11-09. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401882804",
       "location": "Spotify Camp Nou",
       "url": "https://www.espn.com/soccer/match/_/gameId/401882804",
       "categories": [
@@ -7978,10 +7978,10 @@
         "European pick",
         "Spanish LALIGA"
       ],
-      "hash": "caa6d57dae36dff14686dfc3185107c23d4475a74cf958c8b7fd11d04733639e",
+      "hash": "a6675b07541721719ce32f5cee3842ad987d51b95a198bf139a6112c1615473e",
       "created": "2026-11-08T23:48:43.830Z",
-      "modified": "2026-11-08T23:48:43.830Z",
-      "sequence": 0
+      "modified": "2026-11-22T20:45:47.120Z",
+      "sequence": 1
     },
     {
       "uid": "soccer-401878755@football-watchlist",
@@ -8000,12 +8000,12 @@
         "High-profile club matchup."
       ],
       "soccerSelectedOn": "2026-11-09",
-      "title": "Liverpool vs Manchester United - English Premier League [provisional]",
+      "title": "Liverpool vs Manchester United - English Premier League",
       "start": "2026-11-22T16:30:00.000Z",
       "end": "2026-11-22T18:30:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Major rivalry: Liverpool-Manchester United rivalry.\nHigh-profile club matchup.\n\nSelection made 2026-11-09. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401878755",
+      "status": "CONFIRMED",
+      "description": "Major rivalry: Liverpool-Manchester United rivalry.\nHigh-profile club matchup.\n\nSelection made 2026-11-09. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401878755",
       "location": "Anfield",
       "url": "https://www.espn.com/soccer/match/_/gameId/401878755",
       "categories": [
@@ -8013,10 +8013,10 @@
         "European pick",
         "English Premier League"
       ],
-      "hash": "1cafbe9ea5d7e7448b2a8221457b4623941247bf1d0c6171e7b50cef92d1cd6d",
+      "hash": "54d6af01d25bd64b69102c9fc65aae73234302f1a2481b74891840bbb1afaeff",
       "created": "2026-11-08T23:48:43.830Z",
-      "modified": "2026-11-08T23:48:43.830Z",
-      "sequence": 0
+      "modified": "2026-11-22T20:45:47.120Z",
+      "sequence": 1
     },
     {
       "uid": "soccer-401874989@football-watchlist",
@@ -8034,12 +8034,12 @@
         "Both clubs are in the current top 6: AC Milan #4, Frosinone #6."
       ],
       "soccerSelectedOn": "2026-11-09",
-      "title": "AC Milan vs Frosinone - Italian Serie A [provisional]",
+      "title": "AC Milan vs Frosinone - Italian Serie A",
       "start": "2026-11-22T17:00:00.000Z",
       "end": "2026-11-22T19:00:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Both clubs are in the current top 6: AC Milan #4, Frosinone #6.\n\nSelection made 2026-11-09. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401874989",
+      "status": "CONFIRMED",
+      "description": "Both clubs are in the current top 6: AC Milan #4, Frosinone #6.\n\nSelection made 2026-11-09. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401874989",
       "location": "San Siro",
       "url": "https://www.espn.com/soccer/match/_/gameId/401874989",
       "categories": [
@@ -8047,10 +8047,10 @@
         "European pick",
         "Italian Serie A"
       ],
-      "hash": "f3ea02ce63dc3a16da270c7f387cb7d0ccd00a80fe8bbdb899ddea25d8212df8",
+      "hash": "d65f4526b8fad7d1a11fed99f4211104d213c19972f5c13b4c83f64e0d508aa6",
       "created": "2026-11-08T23:48:43.830Z",
-      "modified": "2026-11-08T23:48:43.830Z",
-      "sequence": 0
+      "modified": "2026-11-22T20:45:47.120Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026020373@football-watchlist",
