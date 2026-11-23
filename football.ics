@@ -8,69 +8,6 @@ X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:mlb-822840@football-watchlist
-DTSTAMP:20261117T105111Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261117T105111Z
-SEQUENCE:6
-DTSTART:20260923T000500Z
-DTEND:20260923T030500Z
-SUMMARY:MLB: New York Mets at Texas Rangers
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
- window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to 
- change): Sean Manaea / MacKenzie Gore.\n\nListed broadcasts: SNY / Rangers
-  Sports Network\, presented by Progressive. Availability varies by country
-  and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822840
-LOCATION:Globe Life Field
-URL:https://www.mlb.com/gameday/822840
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-823089@football-watchlist
-DTSTAMP:20261020T183154Z
-CREATED:20260920T223228Z
-LAST-MODIFIED:20261020T183154Z
-SEQUENCE:12
-DTSTART:20260923T014000Z
-DTEND:20260923T044000Z
-SUMMARY:MLB: Houston Astros at Seattle Mariners
-DESCRIPTION:Two teams with live postseason stakes meet directly.\nHouston A
- stros: 1 game behind the division lead.\nHouston Astros: 3 games behind th
- e final wild-card spot.\nSeattle Mariners: 5 games behind the division lea
- d.\nStandings snapshot: 2026-09-22.\n\nViewing window: 3 hours\; finish is
-  approximate.\n\nProbable pitchers (subject to change): Cristian Javier / 
- Logan Gilbert.\n\nListed broadcasts: Space City Home Network / Mariners.TV
- . Availability varies by country and provider.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/823089
-LOCATION:T-Mobile Park
-URL:https://www.mlb.com/gameday/823089
-CATEGORIES:MLB,Pennant race
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-823492@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260923T230500Z
-DTEND:20260924T020500Z
-SUMMARY:MLB: Tampa Bay Rays at New York Yankees
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
-  window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to
-  change): Mason Englert / Gerrit Cole.\n\nListed broadcasts: Amazon Prime 
- Video / Rays.TV. Availability varies by country and provider.\n\nOfficial 
- schedule: https://www.mlb.com/gameday/823492
-LOCATION:Yankee Stadium
-URL:https://www.mlb.com/gameday/823492
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-822841@football-watchlist
 DTSTAMP:20261117T105111Z
 CREATED:20260923T075004Z
@@ -7164,6 +7101,54 @@ STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:soccer-401879223@football-watchlist
+DTSTAMP:20261123T105500Z
+CREATED:20261123T105500Z
+LAST-MODIFIED:20261123T105500Z
+SEQUENCE:0
+DTSTART:20261202T201500Z
+DTEND:20261202T221500Z
+SUMMARY:AFC Bournemouth vs Brighton & Hove Albion - English Premier League 
+ [provisional]
+DESCRIPTION:Both clubs are in the current top 6: AFC Bournemouth #5\, Brigh
+ ton & Hove Albion #2.\n\nSelection made 2026-11-23. Table positions descri
+ be that snapshot\, not predicted results. Picks are kept once added.\n\nPr
+ ovisional source-listed date and kickoff. ESPN does not reliably distingui
+ sh TV-confirmed dates from provisional fixtures\; both may change. The cal
+ endar updates when the schedule changes.\n\nViewing window: 2 hours\; fini
+ sh is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId
+ /401879223
+LOCATION:Vitality Stadium
+URL:https://www.espn.com/soccer/match/_/gameId/401879223
+CATEGORIES:Soccer,European pick,English Premier League
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401882700@football-watchlist
+DTSTAMP:20261123T105500Z
+CREATED:20261123T105500Z
+LAST-MODIFIED:20261123T105500Z
+SEQUENCE:0
+DTSTART:20261202T203000Z
+DTEND:20261202T223000Z
+SUMMARY:Barcelona vs Atlético Madrid - Spanish LALIGA [provisional]
+DESCRIPTION:Both clubs are in the current top 6: Barcelona #1\, Atlético M
+ adrid #3.\nTop-four meeting with 5 points separating the teams.\nHigh-prof
+ ile club matchup.\n\nSelection made 2026-11-23. Table positions describe t
+ hat snapshot\, not predicted results. Picks are kept once added.\n\nProvis
+ ional source-listed date and kickoff. ESPN does not reliably distinguish T
+ V-confirmed dates from provisional fixtures\; both may change. The calenda
+ r updates when the schedule changes.\n\nViewing window: 2 hours\; finish i
+ s approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401
+ 882700
+LOCATION:Spotify Camp Nou
+URL:https://www.espn.com/soccer/match/_/gameId/401882700
+CATEGORIES:Soccer,European pick,Spanish LALIGA
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nhl-2026020451@football-watchlist
 DTSTAMP:20261001T073711Z
 CREATED:20261001T073711Z
@@ -7450,6 +7435,29 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:soccer-401875023@football-watchlist
+DTSTAMP:20261123T105500Z
+CREATED:20261123T105500Z
+LAST-MODIFIED:20261123T105500Z
+SEQUENCE:0
+DTSTART:20261205T170000Z
+DTEND:20261205T190000Z
+SUMMARY:Frosinone vs Internazionale - Italian Serie A [provisional]
+DESCRIPTION:A current top-three club faces a top-half opponent: Frosinone #
+ 7\, Internazionale #3.\n\nSelection made 2026-11-23. Table positions descr
+ ibe that snapshot\, not predicted results. Picks are kept once added.\n\nP
+ rovisional source-listed date and kickoff. ESPN does not reliably distingu
+ ish TV-confirmed dates from provisional fixtures\; both may change. The ca
+ lendar updates when the schedule changes.\n\nViewing window: 2 hours\; fin
+ ish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameI
+ d/401875023
+LOCATION:Stadio Benito Stirpe
+URL:https://www.espn.com/soccer/match/_/gameId/401875023
+CATEGORIES:Soccer,European pick,Italian Serie A
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:soccer-401876385@football-watchlist
 DTSTAMP:20261027T235047Z
 CREATED:20261026T100606Z
@@ -7551,6 +7559,52 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:soccer-401884711@football-watchlist
+DTSTAMP:20261123T105500Z
+CREATED:20261123T105500Z
+LAST-MODIFIED:20261123T105500Z
+SEQUENCE:0
+DTSTART:20261206T143000Z
+DTEND:20261206T163000Z
+SUMMARY:Schalke 04 vs Borussia Dortmund - German Bundesliga [provisional]
+DESCRIPTION:Major rivalry: Revierderby.\n\nSelection made 2026-11-23. Table
+  positions describe that snapshot\, not predicted results. Picks are kept 
+ once added.\n\nProvisional source-listed date and kickoff. ESPN does not r
+ eliably distinguish TV-confirmed dates from provisional fixtures\; both ma
+ y change. The calendar updates when the schedule changes.\n\nViewing windo
+ w: 2 hours\; finish is approximate.\n\nSchedule: https://www.espn.com/socc
+ er/match/_/gameId/401884711
+LOCATION:Veltins Arena
+URL:https://www.espn.com/soccer/match/_/gameId/401884711
+CATEGORIES:Soccer,European pick,German Bundesliga
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401879209@football-watchlist
+DTSTAMP:20261123T105500Z
+CREATED:20261123T105500Z
+LAST-MODIFIED:20261123T105500Z
+SEQUENCE:0
+DTSTART:20261206T163000Z
+DTEND:20261206T183000Z
+SUMMARY:Tottenham Hotspur vs Arsenal - English Premier League [provisional]
+DESCRIPTION:Major rivalry: North London derby.\nA current top-three club fa
+ ces a top-half opponent: Tottenham Hotspur #9\, Arsenal #1.\nHigh-profile 
+ club matchup.\n\nSelection made 2026-11-23. Table positions describe that 
+ snapshot\, not predicted results. Picks are kept once added.\n\nProvisiona
+ l source-listed date and kickoff. ESPN does not reliably distinguish TV-co
+ nfirmed dates from provisional fixtures\; both may change. The calendar up
+ dates when the schedule changes.\n\nViewing window: 2 hours\; finish is ap
+ proximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/4018792
+ 09
+LOCATION:Tottenham Hotspur Stadium
+URL:https://www.espn.com/soccer/match/_/gameId/401879209
+CATEGORIES:Soccer,European pick,English Premier League
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:redzone-2026-12-06@football-watchlist
 DTSTAMP:20260905T144637Z
 CREATED:20260905T144637Z
@@ -7587,6 +7641,29 @@ LOCATION:PPG Paints Arena
 URL:https://www.nhl.com/gamecenter/sjs-vs-pit/2026/12/06/2026020476
 CATEGORIES:NHL,Regular season,San Jose Sharks
 STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer-401882784@football-watchlist
+DTSTAMP:20261123T105500Z
+CREATED:20261123T105500Z
+LAST-MODIFIED:20261123T105500Z
+SEQUENCE:0
+DTSTART:20261206T200000Z
+DTEND:20261206T220000Z
+SUMMARY:Atlético Madrid vs Real Betis - Spanish LALIGA [provisional]
+DESCRIPTION:Both clubs are in the current top 6: Atlético Madrid #3\, Real
+  Betis #4.\nTop-four meeting with 4 points separating the teams.\n\nSelect
+ ion made 2026-11-23. Table positions describe that snapshot\, not predicte
+ d results. Picks are kept once added.\n\nProvisional source-listed date an
+ d kickoff. ESPN does not reliably distinguish TV-confirmed dates from prov
+ isional fixtures\; both may change. The calendar updates when the schedule
+  changes.\n\nViewing window: 2 hours\; finish is approximate.\n\nSchedule:
+  https://www.espn.com/soccer/match/_/gameId/401882784
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.espn.com/soccer/match/_/gameId/401882784
+CATEGORIES:Soccer,European pick,Spanish LALIGA
+STATUS:TENTATIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT

@@ -1,11 +1,11 @@
 {
-  "checkedOn": "2026-11-22",
+  "checkedOn": "2026-11-23",
   "season": 2026,
-  "events": 943,
+  "events": 946,
   "nflGames": 285,
   "collegeGames": 950,
   "baseball": {
-    "checkedOn": "2026-11-22",
+    "checkedOn": "2026-11-23",
     "season": 2026,
     "scheduleGames": 996,
     "followedRegularSeasons": {
@@ -18,11 +18,11 @@
         "139": 162
       }
     },
-    "events": 376,
+    "events": 373,
     "playoffEvents": 40
   },
   "hockey": {
-    "checkedOn": "2026-11-22",
+    "checkedOn": "2026-11-23",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -39,7 +39,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-11-22",
+    "checkedOn": "2026-11-23",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
@@ -49,11 +49,11 @@
     "events": 34
   },
   "soccer": {
-    "checkedOn": "2026-11-22",
+    "checkedOn": "2026-11-23",
     "season": 2026,
     "window": {
-      "start": "2026-11-16",
-      "end": "2026-11-30"
+      "start": "2026-11-23",
+      "end": "2026-12-07"
     },
     "sourceCounts": {
       "teams": {
@@ -74,15 +74,15 @@
         }
       },
       "leagues": {
-        "eng.1": 20,
-        "ita.1": 18,
-        "esp.1": 19,
+        "eng.1": 31,
+        "ita.1": 19,
+        "esp.1": 22,
         "ger.1": 18,
         "fra.1": 18,
         "uefa.champions": 18
       }
     },
-    "events": 147
+    "events": 153
   },
   "warnings": [
     "Big Noon: no unambiguous current announcement matched the game schedule; retaining verified announcements and TBA placeholders.",

@@ -1,109 +1,7 @@
 {
-  "checkedOn": "2026-11-22",
+  "checkedOn": "2026-11-23",
   "season": 2026,
   "events": [
-    {
-      "uid": "mlb-822840@football-watchlist",
-      "gameId": "822840",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/121:51/140:51",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "121",
-        "140"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: New York Mets at Texas Rangers",
-      "start": "2026-09-23T00:05:00.000Z",
-      "end": "2026-09-23T03:05:00.000Z",
-      "allDay": false,
-      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Sean Manaea / MacKenzie Gore.\n\nListed broadcasts: SNY / Rangers Sports Network, presented by Progressive. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822840",
-      "location": "Globe Life Field",
-      "url": "https://www.mlb.com/gameday/822840",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "bdd731f8f3414fe17ec95a1f4d53b392f42f4c0877463dbaa32b4d1cd7becce4",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-11-17T10:51:11.781Z",
-      "sequence": 6
-    },
-    {
-      "uid": "mlb-823089@football-watchlist",
-      "gameId": "823089",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/117:51/136:51",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "117",
-        "136"
-      ],
-      "selectionReasons": [
-        "Two teams with live postseason stakes meet directly.",
-        "Houston Astros: 1 game behind the division lead.",
-        "Houston Astros: 3 games behind the final wild-card spot.",
-        "Seattle Mariners: 5 games behind the division lead.",
-        "Standings snapshot: 2026-09-22."
-      ],
-      "title": "MLB: Houston Astros at Seattle Mariners",
-      "start": "2026-09-23T01:40:00.000Z",
-      "end": "2026-09-23T04:40:00.000Z",
-      "allDay": false,
-      "description": "Two teams with live postseason stakes meet directly.\nHouston Astros: 1 game behind the division lead.\nHouston Astros: 3 games behind the final wild-card spot.\nSeattle Mariners: 5 games behind the division lead.\nStandings snapshot: 2026-09-22.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Cristian Javier / Logan Gilbert.\n\nListed broadcasts: Space City Home Network / Mariners.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823089",
-      "location": "T-Mobile Park",
-      "url": "https://www.mlb.com/gameday/823089",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Pennant race"
-      ],
-      "hash": "6382914f31333dd99649f668aed313cda81f5cbbb536a60af3735ca7dfe2c21e",
-      "created": "2026-09-20T22:32:28.050Z",
-      "modified": "2026-10-20T18:31:54.497Z",
-      "sequence": 12
-    },
-    {
-      "uid": "mlb-823492@football-watchlist",
-      "gameId": "823492",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/139:51/147:51",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "147"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Tampa Bay Rays at New York Yankees",
-      "start": "2026-09-23T23:05:00.000Z",
-      "end": "2026-09-24T02:05:00.000Z",
-      "allDay": false,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Mason Englert / Gerrit Cole.\n\nListed broadcasts: Amazon Prime Video / Rays.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823492",
-      "location": "Yankee Stadium",
-      "url": "https://www.mlb.com/gameday/823492",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "8000ec73ca6f1d0ee0e48a16d142a5edd55e3907974d7d77307363ed60487b28",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
     {
       "uid": "mlb-822841@football-watchlist",
       "gameId": "822841",
@@ -9414,6 +9312,76 @@
       "sequence": 0
     },
     {
+      "uid": "soccer-401879223@football-watchlist",
+      "gameId": "401879223",
+      "soccerSeason": 2026,
+      "soccerLeague": "eng.1",
+      "soccerTeamIds": [
+        "349",
+        "331"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "domestic",
+      "soccerSelectionWeek": "2026-11-30",
+      "soccerSelectionReasons": [
+        "Both clubs are in the current top 6: AFC Bournemouth #5, Brighton & Hove Albion #2."
+      ],
+      "soccerSelectedOn": "2026-11-23",
+      "title": "AFC Bournemouth vs Brighton & Hove Albion - English Premier League [provisional]",
+      "start": "2026-12-02T20:15:00.000Z",
+      "end": "2026-12-02T22:15:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Both clubs are in the current top 6: AFC Bournemouth #5, Brighton & Hove Albion #2.\n\nSelection made 2026-11-23. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401879223",
+      "location": "Vitality Stadium",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401879223",
+      "categories": [
+        "Soccer",
+        "European pick",
+        "English Premier League"
+      ],
+      "hash": "fbc78103042ba69f02d0339cb40ef8a823774e59828003581fd3134bef1a4e73",
+      "created": "2026-11-23T10:55:00.230Z",
+      "modified": "2026-11-23T10:55:00.230Z",
+      "sequence": 0
+    },
+    {
+      "uid": "soccer-401882700@football-watchlist",
+      "gameId": "401882700",
+      "soccerSeason": 2026,
+      "soccerLeague": "esp.1",
+      "soccerTeamIds": [
+        "83",
+        "1068"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "domestic",
+      "soccerSelectionWeek": "2026-11-30",
+      "soccerSelectionReasons": [
+        "Both clubs are in the current top 6: Barcelona #1, Atlético Madrid #3.",
+        "Top-four meeting with 5 points separating the teams.",
+        "High-profile club matchup."
+      ],
+      "soccerSelectedOn": "2026-11-23",
+      "title": "Barcelona vs Atlético Madrid - Spanish LALIGA [provisional]",
+      "start": "2026-12-02T20:30:00.000Z",
+      "end": "2026-12-02T22:30:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Both clubs are in the current top 6: Barcelona #1, Atlético Madrid #3.\nTop-four meeting with 5 points separating the teams.\nHigh-profile club matchup.\n\nSelection made 2026-11-23. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401882700",
+      "location": "Spotify Camp Nou",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401882700",
+      "categories": [
+        "Soccer",
+        "European pick",
+        "Spanish LALIGA"
+      ],
+      "hash": "0644d6731d8fbd18d3d2ef4711b53de9b6cbbe03fb1e188d970399f945c9c6be",
+      "created": "2026-11-23T10:55:00.230Z",
+      "modified": "2026-11-23T10:55:00.230Z",
+      "sequence": 0
+    },
+    {
       "uid": "nhl-2026020451@football-watchlist",
       "gameId": "2026020451",
       "nhlSeason": 20262027,
@@ -9748,6 +9716,40 @@
       "sequence": 1
     },
     {
+      "uid": "soccer-401875023@football-watchlist",
+      "gameId": "401875023",
+      "soccerSeason": 2026,
+      "soccerLeague": "ita.1",
+      "soccerTeamIds": [
+        "4057",
+        "110"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "domestic",
+      "soccerSelectionWeek": "2026-11-30",
+      "soccerSelectionReasons": [
+        "A current top-three club faces a top-half opponent: Frosinone #7, Internazionale #3."
+      ],
+      "soccerSelectedOn": "2026-11-23",
+      "title": "Frosinone vs Internazionale - Italian Serie A [provisional]",
+      "start": "2026-12-05T17:00:00.000Z",
+      "end": "2026-12-05T19:00:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "A current top-three club faces a top-half opponent: Frosinone #7, Internazionale #3.\n\nSelection made 2026-11-23. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401875023",
+      "location": "Stadio Benito Stirpe",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401875023",
+      "categories": [
+        "Soccer",
+        "European pick",
+        "Italian Serie A"
+      ],
+      "hash": "eb083d10b512629a8992afdb2bde78ed660bb88ae8a49b6f2eed4fd059cdc5d3",
+      "created": "2026-11-23T10:55:00.230Z",
+      "modified": "2026-11-23T10:55:00.230Z",
+      "sequence": 0
+    },
+    {
       "uid": "soccer-401876385@football-watchlist",
       "gameId": "401876385",
       "soccerSeason": 2026,
@@ -9869,6 +9871,76 @@
       "sequence": 2
     },
     {
+      "uid": "soccer-401884711@football-watchlist",
+      "gameId": "401884711",
+      "soccerSeason": 2026,
+      "soccerLeague": "ger.1",
+      "soccerTeamIds": [
+        "133",
+        "124"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "domestic",
+      "soccerSelectionWeek": "2026-11-30",
+      "soccerSelectionReasons": [
+        "Major rivalry: Revierderby."
+      ],
+      "soccerSelectedOn": "2026-11-23",
+      "title": "Schalke 04 vs Borussia Dortmund - German Bundesliga [provisional]",
+      "start": "2026-12-06T14:30:00.000Z",
+      "end": "2026-12-06T16:30:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Major rivalry: Revierderby.\n\nSelection made 2026-11-23. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401884711",
+      "location": "Veltins Arena",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884711",
+      "categories": [
+        "Soccer",
+        "European pick",
+        "German Bundesliga"
+      ],
+      "hash": "e3e63cc3f1388271fed7f0e4aa51d35411796937f4990910fe6fbfcc877ec604",
+      "created": "2026-11-23T10:55:00.230Z",
+      "modified": "2026-11-23T10:55:00.230Z",
+      "sequence": 0
+    },
+    {
+      "uid": "soccer-401879209@football-watchlist",
+      "gameId": "401879209",
+      "soccerSeason": 2026,
+      "soccerLeague": "eng.1",
+      "soccerTeamIds": [
+        "367",
+        "359"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "domestic",
+      "soccerSelectionWeek": "2026-11-30",
+      "soccerSelectionReasons": [
+        "Major rivalry: North London derby.",
+        "A current top-three club faces a top-half opponent: Tottenham Hotspur #9, Arsenal #1.",
+        "High-profile club matchup."
+      ],
+      "soccerSelectedOn": "2026-11-23",
+      "title": "Tottenham Hotspur vs Arsenal - English Premier League [provisional]",
+      "start": "2026-12-06T16:30:00.000Z",
+      "end": "2026-12-06T18:30:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Major rivalry: North London derby.\nA current top-three club faces a top-half opponent: Tottenham Hotspur #9, Arsenal #1.\nHigh-profile club matchup.\n\nSelection made 2026-11-23. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401879209",
+      "location": "Tottenham Hotspur Stadium",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401879209",
+      "categories": [
+        "Soccer",
+        "European pick",
+        "English Premier League"
+      ],
+      "hash": "487a1640caf79dce7643f7aa86c8b19381cc954f396a3873e0f05345e5f70c49",
+      "created": "2026-11-23T10:55:00.230Z",
+      "modified": "2026-11-23T10:55:00.230Z",
+      "sequence": 0
+    },
+    {
       "uid": "redzone-2026-12-06@football-watchlist",
       "title": "NFL RedZone",
       "start": "2026-12-06T18:00:00.000Z",
@@ -9916,6 +9988,41 @@
       "created": "2026-10-01T07:37:11.478Z",
       "modified": "2026-11-19T22:16:39.496Z",
       "sequence": 1
+    },
+    {
+      "uid": "soccer-401882784@football-watchlist",
+      "gameId": "401882784",
+      "soccerSeason": 2026,
+      "soccerLeague": "esp.1",
+      "soccerTeamIds": [
+        "1068",
+        "244"
+      ],
+      "soccerFriendly": false,
+      "soccerSelectionKind": "domestic",
+      "soccerSelectionWeek": "2026-11-30",
+      "soccerSelectionReasons": [
+        "Both clubs are in the current top 6: Atlético Madrid #3, Real Betis #4.",
+        "Top-four meeting with 4 points separating the teams."
+      ],
+      "soccerSelectedOn": "2026-11-23",
+      "title": "Atlético Madrid vs Real Betis - Spanish LALIGA [provisional]",
+      "start": "2026-12-06T20:00:00.000Z",
+      "end": "2026-12-06T22:00:00.000Z",
+      "allDay": false,
+      "status": "TENTATIVE",
+      "description": "Both clubs are in the current top 6: Atlético Madrid #3, Real Betis #4.\nTop-four meeting with 4 points separating the teams.\n\nSelection made 2026-11-23. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401882784",
+      "location": "Riyadh Air Metropolitano",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401882784",
+      "categories": [
+        "Soccer",
+        "European pick",
+        "Spanish LALIGA"
+      ],
+      "hash": "3c24797083a1ecaa576d8246c7a1e20a59b0ddfe9a71b3fee113ef2b58260ff4",
+      "created": "2026-11-23T10:55:00.230Z",
+      "modified": "2026-11-23T10:55:00.230Z",
+      "sequence": 0
     },
     {
       "uid": "nfl-401873107@football-watchlist",
@@ -27769,7 +27876,7 @@
   "nflGames": 285,
   "collegeGames": 950,
   "baseball": {
-    "checkedOn": "2026-11-22",
+    "checkedOn": "2026-11-23",
     "season": 2026,
     "scheduleGames": 996,
     "followedRegularSeasons": {
@@ -27782,11 +27889,11 @@
         "139": 162
       }
     },
-    "events": 376,
+    "events": 373,
     "playoffEvents": 40
   },
   "hockey": {
-    "checkedOn": "2026-11-22",
+    "checkedOn": "2026-11-23",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -27803,7 +27910,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-11-22",
+    "checkedOn": "2026-11-23",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
@@ -27813,11 +27920,11 @@
     "events": 34
   },
   "soccer": {
-    "checkedOn": "2026-11-22",
+    "checkedOn": "2026-11-23",
     "season": 2026,
     "window": {
-      "start": "2026-11-16",
-      "end": "2026-11-30"
+      "start": "2026-11-23",
+      "end": "2026-12-07"
     },
     "sourceCounts": {
       "teams": {
@@ -27838,15 +27945,15 @@
         }
       },
       "leagues": {
-        "eng.1": 20,
-        "ita.1": 18,
-        "esp.1": 19,
+        "eng.1": 31,
+        "ita.1": 19,
+        "esp.1": 22,
         "ger.1": 18,
         "fra.1": 18,
         "uefa.champions": 18
       }
     },
-    "events": 147
+    "events": 153
   },
   "warnings": [
     "Big Noon: no unambiguous current announcement matched the game schedule; retaining verified announcements and TBA placeholders.",
