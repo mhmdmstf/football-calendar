@@ -7983,12 +7983,12 @@
         "High-profile club matchup."
       ],
       "soccerSelectedOn": "2026-11-16",
-      "title": "Arsenal vs Borussia Dortmund - UEFA Champions League [provisional]",
+      "title": "Arsenal vs Borussia Dortmund - UEFA Champions League",
       "start": "2026-11-24T20:00:00.000Z",
       "end": "2026-11-24T22:00:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Champions League watchlist: league phase; UEFA Champions League, League Phase.\nBoth clubs are in the current top 12: Arsenal #3, Borussia Dortmund #12.\nHigh-profile club matchup.\n\nSelection made 2026-11-16. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915295",
+      "status": "CONFIRMED",
+      "description": "Champions League watchlist: league phase; UEFA Champions League, League Phase.\nBoth clubs are in the current top 12: Arsenal #3, Borussia Dortmund #12.\nHigh-profile club matchup.\n\nSelection made 2026-11-16. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915295",
       "location": "Emirates Stadium",
       "url": "https://www.espn.com/soccer/match/_/gameId/401915295",
       "categories": [
@@ -7996,10 +7996,10 @@
         "European pick",
         "UEFA Champions League"
       ],
-      "hash": "5244a8ccddaac6993d1b1c241a2446bae89b54b0728dea79b92379432a61af4a",
+      "hash": "0c0356a9beaa109bd3ee929f2b2f4b291a09b0b4f5e6decdb808694e000f158f",
       "created": "2026-11-16T00:01:34.631Z",
-      "modified": "2026-11-16T00:01:34.631Z",
-      "sequence": 0
+      "modified": "2026-11-24T23:31:22.792Z",
+      "sequence": 1
     },
     {
       "uid": "soccer-401915296@football-watchlist",
@@ -8017,12 +8017,12 @@
         "Following Como: every competitive fixture."
       ],
       "soccerSelectedOn": "2026-10-26",
-      "title": "Como vs AEK Athens - UEFA Champions League [provisional]",
+      "title": "Como vs AEK Athens - UEFA Champions League",
       "start": "2026-11-24T20:00:00.000Z",
       "end": "2026-11-24T22:00:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Following Como: every competitive fixture.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915296",
+      "status": "CONFIRMED",
+      "description": "Following Como: every competitive fixture.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915296",
       "location": "Giuseppe Sinigaglia",
       "url": "https://www.espn.com/soccer/match/_/gameId/401915296",
       "categories": [
@@ -8030,10 +8030,10 @@
         "Followed team",
         "UEFA Champions League"
       ],
-      "hash": "ca42e03b543a03717826d5a53fd5a536466420c8ae430bc674eaa78bc7de6b26",
+      "hash": "4bc0d236e02d27a85e3c08370e560b267f9863b2626cd2175e768457447ee25a",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-24T23:31:22.792Z",
+      "sequence": 1
     },
     {
       "uid": "soccer-401915299@football-watchlist",
@@ -8051,12 +8051,12 @@
         "Following RC Lens: every competitive fixture."
       ],
       "soccerSelectedOn": "2026-10-26",
-      "title": "RB Leipzig vs Lens - UEFA Champions League [provisional]",
+      "title": "RB Leipzig vs Lens - UEFA Champions League",
       "start": "2026-11-24T20:00:00.000Z",
       "end": "2026-11-24T22:00:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Following RC Lens: every competitive fixture.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915299",
+      "status": "CONFIRMED",
+      "description": "Following RC Lens: every competitive fixture.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915299",
       "location": "Red Bull Arena",
       "url": "https://www.espn.com/soccer/match/_/gameId/401915299",
       "categories": [
@@ -8064,10 +8064,10 @@
         "Followed team",
         "UEFA Champions League"
       ],
-      "hash": "8632080cb4bb2efa4c62213a0a7b3e6f0ffaee0f1762b53eb269707467edcdb8",
+      "hash": "a7c4e623ffbc98bc4c8bdcd391b983b83013419c178ce55e082e638c81dcab7f",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-24T23:31:22.792Z",
+      "sequence": 1
     },
     {
       "uid": "soccer-401915379@football-watchlist",
@@ -8087,12 +8087,12 @@
         "High-profile club matchup."
       ],
       "soccerSelectedOn": "2026-11-16",
-      "title": "Manchester City vs Napoli - UEFA Champions League [provisional]",
+      "title": "Manchester City vs Napoli - UEFA Champions League",
       "start": "2026-11-24T20:00:00.000Z",
       "end": "2026-11-24T22:00:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Champions League watchlist: league phase; UEFA Champions League, League Phase.\nChampions League table: Manchester City #7, Napoli #27.\nHigh-profile club matchup.\n\nSelection made 2026-11-16. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915379",
+      "status": "CONFIRMED",
+      "description": "Champions League watchlist: league phase; UEFA Champions League, League Phase.\nChampions League table: Manchester City #7, Napoli #27.\nHigh-profile club matchup.\n\nSelection made 2026-11-16. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915379",
       "location": "Etihad Stadium",
       "url": "https://www.espn.com/soccer/match/_/gameId/401915379",
       "categories": [
@@ -8100,10 +8100,10 @@
         "European pick",
         "UEFA Champions League"
       ],
-      "hash": "731ed0e00462587628017837e7d1b75ac683bfea5624973dfd079ca9ab1c6056",
+      "hash": "9c56bcba843a6f4509da92b5881ef4877d9181ce1094924a55356c9c03e3a8b5",
       "created": "2026-11-16T00:01:34.631Z",
-      "modified": "2026-11-16T00:01:34.631Z",
-      "sequence": 0
+      "modified": "2026-11-24T23:31:22.792Z",
+      "sequence": 1
     },
     {
       "uid": "soccer-401915292@football-watchlist",

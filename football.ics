@@ -6071,90 +6071,83 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401915295@football-watchlist
-DTSTAMP:20261116T000134Z
+DTSTAMP:20261124T233122Z
 CREATED:20261116T000134Z
-LAST-MODIFIED:20261116T000134Z
-SEQUENCE:0
+LAST-MODIFIED:20261124T233122Z
+SEQUENCE:1
 DTSTART:20261124T200000Z
 DTEND:20261124T220000Z
-SUMMARY:Arsenal vs Borussia Dortmund - UEFA Champions League [provisional]
+SUMMARY:Arsenal vs Borussia Dortmund - UEFA Champions League
 DESCRIPTION:Champions League watchlist: league phase\; UEFA Champions Leagu
  e\, League Phase.\nBoth clubs are in the current top 12: Arsenal #3\, Boru
  ssia Dortmund #12.\nHigh-profile club matchup.\n\nSelection made 2026-11-1
  6. Table positions describe that snapshot\, not predicted results. Picks a
- re kept once added.\n\nProvisional source-listed date and kickoff. ESPN do
- es not reliably distinguish TV-confirmed dates from provisional fixtures\;
-  both may change. The calendar updates when the schedule changes.\n\nViewi
- ng window: 2 hours\; finish is approximate.\n\nSchedule: https://www.espn.
- com/soccer/match/_/gameId/401915295
+ re kept once added.\n\nKickoff shown in your calendar’s local time.\n\nV
+ iewing window: 2 hours\; finish is approximate.\n\nSchedule: https://www.e
+ spn.com/soccer/match/_/gameId/401915295
 LOCATION:Emirates Stadium
 URL:https://www.espn.com/soccer/match/_/gameId/401915295
 CATEGORIES:Soccer,European pick,UEFA Champions League
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401915296@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261124T233122Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
+LAST-MODIFIED:20261124T233122Z
+SEQUENCE:1
 DTSTART:20261124T200000Z
 DTEND:20261124T220000Z
-SUMMARY:Como vs AEK Athens - UEFA Champions League [provisional]
-DESCRIPTION:Following Como: every competitive fixture.\n\nProvisional sourc
- e-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed
-  dates from provisional fixtures\; both may change. The calendar updates w
- hen the schedule changes.\n\nViewing window: 2 hours\; finish is approxima
- te.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915296
+SUMMARY:Como vs AEK Athens - UEFA Champions League
+DESCRIPTION:Following Como: every competitive fixture.\n\nKickoff shown in 
+ your calendar’s local time.\n\nViewing window: 2 hours\; finish is appro
+ ximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915296
 LOCATION:Giuseppe Sinigaglia
 URL:https://www.espn.com/soccer/match/_/gameId/401915296
 CATEGORIES:Soccer,Followed team,UEFA Champions League
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401915299@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261124T233122Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
+LAST-MODIFIED:20261124T233122Z
+SEQUENCE:1
 DTSTART:20261124T200000Z
 DTEND:20261124T220000Z
-SUMMARY:RB Leipzig vs Lens - UEFA Champions League [provisional]
-DESCRIPTION:Following RC Lens: every competitive fixture.\n\nProvisional so
- urce-listed date and kickoff. ESPN does not reliably distinguish TV-confir
- med dates from provisional fixtures\; both may change. The calendar update
- s when the schedule changes.\n\nViewing window: 2 hours\; finish is approx
- imate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915299
+SUMMARY:RB Leipzig vs Lens - UEFA Champions League
+DESCRIPTION:Following RC Lens: every competitive fixture.\n\nKickoff shown 
+ in your calendar’s local time.\n\nViewing window: 2 hours\; finish is ap
+ proximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/4019152
+ 99
 LOCATION:Red Bull Arena
 URL:https://www.espn.com/soccer/match/_/gameId/401915299
 CATEGORIES:Soccer,Followed team,UEFA Champions League
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401915379@football-watchlist
-DTSTAMP:20261116T000134Z
+DTSTAMP:20261124T233122Z
 CREATED:20261116T000134Z
-LAST-MODIFIED:20261116T000134Z
-SEQUENCE:0
+LAST-MODIFIED:20261124T233122Z
+SEQUENCE:1
 DTSTART:20261124T200000Z
 DTEND:20261124T220000Z
-SUMMARY:Manchester City vs Napoli - UEFA Champions League [provisional]
+SUMMARY:Manchester City vs Napoli - UEFA Champions League
 DESCRIPTION:Champions League watchlist: league phase\; UEFA Champions Leagu
  e\, League Phase.\nChampions League table: Manchester City #7\, Napoli #27
  .\nHigh-profile club matchup.\n\nSelection made 2026-11-16. Table position
  s describe that snapshot\, not predicted results. Picks are kept once adde
- d.\n\nProvisional source-listed date and kickoff. ESPN does not reliably d
- istinguish TV-confirmed dates from provisional fixtures\; both may change.
-  The calendar updates when the schedule changes.\n\nViewing window: 2 hour
- s\; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/
- _/gameId/401915379
+ d.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 
+ hours\; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/ma
+ tch/_/gameId/401915379
 LOCATION:Etihad Stadium
 URL:https://www.espn.com/soccer/match/_/gameId/401915379
 CATEGORIES:Soccer,European pick,UEFA Champions League
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
