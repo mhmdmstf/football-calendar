@@ -8,68 +8,6 @@ X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:mlb-822841@football-watchlist
-DTSTAMP:20261117T105111Z
-CREATED:20260923T075004Z
-LAST-MODIFIED:20261117T105111Z
-SEQUENCE:4
-DTSTART:20260924T000500Z
-DTEND:20260924T030500Z
-SUMMARY:MLB: New York Mets at Texas Rangers
-DESCRIPTION:Texas Rangers: tied for the division lead.\nTexas Rangers: 3 ga
- mes behind the final wild-card spot.\nFollowing New York Mets.\nStandings 
- snapshot: 2026-09-23.\n\nViewing window: 3 hours\; finish is approximate.\
- n\nProbable pitchers (subject to change): Nolan McLean / Cody Bradford.\n\
- nListed broadcasts: SNY / Rangers Sports Network\, presented by Progressiv
- e. Availability varies by country and provider.\n\nOfficial schedule: http
- s://www.mlb.com/gameday/822841
-LOCATION:Globe Life Field
-URL:https://www.mlb.com/gameday/822841
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-822842@football-watchlist
-DTSTAMP:20261117T105111Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261117T105111Z
-SEQUENCE:2
-DTSTART:20260924T183500Z
-DTEND:20260924T213500Z
-SUMMARY:MLB: New York Mets at Texas Rangers
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
- window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to 
- change): Zac Thornton / Kumar Rocker.\n\nListed broadcasts: SNY / Rangers 
- Sports Network\, presented by Progressive. Availability varies by country 
- and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822842
-LOCATION:Globe Life Field
-URL:https://www.mlb.com/gameday/822842
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-823493@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260924T230500Z
-DTEND:20260925T020500Z
-SUMMARY:MLB: Tampa Bay Rays at New York Yankees
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
-  window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to
-  change): Ian Seymour / Cam Schlittler.\n\nListed broadcasts: YES / Rays.T
- V. Availability varies by country and provider.\n\nOfficial schedule: http
- s://www.mlb.com/gameday/823493
-LOCATION:Yankee Stadium
-URL:https://www.mlb.com/gameday/823493
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:nfl-401872948@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T144637Z
@@ -6093,19 +6031,20 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401873078@football-watchlist
-DTSTAMP:20261124T014338Z
+DTSTAMP:20261124T123825Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20261124T014338Z
-SEQUENCE:2
+LAST-MODIFIED:20261124T123825Z
+SEQUENCE:3
 DTSTART:20261124T011500Z
 DTEND:20261124T044500Z
 SUMMARY:NFL: Cincinnati Bengals at Washington Commanders
 DESCRIPTION:Monday Night Football.\n\nTeams: Cincinnati Bengals at Washingt
  on Commanders\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nVie
  wing window: 3.5 hours (4 hours for championships)\; finish is approximate
- .\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873078
+ .\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873078/bengals-co
+ mmanders
 LOCATION:Northwest Stadium\, Landover\, MD\, USA
-URL:https://www.espn.com/nfl/game/_/gameId/401873078
+URL:https://www.espn.com/nfl/game/_/gameId/401873078/bengals-commanders
 CATEGORIES:NFL
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -6719,18 +6658,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856757@football-watchlist
-DTSTAMP:20261122T095536Z
+DTSTAMP:20261124T123825Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20261122T095536Z
-SEQUENCE:2
+LAST-MODIFIED:20261124T123825Z
+SEQUENCE:3
 DTSTART:20261129T003000Z
 DTEND:20261129T040000Z
 SUMMARY:CFB: Auburn at Alabama
 DESCRIPTION:Following Alabama: every game.\nMajor rivalry: Iron Bowl.\n\nTe
- ams: Auburn Tigers at Alabama Crimson Tide\n\nUS broadcast: ABC. Availabil
- ity elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championsh
- ips)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-fo
- otball/game/_/gameId/401856757/auburn-alabama
+ ams: Auburn Tigers at Alabama Crimson Tide\n\nUS broadcast: ABC / Disney+.
+  Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for 
+ championships)\; finish is approximate.\n\nSchedule: https://www.espn.com/
+ college-football/game/_/gameId/401856757/auburn-alabama
 LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856757/auburn-al
  abama

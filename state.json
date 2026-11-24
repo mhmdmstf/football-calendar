@@ -1,109 +1,7 @@
 {
-  "checkedOn": "2026-11-23",
+  "checkedOn": "2026-11-24",
   "season": 2026,
   "events": [
-    {
-      "uid": "mlb-822841@football-watchlist",
-      "gameId": "822841",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/121:51/140:51",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "121",
-        "140"
-      ],
-      "selectionReasons": [
-        "Texas Rangers: tied for the division lead.",
-        "Texas Rangers: 3 games behind the final wild-card spot.",
-        "Following New York Mets.",
-        "Standings snapshot: 2026-09-23."
-      ],
-      "title": "MLB: New York Mets at Texas Rangers",
-      "start": "2026-09-24T00:05:00.000Z",
-      "end": "2026-09-24T03:05:00.000Z",
-      "allDay": false,
-      "description": "Texas Rangers: tied for the division lead.\nTexas Rangers: 3 games behind the final wild-card spot.\nFollowing New York Mets.\nStandings snapshot: 2026-09-23.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nolan McLean / Cody Bradford.\n\nListed broadcasts: SNY / Rangers Sports Network, presented by Progressive. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822841",
-      "location": "Globe Life Field",
-      "url": "https://www.mlb.com/gameday/822841",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "2297e98b8df7be7cbc6eb3943d10656b7823940fab69af7eaa738c6b073475aa",
-      "created": "2026-09-23T07:50:04.909Z",
-      "modified": "2026-11-17T10:51:11.781Z",
-      "sequence": 4
-    },
-    {
-      "uid": "mlb-822842@football-watchlist",
-      "gameId": "822842",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/121:51/140:51",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "121",
-        "140"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: New York Mets at Texas Rangers",
-      "start": "2026-09-24T18:35:00.000Z",
-      "end": "2026-09-24T21:35:00.000Z",
-      "allDay": false,
-      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Zac Thornton / Kumar Rocker.\n\nListed broadcasts: SNY / Rangers Sports Network, presented by Progressive. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822842",
-      "location": "Globe Life Field",
-      "url": "https://www.mlb.com/gameday/822842",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "8bfb110546166117dd596a19b63bbb3e12d164f7ac9b5886def75675f27b9ee7",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-11-17T10:51:11.781Z",
-      "sequence": 2
-    },
-    {
-      "uid": "mlb-823493@football-watchlist",
-      "gameId": "823493",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/139:51/147:51",
-      "mlbSeriesGameNumber": 4,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "147"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Tampa Bay Rays at New York Yankees",
-      "start": "2026-09-24T23:05:00.000Z",
-      "end": "2026-09-25T02:05:00.000Z",
-      "allDay": false,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Ian Seymour / Cam Schlittler.\n\nListed broadcasts: YES / Rays.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823493",
-      "location": "Yankee Stadium",
-      "url": "https://www.mlb.com/gameday/823493",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "7c7a175b73f5aa1f150247cce48ffe045c32c7f73766e4645f18b20a5d6b9964",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
     {
       "uid": "nfl-401872948@football-watchlist",
       "gameId": "401872948",
@@ -8025,17 +7923,17 @@
       "start": "2026-11-24T01:15:00.000Z",
       "end": "2026-11-24T04:45:00.000Z",
       "allDay": false,
-      "description": "Monday Night Football.\n\nTeams: Cincinnati Bengals at Washington Commanders\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873078",
+      "description": "Monday Night Football.\n\nTeams: Cincinnati Bengals at Washington Commanders\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873078/bengals-commanders",
       "location": "Northwest Stadium, Landover, MD, USA",
-      "url": "https://www.espn.com/nfl/game/_/gameId/401873078",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873078/bengals-commanders",
       "status": "CONFIRMED",
       "categories": [
         "NFL"
       ],
-      "hash": "ab7f4485b85dd192e208202af811f63a1343d42bb545244f2b397ea22c9a54f6",
+      "hash": "c431dc3c2155727f91aad83be2480364030a92a195a027d107169676bc083ae5",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-11-24T01:43:38.344Z",
-      "sequence": 2
+      "modified": "2026-11-24T12:38:25.547Z",
+      "sequence": 3
     },
     {
       "uid": "nhl-2026020384@football-watchlist",
@@ -8798,7 +8696,7 @@
       "start": "2026-11-29T00:30:00.000Z",
       "end": "2026-11-29T04:00:00.000Z",
       "allDay": false,
-      "description": "Following Alabama: every game.\nMajor rivalry: Iron Bowl.\n\nTeams: Auburn Tigers at Alabama Crimson Tide\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856757/auburn-alabama",
+      "description": "Following Alabama: every game.\nMajor rivalry: Iron Bowl.\n\nTeams: Auburn Tigers at Alabama Crimson Tide\n\nUS broadcast: ABC / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856757/auburn-alabama",
       "location": "Bryant-Denny Stadium, Tuscaloosa, AL, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856757/auburn-alabama",
       "status": "CONFIRMED",
@@ -8806,10 +8704,10 @@
         "College",
         "Alabama"
       ],
-      "hash": "45fab5856a5f7d525403194a2e51106d3089370310a9174b0cf6ba3c63bb1c92",
+      "hash": "47aaa16431b0b3786c0b1a3e27897c51b60f3f92bf687ebbc9fc20bc992331d2",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-11-22T09:55:36.511Z",
-      "sequence": 2
+      "modified": "2026-11-24T12:38:25.547Z",
+      "sequence": 3
     },
     {
       "uid": "college-football-401858541@football-watchlist",
@@ -27876,7 +27774,7 @@
   "nflGames": 285,
   "collegeGames": 950,
   "baseball": {
-    "checkedOn": "2026-11-23",
+    "checkedOn": "2026-11-24",
     "season": 2026,
     "scheduleGames": 996,
     "followedRegularSeasons": {
@@ -27889,11 +27787,11 @@
         "139": 162
       }
     },
-    "events": 373,
+    "events": 370,
     "playoffEvents": 40
   },
   "hockey": {
-    "checkedOn": "2026-11-23",
+    "checkedOn": "2026-11-24",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -27910,7 +27808,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-11-23",
+    "checkedOn": "2026-11-24",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
@@ -27920,7 +27818,7 @@
     "events": 34
   },
   "soccer": {
-    "checkedOn": "2026-11-23",
+    "checkedOn": "2026-11-24",
     "season": 2026,
     "window": {
       "start": "2026-11-23",
