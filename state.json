@@ -8025,17 +8025,17 @@
       "start": "2026-11-24T01:15:00.000Z",
       "end": "2026-11-24T04:45:00.000Z",
       "allDay": false,
-      "description": "Monday Night Football.\n\nTeams: Cincinnati Bengals at Washington Commanders\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873078/bengals-commanders",
+      "description": "Monday Night Football.\n\nTeams: Cincinnati Bengals at Washington Commanders\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873078",
       "location": "Northwest Stadium, Landover, MD, USA",
-      "url": "https://www.espn.com/nfl/game/_/gameId/401873078/bengals-commanders",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873078",
       "status": "CONFIRMED",
       "categories": [
         "NFL"
       ],
-      "hash": "c431dc3c2155727f91aad83be2480364030a92a195a027d107169676bc083ae5",
+      "hash": "ab7f4485b85dd192e208202af811f63a1343d42bb545244f2b397ea22c9a54f6",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 1
+      "modified": "2026-11-24T01:43:38.344Z",
+      "sequence": 2
     },
     {
       "uid": "nhl-2026020384@football-watchlist",
@@ -8600,17 +8600,17 @@
       "start": "2026-11-28T00:30:00.000Z",
       "end": "2026-11-28T04:00:00.000Z",
       "allDay": false,
-      "description": "Major rivalry: Texas-Texas A&M.\n\nTeams: Texas Longhorns at Texas A&M Aggies\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856756/texas-texas-am",
+      "description": "Major rivalry: Texas-Texas A&M.\n\nTeams: Texas Longhorns at Texas A&M Aggies\n\nUS broadcast: ABC / ERADM. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856756/texas-texas-am",
       "location": "Kyle Field, College Station, TX, USA",
       "url": "https://www.espn.com/college-football/game/_/gameId/401856756/texas-texas-am",
       "status": "CONFIRMED",
       "categories": [
         "College"
       ],
-      "hash": "b7d0d4e250bdb232c8fe82a9a818219d63eb8ba2cfd6937d66a8bafe314f40ab",
+      "hash": "b1b9ff6f42ba7552ee4ecdeff804dbd369072484c7cff5fe4291fbad38d0eafe",
       "created": "2026-09-05T14:52:08.096Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 0
+      "modified": "2026-11-24T01:43:38.344Z",
+      "sequence": 1
     },
     {
       "uid": "show-bignoon-2026-11-28@football-watchlist",
@@ -8620,17 +8620,17 @@
       "end": "2026-11-28T17:00:00.000Z",
       "allDay": false,
       "status": "CONFIRMED",
-      "description": "Big Noon Kickoff on FOX. Featured game: Ohio State vs. Michigan. Broadcast window: 9:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://www.foxsports.com/stories/presspass/fox-sports-unveils-powerhouse-2026-college-football-schedule",
+      "description": "Big Noon Kickoff on FOX. Featured game: Ohio State vs. Michigan. Broadcast window: 9:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://www.foxsports.com/big-noon-kickoff-experience",
       "location": "Columbus, Ohio",
-      "url": "https://www.foxsports.com/stories/presspass/fox-sports-unveils-powerhouse-2026-college-football-schedule",
+      "url": "https://www.foxsports.com/big-noon-kickoff-experience",
       "categories": [
         "College",
         "Pregame"
       ],
-      "hash": "3382d8acac7ed9b9295e7540448505b22b60b3be59fd9222b5d5c00b66426bf3",
+      "hash": "c5a5d7d52b554b1df418d71603425619d9b3d38c665491fb68be4e4279359ad0",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 1
+      "modified": "2026-11-24T01:43:38.344Z",
+      "sequence": 2
     },
     {
       "uid": "show-gameday-2026-11-28@football-watchlist",
@@ -16892,39 +16892,6 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-853067@football-watchlist",
-      "gameId": "853067",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/113:4/121:4",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "113",
-        "121"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: Cincinnati Reds at New York Mets [time TBA]",
-      "start": "2027-04-07",
-      "end": "2027-04-08",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853067",
-      "location": "Citi Field",
-      "url": "https://www.mlb.com/gameday/853067",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "3290517973911b6856f2bd3e8c834d6b0a9adf08658c43183621570ebe4701a2",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "mlb-852327@football-watchlist",
       "gameId": "852327",
       "mlbSeason": 2027,
@@ -16958,6 +16925,39 @@
       "sequence": 1
     },
     {
+      "uid": "mlb-853067@football-watchlist",
+      "gameId": "853067",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/113:4/121:4",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "113",
+        "121"
+      ],
+      "selectionReasons": [
+        "Following New York Mets: every regular-season game."
+      ],
+      "title": "MLB: Cincinnati Reds at New York Mets",
+      "start": "2027-04-07T17:10:00.000Z",
+      "end": "2027-04-07T20:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853067",
+      "location": "Citi Field",
+      "url": "https://www.mlb.com/gameday/853067",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "New York Mets"
+      ],
+      "hash": "855585fc17731cc565867934871784b5cf643c2097ebd8ccaf0dcef47f69e9c2",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-24T01:43:38.344Z",
+      "sequence": 1
+    },
+    {
       "uid": "nhl-2026021313@football-watchlist",
       "gameId": "2026021313",
       "nhlSeason": 20262027,
@@ -16985,39 +16985,6 @@
       "hash": "c4f6f878c2a4895b0e245a3452f4ebb48a809129da2d0e1f52c5711a3d9c1f50",
       "created": "2026-10-01T07:37:11.478Z",
       "modified": "2026-10-01T07:37:11.478Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-853062@football-watchlist",
-      "gameId": "853062",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/113:4/121:4",
-      "mlbSeriesGameNumber": 4,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "113",
-        "121"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: Cincinnati Reds at New York Mets [time TBA]",
-      "start": "2027-04-08",
-      "end": "2027-04-09",
-      "allDay": true,
-      "description": "Following New York Mets: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853062",
-      "location": "Citi Field",
-      "url": "https://www.mlb.com/gameday/853062",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "524777efde1bd90f447a8bc7622c2c12746bb6d7e400468e443aecd462905791",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
     },
     {
@@ -17084,6 +17051,39 @@
       "hash": "44da60ec616862b9a01a1db3e1775eae062733c62ccc0345b66a0a8e1ea7048f",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-11-04T20:51:01.102Z",
+      "sequence": 1
+    },
+    {
+      "uid": "mlb-853062@football-watchlist",
+      "gameId": "853062",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/113:4/121:4",
+      "mlbSeriesGameNumber": 4,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "113",
+        "121"
+      ],
+      "selectionReasons": [
+        "Following New York Mets: every regular-season game."
+      ],
+      "title": "MLB: Cincinnati Reds at New York Mets",
+      "start": "2027-04-08T20:10:00.000Z",
+      "end": "2027-04-08T23:10:00.000Z",
+      "allDay": false,
+      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/853062",
+      "location": "Citi Field",
+      "url": "https://www.mlb.com/gameday/853062",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "New York Mets"
+      ],
+      "hash": "83b833f9dd9a59b0bc062c1429b4cc6430ae0123e589464d7d49a7f0e60e2c3a",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-24T01:43:38.344Z",
       "sequence": 1
     },
     {
@@ -27956,7 +27956,6 @@
     "events": 153
   },
   "warnings": [
-    "Big Noon: no unambiguous current announcement matched the game schedule; retaining verified announcements and TBA placeholders.",
     "College GameDay: no unambiguous current announcement matched the game schedule; retaining verified announcements and TBA placeholders."
   ]
 }

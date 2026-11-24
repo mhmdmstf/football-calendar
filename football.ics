@@ -6093,20 +6093,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401873078@football-watchlist
-DTSTAMP:20260905T145208Z
+DTSTAMP:20261124T014338Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:1
+LAST-MODIFIED:20261124T014338Z
+SEQUENCE:2
 DTSTART:20261124T011500Z
 DTEND:20261124T044500Z
 SUMMARY:NFL: Cincinnati Bengals at Washington Commanders
 DESCRIPTION:Monday Night Football.\n\nTeams: Cincinnati Bengals at Washingt
  on Commanders\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nVie
  wing window: 3.5 hours (4 hours for championships)\; finish is approximate
- .\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873078/bengals-co
- mmanders
+ .\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873078
 LOCATION:Northwest Stadium\, Landover\, MD\, USA
-URL:https://www.espn.com/nfl/game/_/gameId/401873078/bengals-commanders
+URL:https://www.espn.com/nfl/game/_/gameId/401873078
 CATEGORIES:NFL
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -6539,18 +6538,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856756@football-watchlist
-DTSTAMP:20260905T145208Z
+DTSTAMP:20261124T014338Z
 CREATED:20260905T145208Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:0
+LAST-MODIFIED:20261124T014338Z
+SEQUENCE:1
 DTSTART:20261128T003000Z
 DTEND:20261128T040000Z
 SUMMARY:CFB: Texas at Texas A&M
 DESCRIPTION:Major rivalry: Texas-Texas A&M.\n\nTeams: Texas Longhorns at Te
- xas A&M Aggies\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nVie
- wing window: 3.5 hours (4 hours for championships)\; finish is approximate
- .\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/4018567
- 56/texas-texas-am
+ xas A&M Aggies\n\nUS broadcast: ABC / ERADM. Availability elsewhere varies
+ .\n\nViewing window: 3.5 hours (4 hours for championships)\; finish is app
+ roximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId
+ /401856756/texas-texas-am
 LOCATION:Kyle Field\, College Station\, TX\, USA
 URL:https://www.espn.com/college-football/game/_/gameId/401856756/texas-tex
  as-am
@@ -6560,20 +6559,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:show-bignoon-2026-11-28@football-watchlist
-DTSTAMP:20260905T145208Z
+DTSTAMP:20261124T014338Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:1
+LAST-MODIFIED:20261124T014338Z
+SEQUENCE:2
 DTSTART:20261128T140000Z
 DTEND:20261128T170000Z
 SUMMARY:Big Noon Kickoff: Columbus\, Ohio
 DESCRIPTION:Big Noon Kickoff on FOX. Featured game: Ohio State vs. Michigan
  . Broadcast window: 9:00 a.m. to noon Eastern. Broadcast schedules can cha
- nge.\nSource: https://www.foxsports.com/stories/presspass/fox-sports-unvei
- ls-powerhouse-2026-college-football-schedule
+ nge.\nSource: https://www.foxsports.com/big-noon-kickoff-experience
 LOCATION:Columbus\, Ohio
-URL:https://www.foxsports.com/stories/presspass/fox-sports-unveils-powerhou
- se-2026-college-football-schedule
+URL:https://www.foxsports.com/big-noon-kickoff-experience
 CATEGORIES:College,Pregame
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -12441,25 +12438,6 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-853067@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270407
-DTEND;VALUE=DATE:20270408
-SUMMARY:MLB: Cincinnati Reds at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853067
-LOCATION:Citi Field
-URL:https://www.mlb.com/gameday/853067
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-852327@football-watchlist
 DTSTAMP:20261104T205101Z
 CREATED:20261026T100606Z
@@ -12474,6 +12452,24 @@ DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
 LOCATION:Globe Life Field
 URL:https://www.mlb.com/gameday/852327
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-853067@football-watchlist
+DTSTAMP:20261124T014338Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261124T014338Z
+SEQUENCE:1
+DTSTART:20270407T171000Z
+DTEND:20270407T201000Z
+SUMMARY:MLB: Cincinnati Reds at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853067
+LOCATION:Citi Field
+URL:https://www.mlb.com/gameday/853067
+CATEGORIES:MLB,Followed team,New York Mets
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -12496,25 +12492,6 @@ URL:https://www.nhl.com/gamecenter/ott-vs-car/2027/04/07/2026021313
 CATEGORIES:NHL,Regular season,Carolina Hurricanes
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-853062@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270408
-DTEND;VALUE=DATE:20270409
-SUMMARY:MLB: Cincinnati Reds at New York Mets [time TBA]
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nFirst pi
- tch has not been announced. This all-day marker will become a timed event 
- when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https:
- //www.mlb.com/gameday/853062
-LOCATION:Citi Field
-URL:https://www.mlb.com/gameday/853062
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852326@football-watchlist
@@ -12549,6 +12526,24 @@ DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
 LOCATION:Globe Life Field
 URL:https://www.mlb.com/gameday/852325
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-853062@football-watchlist
+DTSTAMP:20261124T014338Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261124T014338Z
+SEQUENCE:1
+DTSTART:20270408T201000Z
+DTEND:20270408T231000Z
+SUMMARY:MLB: Cincinnati Reds at New York Mets
+DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
+ window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\n
+ Official schedule: https://www.mlb.com/gameday/853062
+LOCATION:Citi Field
+URL:https://www.mlb.com/gameday/853062
+CATEGORIES:MLB,Followed team,New York Mets
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
