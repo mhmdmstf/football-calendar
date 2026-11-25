@@ -8000,12 +8000,12 @@
         "Both clubs are in the current top 12: Club Brugge #9, Liverpool #8."
       ],
       "soccerSelectedOn": "2026-11-16",
-      "title": "Club Brugge vs Liverpool - UEFA Champions League [provisional]",
+      "title": "Club Brugge vs Liverpool - UEFA Champions League",
       "start": "2026-11-25T20:00:00.000Z",
       "end": "2026-11-25T22:00:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Champions League watchlist: league phase; UEFA Champions League, League Phase.\nBoth clubs are in the current top 12: Club Brugge #9, Liverpool #8.\n\nSelection made 2026-11-16. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915292",
+      "status": "CONFIRMED",
+      "description": "Champions League watchlist: league phase; UEFA Champions League, League Phase.\nBoth clubs are in the current top 12: Club Brugge #9, Liverpool #8.\n\nSelection made 2026-11-16. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915292",
       "location": "Jan Breydel Stadium",
       "url": "https://www.espn.com/soccer/match/_/gameId/401915292",
       "categories": [
@@ -8013,10 +8013,10 @@
         "European pick",
         "UEFA Champions League"
       ],
-      "hash": "6bb58f802a5e8d308133d836da363fb496323bf60ecc078eb4e0fe45e2ea4332",
+      "hash": "1567e4d7ce158e3ab9bc3d8c4d9fc57a1ad7065267a5eca2df4336430bdcb9f1",
       "created": "2026-11-16T00:01:34.631Z",
-      "modified": "2026-11-16T00:01:34.631Z",
-      "sequence": 0
+      "modified": "2026-11-25T23:09:35.347Z",
+      "sequence": 1
     },
     {
       "uid": "soccer-401915373@football-watchlist",
@@ -8036,12 +8036,12 @@
         "High-profile club matchup."
       ],
       "soccerSelectedOn": "2026-11-16",
-      "title": "Sporting CP vs Manchester United - UEFA Champions League [provisional]",
+      "title": "Sporting CP vs Manchester United - UEFA Champions League",
       "start": "2026-11-25T20:00:00.000Z",
       "end": "2026-11-25T22:00:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Champions League watchlist: league phase; UEFA Champions League, League Phase.\nChampions League table: Sporting CP #10, Manchester United #17.\nHigh-profile club matchup.\n\nSelection made 2026-11-16. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915373",
+      "status": "CONFIRMED",
+      "description": "Champions League watchlist: league phase; UEFA Champions League, League Phase.\nChampions League table: Sporting CP #10, Manchester United #17.\nHigh-profile club matchup.\n\nSelection made 2026-11-16. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915373",
       "location": "Estádio José Alvalade",
       "url": "https://www.espn.com/soccer/match/_/gameId/401915373",
       "categories": [
@@ -8049,10 +8049,10 @@
         "European pick",
         "UEFA Champions League"
       ],
-      "hash": "76d2b6a93a36cfe35ec35cd201305052a6542579e0383cc4f5098376fe7e9713",
+      "hash": "757a4838b2269c4bfd1fcebc1872efb41f362bc81cb32381fba8e4319336ca21",
       "created": "2026-11-16T00:01:34.631Z",
-      "modified": "2026-11-16T00:01:34.631Z",
-      "sequence": 0
+      "modified": "2026-11-25T23:09:35.347Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026020388@football-watchlist",
@@ -18599,23 +18599,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Tampa Bay Rays at Toronto Blue Jays [time TBA]",
-      "start": "2027-04-30",
-      "end": "2027-05-01",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852252",
+      "title": "MLB: Tampa Bay Rays at Toronto Blue Jays",
+      "start": "2027-04-30T23:07:00.000Z",
+      "end": "2027-05-01T02:07:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852252",
       "location": "Rogers Centre",
       "url": "https://www.mlb.com/gameday/852252",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "cd3c9324bb268fca1f97764b239ec95a6ad69b76d4619575661b136befdb6629",
+      "hash": "1ec32df72985825028f50b0cda54ad910d95f616d125b7028abda1027355e952",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-25T23:09:35.347Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-854354@football-watchlist",
@@ -18675,39 +18675,6 @@
       "sequence": 1
     },
     {
-      "uid": "mlb-852249@football-watchlist",
-      "gameId": "852249",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/139:11/141:11",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "141"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Tampa Bay Rays at Toronto Blue Jays [time TBA]",
-      "start": "2027-05-01",
-      "end": "2027-05-02",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852249",
-      "location": "Rogers Centre",
-      "url": "https://www.mlb.com/gameday/852249",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "e996a2307627a048d1077503b38608495951645fc3e4d478b71db9fffc8afd3f",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
       "uid": "soccer-401876230@football-watchlist",
       "gameId": "401876230",
       "soccerSeason": 2026,
@@ -18742,6 +18709,39 @@
       "sequence": 0
     },
     {
+      "uid": "mlb-852249@football-watchlist",
+      "gameId": "852249",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/139:11/141:11",
+      "mlbSeriesGameNumber": 2,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "139",
+        "141"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Tampa Bay Rays at Toronto Blue Jays",
+      "start": "2027-05-01T19:07:00.000Z",
+      "end": "2027-05-01T22:07:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852249",
+      "location": "Rogers Centre",
+      "url": "https://www.mlb.com/gameday/852249",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "5688652d3e0e06711aea5819f6a7338331cb633aea15b26a4e5f753d4c740c02",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-25T23:09:35.347Z",
+      "sequence": 1
+    },
+    {
       "uid": "mlb-854346@football-watchlist",
       "gameId": "854346",
       "mlbSeason": 2027,
@@ -18770,39 +18770,6 @@
         "New York Mets"
       ],
       "hash": "8ac292d4f437ff3ba047fb7657d41e85f98ee368ab8a62a9ce76e70f87f78a06",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-852248@football-watchlist",
-      "gameId": "852248",
-      "mlbSeason": 2027,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2027/R/139:11/141:11",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "141"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Tampa Bay Rays at Toronto Blue Jays [time TBA]",
-      "start": "2027-05-02",
-      "end": "2027-05-03",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852248",
-      "location": "Rogers Centre",
-      "url": "https://www.mlb.com/gameday/852248",
-      "status": "TENTATIVE",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "4644b71559f252c6721e62ec58fe6b17497fc0105ba8e5bfda96cdc994be4ee7",
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
@@ -18873,6 +18840,39 @@
       "created": "2026-10-26T10:06:06.544Z",
       "modified": "2026-10-26T10:06:06.544Z",
       "sequence": 0
+    },
+    {
+      "uid": "mlb-852248@football-watchlist",
+      "gameId": "852248",
+      "mlbSeason": 2027,
+      "mlbGameType": "R",
+      "mlbSeriesKey": "2027/R/139:11/141:11",
+      "mlbSeriesGameNumber": 3,
+      "mlbIfNecessary": false,
+      "mlbTeamIds": [
+        "139",
+        "141"
+      ],
+      "selectionReasons": [
+        "Following Tampa Bay Rays: every regular-season game."
+      ],
+      "title": "MLB: Tampa Bay Rays at Toronto Blue Jays",
+      "start": "2027-05-02T17:37:00.000Z",
+      "end": "2027-05-02T20:37:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852248",
+      "location": "Rogers Centre",
+      "url": "https://www.mlb.com/gameday/852248",
+      "status": "CONFIRMED",
+      "categories": [
+        "MLB",
+        "Followed team",
+        "Tampa Bay Rays"
+      ],
+      "hash": "68cc5d547312ad7080150ecbbe85e0a126d2af46f51cf05c560c17ce2251bcf6",
+      "created": "2026-10-26T10:06:06.544Z",
+      "modified": "2026-11-25T23:09:35.347Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852976@football-watchlist",
@@ -27465,23 +27465,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Tampa Bay Rays at Toronto Blue Jays [time TBA]",
-      "start": "2027-09-24",
-      "end": "2027-09-25",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852182",
+      "title": "MLB: Tampa Bay Rays at Toronto Blue Jays",
+      "start": "2027-09-24T23:07:00.000Z",
+      "end": "2027-09-25T02:07:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852182",
       "location": "Rogers Centre",
       "url": "https://www.mlb.com/gameday/852182",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "86278a63f543285b801ad7e3a8d0026c49611c9f836e179d2f37db07716ec44a",
+      "hash": "2007d1e5959fe7a1fe97a057051cfefed7f76eabeeb36373e37487782436edbe",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-25T23:09:35.347Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852986@football-watchlist",
@@ -27531,23 +27531,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Tampa Bay Rays at Toronto Blue Jays [time TBA]",
-      "start": "2027-09-25",
-      "end": "2027-09-26",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852183",
+      "title": "MLB: Tampa Bay Rays at Toronto Blue Jays",
+      "start": "2027-09-25T19:07:00.000Z",
+      "end": "2027-09-25T22:07:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852183",
       "location": "Rogers Centre",
       "url": "https://www.mlb.com/gameday/852183",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "339b173a8ffdbb4233294ae2039c5ccf0ce36cd9491b0e5652040f3045e1b0c3",
+      "hash": "e023c61934cebb94956850de0a4c4e7ab89ddac3c355f1da568cad4653290cce",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-25T23:09:35.347Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852993@football-watchlist",
@@ -27597,23 +27597,23 @@
       "selectionReasons": [
         "Following Tampa Bay Rays: every regular-season game."
       ],
-      "title": "MLB: Tampa Bay Rays at Toronto Blue Jays [time TBA]",
-      "start": "2027-09-26",
-      "end": "2027-09-27",
-      "allDay": true,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nFirst pitch has not been announced. This all-day marker will become a timed event when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852186",
+      "title": "MLB: Tampa Bay Rays at Toronto Blue Jays",
+      "start": "2027-09-26T19:07:00.000Z",
+      "end": "2027-09-26T22:07:00.000Z",
+      "allDay": false,
+      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nBroadcast to be announced.\n\nOfficial schedule: https://www.mlb.com/gameday/852186",
       "location": "Rogers Centre",
       "url": "https://www.mlb.com/gameday/852186",
-      "status": "TENTATIVE",
+      "status": "CONFIRMED",
       "categories": [
         "MLB",
         "Followed team",
         "Tampa Bay Rays"
       ],
-      "hash": "235e3d461d6e2481d67a47686fd19f2752f0649529ed0dfff3772f5ccb16615f",
+      "hash": "8a60e4a5aec9dfb8b5bdfa97509414fd6a994f8d11d3126d51db2aeedfcf66f8",
       "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
+      "modified": "2026-11-25T23:09:35.347Z",
+      "sequence": 1
     },
     {
       "uid": "mlb-852990@football-watchlist",

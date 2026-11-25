@@ -6068,51 +6068,46 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401915292@football-watchlist
-DTSTAMP:20261116T000134Z
+DTSTAMP:20261125T230935Z
 CREATED:20261116T000134Z
-LAST-MODIFIED:20261116T000134Z
-SEQUENCE:0
+LAST-MODIFIED:20261125T230935Z
+SEQUENCE:1
 DTSTART:20261125T200000Z
 DTEND:20261125T220000Z
-SUMMARY:Club Brugge vs Liverpool - UEFA Champions League [provisional]
+SUMMARY:Club Brugge vs Liverpool - UEFA Champions League
 DESCRIPTION:Champions League watchlist: league phase\; UEFA Champions Leagu
  e\, League Phase.\nBoth clubs are in the current top 12: Club Brugge #9\, 
  Liverpool #8.\n\nSelection made 2026-11-16. Table positions describe that 
- snapshot\, not predicted results. Picks are kept once added.\n\nProvisiona
- l source-listed date and kickoff. ESPN does not reliably distinguish TV-co
- nfirmed dates from provisional fixtures\; both may change. The calendar up
- dates when the schedule changes.\n\nViewing window: 2 hours\; finish is ap
- proximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/4019152
- 92
+ snapshot\, not predicted results. Picks are kept once added.\n\nKickoff sh
+ own in your calendar’s local time.\n\nViewing window: 2 hours\; finish i
+ s approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401
+ 915292
 LOCATION:Jan Breydel Stadium
 URL:https://www.espn.com/soccer/match/_/gameId/401915292
 CATEGORIES:Soccer,European pick,UEFA Champions League
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401915373@football-watchlist
-DTSTAMP:20261116T000134Z
+DTSTAMP:20261125T230935Z
 CREATED:20261116T000134Z
-LAST-MODIFIED:20261116T000134Z
-SEQUENCE:0
+LAST-MODIFIED:20261125T230935Z
+SEQUENCE:1
 DTSTART:20261125T200000Z
 DTEND:20261125T220000Z
-SUMMARY:Sporting CP vs Manchester United - UEFA Champions League [provision
- al]
+SUMMARY:Sporting CP vs Manchester United - UEFA Champions League
 DESCRIPTION:Champions League watchlist: league phase\; UEFA Champions Leagu
  e\, League Phase.\nChampions League table: Sporting CP #10\, Manchester Un
  ited #17.\nHigh-profile club matchup.\n\nSelection made 2026-11-16. Table 
  positions describe that snapshot\, not predicted results. Picks are kept o
- nce added.\n\nProvisional source-listed date and kickoff. ESPN does not re
- liably distinguish TV-confirmed dates from provisional fixtures\; both may
-  change. The calendar updates when the schedule changes.\n\nViewing window
- : 2 hours\; finish is approximate.\n\nSchedule: https://www.espn.com/socce
- r/match/_/gameId/401915373
+ nce added.\n\nKickoff shown in your calendar’s local time.\n\nViewing wi
+ ndow: 2 hours\; finish is approximate.\n\nSchedule: https://www.espn.com/s
+ occer/match/_/gameId/401915373
 LOCATION:Estádio José Alvalade
 URL:https://www.espn.com/soccer/match/_/gameId/401915373
 CATEGORIES:Soccer,European pick,UEFA Champions League
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -13387,22 +13382,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852252@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261125T230935Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270430
-DTEND;VALUE=DATE:20270501
-SUMMARY:MLB: Tampa Bay Rays at Toronto Blue Jays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852252
+LAST-MODIFIED:20261125T230935Z
+SEQUENCE:1
+DTSTART:20270430T230700Z
+DTEND:20270501T020700Z
+SUMMARY:MLB: Tampa Bay Rays at Toronto Blue Jays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852252
 LOCATION:Rogers Centre
 URL:https://www.mlb.com/gameday/852252
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-854354@football-watchlist
@@ -13446,25 +13440,6 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-852249@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270501
-DTEND;VALUE=DATE:20270502
-SUMMARY:MLB: Tampa Bay Rays at Toronto Blue Jays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852249
-LOCATION:Rogers Centre
-URL:https://www.mlb.com/gameday/852249
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:soccer-401876230@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -13484,6 +13459,24 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-852249@football-watchlist
+DTSTAMP:20261125T230935Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261125T230935Z
+SEQUENCE:1
+DTSTART:20270501T190700Z
+DTEND:20270501T220700Z
+SUMMARY:MLB: Tampa Bay Rays at Toronto Blue Jays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852249
+LOCATION:Rogers Centre
+URL:https://www.mlb.com/gameday/852249
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-854346@football-watchlist
 DTSTAMP:20261026T100606Z
 CREATED:20261026T100606Z
@@ -13500,25 +13493,6 @@ URL:https://www.mlb.com/gameday/854346
 CATEGORIES:MLB,Followed team,New York Mets
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-852248@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270502
-DTEND;VALUE=DATE:20270503
-SUMMARY:MLB: Tampa Bay Rays at Toronto Blue Jays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852248
-LOCATION:Rogers Centre
-URL:https://www.mlb.com/gameday/852248
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401875128@football-watchlist
@@ -13554,6 +13528,24 @@ DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing
 LOCATION:Truist Park
 URL:https://www.mlb.com/gameday/854345
 CATEGORIES:MLB,Followed team,New York Mets
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-852248@football-watchlist
+DTSTAMP:20261125T230935Z
+CREATED:20261026T100606Z
+LAST-MODIFIED:20261125T230935Z
+SEQUENCE:1
+DTSTART:20270502T173700Z
+DTEND:20270502T203700Z
+SUMMARY:MLB: Tampa Bay Rays at Toronto Blue Jays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852248
+LOCATION:Rogers Centre
+URL:https://www.mlb.com/gameday/852248
+CATEGORIES:MLB,Followed team,Tampa Bay Rays
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -18304,22 +18296,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852182@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261125T230935Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270924
-DTEND;VALUE=DATE:20270925
-SUMMARY:MLB: Tampa Bay Rays at Toronto Blue Jays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852182
+LAST-MODIFIED:20261125T230935Z
+SEQUENCE:1
+DTSTART:20270924T230700Z
+DTEND:20270925T020700Z
+SUMMARY:MLB: Tampa Bay Rays at Toronto Blue Jays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852182
 LOCATION:Rogers Centre
 URL:https://www.mlb.com/gameday/852182
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852986@football-watchlist
@@ -18341,22 +18332,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852183@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261125T230935Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270925
-DTEND;VALUE=DATE:20270926
-SUMMARY:MLB: Tampa Bay Rays at Toronto Blue Jays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852183
+LAST-MODIFIED:20261125T230935Z
+SEQUENCE:1
+DTSTART:20270925T190700Z
+DTEND:20270925T220700Z
+SUMMARY:MLB: Tampa Bay Rays at Toronto Blue Jays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852183
 LOCATION:Rogers Centre
 URL:https://www.mlb.com/gameday/852183
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852993@football-watchlist
@@ -18378,22 +18368,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852186@football-watchlist
-DTSTAMP:20261026T100606Z
+DTSTAMP:20261125T230935Z
 CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270926
-DTEND;VALUE=DATE:20270927
-SUMMARY:MLB: Tampa Bay Rays at Toronto Blue Jays [time TBA]
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nFirst p
- itch has not been announced. This all-day marker will become a timed event
-  when confirmed.\n\nBroadcast to be announced.\n\nOfficial schedule: https
- ://www.mlb.com/gameday/852186
+LAST-MODIFIED:20261125T230935Z
+SEQUENCE:1
+DTSTART:20270926T190700Z
+DTEND:20270926T220700Z
+SUMMARY:MLB: Tampa Bay Rays at Toronto Blue Jays
+DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
+  window: 3 hours\; finish is approximate.\n\nBroadcast to be announced.\n\
+ nOfficial schedule: https://www.mlb.com/gameday/852186
 LOCATION:Rogers Centre
 URL:https://www.mlb.com/gameday/852186
 CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-852990@football-watchlist
