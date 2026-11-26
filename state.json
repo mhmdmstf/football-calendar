@@ -7806,12 +7806,12 @@
         "Following Bayer Leverkusen: every competitive fixture."
       ],
       "soccerSelectedOn": "2026-11-14",
-      "title": "Dinamo Zagreb vs Bayer Leverkusen - UEFA Europa League [provisional]",
+      "title": "Dinamo Zagreb vs Bayer Leverkusen - UEFA Europa League",
       "start": "2026-11-26T17:45:00.000Z",
       "end": "2026-11-26T19:45:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915517",
+      "status": "CONFIRMED",
+      "description": "Following Bayer Leverkusen: every competitive fixture.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401915517",
       "location": "Maksimir Stadium",
       "url": "https://www.espn.com/soccer/match/_/gameId/401915517",
       "categories": [
@@ -7819,10 +7819,10 @@
         "Followed team",
         "UEFA Europa League"
       ],
-      "hash": "0f977d9dd15613a14abfac058fe091f78e0fa4f90ac45f853e971ff53938143c",
+      "hash": "490ea729c0d749f23df5f59840a294f1584b196261838a77bd2b43c2e9d47ada",
       "created": "2026-11-14T12:45:35.252Z",
-      "modified": "2026-11-14T12:45:35.252Z",
-      "sequence": 0
+      "modified": "2026-11-26T23:05:22.133Z",
+      "sequence": 1
     },
     {
       "uid": "nfl-401873081@football-watchlist",
@@ -7850,17 +7850,17 @@
       "start": "2026-11-26T21:30:00.000Z",
       "end": "2026-11-27T01:00:00.000Z",
       "allDay": false,
-      "description": "Thursday football, including Thanksgiving.\n\nTeams: Philadelphia Eagles at Dallas Cowboys\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873080/eagles-cowboys",
+      "description": "Thursday football, including Thanksgiving.\n\nTeams: Philadelphia Eagles at Dallas Cowboys\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873080",
       "location": "AT&T Stadium, Arlington, TX, USA",
-      "url": "https://www.espn.com/nfl/game/_/gameId/401873080/eagles-cowboys",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873080",
       "status": "CONFIRMED",
       "categories": [
         "NFL"
       ],
-      "hash": "91844c3a3d2c4cef0b4022df4cc7aeae003556e0a2d4e90b65eae58751a9e239",
+      "hash": "929663cc57913d1f5ca5ed9ddc250372147f8c6ad9696d190ce8e3fc4cb1531d",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-10-05T21:36:12.655Z",
-      "sequence": 2
+      "modified": "2026-11-26T23:05:22.133Z",
+      "sequence": 3
     },
     {
       "uid": "nfl-401873082@football-watchlist",

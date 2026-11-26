@@ -5879,24 +5879,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401915517@football-watchlist
-DTSTAMP:20261114T124535Z
+DTSTAMP:20261126T230522Z
 CREATED:20261114T124535Z
-LAST-MODIFIED:20261114T124535Z
-SEQUENCE:0
+LAST-MODIFIED:20261126T230522Z
+SEQUENCE:1
 DTSTART:20261126T174500Z
 DTEND:20261126T194500Z
-SUMMARY:Dinamo Zagreb vs Bayer Leverkusen - UEFA Europa League [provisional
- ]
-DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nProvi
- sional source-listed date and kickoff. ESPN does not reliably distinguish 
- TV-confirmed dates from provisional fixtures\; both may change. The calend
- ar updates when the schedule changes.\n\nViewing window: 2 hours\; finish 
- is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/40
- 1915517
+SUMMARY:Dinamo Zagreb vs Bayer Leverkusen - UEFA Europa League
+DESCRIPTION:Following Bayer Leverkusen: every competitive fixture.\n\nKicko
+ ff shown in your calendar’s local time.\n\nViewing window: 2 hours\; fin
+ ish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameI
+ d/401915517
 LOCATION:Maksimir Stadium
 URL:https://www.espn.com/soccer/match/_/gameId/401915517
 CATEGORIES:Soccer,Followed team,UEFA Europa League
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -5921,10 +5918,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401873080@football-watchlist
-DTSTAMP:20261005T213612Z
+DTSTAMP:20261126T230522Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20261005T213612Z
-SEQUENCE:2
+LAST-MODIFIED:20261126T230522Z
+SEQUENCE:3
 DTSTART:20261126T213000Z
 DTEND:20261127T010000Z
 SUMMARY:NFL: Philadelphia Eagles at Dallas Cowboys
@@ -5932,9 +5929,9 @@ DESCRIPTION:Thursday football\, including Thanksgiving.\n\nTeams: Philadelp
  hia Eagles at Dallas Cowboys\n\nUS broadcast: Fox. Availability elsewhere 
  varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish 
  is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873
- 080/eagles-cowboys
+ 080
 LOCATION:AT&T Stadium\, Arlington\, TX\, USA
-URL:https://www.espn.com/nfl/game/_/gameId/401873080/eagles-cowboys
+URL:https://www.espn.com/nfl/game/_/gameId/401873080
 CATEGORIES:NFL
 STATUS:CONFIRMED
 TRANSP:OPAQUE
