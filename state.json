@@ -1,350 +1,7 @@
 {
-  "checkedOn": "2026-11-25",
+  "checkedOn": "2026-11-26",
   "season": 2026,
   "events": [
-    {
-      "uid": "mlb-823248@football-watchlist",
-      "gameId": "823248",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/109:53/135:52",
-      "mlbSeriesGameNumber": 1,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "109",
-        "135"
-      ],
-      "selectionReasons": [
-        "Two teams with live postseason stakes meet directly.",
-        "Arizona Diamondbacks: 2 games behind the final wild-card spot.",
-        "San Diego Padres: already qualified; close records keep postseason home-field positioning in play.",
-        "Following San Diego Padres.",
-        "Standings snapshot: 2026-09-25."
-      ],
-      "title": "MLB: Arizona Diamondbacks at San Diego Padres",
-      "start": "2026-09-26T01:40:00.000Z",
-      "end": "2026-09-26T04:40:00.000Z",
-      "allDay": false,
-      "description": "Two teams with live postseason stakes meet directly.\nArizona Diamondbacks: 2 games behind the final wild-card spot.\nSan Diego Padres: already qualified; close records keep postseason home-field positioning in play.\nFollowing San Diego Padres.\nStandings snapshot: 2026-09-25.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Brandon Pfaadt / Casey Mize.\n\nListed broadcasts: Padres.TV Presented by UC San Diego Health / DBACKS.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823248",
-      "location": "Petco Park",
-      "url": "https://www.mlb.com/gameday/823248",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Pennant race",
-        "San Diego Padres"
-      ],
-      "hash": "f348b3ea260e011eddade951d9628bdbccd3b845a064f92bc62dfa140dbcc450",
-      "created": "2026-09-21T08:01:52.603Z",
-      "modified": "2026-09-25T23:20:50.299Z",
-      "sequence": 7
-    },
-    {
-      "uid": "show-gameday-2026-09-26@football-watchlist",
-      "title": "College GameDay: location TBA",
-      "start": "2026-09-26T13:00:00.000Z",
-      "end": "2026-09-26T16:00:00.000Z",
-      "allDay": false,
-      "status": "TENTATIVE",
-      "description": "Usual Saturday broadcast window: 9:00 a.m. to noon Eastern on ESPN. Location and this week's broadcast hours have not been confirmed. Tentative placeholder, subject to broadcast changes.\nSource: https://espnpressroom.com/?s=College+GameDay&feed=rss2",
-      "location": "",
-      "url": "https://espnpressroom.com/?s=College+GameDay&feed=rss2",
-      "categories": [
-        "College",
-        "Pregame"
-      ],
-      "hash": "f6fe05588b869a227417a763b175ec656a01b161f487a9d7ba209a7679949156",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
-    },
-    {
-      "uid": "show-bignoon-2026-09-26@football-watchlist",
-      "title": "Big Noon Kickoff: Ohio State vs. Illinois",
-      "gameId": "401858465",
-      "start": "2026-09-26T14:00:00.000Z",
-      "end": "2026-09-26T16:00:00.000Z",
-      "allDay": false,
-      "status": "CONFIRMED",
-      "description": "Big Noon Kickoff on FOX. Featured game: Ohio State vs. Illinois. Broadcast window: 10:00 a.m. to noon Eastern. Broadcast schedules can change.\nSource: https://www.foxsports.com/big-noon-kickoff-experience",
-      "location": "",
-      "url": "https://www.foxsports.com/big-noon-kickoff-experience",
-      "categories": [
-        "College",
-        "Pregame"
-      ],
-      "hash": "5e01153acdb642f89f20597b8c3572da8d67eea27ecd30eba0e2c12f32bdd616",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-22T18:09:18.369Z",
-      "sequence": 1
-    },
-    {
-      "uid": "college-football-401856704@football-watchlist",
-      "gameId": "401856704",
-      "title": "CFB: Texas at Tennessee",
-      "start": "2026-09-26T16:00:00.000Z",
-      "end": "2026-09-26T19:30:00.000Z",
-      "allDay": false,
-      "description": "National pick: ranked matchup (#5 vs #20) at selection.\n\nTeams: Texas Longhorns at Tennessee Volunteers\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856704/texas-tennessee",
-      "location": "Neyland Stadium, Knoxville, TN, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856704/texas-tennessee",
-      "status": "CONFIRMED",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#5 vs #20) at selection.",
-      "hash": "68bf402586ddd8bda9d7f59e21506dd31ea0a1615ff98d38b8af35fdb10aa1d2",
-      "created": "2026-09-05T22:05:29.344Z",
-      "modified": "2026-09-26T22:58:26.925Z",
-      "sequence": 3
-    },
-    {
-      "uid": "college-football-401858465@football-watchlist",
-      "gameId": "401858465",
-      "title": "CFB: Illinois at Ohio State",
-      "start": "2026-09-26T16:00:00.000Z",
-      "end": "2026-09-26T19:30:00.000Z",
-      "allDay": false,
-      "description": "Confirmed College GameDay or Big Noon featured matchup.\n\nTeams: Illinois Fighting Illini at Ohio State Buckeyes\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858465/illinois-ohio-state",
-      "location": "Ohio Stadium, Columbus, OH, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858465/illinois-ohio-state",
-      "status": "CONFIRMED",
-      "categories": [
-        "College"
-      ],
-      "hash": "ebf5c3c1904c4d5b82161b05ec29edb8cdd33309fe4fa35aee96c597fa2f01d5",
-      "created": "2026-09-22T18:09:18.369Z",
-      "modified": "2026-10-05T21:36:12.655Z",
-      "sequence": 3
-    },
-    {
-      "uid": "mlb-822678@football-watchlist",
-      "gameId": "822678",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/121:52/120:52",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "121",
-        "120"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: New York Mets at Washington Nationals",
-      "start": "2026-09-26T16:35:00.000Z",
-      "end": "2026-09-26T19:35:00.000Z",
-      "allDay": false,
-      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Jonah Tong / Connelly Early.\n\nListed broadcasts: SNY / Nationals.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822678",
-      "location": "Nationals Park",
-      "url": "https://www.mlb.com/gameday/822678",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "682643a16058152e219de525463ea39f84e7cf33dc6409c2c5263d22c9f7ad11",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401856699@football-watchlist",
-      "gameId": "401856699",
-      "title": "CFB: Ole Miss at Florida",
-      "start": "2026-09-26T19:30:00.000Z",
-      "end": "2026-09-26T23:00:00.000Z",
-      "allDay": false,
-      "description": "National pick: a ranked team in a potentially competitive game (market spread 1.5 points at selection). Upset possibility is an estimate.\n\nTeams: Ole Miss Rebels at Florida Gators\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856699/ole-miss-florida",
-      "location": "Ben Hill Griffin Stadium, Gainesville, FL, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856699/ole-miss-florida",
-      "status": "CONFIRMED",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: a ranked team in a potentially competitive game (market spread 1.5 points at selection). Upset possibility is an estimate.",
-      "hash": "4ca151ac032c14eab6c9026bc131dbc0d7caa8779e7fdcaba873584b8c38ec3d",
-      "created": "2026-09-16T23:01:50.656Z",
-      "modified": "2026-09-27T08:20:47.079Z",
-      "sequence": 3
-    },
-    {
-      "uid": "college-football-401856700@football-watchlist",
-      "gameId": "401856700",
-      "title": "CFB: Oklahoma at Georgia",
-      "start": "2026-09-26T19:30:00.000Z",
-      "end": "2026-09-26T23:00:00.000Z",
-      "allDay": false,
-      "description": "National pick: ranked matchup (#3 vs #10) at selection.\n\nTeams: Oklahoma Sooners at Georgia Bulldogs\n\nUS broadcast: ESPN / Disney+. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856700/oklahoma-georgia",
-      "location": "Sanford Stadium, Athens, GA, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856700/oklahoma-georgia",
-      "status": "CONFIRMED",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#3 vs #10) at selection.",
-      "hash": "a1983abf8e51b3e19a0ab28fa94d914e3fbc24e9992c380763bc2042a1d0f0f3",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-27T08:20:47.079Z",
-      "sequence": 6
-    },
-    {
-      "uid": "college-football-401858463@football-watchlist",
-      "gameId": "401858463",
-      "title": "CFB: Iowa at Michigan",
-      "start": "2026-09-26T19:30:00.000Z",
-      "end": "2026-09-26T23:00:00.000Z",
-      "allDay": false,
-      "description": "National pick: ranked matchup (#16 vs #22) at selection.\n\nTeams: Iowa Hawkeyes at Michigan Wolverines\n\nUS broadcast: CBS. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858463/iowa-michigan",
-      "location": "Michigan Stadium, Ann Arbor, MI, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858463/iowa-michigan",
-      "status": "CONFIRMED",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#16 vs #22) at selection.",
-      "hash": "e3f520182b673ad58d791f5df26e41ac0e24a30f8ee8584c63340f8604e78cd9",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-27T08:20:47.079Z",
-      "sequence": 4
-    },
-    {
-      "uid": "college-football-401856696@football-watchlist",
-      "gameId": "401856696",
-      "title": "CFB: South Carolina at Alabama",
-      "start": "2026-09-26T23:10:00.000Z",
-      "end": "2026-09-27T02:40:00.000Z",
-      "allDay": false,
-      "description": "Following Alabama: every game.\n\nTeams: South Carolina Gamecocks at Alabama Crimson Tide\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856696/south-carolina-alabama",
-      "location": "Bryant-Denny Stadium, Tuscaloosa, AL, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856696/south-carolina-alabama",
-      "status": "CONFIRMED",
-      "categories": [
-        "College",
-        "Alabama"
-      ],
-      "hash": "788778300d34f337ff4b93b49a719fe75bd80e748d02eeed4ef5d4c6d88dc1c3",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-26T22:58:26.925Z",
-      "sequence": 2
-    },
-    {
-      "uid": "mlb-824057@football-watchlist",
-      "gameId": "824057",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/114:52/118:52",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "114",
-        "118"
-      ],
-      "selectionReasons": [
-        "Cleveland Guardians: lead their division by 1 game.",
-        "Cleveland Guardians: already qualified; close records keep postseason home-field positioning in play.",
-        "Following Cleveland Guardians.",
-        "Standings snapshot: 2026-09-26."
-      ],
-      "title": "MLB: Cleveland Guardians at Kansas City Royals",
-      "start": "2026-09-26T23:10:00.000Z",
-      "end": "2026-09-27T02:10:00.000Z",
-      "allDay": false,
-      "description": "Cleveland Guardians: lead their division by 1 game.\nCleveland Guardians: already qualified; close records keep postseason home-field positioning in play.\nFollowing Cleveland Guardians.\nStandings snapshot: 2026-09-26.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Tanner Bibee / Michael Wacha.\n\nListed broadcasts: Guardians.TV Presented by Progressive / Royals.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/824057",
-      "location": "Kauffman Stadium",
-      "url": "https://www.mlb.com/gameday/824057",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Pennant race",
-        "Cleveland Guardians"
-      ],
-      "hash": "8e2b15988553746a10e9437775c1db392a9365792240220f3bbbf3dca2acdf5f",
-      "created": "2026-09-21T08:01:52.603Z",
-      "modified": "2026-09-26T07:50:51.012Z",
-      "sequence": 7
-    },
-    {
-      "uid": "mlb-823407@football-watchlist",
-      "gameId": "823407",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/139:52/143:52",
-      "mlbSeriesGameNumber": 2,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "143"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Tampa Bay Rays at Philadelphia Phillies",
-      "start": "2026-09-26T23:15:00.000Z",
-      "end": "2026-09-27T02:15:00.000Z",
-      "allDay": false,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Griffin Jax / Aaron Nola.\n\nListed broadcasts: FOX / FOX ONE. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823407",
-      "location": "Citizens Bank Park",
-      "url": "https://www.mlb.com/gameday/823407",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "7297953a77c44072c565933e23cb65f620caa818e62d2b3ae68701193243f8f3",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "college-football-401856702@football-watchlist",
-      "gameId": "401856702",
-      "title": "CFB: Texas A&M at LSU",
-      "start": "2026-09-26T23:30:00.000Z",
-      "end": "2026-09-27T03:00:00.000Z",
-      "allDay": false,
-      "description": "National pick: ranked matchup (#8 vs #11) at selection.\n\nTeams: Texas A&M Aggies at LSU Tigers\n\nUS broadcast: ABC / ERADM. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856702/texas-am-lsu",
-      "location": "Tiger Stadium (LA), Baton Rouge, LA, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856702/texas-am-lsu",
-      "status": "CONFIRMED",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#8 vs #11) at selection.",
-      "hash": "8d663300f32e5694b0d96a354ae0991337680449e2c062029972f1957b5a6e9d",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-24T13:36:50.351Z",
-      "sequence": 2
-    },
-    {
-      "uid": "college-football-401858469@football-watchlist",
-      "gameId": "401858469",
-      "title": "CFB: Oregon at USC",
-      "start": "2026-09-26T23:30:00.000Z",
-      "end": "2026-09-27T03:00:00.000Z",
-      "allDay": false,
-      "description": "National pick: ranked matchup (#2 vs #14) at selection.\n\nTeams: Oregon Ducks at USC Trojans\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401858469/oregon-usc",
-      "location": "Los Angeles Memorial Coliseum, Los Angeles, CA, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401858469/oregon-usc",
-      "status": "CONFIRMED",
-      "categories": [
-        "College",
-        "National pick"
-      ],
-      "selectionReason": "National pick: ranked matchup (#2 vs #14) at selection.",
-      "hash": "1d2d85ef5bcb3f7f8c197495e5d02048b1d29d083d6f208144a25e0e2c399aa6",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-15T07:52:18.364Z",
-      "sequence": 2
-    },
     {
       "uid": "redzone-2026-09-27@football-watchlist",
       "title": "NFL RedZone",
@@ -27652,7 +27309,7 @@
   "nflGames": 285,
   "collegeGames": 950,
   "baseball": {
-    "checkedOn": "2026-11-25",
+    "checkedOn": "2026-11-26",
     "season": 2026,
     "scheduleGames": 996,
     "followedRegularSeasons": {
@@ -27665,11 +27322,11 @@
         "139": 162
       }
     },
-    "events": 367,
+    "events": 363,
     "playoffEvents": 40
   },
   "hockey": {
-    "checkedOn": "2026-11-25",
+    "checkedOn": "2026-11-26",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -27686,7 +27343,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-11-25",
+    "checkedOn": "2026-11-26",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
@@ -27696,7 +27353,7 @@
     "events": 34
   },
   "soccer": {
-    "checkedOn": "2026-11-25",
+    "checkedOn": "2026-11-26",
     "season": 2026,
     "window": {
       "start": "2026-11-23",
