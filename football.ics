@@ -5900,25 +5900,23 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer-401876392@football-watchlist
-DTSTAMP:20261116T000134Z
+DTSTAMP:20261127T224634Z
 CREATED:20261116T000134Z
-LAST-MODIFIED:20261116T000134Z
-SEQUENCE:0
+LAST-MODIFIED:20261127T224634Z
+SEQUENCE:1
 DTSTART:20261127T194500Z
 DTEND:20261127T214500Z
-SUMMARY:Brest vs Paris FC - French Ligue 1 [provisional]
+SUMMARY:Brest vs Paris FC - French Ligue 1
 DESCRIPTION:A current top-three club faces a top-half opponent: Brest #9\, 
  Paris FC #3.\n\nSelection made 2026-11-16. Table positions describe that s
- napshot\, not predicted results. Picks are kept once added.\n\nProvisional
-  source-listed date and kickoff. ESPN does not reliably distinguish TV-con
- firmed dates from provisional fixtures\; both may change. The calendar upd
- ates when the schedule changes.\n\nViewing window: 2 hours\; finish is app
- roximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/40187639
- 2
+ napshot\, not predicted results. Picks are kept once added.\n\nKickoff sho
+ wn in your calendar’s local time.\n\nViewing window: 2 hours\; finish is
+  approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/4018
+ 76392
 LOCATION:Stade Francis-Le Blé
 URL:https://www.espn.com/soccer/match/_/gameId/401876392
 CATEGORIES:Soccer,European pick,French Ligue 1
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -5945,10 +5943,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401873083@football-watchlist
-DTSTAMP:20260905T145208Z
+DTSTAMP:20261127T224634Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:1
+LAST-MODIFIED:20261127T224634Z
+SEQUENCE:2
 DTSTART:20261127T200000Z
 DTEND:20261127T233000Z
 SUMMARY:NFL: Denver Broncos at Pittsburgh Steelers
@@ -5956,19 +5954,19 @@ DESCRIPTION:Standalone NFL game outside the regular Sunday afternoon slate.
  \n\nTeams: Denver Broncos at Pittsburgh Steelers\n\nUS broadcast: Prime Vi
  deo. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours 
  for championships)\; finish is approximate.\n\nSchedule: https://www.espn.
- com/nfl/game/_/gameId/401873083/broncos-steelers
+ com/nfl/game/_/gameId/401873083
 LOCATION:Acrisure Stadium\, Pittsburgh\, PA\, USA
-URL:https://www.espn.com/nfl/game/_/gameId/401873083/broncos-steelers
+URL:https://www.espn.com/nfl/game/_/gameId/401873083
 CATEGORIES:NFL
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856759@football-watchlist
-DTSTAMP:20260905T144637Z
+DTSTAMP:20261127T224634Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
+LAST-MODIFIED:20261127T224634Z
+SEQUENCE:1
 DTSTART:20261127T203000Z
 DTEND:20261128T000000Z
 SUMMARY:CFB: Florida at Florida State
@@ -5976,10 +5974,9 @@ DESCRIPTION:Major rivalry: Florida-Florida State.\n\nTeams: Florida Gators
  at Florida State Seminoles\n\nUS broadcast: ABC. Availability elsewhere va
  ries.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish is
   approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/ga
- meId/401856759/florida-florida-st
+ meId/401856759
 LOCATION:Doak Campbell Stadium\, Tallahassee\, FL\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856759/florida-f
- lorida-st
+URL:https://www.espn.com/college-football/game/_/gameId/401856759
 CATEGORIES:College
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -6883,19 +6880,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401869536@football-watchlist
-DTSTAMP:20260905T145457Z
+DTSTAMP:20261127T224634Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145457Z
-SEQUENCE:1
+LAST-MODIFIED:20261127T224634Z
+SEQUENCE:2
 DTSTART:20261205T170000Z
 DTEND:20261205T210000Z
-SUMMARY:CFB: TBD vs TBD
-DESCRIPTION:Conference championship.\n\nMAC Championship\n\nTeams: TBD at T
- BD\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window
- : 3.5 hours (4 hours for championships)\; finish is approximate.\n\nSchedu
- le: https://www.espn.com/college-football/game/_/gameId/401869536/tbd-tbd
+SUMMARY:CFB: Toledo vs Buffalo
+DESCRIPTION:Conference championship.\n\nMAC Championship\n\nTeams: Toledo R
+ ockets at Buffalo Bulls\n\nUS broadcast: ESPN. Availability elsewhere vari
+ es.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish is a
+ pproximate.\n\nSchedule: https://www.espn.com/college-football/game/_/game
+ Id/401869536/toledo-buffalo
 LOCATION:Ford Field\, Detroit\, MI\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401869536/tbd-tbd
+URL:https://www.espn.com/college-football/game/_/gameId/401869536/toledo-bu
+ ffalo
 CATEGORIES:College
 STATUS:CONFIRMED
 TRANSP:OPAQUE

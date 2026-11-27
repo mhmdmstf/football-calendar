@@ -7812,12 +7812,12 @@
         "A current top-three club faces a top-half opponent: Brest #9, Paris FC #3."
       ],
       "soccerSelectedOn": "2026-11-16",
-      "title": "Brest vs Paris FC - French Ligue 1 [provisional]",
+      "title": "Brest vs Paris FC - French Ligue 1",
       "start": "2026-11-27T19:45:00.000Z",
       "end": "2026-11-27T21:45:00.000Z",
       "allDay": false,
-      "status": "TENTATIVE",
-      "description": "A current top-three club faces a top-half opponent: Brest #9, Paris FC #3.\n\nSelection made 2026-11-16. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nProvisional source-listed date and kickoff. ESPN does not reliably distinguish TV-confirmed dates from provisional fixtures; both may change. The calendar updates when the schedule changes.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401876392",
+      "status": "CONFIRMED",
+      "description": "A current top-three club faces a top-half opponent: Brest #9, Paris FC #3.\n\nSelection made 2026-11-16. Table positions describe that snapshot, not predicted results. Picks are kept once added.\n\nKickoff shown in your calendar’s local time.\n\nViewing window: 2 hours; finish is approximate.\n\nSchedule: https://www.espn.com/soccer/match/_/gameId/401876392",
       "location": "Stade Francis-Le Blé",
       "url": "https://www.espn.com/soccer/match/_/gameId/401876392",
       "categories": [
@@ -7825,10 +7825,10 @@
         "European pick",
         "French Ligue 1"
       ],
-      "hash": "0bf1195a269efa57595f4330cce37fe70419ed4bfb57ec3360fd5f05037ba41a",
+      "hash": "e385e91c8193cc2bc3c6eb3337e2797aa757042add4c3cd3a41b95598fcbe847",
       "created": "2026-11-16T00:01:34.631Z",
-      "modified": "2026-11-16T00:01:34.631Z",
-      "sequence": 0
+      "modified": "2026-11-27T22:46:34.623Z",
+      "sequence": 1
     },
     {
       "uid": "chelsea-2645313@football-watchlist",
@@ -7861,17 +7861,17 @@
       "start": "2026-11-27T20:00:00.000Z",
       "end": "2026-11-27T23:30:00.000Z",
       "allDay": false,
-      "description": "Standalone NFL game outside the regular Sunday afternoon slate.\n\nTeams: Denver Broncos at Pittsburgh Steelers\n\nUS broadcast: Prime Video. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873083/broncos-steelers",
+      "description": "Standalone NFL game outside the regular Sunday afternoon slate.\n\nTeams: Denver Broncos at Pittsburgh Steelers\n\nUS broadcast: Prime Video. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873083",
       "location": "Acrisure Stadium, Pittsburgh, PA, USA",
-      "url": "https://www.espn.com/nfl/game/_/gameId/401873083/broncos-steelers",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873083",
       "status": "CONFIRMED",
       "categories": [
         "NFL"
       ],
-      "hash": "1c125582738bdf8a212079ff53ed33bf9577746e18b0f41159e4b53487182e3d",
+      "hash": "d4d2c11c7cee189fbd0ae73c948d38b98d39839765083c68375ec28812fb71c0",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:52:08.096Z",
-      "sequence": 1
+      "modified": "2026-11-27T22:46:34.623Z",
+      "sequence": 2
     },
     {
       "uid": "college-football-401856759@football-watchlist",
@@ -7880,17 +7880,17 @@
       "start": "2026-11-27T20:30:00.000Z",
       "end": "2026-11-28T00:00:00.000Z",
       "allDay": false,
-      "description": "Major rivalry: Florida-Florida State.\n\nTeams: Florida Gators at Florida State Seminoles\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856759/florida-florida-st",
+      "description": "Major rivalry: Florida-Florida State.\n\nTeams: Florida Gators at Florida State Seminoles\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401856759",
       "location": "Doak Campbell Stadium, Tallahassee, FL, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401856759/florida-florida-st",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401856759",
       "status": "CONFIRMED",
       "categories": [
         "College"
       ],
-      "hash": "7c4887cb873144ebb315cec9706fcb0f8ca3ae36b1f201e35626466752997087",
+      "hash": "b3f0002735eb3771e9bf73c4ca00d31902bd3bd023bd3a9b34afc85f6b5b8464",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
+      "modified": "2026-11-27T22:46:34.623Z",
+      "sequence": 1
     },
     {
       "uid": "nhl-2026020410@football-watchlist",
@@ -9028,21 +9028,21 @@
     {
       "uid": "college-football-401869536@football-watchlist",
       "gameId": "401869536",
-      "title": "CFB: TBD vs TBD",
+      "title": "CFB: Toledo vs Buffalo",
       "start": "2026-12-05T17:00:00.000Z",
       "end": "2026-12-05T21:00:00.000Z",
       "allDay": false,
-      "description": "Conference championship.\n\nMAC Championship\n\nTeams: TBD at TBD\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401869536/tbd-tbd",
+      "description": "Conference championship.\n\nMAC Championship\n\nTeams: Toledo Rockets at Buffalo Bulls\n\nUS broadcast: ESPN. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401869536/toledo-buffalo",
       "location": "Ford Field, Detroit, MI, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401869536/tbd-tbd",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401869536/toledo-buffalo",
       "status": "CONFIRMED",
       "categories": [
         "College"
       ],
-      "hash": "7c4c5ee4acc318a0324c814f2038d01ec277983c4b06500be52a5e5d305e56e3",
+      "hash": "8b6b63d564f2f94588f130a9735e7e2d318cdac26b7a328728f2173e43652760",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:54:57.145Z",
-      "sequence": 1
+      "modified": "2026-11-27T22:46:34.623Z",
+      "sequence": 2
     },
     {
       "uid": "soccer-401875023@football-watchlist",
