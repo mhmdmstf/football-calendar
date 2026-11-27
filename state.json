@@ -1,111 +1,7 @@
 {
-  "checkedOn": "2026-11-26",
+  "checkedOn": "2026-11-27",
   "season": 2026,
   "events": [
-    {
-      "uid": "redzone-2026-09-27@football-watchlist",
-      "title": "NFL RedZone",
-      "start": "2026-09-27T17:00:00.000Z",
-      "end": "2026-09-28T00:00:00.000Z",
-      "allDay": false,
-      "description": "Sunday afternoon NFL whip-around coverage. Seven-hour viewing block, 1-8 p.m. US Eastern; the actual finish depends on the late games. International and Sunday night games appear separately.",
-      "location": "NFL RedZone",
-      "url": "https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-RedZone",
-      "status": "CONFIRMED",
-      "categories": [
-        "NFL",
-        "RedZone"
-      ],
-      "hash": "e062aa44136c5663113ae422db82a3f20708b15bed0c7226ed6a9d76fa7d6ef3",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-05T14:46:37.855Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-822679@football-watchlist",
-      "gameId": "822679",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/121:52/120:52",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "121",
-        "120"
-      ],
-      "selectionReasons": [
-        "Following New York Mets: every regular-season game."
-      ],
-      "title": "MLB: New York Mets at Washington Nationals",
-      "start": "2026-09-27T17:05:00.000Z",
-      "end": "2026-09-27T20:05:00.000Z",
-      "allDay": false,
-      "description": "Following New York Mets: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Sean Manaea / DJ Herz.\n\nListed broadcasts: SNY / Nationals.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/822679",
-      "location": "Nationals Park",
-      "url": "https://www.mlb.com/gameday/822679",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "New York Mets"
-      ],
-      "hash": "51576564bc5a50ea17f53bbda2b4faf114d79e4f64661c93e7fc3bde0a604f0b",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "mlb-823408@football-watchlist",
-      "gameId": "823408",
-      "mlbSeason": 2026,
-      "mlbGameType": "R",
-      "mlbSeriesKey": "2026/R/139:52/143:52",
-      "mlbSeriesGameNumber": 3,
-      "mlbIfNecessary": false,
-      "mlbTeamIds": [
-        "139",
-        "143"
-      ],
-      "selectionReasons": [
-        "Following Tampa Bay Rays: every regular-season game."
-      ],
-      "title": "MLB: Tampa Bay Rays at Philadelphia Phillies",
-      "start": "2026-09-27T18:30:00.000Z",
-      "end": "2026-09-27T21:30:00.000Z",
-      "allDay": false,
-      "description": "Following Tampa Bay Rays: every regular-season game.\n\nViewing window: 3 hours; finish is approximate.\n\nProbable pitchers (subject to change): Nick Martinez / Zack Wheeler.\n\nListed broadcasts: NBCSP / Rays.TV. Availability varies by country and provider.\n\nOfficial schedule: https://www.mlb.com/gameday/823408",
-      "location": "Citizens Bank Park",
-      "url": "https://www.mlb.com/gameday/823408",
-      "status": "CONFIRMED",
-      "categories": [
-        "MLB",
-        "Followed team",
-        "Tampa Bay Rays"
-      ],
-      "hash": "60d802be0983160a095c5ec6771e5bd9f72a09b76f034b1e9d06290d846e3a22",
-      "created": "2026-10-26T10:06:06.544Z",
-      "modified": "2026-10-26T10:06:06.544Z",
-      "sequence": 0
-    },
-    {
-      "uid": "nfl-401872960@football-watchlist",
-      "gameId": "401872960",
-      "title": "NFL: Baltimore Ravens vs Dallas Cowboys",
-      "start": "2026-09-27T20:25:00.000Z",
-      "end": "2026-09-27T23:55:00.000Z",
-      "allDay": false,
-      "description": "International game: Brazil.\n\nNFL Rio Game\n\nTeams: Baltimore Ravens at Dallas Cowboys\n\nUS broadcast: CBS. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872960/ravens-cowboys",
-      "location": "Maracanã Stadium, Rio De Janeiro, Brazil",
-      "url": "https://www.espn.com/nfl/game/_/gameId/401872960/ravens-cowboys",
-      "status": "CONFIRMED",
-      "categories": [
-        "NFL"
-      ],
-      "hash": "91f75143679c987d00e9349217c5e84d5d81937ff7d57fc2cbb1fb4f54706d66",
-      "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-09-28T08:47:20.201Z",
-      "sequence": 4
-    },
     {
       "uid": "nfl-401872962@football-watchlist",
       "gameId": "401872962",
@@ -7850,17 +7746,17 @@
       "start": "2026-11-26T21:30:00.000Z",
       "end": "2026-11-27T01:00:00.000Z",
       "allDay": false,
-      "description": "Thursday football, including Thanksgiving.\n\nTeams: Philadelphia Eagles at Dallas Cowboys\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873080",
+      "description": "Thursday football, including Thanksgiving.\n\nTeams: Philadelphia Eagles at Dallas Cowboys\n\nUS broadcast: Fox. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873080/eagles-cowboys",
       "location": "AT&T Stadium, Arlington, TX, USA",
-      "url": "https://www.espn.com/nfl/game/_/gameId/401873080",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873080/eagles-cowboys",
       "status": "CONFIRMED",
       "categories": [
         "NFL"
       ],
-      "hash": "929663cc57913d1f5ca5ed9ddc250372147f8c6ad9696d190ce8e3fc4cb1531d",
+      "hash": "91844c3a3d2c4cef0b4022df4cc7aeae003556e0a2d4e90b65eae58751a9e239",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-11-26T23:05:22.133Z",
-      "sequence": 3
+      "modified": "2026-11-27T11:00:00.608Z",
+      "sequence": 4
     },
     {
       "uid": "nfl-401873082@football-watchlist",
@@ -8964,21 +8860,21 @@
     {
       "uid": "college-football-401869533@football-watchlist",
       "gameId": "401869533",
-      "title": "CFB: TBD vs TBD",
+      "title": "CFB: Texas Tech vs Utah",
       "start": "2026-12-05T01:00:00.000Z",
       "end": "2026-12-05T05:00:00.000Z",
       "allDay": false,
-      "description": "Conference championship.\n\nEdward Jones Big 12 Championship\n\nTeams: TBD at Utah\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401869533/tbd-tbd",
+      "description": "Conference championship.\n\nEdward Jones Big 12 Championship\n\nTeams: Texas Tech Red Raiders at Utah Utes\n\nUS broadcast: ABC. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for championships); finish is approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/401869533/texas-tech-utah",
       "location": "AT&T Stadium, Arlington, TX, USA",
-      "url": "https://www.espn.com/college-football/game/_/gameId/401869533/tbd-tbd",
+      "url": "https://www.espn.com/college-football/game/_/gameId/401869533/texas-tech-utah",
       "status": "CONFIRMED",
       "categories": [
         "College"
       ],
-      "hash": "d79cf28f0aca36a8baca22b93c8d595b53fe718425d25438a2a338d3b4bb9e02",
+      "hash": "479ef14ff40344125f455b36437e11a5a3f0d722d6e0c2da686094ec8a619623",
       "created": "2026-09-05T14:46:37.855Z",
-      "modified": "2026-11-22T09:55:36.511Z",
-      "sequence": 3
+      "modified": "2026-11-27T11:00:00.608Z",
+      "sequence": 4
     },
     {
       "uid": "college-football-401869542@football-watchlist",
@@ -27309,7 +27205,7 @@
   "nflGames": 285,
   "collegeGames": 950,
   "baseball": {
-    "checkedOn": "2026-11-26",
+    "checkedOn": "2026-11-27",
     "season": 2026,
     "scheduleGames": 996,
     "followedRegularSeasons": {
@@ -27322,11 +27218,11 @@
         "139": 162
       }
     },
-    "events": 363,
+    "events": 361,
     "playoffEvents": 40
   },
   "hockey": {
-    "checkedOn": "2026-11-26",
+    "checkedOn": "2026-11-27",
     "season": 20262027,
     "teams": {
       "CAR": {
@@ -27343,7 +27239,7 @@
     "events": 166
   },
   "chelsea": {
-    "checkedOn": "2026-11-26",
+    "checkedOn": "2026-11-27",
     "season": 2026,
     "competitions": {
       "club.friendly": 6,
@@ -27353,7 +27249,7 @@
     "events": 34
   },
   "soccer": {
-    "checkedOn": "2026-11-26",
+    "checkedOn": "2026-11-27",
     "season": 2026,
     "window": {
       "start": "2026-11-23",

@@ -8,85 +8,6 @@ X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:redzone-2026-09-27@football-watchlist
-DTSTAMP:20260905T144637Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T144637Z
-SEQUENCE:0
-DTSTART:20260927T170000Z
-DTEND:20260928T000000Z
-SUMMARY:NFL RedZone
-DESCRIPTION:Sunday afternoon NFL whip-around coverage. Seven-hour viewing b
- lock\, 1-8 p.m. US Eastern\; the actual finish depends on the late games. 
- International and Sunday night games appear separately.
-LOCATION:NFL RedZone
-URL:https://support.nfl.com/hc/en-us/articles/35869733293844-What-is-NFL-Re
- dZone
-CATEGORIES:NFL,RedZone
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-822679@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260927T170500Z
-DTEND:20260927T200500Z
-SUMMARY:MLB: New York Mets at Washington Nationals
-DESCRIPTION:Following New York Mets: every regular-season game.\n\nViewing 
- window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to 
- change): Sean Manaea / DJ Herz.\n\nListed broadcasts: SNY / Nationals.TV. 
- Availability varies by country and provider.\n\nOfficial schedule: https:/
- /www.mlb.com/gameday/822679
-LOCATION:Nationals Park
-URL:https://www.mlb.com/gameday/822679
-CATEGORIES:MLB,Followed team,New York Mets
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:mlb-823408@football-watchlist
-DTSTAMP:20261026T100606Z
-CREATED:20261026T100606Z
-LAST-MODIFIED:20261026T100606Z
-SEQUENCE:0
-DTSTART:20260927T183000Z
-DTEND:20260927T213000Z
-SUMMARY:MLB: Tampa Bay Rays at Philadelphia Phillies
-DESCRIPTION:Following Tampa Bay Rays: every regular-season game.\n\nViewing
-  window: 3 hours\; finish is approximate.\n\nProbable pitchers (subject to
-  change): Nick Martinez / Zack Wheeler.\n\nListed broadcasts: NBCSP / Rays
- .TV. Availability varies by country and provider.\n\nOfficial schedule: ht
- tps://www.mlb.com/gameday/823408
-LOCATION:Citizens Bank Park
-URL:https://www.mlb.com/gameday/823408
-CATEGORIES:MLB,Followed team,Tampa Bay Rays
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:nfl-401872960@football-watchlist
-DTSTAMP:20260928T084720Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260928T084720Z
-SEQUENCE:4
-DTSTART:20260927T202500Z
-DTEND:20260927T235500Z
-SUMMARY:NFL: Baltimore Ravens vs Dallas Cowboys
-DESCRIPTION:International game: Brazil.\n\nNFL Rio Game\n\nTeams: Baltimore
-  Ravens at Dallas Cowboys\n\nUS broadcast: CBS. Availability elsewhere var
- ies.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish is 
- approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401872960
- /ravens-cowboys
-LOCATION:Maracanã Stadium\, Rio De Janeiro\, Brazil
-URL:https://www.espn.com/nfl/game/_/gameId/401872960/ravens-cowboys
-CATEGORIES:NFL
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:nfl-401872962@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T144637Z
@@ -5918,10 +5839,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401873080@football-watchlist
-DTSTAMP:20261126T230522Z
+DTSTAMP:20261127T110000Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20261126T230522Z
-SEQUENCE:3
+LAST-MODIFIED:20261127T110000Z
+SEQUENCE:4
 DTSTART:20261126T213000Z
 DTEND:20261127T010000Z
 SUMMARY:NFL: Philadelphia Eagles at Dallas Cowboys
@@ -5929,9 +5850,9 @@ DESCRIPTION:Thursday football\, including Thanksgiving.\n\nTeams: Philadelp
  hia Eagles at Dallas Cowboys\n\nUS broadcast: Fox. Availability elsewhere 
  varies.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish 
  is approximate.\n\nSchedule: https://www.espn.com/nfl/game/_/gameId/401873
- 080
+ 080/eagles-cowboys
 LOCATION:AT&T Stadium\, Arlington\, TX\, USA
-URL:https://www.espn.com/nfl/game/_/gameId/401873080
+URL:https://www.espn.com/nfl/game/_/gameId/401873080/eagles-cowboys
 CATEGORIES:NFL
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -6815,20 +6736,21 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401869533@football-watchlist
-DTSTAMP:20261122T095536Z
+DTSTAMP:20261127T110000Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20261122T095536Z
-SEQUENCE:3
+LAST-MODIFIED:20261127T110000Z
+SEQUENCE:4
 DTSTART:20261205T010000Z
 DTEND:20261205T050000Z
-SUMMARY:CFB: TBD vs TBD
+SUMMARY:CFB: Texas Tech vs Utah
 DESCRIPTION:Conference championship.\n\nEdward Jones Big 12 Championship\n\
- nTeams: TBD at Utah\n\nUS broadcast: ABC. Availability elsewhere varies.\n
- \nViewing window: 3.5 hours (4 hours for championships)\; finish is approx
- imate.\n\nSchedule: https://www.espn.com/college-football/game/_/gameId/40
- 1869533/tbd-tbd
+ nTeams: Texas Tech Red Raiders at Utah Utes\n\nUS broadcast: ABC. Availabi
+ lity elsewhere varies.\n\nViewing window: 3.5 hours (4 hours for champions
+ hips)\; finish is approximate.\n\nSchedule: https://www.espn.com/college-f
+ ootball/game/_/gameId/401869533/texas-tech-utah
 LOCATION:AT&T Stadium\, Arlington\, TX\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401869533/tbd-tbd
+URL:https://www.espn.com/college-football/game/_/gameId/401869533/texas-tec
+ h-utah
 CATEGORIES:College
 STATUS:CONFIRMED
 TRANSP:OPAQUE
