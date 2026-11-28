@@ -8,25 +8,6 @@ X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:nfl-401872962@football-watchlist
-DTSTAMP:20260905T145208Z
-CREATED:20260905T144637Z
-LAST-MODIFIED:20260905T145208Z
-SEQUENCE:1
-DTSTART:20260928T002000Z
-DTEND:20260928T035000Z
-SUMMARY:NFL: Los Angeles Rams at Denver Broncos
-DESCRIPTION:Sunday Night Football.\n\nTeams: Los Angeles Rams at Denver Bro
- ncos\n\nUS broadcast: NBC. Availability elsewhere varies.\n\nViewing windo
- w: 3.5 hours (4 hours for championships)\; finish is approximate.\n\nSched
- ule: https://www.espn.com/nfl/game/_/gameId/401872962/rams-broncos
-LOCATION:Empower Field at Mile High\, Denver\, CO\, USA
-URL:https://www.espn.com/nfl/game/_/gameId/401872962/rams-broncos
-CATEGORIES:NFL
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:nfl-401872963@football-watchlist
 DTSTAMP:20260905T145208Z
 CREATED:20260905T144637Z
@@ -5943,10 +5924,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-401873083@football-watchlist
-DTSTAMP:20261127T224634Z
+DTSTAMP:20261128T103750Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20261127T224634Z
-SEQUENCE:2
+LAST-MODIFIED:20261128T103750Z
+SEQUENCE:3
 DTSTART:20261127T200000Z
 DTEND:20261127T233000Z
 SUMMARY:NFL: Denver Broncos at Pittsburgh Steelers
@@ -5954,19 +5935,19 @@ DESCRIPTION:Standalone NFL game outside the regular Sunday afternoon slate.
  \n\nTeams: Denver Broncos at Pittsburgh Steelers\n\nUS broadcast: Prime Vi
  deo. Availability elsewhere varies.\n\nViewing window: 3.5 hours (4 hours 
  for championships)\; finish is approximate.\n\nSchedule: https://www.espn.
- com/nfl/game/_/gameId/401873083
+ com/nfl/game/_/gameId/401873083/broncos-steelers
 LOCATION:Acrisure Stadium\, Pittsburgh\, PA\, USA
-URL:https://www.espn.com/nfl/game/_/gameId/401873083
+URL:https://www.espn.com/nfl/game/_/gameId/401873083/broncos-steelers
 CATEGORIES:NFL
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:college-football-401856759@football-watchlist
-DTSTAMP:20261127T224634Z
+DTSTAMP:20261128T103750Z
 CREATED:20260905T144637Z
-LAST-MODIFIED:20261127T224634Z
-SEQUENCE:1
+LAST-MODIFIED:20261128T103750Z
+SEQUENCE:2
 DTSTART:20261127T203000Z
 DTEND:20261128T000000Z
 SUMMARY:CFB: Florida at Florida State
@@ -5974,9 +5955,10 @@ DESCRIPTION:Major rivalry: Florida-Florida State.\n\nTeams: Florida Gators
  at Florida State Seminoles\n\nUS broadcast: ABC. Availability elsewhere va
  ries.\n\nViewing window: 3.5 hours (4 hours for championships)\; finish is
   approximate.\n\nSchedule: https://www.espn.com/college-football/game/_/ga
- meId/401856759
+ meId/401856759/florida-florida-st
 LOCATION:Doak Campbell Stadium\, Tallahassee\, FL\, USA
-URL:https://www.espn.com/college-football/game/_/gameId/401856759
+URL:https://www.espn.com/college-football/game/_/gameId/401856759/florida-f
+ lorida-st
 CATEGORIES:College
 STATUS:CONFIRMED
 TRANSP:OPAQUE
